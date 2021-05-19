@@ -204,7 +204,7 @@ sub resolve_refs {
     $line =~ s/(\w)$/$&./ if ($line =~ /^\s*Ant\./);
 
     #red prefix
-    if ($line =~ /^\s*(R\.br\.|R\.|V\.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
+    if ($line =~ /^\s*(R\.br\.|R\.|V\.|℟.|℣.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
       my $h = $1;
       my $l = $2;
 
