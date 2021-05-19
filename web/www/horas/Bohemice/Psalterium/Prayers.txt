@@ -46,7 +46,7 @@ v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému
 @:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Benediktovi/g @:Confiteor:s/Pavla/Pavla, našeho svatého Otce Benedikta/g
 
 [ConfiteorCist]
-@:Confiteor:s/Pavlovi/Pavla, našeho svatého Otce Bernarda/g
+@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Bernardovi/g @:Confiteor:s/Pavla/Pavla, našeho svatého Otce Bernarda/g
 
 [Misereatur]
 v. Smiluj se nad námi, všemohoucí Bože, odpusť nám naše hříchy, a doveď nás do života věčného. Amen.
