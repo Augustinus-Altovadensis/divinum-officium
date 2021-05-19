@@ -11,9 +11,11 @@ v. Zdrávas, Maria, milosti plná, Pán s tebou; požehnaná ty mezi ženami a p
 Svatá Maria, Matko Boží, pros za nás hříšné nyní i v hodinu smrti naší. Amen.
 
 [Credo]
-v. I believe in God, the Father almighty, Creator of heaven and earth. 
-And in Jesus Christ, his only Son, our Lord; who was conceived by the  Holy Ghost, born of the Virgin Mary, suffered under Pontius Pilate, was  crucified, died and was buried: he descended into hell; the third day  he arose again from the dead; he ascended into heaven; sitteth at the right hand of God the Father almighty: from thence he shall come to judge  the living and the dead. 
-I believe in the Holy Ghost, the holy catholic Church, the communion of Saints, the forgiveness of sins. The  resurrection of the body. And life everlasting. Amen.
+v. Věřím v jednoho Boha, Otce všemohoucího, Stvořitele nebe i země, všeho viditelného i neviditelného.
+Věřím v jednoho Pána Ježíše Krista, jednorozeného Syna Božího, který se zrodil z Otce přede všemi věky: Bůh z Boha, Světlo ze Světla, pravý Bůh z pravého Boha, zrozený, nestvořený, jedné podstaty s Otcem, skrze něhož všechno je stvořeno. On pro nás lidi a pro naši spásu sestoupil s nebe, skrze Ducha svatého přijal tělo z Marie Panny a stal se člověkem. Byl za nás ukřižován, za dnů Pontia Piláta, byl umučen a pohřben. Třetího dne vstal z mrtvých podle Písma. Vstoupil do nebe, sedí po pravici Otce. A znovu přijde, ve slávě, soudit živé i mrtvé a jeho království bude bez konce.
+Věřím v Ducha Svatého, Pána a Dárce života, který z Otce i Syna vychází, s Otcem i Synem je zároveň uctíván a oslavován, a mluvil ústy proroků.
+Věřím v jednu, svatou, všeobecnou, apoštolskou Církev. Vyznávám jeden křest na odpuštění hříchů, očekávám vzkříšení mrtvých a život budoucího věku. 
+Amen.
 
 [Gloria]
 ℣. Sláva Otci, i Synu, * i Duchu svatému.
@@ -38,13 +40,13 @@ v. Chvála tobě, Pane, králi věčné slávy.
 /:skip second 'O Lord, hear my prayer':/
 
 [Confiteor]
-v. I confess to almighty God, to blessed Mary ever Virgin, to blessed Michael the Archangel, to blessed John the Baptist, to the holy Apostles Peter and Paul, and to all the Saints, that I have sinned exceedingly in thought, word and deed: /:strikes his breast:/ through my fault, through my fault, through my most grievous fault. Therefore I beseech blessed Mary ever Virgin, blessed Michael the Archangel, blessed John the Baptist, the holy Apostles Peter and Paul, and all the Saints, to pray for me to the Lord our God. 
+v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému Michaelu Archandělovi, svatému Janu Křtiteli, svatým Apoštolům Petrovi a Pavlovi, a všem svatým, že často hřeším myšlením, slovy a skutky: /:bije se v prsa:/ je to má vina, má vina, má veliká vina. Proto prosím blahoslavenou Marii vždy Pannu, svatého Michaela Archanděla, svatého Jana Křtitele, svaté Apoštoly Petra a Pavla, a všechny Svaté, abyste se za mě u Boha přimlouvali. 
 
 [ConfiteorM]
-@:Confiteor:s/Paul/Paul, our holy Father Benedict/g
+@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Benediktovi/g @:Confiteor:s/Pavla/Pavla, našeho svatého Otce Benedikta/g
 
-[ConfiteorC]
-@:Confiteor:s/Paul/Paul, our holy Father Benedict/g
+[ConfiteorCist]
+@:Confiteor:s/Pavlovi/Pavla, našeho svatého Otce Bernarda/g
 
 [Misereatur]
 v. Smiluj se nad námi, všemohoucí Bože, odpusť nám naše hříchy, a doveď nás do života věčného. Amen.
