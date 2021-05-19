@@ -52,7 +52,7 @@ v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému
 v. Smiluj se nad námi, všemohoucí Bože, odpusť nám naše hříchy, a doveď nás do života věčného. Amen.
 
 [Indulgentiam]
-v. May the almighty + and merciful Lord grant us pardon, absolution and remission of our sins. Amen.
+v. Prominutí + rozhřešení a odpuštění hříchů našich nechť udělí nám všemohoucí a milosrdný Hospodin.
 
 [Domine labia]
 ℣. Pane, ++ rty mé otevři.
@@ -86,23 +86,23 @@ v. May the almighty + and merciful Lord grant us pardon, absolution and remissio
 ℟. Amen.
 
 [Per Dominum]
-℟. Through Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the Holy Ghost, God, world without end.
+℟. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 ℟. Amen.
 
 [Per Dominum eiusdem]
-r. Through Jesus Christ, thy Son our Lord, Who liveth and reigneth with thee, in the unity of the same Holy Ghost, God, world without end.
+r. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě téhož Ducha Svatého Bůh, po všecky věky věkův.
 ℟. Amen.
 
 [Qui cum Patre]
-r. Who liveth and reigneth with the Father and the Holy Ghost, God, for ever and ever. 
+r. Jenž s Otcem a Duchem Svatým žiješ a kraluješ Bůh, po všecky věky věkův. 
 ℟. Amen.
 
 [Per eumdem]
-r. Through the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end. 
+r. Skrze téhož našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 ℟. Amen.
 
 [Per eundem]
-r. Through the same Jesus Christ, thy Son, Our Lord, Who liveth and reigneth with thee in the unity of the Holy Ghost, God, world without end. 
+r. Skrze téhož našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 ℟. Amen.
 
 [Qui vivis]
@@ -176,7 +176,7 @@ r. Our Father
 r. Hail Mary
 
 [Conclmart]
-℣. And elsewhere many other holy martyrs, confessors, and holy virgins.
+℣. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen.
 $Deo gratias.
 
 [DefunctV]
