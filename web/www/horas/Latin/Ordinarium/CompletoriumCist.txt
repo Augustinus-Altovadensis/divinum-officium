@@ -1,5 +1,5 @@
 #Incipit
-V. Iube, domne, benedícere.
+V. Jube, domne, benedícere.
 Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípotens. Amen.
 
 #Lectio brevis
@@ -12,7 +12,7 @@ R. Qui fecit cælum et terram.
 _
 !Examen conscientiæ vel Pater Noster totum secreto.
 $Pater noster
-$ConfiteorM
+$ConfiteorCist
 $Misereatur
 $Indulgentiam
 
@@ -40,7 +40,7 @@ Hostémque nóstrum cómprime,
 Ne polluántur córpora.
 _
 * Præsta, Pater omnípotens,
-Per Iesum Christum Dóminum,
+Per Jesum Christum Dóminum,
 Qui tecum in perpétuum
 Regnat cum Sancto Spíritu.
 Amen.

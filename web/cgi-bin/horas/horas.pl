@@ -1234,6 +1234,7 @@ sub getordinarium {
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
   elsif ($version =~ /trident/i && $hora =~ /(laudes|vespera)/i) { $suffix .= "Trid"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
+  elsif ($version =~ /Ordo Cisterciensis/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
 

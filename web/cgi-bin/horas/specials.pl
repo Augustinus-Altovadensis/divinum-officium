@@ -231,7 +231,7 @@ sub specials {
 
     if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
       $tind--;
-      if ($version =~ /Monastic/i) {
+      if ($version =~ /Monastic|Cisterciensis/i) {
         while ($t[$tind] !~ /^\s*V\./) { push(@s, $t[$tind++]); }
       }
       else {
@@ -247,7 +247,7 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /(Tertia|Sexta|Nona)/i) {
       my %capit = %{setupstring($datafolder, $lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
-      $name .= 'M' if ($version =~ /monastic/i);
+      $name .= 'M' if ($version =~ /monastic|Cisterciensis/i);
       my $capit = $capit{$name};
       my $resp = '';
 
@@ -271,7 +271,7 @@ sub specials {
         if ($wr) { $w .= "\n_\n$wr"; }
       }
 
-      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\nV\. /)) {
+      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/Cisterciensis/i && $w =~ /\_\nV\. /)) {
         $w =~ s/\s*//;
         $w .= "\n_\n$resp";
       }
@@ -285,7 +285,7 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /(Laudes|Vespera)/i) {
       my %capit = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};
       my $name = major_getname(1);
-      if ($version =~ /monastic/i) { $name =~ s/Day[1-5]M/DayFM/i; }
+      if ($version =~ /monastic|Cisterciensis/i) { $name =~ s/Day[1-5]M/DayFM/i; }
       my $capit = $capit{$name};
       my $name = major_getname();
       my $hymn = '';
@@ -304,7 +304,7 @@ sub specials {
           $name = 'Day0 Laudes2';
         }
 
-        if ($version =~ /(Monastic|1570)/i && exists($capit{"HymnusM $name"})) {
+        if ($version =~ /(Monastic|Cisterciensis|1570)/i && exists($capit{"HymnusM $name"})) {
           $hymn = $capit{"HymnusM $name"};
         } else {
           $hymn = $capit{"Hymnus $name"};
