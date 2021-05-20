@@ -1,5 +1,5 @@
 #Incipit
-V. Jube, domne, benedícere.
+℣. Jube, domne, benedícere.
 Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípotens. Amen.
 
 #Lectio brevis
@@ -7,20 +7,12 @@ Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípo
 v. Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide.
 $Tu autem
 
-V. Adjutórium nóstrum + in nómine Dómini.
-R. Qui fecit cælum et terram.
+℣. Adjutórium nóstrum in nómine Dómini.
+℟. Qui fecit cælum et terram.
 _
-!Examen conscientiæ vel Pater Noster totum secreto.
-$Pater noster
-$ConfiteorCist
-$Misereatur
-$Indulgentiam
 
-V. Convérte nos +++ Deus, salutáris noster.
-R. Et avérte iram tuam a nobis.
 $Deus in adjutorium
 &Gloria
-&Alleluia
 
 &psalm(4)
 
@@ -48,10 +40,10 @@ Amen.
 #Capitulum Responsorium Versus
 !Jer 14:9
 v. Tu autem in nobis es, Dómine, et nomen sanctum tuum invocátum est super nos: ne derelínquas nos, Dómine, Deus noster.
-R. Deo grátias.
+℟. Deo grátias.
 _
 V. Custódi nos, Dómine, ut pupíllam óculi.
-R. Sub umbra alárum tuárum prótege nos.
+℟. Sub umbra alárum tuárum prótege nos.
 _
 v. Kyrie eléison. Christe, eléison. Kyrie, eléison.
 &pater_noster
@@ -66,7 +58,35 @@ $Per Dominum
 &Dominus_vobiscum
 &Benedicamus_Domino
 Benedictio. Benedícat et custódiat nos omnípotens et miséricors Dóminus, + Pater, et Fílius, et Spíritus Sanctus.
-R. Amen.
+℟. Amen.
+
+!Postea dicitur Completorium B. Mariae.
+v. Compléti sunt dies Maríae, ut páreret Fílium suum primogénitum.
 _
-&antiphona_finalis
-&Divinum_auxilium
+℣. Ecce ancílla Dómini.
+℟. Fiat mihi secúndum verbum tuum.
+$Oremus
+v. Concéde, miséricors Deus, fragilitáti nostrae praesídium, ut, qui sanctae Dei Genitrícis memóriam ágimus, intercessiónis ejus auxílio a nostris iniquitátibus resurgámus. 
+$Per eumdem
+
+!Quo finito per totum annum, excepta Feria v. et vj. majoris hebdomadae, cantatur solemniter
+{:S-SalveRegina:}v. Salve, Regína, mater misericórdiæ; 
+vita, dulcédo et spes nóstra, salve. 
+Ad te clamámus éxsules fílii Hevæ. 
+Ad te suspirámus geméntes et flentes 
+In hac lacrimárum valle.
+_ 
+Eja ergo, advocáta nostra, 
+illos tuos misericórdes óculos ad nos convérte. 
+Et Jesum, benedíctum fructum ventris tui, 
+nobis post hoc exsílium osténde. 
+O clemens, o pia, o dulcis Virgo María.
+_
+℣. {::}Ave María, grátia plena.
+℟. Dóminus tecum.
+v. Orémus. 	
+v. Omnípotens sempitérne Deus, qui gloriósæ Vírginis Matris Maríæ corpus et ánimam, ut dignum Fílii tui habitáculum éffici mererétur, Spíritu Sancto cooperánte, præparásti: da, ut, cujus commemoratióne lætámur, ejus pia intercessióne, ab instántibus malis et a morte perpétua liberémur. Per eúndem Christum Dóminum nóstrum. Amen.
+_
+
+&Divinum_auxilium_cist
+$Fidelium animae

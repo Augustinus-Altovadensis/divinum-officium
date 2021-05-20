@@ -188,6 +188,7 @@ sub getrank {
   our $hymncontract = 0;
   my $kalendarname =
       ($version =~ /Monastic/i) ? 'M'
+    : ($version =~ /Cisterciensis/i) ? 'M'
     : ($version =~ /1570/) ? 1570
     : ($version =~ /Trident/i) ? 1888
     : ($version =~ /Divino/i) ? '1954'
@@ -215,6 +216,7 @@ sub getrank {
     : ($version =~ /Divino/i) ? 'DA'
     : ($version =~ /(1955|1960)/) ? '1960'
     : ($version =~ /monastic/i) ? 'M'
+    : ($version =~ /Cisterciensis/i) ? 'M'
     : ($version =~ /1570/) ? '1570'
     : ($version =~ /1910/) ? 1910
     : '1960';
@@ -401,13 +403,13 @@ sub getrank {
     @srank = undef;
   }
   if ($trank[2] == 7 && $srank[2] < 6) { $srank = ''; @srank = undef; }
-  if ($version =~ /(1955|1960|Monastic)/i && $trank[2] >= 6 && $srank[2] < 6) { $srank = ''; @srank = undef; }
+  if ($version =~ /(1955|1960|Monastic|Cisterciensis)/i && $trank[2] >= 6 && $srank[2] < 6) { $srank = ''; @srank = undef; }
 
   if ($version =~ /1955/ && $srank[2] == 2 && $srank[1] =~ /Semiduplex/i) {
     $srank[2] = 1.5;
   }    #1955: semiduplex reduced to simplex
 
-  if ( $version =~ /1960|Monastic/i
+  if ( $version =~ /1960|Monastic|Cisterciensis/i
     && $srank[2] < 2
     && $srank[1] =~ /Simplex/i
     && $testmode =~ /seasonal/i
@@ -473,7 +475,7 @@ sub getrank {
     # Restrict I. Vespers in 1955/1960. In particular, in 1960, II. cl.
     # feasts have I. Vespers if and only if they're feasts of the Lord.
     if ( ($version =~ /1955/ && $crank[2] < 5)
-      || ($version =~ /1960|Newcal|Monastic/i && $crank[2] < (($csaint{Rule} =~ /Festum Domini/i && $dayofweek == 6) ? 5 : 6)))
+      || ($version =~ /1960|Newcal|Monastic|Cisterciensis/i && $crank[2] < (($csaint{Rule} =~ /Festum Domini/i && $dayofweek == 6) ? 5 : 6)))
     {
       $crank = '';
       @crank = ();
@@ -484,7 +486,7 @@ sub getrank {
       $crank[2] = 7;
       $crank =~ s/;;[0-9]/;;7/;
       $srank = '';
-    } elsif (($version !~ /1960|Newcal|Monastic/ || $dayofweek == 6)
+    } elsif (($version !~ /1960|Newcal|Monastic|Cisterciensis/ || $dayofweek == 6)
       && $hora =~ /(Vespera|Completorium)/i
       && $month == 11
       && $srank =~ /Omnium Fidelium defunctorum/i
@@ -623,7 +625,7 @@ sub getrank {
   # Dispose of some cases in which the office can't be sanctoral:
   # if we have no sanctoral office, or it was reduced to a
   # commemoration by Cum nostra.
-  if (!$srank[2] || ($version =~ /(1955|1960|Monastic|Newcal)/i && $srank[2] <= 1.1)) {
+  if (!$srank[2] || ($version =~ /(1955|1960|Monastic|Cisterciensis|Newcal)/i && $srank[2] <= 1.1)) {
 
     # Office is temporal; flag is correct.
   }
@@ -719,7 +721,7 @@ sub getrank {
       }
       $commemoratio = $tname;
 
-      if ($cname && $version !~ /1960|Newcal|Monastic/) {
+      if ($cname && $version !~ /1960|Newcal|Monastic|Cisterciensis/) {
         { $commemoratio1 = $cname; }    #{$commemoratio = $cname; $commemoratio1 = $tname;}
       }
       $comrank = $trank[2];
@@ -756,7 +758,7 @@ sub getrank {
     }
   } else {    #winner is de tempora
     if (
-         $version !~ /Monastic/i
+         $version !~ /Monastic|Cisterciensis/i
       && $dayname[0] !~ /(Adv|Quad[0-6])/i
       && $srank[2] < 2
       && $trank[2] < 2
@@ -799,7 +801,7 @@ sub getrank {
       if ($name =~ /^C[0-9]/i) { $name = "$communename/$name"; }
       if ($name !~ /(Sancti|Commune|Tempora)/i) { $name = "$temporaname/$name"; }
       $commune = "$name.txt";
-      if ($version =~ /trident/i && $version !~ /monastic/i) { $communetype = 'ex'; }
+      if ($version =~ /trident/i && $version !~ /monastic|Cisterciensis/i) { $communetype = 'ex'; }
     }
     if ($version =~ /1960/ && $vespera == 1 && $rank >= 6 && $comrank < 5) { $commemoratio = ''; $srank[2] = 0; }
 
@@ -831,7 +833,7 @@ sub getrank {
           $dayname[2] = "$comm$laudesonly: $srank[0]";
           $marian_commem = ($srank[3] =~ /C1[0-9]/);
         }
-        if ($version =~ /(monastic|1960)/i && $dayname[2] =~ /Januarii/i) { $dayname[2] = ''; }
+        if ($version =~ /(monastic|Cisterciensis|1960)/i && $dayname[2] =~ /Januarii/i) { $dayname[2] = ''; }
 
         if (($climit1960 > 1 && ($hora =~ /laudes/i || $missa)) || $climit1960 < 2) {
           $commemoratio = $sname;
@@ -1084,7 +1086,7 @@ sub precedence {
     $rule = $winner{Rule};
   }
 
-  if ( $version !~ /(1960|Newcal|monastic)/i
+  if ( $version !~ /(1960|Newcal|monastic|Cisterciensis)/i
     && exists($winner{'Oratio Vigilia'})
     && $dayofweek != 0
     && $hora =~ /Laudes/i)
@@ -1115,7 +1117,7 @@ sub precedence {
       %commemoratio = undef;
       $dayname[2] = '';
     }
-    if ($version =~ /Monastic|1960|Newcal/ && $commemoratio =~ /06-28r?/i && $dayofweek == 0) {
+    if ($version =~ /Monastic|Cisterciensis|1960|Newcal/ && $commemoratio =~ /06-28r?/i && $dayofweek == 0) {
       $commemoratio = '';
       %commemoratio = undef;
       $dayname[2] = '';
@@ -1381,7 +1383,7 @@ sub monthday {
   # Special handling for October with the 1960 rubrics: the III. week vanishes
   # in years when its Sunday would otherwise fall on the 18th-21st (i.e. when
   # the first Sunday in October falls on 4th-7th).
-  $weeks++ if ($m == 11 && $version =~ /1960|Monastic/i && $weeks >= 2 && (days_to_date($ftime[11 - 9]))[3] >= 4);
+  $weeks++ if ($m == 11 && $version =~ /1960|Monastic|Cisterciensis/i && $weeks >= 2 && (days_to_date($ftime[11 - 9]))[3] >= 4);
 
   # Special handling for November: the II. week vanishes most years (and always
   # with the 1960 rubrics). Achieve this by counting backwards from Advent.
@@ -1391,7 +1393,7 @@ sub monthday {
     my $advent1 = getadvent($year);
     my $wdist = floor(($advent1 - $t - 1) / 7);
     $weeks = 4 - $wdist;
-    if ($version =~ /1960|Monastic/ && $weeks == 1) { $weeks = 0; }
+    if ($version =~ /1960|Monastic|Cisterciensis/ && $weeks == 1) { $weeks = 0; }
   }
   my $monthday = sprintf('%02i%01i-%01i', $m - 1, $weeks + 1, $dow);
   return $monthday;
@@ -1495,7 +1497,7 @@ sub transfered {
 sub climit1960 {
   my $c = shift;
   if (!$c) { return 0; }
-  if ($version !~ /1960|Monastic/i || $c !~ /sancti/i) { return 1; }
+  if ($version !~ /1960|Monastic|Cisterciensis/i || $c !~ /sancti/i) { return 1; }
 
   # Subsume commemoration in special case 7-16 with Common 10 (BVM in Sabbato)
   return 0 if $c =~ /7-16/ && $winner =~ /C10/;

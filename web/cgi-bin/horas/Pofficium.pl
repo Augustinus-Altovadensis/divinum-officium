@@ -310,7 +310,7 @@ PrintTag
 PrintTag
   }
   @chv = splice(@chv, @chv);
-  if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic'); }
+  if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic','Cisterciensis'); }
   for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'red' : 'blue'; }
   my $vsize = @versions;
   print "<TABLE ALIGN=CENTER BORDER=1><TR><TD ALIGN=CENTER>\n";
