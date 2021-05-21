@@ -1,0 +1,94 @@
+#Incipit
+℣. Uděl nám, Pane, požehnání.
+Benedictio. Klidnou noc a dokonalý konec ať nám udělí všemohoucí Hospodin. Amen.
+
+#Lectio brevis
+!1 Pet 5:8-9
+v. Bratři, buďte střízliví a bděte, neboť váš protivník, ďábel,~ 
+obchází jako lev řvoucí a hledá, koho by pohltil.~
+Jemu se braňte, jsouce silní ve víře!
+$Tu autem
+
+℣. Naše pomoc ve jménu Páně.
+℟. Který stvořil nebe a zemi.
+_
+
+$Deus in adjutorium
+&Gloria
+
+&psalm(4)
+
+&psalm(90)
+
+&psalm(133)
+
+#Hymnus {:H-Completorium:}
+v. Na konci dne tě prosíme,
+ty, jenž vše tvoříš, laskavý,
+ať i dnes, jako obvykle,
+nás tvoje ruka ochrání.
+_
+Ať daleko sny ustoupí
+i hrozné noci přeludy,
+když nepřítele zaženeš,
+aby těla neposkvrnil.
+_
+* Dopřej nám, oč tě žádáme,
+Bože, Otče všemohoucí,
+jenž s Kristem i Duchem svatým
+vládneš vždy, na věčné věky.  
+Amen.
+
+#Capitulum Responsory Versus
+!Jer 14:9
+v. Ty jsi, Hospodine, uprostřed nás a nazývají nás tvým jménem. Nezříkej se nás, Pane náš Bože!
+℟. Bohu díky
+_
+V. Střez nás, Hospodine, jako zřítelnici svého oka.
+℟. Ve stínu tvých křídel nás ochraňuj.
+_
+v. Pane, smiluj se. Kriste, smiluj se. Pane, smiluj se.
+&pater_noster
+
+#Oratio
+&Dominus_vobiscum
+$Oremus
+v. Navštiv, Pane, prosíme tě, tento příbytek, a veškeré úklady nepřítele od něj daleko odežeň; Tvoji svatí Andělé nechť se v něm zabydlí, aby nás v míru zachovali; a tvé požehnání ať s nám zůstává navždy.
+$Per Dominum
+
+#Conclusio
+&Dominus_vobiscum
+&Benedicamus_Domino
+Benedictio. Požehnej a chraň nás všemohoucí a milosrdný Pán, + Otec, Syn i Duch Svatý.
+℟. Amen.
+
+!Pak se říká kompletář z Officia Panny Marie.
+v. Naplnily se dny Panny Marie, aby porodila svého prvorozeného Syna.
+_
+℣. Jsem služebnice Páně.
+℟. Ať se mi stane podle tvého slova.
+$Oremus
+v. Uděl nám, milosrdný Bože, pomoc v naší křehkosti, abychom my, kteří si připomínáme památku svaté Bohorodičky, pomocí její přímluvy povstali ze svých nepravostí. 
+$Per eumdem
+
+!Když se skončí, po celý rok kromě čtvrtku a pátku Svatého týdne se zpívá slavně
+v. Zdrávas, Královno, matko milosrdenství; 
+živote, sladkosti a naděje naše, buď zdráva. 
+K tobě voláme, vyhnaní synové Evy. 
+K tobě vzdycháme, lkajíce a plačíce 
+v tomto slzavém údolí.
+_ 
+A proto, orodovnice naše, 
+obrať k nám své milosrdné oči. 
+A Ježíše, požehnaní plod života svého, 
+nám po tomto putování ukaž. 
+Ó milostivá, ó přívětivá, ó přesladká Panno Maria.
+_
+℣. Zdrávas, Maria, milosti plná.
+℟. Pán s tebou.
+v. Modleme se. 	
+v. Všemohoucí, věčný Bože, jenž jsi působením Svatého Ducha připravil tělo i duši slavné Marie Panny za důstojný příbytek svého Syna † dej nám, kdo se těšíme vzpomínkou na ni * abychom její přímluvou unikli neustálým zlým událostem i věčné smrti. Skrze téhož Krista, našeho Pána. Amen.
+_
+
+&Divinum_auxilium_cist
+$Fidelium animae

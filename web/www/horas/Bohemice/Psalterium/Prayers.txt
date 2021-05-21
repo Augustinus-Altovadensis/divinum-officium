@@ -43,10 +43,10 @@ v. Chvála tobě, Pane, králi věčné slávy.
 v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému Michaelu Archandělovi, svatému Janu Křtiteli, svatým Apoštolům Petrovi a Pavlovi, a všem svatým, že často hřeším myšlením, slovy a skutky: /:bije se v prsa:/ je to má vina, má vina, má veliká vina. Proto prosím blahoslavenou Marii vždy Pannu, svatého Michaela Archanděla, svatého Jana Křtitele, svaté Apoštoly Petra a Pavla, a všechny Svaté, abyste se za mě u Boha přimlouvali. 
 
 [ConfiteorM]
-@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Benediktovi/g @:Confiteor:s/Pavla/Pavla, našeho svatého Otce Benedikta/g
+@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Benediktovi/g s/Pavla/Pavla, našeho svatého Otce Benedikta/g
 
 [ConfiteorCist]
-@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Bernardovi/g @:Confiteor:s/Pavla/Pavla, našeho svatého Otce Bernarda/g
+@:Confiteor:s/Pavlovi/Pavlovi, našemu svatému Otci Bernardovi/g s/Pavla/Pavla, našeho svatého Otce Bernarda/g
 
 [Misereatur]
 v. Smiluj se nad námi, všemohoucí Bože, odpusť nám naše hříchy, a doveď nás do života věčného. Amen.
@@ -86,7 +86,7 @@ v. Prominutí + rozhřešení a odpuštění hříchů našich nechť udělí n�
 ℟. Amen.
 
 [Per Dominum]
-℟. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
+r. Skrze našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žije a kraluje v jednotě Ducha Svatého Bůh, po všecky věky věkův.
 ℟. Amen.
 
 [Per Dominum eiusdem]
@@ -106,7 +106,7 @@ r. Skrze téhož našeho Pána Ježíše Krista, tvého Syna, jenž s tebou žij
 ℟. Amen.
 
 [Qui vivis]
-r. Who livest and reignest with God the Father in the unity of the Holy Spirit, one God, world without end.
+r. Jenž žiješ a kraluješ s Bohem Otcem v jednotě Ducha Svatého jeden Bůh, svět navěky.
 ℟. Amen
 
 [Qui tecum]
@@ -190,7 +190,7 @@ $Deo gratias.
 ! After Lauds of the day, %Matins and Lauds of the Dead% are said.
 
 [Oremus]
-v. Let us pray.
+v. Modleme se.
 
 [Te decet]
 v. Thou art worthy of praise, thou art worthy of hymns, to Thee be glory: to God the Father and the Son with the Holy Ghost, world without end. Amen.

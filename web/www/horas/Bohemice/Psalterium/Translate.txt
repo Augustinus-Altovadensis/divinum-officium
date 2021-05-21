@@ -1,32 +1,32 @@
 [#Incipit]
-#Start
+#Začátek
 
 [#Invitatorium]
-#Invitatory
+#Invitatorium
 
 [#Hymnus]
-#Hymn
+#Hymnus
 
 [#Psalmi]
-#Psalms
+#Žalmy
 
 [#Psalmi cum lectionibus]
-#Psalms with lections
+#Žalmy a čtení
 
 [#Capitulum Responsory Versus]
-#Chapter Responsory Verse
+#Krátké čtení, Responsorium a Verš
 
 [#Capitulum Responsorium Versus]
-#Chapter Responsory Verse
+#Krátké čtení, Responsorium a Verš
 
 [#Capitulum Hymnus Versus]
-#Chapter Hymn Verse
+#Krátké čtení, Hymnus a Verš
 
 [#Capitulum Responsorium Hymnus Versus]
-#Chapter Responsory Hymn Verse
+#Krátké čtení, Responsorium, Hymnus a Verš
 
 [#Canticum]
-#Canticle
+#Kantikum
 
 [#Canticum Nunc dimittis]
 #Canticle Nunc dimittis
@@ -41,40 +41,40 @@
 #Weekday Intercessions
 
 [#Suffragium]
-#Suffrage
+#Suffragium
 
 [#Oratio]
-#Prayer
+#Modlitba
 
 [#Orationes]
-#Prayers
+#Modlitby
 
 [#Lectio brevis]
-#Short reading
+#Krátké čtení
 
 [#Conclusio]
-#Conclusion
+#Závěr
 
 [Pater noster]
-Our Father
+Otče náš
 
 [pater noster]
-Our Father
+Otče náš
 
 [Ave Maria]
-Hail Mary
+Zdrávas Maria
 
 [Credo]
-I believe
+Věřím
 
 [Gloria]
-Glory be
+Sláva Otci
 
 [Gloria omittitur]
-omit Glory be
+vynechá se Sláva Otci
 
 [gloria]
-Glory be
+Sláva Otci
 
 [Requiem]
 Eternal rest
@@ -83,13 +83,13 @@ Eternal rest
 Alleluia
 
 [Laus tibi]
-Praise be to Thee
+Sláva Tobě
 
 [Dominus vobiscum]
-The Lord be with you
+Pán s vámi
 
 [Domine exaudi]
-O Lord hear my prayer
+Pane, modlitbu mou slyš
 
 [secunda Domine exaudi omittitur]
 omit second O Lord hear my prayer
@@ -128,19 +128,19 @@ Let us bless the Lord, alleluia, alleluia
 May the souls of the faithful
 
 [Hymnus]
-Hymn
+Hymnus
 
 [Psalmus]
-Psalm
+Žalm
 
 [Oremus]
-Let us pray.
+Modleme se.
 
 [Benedictio]
-Benediction
+Požehnání
 
 [Absolutio]
-Absolution
+Absoluce
 
 [Per Dominum]
 Through our Lord Jesus Christ
@@ -170,28 +170,28 @@ We praise thee
 Thanks be to God. 
 
 [Lectio]
-Reading
+Čtení
 
 [Ante]
-Before
+Před
 
 [Divinum Officium]
-Divine Office
+Božské Officium
 
 [Post]
-After
+Po
 
 [Commemoratio]
 Commemoration:
 
 [Antiphona]
-Antiphon
+Antifona
 
 [Antiphonae]
-Antiphons
+Antifony
 
 [et Psalmi]
-and psalms
+a Žalmy
 
 [Psalmi, antiphonae]
 Psalms, antiphons
@@ -203,14 +203,18 @@ Psalms and antiphons
 Psalms for Sunday, antiphons
 
 [Evangelist]
-Matt|Mark|Luke|John
+Mat|Mar|Luk|Jan
 
 [Antiphona finalis BMV]
-Final Antiphon of the Blessed Virgin Mary
+Závěrečná Antifona k Nejblahoslavenější Panně Marii
 
 [Divinum auxilium]
-May the divine assistance + remain with us always.
-And with our brothers, who are absent. Amen.
+Božská pomoc + ať s námi zůstává navždy.
+I s našimi bratry, kteří zde nejsou. Amen.
+
+[Divinum auxilium Cist]
+Božská pomoc ať s námi zůstává navždy.
+I s našimi bratry, kteří zde nejsou.
 
 [Gloria tibi Domine]
 Glory be to you, O Lord.

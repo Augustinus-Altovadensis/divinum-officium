@@ -6,11 +6,11 @@ And Holy Ghost, for evermore.
 Amen.
 
 [NatT]
-All honor, praise and glory be,
-O Jesu, Virgin-Born, to thee;
-All glory, as is ever meet,
-To Father, and to Paraclete.
-Amen
+Sláva buď tobě, Pane náš,
+jenž čistou Pannu matku máš;
+S Otcem i svatým Duchem,
+vládneš věčným věkům všem.
+Amen.
 
 [Epi]
 All glory, Jesu, be to thee
@@ -20,10 +20,10 @@ And Holy Ghost, for evermore.
 Amen.
 
 [EpiT]
-All glory, Lord, to Thee we pay
-For Thine Epiphany today;
-All glory, as is ever meet,
-To Father, and to Paraclete.
+Sláva buď tobě, náš Pane,
+že ses nám slavně zjevil dnes;
+S Otcem i svatým Duchem,
+vládneš věčným věkům všem.
 Amen
 
 [Pasc]
@@ -34,10 +34,10 @@ Ever with the Spirit be
 Amen.
 
 [PascT]
-To Thee Who, dead, again dost live,
-All glory, Lord, Thy people give;
-All glory, as is ever meet,
-To Father and to Paraclete.
+Bohu Otci nechť sláva zní,
+Též Synu jeho, jenž z mrtvých
+dnes vstal, i Duchu svatému,
+s nímž vládneš vždy věku všemu.
 Amen.
 
 [Asc]
@@ -48,10 +48,10 @@ To Father and to Paraclete.
 Amen.
 
 [AscT]
-All glory, Lord, to Thee we pay,
-Ascending o'er the stars to-day;
-All glory, as is ever meet,
-To Father and to Paraclete.
+Sláva buď tobě, Pane náš,
+Jenž nad hvězdy dnes vystoupáš;
+S Otcem i svatým Duchem,
+vládneš věčným věkům všem.
 Amen.
 
 [Pent]
@@ -61,6 +61,13 @@ Whom with the Father we adore,
 And Holy Ghost, for evermore.
 Amen.
 
+[PentT]
+Bohu Otci nechť sláva zní,
+Též Synu jeho, jenž z mrtvých
+dnes vstal, i Duchu svatému,
+s nímž vládneš vždy věku všemu.
+Amen.
+
 [Corp]
 All honour, laud, and glory be,
 O Jesu, Virgin-Born, to thee;
@@ -68,9 +75,23 @@ Whom with the Father we adore,
 And Holy Ghost, for evermore.
 Amen.
 
+[CorpT]
+Sláva buď tobě, Pane náš,
+jenž čistou Pannu matku máš;
+S Otcem i svatým Duchem,
+vládneš věčným věkům všem.
+Amen.
+
 [Heart]
 We give thee praise, who dost impart
 Such grace, O Jesu, from thy Heart;
 Whom with the Father we adore,
 And Holy Ghost, for evermore.
+Amen.
+
+[HeartT]
+Sláva buď tobě, Pane náš,
+Ze srdce milost nám dáváš;
+S Otcem i svatým Duchem,
+vládneš věčným věkům všem.
 Amen.

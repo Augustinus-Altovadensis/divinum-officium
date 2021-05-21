@@ -464,7 +464,7 @@ sub psalm : ScriptFunc {
     $num = $1;
 
     if ( ($version =~ /Trident/i && $num =~ /(62|148|149)/)
-      || ($version =~ /Monastic/i && $num =~ /(115|148|149)/))
+      || ($version =~ /Monastic|Cisterciensis/i && $num =~ /(115|148|149)/))
     {
       $nogloria = 1;
     }
@@ -914,7 +914,7 @@ sub ant_Benedictus : ScriptFunc {
     $ant = $specials{"Adv Ant $day" . "L"};
   }
   my @ant_parts = split('\*', $ant);
-  if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
+  if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic|Cisterciensis/i) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {
     return "Ant. $ant";
@@ -1002,9 +1002,17 @@ sub canticum : ScriptFunc {
 
 sub Divinum_auxilium : ScriptFunc {
   my $lang = shift;
-  my $text = "V. " . translate("Divinum auxilium", $lang);
+  my $text = "℣. " . translate("Divinum auxilium", $lang);
   $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic|Cisterciensis/i);
-  $text =~ s/\n/\nR. /;
+  $text =~ s/\n/\n℟. /;
+  return $text;
+}
+
+sub Divinum_auxilium_cist : ScriptFunc {
+  my $lang = shift;
+  my $text = "℣. " . translate("Divinum auxilium Cist", $lang);
+  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic|Cisterciensis/i);
+  $text =~ s/\n/\n℟. /;
   return $text;
 }
 
@@ -1234,7 +1242,7 @@ sub getordinarium {
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
   elsif ($version =~ /trident/i && $hora =~ /(laudes|vespera)/i) { $suffix .= "Trid"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
-  elsif ($version =~ /Ordo Cisterciensis/i) { $suffix .= "Cist"; }
+  elsif ($version =~ /Cisterciensis/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
 
@@ -1393,13 +1401,13 @@ sub postprocess_short_resp(\@$) {
       if (/^R\.br\./ ... (/^R\./ && ++$rlines >= 3)) {
 
         # Short responsory proper.
-        if ((/^V\./ .. /^R\./) && /^R\./) {
+        if ((/^[V℣]\./ .. /^[R℟]\./) && /^[R℟]\./) {
           our %prayers;
           $_ = 'R. ' . $prayers{$lang}->{'Alleluia Duplex'};
         } elsif (/^R\./) {
           ensure_double_alleluia($_, $lang);
         }
-      } elsif (/^[VR]\./) {
+      } elsif (/^[VR℣℟]\./) {
 
         # V/R following short responsory.
         ensure_single_alleluia($_, $lang);
