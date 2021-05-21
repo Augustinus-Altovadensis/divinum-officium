@@ -685,7 +685,7 @@ sub psalmi_minor {
   my %psalmi = %{setupstring($datafolder, $lang, 'Psalterium/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic|Cisterciensis/i) {
     @psalmi = split("\n", $psalmi{Monastic});
     my $i =
         ($hora =~ /prima/i) ? $dayofweek
