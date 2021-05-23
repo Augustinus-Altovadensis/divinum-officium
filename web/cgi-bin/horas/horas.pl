@@ -60,7 +60,7 @@ sub horas {
   $ind1 = $ind2 = 0;
   $searchind = 0;
 
-  if ($version !~ /(Monastic|Cisterciensis|1570|1955|1960|Newcal|Praedicatorum)/i) {
+  if ($version !~ /(Monastic|1570|1955|1960|Newcal|Praedicatorum)/i) {
     ante_post('Ante');
   } else {
     $searchind++;
@@ -103,7 +103,7 @@ sub horas {
     }
   }
 
-  if ($version !~ /(Monastic|Cisterciensis|1570|1955|1960|Newcal|Praedicatorum)/) {
+  if ($version !~ /(Monastic|1570|1955|1960|Newcal|Praedicatorum)/) {
     ante_post('Post');
   } else {
     $searchind++;
@@ -307,7 +307,7 @@ sub Alleluia : ScriptFunc {
 sub Alleluia_ant {
   my ($lang, $full, $ucase) = @_;
   my $s = translate('Alleluia', $lang);
-  if (($full || ($duplex >= 3) || ($version =~ /1960|Newcal|Monastic|Cisterciensis|Praedicatorum/i))) {
+  if (($full || ($duplex >= 3) || ($version =~ /1960|Newcal|Monastic|Praedicatorum/i))) {
     $s .= ", * $s, $s.";
     $s =~ s/ ./\L$&/g unless $ucase;
   }
@@ -464,7 +464,7 @@ sub psalm : ScriptFunc {
     $num = $1;
 
     if ( ($version =~ /Trident/i && $num =~ /(62|148|149)/)
-      || ($version =~ /Monastic|Cisterciensis/i && $num =~ /(115|148|149)/))
+      || ($version =~ /Monastic/i && $num =~ /(115|148|149)/))
     {
       $nogloria = 1;
     }
@@ -914,7 +914,7 @@ sub ant_Benedictus : ScriptFunc {
     $ant = $specials{"Adv Ant $day" . "L"};
   }
   my @ant_parts = split('\*', $ant);
-  if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic|Cisterciensis/i) { return "Ant. $ant_parts[0]"; }
+  if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {
     return "Ant. $ant";
@@ -1003,7 +1003,7 @@ sub canticum : ScriptFunc {
 sub Divinum_auxilium : ScriptFunc {
   my $lang = shift;
   my $text = "℣. " . translate("Divinum auxilium", $lang);
-  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic|Cisterciensis/i);
+  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic/i);
   $text =~ s/\n/\n℟. /;
   return $text;
 }
@@ -1011,7 +1011,7 @@ sub Divinum_auxilium : ScriptFunc {
 sub Divinum_auxilium_cist : ScriptFunc {
   my $lang = shift;
   my $text = "℣. " . translate("Divinum auxilium Cist", $lang);
-  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic|Cisterciensis/i);
+  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic/i);
   $text =~ s/\n/\n℟. /;
   return $text;
 }
@@ -1241,8 +1241,8 @@ sub getordinarium {
   if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
   elsif ($version =~ /trident/i && $hora =~ /(laudes|vespera)/i) { $suffix .= "Trid"; }
+  elsif ($version =~ /Cistercian/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
-  elsif ($version =~ /Cisterciensis/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
 
@@ -1407,7 +1407,7 @@ sub postprocess_short_resp(\@$) {
         } elsif (/^R\./) {
           ensure_double_alleluia($_, $lang);
         }
-      } elsif (/^[VR℣℟]\./) {
+      } elsif (/^[V℣R℟]\./) {
 
         # V/R following short responsory.
         ensure_single_alleluia($_, $lang);

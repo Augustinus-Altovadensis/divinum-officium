@@ -153,7 +153,7 @@ sub specials {
 
       if ($hora =~ /Tertia/ && $dayname[0] =~ /Pasc7/) {
         my %h = %{setupstring($datafolder, $lang, 'Psalterium/Minor Special.txt')};
-        push(@s, $h{'Hymnus Pasc7 Tertia'});
+        push(@s, $h{"Hymnus". ($version =~ /1570|Monastic/ ? 'M' : '') ." Pasc7 Tertia"});
         $skipflag = 1;
       } else {
         if (!$dox) { next; }
@@ -195,7 +195,7 @@ sub specials {
 
       if ( $dayofweek > 0
         && $version !~ /1960/
-        && $version !~ /monastic|Cisterciensis/i
+        && $version !~ /monastic/i
         && $winner{Rank} =~ /Feria|Vigilia/i 
         && $commune !~ /C10/
         && ($rank < 3 || $dayname[0] =~ /Quad6/)
@@ -211,7 +211,7 @@ sub specials {
       }
       setcomment($label, 'Source', $comment, $lang);
       foreach $l (@capit) { push(@s, $l); }
-      my $primaresponsory = ($version !~ /monastic|Cisterciensis/i) ? get_prima_responsory($lang) : '';
+      my $primaresponsory = ($version !~ /monastic/i) ? get_prima_responsory($lang) : '';
       my %wpr = (columnsel($lang)) ? %winner : %winner2;
       if (exists($wpr{'Versum Prima'})) { $primaresponsory = $wpr{'Versum Prima'}; }
       push(@s, $t[$tind++]);
@@ -231,23 +231,18 @@ sub specials {
 
     if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
       $tind--;
-      if ($version =~ /Monastic|Cisterciensis/i) {
-        while ($t[$tind] !~ /^\s*V\./) { push(@s, $t[$tind++]); }
-      }
-      else {
-        while ($t[$tind] !~ /^\s*R\.br\./) { push(@s, $t[$tind++]); }
-      }
+      while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
       my @resp = ();
-      while ($t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
+      while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
       postprocess_short_resp(@resp, $lang);
-      push(@s, $_) for (@resp);
+      push(@s, @resp);
       next;
     }
 
     if ($item =~ /Capitulum/i && $hora =~ /(Tertia|Sexta|Nona)/i) {
       my %capit = %{setupstring($datafolder, $lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
-      $name .= 'M' if ($version =~ /monastic|Cisterciensis/i);
+      $name .= 'M' if ($version =~ /monastic/i);
       my $capit = $capit{$name};
       my $resp = '';
 
@@ -271,7 +266,7 @@ sub specials {
         if ($wr) { $w .= "\n_\n$wr"; }
       }
 
-      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic|Cisterciensis/i && $w =~ /\_\nV\. /)) {
+      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\nV\. /)) {
         $w =~ s/\s*//;
         $w .= "\n_\n$resp";
       }
@@ -285,7 +280,7 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /(Laudes|Vespera)/i) {
       my %capit = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};
       my $name = major_getname(1);
-      if ($version =~ /monastic|Cisterciensis/i) { $name =~ s/Day[1-5]M/DayFM/i; }
+      if ($version =~ /monastic/i) { $name =~ s/Day[1-5]M/DayFM/i; }
       my $capit = $capit{$name};
       my $name = major_getname();
       my $hymn = '';
@@ -304,7 +299,7 @@ sub specials {
           $name = 'Day0 Laudes2';
         }
 
-        if ($version =~ /(Monastic|Cisterciensis|1570)/i && exists($capit{"HymnusM $name"})) {
+        if ($version =~ /(Monastic|1570)/i && exists($capit{"HymnusM $name"})) {
           $hymn = $capit{"HymnusM $name"};
         } else {
           $hymn = $capit{"Hymnus $name"};
@@ -363,7 +358,7 @@ sub specials {
       my ($versum, $c1) = getantvers('Versum', $ind, $lang);
       setcomment($label, 'Source', $c, $lang);
       $capit = chompd($capit) . "_\n" . $versum;
-      if ($version =~ /monastic|Cisterciensis/i) {
+      if ($version =~ /monastic/i) {
         (@capit) = split(/\n/, $capit);
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);
@@ -548,7 +543,7 @@ sub specials {
       )
     {
       my %w = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};
-      my $lname = ($version =~ /monastic|Cisterciensis/i) ? 'LitaniaM' : 'Litania';
+      my $lname = ($version =~ /monastic/i) ? 'LitaniaM' : 'Litania';
       if ($version =~ /1570/ && exists($w{LitaniaT})) { $lname = 'LitaniaT'; }
       push(@s, $w{$lname});
       setbuild1($item, 'Litania omnium sanctorum');
@@ -685,7 +680,7 @@ sub psalmi_minor {
   my %psalmi = %{setupstring($datafolder, $lang, 'Psalterium/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms);
 
-  if ($version =~ /monastic|Cisterciensis/i) {
+  if ($version =~ /monastic/i) {
     @psalmi = split("\n", $psalmi{Monastic});
     my $i =
         ($hora =~ /prima/i) ? $dayofweek
@@ -801,7 +796,7 @@ sub psalmi_minor {
       my @ant = split("\n", $psalmi{$name});
       $ant = chompd($ant[$ind]);
       # add fourth alleluja
-      $ant =~ s/(\S+)\.$/\1, \1./ if ($version =~ /monastic|Cisterciensis|trident/i && $name eq 'Pasch');
+      $ant =~ s/(\S+)\.$/\1, \1./ if ($version =~ /monastic|trident/i && $name eq 'Pasch');
       $comment = 1;
       setbuild("Psalterium/Psalmi minor", $name, "subst Antiphonas");
     }
@@ -853,7 +848,7 @@ sub psalmi_minor {
 
   # The rules for determining the psalmody at Prime in the Tridentine
   # rubrics are somewhat simpler.
-  unless ($version =~ /Trident|monastic|Cisterciensis/i) {
+  unless ($version =~ /Trident|monastic/i) {
 
     #prima psalm set for feasts
     if ($hora =~ /prima/i && $feastflag) {
@@ -880,7 +875,7 @@ sub psalmi_minor {
   }
 
   #quicumque
-  if ( ($version !~ /(1955|1960|Monastic|Cisterciensis)/i || $dayname[0] =~ /Pent01/i)
+  if ( ($version !~ /(1955|1960|Monastic)/i || $dayname[0] =~ /Pent01/i)
     && $hora =~ /prima/i
     && ($dayname[0] =~ /(Epi|Pent)/i || $version !~ /Divino/i)
     && $dayofweek == 0
@@ -901,13 +896,13 @@ sub psalmi_minor {
 # collects and return the psalms for laudes and vespera
 sub psalmi_major {
   $lang = shift;
-  if ($version =~ /monastic|Cisterciensis/i && $hora =~ /Laudes/i) { $psalmnum1 = $psalmnum2 = -1; }
+  if ($version =~ /monastic/i && $hora =~ /Laudes/i) { $psalmnum1 = $psalmnum2 = -1; }
   my %psalmi = %{setupstring($datafolder, $lang, 'Psalterium/Psalmi major.txt')};
   my $name = $hora;
   if ($hora =~ /Laudes/) { $name .= $laudes; }
   my @psalmi = splice(@psalmi, @psalmi);
 
-  if ($version =~ /monastic|Cisterciensis/i) {
+  if ($version =~ /monastic/i) {
     my $head = "Daym$dayofweek";
     if ($hora =~ /Laudes/i) {
       if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaymF'; }
@@ -952,7 +947,7 @@ sub psalmi_major {
   setbuild("Psalterium/Psalmi major", "Day$dayofweek $name", 'Psalmi ord');
 
   my @antiphones;
-  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic|Cisterciensis/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
+  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
     for (my $i = 0; $i < @p1; $i++) {
       my @p2 = split(';;', $psalmi[$i]);
@@ -1011,10 +1006,10 @@ sub psalmi_major {
     )
   {
     $prefix = translate("Psalmi, antiphonae", $lang) . ' ';
-    my $h = ($hora =~ /laudes/i && $version !~ /monastic|Cisterciensis/i) ? "$hora" . '1' : "$hora";
+    my $h = ($hora =~ /laudes/i && $version !~ /monastic/i) ? "$hora" . '1' : "$hora";
     @p = split("\n", $psalmi{"Day0 $h"});
 
-    if ($version =~ /monastic|Cisterciensis/i && $hora =~ /laudes/i) {
+    if ($version =~ /monastic/i && $hora =~ /laudes/i) {
       @p = split("\n", $psalmi{"DaymF Laudes"});
     } elsif ($version =~ /Trident/i && $hora =~ /laudes/i) {
       @p = split("\n", $psalmi{"DayaC Laudes"});
@@ -1024,7 +1019,7 @@ sub psalmi_major {
     @p = @psalmi;
   }
   my $lim = 5;
-  if ($version =~ /monastic|Cisterciensis/i && $hora =~ /Vespera/i && ($commune !~ /C9/) && ($dayname[0] !~ /Quad6/ || $dayofweek < 4)) {
+  if ($version =~ /monastic/i && $hora =~ /Vespera/i && ($commune !~ /C9/) && ($dayname[0] !~ /Quad6/ || $dayofweek < 4)) {
     $lim = 4;
     if ($antiphones[4]) {
       local($a1,$p1) = split(/;;/, $antiphones[3]);
@@ -1066,7 +1061,7 @@ sub psalmi_major {
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-  if ($version =~ /monastic|Cisterciensis/i) {
+  if ($version =~ /monastic/i) {
     antetpsalm_mm('', -1);
     for ($i = 0; $i < @psalmi; $i++) { antetpsalm_mm($psalmi[$i], $i); }
     antetpsalm_mm('', -2);
@@ -1090,6 +1085,7 @@ sub antetpsalm {
   my $ant = $line[0];
   postprocess_ant($ant, $lang);
   my $ant1 = ($duplex > 2 || $version =~ /1960|Monastic/i) ? $ant : $ant[0];    #difference between 1955, 1960
+  my $ant1 = ($duplex > 2 || $version =~ /1960|Monastic/i) ? $ant : $ant[0];    #difference between 1995, 1960
 
   if ( $dayname[0] =~ /Pasc/i
     && (($hora =~ /vespera/i) 
@@ -2044,7 +2040,7 @@ sub doxology {
 
   if ($dname) {
     my %w = %{setupstring($datafolder, $lang, 'Psalterium/Doxologies.txt')};
-    if ($version =~ /Monastic|1570|Cisterciensis/i && $w{"${dname}T"}) { $dname .= 'T'; }
+    if ($version =~ /Monastic|1570/i && $w{"${dname}T"}) { $dname .= 'T'; }
     $dox = $w{$dname};
     setbuild2("Doxology: $dname");
   }

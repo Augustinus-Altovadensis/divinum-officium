@@ -7,3 +7,5 @@ docker-compose.override.yml
 
 # Temporary files created by nano
 .*.swp
+web/www/horas/Bohemice/.DS_Store
+web/www/.DS_Store

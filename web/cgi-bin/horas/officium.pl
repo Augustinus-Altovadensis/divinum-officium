@@ -363,7 +363,7 @@ PrintTag
     #  $ch3 = ($expand =~ /nothing/i) ? 'SELECTED' : '';
     #  $ch4 = ($expand =~ /skeleton/i) ? 'SELECTED' : '';
     @chv = splice(@chv, @chv);
-    if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic', 'Ordo Cisterciensis', 'Cisterciensis Monastic'); }
+    if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic', 'Cistercian Monastic'); }
     for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'SELECTED' : ''; }
     print << "PrintTag";
 <P ALIGN=CENTER>
