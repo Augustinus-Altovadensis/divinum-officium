@@ -9,68 +9,68 @@ Hymnus Tertia
 Prima=53
 
 [Ant Vespera]
-When the day of Pentecost was fully come * they were all with one accord in one place, alleluia.
-The Spirit of the Lord * filleth the world, alleluia.
-They were all filled * with the Holy Ghost, and began to speak, alleluia, alleluia.
-See ye fountains, * and all that move in the waters, ascribe ye praise to God, alleluia.
-The Apostles spoke in diverse tongues * the wonderful works of God, alleluia, alleluia, alleluia.;;116
+Když se naplnilo * Padesát dnů, byli všichni spolu na jednom místě, alleluia.
+Duch Hospodinův * naplnil okrsek světa, alleluia.
+Všichni byli naplněni * Duchem Svatým, a začali mluvit, alleluia, alleluia.
+Hleďte prameny, * a vše, co se hýbe ve vodách, vzdejte chválu Bohu, alleluia.
+Apoštolové mluvili * různými jazyky o velikosti Boží, alleluia, alleluia, alleluia.;;116
 
 [Capitulum Vespera]
 !Acts 2:1-2
-v. When the day of Pentecost was fully come, the disciples were all with one accord in one place and suddenly there came a sound from heaven, as of a rushing mighty wind and it filled all the house where they were sitting.
+v. Když nastal den Letnic, byli všichni shromážděni na jednom místě. Náhle se strhl hukot z nebe, jako když se žene prudký vichr, a naplnil celý dům, kde byli.
 $Deo gratias
 
 [Hymnus Vespera]
-!The first verse of the following hymn is said genuflecting.
-v. Creator-Spirit, all-divine,
-Come, visit every soul of thine,
-And fill with thy celestial flame
-The hearts which thou thyself didst frame.
+!První sloku říkáme vkleče.
+v. Přijď, Tvůrce, Duchu svatý, k nám,
+a navštiv myslí našich chrám,
+z výsosti nebes zavítej,
+do duší nám svou milost vlej.
 _
-O gift of God, thine is the sweet
-Consoling name of Paraclete
-And spring of life and fire and love
-And unction flowing from above.
+Tys Utěšitel právem zván,
+tys dar, jenž Bohem věčným dán,
+zdroj živý, láskyplný dech,
+tys posvěcení myslí všech.
 _
-The mystic sevenfold gifts are thine,
-Finger of God's right hand divine;
-The Father's promise sent to teach
-The tongue a rich and heavenly speech.
+Tys sedmi darů studnice,
+prst Otcovy jsi pravice,
+tys Bohem přislíbený host,
+ty dáváš ústům výmluvnost.
 _
-Kindle with fire brought from above
-Each sense, and fill our hearts with love;
-And grant our flesh, so weak and frail,
-The strength of thine which cannot fail.
+Rač světlo v mysli rozžehnout,
+vlij do srdcí nám lásky proud,
+našeho těla slabosti
+zhoj silou svojí milosti.
 _
-Drive far away our deadly foe,
-And grant us thy true peace to know;
-So we, led by thy guidance still,
-May safely pass through every ill.
+Dál nepřítele zapuzuj
+a duši pokoj uděluj,
+ať vždycky pod vedením tvým
+vyhnem se vlivům škodlivým.
 _
-To us, through thee, the grace be shown
-To know the Father and the Son;
-And Spirit of them both, may we
-Forever rest our faith in thee.
+Nauč nás Boha Otce znát
+a Syna jeho milovat
+a v tebe, Duchu svatý, zas
+důvěřovati v každý čas. 
 _
-To Sire and Son be praises meet,
-And to the Holy Paraclete;
-And may Christ send us from above
-That Holy Spirit's gift of love.
-Amen
+Bohu Otci nechť sláva zní,
+Též Synu jeho, jenž z mrtvých
+dnes vstal, i Duchu svatému,
+s nímž vládneš vždy věku všemu.
+Amen.
 
 [Versum 1]
-V. They were all filled with the Holy Ghost, alleluia.
-R. And began to speak, alleluia.
+V. Všichni byli naplněni Duchem Svatým, alleluia.
+R. A začali mluvit, alleluia.
 
 [Ant 1]
-I will not leave you orphans, * alleluia; I go away, and come again unto you, alleluia, and your heart shall rejoice, alleluia.
+Nezanechám vás sirotky, * alleluia; Odejdu, ale znovu k vám přijdu, alleluia, a vaše srdce zajásají, alleluia.
 
 [Oratio]
-O God, Who on this day didst teach the hearts of thy faithful people, by the sending to them the light of thine Holy Spirit, grant us by the same Spirit to have a right judgment in all things, and evermore to rejoice in His holy comfort.
-$Per Dominum eiusdem
+Bože, jenž jsi srdce svých věřících osvítil a poučil, dej nám, ať v tvém Duchu správně smýšlíme a vždy se radujeme 
+z jeho útěchy. $Per Dominum eiusdem
 
 [Invit]
-Alleluia, the Spirit of the Lord filleth the world: * O come, let us worship Him, alleluia.
+Alleluia, Duch Hospodinův naplnil okrsek světa: * Pojďme a klanějme se mu, alleluia.
 
 [HymnusM Matutinum]
 @:Hymnus Matutinum
