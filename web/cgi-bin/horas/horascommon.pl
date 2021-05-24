@@ -1802,6 +1802,8 @@ sub spell_var {
     $t =~ s/Cæl/Cœl/g;
     $t =~ s/cael/cœl/g;
     $t =~ s/Cael/Cœl/g;
+	$t =~ s/caríssi/charíssi/g;
+	$t =~ s/Caríssi/Charíssi/g;
     }
   return $t;
 }
