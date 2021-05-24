@@ -1,23 +1,22 @@
 #Incipit
 $Deus in adjutorium
 &Gloria
-&Alleluia
 
 #Hymnus
-v. Come Holy Ghost who ever One
-Art with the Father and the Son,
-It is the hour, our souls possess
-With thy full flood of holiness.
-_
-Let flesh and heart and lips and mind
-Sound forth our witness to mankind;
-And love light up our mortal frame,
-Till others catch the living flame.
-_
-* Almighty Father, hear our cry,
-Through Jesus Christ, our Lord most High,
-Who, with the Holy Ghost and thee,
-Doth live and reign eternally.
+v. Ty věčné Světlo, Božství jsi,
+jediné v celé Trojici,
+my  tak slabí Tě vzýváme,
+a ruce k Tobě spínáme.
+_ 
+Tys Pravda, Láska nejčistší,
+všech cíl a štěstí nejvyšší,
+dej doufat, pevnou víru mít, 
+Tvou lásku získat a z ní žít. 
+_       
+* Vzývejme Krista, Otce s ním,
+i s jejich Duchem  společným,
+jediný Bože v Trojici, 
+svou mocí chraň nás prosící.
 Amen.
 
 #Psalmi
@@ -31,4 +30,5 @@ $MLitany2
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
+&Divinum_auxilium_cist
 $Fidelium animae

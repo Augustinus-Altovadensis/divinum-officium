@@ -1,7 +1,6 @@
 #Incipit
 $Deus in adjutorium
 &Gloria
-&Alleluia
 
 #Hymnus {:H-Sexta:}
 v. Rector potens verax Deus,
@@ -31,4 +30,5 @@ $MLitany2
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
+&Divinum_auxilium_cist
 $Fidelium animae
