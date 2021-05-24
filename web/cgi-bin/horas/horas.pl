@@ -915,12 +915,7 @@ sub ant_Benedictus : ScriptFunc {
   }
   my @ant_parts = split('\*', $ant);
   $ant_parts[0] =~ tr/,/./;
-  ###################################
-  #  Adding a dot to verse incipit  #
-  ###################################
-  #if (substr($ant_parts[0],-1) != '\.') {$ant_parts[0] = $ant_parts[0].'\.';}
-  #$ant_parts[0] = $ant_parts[0].'*';
-  substr ($ant_parts[0], -1) = ".";
+  substr ($ant_parts[0], -1) = ".";	#  Adds a dot to verse incipit (looks better)
   if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1 && $version =~ /Cistercian/i ) { return "Ant. $ant_parts[0]"; }
@@ -970,6 +965,7 @@ sub ant_Magnificat : ScriptFunc {
   }
   my @ant_parts = split('\*', $ant);
   $ant_parts[0] =~ tr/,/./;
+  substr ($ant_parts[0], -1) = ".";	#  Adds a dot to verse incipit (looks better)
   if ($num == 1 && $duplex < 3 && $version !~ /1960/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1 && $version =~ /Cistercian/i ) { return "Ant. $ant_parts[0]"; }
