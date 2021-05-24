@@ -6,8 +6,8 @@ $psalmvar='0';;
 $whitebground='1';;
 $blackfont='black';;
 $smallblack='-1 black';;
-$redfont=' italic red';;
-$initiale='+2 bold italic red';;
+$redfont='red';;
+$initiale='+2 bold red';;
 $largefont='+1 bold italic red';;
 $smallfont='1 red';;
 $titlefont='+1 red';;
@@ -19,8 +19,8 @@ bbtbbtcccccccnn
 
 [general]
 $expand='all';;
-$version='Rubrics 1960';;
-$lang2='English';;
+$version='Cistercian Monastic';;
+$lang2='Bohemice';;
 $accented='plain';;
 
 [generalcheck]
