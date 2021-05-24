@@ -67,7 +67,8 @@ Nezanechám vás sirotky, * alleluia; Odejdu, ale znovu k vám přijdu, alleluia
 
 [Oratio]
 Bože, jenž jsi srdce svých věřících osvítil a poučil, dej nám, ať v tvém Duchu správně smýšlíme a vždy se radujeme 
-z jeho útěchy. $Per Dominum eiusdem
+z jeho útěchy. 
+$Per Dominum eiusdem
 
 [Invit]
 Alleluia, Duch Hospodinův naplnil okrsek světa: * Pojďme a klanějme se mu, alleluia.
