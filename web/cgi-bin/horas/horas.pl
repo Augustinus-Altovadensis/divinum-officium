@@ -920,6 +920,7 @@ sub ant_Benedictus : ScriptFunc {
   ###################################
   #if (substr($ant_parts[0],-1) != '\.') {$ant_parts[0] = $ant_parts[0].'\.';}
   #$ant_parts[0] = $ant_parts[0].'*';
+  substr ($ant_parts[0], -1) = ".";
   if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1 && $version =~ /Cistercian/i ) { return "Ant. $ant_parts[0]"; }
