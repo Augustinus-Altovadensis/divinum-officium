@@ -1799,7 +1799,7 @@ sub spell_var {
   }
   if (our $version =~ /Cistercian/) {
     $t =~ s/[Cc]ael/[Cc]cœl/g;
-	$t =~ s/[Cc]æl/[Cc]cœl/g;
+	$t =~ s/cæl|Cæl/cœl|Cœl/g;
     }
   return $t;
 }
