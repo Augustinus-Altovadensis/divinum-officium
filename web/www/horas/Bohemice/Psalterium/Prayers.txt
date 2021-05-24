@@ -1,4 +1,3 @@
-[Pater noster]
 v. Otče náš, jenž jsi na nebesích, posvěť se jméno tvé. Přijď království tvé. Buď vůle tvá jako v nebi, tak i na zemi. Chléb náš vezdejší dej nám dnes. A odpusť nám naše viny, jako i my odpouštíme našim viníkům. A neuveď nás v pokušení, ale zbav nás od zlého. Amen.
 
 [Pater_noster1]
@@ -52,7 +51,7 @@ v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému
 v. Smiluj se nad námi, všemohoucí Bože, odpusť nám naše hříchy, a doveď nás do života věčného. Amen.
 
 [Indulgentiam]
-v. Prominutí + rozhřešení a odpuštění hříchů našich nechť udělí nám všemohoucí a milosrdný Hospodin.
+v. Prominutí + rozhřešení a odpuštění našich hříchů nechť udělí nám všemohoucí a milosrdný Hospodin.
 
 [Domine labia]
 ℣. Pane, ++ rty mé otevři.
@@ -71,11 +70,11 @@ v. Prominutí + rozhřešení a odpuštění hříchů našich nechť udělí n�
 ℟. Bohu díky.
 
 [Benedicamus Domino]
-℣. Chvalme Pána.
+℣. Dobrořečme Pánu.
 ℟. Bohu díky.
 
 [Benedicamus Domino1]
-℣. Chvalme Pána, alleluia, alleluia.
+℣. Dobrořečme Pánu, alleluia, alleluia.
 ℟. Bohu díky, alleluia, alleluia.
 
 [Deo gratias]
@@ -110,11 +109,11 @@ r. Jenž žiješ a kraluješ s Bohem Otcem v jednotě Ducha Svatého jeden Bůh,
 ℟. Amen
 
 [Qui tecum]
-r. Who with thee liveth and reigneth, in the unity of the Holy Spirit, one God, world without end.
+r. Který s tebou žije a kraluje, v jednotě s Duchem svatým, jeden Bůh, svět bez konce.
 ℟. Amen
 
 [Qui tecum eiusdem]
-r. Who with thee liveth and reigneth, in the unity of the same Holy Spirit, one God, world without end.
+r. Který s tebou žije a kraluje, v jednotě s týmž Duchem svatým, jeden Bůh, svět bez konce.
 ℟. Amen
 
 [Te Deum]
@@ -179,15 +178,19 @@ r. Hail Mary
 ℣. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen.
 $Deo gratias.
 
+[ConclmartCist]
+℣. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen, jejichž přímluvu si v modlitbách vyprošujeme.
+$Deo gratias.
+
 [DefunctV]
 &Dominus_vobiscum
 &Benedicamus_Domino
-! After Vespers of the day, %Vespers of the Dead% are said.
+! Po Nešporách ze dne se říkají %Nešpory za zemřelé%.
 
 [DefunctM]
 &Dominus_vobiscum
 &Benedicamus_Domino
-! After Lauds of the day, %Matins and Lauds of the Dead% are said.
+! Po Laudách ze dne se říkají %Matutinum a Laudy za zemřelé%.
 
 [Oremus]
 v. Modleme se.
@@ -204,8 +207,8 @@ v. Pane, smiluj se; Kriste, smiluj se; Pane, smiluj se
 &pater_noster
 
 [Alleluia Simplex]
-, alleluia.
+, alleluja.
 
 [Alleluia Duplex]
-Alleluia, alleluia.
+Alleluja, alleluja.
 

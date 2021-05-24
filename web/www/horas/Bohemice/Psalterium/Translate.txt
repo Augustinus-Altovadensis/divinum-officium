@@ -1,4 +1,3 @@
-[#Incipit]
 #Začátek
 
 [#Invitatorium]
@@ -29,16 +28,16 @@
 #Kantikum
 
 [#Canticum Nunc dimittis]
-#Canticle Nunc dimittis
+#Kantikum Nunc dimittis
 
 [#Preces Dominicales]
-#Sunday Intercessions
+#Nedělní přímluvy
 
 [#Preces Dominicales et Feriales]
-#Sunday and Weekday Intercessions
+#Nedělní i všední přímluvy
 
 [#Preces Feriales]
-#Weekday Intercessions
+#Všední přímluvy
 
 [#Suffragium]
 #Suffragium
@@ -77,10 +76,10 @@ vynechá se Sláva Otci
 Sláva Otci
 
 [Requiem]
-Eternal rest
+Odpočinutí věčné
 
 [Alleluia]
-Alleluia
+Alleluja
 
 [Laus tibi]
 Sláva Tobě
@@ -89,43 +88,43 @@ Sláva Tobě
 Pán s vámi
 
 [Domine exaudi]
-Pane, modlitbu mou slyš
+Pane, slyš modlitbu mou 
 
 [secunda Domine exaudi omittitur]
-omit second O Lord hear my prayer
+druhé Dómine exaudi se vynechává
 
 [Confiteor]
-I confess
+Vyznávám se
 
 [Misereatur]
-May almighty God 
+Smiluj se nad námi, všemohoucí Bože 
 
 [Indulgentiam]
-Grant us pardon
+Uděl nám odpuštění
 
 [Domine labia]
-O Lord, open Thou my lips
+Pane, otevři mé rty
 
 [Deus in adjutorium]
-O God, come to my assistance
+Bože, k pomocí mé pospěš
 
 [Deusinadjutorium]
-O God, come to my assistance
+Bože, k pomocí mé pospěš
 
 [Tu autem]
-But Thou Lord
+Ty však, Pane.
 
 [Aperi]
-Open my mouth
+Otevři má ústa
 
 [Benedicamus Domino]
-Let us bless the Lord
+Dobrořečme Pánu
 
 [Benedicamus Domino alleluja]
-Let us bless the Lord, alleluia, alleluia
+Dobrořečme Pánu, alleluia, alleluia
 
 [Fidelium animae]
-May the souls of the faithful
+Duše všech zemřelých
 
 [Hymnus]
 Hymnus
@@ -143,31 +142,31 @@ Požehnání
 Absoluce
 
 [Per Dominum]
-Through our Lord Jesus Christ
+Skrze Pána našeho
 
 [Per Dominum eiusdem]
-Through the same Lord Jesus Christ
+Skrze téhož Pána našeho
 
 [Qui cum Patre]
-Who liveth and reigneth
+Jenž s Otcem
 
 [Per eumdem]
-Through the same
+Skrze téhož
 
 [Qui vivis]
-Who livest
+Jenž žiješ
 
 [Qui tecum]
-Who with thee
+Který s tebou
 
 [Sacrosancta]
-To the most holy
+Přesvatá
 
 [Te Deum]
-We praise thee
+Bože, chválíme Tebe
 
 [Deo gratias]
-Thanks be to God. 
+Bohu Díky.
 
 [Lectio]
 Čtení
@@ -182,7 +181,7 @@ Božské Officium
 Po
 
 [Commemoratio]
-Commemoration:
+Připomínka: 
 
 [Antiphona]
 Antifona
@@ -194,13 +193,13 @@ Antifony
 a Žalmy
 
 [Psalmi, antiphonae]
-Psalms, antiphons
+Žalmy, antifony
 
 [Psalmi et antiphonae]
-Psalms and antiphons
+Žalmy a antifony
 
 [Psalmi Dominica, antiphonae]
-Psalms for Sunday, antiphons
+Nedělní žalmy, antifony
 
 [Evangelist]
 Mat|Mar|Luk|Jan
@@ -217,7 +216,7 @@ Božská pomoc ať s námi zůstává navždy.
 I s našimi bratry, kteří zde nejsou.
 
 [Gloria tibi Domine]
-Glory be to you, O Lord.
+Sláva buď Tobě, Pane náš.
 
 [#Commemoratio defunctorum]
-#Commemoration of departed
+#Vzpomínka na zemřelé
