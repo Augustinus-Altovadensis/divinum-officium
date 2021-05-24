@@ -840,8 +840,14 @@ sub psalmi_minor {
   if ($dayname[0] =~ /Quad/i) { $ant =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig; }
   if ($ant) { $ant = "Ant. $ant"; }
   my @ant = split('\*', $ant);
+  
+  $ant[0] =~ tr/,/./;
+  substr ($ant[0], -1) = "."; #  Adds a dot to verse incipit (looks better)
+  $ant[0] =~ s/.(?!.)//g;   #  (only one...)
+
   postprocess_ant($ant, $lang);
   $ant1 = ($version !~ /1960|monastic/i) ? $ant[0] : $ant;    #difference between 1955 and 1960
+  $ant1 = ($version =~ /Cistercian/i) ? $ant[0] : $ant;    #difference between 1955 and 1960
   setcomment($label, 'Source', $comment, $lang, $prefix);
   $psalms =~ s/\s//g;
   @psalm = split(',', $psalms);
@@ -1061,7 +1067,7 @@ sub psalmi_major {
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic/i && $version !~ /Cistercian/i) {
     antetpsalm_mm('', -1);
     for ($i = 0; $i < @psalmi; $i++) { antetpsalm_mm($psalmi[$i], $i); }
     antetpsalm_mm('', -2);
@@ -1083,9 +1089,14 @@ sub antetpsalm {
   my @line = split(';;', $line);
   my @ant = split('\*', $line[0]);
   my $ant = $line[0];
+
+  $ant[0] =~ tr/,/./;
+  substr ($ant[0], -1) = "."; #  Adds a dot to verse incipit (looks better)
+  $ant[0] =~ s/.(?!.)//g;   #  (only one...)
+
   postprocess_ant($ant, $lang);
   my $ant1 = ($duplex > 2 || $version =~ /1960|Monastic/i) ? $ant : $ant[0];    #difference between 1955, 1960
-  my $ant1 = ($duplex > 2 || $version =~ /1960|Monastic/i) ? $ant : $ant[0];    #difference between 1995, 1960
+
 
   if ( $dayname[0] =~ /Pasc/i
     && (($hora =~ /vespera/i) 
@@ -1103,6 +1114,9 @@ sub antetpsalm {
       $ant1 = $ant = '';
     }
   }
+
+  if ($version =~ /Cistercian/i) { $ant1 =~ $ant[0]; }                       #no doubling in Cist. rite
+
   if ($hora =~ /Matutinum/i && $dayname[0] =~ /Pasc[1-6]/i) { ($ant1, $ant) = ant_matutinum($ant1, $ant, $ind); }
   $ant1 =~ s/\;\;[0-9\;n]+//;
   if ($ant1) { push(@s, "Ant. $ant1"); }
