@@ -1798,8 +1798,10 @@ sub spell_var {
     $t =~ s/\bco(t[ií]d[ií])/quo$1/g;
   }
   if (our $version =~ /Cistercian/) {
-    $t =~ s/[Cc]ael/[Cc]cœl/g;
-	$t =~ s/cæl|Cæl/cœl|Cœl/g;
+	$t =~ s/cæl/cœl/g;
+    $t =~ s/Cæl/Cœl/g;
+    $t =~ s/cael/cœl/g;
+    $t =~ s/Cael/Cœl/g;
     }
   return $t;
 }
