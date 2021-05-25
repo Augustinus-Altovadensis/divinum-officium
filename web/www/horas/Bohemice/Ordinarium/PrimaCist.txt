@@ -67,6 +67,7 @@ v. Svatá Maria a všichni Svatí ať se za nás přimlouvají u Hospodina: abyc
 &Gloria
 _
 $MLitany2
+
 ℣. Pohlédni na své služebníky, Pane‚ a na své dílo, a veď jejich syny.
 ℟. A budiž jas Pána našeho Boha nad námi, a skutky našich rukou řiď nad námi: a dílo našich rukou řiď.
 !A bez Orémus pokračuje Hebdomadář
@@ -79,10 +80,9 @@ _
 _
 ℣. Přikaž, pane, a požehnej.
 Benedictio. Dny a skutky naše ať zřídí ve svém pokoji všemohoucí Hospodin. Amen.
-_
+
 &regula
 
-#Lectio brevis
 !Když se ale recituje soukromě, toto bude krátké Čtení, které se čte po celý rok. 
 _
 !Krátké čtení. 2. Thess. 3. 
