@@ -59,19 +59,18 @@ s nímž vládneš vždy věku všemu.
 Amen.
 
 [Versum 1]
-V. Všichni byli naplněni Duchem Svatým, alleluia.
-R. A začali mluvit, alleluia.
+V. Všichni byli naplněni Duchem Svatým, alleluja.
+R. A začali mluvit, alleluja.
 
 [Ant 1]
-Nezanechám vás sirotky, * alleluia; Odejdu, ale znovu k vám přijdu, alleluia, a vaše srdce zajásají, alleluia.
+Nezanechám vás sirotky, * alleluja; Odejdu, ale znovu k vám přijdu, alleluja, a vaše srdce zajásají, alleluja.
 
 [Oratio]
-Bože, jenž jsi srdce svých věřících osvítil a poučil, dej nám, ať v tvém Duchu správně smýšlíme a vždy se radujeme 
-z jeho útěchy. 
+Bože, jenž jsi srdce svých věřících osvítil a poučil, dej nám, ať v tvém Duchu správně smýšlíme a vždy se radujeme z jeho útěchy. 
 $Per Dominum eiusdem
 
 [Invit]
-Alleluia, Duch Hospodinův naplnil okrsek světa: * Pojďme a klanějme se mu, alleluia.
+Alleluja, Duch Hospodinův naplnil okrsek světa: * Pojďme a klanějme se mu, alleluja.
 
 [HymnusM Matutinum]
 @:Hymnus Matutinum
@@ -127,8 +126,8 @@ Amen.
 Suddenly there came a sound from heaven * as of a rushing mighty wind, alleluia, alleluia.;;47
 Strengthen, O God, that which Thou hast wrought for us, * because of thy holy Temple at Jerusalem, alleluia, alleluia.;;67
 Send forth thy Spirit, and they shall be created * and Thou shalt renew the face of the earth, alleluia, alleluia.;;103
-V. The Spirit of the Lord filleth the world, alleluia.
-R. And That Which containeth all things hath knowledge of the voice, alleluia.
+V. Duch Hospodinův naplnil okrsek světa, alleluja.
+R. A což obsáhne všechny věci dostalo schopnost řeči, alleluja.
 
 [Lectio1]
 Continuation of the Holy Gospel according to John
@@ -161,45 +160,40 @@ R. And the multitude came together, saying: Alleluia.
 &teDeum
 
 [Hymnus Laudes]
-v. Round roll the weeks our hearts to greet,
-With blissful joy returning;
-For lo! the Holy Paraclete
-On twelve bright brows sits burning:
+v. Blažené nám zas radosti,
+běh světa ráčil přinésti;
+Když Utěšitel Duch Svatý 
+Vlil učedníkům spasení:
 _
-With quivering flame he lights on each,
-In fashion like a tongue, to teach
-That eloquent they are of speech,
-Their hearts with true love yearning.
+Oheň jeho jasným světlem,
+Co jazyků podobu měl,
+By se v řeči stali zběhlí,
+A v lásce vždycky horliví.
 _
-While with all tongues they speak to all,
-The nations deem them maddened,
-And drunk with wine the prophets call,
-Whom God's good Spirit gladdened;
+Když mluvili všech jazyky,
+Dav Pohanů měl obavy,
+Že mladým vínem opilí,
+Jsou ti, jež ten Duch naplní;
 _
-A marvel this—in mystery done—
-The holy paschaltide outrun,
-By numbers told, whose reckoning won
-Remission for the saddened.
+Stalo se tak však tajemně,
+Než Velkonoc čas přeběhne,
+V posvátném tomto počtu dnů,
+V němž přišly desky zákonů.
 _
-O God most Holy, thee we pray,
-With reverent brow low bending,
-Grant us the Spirit's gifts today
-The gifts from heaven descending;
+Tebe teď, Bože laskavý,
+Zkroušenou žádáme tváří,
+Z výše své nebeské sešli
+Nám Svatého Ducha dary;
 _
-And, since, thy grace hath deigned to bide
-Within our breasts once sanctified,
-Deign, Lord, to cast our sins aside,
-Henceforth calm seasons sending.
+Srdce právě požehnaná
+Tvou milostí jsou zas plná,
+Však hříchy nám odpusť naše,
+A uděl časy pokoje.
 _
-To God the Father, laud and praise,
-Praise to the Son be given;
-Praise to the Spirit of all grace,
-The fount of graces seven—
-_
-As was of old, all worlds before,
-Is now and shall be evermore,
-When time and change are spent and o'er
-All praise in earth and heaven.
+Bohu Otci nechť sláva zní,
+Též Synu jeho, jenž z mrtvých
+dnes vstal, i Duchu svatému,
+s nímž vládneš vždy věku všemu.
 Amen.
 
 [Ant 2]
