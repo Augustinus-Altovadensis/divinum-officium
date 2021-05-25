@@ -54,12 +54,12 @@ $Fidelium animae
 !Zde končí Prima. Pak se v Kapitulní síni čte Martyrologium bez požehnání.
 
 &martyrologium
-_
+
 ℣. Drahocenná je v Hospodinových očích
 ℟. Smrt jeho svatých.
 v. Svatá Maria a všichni Svatí ať se za nás přimlouvají u Hospodina: abychom si zasloužili pomoc obdržeti a spaseni býti od toho, jenž žije a kraluje na věky věkův.
 ℟. Amen.
-
+_
 !Pak se třikrát řekne ℣. 
 ℣. Bože, k pomoci mé shlédni.
 ℟. Pane, pospěš mi na pomoc.

@@ -54,12 +54,12 @@ $Fidelium animae
 !Hic expletur Prima. Deinde legitur Martyrologium in Capitulo sine benedictione.
 
 &martyrologium
-_
+
 ℣. Pretiósa in conspéctu Dómini.
 ℟. Mors Sanctórum ejus.
 v. Sancta María et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui vivit et regnat in sǽcula sæculórum.
 ℟. Amen.
-
+_
 !Deinde ter dicitur ℣. 
 ℣. Deus in adjutórium meum inténde.
 ℟. Dómine, ad adjuvándum me festína.
