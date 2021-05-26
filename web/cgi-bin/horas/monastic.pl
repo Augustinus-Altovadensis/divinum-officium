@@ -495,6 +495,7 @@ sub regula_emaus : ScriptFunc {
       }
     }
   }
+  $t .= "Regula de Emaus. Filename: \"$fname\", date $d. $m. \n";
   $t .= '$Tu autem';
   return $t;
 }
