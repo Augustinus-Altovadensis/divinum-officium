@@ -61,6 +61,11 @@ v. Prominutí + rozhřešení a odpuštění našich hříchů nechť udělí n�
 ℣. Bože, + k pomoci mé shlédni;
 ℟. Pane, přispěš k mé pomoci.
 
+[Deus in adjutorium Cist]
+!Po skončení připomínky malých Hodinek Panny Marie se udělá velký kříž, a na pokyn představeného se ukloníme Oltáři.
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+
 [Deus in adiutorium]
 ℣. Bože, + k pomoci mé shlédni;
 ℟. Pane, přispěš k mé pomoci.
@@ -70,7 +75,7 @@ v. Prominutí + rozhřešení a odpuštění našich hříchů nechť udělí n�
 ℟. Bohu díky.
 
 [Quorum animae]
-℣. Duše těchto zbožných velectěných otců a řeholních bratrů nechť jsou svěřeny našim prosbám!
+℣. Jejichž duše - těchto zbožných, velectěných otců, a řeholních bratrů - jsou svěřeny našim modlitbám!
 
 [Benedicamus Domino]
 ℣. Dobrořečme Pánu.
@@ -214,6 +219,5 @@ v. Pane, smiluj se; Kriste, smiluj se; Pane, smiluj se
 
 [Alleluia Duplex]
 Alleluja, alleluja.
-
 
 

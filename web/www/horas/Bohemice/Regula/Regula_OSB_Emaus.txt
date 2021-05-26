@@ -1,594 +1,539 @@
-#[1.1. - 2.5. - 1.9.]
+#[ 1.1. - 2.5. - 1.9. ]
 <b>Incipit prologus</b>
+Naslouchej, synu, mistrovu učení, nakloň k němu ucho svého srdce, a k čemu tě laskavý otec nabádá, to rád přijmi a uveď ve skutek, aby ses v namáhavé poslušnosti vrátil k tomu, od něhož ses vzdálil zahálčivou neposlušností. Obracím se nyní na tebe, kdo se zříkáš vlastní vůle, a chtěje sloužit ve vojsku Krista, Pána a pravého Krále, chápeš se mocných a přeslavných zbraní poslušnosti.
+Především, kdykoli začínáš něco dobrého, co nejusilovněji ho pros, aby to sám dokončil. Ten, jenž nás uznal za své děti, se pak už nikdy nebude muset rmoutit pro naše špatné činy. Obdaroval nás, a my ho máme vždycky poslouchat tak, aby nás nejen jednou nevydědil jako rozhněvaný otec své děti, ale aby nás ani jako obávaný pán nevydal, popuzen našimi hříchy, věčnému trestu jako ty nejničemnější služebníky, kteří ho nechtěli následovat ke slávě.
 
-Obsculta, o fili, præcepta magistri, et inclina aurem cordis tui et admonitionem pii patris libenter excipe et efficaciter conple, ut ad eum per obœdientiæ laborem redeas, a quo per inobœdientiæ desidiam recesseras. Ad te ergo nunc mihi sermo dirigitur, quisquis abrenuntians propriis voluntatibus, Domino Christo vero Regi militaturus obœdientiæ fortissima atque præclara arma sumis. In primis, ut quidquid agendum inchoas bonum, ab eo perfici instantissima oratione deposcas, ut qui nos jam in filiorum dignatus est numero conputare, non debet aliquando de malis actibus nostris contristari. Ita enim ei omni tempore de bonis suis in nobis parendum est ut non solum iratus pater suos non aliquando filios exheredet, sed nec ut metuendus dominus inritatus a malis nostris, ut nequissimos servos perpetuam tradat ad pœnam qui eum sequi noluerint ad gloriam.
+#[ 2.1. - 3.5. - 2.9. ]
+Povstaňme tedy už jednou, burcováni slovy Písma: <i>Už nám nastala hodina, kdy je třeba se probrat ze spánku.</i> A s očima otevřenýma pro božské světlo v ohromení slyšme, k čemu nás Boží hlas dennodenně vybízí: <i>Uslyšíte-li dnes jeho hlas, nezatvrzujte svá srdce.</i> A dále: <i>Kdo má uši k slyšení, ať poslouchá, co říká Duch církevním obcím.</i> A co říká? <i>Pojďte, synové, a slyšte mě, naučím vás bát se Hospodina. Choďte, dokud máte světlo, aby vás nezastihla tma smrti.</i>
 
-#[2.1. - 3.5. - 2.9.]
-Exurgamus ergo tandem aliquando excitante nos Scriptura ac dicente: <i>Hora est jam nos de somno surgere</i>, et apertis oculis nostris ad deificum lumen adtonitis auribus audiamus divina cotidie clamans quid nos admonet vox dicens: <i>Hodie si vocem eius audieritis, nolite obdurare corda vestra</i>. Et iterum: <i>Qui habet aures audiendi audiat, quid Spiritus dicat ecclesiis</i>. Et quid dicit? <i>Venite, filii, audite me; timorem Dei docebo vos. Currite dum lumen vitæ habetis, ne tenebræ mortis vos conprehendant</i>.
+#[ 3.1. - 4.5. - 3.9. ]
+V množství lidu, na který takto volá, hledá Pán svého služebníka, a proto opakuje: <i>Miluje-li kdo život? Přeje si dny štěstí?</i> Jestliže to zaslechneš a odpovíš: „Já“, říká ti Bůh: <i>Chceš-li mít pravý a věčný život, zdržuj svůj jazyk od zlého, své rty od falešných slov, chraň se zlého a čiň dobré, hledej pokoj a usiluj o něj. Budete-li se takto chovat, nespustím z vás svůj zrak a můj sluch bude nakloněn vašemu volání. A ještě dřív, než ke mně zavoláte, se vám ozvu: Zde jsem.</i> Co je pro nás, milí bratři, sladší než tento hlas Páně, který nás zve? Hle, ve své dobrotě nám Pán ukazuje cestu k životu.
 
-#[3.1. - 4.5. - 3.9.]
-Et quærens Dominus in multitudine populi cui hæc clamat operarium suum iterum dicit: <i>Quis est homo qui vult vitam et cupit videre dies bonos?</i> Quod si tu audiens respondeas: Ego, dicit tibi Deus: <i>Si vis habere veram et perpetuam vitam, prohibe linguam tuam a malo et labia tua ne loquantur dolum; deverte a malo et fac bonum, inquire pacem et sequere eam. Et cum hæc feceritis, oculi mei super vos et aures meas ad preces vestras, et antequam me invocetis, dicam vobis: Ecce adsum.</i> Quid dulcius ab hac voce Domini invitantis nos, fratres carissimi? Ecce pietate sua demonstrat nobis Dominus viam vitæ.
+#[ 4.1. - 5.5. - 4.9. ]
+Opásejme si tedy bedra vírou a konáním dobrých skutků a pod vedením evangelia se vydejme po jeho stezkách, abychom si tak zasloužili patřit na toho, kdo nás povolal do svého království.
+Chceme-li bydlet v příbytku jeho království, nedojdeme tam jinak než cestou dobrých skutků. S prorokem se zeptejme Pána: <i>Hospodine, kdo smí prodlévat ve tvém stánku, kdo přebývat na tvé svaté hoře?</i> Poslechněme si, bratři, co nám Pán na tuto otázku odpovídá a jak nám k onomu příbytku ukazuje cestu. Říká: <i>Vejde tam, kdo žije bez vady a koná spravedlnost, kdo upřímně smýšlí ve svém srdci, kdo svým jazykem nepomlouvá, kdo nečiní příkoří svému bližnímu, kdo netupí svého souseda,</i> kdo od svého srdce odvrhne zlomyslného ďábla, když mu něco našeptává, a i s jeho našeptáváním jím úplně pohrdne, uchopí jeho myšlenky ještě malé a roztříští je o Krista. Kdo se v bázni Boží nepovyšují pro své dobré chování, ale uznávají, že dobrého nejsou schopni sami od sebe, nýbrž skrze Pána. Pána, který v nich působí, velebí jako prorok: <i>Nikoliv nám, Hospodine, nikoliv nám, ale svému jménu zjednej slávu.</i> Stejně ani apoštol Pavel nepřičítal nic ze svého kázání sobě: <i>Boží milostí jsem to, co jsem.</i> A dále říká: <i>Kdo se chlubí, ať se chlubí v Pánu.</i>
 
-#[4.1. - 5.5. - 4.9.]
-Succinctis ergo fide vel observantia bonorum actuum lumbis nostris, per ducatum Evangelii pergamus itinera eius, ut mereamur eum qui nos vocavit in regnum suum videre. 
-In cujus regni tabernaculo si volumus habitare, nisi illuc bonis actibus curritur, minime pervenitur. Sed interrogemus cum Propheta Dominum dicentes ei: <i>Domine, quis habitabit in tabernaculo tuo, aut quis requiescet</i> <i>in monte sancto tuo?</i> Post hanc interrogationem, fratres, audiamus Dominum respondentem et ostendentem nobis viam ipsius tabernaculi, dicens: <i>Qui ingreditur sine macula et operatur iustitiam; qui loquitur veritatem in corde suo, qui non egit dolum in lingua sua; qui non fecit proximo suo malum, qui obprobrium non accepit adversus proximum suum</i>; qui malignum diabulum aliqua suadentem sibi cum ipsa suasione sua a conspectibus cordis sui respuens deduxit ad nihilum, et parvulos cogitatos eius tenuit et adlisit ad Christum; qui timentes Dominum de bona observantia sua non se reddunt elatos, sed ipsa in se bona non a se posse, sed a Domino fieri existimantes, operantem in se Dominum magnificant, illud cum Propheta dicentes: <i>Non nobis, Domine, non nobis, sed nomini tuo da gloriam</i>; sicut nec Paulus Apostolus de prædicatione sua sibi aliquid inputavit dicens: <i>Gloria Dei sum id quod sum</i>; et iterum ipse dicit: <i>Qui gloriatur, in Domino glorietur</i>.
+#[ 5.1. - 6.5. - 5.9. ]
+Proto také Pán v evangeliu praví: Kdo tato má slova slyší a podle nich jedná, podobá se rozvážnému muži, který si postavil dům na skále. Přivalila se povodeň, přihnala se vichřice a obořila se na ten dům – ale nezřítil se, protože měl základy na skále. Pán to řekl a očekává, že budeme na jeho svatá ponaučení každý den odpovídat skutky. Abychom napravili své chyby, jsou nám dny tohoto života prodlouženy jako příměří – apoštol říká: Copak nevíš, že tě Boží dobrota chce přivést k pokání? Vždyť dobrotivý Pán praví: Nemám zalíbení v hříšníkově smrti, ale aby hříšník své chování změnil a byl živ.
 
-#[5.1. - 6.5. - 5.9.]
-Unde et Dominus in Evangelio ait: <i>Qui audit verba mea hæc et facit ea, similabo eum viro sapienti qui ædificavit domum suam super petram; venerunt flumina, flaverunt venti, et inpegerunt in domum illam, et non cecidit, quia fundata erat super petram</i>. Hæc conplens Dominus expectat nos cotidie his suis sanctis monitis factis nos respondere debere. Ideo nobis propter emendationem malorum huius vitæ dies ad indutias relaxantur, dicente Apostolo: <i>An nescis quia patientia Dei ad pænitentiam te adducit?</i> Nam pius Dominus dicit: <i>Nolo mortem peccatoris, sed convertatur et vivat</i>.
+#[ 6.1. - 7.5. - 6.9. ]
+Když jsme se, bratři, Pána zeptali, kdo smí prodlévat v jeho stánku, vyslechli jsme ponaučení, co konat, abychom tam mohli přebývat. Kéž ty povinnosti plníme. Musíme tedy připravit svá srdce i těla pro vojenskou službu ve svaté poslušnosti přikázáním. A v čem naše přirozenost zmůže méně, v tom prosme Pána, aby nám pomohl svou milostí. Chceme-li uniknout pekelným trestům a dospět k věčnému životu, je třeba už nyní, dokud je čas a jsme v tomto těle a vše je možno plnit ve světle tohoto života, běžet a konat, co je nám užitečné pro věčnost.
 
-#[6.1. - 7.5. - 6.9.]
-Cum ergo interrogassemus Dominum, fratres, de habitatore tabernaculi eius, audivimus habitandi præceptum; sed si conpleamus habitatoris officium, erimus heredes regni cælorum. Ergo præparanda sunt corda nostra et corpora sanctæ præceptorum obœdientiæ militanda, et quod minus habet in nos natura possibile, rogemus Dominum, ut gratiæ suæ iubeat nobis adiutorium ministrare. Et si, fugientes gehennæ pœnas, ad vitam volumus pervenire perpetuam, dum adhuc vacat et in hoc corpore sumus et hæc omnia per hanc lucis vitam vacat implere, currendum et agendum est modo quod in perpetuo nobis expediat.
+#[ 7.1. - 8.5. - 7.9. ]
+Chceme tedy založit školu služby Pánu. Doufáme, že při tom nestanovíme nic tvrdého ani nic těžkého. I kdyby se však z oprávněných důvodů, pro napravení špatností nebo pro zachování lásky, přistoupilo k něčemu trochu přísnějšímu, neopouštěj hned ve strachu cestu spásy, která na začátku nemůže být jiná než úzká. Když se pak pokrokem v řeholním životě rozšíří srdce, běžíme cestou Božích přikázání z nevýslovně sladké lásky. Nikdy se nerozcházíme s jeho naukou, zůstáváme v jeho učení až do smrti v klášteře a trpělivostí získáváme podíl v Kristových utrpeních, abychom měli podíl i v jeho království. Amen.  (Konec Prologu)
 
-#[7.1. - 8.5. - 7.9.]
-Constituenda est ergo nobis dominici scola servitii. In qua institutione nihil asperum, nihil grave nos constituturos speramus; sed et si quid paululum restrictius, dictante æquitatis ratione, propter emendationem vitiorum vel conservationem charitatis processerit, non ilico pavore perterritus refugias viam salutis, quæ non est nisi angusto initio incipienda. Processu vero conversationis et fidei, dilatato corde inenarrabili dilectionis dulcedine curritur via mandatorum Dei, ut ab ipsius numquam magisterio discedentes, in eius doctrinam usque ad mortem in monasterio perseverantes passionibus Christi per patientiam participemur, ut et regno eius mereamur esse consortes. Amen.
 
+#[ 8.1. - 9.5. - 8.9. ]
+<b>Caput 1: Druhy mnichů</b>
+Jak známo, existují čtyři druhy mnichů. 
+Za prvé to jsou cenobité, kteří žijí v klášteře a bojují pod řeholí a opatem. Dalším druhem jsou anachorité neboli poustevníci, kteří už v řeholním životě nejsou horliví začátečníci, ale prošli všednodenními zkouškami v klášteře. S pomocí mnoha lidí se naučili bojovat proti ďáblu, v šiku bratří se dobře vycvičili k boji v samotě. Jsou jistí a jsou schopni s Boží pomocí bojovat proti špatnostem těla i myšlenek vlastními silami, bez opory druhého člověka. 
 
-#[8.1. - 9.5. - 8.9.]
-<b>Caput 1: De generibus monachorum</b>
+#[ 9.1. - 10.5. - 9.9. ]
+Třetím pak, velmi nízkým, druhem jsou sarabaité. Nejsou vytříbeni jako zlato v ohni žádnou řeholí ani školou zkušenosti, nýbrž jsou měkcí jako olovo. Svými skutky dosud věrně slouží světu a svou tonsurou zjevně obelhávají Boha. Po dvou, po třech či jednotlivě se bez pastýře uzavírají ne do ovčinců Páně, nýbrž do svých vlastních, kde je jim zákonem jen uspokojování vlastních choutek. Cokoliv si usmyslí nebo vyberou, to prohlašují za svaté, a co nechtějí, to pokládají za nedovolené. Čtvrtým druhem jsou mniši zvaní gyrovagové. Tráví celý svůj čas přecházením z jednoho kraje do druhého a nechávají se tam v celách po tři, čtyři dny hostit. Věční, nikde neustálení tuláci, otroci svévole a lákadel hrdla, ve všem daleko horší než sarabaité. O přeubohých mravech všech těchto mnichů je lépe mlčet než mluvit. Nechme je tedy a s pomocí Páně přistupme k uspořádání všeho pro statečné cenobity.
 
-Monachorum quattuor esse genera, manifestum est. Primum cœnobitarum, hoc est monasteriale, militans sub regula vel abbate. Deinde secundum genus est anachoritarum id est heremitarum, horum qui non conversationis fervore novicio, sed monasterii probatione diuturna, qui didicerunt contra diabulum multorum solacio jam docti pugnare, et bene extructi fraterna ex acie ad singularem pugnam heremi, securi jam sine consolatione alterius, sola manu vel brachio contra vitia carnis vel cogitationum, Deo auxiliante, pugnare sufficiunt.
 
-#[9.1. - 10.5. - 9.9.]
-Tertium vero monachorum teterrimum genus est sarabaitarum, qui nulla regula adprobati, experienta magistra, sicut aurum fornacis, sed in plumbi natura molliti, adhuc operibus servantes sæculo fidem, mentiri Deo per tonsuram noscuntur. Qui bini aut terni aut certe singuli sine pastore, non dominicis sed suis inclusi ovilibus, pro lege eis est desideriorum voluptas, cum quidquid putaverint vel elegerint, hoc dicunt sanctum, et quod noluerint, hoc putant non licere. Quartum vero genus est monachorum quod nominatur girovagum, qui tota vita sua per diversas provincias ternis aut quaternis diebus per diversorum cellas hospitantur, semper vagi et numquam stabiles, et propriis voluntatibus et guilæ inlecebris servientes, et per omnia deteriores sarabaitis. De quorum omnium horum miserrima conversatione melius est silere quam loqui. His ergo omissis, ad cœnobitarum fortissimum genus disponendum, adjuvante Domino, veniamus.
+#[ 10.1. - 11.5. - 10.9. ]
+<b>Caput 2: Opat</b>
+Opat, který je hoden stát v čele kláštera, musí mít neustále na paměti to, že je oslovován titulem otce, a svou hodnost přestaveného musí dokazovat skutky. Víra v něm totiž vidí Kristova náměstka v klášteře, protože mu dává jeho vlastní jméno – apoštol říká: <i>Dostali jste ducha těch, kdo byli přijati za vlastní, a proto můžeme volat: Abba, Otče!</i> Proto také nesmí opat učit, stanovit nebo poroučet nic, co by bylo proti přikázání Páně, ale jeho příkazy i učení ať v myslích žáků šíří kvas božské spravedlnosti. Opat má neustále myslet na to, že jeho učení i poslušnost žáků budou přezkoušeny na hrozném Božím soudu. Musí si být vědom, že každá ztráta, kterou shledá hospodář na užitku svých ovcí, bude dána za vinu pastýři. Ale stejně tak, jestliže s pastýřskou svědomitostí věnoval neklidnému a neposlušnému stádu veškerou péči, aby je z jeho chorobných mravů vyléčil, bude před soudem Páně osvobozen a s prorokem bude Pánu moci říci:<i> Nenechal jsem si pro sebe tvou spravedlnost, o tvé věrnosti a spáse jsem mluvil. Vzepřeli se však proti mně.</i> A pak ať stihne ovce, které se jeho péči vzepřely, jako trest sama mocná smrt.
 
+#[ 11.1. - 12.5. - 11.9. ]
+Když tedy někdo přijme titul opata, je povinen učit své žáky dvojí způsobem: Na jedné straně jim bude spíše skutky než slovy předvádět co je dobré a svaté – schopnějším žákům vyloží přikázání Páně slovy, zatvrzelejším a prostším ukáže božské učení svým příkladem. Na druhé straně má pak pak o všem, co ukáže žákům jako škodlivé, vlastním jednáním svědčit, že se to nemá dělat, <i>aby nekázal jiným, a sám byl přitom zavržen, aby mu Bůh jednou jako hříšníkovi neřekl: Proč odříkáváš má přikázání a bereš do úst mou smlouvu ty, který nenávidíš kázeň a má slova házíš za sebe?</i> A jak to, že vidíš třísku v oku svého bratra, ale trám ve svém oku nepozoruješ?
 
-#[10.1. - 11.5. - 10.9.]
-<b>Caput 2: Qualis debeat esse abbas</b>
+#[ 12.1. - 13.5. - 12.9. ]
+Opat nesmí dělat v klášteře rozdíly mezi osobami. Ať nemiluje jednoho více než druhého, ledaže by shledal, že je někdo lepší v dobrých skutcích nebo v poslušnosti. Svobodný nemá mít přednost před tím, kdo přišel jako otrok, není-li pro to nějaký rozumný důvod. Zdá-li se opatovi, že k tomu má spravedlivý důvod, může rozhodnout o pořadí kohokoliv; jinak ať bratři zaujímají svá vlastní místa. <i>Není už přece otrok anebo člověk svobodný, všichni jsme jedno v Kristu a pod jedním Pánem konáme stejnou vojenskou službu: Bůh totiž nehledí na to, co kdo je.</i> Rozlišuje mezi námi jen tehdy, když vidí že jsme v dobrých skutcích lepší a pokornější než druzí. Proto ať má opat ke všem stejnou lásku a ať se všemi nakládá stejně podle jejich zásluh.
 
-Abbas qui præesse dignus est monasterio semper meminere debet quod dicitur et nomen maioris factis implere. Christi enim agere vices in monasterio creditur, quando ipsius vocatur pronomine, dicente apostolo: <i>Accepistis spiritum adoptionis filiorum, in quo clamamus: Abba, Pater</i>. Ideoque abbas nihil extra præceptum Domini quod sit debet aut docere aut constituere vel iubere, sed jussio eius vel doctrina fermentum divinæ iustitiæ in discipulorum mentibus conspargatur, memor semper abbas quia doctrinæ suæ vel discipulorum obœdientiæ, utrarumque rerum, in tremendo judicio Dei facienda erit discussio. Sciatque abbas culpæ pastotis incumbere quidquid in ovibus paterfamilias utilitatis minus potuerit invenire. Tantumdem iterum erit ut, si inquieto vel inobœdienti gregi pastoris fuerit omnis diligentia adtributa et morbidis earum actibus universa fuerit cura exhibita, pastor eorum in judicio Domini absolutus dicat cum Propheta Domino: <i>Iustitiam tuam non abscondi in corde meo, veritatem tuam et salutare tuum dixi; ipsi autem contemnentes spreverunt me</i>, et tunc demum inobœtientibus cursæ suæ ovibus pœna sit eis prævalens ipsa mors.
+#[ 13.1. - 14.5. - 13.9. ]
+Ve svém učení se má opat vždycky držet příkladu apoštola, který říká: <i>Usvědčuj, zakazuj, povzbuzuj.</i> Jednou ať tedy jedná tak, podruhé jinak, jednou používá hrozeb, jindy laskavosti, tu ať ukazuje učitelskou přísnost, tu dobrotivou otcovskou lásku. S neukázněnými a neklidnými ať jedná přísněji, zatímco poslušným, mírným a trpělivým ať jen domlouvá, aby je přiměl k většímu zdokonalení. Klademe mu na srdce, aby káral a trestal nedbalé a vzpurné. Prohřešky chybujících nesmí přehlížet, ale jakmile jen začnou klíčit, ať je hned podle možnosti vytrhne od kořene a pamatuje na zlý konec Eliho, kněze v Silu. Ušlechtilé a chápavé tedy stačí jednou, dvakrát napomenout slovy, nepoctivé a tvrdohlavé či pyšné a neposlušné je však třeba hned od začátku hříchu krotit ranami nebo jiným tělesným trestem, jak je psáno: <i>Pošetilý se neukázní pouhými slovy.</i> A dále: <i>Bij svého syna metlou a z podsvětí vysvobodíš jeho duši.</i>
 
-#[11.1. - 12.5. - 11.9.]
-Ergo, cum aliquis suscipit nomen abbatis, duplici debet doctrina suis præesse discipulis, id est omnia bona et sancta factis amplius quam verbis ostendat, ut capacibus discipulis mandata Domini verbis proponere, duris corde vero et simplicioribus factis suis divina præcepta monstrare. Omnia vero quæ discipulis docuerit esse contraria, in suis factis indicet non agenda, <i>ne aliis prædicans ipse reprobus inveniatur</i>, ne quando illi <i>dicat Deus precanti: quare tu enarras iustitias meas et adsumis testamentum meum per os tuum? tu vero odisti disciplinam et proiecisti sermones meos post te</i>, et:qui <i>in fratris tui oculo festucam videbas, in tuo trabem non vidisti</i>.
+#[ 14.1. - 15.5. - 14.9. ]
+Opat má stále myslet na to, čím je, pamatovat, že je oslovován titulem otce, brát v úvahu, že komu se více svěřuje, od toho se také více žádá. 
+Musí si být vědom, jak nesnadný a obtížný úkol na sebe vzal: vést duše a sloužit různým povahám, s jedním jednat laskavě, jiného kárat, jiného přesvědčovat. A podle povahy a chápavosti jednoho každého se musí umět všem přizpůsobit a přiblížit nejen tak, aby na stádci, jež mu bylo svěřeno, neutrpěl škody, ale aby se mohl radovat z toho, že se mu dobré stádce rozmnožuje.
 
-#[12.1. - 13.5. - 12.9.]
-Non ab eo persona in monasterio discernatur. Non unus plus ametur quam alius, nisi quem in bonis actibus aut obœdientia invenerit meliorem. Non convertenti ex servitio præponatur ingenuus, nisi alia rationabilis causa existat. Quod si ita, iustitia dictante, abbati visum fuerit, et de cuiuslibet ordine id faciet; sin alias, propria teneant loca, quia: <i>Sive servus sive liber, omnes in Christo unum sumus</i> et sub uno Domino æqualem servitutis militiam baiulamus, quia: <i>Non est apud Deum personarum acceptio</i>. Solummodo in hac parte apud ipsum discernimur, si meliores ab aliis in operibus bonis et humiles inveniamur. Ergo æqualis sit ab eo omnibus charitas, una præ beatur in omnibus secundum merita disciplina.
+#[ 15.1. - 16.5. - 15.9. ]
+Hlavně však nesmí přehlížet nebo podcenit spásu sobě svěřených duší tím, že by se více staral věci časné, pozemské a pomíjivé. Stále musí mít na mysli, že na sebe vzal vedení duší, za které také bude muset skládat účty. Aby se snad neznepokojoval skrovnějšími hmotnými prostředky, ať si vzpomene, co je psáno: <i>Nejprve hledejte Boží království a jeho spravedlnost a všechno ostatní vám bude přidáno.</i> A dále: <i>Těm, kdo se bojí Hospodina, nic nechybí.</i> Ať ví, že ten, kdo na sebe bere vedení duší, se musí připravit na skládání účtů. Ať už má na starosti jakýkoliv počet bratří, má si být jist, že v den soudu bude muset Bohu složit účet za všechny ty duše a zcela jistě i za svou vlastní. A tak se neustále bojí budoucího zúčtování, kde bude jako pastýř skládat účty za ovce, které mu byly svěřeny. Zatímco myslí na skládání účtů za druhé, stará se tím i o své. Napomínáním pomáhá druhým k polepšení a zbavuje se i svých vlastních chyb.
 
-#[13.1. - 14.5. - 13.9.]
-In doctrina sua namque abbas apostolicam debet illam semper formam servare in qua dicit: <i>Argue, obsecra, increpa</i>, id est, miscens temporibus tempora, terroribus blandimenta, dirum magistri, pium patris ostendat affectum, id est indisciplinatos et inquietos debet durius arguere, obœdientes autem et mites et patientes, ut in melius proficiant obsecrare, neglegentes et contemnentes ut increpat et corripiat admonemus. Neque dissimulet peccata delinquentiump; sed ut, mox ut cœperint oriri, radicitus ea ut prævalet amputet, memor periculi Heli sacerdotis de Silo. Et honestiores quidem atque intellegibiles animos prima vel secunda admonitione verbis corripiat, inprobos autem et duros ac superbos vel inobœdientes verberum vel corporis castigatio in ipso initio peccati cœrceat, sciens scriptum: <i>Stultus verbis non corrigitur</i>, et iterum: <i>Percute filium tuum virga et liberabis animam eius a morte</i>.
+#[ 16.1. - 17.5. - 16.9. ]
+<b>Caput 3: Přibírání bratří na poradu</b>
+Kdykoliv se má v klášteře rozhodnout něco důležitějšího, opat svolá celou komunitu a sdělí jí, oč se jedná. Až vyslechne mínění bratří, sám u sebe to rozváží a učiní, co uzná za vhodnější. Řekli jsme, že se k poradě mají svolat všichni, protože Bůh často zjevuje to, co je lepší, mladšímu. Bratři mají ovšem dávat svou radu ve vší pokoře a podřízenosti, aniž na svém názoru tvrdošíjně lpějí. Rozhodnutí závisí spíše na opatovi a v tom, co on posoudí jako užitečnější, musejí ostatní poslechnout. Ale jako žákům náleží, aby svého učitele poslouchali, tak se také sluší, aby učitel všechno zařizoval prozíravě a spravedlivě.
 
-#[14.1. - 15.5. - 14.9.]
-Meminere debet semper abbas quod est, meminere quod dicitur, et scire quia cui plus committitur, plus ab eo exigitur. 
-Sciatque quam difficilem et arduam rem suscipit, regere animas et multorum servire moribus, et alium quidem blandimentis, alium vero increpationibus, alium suasionibus; et secundum unuscuiusque qualitatem vel intellegentiam, ita se omnibus conformet et aptet ut non solum detrimenta gregis sibi commissi non patiatur, verum in augmentatione boni gregis gaudeat.
+#[ 17.1. - 18.5. - 17.9. ]
+Všichni tedy mají ve všem poslouchat Řeholi jako svou učitelku a v ničem se od ní nesmějí lehkovážně odchýlit. Nikdo v klášteře nesleduje vůli vlastního srdce. Nikdo se neopováží přít se drze nebo mimo klášter se svým opatem. Kdo by se opovážil, bude potrestán podle Řehole. Opat sám má pak všechno konat v bázni Boží a podle Řehole, vědom si toho, že bude nepochybně muset z každého svého rozhodnutí skládat účty Bohu, soudci ze všech nejspravedlivějšímu.
+Jedná-li se o klášterní záležitosti méně důležité, poradí se jen se staršími, jak je psáno: Nechej si ve všem poradit a po činu nebudeš litovat.
 
-#[15.1. - 16.5. - 15.9.]
-Ante omnia, ne dissimulans aut parvipendens salutem animarum sibi commissarum, ne plus gerat sollicitudinem de rebus transitoriis et terrenis atque caducis, sed semper cogitet quia animas suscepit regendas, de quibus et rationem redditurus est. Et ne causetur de minori forte substantia , meminerit scriptum: <i>Primum quærite regnum Dei et iustitiam eius, et hæc omnia adicientur vobis</i>, et iterum: <i>Nihil deest timentibus eum</i>. Sciatque quia qui suscipit animas regendas paret se ad rationem reddendam. Et quantum sub cura sua fratrum se habere scierit numerum, agnoscat pro certo quia in die judicii ipsarum omnium animarum est redditurus Domino rationem, sine dubio addita et suæ animæ. Et ita, timens semper futuram discussionem pastoris de creditis ovibus, cum de aliis ratiociniis cavet, redditur de suis sollicitus, et cum de monitionibus suis emendationem aliis subministrat, ipse efficitur a vitiis emendatus.
 
+#[ 18.1. - 19.5. - 18.9. ]
+<b>Caput 4: Nástroje dobrých skutků</b>
+Především milovat Pána Boha celým svým srdcem, celou svou duší a celou svou silou. 
+Potom svého bližního jako sám sebe.
+Potom nezabíjet. 
+Necizoložit. 
+Nekrást. 
+Nebýt žádostivý. 
+Nevydávat křivé svědectví. 
+Ctít všechny lidi. 
+A co kdo nechce, aby se dělo jemu, ať sám nečiní jinému.
+Zapřít sám sebe a následovat Krista. 
+Držet své tělo v tuhé kázni. 
+Neoddávat se rozkoším. 
+Milovat půst.
+Sytit chudé. 
+Oblékat nahého. 
+Navštěvovat nemocného. 
+Pohřbívat mrtvého. 
+Pomáhat v soužení. 
+Těšit zarmouceného.
+Vyhýbat se způsobu jednání tohoto světa. 
+Ničemu nedávat přednost před láskou ke Kristu. 
+Nejednat v hněvu. 
 
-#[16.1. - 17.5. - 16.9.]
-<b>Caput 3: De adhibendis ad consilium fratribus</b>
+#[ 19.1. - 20.5. - 19.9. ]
+Neživit v sobě hněv. Nemít v srdci lest. Nedávat falešné pozdravení pokoje. Neupouštět od lásky. Nepřísahat, aby se nepřísahalo křivě. Srdcem i ústy mluvit pravdu. Neoplácet zlým za zlé. Nikomu nekřivdit, ale naopak trpělivě snášet bezpráví. Milovat nepřátele. Neproklínat ty, kdo nás proklínají, ale spíše jim žehnat. Snášet pronásledování pro spravedlnost.Nebýt pyšný. Nebýt pijan. Nepřekračovat míru v jídle. Nebýt ospalec. Nebýt lenoch. Nereptat. Nebýt nactiutrhačný. Svou naději skládat v Boha. Cokoliv se na nás najde dobrého, přičítat ne sobě, ale Bohu. Naopak si být vědom, že zlé konáme sami a musíme je připisovat sobě.
 
-Quotiens aliqua præcipua sunt in monasterio, convocet abbas omnem congregationem et dicat ipse unde agitur. Et audiens consilium fratrum tractet apud se et quod utilius judicaverit faciat. Ideo autem omnes ad consilium vocari diximus, quia sæpe juniori Dominus revelat quod melius est. Sic autem dent fratres consilium cum omni humilitatis subiectione, et non præsumant procaciter defendere quod eis visum fuerit; et magis in abbatis pendat arbitrio, ut quod salubrius esse judicaverit, ei cuncti obœdiant. Sed sicut discipulos convenit obœdire magistro, ita et ipsum provide et iuste condecet cuncta disponere.
+#[ 20.1. - 21.5. - 20.9. ]
+Obávat se soudného dne. Děsit se pekla. Veškerou duchovní touhu zaměřit na věčný život. Denně mít před očima svou smrt. V každém okamžiku střežit své skutky. Být přesvědčen, že se na nás všude dívá Bůh. Zlé myšlenky, které nám přijdou do srdce, ihned roztříštit o Krista a vyjevit duchovnímu otci. Chránit svá ústa před špatnou a zvrácenou řečí. Nemít zálibu ve žvanění. Nepronášet slova planá či rozpustilá. Nemilovat častý a hlasitý smích. Rád poslouchat svatá čtení. Často se vrhat na zem k modlitbě. Své minulé hříchy v slzách a s nářkem denně vyznávat v modlitbě Bohu. Propříště se z těch hříchů napravit. Nepropadat žádostem těla. Nenávidět vlastní vůli. Ve všem poslouchat opatovy příkazy, i kdyby on sám – nedej Bůh – jednal jinak, a pamatovat na ono přikázání Páně: <i>Dělejte všechno, co vám řeknou, ale podle jejich skutků nejednejte.</i> Netoužit, aby se o člověku říkalo, že je svatý, dříve než svatý skutečně je – ať je napřed svatý, aby se to pak říkalo větším právem. 
 
-#[17.1. - 18.5. - 17.9.]
-In omnibus igitur omnes magistram sequentur regulam, neque ab ea temere declinetur a quoquam. Nullus in monasterio proprii sequatur cordis voluntatem. Neque præsumat quisquam cum abbate suo proterve aut foris monasterium contendere. Quod si præsumpserit, regulari disciplinæ subiaceat. Ipse tamen abbas cum timore Dei et observatione regulæ omnia faciat, sciens se procul dubio de omnibus judiciis suis æquissimo judici Deo rationem redditurum. 
-Si qua vero minora agenda sunt in monasterii utilitatibus, seniorum tantum utatur consilio, sicut scriptum est: <i>Omnia fac cum consilio, et post factum non p</i>æ<i>niteberis</i>.
+#[ 21.1. - 22.5. - 21.9. ]
+Každý den skutky plnit Boží přikázání. Milovat čistotu. Nikoho nemít v nenávisti. Nebýt nevraživý. Nezávidět. Nemilovat hašteřivost. Vyhýbat se povýšenosti. Dále prokazovat úctu starším. Milovat mladší. Z lásky ke Kristu se modlit za nepřátele. Před západem slunce se usmířit s rozhněvaným. A nikdy neztrácet naději na Boží milosrdenství. Toto jsou tedy nástroje duchovního umění. Budeme-li je nepřetržitě ve dne v noci používat a prokážeme-li se jimi v den soudu, odplatí nám Bůh mzdou, kterou nám přislíbil: <i>Ani oko nevidělo, ani ucho neslyšelo, co všechno připravil Bůh těm, kdo ho milují.</i> Dílnou, kde to všechno máme svědomitě konat, jsou prostory kláštera a stálost v komunitě.
 
 
-#[18.1. - 19.5. - 18.9.]
-<b>Caput 4: Quæ sunt instrumenta bonorum operum</b>
+#[ 22.1. - 23.5. - 22.9. ]
+<b>Caput 5: Poslušnost</b>
+První stupeň pokory je poslušnost bez váhání. Vyznačují se jí ti, jimž není nic dražší než Kristus. Pro svatou službu, k níž se zavázali svými sliby, či ze strachu před peklem nebo pro slávu věčného života, jakmile představený něco rozkáže, jako by příkaz vyšel od samého Boha, ihned to bez váhání vykonají. Pán o nich říká: Poslouchá mě na jediné slovo. A těm, kdo učí, říká: Kdo poslouchá vás, poslouchá mne. Takoví mniši tedy ihned opouštějí svůj osobní zájem a zříkají se vlastní vůle, ihned odkládají vše z rukou, zanechají nedokončené, co dělali, a rychlým krokem poslušnosti následují skutkem hlas toho, kdo dal rozkaz. A v chvatu bázně Boží, jako by se zmíněný příkaz učitelův i hotové žákovo dílo odehrály zároveň, probíhá obojí co nejrychleji. To láska je nutí jít k životu věčnému. Proto vykračují na úzkou stezku, o níž Pán říká: Úzká je cesta, která vede k životu. Nežijí podle vlastního úsudku, neposlouchají své žádosti a choutky, ale následují úsudek a rozkaz někoho jiného, jsou v klášteře a touží mít nad sebou opata. Bezpochyby tak plní výrok Páně: Přišel jsem, ne abych konal svou vůli, ale vůli toho, který mě poslal.
 
-In primis Dominum Deum diligere ex toto corde, tota anima, tota virtute. 
-Deinde proximum tamquam seipsum. 
-Deinde non occidere. 
-Non adulterare. 
-Non facere futum. 
-Non concupiscere. 
-Non falsum testimonium dicere. 
-Honorare omnes homines. 
-Et quod sibi quis fieri non vult, alio ne faciat. 
-Abnegare semetipsum sibi ut sequatur Christum. 
-Corpus castigare. 
-Delicias non amplecti. 
-Jejunium amare. 
-Pauperes recreare.
-Nudum vestire. 
-Infirmum visitare. 
-Mortuum sepelire. 
-In tribulatione subvenire. 
-Dolentem consolari. 
-Sæculi actibus se facere alienum. 
-Nihil amori Christi præponere. 
-Iram non perficere.
+#[ 23.1. - 24.5. - 23.9. ]
+Tato poslušnost však bude Bohu milá a lidem příjemná jen tehdy, když se rozkaz neplní ani zmateně, ani loudavě, liknavě či s reptáním nebo s odmlouváním. Vždyť poslušnost, která se prokazuje představeným, se prokazuje Bohu. On přece řekl: <i>Kdo poslouchá vás, poslouchá mne.</i> Žáci mají poslušnost prokazovat ochotně, protože <i>Bůh miluje radostného dárce</i>. Jestliže totiž žák poslouchá nerad a reptá nejen ústy, ale i v srdci, tu i kdyby rozkaz splnil, nebude to už milé Bohu, který viděl jeho reptající srdce, a za takový čin už nedojde žádné odměny. Naopak, neučiní-li zadost a nepolepší-li se, bude za reptání potrestán.
 
-#[19.1. - 20.5. - 19.9.]
-Iracundiæ tempus non reservare. Dolum in corde non tenere. Pacem falsam non dare. Caritatem non derelinquere. Non iurare ne forte periuret. Veritatem ex corde et ore proferre. Malum pro malo non reddere. Iniuriam non facere, sed et factas patienter sufferre. Inimicos diligere. Maledicentes se non remaledicere, sed magis benedicere. Persecutionem pro iustitia sustinere. Non esse superbum. Non vinolentum. Non multum edacem. Non somnulentum. Non pigrum. Non murmuriosum. Non detractorem. Spem suam Deo committere. Bonum aliquid in se cum viderit, Deo adplicet, non sibi. Malum vero semper a se factum sciat et sibi reputet.
 
-#[20.1. - 21.5. - 20.9.]
-Diem judicii timere. Gehennam expavescere. Vitam æternam omni concupiscentia spiritali desiderare. Mortem cotidie ante oculos suspectam habere. Actus vitæ suæ omni hora custodire. In omni loco Deum se respicere pro certo scire. Cogitationes malas cordi suo advenientes mox ad Christum adlidere et seniori spiritali patefacere.Os suum a malo vel pravo eloquio custodire. Multum loqui non amare. Verba vana aut risui apta non loqui. Risum multum aut excussum non amare. Lectiones sanctas libenter audire. Orationi frequenter incumbere. Mala sua præterita cum lacrimis vel gemitu cotidie in oratione Deo confiteri. De ipsis malis de cetero emendare. Desideria carnis non efficere. Voluntatem propriam odire. Præceptis abbatis in omnibus obœdire, etiam si ipse aliter - quod absit - agat, memores illud dominicum præceptum: <i>Quæ dicunt facite, quæ autem faciunt facere nolite</i>. Non velle dici sanctum antequam sit, sed prius esse quod verius dicatur.
+#[ 24.1. - 25.5. - 24.9. ]
+<b>Caput 6: Mlčenlivost</b>
+Jednejme podle toho, co praví prorok: <i>Řekl jsem: Dám si pozor na své chování, abych nezhřešil svým jazykem, do svých úst jsem vložil uzdu, zmlkl jsem a pokořil jsem se a nemluvil jsem ani o dobrém.</i> Prorok nám zde ukazuje, že máme-li se pro lásku k mlčení občas zdržet i řečí dobrých, tím spíše se máme zdržet slov zlých, abychom nebyli trestáni za hřích. Pro závažnost mlčenlivosti se proto má i dokonalým žákům dávat dovolení k řeči jen zřídka, i kdyby šlo o rozhovor užitečný, svatý a poučný. Neboť je psáno: <i>Velké žvanění se neobejde bez hříchu.</i> A jinde: <i>Jazyk má ve své moci smrt i život.</i> Mluvit a poučovat totiž náleží učiteli, mlčet a naslouchat přísluší žáku. Kdykoliv se žádá něco od představeného, ať se to děje se vší pokorou a s uctivou podřízeností. Lehkomyslné žerty, prázdné řeči či rozpustilá slova navždy a všude zapovídáme a nedovolujeme, aby k nim žák otvíral ústa.
 
-#[21.1. - 22.5. - 21.9.]
-Præcepta Dei factis cotidie adimplere. Castitatem amare. Nullum odire. Zelum non habere. Invidiam non exercere. Contentionem non amare. Elationem fugere. Et seniores venerare. Juniores diligere. In Christi amore pro inimicis orare. Cum discordante ante solis occasum in pacem redire. Et de Dei misericordia numquam desperare. Ecce hæc sunt instrumenta artis spiritalis. Quæ cum fuerint a nobis die noctuque incessabiliter adimpleta et in die judicii reconsignata, illa mercis nobis a Domino reconpensabitur quam ipse promisit: <i>Quod oculus non vidit nec auris audivit, quæ præparavit Deus his qui diligunt illum</i>. Officina vero ubi hæc omnia diligenter operemur claustra sunt monasterii et stabilitas in congregatione.
 
+#[ 25.1. - 26.5. - 25.9. ]
+<b>Caput 7: Pokora</b>
+Bratři, Písmo svaté k nám volá: <i>Každý, kdo se povyšuje, bude ponížen, a kdo se ponižuje, bude povýšen.</i> Těmito slovy nám chce ukázat, že jakékoliv sebevynášení je jen výrazem pýchy. Pýše se vyhýbá, jak sám prohlašuje, i prorok: <i>Hospodine, mé srdce se nevypíná, nevyvyšují se mé oči, neženu se za velkými věcmi, pro mne nedostižnými.</i> Co však, <i>jestliže jsem nesmýšlel pokorně a vyvyšoval jsem se v duši? Jako dítěti odstavenému od matky, tak odplácíš mé duši.</i>
 
-#[22.1. - 23.5. - 22.9.]
-<b>Caput 5: De obœdentia</b>
+#[ 26.1. - 27.5. - 26.9. ]
+Chceme-li tedy, bratři, dosáhnout vrcholu pokory a co nejrychleji dospět ke svému povýšení v nebi, k němuž se stoupá pokorou v tomto životě, musíme si k výstupu postavit ze svých skutků takový žebřík, jaký se ve snu zjevil Jakubovi: viděl, jak po tom žebříku sestupují a vystupují andělé. Toto sestupování a vystupování nepochybně neznamená nic jiného, než že sebevynášením se sestupuje a pokorou vystupuje. Ten postavený žebřík je náš pozemský život a Pán jej vztyčuje až k nebi, je-li naše srdce ponížené. Jeho postranními tyčemi rozumíme své tělo a duši: do nich nám Boží povolání zapustilo jednotlivé příčky pokory a dokonalosti, abychom mohli vystupovat.
 
-Primus humilitatis gradus est obœdientia sine mora. Hæc convenit his qui nihil sibi a Christo carius aliquid existimant. Propter servitium sanctum quod professi sunt seu propter metum gehennæ vel gloriam vitæ æternæ, mox aliquid imperatum a maiore fuerit, ac si divinitus imperetur, moram pati nesciant in faciendo. De quibus Dominus dicit: <i>Obauditu auris obœdivit mihi</i>. Et item dicit doctoribus: <i>Qui vos audit me audit</i>. Ergo hii tales, relinquentes statim quæ sua sunt et voluntatem propriam deserentes, mox exoccupatis manibus et quod agebant imperfectum relinquentes, vicino obœdentiæ pede iubentis vocem factis sequuntur, et veluti uno momento prædicta magistri jussio et perfecta discipuli opera, in velocitate timoris Dei, ambæ res communiter citius explicantur. Quibus ad vitam æternam gradiendi amor incumbit, ideo angustam viam arripiunt, unde Dominus dicit: <i>Angusta via est quæ ducit ad vitam</i>, ut non suo arbitrio viventes et desideriis suis et voluptatibus obœdientes, sed ambulantes alieno judicio et imperio, in cœnobiis degentes abbatem sibi præesse desiderant. Sine dubio hii tales illam Domini imitantur sententiam qua dicit: <i>Non veni facere voluntatem meam, sed eius qui misit me</i>.
+#[ 27.1. - 28.5. - 27.9. ]
+První stupeň pokory tedy spočívá v tom, že si mnich stále staví před oči Boží bázeň, že si dá pozor, aby na Boha nikdy nezapomněl a stále má na paměti Boží přikázání. Ve svém srdci stále přemítá o tom, že v pekle budou za hříchy hořet všichni, kdo Bohem pohrdají, a že pro ty, kdo se Boha bojí, je připraven věčný život. V každé chvíli se střeží hříchů a špatností myšlenek, jazyka, rukou, nohou nebo svévole, ale i žádostí těla. Je si vědom, že Bůh se z nebe na člověka stále dívá, božský zrak na každém místě vidí jeho skutky a andělé je stále Bohu oznamují.
+Říká nám to i prorok, když ukazuje, jak je Bůh stále přítomen našim myšlenkám: <i>Bože, který zkoumáš srdce i ledví.</i> A také: <i>Hospodin zná myšlenky lidí.</i> A také říká: <i>Poznáváš mé myšlenky již z dálky</i> a: <i>smýšlení člověka je ti zjevné.</i> Aby svědomitý bratr zůstával bdělý před špatnými myšlenkami, ať si v srdci stále říká: <i>Tehdy budu před ním bez úhony, uchovám-li se bez viny.</i>
 
-#[23.1. - 24.5. - 23.9.]
-Sed hæc ipsa obœdientia tunc acceptabilis erit Deo et dulcis hominibus, si quod iubetur non trepide, non tarde, non tepide, aut cum murmurio vel cum responso nolentis efficiatur, quia obœdientia quæ maioribus præbetur Deo exhibetur; ipse enim dixit: <i>Qui vos audit me audit</i>. Et cum bono animo a discipulis præberi oportet, quia <i>hilarem datorem diligit Deus</i>. Nam, cum malo animo si obœdit discipulus et non solum ore, sed etiam in corde si murmuraverit, etiam si impleat jussionem, tamen acceptum jam non erit Deo, qui cor eius respicit murmurantem. Et pro tali facto nullam consequitur gratiam, immo pœnam murmurantium incurrit, si non cum satisfactione emendaverit.
+#[ 28.1. - 29.5. - 28.9. ]
+Vlastní vůli nám Písmo zakazuje konat, když říká: <i>Drž na uzdě své choutky.</i> Podobně prosíme Boha v modlitbě Páně, aby se v nás naplnila Jeho vůle. Právem se tedy učíme vlastní vůli nepovolovat, protože jen tak se vyhneme tomu, o čem Písmo říká: <i>Lidem se zdá, že jejich cesty vedou rovně, ale nakonec vyústí ve smrt.</i> Rovněž se obáváme toho, co je psáno o nedbalých: <i>Jsou ve svých rozkoších zkažení a zvrácení.</i>
+A stejně musíme být přesvědčeni, že Bůh je přítomen i našim tělesným žádostem. Vždyť prorok říká Pánu: <i>Ty víš o každé mé touze. </i>
 
+#[ 29.1. - 30.5. - 29.9. ]
+Chraňme se tedy zlé žádostivosti, protože na prahu rozkoše stojí smrt. Proto Písmo napomíná: <i>Nedej se strhnout svými touhami</i>. 
+Jestliže <i>Hospodinovy oči pozorují zlé i dobré</i> a jestliže <i>Hospodin shlíží z nebe na lidské syny, aby viděl, zda je kdo rozumný a vyhledává Boha</i>, a je-li od andělů, které nám přidělil, ve dne v noci zpravován o našich skutcích i chování, mějme se, bratři, vždy na pozoru, aby Bůh, jak říká prorok v žalmu, neshledal, že jsme pobloudili ke zlému a zkazili se. A když nás v tomto čase šetří, protože je laskavý a čeká, že se obrátíme k lepšímu, kéž nám jednou neřekne: <i>Takto jsi jednal, a já jsem mlčel.</i>
 
-#[24.1. - 25.5. - 24.9.]
-<b>Caput 6: De taciturnitate</b>
+#[ 30.1. - 31.5. - 30.9. ]
+Druhý stupeň pokory spočívá v tom, že mnich nemiluje svou vlastní vůli a nelibuje si v uspokojování svých vlastních žádostí, ale skutky následuje hlas Páně: <i>Přišel jsem, ne abych konal svou vůli, ale vůli toho, který mě poslal.</i> Také je psáno: Z<i>vůle vede k trestu, ale nutnost poslouchat získává korunu.</i>
 
-Faciamus quod ait Propheta: <i>Dixi: custodiam vias meas, ut non delinquam in lingua mea. Posui ori meo custodiam, obmutui et humiliatus sum et silui a bonis.</i> Hic ostendit Propheta, si a bonis eloquiis interdum propter taciturnitatem debet tacere, quanto magis a malis verbis propter pœnam peccati debet cessari. Ergo quamvis de bonis et sanctis et ædificationum eloquiis perfectis discipulis propter taciturnitatis gravitatem rara loquendi concedatur licentia, quia scriptum est:<i>In multiloquio non effugies peccatum</i>, et alibi: <i>Mors et vita in manibus lingu</i>æ. Nam loqui et docere magistrum condecet, tacere et audire discipulum convenit. Et ideo, si qua requirenda sunt a priore, cum omni humilitate et subiectione reverentiæ requirantur. Scurrilitates vero vel verba otiosa et risum moventia æterna clusura in omnibus locis damnamus et ad talia eloquia aperire os non permittimus.
+#[ 31.1. - 1.6. - 1.10. ]
+Třetí stupeň pokory spočívá v tom, že se mnich z lásky k Bohu ve vší poslušnosti podřídí představenému a napodobí tak Pána, o němž apoštol říká: <i>Byl poslušný až k smrti.</i>
 
+#[ 1.2. - 2.6. - 2.10. ]
+Čtvrtý stupeň pokory spočívá v tom, že je mnich poslušný i v těžkých a protivných věcech, ba tiše obejme svědomím trpělivost i v jakémkoliv nezaslouženém bezpráví. Všechno snáší, aniž ochabne nebo uteče, podle slov Písma: <i>Kdo vytrvá až do konce, bude spasen.</i> A také: <i>Ať se vzmuží tvé srdce, doufej v Hospodina!</i> Na důkaz toho že věřící má pro Boha snášet všechno, i protivenství, říká Písmo ústy trpících: <i>Stále jsme pro tebe vydáváni na smrt, jsme pokládáni za ovce určené na porážku.</i> Jisti si Boží odměnou však trpící radostně dodávají: <i>Ale v tom ve všem vítězíme skrze toho, který si nás zamiloval.</i> Na jiném místě Písmo také říká: <i>Zkoušel jsi nás, Bože, tříbil jsi nás ohněm, jako se tříbí stříbro. Zavedl jsi nás do léčky, těžké břímě jsi vložil na naše bedra.</i> A aby se ukázalo, že musíme být pod představenými, pokračuje Písmo: <i>Postavils lidi nad naše hlavy. </i>Ale bratři i v protivenství a bezpráví trpělivě plní příkaz Páně, a <p>když je někdo udeří do tváře, nastaví mu i druhou,</p> bere-li jim někdo <p>šaty, nechají mu i plášť, přinuceni doprovázet jednu míli, jdou dvě</p>, a s apoštolem Pavlem <p>snášejí falešné bratry a dobrořečí těm, kdo jim zlořečí.</p>
 
+#[ 2.2. - 2.6. - 3.10. ]
+Pátý stupeň pokory spočívá v tom, že mnich netají před svým opatem žádné zlé myšlenky, které se mu objevují v srdci, ani co vskrytu vykonal špatného, ale pokorně se mu z toho vyzná. Vybízí nás k tomu Písmo: <i>Hospodinu svěř svůj osud, v Něho důvěřuj. </i>A také říká: <i>Vyznávejte se Hospodinu, neboť je dobrý, neboť jeho milosrdenství je věčné.</i> A rovněž prorok: <i>Vyznal jsem se ti ze svého hříchu, svou nepravost jsem nezatajil. Řekl jsem: Vyznávám se Hospodinu, ze své nepravosti. A tys mi odpustil bezbožnost mého srdce.</i>
 
-#[25.1. - 26.5. - 25.9.]
-<b>Caput 7: De humilitate</b>
+#[ 3.2. - 4.6. - 4.10. ]
+Šestý stupeň pokory spočívá v tom, že se mnich spokojuje se vším nízkým a podřadným, pro vše, co se mu ukládá, se považuje za nehodného a s prorokem si říká <i>Byl jsem nerozumný a nechápal jsem, byl jsem před Tebou podobný němé tváři, chci však být stále u tebe.</i>
 
-Clamat nobis Scriptura divina, fratres, dicens: <i>Omnis qui se exaltat humiliabitur et qui se humiliat exaltabitur</i>. Cum hæc ergo dicit, ostendit nobis omnem exaltationem genus esse superbiæ. Quod se cavere Propheta indicat dicens: <i>Domine, non est exaltatum cor meum neque elati sunt oculi mei, neque ambulavi in magnis neque in mirabilibus super me</i>. Sed quid, <i>si non humiliter sentiebam, si exaltavi animam meam, sicut ablactatum super matrem suam, ita retribues in animam suam</i>.
+#[ 4.2. - 5.6. - 5.10. ]
+Sedmý stupeň pokory spočívá v tom, že se mnich nejen ústy prohlašuje za posledního a nejubožejšího ze všech, ale je o tom přesvědčen i v hloubi svého srdce. Pokořuje se a s prorokem říká: <i>Já však jsem červ a ne člověk, na pohanu lidem, a na potupu chátře. Byl jsem povýšen, ale pak ponížen a zahanben.</i> A také: <i>Dobře mi, že jsem byl pokořen, abych se naučil Tvým předpisům.</i>
 
-#[26.1. - 27.5. - 26.9.]
-Unde fratres, si summæ humilitatis volumus culmen adtingere et ad exaltationem illam cælestem ad quam per præsentis vitæ humilitatem ascenditur, volumus velociter pervenire, actibus nostris ascendentibus scala illa erigenda est quæ in somnio Iacob apparuit, per quam ei descendentes et ascendentes angeli monstrabantur. Non aliud sine dubio descensus ille et ascensus a nobis intelligitur nisi exaltatione descendere et humilitate ascendere. Scala vero ipsa erecta nostra est vita in sæculo, quæ humiliato corde a Domino erigatur ad cælum. Latera enim eius scalæ dicimus nostrum esse corpus et animam, in qua latera diversos gradus humilitatis vel disciplinæ evocatio divina ascendendo inseruit.
+#[ 5.2. - 6.6. - 6.10. ]
+Osmý stupeň pokory spočívá v tom, že mnich nedělá nic jiného, než k čemu ho pobízí společná Řehole kláštera a příklady Otců.
 
-#[27.1. - 28.5. - 27.9.]
-Primus itaque humilitatis gradus est, si timorem Dei sibi ante oculos semper ponens, oblivionem omnimo fugiat et semper sit memor omnia quæ præcepit Deus, ut qualiter et contemnentes Deum gehenna de peccatis incendat et vita æterna quæ timentibus Deum præparata est, animo suo semper revolvat. Et custodiens se omni hora a peccatis et vitiis, id est cogitationum, linguæ, manuum, pedum vel voluntatis propriæ sed et desideria , æstimet se homo de cælis a Deo semper respici omni hora et facta sua omni loco ab aspectu Divinitatis videri et ab angelis omni hora renuntiari. 
-Demonstrans nobis hoc Propheta, cum in cogitationibus nostris ita Deum semper præsentem ostendit dicens: <i>Scrutans corda et renes Deus</i>; et item: <i>Dominus novit cogitationes hominum</i>; et item dicit: <i>Intellexisti cogitationes meas a longe</i>; et: <i>Quia cogitatio hominis confitebitur tibi</i>. Nam ut sollicitus sit circa cogitationes suas perversas, dicat semper utilis frater in corde suo: <i>Tunc ero immaculatus coram eo si observavero me ab iniquitate mea</i>.
+#[ 6.2. - 7.6. - 7.10. ]
+Devátý stupeň pokory spočívá v tom, že mnich brání svému jazyku v řečnění, zachovává mlčenlivost a nemluví, pokud není tázán, jak ukazuje Písmo: <i>Velké žvanění se neobejde bez hříchu</i> a: <i>mluvka neobstojí na zemi.</i>
 
-#[28.1. - 29.5. - 28.9.]
-Voluntatem vero propriam ita facere prohibemur cum dicit Scriptura nobis: <i>Et a voluntatibus tuis avertere</i>. Et item rogamus Deum in oratione ut <i>fiat</i> illius <i>voluntas</i> in nobis. Docemur ergo merito nostram non facere voluntatem cum cavemus illud quod dicit Scriptura: <i>Sunt viæ quæ putantur ab hominibus rectæ, quarum finis usque ad profundum inferni demergit</i>, et cum item pavemus illud quod de neglegentibus dictum est: <i>Corrupti sunt et abominabiles facti sunt in voluntatibus suis</i>. 
-In desideriis vero carnis ita nobis Deum credamus semper esse præsentem, cum dicit Propheta Domino: <i>Ante te est omne desiderium meum</i>.
+#[ 7.2. - 8.6. - 8.10. ]
+Desátý stupeň pokory spočívá v tom, že mnich není náchylný a připravený k smíchu, neboť je psáno: <i>Blázen se při smíchu hlasitě chechtá.</i>
 
-#[29.1. - 30.5. - 29.9.]
-Cavendum ergo ideo malum desiderium, quia mors secus introitum dilectationis posita est. Unde Scriptura præcepit dicens: <i>Post concupiscentias tuas non eas</i>. 
-Ergo si <i>oculi Domini speculantur bonos et malos</i> et <i>Dominus de cælo semper respicit super filios hominum, ut videat si est intellegens aut requirens Deum</i>, et si ab angelis nobis deputatis cotidie die noctuque Domino factorum nostrorum opera nuntiantur, cavendum est ergo omni hora, fratres, sicut dicit in psalmo Propheta, ne nos declinantes in malo et inutiles factos aliqua hora aspiciat Deus et, parcendo nobis in hoc tempore, quia pius est et expectat nos converti in melius, ne dicat nobis in futuro: <i>Hæc fecisti et tacui</i>.
+#[ 8.2. - 9.6. - 9.10. ]
+Jedenáctý stupeň pokory spočívá v tom, že když mnich mluví, dělá to klidně, beze smíchu a s pokornou vážností, nemluví mnoho, ale rozumně, a nezvedá při tom hlas, jak je psáno: <i>Moudrý se pozná podle mála slov.</i>
 
-#[30.1. - 31.5. - 30.9.]
-Secundus humilitatis gradus est, si propriam quis non amans voluntatem desideria sua non delectetur implere, sed vocem illam Domini factis imitemur   dicentis: <i>Non veni facere voluntatem meam, sed eius qui me misit</i>. Item dicit Scriptura: <i>Voluntas habet pœnam et necessitas parit coronam</i>.
+#[ 9.2. - 10.6. - 10.10. ]
+Dvanáctý stupeň pokory spočívá v tom, že mnich ukazuje svou pokoru těm, kdo ho vidí, nejen srdcem, ale i držením těla. Při bohoslužbách, v oratoři, v klášteře, na zahradě, na cestě, na poli a všude jinde, kde sedí, kudy chodí nebo kde stojí, má totiž vždycky hlavu skloněnou a oči sklopené: je si v každém okamžiku vědom svých hříchů a představuje si, že už stojí na hrozném soudu. V duchu si stále opakuje, co řekl se zrakem sklopeným k zemi celník v evangeliu: <i>Pane, já hříšník nejsem hoden pozdvihnout své oči k nebi.</i> A také s prorokem: <i>Jsem úplně shrbený a zkrušený.</i>
+Když tedy mnich vystoupí po všech těchto stupních pokory, záhy dospěje k té lásce k Bohu, která svou dokonalostí vyhání strach. Všechno, co dřív dodržoval ne beze strachu, začne proto plnit bez jakékoliv námahy, takřka přirozeně, z návyku, ne už z hrůzy před peklem, ale z lásky ke Kristu, z dobrého návyku a ze záliby ve cnostech. Tak se na svém služebníku, který je už čistý od svých špatností a hříchů, projeví milostivě Duchem svatým Pán.
 
-#[31.1. - 1.6. - 1.10.]
-Tertius humilitatis gradus est, ut quis pro Dei amore omni obœdientia se subdat maiori, imitans Dominum, de quo dicit Apostolus: <i>Factus obœdiens usque ad mortem</i>.
 
-#[1.2. - 2.6. - 2.10.]
-Quartus humulitatis gradus est, si in ipsa obœdientia duris et contrariis rebus vel etiam quibuslibet inrogatis iniuriis, tacite conscientia patientiam amplectatur et sustinens non lassescat vel discedat, dicente Scriptura: <i>Qui perseveraverit usque in finem, hic salvus erit</i>. Item: <i>Confortetur cor tuum et sustine Dominum</i>. Et ostendens fidelem pro Domino universa etiam contraria sustinere debere, dicit ex persona sufferentium: <i>Propter te morte adficimur tota die, æstimati sumus ut oves occisionis</i>. Et securi de spe retributionis divinæ subsecuntur gaudentes et dicentes: <i>Sed in his omnibus superamus propter eum qui dilexit nos</i>. Et item alio loco Scriptura: <i>Probasti nos, Deus, igne nos examinasti sicut igne examinatur argentum; induxisti nos in laqueum; posuisti tribulationes in dorso nostro</i>. Et ut ostendat sub priore debere nos esse, subsequitur dicens: <i>Inposuisti homines super capita nostra</i>. Sed et præceptum Domini in adversis et iniuriis per patientiam adimplentes, qui <i>percussi in maxillam præbent et aliam, auferenti</i> tunicam <i>dimittunt et pallium, angarizati militario vadunt duo</i>, cum Paulo apostolo <i>falsos fratres</i> sustinent et <i>persecutionem sustinent</i>, et <i>maledicentes</i> se <i>benedicent</i>.
+#[ 10.2. - 11.6. - 11.10. ]
+<b>Caput 8: Bohoslužby v noci</b>
+V zimním období, od začátku listopadu do Velikonoc, se podle rozumného uvážení vstává o osmé hodině noční. Bratři tedy odpočívají o něco déle než polovina noci a vstávají už odpočati. Času, který zbývá po vigiliích, využijí – potřebují-li to – k procvičování žalmů a čtení. 
+Od Velikonoc až do uvedeného začátku listopadu se hodina určí tak, aby po skončení vigilií a krátké přestávce, kdy bratři mohou odejít za přirozenou potřebou, ihned začaly ranní chvály, které se mají konat za svítání.
 
-#[2.2. - 2.6. - 3.10.]
-Quintus humilitatis gradus est, si omnes cogitationes malas cordi suo advenientes vel mala a se absconse commissa per humilem confessionem abbatem non celaverit suum. Hortans nos de hac re Scriptura dicens: <i>Revela ad Dominum viam tuam et spera in eum</i>. Et item dicit: <i>Confitemini Domino quoniam bonus, quoniam in æternum misericordia eius</i>. Et item Propheta: <i>Delictum meum cognitum tibi feci et iniustitias meas non operui. Dixi: pronuntiabo adversum me iniustitias meas Domino, et tu remisisti impietatem cordis mei</i>.
 
-#[3.2. - 4.6. - 4.10.]
-Sextus humilitatis gradus est, si omni vilitate vel extremitate contentus sit monachus, et ad omnia quæ sibi injunguntur velut operarium malum se judicet et indignum, dicens sibi cum Propheta: <i>Ad nihilum redactus sum et nescivi; ut iumentum factus sum apud te et ego semper tecum</i>.
+#[ 11.2. - 12.6. - 12.10. ]
+<b>Caput 9: Počet žalmů v nočních hodinkách</b>
+V uvedeném zimním období ať se nejdříve třikrát říká verš: <i>Pane, otevři mé rty a budu Tě chválit.</i> Na něj naváže žalm 3 a Sláva Otci. Po něm žalm 94 s antifonou nebo aspoň zpívaný. Následuje hymnus a pak šest žalmů s antifonami. Když se dozpívají a řekne se verš, dá opat požehnání a všichni usednou do lavic. Z knihy položené na čtecím pultu bratři přednesou střídavě tři čtení a mezi čteními se zpívají tři resposoria. Dvě z těchto responsorií se říkají bez Sláva Otci, po třetím čtení však ten, kdo předzpěvuje, přidá Sláva Otci. Jakmile je kantor začne říkat, ihned všichni z úcty k Nejsvětější Trojici a k její oslavě povstanou ze sedadel. Při těchto vigiliích se čtou Bohem inspirované knihy Starého i Nového zákona, ale i jejich výklady sepsané významnými a pravověrnými katolickými Otci. Po třech čteních a jejich responsoriích následuje ostatních šest žalmů zpívaných s Aleluja a po nich čtení z apoštola přednesené zpaměti, verš a litanijní prosba Kyrie eleison. A tím se noční vigilie končí.
 
-#[4.2. - 5.6. - 5.10.]
-Septimus humilitatis gradus est: si omnibus se inferiorem et viliorem non solum sua lingua pronuntiet, sed etiam intimo cordis credat affectu, humilians se et dicens cum Propheta: <i>Ego autem sum vermis et non homo, obprobrium hominum et abiectio plebis. Exaltatus sum et humiliatus et confusus</i>. Et item: <i>Bonum mihi quod humiliasti me, et discam mandata tua</i>.
 
-#[5.2. - 6.6. - 6.10.]
-Octavus humilitatis gradus est, si nihil agat monachus, nisi quod communis monasterii regula vel maiorum cohortatur exempla.
+#[ 12.2. - 13.6. - 13.10. ]
+<b>Caput 10: Noční bohoslužba v letním období</b>
+Od Velikonoc do začátku listopadu se zachovává výše uvedené množství žalmů. Jen se nečtou čtení z knihy, protože noci jsou krátké. Místo těch tří čtení se zpaměti říká pouze jedno ze Starého zákona. Po něm následuje krátké responsorium. Všechno ostatní se koná tak, jak jsme už uvedli: tedy v nočních vigiliích se nikdy neříká méně žalmů než dvanáct, nepočítaje v to žalm 3 a 94.
 
-#[6.2. - 7.6. - 7.10.]
-Nonus humilitatis gradus est, si linguam ad loquendum prohibeat monachus et taciturnitatem habens, usque ad interrogationem non loquatur, monstrante Scriptura quia <i>in multoloquio non effugitur peccatum</i>, et quia <i>vir linguosus non dirigitur super terram</i>.
 
-#[7.2. - 8.6. - 8.10.]
-Decimus humilitatis gradus est, si non sit facilis ac promptus in risu, qui scriptum est: <i>Stultus in risu exaltat vocem suam</i>.
+#[ 13.2. - 14.6. - 14.10. ]
+<b>Caput 11: Vigilie o nedělích</b>
+V den Páně se k vigiliím vstává o něco dříve. Ať se při nich zachovává tento pořádek: Když se dozpívá šest žalmů a verš, jak jsme již ustanovili, a všichni se podle pořadí usadí v lavicích, čtou se z knihy čtyři čtení a jejich responsoria, jak už bylo řečeno. Sláva Otci však kantor říká až po čtvrtém z nich. Jakmile je začne, všichni ihned uctivě povstanou. Po těchto čteních následuje po pořadě dalších šest žalmů s antifonami jako předtím a verš. Potom se čtou další čtyři čtení a jejich responsoria podle stejného pořádku. Po nich se říkají tři kantika z proroků, která vybere opat. Tato kantika se zpívají s Aleluja. Po verši a opatově požehnání se obvyklým způsobem čtou další čtyři čtení z Nového zákona. Po čtvrtém responsoriu začne opat hymnus Bože, chválíme Tebe. Po jeho skončení čte opat úryvek z evangelia. Všichni v úctě a bázni stojí a na závěr odpovědí: "Amen". Opat pak ihned začne hymnus Tobě přísluší chvála a po požehnání následují ranní chvály. Toto schéma vigilií se dodržuje o nedělích v každou roční dobu, v létě i v zimě, ledaže by snad – nedej Bůh – mniši vstali později a čtení a responsoria se musela trochu zkrátit. Má však dbát, aby k tomu nikdy nedošlo. Kdyby se to přece jen přihodilo, pak ten, jehož nesvědomitost to zavinila, složí Bohu v oratoři řádné zadostiučinění.
 
-#[8.2. - 9.6. - 9.10.]
-Undecimus humilitatis gradus est, si cum loquitur monachus, leniter et sine risu, humiliter cum gravitate vel pauca verba et rationabilia loquatur, et non sit clamosus in voce, sicut scriptum est: <i>Sapiens verbis innotescit paucis</i>.
 
-#[9.2. - 10.6. - 10.10.]
-Duodecimus humilitatis gradus est, si non solum corde monachus, sed etiam ipso corpore humilitatem videntibus se semper indicet, id est Opere Dei, in oratorio, in monasterio, in horto, in via, in agro vel ubicumque sedens, ambulans vel stans, inclinato sit semper capite, defixis in terram aspectibus, reum se omni hora de peccatis suis æstimans jam se tremendo judicio repræsentari æstimet, dicens sibi in corde semper illud, quod publicanus ille evangelicus fixis in terram oculis dixit: <i>Domine, non sum dignus, ego peccator, levare oculos meos ad cælos</i>. Et item cum Propheta: <i>Incurvatus sum et humiliatus sum usquequaque</i>. 
-Ergo, his omnibus humilitatis gradibus ascensis, monachus mox ad charitatem Dei perveniet illam quæ perfecta foris mittit timorem, per quam universa quæ prius non sine formidine observabat absque ullo labore velut naturaliter ex consuetudine incipiet custodire, non jam timore gehennæ, sed amore Christi et consuetudine ipsa bona et dilectatione virtutum. Quæ Dominus jam in operarium suum mundum a vitiis et peccatis Spiritu Sancto dignabitur demonstrare.
+#[ 14.2. - 15.6. - 15.10. ]
+<b>Caput 12: Ranní chvály o nedělích a svátcích</b>
+V nedělních ranních chválách se nejprve říká přímo bez antifony žalm 66. Potom se říká žalm 50 s Aleluja. Potom se říkají žalmy 117 a 62, pak chvalozpěv a žalmy chval, zpaměti čtení z Apokalypsy s responsoriem, hymnus, verš, kantikum z evangelia, litanijní prosba a zakončení.
 
-#[10.2. - 11.6. - 11.10.]
-<b>Caput 8: De officiis divinis in noctibus</b>
 
-Hiemis tempore, id est a kalendas novembres usque in Pascha, iuxta considerationem rationis, octava hora noctis surgendum est, ut modice amplius de media nocte pausetur et jam digesti surgant. Quod vero restat post Vigilias a fratribus qui psalterii vel lectionum aliquid indigent, meditationi inserviatur. 
-A Pascha autem usque ad supradictas novembres sic temperetur hora, ut Vigiliarum agenda parvissimo intervallo, quo fratres ad necessaria naturæ exeant, mox Matutini qui incipiente luce agendi sunt, subsequantur.
+#[ 15.2. - 16.6. - 16.10. ]
+<b>Caput 13: Ranní chvály ve všední dny</b>
+Ve všení dny se ranní chvály konají takto: Říká se žalm 66 bez antifony, poněkud volněji stejně jako v neděli, aby se všichni mohli sejít k žalmu 50 – ten se říká s antifonou. Po něm se říkají, jak je zvykem, dva žalmy, a to 
+v pondělí žalm 5 a 35, 
+v úterý 42 a 56, 
+ve středu 63 a 64, 
+ve čtvrtek 87 a 89, 
+v pátek 75 a 91, 
+v sobotu žalm 142 a kantikum z Deuteronomia, jež se dělí na dvě Sláva Otci. 
+V ostatní dny se říká vždy jedno kantikum z Proroků, jak je zpívá římská církev. Potom následují žalmy chval, jedno čtení z apoštola přednesené zpaměti, responsorium, hymnus, verš, kantikum z evangelia, litanijní prosba a zakončení.
 
+#[ 16.2. - 17.6. - 17.10. ]
+Ranní ani večerní chvály se však nikdy nesmějí uzavřít, když představený na konci neřekne celou modlitbu Páně tak, aby ji všichni slyšeli. Snadno totiž vyvstávají trny pohoršlivých sporů. Když bratři společně říkají prosbu <i>Odpusť nám, jako i my odpouštíme</i>, mohou se od těch zlých sporů očistit. Při ostatních hodinkách se však říká jen závěr této modlitby a všichni odpovídají: <i>Ale zbav nás ode zlého.</i>
 
-<b>Caput 9: Quanti psalmi dicendi sunt nocturni</b>
 
-Hiemis tempore suprascripto, in primis versu tertio dicendum: <i>Domine, labia mea aperies, et os meum adnuntiabit laudem tuam</i>. Cum subjungendus est tertius psalmus et Gloria. Post hunc, psalmum nonagesimum quartum cum antefana, aut certe decantandum. Inde sequatur ambrosianum, deinde sex psalmi cum antefanas. Quibus dictis, dicto versu, benedicat abbas et, sedentibus omnibus in scamnis, legantur vicissim a fratribus in codice super analogium tres lectiones, inter quas et tria responsoria cantentur. Duo responsoria sine Gloria dicantur; post tertiam vero lectionem, qui cantat dicat Gloriam. Quam dum incipit cantor dicere, mox omnes de sedilia sua surgant ob honorem et reverentiam sanctæ Trinitatis. Codices autem legantur in Vigiliis divinæ auctoritatis tam Veteris Testamenti quam Novi, sed et expositiones earum, quæ a nominatis et orthodoxis catholicis Patribus factæ sunt. Post has vero tres lectiones cum responsoria sua, sequantur reliqui sex psalmi cum Alleluia canendi. Post hos, lectio Apostoli sequatur ex corde recitanda, et versus, et supplicatio litaniæ, id est Quirie eleison. Et sic finiantur Vigiliæ nocturnæ.
+#[ 17.2. - 18.6. - 18.10. ]
+<b>Caput Vigilie o svátcích svatých</b>
+O svátcích svatých a všech slavnostech se postupuje tak, jak jsme stanovili pro neděli, kromě toho, že se říkají žalmy, antifony a čtení pro ten den. Postup však zůstává stejný.
 
 
+#[ 18.2. - 19.6. - 19.10. ]
+<b>Caput 15: Období, kdy se říká Aleluja</b>
+Od Velikonoc do Letnic se Aleluja říká jak při žalmech, tak v responsoriích vždycky. Od Letnic do začátku doby postní se říká každou noc jen při posledních šesti žalmech vigilií. Každou neděli mimo postní dobu se říkají s Aleluja kantika, ranní chvály, prima, tercie, sexta a nona, zatímco nešpory už mají vlastní antifonu. Responsoria se však s Aleluja říkají jen od Velikonoc do Letnic.
 
-<b>Caput 10: Qualiter æstatis tempore agatur nocturna laus</b>
 
-A Pascha autem usque ad kalendas novembres, omnis ut supra dictum est psalmodiæ quantitas teneatur excepto quod lectiones in codice propter brevitatem noctium legantur, sed pro ipsis tribus lectionibus una de Veteri Testamento memoriter dicatur, quam brevis responsorius subsequatur. Et reliqua omnia, ut dictum est, impleantur, id est ut numquam minus a duodecim psalmorum quantitate ad Vigilias nocturnas dicantur, exceptis tertio et nonagesimo quarto psalmo.
+#[ 19.2. - 20.6. - 20.10. ]
+<b>Caput 16: Bohoslužby během dne</b>
+Prorok říká: <i>Sedmkrát za den Tě chválím.</i> Posvátný počet sedmi chval naplníme tak, že vykonáme svou povinnou službu v době ranních chval, primy, tercie, sexty, nony, nešpor a kompletáře, neboť právě o těchto denních hodinkách řekl prorok: <i>Sedmkrát za den Tě chválím</i>. A o nočních vigiliích tentýž prorok praví: <i>Uprostřed noci vstávám, abych Tě chválil.</i> V tyto doby tedy vzdávejme svému Stvořiteli i my chválu pro Jeho spravedlivá rozhodnutí ranními chválami, primou, tercií, sextou, nonou, nešporami a kompletářem a k chválám vstávejme i v noci.
 
 
+#[ 20.2. - 21.6. - 21.10. ]
+<b>Caput 17: Počet žalmů v těchto hodinkách</b>
+Pro vigilie a ranní chvály jsme už pořadí v psalmodii stanovili. Nyní si všimněme dalších hodinek.
+V primě se říkají tři žalmy samostatně, nikoliv se společným Sláva Otci. Po verši Bože, pospěš mi na pomoc se říká hymnus této hodinky, ještě než začínají žalmy. Po skončení tří žalmů se přednese jedno čtení, verš, Kyrie eleison a zakončení.
+Tercie, sexta a nona se slaví stejným způsobem: po verši příslušný hymnus, tři žalmy, čtení, verš, Kyrie eleison a zakončení. Je-li komunita početnější, zpívají se žalmy s antifonami, je-li menší, bez nich.
+Večerní bohoslužba se skládá ze čtyř žalmů s antifonami. Po těchto žalmech se přednese čtení, potom responsorium, hymnus, verš, kantikum z evangelia, litanijní prosba a končí se modlitbou Páně.
+Kompletář se pak skládá ze tří žalmů, které se říkají přímo, bez antifon. Po nich příslušný hymnus, jedno čtení, verš a Kyrie eleison. Končí se požehnáním.
 
-<b>Caput 11: Qualiter diebus dominicis vigiliæ agantur</b>
 
-Dominico die temperius surgatur ad Vigilias. In quibus Vigiliis teneatur mensura, id est, modulatis ut supra disposuimus sex psalmis et versu, residentibus cunctis disposite et per ordinem in subselliis, legantur in codice, ut supra diximus, quattuor lectiones cum responsoriis suis. Ubi tantum in quarto responsorio dicatur a cantante Gloria; quam dum incipit, mox omnes cum reverentia surgant. Post quibus lectionibus sequantur ex ordine alii sex psalmi cum antefanas sicut anteriores, et versu. Post quibus iterum legantur aliæ quattuor lectiones cum responsoriis suis, ordine quo supra. Post quibus dicantur tria cantica Prophetarum, quas instituerit abbas; quæ cantica cum Alleluia psallantur. Dicto etiam versu et benedicente abbate, legantur aliæ quattuor lectiones de Novo Testamento, ordine quo supra. Post quartum autem responsorium incipiat abbas hymnum Te Deum laudamus. Quo perdicto, legat abbas lectionem de Evangelia, cum honore et timore stantibus omnibus. Qua perlecta, respondeant omnes Amen, et subsequatur mox abbas hymnum Te decet laus, et data benedictione incipiant Matutinos. Qui ordo Vigiliarum omni tempore tam æstatis quam hiemis æqualiter in die dominico teneatur, nisi forte - quod absit - tardius surgant, aliquid de lectionibus breviandum est aut responsoriis. Quod tamen omnino caveatur ne proveniat; quod si contigerit, digne inde satisfaciat Deo in oratorio per cuius evenerit neglectum.
+#[ 21.2. - 22.6. - 22.10. ]
+<b>Caput 18: Pořadí těchto žalmů</b>
+Nejdříve se říká verš: <i>Bože, shlédni a pomoz, – Pane, pospěš mi pomáhat – Sláva Otci</i>. Následuje příslušný hymnus.
+V nedělní primě se pak říkají čtyři strofy žalmu 118. V ostatních hodinkách – v tercii, sextě a noně – se říkají další tři strofy tohoto žalmu 118.
+V pondělí se v primě říkají jen tři žalmy, a to žalm 1, 2 a 5. Každý den až do neděle se v primě říkají vždy další tři žalmy až po žalm 19. Žalmy 9 a 17 se dělí na dvě části. Nedělní vigilie se tak vždycky může začít žalmem 20. 
 
+#[ 22.2. - 23.6. - 23.10. ]
+V pondělní tercii, sextě a noně se říká zbývajících devět strof žalmu 118, po třech strofách v každé hodince. Žalm 118 se tedy dělí na dvě části, nedělní a pondělní. Od úterka se v tercii, sextě a noně zpívá po třech žalmech od žalmu 119 po žalm 127, celkem devět žalmů. Stejné žalmy se v těchto hodinkách opakují vždy až do neděle a po všechny dny se zachovává i stejný pořádek hymnů, čtení a veršů. V neděli se tak vždycky začne žalmem 118.
 
+#[ 23.2. - 24.6. - 24.10. ]
+V nešporách se každý den zpívají čtyři žalmy, od žalmu 109 až po žalm 147 kromě těch, které jsou určeny pro jiné hodinky, totiž žalmy 117 až 127 a žalmy 133 a 142. Všechny ostatní se říkají v nešporách. Protože však tři žalmy chybějí, ty, které jsou mezi uvedenými delší, totiž žalmy 138, 143 a 144, se rozdělí. Žalm 116, protože je krátký, se připojí k žalmu 115. Tím je pořadí žalmů v nešporách vymezeno. Všechno ostatní, čtení, responsorium, hymnus, verš a kantikum, se splní tak, jak jsme uvedli výše.
+V kompletáři se pak každý den opakují stejné žalmy, totiž žalmy 4, 90 a 133.
 
-<b>Caput 12: Quomodo matutinorum sollemnitas agatur</b>
+#[ 24.2. - 25.6. - 25.10. ]  Jen v přestupném roce. Jinak se tento verš připojí k předchozímu
+Žalmy, které po uspořádání denních bohoslužeb zbudou, se rovnoměrně rozdělí do sedmi nočních vigilií. Delší z nich se dělí, aby jich na každou noc vyšlo dvanáct.
+Chceme však výslovně připomenout, že kdyby se toto schéma někomu nelíbilo, může si je uspořádat, jak soudí, že je to lepší. V každém případě musí dbát na to, aby se každý týden přezpívalo všech žalmů Žaltáře a aby se o nedělních vigiliích vždycky začínalo od začátku. Vždyť když mniši během týdne přezpívají méně než Žaltář s obvyklými kantiky, ukazují, že ve službě, které se zasvětili, jsou příliš liknaví. Kéž bychom tak my, vlažní, za celý týden vykonali to, co naši svatí Otcové, jak čteme, statečně splnili za jediný den!
 
-In Matutinis dominico die, in primis dicatur sexagesimus sextus psalmus, sine antefana, in directum. Post quem dicatur quinquagesimus cum Alleluia. Post quem dicatur centisemus septimus decimus et sexagesimus secundus. Inde Benectiones et Laudes, lectionem de Apocalipsis una ex corde et responsorium, ambrosianum, versu, canticum de Evangelia, litania, et conpletum est.
 
+#[ 25.2. - 26.6. - 26.10. ]
+<b>Caput 19: Chování při zpěvu žalmů</b>
+Věříme, že Bůh je všudypřítomný a že <i>Hospodinovy oči jsou všude a pozorují dobré i zlé.</i> Bez jakýchkoliv pochyb věřme, že je to pravda zejména tehdy, když se účastníme služeb Božích. Vždycky si proto pamatujme, co praví prorok: <i>Služte Hospodinu v bázni.</i> A dále: <i>Zpívejte mu moudře</i> a: <i>budu Ti zpívat před anděly</i>. Uvědomme si, jak se máme chovat před Bohem a jeho anděly, a stůjme při zpěvu žalmů tak, aby naše mysl byla ve shodě s naším hlasem.
 
 
-<b>Caput 13: Privatis diebus qualiter agantur matutini</b>
+#[ 26.2. - 27.6. - 27.10. ]
+<b>Caput 20: Uctivost při modlitbě</b>
+Chceme-li něco přinést lidem mocným, neodvažujeme se udělat to jinak než pokorně a uctivě. Oč více máme se vší pokorou a čistou oddaností prosit Boha, Pána všehomíra. A buďme si proto vědomi, že nás nevyslyší pro množství našich slov, nýbrž pro čistotu srdce a kajícné slzy. Modlitba má být proto krátká a čistá, ledaže by se snad prodloužila inspirací božské milosti. Ve shromáždění má však být modlitba krátká v každém případě a na znamení představeného od ní všichni zároveň povstanou.
 
-Diebus autem privatis Matutinorum sollemnitas ita agatur, id est, ut sexagesimus sextus psalmus sine antefana, subtrahendo modice, sicut Dominica, ut omnes occurant ad quinquagesimum, qui cum antefana dicatur. Post quem alii duo psalmi dicantur secundum consuetudinem, id est: secunda feria quintus et tricesimus quintus; tertia feria quadragesimus secundus et quinquagesimus sextus; quarta feria sexagesimum tertium et sexagesimum quartum; quinta feria octogesimum septimum et octogesimum nonum; sexta feria septuagesimum quintum et nonagesimum primum; sabbatorum autem centesimum quadragesimum secundum et canticum Deuteronomium, qui dividatur in duas Glorias. Nam ceteris diebus canticum unumquemque die suo ex Prophetis, sicut psallit Ecclesia romana, dicantur. Post hæc sequantur Laudes; deinde lectio una Apostoli memoriter recitanda, responsorium, ambrosianum, versu, canticum de Evangelia, litania et conpletum est. Plane agenda matutina vel vespertina non transeat aliquando, nisi in ultimo per ordinem oratio dominica, omnibus audientibus, dicatur a priore propter scandalorum spinas quæ oriri solent, ut conventi per ipsius orationis sponsionem qua dicunt: <i>Dimitte nobis sicut et nos dimittimus</i>, purgent se ab huiusmodi vitio. Ceteris vero agendis ultima pars eius orationis dicatur, ut ab omnibus respondeatur: <i>Sed libera nos a malo</i>.
 
+#[ 27.2. - 28.6. - 28.10. ]
+<b>Caput 21: Děkani kláštera</b>
+Je-li komunita větší, vyberou se z ní bratři dobré pověsti a svatého života a ustanoví se děkany. Ve svých dekaniích se starají o vše podle Božích přikázání a nařízení svého opata. Za děkany se mají vybrat takoví, s nimiž se opat může s jistotou podělit o své břímě. Nemají se proto vybírat podle pořadí, nýbrž podle životních zásluh a moudrosti v nauce. 
+Kdyby snad byl někdo z nich na své postavení pyšný, zasluhoval si pokárání, byl jednou, dvakrát a potřetí napomenut, ale nechtěl se polepšit, ať je sesazen a jeho místo převezme jiný, který je toho hoden. Totéž jsme ustanovili pro převora.
 
 
+#[ 28.2. - 29.6. - 29.10. ]
+<b>Caput 22: Noční odpočinek mnichů</b>
+Každý ať spí na svém vlastním lůžku. Lůžkoviny ať obdrží podle toho, jak to podle opatova uvážení odpovídá jeho mnišskému životu. Je-li to možné, všichni spí na jednom místě. Jestliže to počet mnichů nedovolí, spí po deseti nebo po dvaceti se staršími, kteří nad nimi mají dozor. V cele ať po celou dobu až do rána hoří svítilna. Ať spí oblečeni a přepásáni pásem nebo provazem, ale nemají při spaní u pasu nože, aby se ve spánku náhodou neporanili. Tak jsou také stále připraveni, aby se na dané znamení bez váhání zvedli a předbíhali se na služby Boží, avšak ve vší vážnosti a skromnosti. Mladší bratři ať nemají lůžka vedle sebe, nýbrž mezi staršími. Při vstávání na bohoslužby se navzájem s mírou pobízejí, aby se ospalci neměli nač vymlouvat.
 
 
-<b>Caput 14: In nataliciis sanctorum qualiter agantur vigiliæ</b>
+#[ 29.2. - 30.6. - 03.10. ]
+<b>Caput 23: Vyloučení pro přestupky</b>
+Shledá-li se, že je některý bratr vzpurný, neposlušný, pyšný nebo reptavý, či se v něčem vzpouzí svaté Řeholi nebo pohrdá příkazy svých představených, ať je podle příkazu našeho Pána jednou nebo dvakrát od svých představených napomenut. Nepolepší-li se, bude pokárán veřejně přede všemi. Když se ani tak nepolepší, a chápe-li, jak vážný je to trest, ať je vyloučen z komunity. Jestliže tomu však nerozumí, ať je potrestán tělesně.
 
-In sanctorum vero festivitatibus vel omnibus sollemnitatibus sicut diximus dominico die agendum, ita agatur, excepto quod psalmi aut antefanæ vel lectiones ad ipsum diem pertinentes dicantur; modus autem suprascriptus teneatur.
 
+#[ 1.3. - 1.7. - 31.10. ]
+<b>Caput 24: Stupeň vyloučení</b>
+Podle závažnosti provinění se stanoví i míra vyloučení nebo trestu. Jaký je stupeň viny, to závisí na opatově úsudku. 
+Je-li některý bratr přistižen při lehčím přestupku, ať je zbaven společenství u stolu. 
+Pro vyloučeného od společného stolu platí, že v oratoři nezačíná žalm ani antifonu, ani nečte čtení, dokud neučiní zadost. Pokrm pak požívá sám po jídle bratří: jedí-li bratři například o šesté hodině, ten bratr až o deváté, a když jedí bratři o deváté, on večer, dokud po náležitém zadostiučinění nedosáhne odpuštění.
 
 
-<b>Caput 15: Alleluia quibus temporibus dicatur</b>
+#[ 2.3. - 2.7. - 1.11. ]
+<b>Caput 25: Těžší provinění</b>
+Bratr, který se dopustil těžšího provinění, ať je vyloučen od stolu a zároveň z oratoře. Nikdo z bratří ať se s ním nestýká ani s ním nemluví. Uloženou práci má vykonávat sám, setrvává v kajícím smutku a pamatuje na onen strašný apoštolův výrok: <i>Ten člověk ať je vydán k důkladnému ztrestání, aby byl duch zachráněn v den Páně.</i> Jídlo ať dostává o samotě, v množství a v době, jak pro něho opat uzná za vhodné. Nikdo kolemjdoucí vyloučenému nežehná a ani pokrm, který dostává, se mu nežehná.
 
-A sanctum Pascha usque Pentecosten sine intermissione dicatur Alleluia, tam in psalmis quam in responsoriis. A Pentecosten autem usque caput quadragesimæ, omnibus noctis, cum sex posterioribus psalmis tantum ad Nocturnos dicatur. Omni vero Dominica extra quadragesima cantica, Matutinos, Prima, Tertia, Sexta Nonaque cum Alleluia dicatur, Vespera vero jam antefana. Responsoria vero numquam dicantur cum Alleluia, nisi a Pascha usque Pentecosten.
 
+#[ 3.3. - 3.7. - 2.11. ]
+<b>Caput 26: Nedovolená setkání s vyloučenými</b>
+Kdyby se některý bratr opovážil setkávat se jakýmkoliv způsobem s vyloučeným bratrem bez opatova příkazu, mluvil s ním nebo mu posílal vzkaz, bude také on potrestán vyloučením.
 
 
-<b>Caput 16: Qualiter divina opera per diem agantur</b>
+#[ 4.3. - 4.7. - 3.11. ]
+<b>Caput 27: Opatova péče o vyloučené</b>
+O vyloučené bratry musí opat projevovat veškerou péči, protože <i>lékaře nepotřebují zdraví, ale nemocní.</i> A proto má jako ten moudrý lékař užít všech prostředků: posílá senpekty, to znamená starší moudré bratry, a ti pobouřeného bratra takřka nepozorovaně uklidní, dovedou ho k pokornému pokání a těší ho, aby ho přílišný zármutek nestrávil. Jak také praví apoštol: <i>Ať se mu projevuje větší láska.</i> A všichni ať se za něho modlí. Opat se tedy musí velmi snažit a se vší prozíravostí a s úsilím musí spěchat, aby některou z ovcí, jež mu byly svěřeny, neztratil. Ať si je vědom, že na sebe vzal péči o duše nemocné, a ne krutovládu nad zdravými. Ať se bojí prorokovy pohrůžky, kterou Bůh říká: <i>Co se vám zdálo vykrmené, to jste si brali, a co bylo slabé, to jste odhodili.</i> Ať napodobuje příklad lásky dobrého pastýře, který nechal devětadevadesát ovcí na horách a šel hledat jednu zatoulanou. A jal ho takový soucit s její slabostí, že si ji vložil na svá svatá ramena a tak ji donesl zpátky ke stádu.
 
-Ut ait Propheta: <i>Septies in die laudem dixi tibi</i>. Qui septenarius sacratus numerus a nobis sic implebitur, si Matutino, Primæ, Tertiæ, Sextæ, Nonæ, Vesperæ Conpletoriique tempore nostræ servitutis officia persolvamus, quia de his diurnis Horis dixit: <i>Septies in die laudem dixi tibi</i>. Nam de nocturnis Vigiliis idem ipse Propheta ait: <i>Media nocte surgebam ad confitendum tibi</i>. Ergo his temporibus referamus laudes Creatori nostro super judicia iustitiæ suæ, id est Matutinis, Prima, Tertia, Sexta, Nona, Vespera, Conpletorios, et nocte surgamus ad confitendum ei.
 
+#[ 5.3. - 5.7. - 4.11. ]
+<b>Caput 28: Nepolepšitelní</b>
+Kdyby byl některý bratr pro jakékoliv provinění trestán často, ba dokonce byl vyloučen, a přece se nepolepšil, stihne ho přísnější trest: přistoupí se k trestu mrskání. Kdyby se nepolepšil ani tím nebo snad chtěl – nedej Bůh – v naduté pýše své jednání obhajovat, pak ať opat jedná jako moudrý lékař: jestliže použil teplých obkladů a mastí domlouvání, léků svatých Písem a nakonec i vypalování vyloučením a ran prutu, ale vidí, že veškerá jeho snaha byla marná, ať použije prostředek ještě účinnější – modlitbu svou a svých spolubratří, aby Bůh, který může všechno, nemocného bratra uzdravil. Kdyby se však ani takto neuzdravil, pak už opat musí použít nůž k odříznutí, jak praví apoštol: <i>Odstraňte špatného ze svého středu</i>, a také: <i>Chce-li nevěrný odejít, ať jde, aby jedna nemocná ovce nenakazila celé stádo.</i>
 
 
-<b>Caput 17: Quot psalmi per easdem horas dicendi sunt</b>
-Jam de Nocturnis vel Matutinis digessimus ordinem psalmodiæ; nunc de sequentibus Horis videamus. Prima hora dicantur psalmi tres singillatim et non sub una Gloria, hymnum eiusdem Horæ post versum Deus, in adiutorium, antequam psalmi incipiantur. Post expletionem vero trium psalmorum recitetur lectio una, versu et Quirie eleison et missas. Tertia vero, Sexta et Nona item eo ordine celebretur oratio, id est versu, hymnos earundem Horarum, ternos psalmos, lectionem et versu, Quirie eleison et missas. Si maior congregatio fuerit, cum antefanas, si vero minor, in directum psallantur. Vespertina autem sinaxis quattuor psalmis cum antefanas terminetur. Post quibus psalmis lectio recitanda est: inde responsorium, ambrosianum, versu, canticum de Evangelia, litania, et oratione dominica fiant missæ. Conpletorios autem trium psalmorum dictione terminentur; qui psalmi directanei sine antefana dicendi sunt. Post quos hymnum eiusdem Horæ, lectionem unam, versu, Quirie eleison, et benedictione missæ fiant.
+#[ 6.3. - 6.7. - 5.11. ]
+<b>Caput 29: Opětné přijetí bratří</b>
+Kdyby se bratr, který vlastní vinou odešel z kláštera, chtěl vrátit, musí nejprve slíbit, že se úplně polepší v tom, co bylo důvodem jeho odchodu. Potom je přijat a postaven na poslední místo, aby se tím vyzkoušela jeho pokora. Kdyby odešel znovu, ať je takto přijat nejvýš třikrát. Ať si je vědom, že další možnost návratu mu pak bude odepřena.
 
 
+#[ 7.3. - 7.7. - 6.11. ]
+<b>Caput 30: Trestání chlapců</b>
+S každým je třeba jednat tak, jak si to žádá jeho věk a chápavost. Proto také proviní-li se nějak chlapci, dospívající nebo ti, kdo plně nechápou, jak závažný trest je vyloučení, když se tedy proviní, uzdraví se tak, že budou potrestáni přísnými půsty nebo rázným mrskáním.
 
-<b>Caput 18: Quo ordine ipsi psalmi dicendi sunt</b>
-In primis dicatur versu: <i>Deus, in adiutorium meum intende; Domine, ad adjuvandum me festina</i>, Gloria, inde hymnum unuscuiusque Horæ. deinde Prima Hora, Dominica, dicenda quattuor capitula psalmi centesimi octavi decimi. Reliquis vero Horis, id est Tertia, Sexta vel Nona, terna capitula suprascripti psalmi centesimi octavi decimi dicantur. Ad Primam autem secundæ feriæ dicantur tres psalmi, id est primus, secundus et sextus. Et ita per singulos dies ad Primam, usque Dominica, dicantur per ordinem terni psalmi usque nonum decimum psalmum, ita sane, ut nonus psalmus et septimus decimus partiantur in binos. Et sic fit, ut ad Vigilias Dominica semper a vicesimo incipiatur.
 
-Ad Tertiam vero, Sextam Nonamque secundæ feriæ novem capitula quæ residua sunt de centesimo octavo decimo, ipsa terna per easdem Horas dicantur. Expenso ergo psalmo centesimo ocatvo decimo duobus diebus, id est Dominico et secunda feria, tertia feria jam ad Tertiam, Sextam vel Nonam psallantur terni psalmi a centesimo nono decimo usque centesimo vicesimo septimo, id est psalmi novem. Quique psalmi semper usque Dominica per easdem Horas itidem repetantur, hymnorum nihilominus, lectionum vel versuum dispositionem uniformem cunctis diebus servatam. Et ita scilicet semper Dominica a centesimo octavo decimo incipietur.
+Celerář kláštera</b>
+Za celeráře ať se z komunity vybere mnich moudrý, zralých mravů, střízlivý, střídmý, ne povýšený, ne vznětlivý, ne urážlivý, ne liknavý, ne marnotratný,¨ nýbrž bohabojný, který by byl pro celou komunitu jako otec. Má mít na starosti všechno: nic ať nepodniká bez opatova příkazu, ale stará se o to, co se mu nařídí. Bratry ať nezarmucuje. Žádá-li po něm některý bratr snad něco nerozumného, ať ho nezarmoutí pohrdáním, nýbrž rozumně a skromně nevhodnou žádost odmítne. Dbá na svou vlastní duši a vždycky pamatuje na apoštolova slova, že ten, kdo se ve službě osvědčí, získá si vážné postavení. Co nejsvědomitěji se stará o nemocné, chlapce, hosty a chudé v pevném přesvědčení, že za ně za všechny bude v den soudu skládat účty. Na všechny předměty kláštera a na celý jeho majetek pohlíží jako na posvátné oltářní nádoby. Nic nepovažuje za zanedbatelné. Nesmí mít sklon k lakotě ani k marnotratnosti a rozhazování majetku kláštera. Vše ať koná s mírou a podle opatova příkazu. Především musí být pokorný, Nemá-li co dát, tu ať alespoň odpoví vlídným slovem, jak je psáno: Dobré slovo je lepší než nejlepší dar. Ať se stará o vše, co mu opat uloží a neopováží se dělat, co mu opat zakáže. Bratřím dává určený příděl potravy bez povýšenosti a zdráhání, aby se nepohoršili. Pamatuje tak na to, co podle božského výroku zasluhuje člověk, který by pohoršil jednoho z nepatrných.  Je-li komunita větší, dostane pomocníky, aby s jejich přispěním konal svěřený úkol v klidu. Ve stanovené hodiny ať se vydává, co se vydávat má, a žádá, oč se žádat má, aby se v Božím domě nikdo nezneklidňoval a nermoutil.
 
-Vespera autem cotidie quattuor psalmorum modulatione canatur. Qui psalmi incipiantur a centesimo nono usque centesimo quadragesimo septimo, exceptis his qui in diversis Horis ex eis sequestrantur, id est a centesimo septimo decimo usque centesimo vicesimo septimo et centesimo tricesimo tertio et centesimo quadragesimo secundo; reliqui omnes in Vespera dicendi sunt. Et quia minus veniunt tres psalmi, ideo dividendi sunt qui ex numero suprascripto fortiores inveniuntur, id est centesimum tricesimum octavum et centesimum quadragesimum tertium et centesimum quadragesimum quartum; centesimus vero sextus decimus, quia parvus est, cum centesimo quinto decimo conjungatur. Digesto ergo ordine psalmorum vespertinorum, reliquia, id est lectionem, responsum, hymnum, versum vel canticum, sicut supra taxavimus impleatur. Ad Conpletorios vero cotidie idem psalmi repetantur, id est quartum, nonagesimum et centesimum tricesimum tertium.
 
-Disposito ordine psalmodiæ diurnæ, reliqui omnes psalmi qui supersunt æqualiter dividantur in septem noctium Vigilias, partiendoscilicet qui inter eos prolixiores sunt psalmi et duodecim per unamquamque constituens noctem. Hoc præcipue commonentes ut, si sui forte hæc distributio psalmorum displicuerit, ordinet si melius aliter judicaverit, dum omnimodis id adtendat, ut omni hebdomada psalterium ex integro numero centum quinquaginta psalmorum psallantur, et dominico die semper a caput reprendatur ad Vigilias. Quia nimis inertem devotionis suæ servitium ostendunt monachi qui minus a psalterio cum canticis consuetudinariis per septimanæ circulum psallunt, dum quando legamus sanctos Patres nostros uno die hoc strenue implesse, quod nos tepidi utinam septimana integra persolvamus.
+Nářadí a ostatní věci kláštera</b>
+Nad majetkem kláštera – nářadím, šatstvem a vším ostatním – ustanoví opat bratry, na jejichž život a mravy se opat může spolehnout. Z těch věcí jim podle svého uvážení každému předá část, aby ji měl ve své správě a vracel zpátky. Opat ať si o věcech vede záznamy, aby věděl, co dává a co zase přijímá, když se bratři, jimž věci přiděluje, střídají. Kdyby někdo neuchovával klášterní majetek v čistotě a zacházel s ním nedbale, bude pokárán. A kdyby se nepolepšil, bude potrestán podle Řehole.
 
 
+Soukromý majetek mnichů</b>
+Především musíme z kláštera vykořenit jednu špatnost: nikdo se nesmí opovážit něco dávat nebo přijímat bez opatova dovolení a nemá mít žádný soukromý majetek, vůbec nic, ani knihy, ani tabulky a ani pisadlo, prostě vůbec nic. Vždyť mnichům není dovoleno mít ve vlastní moci ani své tělo a svou vůli. Vše potřebné však mají očekávat od otce kláštera a nesmějí mít nic, co by jim opat nedal nebo nedovolil. Všichni mají všechno společné, jak je psáno, aby nikdo o ničem neříkal, že je to jeho vlastní,  a ani si to nemyslel. Kdyby byl někdo přistižen, že má v této nejničemnější špatnosti zalíbení, bude napomenut jednou a pak podruhé, a jestliže se nepolepší, bude potrestán.
+
+
+Rozdělování podle potřeb</b>
+Je psáno: Rozdělovalo se každému, jak kdo potřeboval. Tím neříkáme, aby se – nedej Bůh – dělaly mezi jednotlivci rozdíly, ale aby se bral ohled na jejich slabosti. Kdo potřebuje méně, ať děkuje Bohu a není zarmoucený. Kdo však potřebuje více, ať se pro svou slabost pokoří a nevynáší se tím, že mu bylo prokázáno milosrdenství. Tak budou všechny údy v pokoji. Hlavně ať se v žádném případě neobjevuje neřest reptání – ani slovem nebo posunkem. Kdo při tom bude přistižen, bude přísně potrestán.
+
+
+Týdenní služba v kuchyni</b>
+ Bratři si mají navzájem sloužit a služby v kuchyni není zproštěn nikdo, leda pro nemoc nebo nějaké důležitější zaměstnání. Tak se totiž dosahuje větší odměny a roste láska. Slabým ať se však přidělí pomoc,
+aby je ta služba nezarmoutila. Žádá-li to velikost komunity nebo místní poměry, mají mít pomocníky všichni. Je-li komunita větší, zprostí se služby v kuchyni celerář, a jak jsme řekli, i ti, kteří mají na starosti něco důležitějšího. Ostatní ať si navzájem v lásce slouží.
+Kdo týdenní službu končí, všecko v sobotu vyčistí. Vypere ručníky, jimiž si bratři utírají ruce a nohy. Ten, kdo službu končí, a ten, kdo ji začíná, umývají všem nohy. Potřebné nádobí vrátí čisté a nepoškozené celeráři. Celerář je pak také přidělí začínajícímu, aby věděl, co dává a co zase přijímá.
+Bratři určení k týdenní službě dostanou hodinu před jídlem nad stanovený příděl něco k pití a chleba, aby mohli během jídla sloužit bratřím bez reptání a těžké námahy. Ve sváteční dny však počkají do konce.
+Na začátku a na konci týdenní služby, hned po ranních chválách v neděli, padnou bratři v oratoři všem k nohám s prosbou, aby se za ně modlili. Kdo týdenní službu končí, říká tento verš: Požehnaný jsi, Pane Bože, tys mi pomohl a potěšil mě. Řekne to třikrát a přijme požehnání. Pokračuje ten, který začíná, a říká: Bože, shlédni a pomoz, Pane, pospěš mi pomáhat. I toto všichni třikrát opakují – on přijme požehnání a začíná službu.
+Nemocní bratři
+Především a zvláště se musí věnovat péče nemocným. Slouží se jim tak, jako by se skutečně sloužilo Kristu, který řekl:
+Byl jsem nemocen, a navštívili jste mě. A: cokoliv jste udělali pro jednoho z těchto mých nejposlednějších bratří, pro mě jste udělali. Ale i sami nemocní ať si uvědomí,
+že se jim slouží ke cti Boží, a svými přílišnými nároky ať bratry, kteří jim slouží,
+nezarmucují. I takové nemocné je však třeba trpělivě snášet, protože právě za takové dojde člověk větší odměny. Proto musí být hlavní opatovou starostí, aby netrpěli nějakou nedbalostí.
+Nemocným bratřím se přidělí zvláštní cela a bohabojný, starostlivý a pečlivý infirmář. Kdykoliv je to třeba, mohou použít lázeň. Ta se zdravým a hlavně mladým povoluje jen velmi zřídka. Aby velmi zesláblí nemocní nabrali sil, je jim dovoleno požívat i maso. Jakmile je jim lépe, zdržují se od masa jako obvykle všichni.
+Aby však celeráři a infirmáři nemocné nezanedbávali, o to se má nejvíce starat opat, neboť jemu se připíše, čehokoliv se žáci dopustí.
+Starci a chlapci
+Třebaže se lidská povaha sama kloní k milosrdenství s věkem starců a snílků, má se jich zastat i autorita Řehole. Ať se s jejich slabostí vždycky počítá a neváže je přísnost Řehole v pokrmech, ale bere se na ně laskavý ohled, aby mohli jíst už před stanovenou hodinou.
+Týdenní služba lektora
+U stolu bratří nesmí chybět čtení. Neměl by tam číst náhodně
+ten, kdo se zrovna chopí knihy, nýbrž ten, kdo nastoupí v neděli a čte celý týden.
+Kdo tuto službu začíná, poprosí po mši a přijímání všechny o modlitbu, aby od něho Bůh odvrátil ducha povýšenosti. Všichni v oratoři třikrát opakují verš, který začal lektor: Pane, otevři mé rty a budu Tě chválit. Pak přijme lektor požehnání a začíná službu. Při četbě ať je naprosté ticho, aby nebylo slyšet žádný šepot ani jiný hlas než lektorův. Potřebné pokrmy a nápoje si bratři podávají navzájem tak, aby nebylo třeba o nic žádat. Jestliže někdo něco potřebuje, dá to najevo spíše nějakým slyšitelným znamením
+než slovy. Nikdo se také nesmí opovážit tázat na něco z četby či se ptát na cokoliv jiného, aby nevznikla příležitost k mluvení, ledaže by představený chtěl krátce pronést něco poučného.
+Bratr, který je týdenním lektorem, dostane před četbou trochu vína s vodou, kvůli svatému přijímání, a aby mu nebylo zatěžko zůstat lačný. Potom bude jíst s bratry, kteří mají ten týden službu v kuchyni nebo jinde. Bratři ať nečtou nebo nezpívají podle pořadí, nýbrž jen ti, kteří posluchače vzdělávají.
+Množství pokrmu
+Máme za to, že k dennímu jídlu, ať je o šesté, nebo o deváté hodině, postačí ke každému stolu dva vařené pokrmy – s ohledem na slabosti jednotlivců, aby ten, kdo by nemohl jíst jedno, se nasytil druhým. Dvě vařená jídla musejí tedy všem bratřím stačit. Kdyby se dostalo ještě ovoce nebo čerstvá zelenina, přidají se jako třetí chod. Jedna dobře vážená libra chleba má stačit na den, ať už je jídlo jedno, nebo oběd i večeře. Mají-li též večeřet,
+celerář třetinu z této libry schová a dá ji k večeři. Kdyby bylo více práce, opat zváží a rozhodne, zda je vhodné něco přidat, ale tak, aby se mniši především vyhnuli nestřídmosti a nikdy jim nebylo špatně od žaludku, protože nic není pro křesťana tak nevhodné jako nestřídmost. Jak praví náš Pán: Dejte si pozor, aby vaše srdce nebyla zatížena nestřidmostí.
+Mladší chlapci ať nedostávají stejnou porci, nýbrž menší než dospělí. Ve všem ať se dbá na správnou míru. Masa čtvernožců se všichni
+kromě velmi slabých nemocných
+zdržují úplně.
+Množství nápoje
+Každý má od Boha svůj vlastní dar: jeden pro to, druhý pro ono. A tak určujeme množství stravy pro druhé s jistými rozpaky. Vzhledem k lidské slabosti se domníváme, že na den stačí každému hemina vína. Ti, kterým dá Bůh sílu ke zdrženlivosti, ať vědí, že dojdou zvláštní odměny.
+Zdali místní poměry, práce nebo vedra vyžadují více, to posoudí představený. Dbá se o to, aby nedošlo k přesycení nebo k opilosti. Čteme sice, že se víno pro mnichy vůbec nehodí, ale protože za našich časů o tom nelze mnichy přesvědčit, shodněme se na tom, že nebudeme pít do sytosti, nýbrž méně, protože víno přivádí k nevázanosti i moudré.
+Kde však se sebou místní chudoba nese, že nelze opatřit ani výše uvedené množství, ale jen mnohem méně nebo vůbec nic, ať ti, kdo tam žijí, dobrořečí Bohu a nereptají. To připomínáme hlavně proto, aby nereptali.
+Doba jídla
+Od svatých Velikonoc do Letnic jedí bratři o šesté a večer večeří.
+Od Letnic po celé léto, nepracují-li na poli nebo nejsou-li příliš sužováni horkem, zůstávají mniši ve středu a v pátek lační až do deváté hodiny. V ostatní dny obědvají o šesté. Mají-li práci na poli nebo dolehnou-li přílišná vedra, opat posoudí, zda se nemá jíst o šesté každý den. O to ať se postará opat a všechno vyváženě uspořádá, jednak aby to bylo ke spáse duší, jednak aby bratři neměli při práci spravedlivý důvod k reptání.
+Od třináctého září do začátku doby postní ať jedí vždy o deváté hodině. V době postní, až do Velikonoc, jedí až po nešporách. Samy nešpory se ale konají tak, aby bratři při jídle nepotřebovali světlo lampy a všechno se skončilo za denního světla. A vůbec v každé době se čas večeře nebo jediného večerního jídla určí tak, aby se všechno odbylo za světla.
+Mlčení po kompletáři
+Mniši se mají snažit o mlčení vždycky, nejvíce však v nočních hodinách. Proto platí stále, v době půstu i v období, kdy se obědvá:
+Ve dny, kdy se obědvá i večeří, si všichni společně sednou, jakmile vstanou od večeře, a jeden předčítá Rozmluvy nebo Životopisy Otců nebo zkrátka něco, co posluchače vzdělá, ne však Heptateuch nebo knihy Královské, neboť v tu dobu nebude pro slabě chápavé vhodné slyšet právě tyto části Písma. Jindy ať se však čtou.
+Je-li den půstu, přistoupí se ke čtení Rozmluv, jak už jsme řekli, hned po nešporách a malé přestávce. Přečte se, kolik čas dovolí, čtyři nebo pět listů. Během četby se sejdou všichni, kterým byl přidělen nějaký úkol. A když jsou tedy pohromadě všichni, začne se kompletář. Po skončení kompletáře nesmí už nikdo promluvit ani slovo.
+Kdyby byl někdo přistižen, že tento předpis o mlčení porušuje, bude přísně potrestán. Výjimkou je přijímání nenadálých hostí, nebo když opat někomu něco poroučí. Ale i to se má konat v největší vážnosti a s uctivou uměřeností.
+Nedochvilní k bohoslužbám a ke stolu
+Jakmile je slyšet znamení k hodince, mnich nechá všechno, co měl v rukou, a spěchá co nejrychleji k službám Božím. Dělá to důstojně,
+aby se nedala příležitost k nevázanosti. Před službou Boží se nesmí dávat přednost ničemu.
+Kdo přijde k nočním vigiliím po Sláva Otci žalmu
+– Proto chceme, aby se říkal velice zvolna a s odmlkami, nepostaví se v chóru na své místo,
+nýbrž na poslední nebo na to, které opat pro takové opozdilce určil, aby na ně on sám nebo všichni mohli vidět, dokud po skončení bohoslužeb veřejným zadostiučiněním
+nevykoná pokání. Proto jsme usoudili,
+že mají stát na posledním nebo na odděleném místě, aby se před očima všech styděli a polepšili. Kdyby totiž zůstali mimo oratoř, najde se možná takový, který by si zase lehl a spal, anebo by určitě seděl venku a ztrácel čas tlacháním: tím by se dala příležitost Zlému. Raději ať vstoupí, aby nepromeškali všechno,
+a propříště se polepší. Kdo přijde k denním hodinkám
+až po verši a Sláva Otci prvního žalmu, který se říká po verši ať se podle výše uvedeného pravidla postaví na poslední místo a ať se neopováží se připojit k chórovému zpěvu žalmů, dokud neučiní zadost, leda by mu opat prominul a dal mu dovolení. Ale i pak musí viník učinit zadost.
+Kdo nepřijde ke stolu už před veršem,
+aby mohli všichni zároveň pronést verš i modlitbu a spolu zasednout ke stolu, kdo tedy z nedbalosti nebo ze zlozvyku nepřijde včas, ať je napomenut jednou a pak podruhé. Jestliže se ani potom nepolepší, nesmí mít účast na společném stolování, ale jí sám, oddělen od společenství všech, a je mu odebrána jeho porce vína, dokud neučiní zadost a nepolepší se. Stejně bude potrestán
+i ten, kdo není přítomen při verši, který se říká po jídle.
+Nikdo se také neopováží si vzít něco k jídlu nebo k pití před stanovenou dobou nebo po ní. Jestliže představený někomu něco nabídne a on to odmítne, i kdyby to, co odmítl, nebo o něco jiného později požádal, nedostane vůbec nic, dokud se náležitě nepolepší.
+Zadostiučinění vyloučených
+Kdo je pro těžší provinění vyloučen z oratoře i od stolu, ten se v době, kdy se v oratoři slaví bohoslužby, položí před prahem oratoře mlčky tváří k zemi a leží tam s hlavou položenou na zemi u nohou všech, kdo z oratoře vycházejí. Dělá to tak dlouho, dokud opat neusoudí, že učinil zadost. Až mu opat dovolí, přijde, padne jemu a potom všem ostatním k nohám s prosbou, aby se za něho modlili. Tehdy, dovolí-li to opat, bude mnich opět přijat do chóru, na místo, které opat určí, ale tak, že se neopováží začít v oratoři žalm, čtení nebo něco jiného, leda až mu to opat znovu dovolí. Při všech hodinkách, když se bohoslužba končí, vrhne se na zem tam, kde stojí, a tak učiní zadost, dokud mu opat znovu neporučí, aby už činit zadost přestal.
+Kdo jsou pro lehčí provinění vyloučeni jen od stolu, činí zadost v oratoři tak dlouho, jak jim opat poručí. Dělají to, dokud jim nepožehná a neřekne: "Stačí."
+Chyby v oratoři
+Jestliže se někdo při zpěvu žalmů, responsoria, antifony nebo při čtení zmýlí a neučiní přede všemi pokorně zadost, ať je přísněji potrestán, protože pokorou nechtěl napravit, co zavinil svou nedbalostí. Chlapci jsou za takové provinění trestáni bitím.
+ Jiná provinění
+Když někdo při jakékoliv práci,
+v kuchyni, ve skladišti, při obsluhování, v pekárně, na zahradě, když vykonává jakoukoli odbornou činnost, nebo kdekoliv jinde, udělá nějakou chybu a něco rozbije nebo ztratí nebo způsobí jinou škodu,
+ale nepřijde hned k opatovi nebo před komunitu, aby se k té věci přiznal a dobrovolně učinil zadost, a když to vyjde najevo skrze někoho jiného, ať je potrestán přísněji.
+Kdyby však byla příčina hříchu skryta v duši, ať ji vyjeví jen opatovi nebo někomu z duchovních otců, který dovede léčit rány své i cizí, aniž je odhalí a prozradí.
+Znamení k bohoslužbám
+Ohlašování doby služeb Božích v noci i ve dne má mít na starosti opat. Ohlásí ji buď on sám, nebo to svěří tak svědomitému bratru, aby se všechno konalo ve stanovenou hodinu.
+Žalmy a antifony začínají po opatovi podle svého pořadí ti, jimž to bylo uloženo. Ať se však neopováží zpívat nebo číst nikdo, kdo by neuměl plnit tuto povinnost ke vzdělání posluchačů. Ten, komu to opat nařídil, ať to dělá pokorně, vážně a s bázní.
+Každodenní tělesná práce
+Zahálka je nepřítel duše. Proto mají být bratři v určité hodiny zaměstnáni tělesnou prací, v jiné hodiny zase svatým čtením.
+Domníváme se, že čas pro obojí lze uspořádat podle tohoto rozvrhu: Od Velikonoc do prvního října začnou bratři ráno po primě a pracují až do čtvrté hodiny, jak je třeba. Od čtvrté hodiny až do sexty se věnují četbě. Když pak po sextě vstanou od stolu, ať ve vší tichosti odpočívají na svých lůžkách. Kdo by si chtěl číst, ať si čte tak, aby druhé nerušil. Nona se začíná o něco dříve, asi v polovině hodiny osmé, a zase se pracuje, jak je třeba, až do nešpor.
+Kde místní poměry nebo chudoba vyžadují, aby se bratři postarali o sklizeň plodin sami, ať se nermoutí. Vždyť právě tehdy jsou skutečnými mnichy, když žijí z práce svých rukou jako naši Otcové a apoštolové. Přesto ať se všecko děje z ohledu na malomyslné s mírou.
+Od prvního října do začátku doby postní, se bratři věnují četbě do konce druhé hodiny. O druhé hodině se modlí tercii a pak až do hodiny deváté všichni pracují, jak jim bylo uloženo. Jakmile se ozve první znamení k noně, nechá každý svého díla a připraví se, než se ozve druhé znamení. Po jídle se pak mniši věnují četbě nebo žalmům.
+V době postní
+se od rána až do konce třetí hodiny věnují své četbě a pak do konce desáté hodiny pracují, jak jim bylo uloženo. Pro tyto postní dny obdrží každý z knihovny (Písma sv.) knihu, kterou má popořádku celou přečíst. Tyto knihy se rozdávají na začátku doby postní.
+Ale především se pověří jeden nebo dva starší a ti procházejí klášterem v době, kdy mají bratři číst, a dohlížejí, aby se snad nenašel líný bratr, který zahálí nebo tlachá, místo aby četl, a tak nejen škodí sobě, ale také ruší ostatní. Kdyby se – nedej Bůh – takový bratr našel, ať je napomenut jednou a pak podruhé. Kdyby se nepolepšil, ať je potrestán podle Řehole tak, aby se ostatní báli. Rovněž ať se bratr s bratrem nestýká mimo příslušnou dobu.
+V neděli se věnují četbě všichni kromě těch, kdo jsou pověřeni různými službami. Je-li někdo tak nedbalý a líný, že by rozjímat nechtěl nebo nedokázal, uloží se mu vykonat nějakou práci, aby nezahálel.
+Nemocným či slabším bratřím se uloží taková práce, aby ani nezaháleli, ani pod tíhou námahy neklesali nebo se jí nevyhýbali. Opat musí brát ohled na jejich slabost.
+Čtyřicetidenní postní doba
+Ačkoliv má mít ráz doby postní celý život mnicha, je málo těch, kteří k tomu najdou sílu. Proto doporučujeme, aby mniši alespoň v postních dnech střežili svůj život v úplné čistotě a aby v těch posvátných dnech
+zároveň smývali i nedbalosti jiných časů. Správně se to děje tak, že se zdržíme všech špatností
+a oddáme se modlitbě s pláčem, četbě, zkroušenosti srdce a zdrženlivosti.
+V těch dnech si tedy
+nad obvyklé úkoly své služby něco přidejme – zvláštní modlitby, zdrženlivost v pokrmech a nápojích, aby každý z vlastní vůle obětoval něco Bohu nad povinnou míru s radostí Ducha svatého. Každý si odřekne
+něco z pokrmu, z pití, ze spánku, z povídavosti, z žertů a v radostné duchovní touze čeká na svaté Velikonoce.
+To, co chce obětovat, musí však předložit svému opatovi, aby se to konalo s jeho modlitbou a schválením, protože cokoliv se děje bez svolení duchovního otce, považuje se za opovážlivost a touhu po prázdné slávě, a nikoliv za zásluhu. Vše se tedy má konat s opatovým schválením.
+Služby Boží mimo klášter
+Bratři, kteří pracují příliš daleko
+a v daný čas nemohou přispěchat do oratoře – a opat uzná, že tomu tak skutečně je –, vykonají bohoslužbu
+a bázní Boží pokleknou tam, kde pracují.
+Stejně ať nevynechají stanovené hodinky ti, kdo jsou posláni na cestu, ale v mezích možností ať se je modlí sami, aby nezanedbali povinnost své služby.
+Bratři na krátkých cestách
+Bratr, který je poslán něco vyřídit a o němž lze předpokládat, že se téhož dne vrátí do kláštera, ať se neopovažuje venku jíst, ani kdyby ho někdo naléhavě pobízel, ledaže by mu to nařídil opat. Kdyby bratr jednal jinak, bude vyloučen.
+Klášterní oratoř
+Oratoř neboli modlitebna má být tím, co říká její jméno, a nic jiného se tam dělat nebo skladovat nesmí. Po skončení bohoslužby všichni vycházejí za naprostého ticha a tím prokazují úctu Bohu. Bratra, který by se chtěl modlit tiše a zvlášť, tak nebude rušit něčí bezohlednost. Ale i kdyby se někdo chtěl jindy pomodlit tiše a o samotě, ať prostě vejde do oratoře a modlí se, ne hlasitě, nýbrž v slzách a pozorným srdcem. Kdo se tak nechová, tomu nebude dovoleno, aby se po bohoslužbách zdržoval v oratoři a – jak bylo řečeno – rušil jiné.
+Přijímání hostí
+Všichni příchozí hosté se mají přijímat jako sám Kristus, který jednou řekne: Byl jsem na cestě, a ujali jste se mě. Všem se má projevovat náležitá úcta, nejvíce bratřím ve víře a poutníkům.
+Jakmile je tedy ohlášen nějaký host, představený nebo bratři mu okamžitě s veškerou laskavou ochotou vyjdou vstříc. Nejdříve ať se spolu pomodlí a tak se sjednotí v pokoji. Políbení pokoje se pro ďábelské nástrahy nedává bez předchozí modlitby.
+Se všemi hosty se mniši vítají nebo loučí s veškerou pokorou: úklonou hlavy nebo i padnutím na zem se v nich klanějí Kristu – vždyť Ho v hostech skutečně přijímají.
+Po přivítání jsou hosté zavedeni k modlitbě a pak si k nim sedne představený nebo ten, koho určil. Hostu se přečte Boží zákon, aby se poučil. A pak se mu prokazuje veškerá pozorná pohostinnost. Představený může kvůli hostům přerušit půst, není-li přísný postní den, jejž porušit nelze. Bratři však ať obvyklý půst dodržují. Opat nalije hostům vodu na ruce: nohy ať všem hostům umyje opat i celá komunita. Po umytí nohou se řekne tento verš: Přijali jsme, Bože, Tvé milosrdenství ve Tvém chrámě. Zvláště usilovná péče se pak věnuje chudým a poutníkům, protože v nich se Kristus přijímá více. Bohatí totiž vzbuzují strach a vyžadují úctu sami o sobě.
+Kuchyně pro opata a hosty ať je oddělená, aby hosté, kteří přicházejí v nejistou hodinu a kteří v klášteře nikdy nechybějí, nerušili bratry. Do té kuchyně nastoupí na rok dva bratři, kteří dovedou takovou službu dobře zastávat. Podle potřeby se jim přidělí pomoc, aby sloužili bez reptání: a mají-li naopak práce méně, půjdou pracovat tam, kde se jim uloží. Toto ustanovení neplatí pouze pro ně,
+nýbrž pro všechny služby v klášteře: když potřebují, přidělí se jim pomoc, a nemají-li co dělat, poslechnou, co se jim poručí.
+Také cela pro hosty ať je přidělena bratru, jehož duše je plna bázně Boží. Má tam být připraveno dostatek lůžek. Dům Boží ať je spravován moudrými a moudře.
+S hosty se nikdo, komu to není nařízeno, nestýká ani s nimi nemluví. Jestliže však mnich některého hosta potká nebo uvidí, pokorně ho pozdraví, jak už jsme řekli, poprosí o požehnání a jde dál se slovy, že mu není dovoleno rozmlouvat s hosty.
+Přijímání dopisů a darů
+Mniši v žádném případě nesmějí
+bez opatova dovolení přijímat od rodičů nebo kohokoliv jiného ani mezi sebou
+dopisy, eulogie, nebo jakékoliv dárky, ani je dávat. I kdyby bratrovi něco poslali vlastní rodiče, nesmí to převzít, aniž to předtím oznámí opatovi. Ale i kdyby to opat předtím rozkázal přijmout, je v opatově moci, aby to poručil dát jinému bratrovi. Bratr, jemuž to bylo určeno, ať se nermoutí, aby se nedávala příležitost ďáblu. Opováží-li se někdo jednat jinak, bude potrestán podle Řehole.
+Oděv a obuv bratří
+Oděv mají bratři dostat podle polohy a podnebí místa, kde žijí, protože v chladných krajích je ho potřeba více, v teplých méně. Uvážit to tedy musí opat. Přesto se domníváme, že v mírnějších krajinách postačí každému mnichu kukule a tunika, kukule v zimě z husté vlny, v létě tenká nebo obnošená, do práce škapulíř a na nohy punčochy a boty.
+Mniši si nemají stěžovat na barvu nebo hrubost všech těchto věcí, ale mají dostat takové, jaké lze dostat v kraji, kde žijí, nebo jaké lze pořídit levněji. Opat se postará o správnou velikost, aby oděv těm, kdo ho nosí nebyl krátký, ale na míru.
+Dostanou-li něco nového, staré věci vždy ihned vrátí, aby se uložily do šatny pro chudé. Mnichovi totiž stačí mít tuniky a kukule dvě, na noc, a aby bylo možno věci vyprat. Co je navíc, je přebytečné a má být odňato. Také punčochy a vše, co je staré, ať vrátí, když dostanou nové.
+Bratři, kteří se mají vydat na cestu, dostanou ze šatny kalhoty a po návratu je tam vyprané zase odevzdají. Kukule a tuniky dostanou na cestu o něco lepší, než mívají obvykle. Dostanou je ze šatny při odchodu a po návratu je tam zase odevzdají.
+K vybavení lůžka stačí rohož, prostěradlo, pokrývka a poduška. Lůžka má opat často prohlížet, aby tam mniši neměli své soukromé věci. Kdyby se u někoho našlo něco, co nedostal od opata, ať je velmi přísně potrestán. Aby se tato špatnost vytrhla i s kořenem, má opat dávat mnichům všechno, co potřebují: kukuli, tuniku, punčochy, boty, pás, nůž, pisadlo, jehlu, šátek a psací tabulky. Tak se předejde každé výmluvě, že něco chybí.
+Opat musí mít stále na mysli onen výrok ze Skutků apoštolů, že se rozdělovalo každému, jak kdo potřeboval. I opat má tedy brát ohled na slabosti potřebných, a ne na přání závistivých. Ve všech svých rozhodnutích ať pamatuje na Boží odplatu.
+Opatův stůl
+Opat má vždycky stolovat s hosty a poutníky. Kdykoliv je v klášteře hostí méně, může si přizvat, koho chce, z bratří. Vždy však má pro kázeň ponechat u bratří
+jednoho nebo dva starší.
+Odborníci v klášteře
+ Jsou-li v klášteře odborníci, a opat jim to dovolí, ať se vší pokorou vykonávají svou odbornost. Kdyby se některý začal pro svou dovednost vynášet, a zdálo se mu, že klášteru přispívá něčím zvláštním, bude mu ta práce odňata a nevrátí se k ní, dokud se nepokoří a opat mu to znovu nedovolí.
+Má-li se něco z prací odborníků prodat, musejí si ti, jejichž rukama zboží prochází, dát pozor, aby se nedopustili nějakého podvodu. Ať si stále připomínají Ananiáše a Safiru, aby smrt, která ty dva postihla na těle, nezasáhla na duši je a všechny, kdo by se dopustili na klášterním majetku nějakého podvodu.
+V cenách ať se neprojevuje neřest lakoty, ale prodává se vždy o něco laciněji, než mohou nabízet lidé ve světě, aby tak byl ve všem oslavován Bůh.
+Způsob přijímání bratří
+Kdo přijde nově, aby vedl klášterní život, tomu se vstup nemá povolovat snadno, ale jak praví apoštol: Zkoumejte duchy, zda-li jsou z Boha. Když tedy příchozí vytrvale klepe, a po čtyřech nebo pěti dnech se ukáže, že potíže a příkoří při vstupu snáší trpělivě a že na své prosbě trvá i nadále, povolí se mu vstoupit
+a bude po několik dní v cele pro hosty.
+Potom ať je v cele, kde se učí a kde jedí a spí novicové. Novicům je přidělen takový starší bratr, který umí získávat duše, a ten se o ně velmi pečlivě stará.
+Ať bedlivě zkoumá, zda novic opravdu hledá Boha a zda je horlivý ve službě Boží, v poslušnosti i ve snášení příkoří. Dopředu se novici řekne o všech těžkostech a nesnázích, kterými vede cesta k Bohu. Slíbí-li pak, že vytrvá a zůstane, přečte se mu po dvou měsících celá tato Řehole a řekne se mu: "Toto je zákon, pod nímž chceš bojovat. Dokážeš-li to zachovávat, vstup, nemůžeš-li, svobodně odejdi. Jestliže zůstane nadále, zavede se do cely pro novice a znovu je zkoušen ve všestranné trpělivosti.
+Aby věděl, čemu jde vstříc, přečte se mu Řehole znovu po šesti měsících. A zůstává-li i potom, táž Řehole se mu po čtyřech měsících přečte ještě jednou. Jestliže po zralé úvaze slíbí, že bude všechno zachovávat
+a plnit vše, co se mu poručí, pak ať je přijat do komunity a je si vědom,
+že mu už od toho dne není podle zákona Řehole dovoleno z kláštera odejít ani setřást ze sebe jho Řehole, kterou mohl po tak dlouhém rozvažování buď odmítnout, anebo přijmout.
+Kdo má být přijat, ať oratoři před celou komunitou slíbí
+svou stálost, změnu mravů a poslušnost. Slíbí to před Bohem a Jeho svatými, takže kdyby někdy jednal jinak, ví, že bude tím, komu se vysmívá, zavržen. O svém slibu sepíše listinu se jmény svatých, jejichž ostatky tam jsou, a jménem přítomného opata. Tu listinu napíše vlastní rukou. Neumí-li psát, ať poprosí jiného. Připojí své znamení a položí ji vlastní rukou na oltář. Když ji tam položí, zazpívá novic ihned verš: Přijmi mě, Hospodine, podle svého slibu, abych byl živ, mou naději nezklam. Tento verš po něm celá komunita třikrát opakuje a přidává Sláva Otci. Tehdy se nový bratr vrhne každému k nohám s prosbou, aby se za něho modlil. Od té doby je považován za člena komunity.
+Má-li nějaký majetek, rozdá ho předtím chudým, anebo právoplatným darováním převede na klášter.
+Z toho všeho si nic neponechá pro sebe, protože ví, že od toho dne není pánem ani nad svým vlastním tělem.
+Proto se hned v oratoři svlékne z vlastních šatů, které má na sobě, a obleče se do šatů klášterních. Šaty, které svlékl, se uloží v šatně. Kdyby snad – nedej Bůh –
+podlehl ďáblovým pokušením a odešel z kláštera, bude vysvlečen z klášterního šatu a vyhnán. Svou listinu, kterou opat vzal z oltáře, však bratr nazpět nedostane – bude uchována v klášteře.
+Přijímání synů šlechticů a chudých
+Kdyby některý šlechtic obětoval svého syna Bohu v klášteře a kdyby byl ten hoch nezletilý, sepíší jeho rodiče listinu, o které jsme mluvili výše, a s obětním darem a chlapcovou rukou ji zavinou
+do oltářního plátna a tak ho obětují.
+O jeho majetku pak buď ve zmíněné listině pod přísahou slíbí, že mu nikdy nic nedají ani oni sami, ani skrze prostředníka, ani jakýmkoliv jiným způsobem, ani mu nedají příležitost něco vlastnit. Anebo jestliže tak učinit nechtějí a raději by něco chtěli dát klášteru jako záslužnou almužnu, pořídí o tom, co chtějí dát, pro klášter darovací smlouvu. Přejí-li si to, ať si tam vyhradí užívání výnosu.
+Tak se všechno zajistí a chlapci nezůstane žádná vyhlídka, kterou by se – nedej Bůh – dal oklamat a tak zahynul. To známe ze zkušenosti.
+Podobně ať si počínají i méně majetní. A ti, kteří nemají vůbec nic, prostě jen sepíší listinu a s obětním darem obětují svého syna před svědky.
+Přijímání kněží
+Žádá-li o přijetí do kláštera někdo z kněžského stavu, nemá se mu vyhovět příliš rychle. Když však na své prosbě pevně trvá, musí vědět, že bude povinen zachovávat veškerou řeholní kázeň. Nic mu nebude ulehčeno, aby platilo, co je psáno: Příteli, k čemu jsi přišel?
+Je mu však dovoleno stát hned za opatem, a jestliže mu to opat přikáže, žehnat a zakončovat modlitby. Jinak ať si vůbec nic neosobuje: vždyť ví, že je podřízen řeholní kázni. Spíše má všem dávat příklad pokory. Projednává-li se v klášteře obsazení úřadu či kterákoliv jiná věc, ať zaujímá místo podle doby svého vstupu do kláštera, a nikoliv to, které mu bylo vyhrazeno z úcty ke kněžství.
+Bude-li mít přání vstoupit do kláštera některý klerik, vykáže se mu místo někde uprostřed, ale jen když slíbí, že bude zachovávat Řeholi a stálost.
+Přijímání cizích mnichů
+Přijde-li cizí mnich ze vzdáleného kraje a chce zůstat v klášteře jako host a je-li spokojen s klášterními zvyklostmi, jak je najde, a neuvádí-li svými přílišnými nároky klášter ve zmatek, nýbrž se prostě spokojí s tím, co najde, ať je přijat, na jak dlouho chce. Jestliže něco rozumně a s laskavou pokorou vytkne nebo na něco poukáže, ať opat moudře uváží, zda ho Pán neposlal právě proto.
+Kdyby chtěl později slíbit svou stálost, nemá se takové přání odmítnout, zvláště proto, že jeho život se mohl poznat v době, kdy byl hostem. Zjistí-li se však, že je jako host náročný nebo se dopouští špatností, nejenže se do kláštera nesmí přijmout, ale ať je slušně požádán, aby odešel, aby jeho bídný stav nenakazil také ostatní. Když si nezaslouží, aby byl poslán pryč, má být nejen přijat za člena komunity, když o to požádá, ale má se i přemlouvat k tomu, aby zůstal, aby jeho příklad vychovával ostatní. Všude se přece slouží jednomu Pánu a bojuje pod jedním Králem. Shledá-li opat nadto, že je toho hoden, smí jej postavit na poněkud vyšší místo. Nejen mnicha, ale i někoho z výše jmenovaného stavu kněží nebo kleriků může opat postavit na místo vyšší, než odpovídá době vstupu, jestliže vidí, že vede odpovídající život.
+Ať si však opat dává pozor,
+aby někdy nepřijal k pobytu mnicha z jiného známého kláštera bez souhlasu jeho opata nebo bez doporučujícího listu. Vždyť je psáno: Co nechceš, aby se dělo tobě, sám nečiň jinému.
+Kněží kláštera
+Chce-li některý opat, aby byl někdo vysvěcen na kněze nebo jáhna, ať si ze svých mnichů vybere toho, kdo by byl hoden kněžský úřad vykonávat. Vysvěcený si dá pozor, aby nebyl povýšený nebo pyšný, neopovažuje se dělat nic, co by mu opat neporučil. Ví, že právě on se má podřídit řeholní kázni mnohem více. Pro kněžství ať nezapomíná na poslušnost Řeholi a na kázeň, ale naopak ať jde stále víc a víc k Bohu. I nadále zaujímá místo podle svého vstupu do kláštera, kromě služby u oltáře, nebo kdyby ho volby komunity nebo vůle opatova chtěly povýšit pro jeho zásluhy. Ať si je však vědom, že musí zachovávat pravidla stanovená pro děkany a převory.
+Opováží-li se jednat jinak, nebude považován za kněze, ale za buřiče. Nepolepší-li se ani přes častější napomenutí, povolá se za svědka i biskup. Kdyby se nenapravil ani pak a jeho provinění byla zjevná, bude vyhnán z kláštera, ovšem jen tehdy, bude-li jeho zatvrzelost taková, že by se nechtěl podřídit Řeholi a poslouchat ji.
+Pořadí v komunitě
+Bratři zachovávají v klášteře pořadí podle doby vstupu, životních zásluh a podle opatova rozhodnutí. Opat nesmí do svěřeného stáda vnášet neklid a ustanovit něco nespravedlivě, jako by požíval neomezené moci, ale vždy má myslet na to, že ze všech svých rozhodnutí a činů bude skládat účty Bohu.
+V pořadí, jak je určil on nebo jak je bratři zaujímají, ať přistupují k políbení pokoje a k přijímání, začínají žalmy i stojí v chóru. Vůbec nikde nemá o pořadí rozhodovat nebo je zaručovat věk – Samuel a Daniel přece už v mládí soudili starce. S výjimkou těch, které opat po zralé úvaze
+z jistých důvodů povýší nebo sesadí, tedy všichni zaujímají místo podle doby vstupu, takže například ten, kdo do kláštera přišel o hodině druhé, ví, že je mladší než ten, kdo přišel o hodině první, ať už je jakéhokoliv věku a postavení. Chlapce mají všichni ve všem vést ke kázni. Mladší ať tedy ctí ty starší, starší ať milují ty mladší. Když se navzájem oslovují, není nikomu dovoleno nazvat druhého pouhým jménem, nýbrž starší ať říkají mladším "bratře", mladší starším "nonne", což znamená "důstojný otče". Opatovi, o němž věříme, že jedná jako Kristův zástupce, ať říkají "pane" a "opate", ne protože by si to sám vybral, ale z úcty a lásky ke Kristu. To ať sám uváží
+a chová se tak, aby byl takové úcty hoden.
+Kdekoliv se bratři potkají, mladší požádá staršího o požehnání. Když jde kolem starší, mladší vstane a nabídne mu místo – a ať se neodváží sednout si,
+dokud ho starší nevybídne. Tak se děje, co je psáno: V uctivosti předcházejte jeden druhého.
+Malí a dospívající chlapci ať zaujímají svá místa v oratoři i u stolu ukázněně. Venku a kdekoliv jinde musejí být pod kázeňským dohledem, dokud nedospějí do rozumného věku.
+Ustanovení opata
+Při ustanovení opata platí vždy zásada, aby to byl ten, koho si v bázni Boží zvolila buď celá komunita, nebo i její sebemenší část podle zdravějšího úsudku. Ten, kdo má být ustanoven, má být zvolen podle zásluh života a učitelské moudrosti,
+i kdyby byl v pořadí komunity poslední.
+Kdyby však – nedej Bůh – celá komunita jednomyslně zvolila někoho, kdo by souhlasil s jejími špatnostmi, a ty špatnosti kdyby vešly ve známost biskupa, do jehož diecéze to místo patří, nebo kdyby se o nich dozvěděli okolní opatové nebo křesťané, ať zabrání tomu, aby společný názor zkažených převládl. Ať ustanoví správce hodného pro dům Boží. Ať vědí, že za to dostanou dobrou odměnu, učiní-li to s čistým úmyslem a z horlivosti pro Boha, a naopak trest za hřích, kdyby to zanedbali.
+Ustanovený opat musí mít stále na mysli, jaké břemeno na sebe vzal
+a komu bude ze svého správcovství skládat účty. Ať si je vědom, že má spíše pomáhat než předsedat.
+Proto má být vzdělán v Božím zákoně, aby měl znalost a mohl z ní vynášet věci nové i staré. Ať je čistý, střídmý, milosrdný. Ať vždycky dává přednost milosrdenství před soudem, aby sám došel milosrdenství. Ať nenávidí špatnosti, miluje bratry. I při trestání musí postupovat moudře a nepřehánět, aby nádobu, z níž chce příliš seškrábat rez, nerozbil. Ať stále počítá se svou vlastní křehkostí a pamatuje na to, že nalomenou třtinu nesmí dolomit. Tím nechceme říci, aby nechal bujet špatnosti, ale aby je vytrhával moudře a s láskou, jak to podle něho komu prospívá. O tom jsme už mluvili. A má se snažit být více milován než obáván.
+Ať není prudký ani úzkostlivý, ať nepřehání a není neústupný, ať není žárlivý a příliš podezřívavý, protože by nikdy nespočinul v pokoji. Ve svých rozkazech má být prozíravý a rozvážný. Ať už rozhoduje o věcech Božích nebo světských, v tom, co poroučí, musí rozlišovat míru a musí vše řídit
+s myšlenkou na rozlišování míry patriarchy Jakuba, který řekl: Budu-li svá stáda hnát příliš, za den mi všechna pohynou. Opat si tedy osvojí tento výrok i jiné příklady rozlišování míry, matky ctností, a řídí vše tak, aby silní měli, po čem touží, a slabí aby neutekli.
+Hlavně však musí ve všem zachovávat tuto Řeholi, aby po dobré službě uslyšel od Pána to, co dobrý služebník, který svým druhům dával pšenici v pravý čas: Amen, pravím vám, ustanoví ho nad celým svým majetkem.
+Převor kláštera
+Příliš často se stává, že ustanovení převora vyvolává v klášteřích pohoršlivé spory. Někteří totiž, nadmuti zlým duchem pýchy, se považují za druhé opaty a osobují si neomezenou moc. Tím se v komunitách živí pohoršlivé spory a roztržky, hlavně tam, kde převora ustanovuje stejný biskup nebo ti opatové, kteří ustanovují i opata. Jak je to nesmyslné, se snadno pozná z toho, že se mu hned od začátku při ustanovení dává důvod k pýše. Jeho myšlenky ho totiž přesvědčují,
+že je vyňat z moci svého opata, protože ho ustanovili stejní lidé jako opata. Z toho vznikají závist, hádky, pomluvy, žárlivost, roztržky a nepořádky, neboť když se opat a převor rozcházejí v názorech, nutně jsou touto roztržkou v nebezpečí jejich duše i bratři, kteří jsou pod nimi. Ti se totiž řítí do záhuby, když pochlebují stranám. Za toto nebezpečí jsou odpovědni ti,
+kdo se stali příčinou tak velkého nepořádku.
+Proto jsme přesvědčeni,
+že pro zachování pokoje a lásky je vhodné, aby uspořádání kláštera záviselo na opatově rozhodnutí. Jak už jsme řekli,
+všechny potřeby kláštera mají podle opatových pokynů vyřizovat děkani. Svěří-li se totiž něco více lidem, jeden nezpyšní.
+Jestliže to však vyžadují místní poměry, nebo požádá-li o to rozumně a pokorně komunita, a opat to považuje za vhodné, ať si opat sám ustanoví převorem toho, koho si vybral po poradě s bohabojnými bratry. Ten převor pak bude s úctou plnit, co mu opat uloží, a neučiní nic proti opatově vůli a příkazu. Čím víc je totiž nadřazen ostatním, tím svědomitěji musí zachovávat předpisy Řehole.
+Kdyby se shledalo, že se tento převor dopouští špatností nebo že se svým povýšením pyšní, nebo kdyby se dokázalo, že opovrhuje svatou Řeholí, bude až čtyřikrát napomenut. Nepolepší-li se, bude podle řeholní kázně pokárán. Kdyby se nepolepšil ani potom, bude z úřadu převora sesazen a na jeho místo bude dosazen jiný, který je toho hoden. Kdyby ani pak ještě nebyl v komunitě pokojný a poslušný, bude vyhnán i z kláštera. Opat má zvažovat, že ze všech svých rozhodnutí bude skládat účty Bohu, aby snad jeho duši nestravoval plamen závisti nebo žárlivosti.
+ Fortnýři kláštera
+K bráně kláštera má být postaven moudrý stařec, který umí jednat s lidmi a jemuž zralost nedovolí se toulat. Fortnýř musí mít u brány i svou celu, aby příchozí vždycky našli někoho, kdo by s nimi jednal. Jakmile někdo zaklepe nebo zavolá chudý, ihned odpoví: "Bohu díky" nebo "Požehnej mi" – a v bázni Boží se vší laskavostí věc vyřídí, veden horlivou láskou. Potřebuje-li fortnýř pomoc, dostane mladšího bratra.
+Klášter má být podle možnosti postaven tak, aby se všechno potřebné – voda, mlýn, zahrada a různé dílny – nacházelo v obvodu kláštera, aby mniši nemuseli vycházet ven, protože to jejich duším vůbec neprospívá.
+Chceme také, aby se tato Řehole v komunitě velmi často předčítala, aby se nikdo z bratří nevymlouval na neznalost.
+Bratři poslaní na cestu
+Bratři, kteří se mají vydat na cestu, se svěří do modlitby všech bratří a opata. Na všechny nepřítomné se vzpomíná
+vždy při poslední modlitbě každé služby Boží. Po návratu z cesty padnou bratři, kteří se vrátili, týž den při každé kanonické hodince, kdy se bohoslužba končí, v oratoři na zem a prosí všechny o modlitbu pro pochybení, k nimž je snad na cestě svedlo něco špatného, co viděli nebo slyšeli, nebo plané mluvení. Nikdo se také nesmí opovážit vypravovat druhému, co mimo klášter viděl nebo slyšel – to by bylo velmi zhoubné. Kdyby se toho někdo přece opovážil, bude potrestán podle Řehole. Totéž platí i pro toho, kdo by se opovážil vyjít z klášterní klauzury, kamkoliv odejít nebo udělat dělat jakoukoliv maličkost bez opatova nařízení.
+Příliš náročné úkoly
+Uloží-li se snad bratru něco těžkého nebo nemožného, ať přesto přijme rozkaz svého představeného ve vší mírnosti a poslušnosti. Kdyby viděl, že tíha uloženého břemene úplně přesahuje jeho síly, pak ať přednese svému představenému důvody, proč nemůže, trpělivě a vhodně, ne pyšně nebo se vzdorem a odmlouváním. Kdyby představený i po jeho vysvětlení na svém názoru a rozkazu trval, ať si podřízený uvědomí, že je to tak pro něho lépe, a z lásky a v důvěře v pomoc Boží ať poslechne.
+Zákaz hájit jeden druhého
+Je třeba se mít na pozoru, aby se v klášteře při jakékoliv příležitosti nikdo neopovážil hájit nebo brát v ochranu jiného mnicha, ani kdyby byli spojeni jakýmkoliv stupněm příbuzenství. Mniši si to v žádném případě nesmějí dovolit, protože to může vyvolat velmi těžké pohoršlivé spory. Kdyby toto pravidlo někdo překročil, bude velmi přísně potrestán.
+Zákaz svévolného trestání druhých
+V klášteře se nesmí dát příležitost
+k jakémukoliv opovážlivému jednání. Proto jsme ustanovili, že vylučovat nebo trestat kohokoliv z bratří bitím je dovoleno jenom tomu, komu dá takovou moc opat – ti však, kdo žijí špatně, budou káráni přede všemi, aby ostatní dostali strach. O kázeň u chlapců do věku patnácti let a dozor nad nimi mají pečovat všichni, ale i to se vší mírou a rozvahou.
+Kdo se bez opatova příkazu něčeho opováží proti starším, nebo se bez rozlišování míry rozohní i proti chlapcům, bude potrestán podle Řehole. Je přece psáno: Co nechceš, aby se dělo tobě, sám nečiň jinému.
+Vzájemná poslušnost
+Dobro poslušnosti
+mají všichni bratři prokazovat nejen opatovi, ale ať jsou si poslušni i sobě navzájem. Vědí přece, že cestou poslušnosti dojdou k Bohu.
+Nedovolujeme však,
+aby se soukromým příkazům dávala přednost před nařízením opatovým nebo před příkazy převorů, které opat ustanovil. Jinak ať všichni mladší se vší láskou a ochotou poslouchají své starší bratry. Shledá-li se, že je někdo tvrdohlavý, bude pokárán.
+Je-li bratr pro jakoukoliv maličkost opatem nebo kýmkoliv ze starších jakkoliv kárán, nebo pozoruje-li, že kterýkoliv starší je na něho poněkud rozhněván nebo je i jen málo rozrušen, ihned bez váhání padne k zemi a tak dlouho kajícně čeká u jeho nohou, dokud mu představený nedá požehnání na znamení, že se to rozrušení utišilo. Kdyby to někdo odmítl učinit, ať je buď potrestán tělesně, nebo kdyby byl vzpurný, ať je z kláštera vyhnán.
+Dobrá horlivost mnichů
+Jako existuje horlivost hořká a zlá, která vzdaluje od Boha a vede do pekla, tak existuje i horlivost dobrá, která vzdaluje od špatností a vede k Bohu a k životu věčnému.
+Mniši mají s vroucí láskou projevovat tuto druhou horlivost: V uctivosti mají předcházet jeden druhého, své tělesné tělesné a mravní slabosti ať snášejí s největší trpělivostí a překonávají se navzájem poslušností a nikdo nemá sledovat svůj vlastní prospěch, nýbrž spíše prospěch druhého. Ať si projevují čistou bratrskou lásku, s láskou setrvávají v bázni Boží a svého opata milují upřímně a pokorně. Naprosto ničemu ať nedávají přednost před Kristem. On kéž nás společně dovede do života věčného!
+Tato Řehole jako začátek cesty k plné spravedlivosti
+Tuto Řeholi jsme napsali, abychom ji v klášteřích zachovávali a tím ukázali, že máme alespoň trochu důstojné mravy a začínáme žít řeholním životem. Pro toho, kdo spěchá k dokonalému řeholnímu životu, jsou tu ostatně nauky svatých Otců, jejichž zachovávání vede člověka až k vrcholu dokonalosti. Vždyť která stránka nebo který výrok
+Bohem inspirovaného Starého a Nového zákona není nejpřímějším ukazatelem na cestě lidského života? Nebo která kniha svatých katolických Otců nehlásá, jak dojdeme přímou cestou ke svému Stvořiteli? A co Rozmluvy Otců, jejich Ustanovení a Životopisy a také Řehole našeho svatého Otce Bazila? Co je to jiného než nástroje ctností pro dobře žijící a poslušné mnichy? My zahálčiví, špatně žijící a nedbalí se zde však musíme rdít studem.
+Kdo tedy spěcháš do nebeské vlasti, uveď tuto skromnou Řeholi napsanou pro začátečníky s Kristovou pomocí ve skutek a pak teprve pod Boží ochranou dospěješ k těm vznešeným výšinám nauky a cností, o nichž jsme mluvili výše.
+(Amen)
+(Konec Řehole)
 
-<b>Caput 19: De disciplina psallendi</b>
 
-Ubique credimus divinam esse præsentiam et <i>oculos Domini in omni loco speculari bonos et malos</i>, maxime tamen hoc sine aliqua dubitatione credamus, cum ad opus divinum adsistimus. Ideo semper memores simus quod ait Propheta: <i>Servite Domino in timore</i>, et iterum: <i>Psallite sapienter</i>, et: <i>In conspectu angelorum psallam tibi</i>. Ergo consideremus qualiter oporteat in conspectu Divinitatis et angelorum eius esse, et sic stemus ad psallendum, ut mens nostra concordet voci nostræ.
-
-
-
-<b>Caput 20: De reverentia orationis</b>
-Si, cum hominibus potentibus volumus aliqua suggerere, non præsumimus nisi cum humilitate et reverentia, quanto magis Domino Deo universorum cum omni humilitate et puritatis devotione supplicandum est. Et non in multiloquio, sed in puritate cordis et conpunctione lacrimarum nos exaudiri sciamus. Et ideo brevis debet esse et pura oratio, nisi forte ex affectu inspirationis divinæ gratiæ protendatur. In conventu tamen omnino brevietur oratio, et facto signo a priore pariter surgant.
-
-
-<b>Caput 21: De decanis monasterii</b>
-
-Si maior fuerit congregatio, elegantur de ipsis fratres boni testimonii et sanctæ conversationis, et constituantur decani, qui sollicitudinem gerant super decanias suas in omnibus secundum mandata Dei et præcepta abbatis sui. Qui decani tales elegantur in quibus securus abbas partiat onera sua. Et non elegantur per ordinem, sed secundum vitæ meritum et sapientiæ doctrinam. Quique decani, si ex eis aliqua forte qui inflatus superbia repertus fuerit reprehensibilis, correptus semel et iterum atque tertio si emendare noluerit, deiciatur, et alter in loco eius qui dignus est subrogetur. Et de præposito eadem constituimus.
-
-
-
-<b>Caput 22: Quomodo dormiant monachi</b>
-
-Singuli per singula lecta dormiant. Lectisternia pro modo conversationis secundum dispensationem abbatis sui accipiant. Si potest fieri omnes in uno loco dormiant; sin autem multitudo non sinit, deni aut viceni cum senioribus qui super eos solliciti sint, pausent. Candela iugiter in eadem cella ardeat usque mane. Vestiti dormiant et cincti cingulis aut funibus, ut cultellos suos ad latus suum non habeant dum dormiunt, ne forte per somnium vulnerent dormientem; et ut parati sint monachi semper et, facto signo absque mora surgentes, festinent invicem se prævenire ad opus Dei, cum omni tamen gravitate et modestia. Adulescentiores fratres iuxta se non habeant lectos, sed permixti cum senioribus. Surgentes vero ad opus Dei invicem se moderate cohortentur propter somnulentorum excusationes.
-
-
-
-<b>Caput 23: De excommunicatione culparum</b>
-
-Si quis frater contumax aut inobœdiens aut superbus aut murmurans vel in aliquo contrarius sanctæ regulæ et præceptis seniorum suorum contemptor repertus fuerit, hic secundum Domini nostri præceptum admoneatur semel et secundo secrete a senioribus suis. Si non emendaverit, obiurgetur publice coram omnibus. Si vero neque sic correxerit, si intelligit qualis pœna sit, excommunicationi subiaceat; sin autem inprobus est, vindictæ corporali subdatur.
-
-
-
-<b>Caput 24: Qualis debet esse modus excommunicationis</b>
-
-Secundum modum culpæ, et excommunicationis vel disciplinæ mensura debet extendi. Qui culparum modus in abbatis pendat judicio. Si quis tamen frater in levioribus culpis invenitur, a mensæ participatione privetur. Privati autem a mensæ consortio ista erit ratio, ut in oratorio psalmum aut antefanam non imponat, neque lectionem recitet, usque ad satisfactionem. Refectionem autem cibi post fratrum refectionem solus accipiat, ut, si verbi gratia fratres reficiunt sexta hora, ille frater nona, si fratres nona, ille vespera, usque dum satisfactione congrua veniam consequatur.
-
-
-
-<b>Caput 25: De gravioribus culpis</b>
-
-Is autem frater qui gravioribus culpæ noxa tenetur, suspendatur a mensa, simul ab oratorio. Nullus ei fratrum in nullo jungatur consortio nec in conloquio. Solus sit ad opus sibi iniunctum, persistens in pænitentiæ luctu, sciens illam terribilem Apostoli sententiam dicentis: <i>Traditum eiusmodi hominem in interitum carnis, ut spiritus salvus sit in diem Domini</i>. Cibi autem refectionem solus percipiat, mensura vel hora qua præviderit abbas ei conpetere; nec a quoquam benedicatur transeunte nec cibum quod ei datur.
-
-
-
-<b>Caput 26: De his qui sine jussione jungunt se excommunicatis</b>
-
-Si quis frater præsumpserit sine jussione abbatis fratri excommunicato quolibet modo se jungere aut loqui cum eo vel mandatum ei dirigere, similem sortiatur excommunicationis vindictam.
-
-
-
-<b>Caput 27: Qualiter debeat abbas sollicitus esse circa excommunicatos</b>
-
-Omni sollicitudine curam gerat abbas circa delinquentes fratres, quia: <i>Non est opus sanis medicus, sed male habentibus</i>. Et ideo uti debet omni modo ut sapiens medicus: inmittere senpectas, id est seniores sapientes fratres, qui quasi secrete consolentur fratrem fluctuantem et provocent ad humilitatis satisfactionem et consolentur eum ne abundantiori tristitia absorbeatur, sed, sicut ait item Apostolus: <i>Confirmetur in eo charitas</i>, et oretur pro eo ab omnibus. Magnopere enim debet sollicitudinem gerere abbas et omni sagacitate et industria currere, ne aliquam de ovibus sibi creditis perdat. Noverit enim se infirmarum curam suscepisse animarum, non super sanas tyrannidem. Et metuat Prophetæ comminationem per quam dicit Deus: <i>Quod crassum videbatis, et quod debile erat proiciebatis</i>. Et Pastoris boni pium imitetur exemplum, qui, relictis nonaginta novem ovibus in montibus, abiit unam ovem quæ erraverat quærere. Cuius infirmati in tantum conpassus est, ut eam in sacris humeris suis dignaretur inponere et sic reportare ad gregem.
-
-
-
-<b>Caput 28: De his qui sæpius correpti emendare noluerint</b>
-
-Si quis frater frequenter correptus pro qualibet culpa, si etiam excommunicatus non emendaverit, acrior ei accedat correptio, id est ut verberum vindicta in eum procedant. Quod si nec ita correxerit, aut forte - quod absit - in superbia elatus etiam defendere voluerit opera sua, tunc abbas faciat quod sapiens medicus: si exhibuit fomenta, si unguenta adhortationum, si medicamina Scripturarum divinarum, si ad ultimum ustionem excommunicationis vel plagarum virgæ, et jam si viderit nihil suam prævalere industriam, adhibeat etiam, quod maius est, suam et omnium fratrum pro eo orationem, ut Dominus qui omnia potest operetur salutem circa infirmum fratrem. Quod si nec isto modo sanatus fuerit, tunc jam utatur abbas ferro abscisionis, ut ait Apostolus: <i>Auferte malum ex vobis</i>; et iterum: <i>Infidelis si discedit, discedat</i>, ne una ovis morbida omnem gregem contagiet.
-
-
-
-<b>Caput 29: Si debeant fratres exeuntes de monasterio item recipi</b>
-
-Frater qui proprio vitio egreditur de monasterio, si reverti voluerit, spondeat prius omnem emendationem pro quo egressus est, et sic in ultimo gradu recipiatur, ut ex hoc eius humilitas conprobetur. Quod si denuo exierit, usque tertio ita recipiatur, jam postea sciens omnem sibi reversionis aditum denegari.
-
-
-
-<b>Caput 30: De pueris minori ætate qualiter corripiantur</b>
-
-Omnis ætas vel intellectus proprias debet habere mensuras. Ideoque quotiens pueri vel adulescentiores ætate, aut qui minus intellegere possunt, quanta pœna sit excommunicationis, hii tales dum delinquunt, aut jejuniis nimiis affligantur aut acris verberibus cœrceantur, ut sanentur.
-
-
-
-<b>Caput 31: De cellarario monasterii qualis sit</b>
-
-Cellararius monasterii elegatur de congregatione sapiens, maturis moribus, sobrius, non multum edax, non elatus, non turbulentus, non iniuriosus, non tardus, non prodigus, sed timens Deum; qui omni congregationi sit sicut pater. Curam gerat de omnibus. Sine jussione abbatis nihil faciat. Quæ iubentur custodiat. Fratres non contristet. Si quis frater ab eo foret aliqua inrationabiliter postulat, non spernendo eum contristet, sed rationabiliter cum humilitate male petenti deneget. Animam suam custodiat, memor semper illud apostolicum, quia: <i>Qui bene ministraverit, gradum bonum sibi adquirit</i>. Infirmorum, infantum, hospitum pauperumque cum omni sollicitudine curam gerat, sciens sine dubio, quia pro his omnibus in die judicii rationem redditurus est. Omnia vasa monasterii cunctamque substantiam ac si altaris vasa sacrata conspiciat. Nihil ducat neglegendum. Neque avaritiæ studeat neque prodigus sit et stirpator substantiæ monasterii, sed omnia mensurate faciat et secundum jussionem abbatis.
-
-Humilitatem ante omnia habeat, et cui substantia non est quod tribuatur, sermo responsionis porrigatur bonus, ut scriptum est: <i>Sermo bonus super datum optimum</i>. Omnia quæ ei iniunxerit abbas, ipsa habeat sub cura sua; a quibus eum prohibuerit, non præsumat. Fratribus constitutam annonam sine aliquo tyfo vel mora offerat, ut non scandalizentur, memor divini eloquii, quid mereatur <i>qui scandalizaverit unum de pusillis</i>. Si congregatio maior fuerit, solacia ei dentur, a quibus adiutus et ipse æquo animo impleat officium sibi commissum. Horis conpetentibus et dentur quæ danda sunt et petantur quæ petanda sunt, nemo perturbetur neque contristetur in domo Dei.
-
-
-
-<b>Caput 32: De ferramentis vel rebus monasterii</b>
-
-Substantia monasterii in ferramentis vel vestibus seu quibuslibet rebus prævideat abbas fratres de quorum vita et moribus securus sit; et eis singula, ut utile judicaverit, consignet custodienda atque recolligenda. Ex quibus abbas brevem teneat, ut dum sibi in ipsa adsignata fratres vicissim succedunt, sciat quid dat aut quid recipit. Si quis autem sordide aut neglegenter res monasterii tractaverit, corripiatur; si non emendaverit, disciplinæ regulari subiaceat.
-
-
-
-<b>Caput 33: Si quid debeant monachi proprium habere</b>
-
-Præcipue hoc vitium radicitus amputandum est de monasterio ne quis præsumat aliquid dare aut accipere sine jussione abbatis, neque aliquid habere proprium, nullam omnimo rem, neque codicem, neque tabulas, neque grafium, sed nihil omnimo, quippe quibus nec corpora sua nec voluntates licet habere in propria voluntate; omnia vero necessaria a patre sperare monasterii, nec quicquam liceat habere quod abbas non dederit aut permiserit. <i>Omniaque omnibus sint communia</i>, ut scriptum est, <i>ne quisquam suum aliquid dicat</i> vel præsumat. Quod si quisquam huic nequissimo vitio deprehensus fuerit delectari, admoneatur semel et iterum; si non emendaverit, correptioni subiaceat.
-
-
-
-<b>Caput 34: Si omnes æqualiter debeant necessaria accipere</b>
-
-Sicut scriptum est: <i>Dividebatur singulis prout cuique opus erat</i>. Ubi non dicimus ut personarum - quod absit - acceptio sit, sed infirmitatum consideratio; ubi qui minus indiget, agat Deo gratias et non contristetur, qui vero plus indiget, humilietur pro infirmitate, non extollatur pro misericordia; et ita omnia membra erunt in pace. Ante omnia, ne murmurationis malum pro qualicumque causa in aliquo qualicumque verbo vel significatione appareat. Quod si deprehensus fuerit, districtiori disciplinæ subdatur.
-
-
-
-<b>Caput 35: De septimanariis coquinæ</b>
-
-Fratres sibi invicem serviant, ut nullus excusetur a coquinæ officio, nisi aut ægritudo aut in causa gravis utilitatis quis occupatus fuerit, quia exinde maior mercis et charitas adquiritur. Inbecillibus autem procurentur solacia, ut non cum tristitia hoc faciant; sed habeant omnes solacia, secundum modum congregationis aut positionem loci. Si maior congregatio fuerit, cellararius excusetur a coquina, vel si qui, ut diximus, maioribus utilitatibus occupantur. Ceteri sibi sub charitate invicem serviant. Egressurus de septimana, sabbato munditias faciat. Lintea cum quibus sibi fratres manus aut pedes tergunt, lavent. Pedes vero tam ipse qui egreditur quam ille qui intraturus est omnibus lavent. Vasa ministerii sui munda et sana cellarario  reconsignet; qui cellararius item intranti consignet, ut sciat quod dat aut quod recipit.
-
-Septimanarii autem ante unam horam refectionis accipiant super statutam annonam singulas biberes et panem, ut hora refectionis sine murmuratione et gravi labore serviant fratribus suis. In diebus tamen sollemnibus usque ad missas sustineant. Intrantes et exeuntes hebdomadarii in oratorio mox Matutinis finitis Dominica omnium genibus provolvantur postulantes pro se orari. Egrediens autem de septimana dicat hunc versum: <i>Benedictus es, Domine Deus, qui adjuvisti me et consolatus es me</i>. Quo dicto tertio accepta benedictione egrediens, subsequatur ingrediens et dicat: <i>Deus, in adiutorium meum intende, Domine, ad adjuvandum me festina</i>, et hoc idem tertio repetatur ab omnibus et accepta benedictione ingrediatur.
-
-
-
-<b>Caput 36: De infirmis fratribus</b>
-
-Infirmorum cura ante omnia et super omnia adhibenda est, ut sicut revera Christo ita eis serviatur, quia ipse dixit: <i>Infirmus fui, et visitastis me</i>, et: <i>Quod fecistis uni de his minimis, mihi fecistis</i>. Sed et ipsi infirmi considerent in honorem Dei sibi serviri, et non superfluitate sua contristent fratres suos servientes sibi; qui tamen patienter portandi sunt, quia de talibus copiosior mercis adquiritur. Ergo cura maxima sit abbati, ne aliquam neglegentiam patiantur. Quibus fratribus infirmis sit cella super se deputata et servitor timens Deum et diligens ac sollicitus. Balnearum usus infirmis quotiens expedit offeratur, sanis autem et maxime iuvenibus tardius concedatur. Sed et carnium esus infirmis omnimo debilibus pro reparatione concedatur; at ubi meliorati fuerint, a carnibus more solito omnes abstineant. Curam autem maximam habeat abbas ne a cellarariis aut a servitoribus neglegantur infirmi; et ipsum respicit quidquid a discipulis delinquitur.
-
-
-
-<b>Caput 37: De senibus vel infantibus</b>
-
-Licet ipsa natura humana trahatur ad misericordiam in his ætatibus, senum videlicet et infantum, tamen et regulæ auctoritas eis prospiciat. Consideretur semper in eis inbecillitas et ullatenus eis districtio regulæ teneatur in alimentis; sed sit in eis pia consideratio et præveniant horas canonicas.
-
-
-
-<b>Caput 38: De hebdomadario lectore</b>
-
-Mensis fratrum lectio deesse non debet, nec fortuito casu qui arripuerit codicem legere ibi, sed lecturus tota hebdomada dominica ingrediatur. Qui ingrediens post missas et communionem petat ab omnibus pro se orari, ut avertat ab ipso Deus spiritum elationis. Et dicatur hic versus in oratorio tertio ab omnibus, ipso tamen incipiente: <i>Domine, labia mea aperies, et os meum adnuntiabit laudem tuam</i>. Et sic accepta benedictione ingrediatur ad legendum. Et summum fiat silentium, ut nullus musitatio vel vox nisi solius legentis ibi audiatur. Quæ vero necessaria sunt comedentibus et bibentibus sic sibi vicissim ministrent fratres, ut nullus indigeat petere aliquid. Si quid tamen opus fuerit, sonitu cuiuscumque signi potius petatur quam voce. Nec præsumat ibi aliquis de ipsa lectione aut aliunde quicquam requirere, ne detur occasio; nisi forte prior pro ædificatione voluerit aliquid breviter dicere. Frater autem lector hebdomadarius accipiat mixtum, priusquam incipiat legere, propter communionem sanctam, et ne forte grave si ei jejunium sustinere. Postea autem cum coquinæ hebdomadariis et servitoribus reficiat. Fratres autem non per ordinem legant aut cantent, sed qui ædificant audientes.
-
-
-
-<b>Caput 39: De mensura cibus</b>
-
-Sufficere credimus ad refectionem cotidianam tam sextæ quam nonæ, omnibus mensis, cocta duo pulmentaria propter diversorum infirmitatibus, ut forte qui ex illo non potuerit edere, ex alio reficiatur. Ergo duo pulmentaria cocta fratribus omnibus sufficiant et, si fuerit unde poma aut nascentia leguminum, addatur et tertium. Panis libra una propensa sufficiat in die, sive una sit refectio sivi prandii et cenæ. Quod si cenaturi sunt, de eadem libra tertia pars a cellarario servetur reddenda cenandis. Quod si labor forte factus fuerit maior, in arbitrio et potestate abbatis erit, si expediat, aliquid augere, remota præ omnibus crapula, et ut numquam subripiat monacho indigeries; quia nihil sic contrarium est omni christiano quomodo crapula, sicut ait Dominus noster: <i>Videte ne graventur corda vestra crapula</i>. Pueris vero minori ætate non eadem servetur quantitas, sed minor quam maioribus, servata in omnibus parcitate. Carnium vero quadrupedum omnimodo ab omnibus abstineatur comestio, præter omnimo debiles ægrotos.
-
-
-
-<b>Caput 40: De mensura potus</b>
-
-<i>Unusquisque proprium habet donum ex Deo, alius sic, alius vero sic</i>; et ideo cum aliqua scrupulositate a nobis mensura victus aliorum constituitur. Tamen infirmorum contuentes inbecillitatem, credimus eminam vini per singulos sufficere per diem. Quibus autem donat Deus tolerantiam abstinentiæ, propriam se habituros mercedem sciant. Quod si aut loci necessitas vel labor aut ardor æstatis amplius poposcerit, in arbitrio prioris consistat, considerans in omnibus ne subrepat satietas aut ebrietas. Licet legamus: <i>Vinum omnimo monachorum non esse</i>, sed quia nostris temporibus id monachis persuaderi non potest, saltim vel hoc consentiamus ut non usque ad satietatem bibamus, sed parcius, quia: <i>Vinum apostatare facit etiam sapientes</i>. Ubi autem necessitas loci exposcit, ut nec suprascripta mensura inveniri possit, sed multo minus aut ex toto nihil, benedicant Deum qui ibi habitant et non murmurent, hoc ante omnia admonentes, ut absque murmurationibus sint.
-
-
-
-<b>Caput 41: Quibus horis oportet reficere fratres</b>
-
-A sancto Pascha usque Pentecosten ad sextam reficiant fratres et sera cenent. A Pentecosten autem tota æstate, si labores agrorum non habent monachi aut nimietas æstatis non perturbat, quarta et sexta feria jejunent usque ad nonam; reliquis diebus ad sextam prandeant. Quam prandii sextam, si operis in agris habuerint aut æstatis fervor nimius fuerit, continuanda erit et in abbatis sit providentia. Et sic omnia temperet atque disponat, qualiter et animæ salventur et quod faciunt fratres absque iusta murmuratione faciant. Ab idus autem septembres usque caput quadragesimæ ad nonam semper reficiant. In quadragesima vero usque in Pascha ad vesperam reficiant. Ipsa tamen Vespera sic agatur, ut lucernæ lumen non indigeant reficientes, sed luce adhuc diei omnia consummentur. Sed et omni tempore, sive cena sive refectionis hora sic temperetur, ut luce fiant omnia.
-
-
-
-<b>Caput 42: Ut post conpletorium nemo loquatur</b>
-
-Omni tempore silentium debent studere monachi, maxime tamen nocturnis horis. Et ideo omni tempore, sive jejunii sive prandii: si tempus fuerit prandii, mox surrexerint a cena, sedeant omnes in unum, et legat unus Collationes vel Vitas Patrum aut certe aliud quod ædificet audientes, non autem Eptaticum aut Regum, quia infirmis intellectibus non erit utile illa hora hanc Scripturam audire, aliis vero horis legantur. Si autem jejunii dies fuerit, dicta Vespera, parvo intervallo mox accedant ad lectionem Collationum, ut diximus. Et lectis quattuor aut quinque foliis vel quantum hora permittit, omnibus in unum occurentibus per hanc moram lectionis, si qui forte in adsignato sibi commisso fuit occupatus, omnes ergo in unum positi conpleant, et exeuntes a Conpletoriis nulla sit licentia denuo cuiquam loqui aliquid. Quod si inventus fuerit quisquam prævaricare hanc taciturnitatis regulam, gravi vindictæ subiaceat, excepto si necessitas hospitum supervenerit aut forte abbas alicui aliquid jusserit. Quod tamen et ipsud cum summa gravitate et moderatione honestissima fiat.
-
-
-
-<b>Caput 43: De his qui ad opus Dei vel ad mensam tarde occurrunt</b>
-
-Ad horam divini Officii, mox auditus fuerit signus, relictis omnibus quælibet fuerint in manibus, summa cum festinatione curratur, cum gravitate tamen, ut non scurrilitas inveniat fomitem. Ergo nihil operi Dei præponatur. Quod si quis in nocturnis Vigiliis post Gloriam psalmi nonagesimi quarti, quem propter hoc omnimo subtrahendo et morose volumus dici, occurrerit, non stet in ordine suo in choro, sed ultimus omnium stet aut in loco, quem talibus neglegentibus seorsum constituerit abbas, ut videantur ab ipso vel ab omnibus, usque dum conpleto opere Dei publica satisfactione pæniteat. Ideo autem eos in ultimo aut seorsum judicavimus debere stare ut, visi ab omnibus, vel pro ipsa verecundia sua emendent; nam si foris oratorium remaneant, erit forte talis qui se aut recollocet et dormit, aut certe sedit sibi foris vel fabulis vacat, et datur occasio maligno; sed ingrediantur intus, ut nec totum perdant et de reliquo emendent. Diurnis autem Horis, qui ad opus Dei post versum et Gloriam primi psalmi qui post versum dicitur non occurrerit, lege qua supra diximus, in ultimo stent, nec præsumant sociari choro psallentium usque ad satisfactionem, nisi forte abbas licentiam dederit remissione sua, ita tamen ut satisfaciat reus ex hoc.
-
-Ad mensam autem qui ante versu non occurrerit, ut simul omnes dicant versu et orent et sub uno omnes accedant ad mensam, qui per neglegentiam suam aut vitio non occurrerit, usque secunda vice pro hoc corripiatur; si denuo non emendaverit, non permittatur ad mensæ communis participationem, sed sequestratus a consortio omnium reficiat solus, sublata ei portione sua vinum, usque ad satisfactionem et emendationem. Similiter autem patiatur, qui et ad illum versum non fuerit præsens, qui post cibum dicitur. Et ne suis præsumat ante statutam horam vel postea quicquam cibi aut potus præsumere; sed et cui offertur aliquid a priore et accipere rennuit, hora qua desideravit hoc quod prius recusavit aut aliud, omnimo nihil percipiat usque emendationem congruam.
-
-
-
-<b>Caput 44: De his qui excommunicantur quomodo satisfaciant</b>
-
-Qui pro gravibus culpis ab oratorio et a mensa excommunicantur, hora qua Opus Dei in oratorio percelebratur, ante fores oratorii prostratus iaceat nihil dicens, nisi tantum posito in terra capite, status pronus omnium de oratorio exeuntium pedibus. Et hoc tamdiu faciat, usque dum abbas judicaverit satisfactum esse. Qui dum jussus ab abbate venerit, volvat se ipsius abbatis, deinde omnium vestigiis ut orent pro ipso. Et tunc, se jusserit abbas, recipiatur in choro vel in ordine quo abbas decreverit, ita sane, ut psalmum aut lectionem vel aliud quid non præsumat in oratorio inponere, nisi iterum abbas iubeat. Et omnibus Horis, dum perconpletur opus Dei, proiciat se in terra in loco qua stat. Et sic satisfaciat, usque dum ei iubeat iterum abbas, ut quiescat jam ab hac satisfactione. Qui vero pro levibus culpis excommunicantur tantum a mensa, in oratorio satisfaciant usque ad jussionem abbatis. Hoc perficiant usque dum benedicat et dicat: «Sufficit».
-
-
-
-<b>Caput 45: De his qui falluntur in oratorio</b>
-
-Si quis dum pronuntiat psalmum, responsorium, antefanam vel lectionem fallitus fuerit, nisi satisfactione ibi coram omnibus humiliatus fuerit, maiori vindictæ subiaceat, quippe qui noluit humilitate corrigere quod neglegentia deliquit. Infantes autem pro tali culpa vapulent.
-
-
-
-<b>Caput 46: De his qui in aliis quibuslibet rebus delinquunt</b>
-
-Si quis dum in labore quovis, in coquina, in cellario, in ministerio, in pistrino, in horto, in arte aliqua dum laborat, vel in quocumque loco, aliquid deliquerit, aut fregerit quippiam aut perdiderit, vel aliud quid excesserit ubiubi, et non veniens continuo ante abbatem vel congregationem ipse ultro satisfecerit et prodiderit delictum suum, dum per alium cognitum fuerit, maiori subiaceat emendationi. Si animæ vero peccati causa fuerit latens, tantum abbati aut spiritualibus senioribus patefaciat, qui sciat curare et sua et aliena vulnera, non detegere et publicare.
-
-
-
-<b>Caput 47: De significanda hora operis Dei</b>
-
-Nuntianda hora operis Dei dies noctisque sit cura abbatis; aut ipse nuntiare aut tali sollicito fratri injungat hanc curam, ut omnia horis conpetentibus conpleantur. Psalmos autem vel antefanas post abbatem ordine suo quibus jussum fuerit inponant. Cantare autem et legere non præsumat, nisi qui potest ipsud officium implere ut ædificentur audientes; quod cum humilitate et gravitate et tremore fiat, et cui jusserit abbas.
-
-
-
-<b>Caput 48: De opera manuum cotidiana</b>
-
-Otiositas inimica est animæ, et ideo certis temporibus occupari debent fratres in labore manuum, certis iterum horis in lectione divina. Ideoque hac dispositione credimus utraque tempore ordinari: id est: ut a Pascha usque kalendas octobres a mane exeuntes a prima usque hora pene quarta laborent quod necessarium fuerit. Ab hora autem quarta usque hora qua Sextam agent, lectioni vacent. Post Sextam autem surgentes a mensa pausent in lecta sua cum omni silentio, aut forte qui voluerit legere sibi sic legat, ut alium non inquietet. Et agatur Nonam temperius mediante octava hora, et iterum quod faciendum est operentur usque ad Vesperam. Si autem necessitas locis aut paupertas exegerit, ut ad fruges recollegendas per se occupentur, non contristentur. Quia tunc vere monachi sunt, si labore manuum suarum vivunt, sicut et Patres nostri et Apostoli. Omnia tamen mensurate fiant propter pusillanimes.
-
-A kalendas autem octobres usque caput quadragesimæ usque in hora secunda plena lectioni vacent; hora secunda agatur Tertia; et usque nona omnes in opus suum laborent quod eis injungitur. Facto autem primo signo nonæ horæ, dejungant ab opera sua singuli et sint parati, dum secundum signum pulsaverit. Post refectionem autem vacent lectionibus suis aut psalmis. In quadragesimæ vero diebus, a mane usque tertia plena vacent lectionibus suis, et usque decima hora plena operentur quod eis injungitur. In quibus diebus quadragesimæ dandi sunt. Ante omnia sane seputentur unus aut duo seniores qui circumeant monasterium horis quibus vacant fratres lectioni, et videant ne forte inveniatur frater acediosus qui vacat otio aut fabulis et non est intentus lectioni, et non solum sibi inutilis est, sed etiam alios distollit. Hic tallis si - quod absit - repertus fuerit, corripiatur semel et secundo; si non emendaverit, correptioni regulari subiaceat taliter ut ceteri timeant. Neque frater ad fratrem ingatur horis inconpetentibus.
-
-Dominico item die lectioni vacent omnes, excepto his qui variis officiis deputati sunt. Si quis vero ita neglegens et desidiosus fuerit, ut non velit aut non possit meditare aut legere, injungatur ei opus quod faciat, ut non vacet. Fratribus infirmis aut delicatis talis opera aut ars injungatur, ut nec otiosi sint nec violentia laboris opprimantur aut effungentur. Quorum inbecillitas ab abbate consideranda est.
-
-
-
-<b>Caput 49: De quadragesimæ observatione</b>
-
-Licet omni tempore vita monachi quadragesimæ debet observationem habere, tamen quia paucorum est ista virtus, ideo suademus istis diebus quadragesimæ omni puritate vitam suam custodire, omnes pariter et neglegentias aliorum temporum his diebus sanctis diluere. Quod tunc digne fit, si ab omnibus vitiis temperamus, orationis cum fletibus, lectioni et conpunctioni cordis atque abstinentiæ operam damus. Ergo his diebus augeamus nobis aliquid solito pensu servitutis nostræ, orationes peculiares, ciborum et potus abstinentiam, et unusquisque super mensuram sibi indictam aliquid propria voluntate cum gaudio Sancti Spiritus offerat Deo, id est: subtrahat corpori suo de cibo, de potu, de loquacitate, de scurrilitate, et cum spiritalis desiderii gaudio sanctum Pascha expectet. Hoc ipsud tamen quod unusquisque offerit, abbati suo suggerat, et cum eius fiat oratione et voluntate; quia quod sine permissione patris spiritalis fit, præsumptioni deputabitur et vanæ gloriæ, non mercedi. Ergo cum voluntate abbatis omnia agenda sunt.
-
-
-
-<b>Caput 50: De fratribus qui longe ab oratorio laborant aut in via sunt</b>
-
-Fratres qui omnimo longe sunt in labore et non possunt occurrere hora conpetenti ad oratorium - et abbas hoc perpendet quia ita est - agant ibidem opus Dei, ubi operantur, cum tremore divino flectentes genua. Similiter qui in itinere directi sunt, non eos prætereant Horæ constitutæ, sed, ut possunt, agant sibi et servitutis pensum non neglegant reddere.
-
-
-
-<b>Caput 51: De fratribus qui non longe satis proficiscuntur</b>
-
-Frater qui pro quovis responso dirigitur et ea die speratur reverti ad monasterium, non præsumat foris manducare, etiam si omnimo rogetur a quovis, nisi forte ei ab abbate suo præcipiatur. Quod si aliter fecerit, excommunicetur.
-
-
-
-<b>Caput 52: De oratorio monasterii</b>
-
-Oratorium hoc sit quod dicitur, nec ibi quicquam aliud geratur aut condatur. Expleto opere Dei, omnes cum summo silentio exeant, et habeatur reverentia Deo, ut frater qui forte sibi peculiariter vult orare, non inpediatur alterius inprobitate. Sed et si aliter vult sibi forte secretius orare, simpliciter intret et oret, non in clamosa voce, sed in lacrimis et intentione cordis. Ergo qui simile opus non facit, non permittatur explicito opere Dei remorari in oratorio, sicut dictum est, ne alius impedimentum patiatur.
-
-
-
-<b>Caput 53: De hospitibus suscipiendis</b>
-
-Omnes supervenientes hospites tamquam Christus suscipiantur, quia ipse dicturus est: <i>Hospis fui et suscepistis me</i>. Et omnibus congruus honor exhibeatur, maxime domesticis fidei et peregrinis. Ut ergo nuntiatus fuerit hospis, occurratur ei a priore vel a fratribus cum omni officio charitatis; et primitus orent pariter, et sic sibi societur in pace. Quod pacis osculum non prius offeratur nisi oratione præmissa, propter inlusiones diabolicas. In ipsa autem salutatione omnis exhibeatur humilitas omnibus venientibus sive discedentibus hospitibus: inclinato capite vel prostrato omni corpore in terra, Christus in eis adoretur qui et suscipitur. Suscepti autem hospites ducantur ad orationem, et postea sedeat cum eis prior aut cui jusserit ipse. Legatur coram hospite Lex divina ut ædificetur, et post hæc omnis ei exhibeatur humanitas. Jejunium a priore frangatur propter hospitem, nisi forte præcipuus sit dies jejunii qui non possit violari; fratres autem consuetudines iejuniorum prosequantur. Aquam in manibus abbas hospitibus det; pedes hospitibus omnibus tam abbas quam cuncta congregatio lavet; quibus lotis, hunc versum dicant: <i>Suscepimus, Deus, misericordiam tuam in medio templi tui</i>. Pauperum et peregrinorum maxime susceptioni cura sollicite exhibeatur, quia in ipsis magis Christus suscipitur; nam divitum terror ipse sibi exigit honorem.
-
-Coquina abbatis et hospitum super se sit, ut, incertis horis supervenientes hospites, qui numquam desunt monasterio, non inquietentur fratres. In qua coquina ad annum ingrediantur duo fratres qui ipsud officium bene impleant. Quibus, ut indigent, solacia administrentur, ut absque murmuratione serviant, et iterum, quando occupationem minorem habent, exeant ubi eis imperatur in opera. Et non solum ipsis, sed et in omnibus officiis monasterii ista consideratio, ut quando indigent solacia adcommodentur eis, et iterum quando vacant obœdiant imperatis. Item et cellam hospitum habeat adsignatam frater cuius animam timor Dei possidet; ubi sint lecti strati sufficienter. Et domus Dei a sapientibus administretur. Hospitibus autem, cui non præcipitur, ullatenus societur neque conloquatur; sed si obviaverit aut viderit, salutatis humiliter, ut diximus, et petita benedictione pertranseat, dicens sibi non licere conloqui cum hospite.
-
-
-
-<b>Caput 54: Si debeat monachus litteras vel aliquid suscipere</b>
-
-Nullatenus liceat monacho neque a parentibus suis neque a quoquam hominum nec sibi invicem litteras, eulogias vel quælibet munuscula accipere aut dare sine præcepto abbatis. Quod si etiam a parentibus suis ei quicquam directum fuerit, non præsumat suscipere illud, nisi prius indicatum fuerit abbati. Quod si jusserit suscipi, in abbatis sit potestate cui illud iubeat dari, et non contristetur frater, cui forte directum fuerat, ut non detur occasio diabulo. Qui autem aliter præsumpserit, disciplinæ regulari subiaceat.
-
-
-
-<b>Caput 55: De vestiario vel calciario fratrum</b>
-
-Vestimenta fratribus secundum locorum qualitatem ubi habitant vel ærum temperiem dentur, quia in frigidis regionibus amplius indigetur, in calidis vero minus. Hæc ergo consideratio penes abbatem est. Nos tamen mediocribus locis sufficere credimus monachis per singulos cucullam et tunicam - cucullam in hieme vellosam, in æstate puram aut vetustam - et scapulare propter opera, indumenta pedum pedules et caligas. De quarum rerum omnium colore aut grossitudine non causentur monachi, sed quales inveniri possunt in provincia qua degunt aut quod vilius conparari possit. Abbas autem de mensura provideat ut non sint curta ipsa vestimenta utentibus ea, sed mensurata. Accipientes nova, vetera semper reddant in præsenti reponenda in vestiario propter pauperes. Sufficit enim monacho duas tunicas et duas cucullas habere propter noctes et propter lavare ipsas res; jam quod supra fuerit superfluum est, amputari debet. Et pedules et quodcumque est vetere reddant, dum accipiunt novum. Femolaria hii qui in via diriguntur de vestiario accipiant, quæ revertentes lota ibi restituant. Et cucullæ et tunicæ sint aliquanto a solito quas habent modice  meliores; quas exeuntes in via accipiant de vestiario et revertentes restituant.
-
-Stramenta autem lectorum sufficiant matta, sagum et lena et capitale. Quæ tamen lecta frequenter ab abbate scrutinanda sunt propter opus peculiare, ne inveniatur. Et si cui inventum fuerit quod ab abbate non accepit, gravissimæ disciplinæ subiaceat. Et ut hoc vitium peculiaris radicitus amputetur, dentur ab abbate omnia quæ sunt necessaria: id est cuculla, tunica, pedules, caligas, bracile, cultellum, grafium, acum, mappula, tabulas, ut omnis auferatur necessitatis excusatio. A quo tamen abbate semper consideretur illa sententia Actuum Apostolorum, quia: <i>Dabatur singulis prout cuique opus erat</i>. Ita ergo et abbas consideret infirmitates indigentium, non malam voluntatem invidentium. In omnibus tamen judiciis Dei retributionem cogitet.
-
-
-
-<b>Caput 56: De mensa abbatis</b>
-
-Mensa abbatis cum hospitibus et peregrinis sit semper. Quotiens tamen minus sunt hospites, quos vult de fratribus vocare in ipsius sit potestate. Seniorem tamen unum aut duo semper cum fratribus dimittendum propter disciplinam.
-
-
-
-<b>Caput 57: De artificibus monasterii</b>
-
-Artifices si sunt in monasterio cum omni humilitate faciant ipsas artes, si permiserit abbas. Quod si aliquis ex eis extollitur pro scientiæ artis suæ, eo quod videatur aliquid conferre monasterio, hic talis erigatur ab ipsa arte et denuo per eam non transeat, nisi forte humiliato ei iterum abbas iubeat. Si quid vero ex operibus artificum venundandum est, videant ipsi per quorum manum transigendam sint, ne aliquam fraudem præsumant. Memorentur semper Ananiæ et Safiræ, ne forte mortem quam illi in corpore pertulerunt, hanc isti vel omnes qui aliquam fraudem de rebus monasterii fecerint, in anima patiantur. In ipsis autem pretiis non subripiat avaritiæ malum, sed semper aliquantulum vilius detur quam ab aliis sæcularibus dari potest, ut in omnibus glorificetur Deus.
-
-
-
-<b>Caput 58: De disciplina suscipiendorum fratrum</b>
-
-Noviter veniens quis ad conversationem, non ei facilis tribuatur ingressus, sed sicut ait Apostolus: <i>Probate spiritus si ex Deo sunt</i>. Ergo si veniens perseveraverit pulsans et inlatas sibi iniurias et difficultatem ingressus post quattuor aut quinque dies visus fuerit patienter portare et persistere petitioni suæ, annuatur ei ingressus et sit in cella hospitum paucis diebus. Postea autem sit in cella noviciorum ubi meditent et manducent et dormiant. Et senior eis talis deputetur qui aptus sit ad lucrandas animas, qui super eos omnimo curiose intendat. Et sollicitudo sit si revera Deum quærit, si sollicitus est ad opus Dei, ad obœdientiam, ad obprobria. Prædicentur ei omnia dura et aspera per quæ itur ad Deum. Si promiserit de stabilitatis suæ perseverentia, post duorum mensuum circulum legatur ei hæc regula per ordinem, et dicatur ei: «Ecce lex sub qua militare vis; si potes observare, ingredere; si vero non potes, liber discede». Si adhuc steterit, tunc ducatur in supradictam cellam noviciorum et iterum probetur in omni patientia. Et post sex mensuum circuitum legatur ei regula, ut sciat ad quod ingreditur. Et si adhuc stat, post quattuor menses iterum relegatur ei eadem regula. Et si habita secum deliberatione promiserit se omnia custodire et cuncta sibi imperata servare, tunc suscipiatur in congregatione, sciens et lege regulæ constitutum quod ei ex illa die non liceat egredi monasterio, nec collum excutere de sub iugo regulæ quem sub tam morosam deliberationem licuit aut excusare aut suscipere.
-
-Suscipiendus autem in oratorio coram omnibus promittat de stabilitate sua et conversatione morum suorum et obœdientia, coram Deo et sanctis eius, ut si aliquando aliter fecerit, ab eo se damnandum sciat quem inridit. De qua promissione sua faciat petitionem ad nomen sanctorum quorum reliquiæ ibi sunt et abbatis præsentis. Quam petitionem manu sua scribat, aut certe, si non scit litteras, alter ab eo rogatus scribat et ille novicius signum faciat et manu sua eam super altare ponat. Quam dum inposuerit, incipiat ipse novicius mox hunc versum: <i>Suscipe me, Domine, secundum eloquium tuum et vivam, et ne confundas me ab expectatione mea</i>. Quem versum omnis congregatio tertio respondeat, adjungentes: Gloria Patri. Tunc ille frater novicius prosternatur singulorum pedibus ut orent pro eo; et jam ex illa die in congregatione reputetur. Res si quas habet, aut eroget prius pauperibus aut facta sollemniter donatione conferat monasterio, nihil sibi reservans ex omnibus, quippe qui ex illo die nec proprii corporis potestatem se habiturum scit. Mox ergo in oratorio exuatur rebus propriis quibus vestitus est, et induatur rebus monasterii. Illa autem vestimenta quibus exutus est reponatur in vestiario conservanda, ut si aliquando suadenti diabulo consenserit ut egrediatur de monasterio - quod absit - tunc exutus rebus monasterii proiciatur. Illam tamen petitionem eius, quam desuper altare abbas tulit, non recipiat, sed in monasterio reservetur.
-
-
-
-<b>Caput 59: De filiis nobilium aut pauperum qui offeruntur</b>
-
-Si quis forte de nobilibus offerit filium suum Deo in monasterio, si ipse puer minor ætate est, parentes eius faciant petitionem quam supra diximus, et cum oblatione ipsam petitionem et manum pueri involvant in palla altaris, et sic eum offerant. De rebus autem suis aut in præsenti petitione promittant sub iureiurando, quia numquam per se, numquam per suffectam personam nec quolibet modo ei aliquando aliquid dant aut tribuunt occasionem habendi; vel certe si hoc facere noluerint et aliquid offere volunt in elemosinam monasterio pro mercede sua, faciant ex rebus quas dare volunt monasterio donationem, reservato sibi, si ita voluerint usum fructum. Atque ita omnia obstruantur ut nulla suspicio remaneat puero per quam deceptus perire possit  - quod absit - quod experimento didicimus. Similiter autem et pauperiores faciant. Qui vero ex toto nihil habent, simpliciter petitionem faciant et cum oblatione offerant filium suum coram testibus.
-
-
-
-<b>Caput 60: De sacerdotibus qui forte voluerint in monasterio habitare</b>
-
-Si quis de ordine sacerdotum in monasterio se suscipi rogaverit, non quidem citius ei adsentiatur. Tamen, si omnimo persteterit in hac supplicatione, sciat se omnem regulæ disciplinam servaturum, nec aliquid ei relaxabitur, ut sicut scriptum  est: <i>Amice, ad quod venisti?</i> Concedatur ei tamen post abbatem stare et benedicere aut missas tenere, si tamen jusserit ei abbas. Sin alias, ullatenus aliqua præsumat, sciens se disciplinæ regulari subditum, et magis humilitatis exempla omnibus det. Et si forte ordinationis aut alicuius rei causa fuerit in monasterio, illum locum adtendat quando ingressus est in monasterio, non illum qui ei pro reverentia sacerdotii concessus est. Clericorum autem si quis eodem desiderio monasterio sociari voluerit, loco mediocri conlocentur; et ipsi tamen si promittunt de observatione regulæ vel propria stabilitate.
-
-
-
-<b>Caput 61: De monachis peregrinis qualiter suscipiantur</b>
-
-Si quis monachus peregrinus de longiquis provinciis supervenerit, si pro hospite voluerit habitare in monasterio et contentus fuerit consuetudinem loci quam invenerit, et non forte superfluitate sua perturbat monasterium, sed simpliciter contentus est quod invenerit, suscipiatur quanto tempore cupit. Si qua sane rationabiliter et cum humilitate charitatis reprehendit aut ostendit, tractet abbas prudenter ne forte pro hoc ipsud eum Dominus direxerit. Si vero postea voluerit stabilitatem suam firmare, non rennuatur talis voluntas, et maxime quia tempore hospitalitatis potuit eius vita dinosci.
-
-Quod si superfluus aut vitiosus inventus fuerit tempore hospitalitatis, non solum non debet sociari corpori monasterii, verum etiam dicatur ei honeste ut discedat, ne eius miseria etiam alii vitientur. Quod si non fuerit talis qui mereatur proici, non solum si petierit, suscipiatur congregationi sociandus, verum etiam suadeatur ut stet, ut eius exemplo alii erudiantur, et quia in omni loco uni Domino servitur, uni Regi militatur. Quem si etiam talem esse perspexerit abbas, liceat eum in superiori aliquantum constituere loco. Non solum autem monachum, sed etiam de suprascriptis gradibus sacerdotum vel clericorum stabilire potest abbas in maiori quam ingrediuntur loco, si eorum talem perspexerit esse vitam. Caveat autem abbas, ne aliquando de alio noto monasterio monachum ad habitandum suscipiat sine consensu abbatis eius aut litteras commendaticias, quia scriptum est: <i>Quod tibi non vis fieri, alio ne feceris</i>.
-
-
-
-<b>Caput 62: De sacerdotibus monasterii</b>
-
-Si quis abbas sibi presbyterum vel diaconem ordinari petierit, de suis elegat qui dignus sit sacerdotio fungi. Ordinatus autem caveat elationem aut superbiam, nec quicquam præsumat nisi quod ei ab abbate præcipitur, sciens se multo magis disciplinæ regulari subdendum. Nec occasione sacerdotii obliviscatur regulæ obœdientiam et disciplinam sed magis ac magis in Deum proficiat. Locum vero illum semper adtendat quod ingressus est in monasterio, præter officium altaris, et si forte electio congregationis et voluntas abbatis pro vitæ merito eum promovere voluerint. Qui tamen regulam decanis vel præpositis constitutam sibi servare sciat. Quod si aliter præsumpserit, non sacerdos sed rebellio judicetur. Et sæpe admonitus si non correxerit, etiam episcopus adhibeatur in testimonio. Quod si nec sic emendaverit, clarescentibus culpis, proiciatur de monasterio, si tamen talis fuerit eius contumacia ut subdi aut obœdire regulæ nolit.
-
-
-
-<b>Caput 63: De ordine congregationis</b>
-
-Ordines suos in monasterio ita conservent ut conversationis tempus, ut vitæ meritum discernit atque abbas constituerit. Qui abbas non conturbet gregem sibi commissum nec, quasi libera utens potestate, iniuste disponat aliquid, sed cogitet semper quia de omnibus judiciis et operibus suis redditurus est Deo rationem. Ergo secundum ordines suos quos constituerit vel quos habuerint ipsi fratres, sic accedant ad pacem, ad communionem, ad psalmum inponendum, in choro standum. Et in omnibus omnimo locis ætas non discernat ordines nec præjudicet, quia Samuhel et Danihel pueri presbyteros judicaverunt. Ergo, excepto hos quos, ut diximus, altiori consilio abbas prætulerit vel degradaverit certis ex causis, reliqui omnes ut convertuntur ita sint ut verbi gratia qui secunda hora diei venerit in monasterio juniorem se noverit illius esse qui prima hora venit diei, cuiuslibet ætatis aut dignitatis sit. Pueris per omnia ab omnibus disciplina conservata.
-
-Juniores igitur priores suos honorent, priores minores suos diligant. In ipsa appellatione nominum nulli liceat alium puro appellare nomine, sed proiores juniores suos fratrum nomine, juniores autem priores suos nonnos vocent, quod intelligitur paterna reverentia. Abbas autem, quia vices Christi creditur agere, dominus et abbas vocetur, non sua adsumptione sed honore et amore Christi; ipse autem cogitet et sic se exhibeat ut dignus sit tali honore. Ubicumque autem sibi obviant fratres, junior priorem benedictionem petat. Transeunte maiore minor surgat et det ei locum sedendi, nec præsumat junior consedere nisi ei præcipiat senior suus, ut fiat quod scriptum est: <i>Honore invicem prævenientes</i>. Pueri parvi vel adulescentes in oratorio vel ad mensas cum disciplina ordines suos consequantur. Foris autem vel ubiubi, et custodiam habeant et disciplinam, usque dum ad intellegibilem ætatem perveniant.
-
-
-
-<b>Caput 64: De ordinando abbate</b>
-
-In abbatis ordinatione illa semper consideretur ratio, ut hic constituatur quem sibi omnis concors congregatio secundum timorem Dei, sive etiam pars quamvis parva congregationis saniore consilio elegerit. Vitæ autem merito et sapientiæ doctrina elegatur qui ordinandus est, etiam si ultimus fuerit in ordine congregationis. Quod si etiam omnis congregatio vitiis suis - quod quidem absit - consentientem personam pari consilio elegerit, et vitia ipsa aliquatenus in notitia episcopi ad cuius diocesim pertinet locus ipse vel ab abbates aut christianos vicinos claruerint, prohibeant pravorum prævalere consensum, sed domui Dei dignum constituant dispensatorem, scientes pro hoc se recepturos mercedem bonam, si illud caste et zelo Dei faciant, sicut e diverso peccatum si neglegant.
-
-Ordinatus autem abbas cogitet semper, quale onus suscepit et cui redditurus est rationem vilicationis suæ, sciatque sibi oportere prodesse magis quam præesse. Oportet ergo eum esse doctum Lege divina, ut sciat et si unde proferat nova et vetera, castum, sobrium, misericordem, et semper superexaltet misericordiam judicio, ut idem ipse consequatur. Oderit vitia, diligat fratres. In ipsa autem correptione prudenter agat et ne quid nimis, ne dum nimis eradere cupit æruginem frangatur vas. Suamque fragilitatem semper suspectus sit, memineritque calamum quassatum non conterendum. In quibus non dicimus ut permittat nutriri vitia, sed prudenter et cum charitate ea amputet, ut viderit cuique expedire sicut jam diximus, et studeat plus amari quam timeri. Non sit turbulentus et anxius, non sit nimius et obstinatus, non sit zelotipus et nimis suspiciosus, quia numquam requiescit. In ipsis imperiis suis providus et consideratus, et sive secundum Deum sive secundum sæculum sit opera quam injungit, discernat et temperet, cogitans discretionem sancti Iacob dicentis: <i>Si gerges meos plus in ambulando fecero laborare, morientur cuncti una die</i>. Hæc ergo aliaque testimonia discretionis matris virtutum sumens, sic omnia temperet ut sit et fortes quod cupiant et infirmi non refugiant. Et præcipue ut præsentem regulam in omnibus conservet, ut dum bene ministraverit audiat a Domino quod servus bonus qui erogavit triticum conservis in tempore suo: <i>Amen dico vobis, ait, super omnia bona sua constituit eum</i>.
-
-
-
-<b>Caput 65: De præposito monasterii</b>
-
-Sæpius quidem contigit, ut per ordinationem præpositi sandala gravia in monasteriis oriantur, dum sint aliqui maligno spiritu superbiæ inflati et æstimantes se secundos esse abbates, adsumentes sibi tyrannidem, scandala nutriunt et dissensiones in congregationes faciunt, et maxime in illis locis ubi ab eodem sacerdote vel ab eis abbatibus qui abbatem ordinant ab ipsis etiam et præpositus ordinatur. Quod quam sit absurdum facile advertitur, quia ab ipso initio ordinationis materia ei datur superbiendi, dum ei suggeritur a cogitationibus suis exutum eum esse a potestate abbatis sui, quia ab ipsis es tu ordinatus a quibus et abbas. Hinc suscitantur invidiæ, rixæ, detractiones, æmulationes, dissensiones, exordinationes, ut dum contraria sibi abbas præpositusque sentiunt, et ipsorum necesse est sub hanc dissensionem animas periclitari, et hii qui sub ipsi sunt, dum adulantur partibus, eunt in perditionem. Cuius periculi malum illos respicit in capite qui talius inordinationis se fecerunt auctores.
-
-Ideo nos vidimus expedire propter pacis charitatisque custodiam in abbatis pendere arbitrio ordinationem monasterii sui. Et si potest fieri per decanos ordinetur, ut ante disposuimus, omnis utilitas monasterii, prout abbas disposuerit, ut dum pluribus committitur, unus non superbiat. Quod si aut locus expetit aut congregatio petierit rationabiliter cum humilitate et abbas judicaverit expedire, quemcumque elegerit abbas cum consilio fratrum timentium Deum ordinet ipse sibi præpositum. Qui tamen præpositus illa agat cum reverentia quæ ab abbate suo et iniuncta fuerint, nihil contra abbatis voluntatem aut ordinationem faciens, quia quantum prælatus est ceteris, ita eum oportet sollicitius observare præcepta regulæ. Qui præpositus si repertus fuerit vitiosus aut elatione deceptus superbire, aut contemptor sanctæ regulæ fuerit conprobatus, admoneatur verbis usque quater. Si non emendaverit, adhibeatur ei correptio disciplinæ regularis. Quod si neque sic correxerit, tunc deiciatur de ordine præposituræ et alius qui dignus est in loco eius subrogetur. Quod si et postea in congregatione quietus et obœdiens non fuerit, etiam de monasterio pellatur. Cogitet tamen abbas se de omnibus judiciis suis Deo reddere rationem, ne forte invidiæ aut zeli flamma urat animam.
-
-
-
-<b>Caput 66: De hostiariis monasterii</b>
-
-Ad portam monasterii ponatur senes sapiens, qui sciat accipere responsum et reddere, et cuius maturitas eum non sinat vacari. Qui portarius cellam debebit habere iuxta portam, ut venientes semper præsentem inveniant a quo responsum accipiant. Et mox ut aliquis pulsaverit aut pauper clamaverit, «Deo gratias» respondeat aut «Benedic», et cum omni mansuetudine timoris Dei reddat responsum festinanter cum fervore charitatis. Qui portarius si indiget solacio juniorem fratrem accipiat. Monasterium autem, si possit fieri, ita debet constitui ut omnia necessaria, id est aqua, molendinum, hortum vel artes diversas intra monasterium exerceantur, ut non sit necessitas monachis vagandi foris, quia omnimo non expedit animabus eorum.Hanc autem regulam sæpius volumus in congregatione legi, ne quis fratrum se de ignorantia excuset.
-
-
-
-<b>Caput 67: De fratribus in viam directis</b>
-
-Dirigendi fratres in via omnium fratrum vel abbatis se orationi conmendent, et semper ad orationem ultimam operis Dei commemoratio omnium absentum fiat. Revertentes autem de via fratres ipso die quo redeunt per omnes canonicas horas, dum expletur opus Dei, prostrati solo oratorii ab omnibus petant orationem propter excessos, ne qui forte subripuerint in via visus aut auditus malæ rei aut otiosi sermonis. Nec præsumat quisquam referre alio quæcumque foris monasterium viderit aut audierit, quia plurima destructio est. Quod si quis præsumpserit, vindictæ regulari subiaceat. Similiter et qui præsumpserit claustra monasterii egredi vel quocumque ire vel quippiam quamvis parvum sine jussione abbatis facere.
-
-
-
-<b>Caput 68: Si fratri inpossibilia injungantur</b>
-
-Si cui fratri aliqua forte gravia aut inpossibilia injunguntur suscipiat quidem iubentis imperium cum omni mansuetudine et obœdientia. Quod si omnimo virium suarum mensuram viderit pondus oneris excedere, inpossibilitatis suæ causas ei qui sibi præest patienter et oportune suggerat, non superbiendo aut resistendo vel contradicendo. Quod si post suggestionem suam in sua sententia prioris imperium perduraverit, sciat junior ita sibi expedire, et ex charitate, confidens de adiutorio Dei, obœdiat.
-
-
-
-<b>Caput 69: Ut in monasterio non præsumat alter alterum defendere</b>
-
-Præcavendum est ne quavis occasione præsumat alter alium defendere monachum in monasterio aut quasi tueri, etiam si qualivis consanguinitatis propinquitate jungantur. Nec quolibet modo id a monachis præsumatur, quia exinde gravissima occasio scandalorum oriri potest. Quod si quis hæc transgressus fuerit, acrius cœrceatur.
-
-
-
-<b>Caput 70: Ut non præsumat passim aliquis cædere</b>
-
-Vitetur in monasterio omnis præsumptionis occasio; atque constituimus ut nulli liceat quemquam fratrum suorum excommunicare aut cædere, nisi cui potestas ab abbate date fuerit. Peccantes autem coram omnibus arguantur ut ceteri metum habeant. Infantum vero usque quindecim annorum ætates disciplinæ diligentia ab omnibus et custodia sit; sed et hoc cum omni mensura et ratione. Nam in fortiori ætate qui præsumit aliquatenus sine præcepto abbatis vel in ipsis infantibus sine discretione exarserit, disciplinæ regulari subiaceat, quia scriptum est: <i>Quod tibi non vis fieri, alio ne feceris</i>.
-
-
-
-<b>Caput 71: Ut obœdientes sibi sint invicem</b>
-
-Obœdientiæ bonum non solum abbati exhibendum est ab omnibus, sed etiam sibi invicem ita obœdiant fratres, scientes per hanc obœdientiæ viam se ituros ad Deum. Præmisso ergo abbatis aut præpositorum qui ab eo constituuntur imperio, cui non permittimus privata imperia præponi, de cetero omnes juniores prioribus suis omni charitate et sollicitudine obœdiant. Quod si quis contentiosus repperitur, corripiatur. Si quis autem frater pro quavis minima causa ab abbate vel a quocumque priore corripitur quolibet modo, vel si leviter senserit animos prioris cuiuscumque contra se iratos vel commotos quamvis modice, mox sine mora tamdiu prostratus in terra ante pedes eius iaceat satisfaciens, usque dum benedictione sanetur illa commotio. Quod si contempserit facere, aut corporali vindictæ subiaceat aut, si contumax fuerit, de monasterio expellatur.
-
-
-
-<b>Caput 72: De zelo bono quod debent monachi habere</b>
-
-Sicut est zelus amaritudinis malus qui separat a Deo et ducit ad infernum, ita est zelus bonus qui separat a vitia et ducit ad Deum et ad vitam æternam. Hunc ergo zelum ferventissimo amore exerceant monachi, id est ut honore se invicem præveniant, infirmitates suas sive corporum sive morum patientissime tolerent, obœdientiam sibi certatim inpendant: nullus quod sibi utile judicat sequatur, sed quod magis alio; charitatem fraternitatis caste inpendant. Amore Deum timeant. Abbatem suum sincera et humili charitate diligant. Christo omnimo nihil præponant, qui nos pariter ad vitam æternam perducat.
-
-
-
-<b>Caput 73: De hoc quod non omnis iustitiæ observatio in hac sit regula constituta</b>
-
-Regulam autem hanc descripsimus, Regulam autem hanc descripsimus, ut hanc observantes in monasteriis aliquatenus vel honestatem morum aut initium conversationis nos demonstremus habere. Ceterum ad perfectionem conversationis qui festinat, sunt doctrinæ sanctorum Patrum, quarum observatio perducat hominem ad celsitudinem perfectionis. Quæ enim pagina aut qui sermo divinæ auctoritatis Veteris ac Novi Testamenti non est rectissima norma vitæ humanæ? Aut quis liber sanctorum catholicorum Patrum hoc non resonat ut recto cursu perveniamus ad Creatorem nostrum? Necnon et Collationes Patrum et Instituta et Vitas eorum, sed et regula sancti Patris nostri Basilii, quid aliud sunt nisi bene viventium et obœdientium monachorum instrumenta virtutum? Nobis autem desidiosis et male viventibus atque neglegentibus rubor confusionis est. Quisquis ergo ad patriam cælestem festinas, hanc minimam inchoationis regulam descriptam adjuvante Christo perfice; et tunc demum ad maiora, quæ supra commemoravimus, doctrinæ virtutumque culmina Deo protegente pervenies. Amen.

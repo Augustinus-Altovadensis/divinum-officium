@@ -1,5 +1,5 @@
 #Incipit
-$Deus in adjutorium
+$Deus in adjutorium Cist
 &Gloria
 
 #Hymnus
@@ -90,7 +90,7 @@ v. Pán ať vede vaše srdce k lásce Boží a k trpělivosti Kristově. Ty vša
 ℟. Bohu díky. 
 
 #Commemoratio defunctorum
-℣. Vzpomínka na všechny zemřelé bratry, familiáře a dobrodince Našeho řádu.
+℣. Vzpomínka na všechny zemřelé bratry, familiáře a dobrodince našeho Řádu.
 _
 &necrologium
 ℣. Ať odpočívají v pokoji.

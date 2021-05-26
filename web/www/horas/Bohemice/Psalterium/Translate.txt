@@ -1,3 +1,4 @@
+[#Incipit]
 #Začátek
 
 [#Invitatorium]
@@ -91,7 +92,7 @@ Pán s vámi
 Pane, slyš modlitbu mou 
 
 [secunda Domine exaudi omittitur]
-druhé Dómine exaudi se vynechává
+druhé <i>Dómine exaudi</i> se vynechává
 
 [Confiteor]
 Vyznávám se
@@ -220,3 +221,15 @@ Sláva buď Tobě, Pane náš.
 
 [#Commemoratio defunctorum]
 #Vzpomínka na zemřelé
+
+[Lectio regulae]
+Čtení z Řehole našeho svatého Otce Benedikta, Kapitola č.  
+
+[Lectio prologus]
+Prolog Řehole našeho svatého Otce Benedikta
+
+[Sequentia]
+Pokračování
+
+[Finis]
+Finis coronat opus

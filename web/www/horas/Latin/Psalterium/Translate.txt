@@ -146,3 +146,15 @@ Glória tibi, Dómine.
 
 [#Commemoratio defunctorum]
 #Commemorátio defunctórum
+
+[Lectio regulae]
+Lectio ex Regula S.P.N.Benedicti, Caput № 
+
+[Lectio prologus]
+Prologus Regulæ S.P.N.Benedicti
+
+[Sequentia]
+Sequentia
+
+[Finis]
+Finis coronat opus

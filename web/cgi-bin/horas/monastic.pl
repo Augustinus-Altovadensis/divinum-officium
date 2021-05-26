@@ -454,27 +454,52 @@ sub regula_emaus : ScriptFunc {
   my $l = leapyear($year);
   my $reading = 0;
   my $tomorrow = $d + 1;
+  my $sequentia = 0;
+  my $titulus;
 
-#  if ($month == 2 && $day >= 24 && !$l) { $d++; }
+  if ($month == 2 && $day >= 24 && !$l) { $d++; }
 #  $fname = sprintf("%02i-%02i", $month, $d);
 
-  $fname = checkfile($lang, 'Regula/RegulaOsbEmaus.txt');
+  $fname = checkfile($lang, 'Regula/Regula_OSB_Emaus.txt');
 
-  if ( $day > 24 && $month == 2 && $l == 1 ) {
-    my $minus = $day - 1;
+  if ( $day == 23 && $month == 2 && $l == 0 ) {
+    my $plus = $day + 1;
     $reading = 0;
     if (@a = do_read($fname)) {
-     foreach $line (@a) {
-       if ($line =~ /^$minus.* @mensis[$month]/i || $reading >= 1 ) {
-           $reading ++;
-           $line =~ s/^\s+//; $line =~ s/\s+$//;
-           if ($reading >= 1 && $line !~ /^$/ ) {
-              $line =~ s/^.*?\#//;
-              $line =~ s/^(\s*)$/_$1/;
-              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
-              if ($line =~ /A jinde/i) {$reading = 0;}
-                $t .= "r. $line\n" unless ($reading == 0 || $reading == 1 );
+      foreach $line (@a) {
+        if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) {
+          $titulus = $line ;
+          #$t .= "Titulus = \"$titulus\" \n_\n" ;
+        }
+
+        if ( $line =~ /. $d\.$month\. ./i || $reading >= 1 ) {
+          $reading ++;
+          next if ( $reading == 1 ); 
+
+          if ( $reading == 2 ) {
+            if ( $titulus =~ /Incipit/i) { 
+              my $title_in = translate("Lectio prologus", $lang) ; 
+              $titulus =~ s/Incipit Prologus/$title_in/i ;}
+            else { my $title_in = translate("Lectio regulae", $lang) ; 
+              $titulus =~ s/Caput/ $title_in / ; }
+            $t .= "$titulus. " ; 
             }
+
+            if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) { $sequentia = 1 ; $t .= "\n_\n" ; next ; }
+
+            if ( $sequentia == 0 ) { 
+              $t .= " <i>" . translate('Sequentia' , $lang) . ".</i> \n_\n" ; 
+              $sequentia = 1; }
+            if ( $reading == 3 && $sequentia == 0 ) { $t .= "\n_\n" ; }
+
+          $line =~ s/^\s+//; $line =~ s/\s+$//;
+            if ( $reading >= 1 && $line !~ /^$/ ) { 
+              #$line =~ s/^.*?\#//;
+              #$line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/cæl/cœl/g;
+              if ($line =~ /^\#\[ 25/i && $reading > 1 ) {$reading = 0;}
+                $t .= "-- $line\n" unless ( $reading == 0 || $reading == 1 || $line =~ /^\#\[/i);
+              }
         }
       }
     }
@@ -483,22 +508,45 @@ sub regula_emaus : ScriptFunc {
     $reading = 0;
     if (@a = do_read($fname)) {
       foreach $line (@a) {
-        if ($line =~ /^\#.$d\. $month\./i || $reading >= 1 ) {
+        if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) {
+          $titulus = $line ;
+          #$t .= "Titulus = \"$titulus\" \n_\n" ;
+        }
+
+        if ( $line =~ /. $d\.$month\. ./i || $reading >= 1 ) {
           $reading ++;
+          next if ( $reading == 1 ); 
+
+          if ( $reading == 2 ) {
+            if ( $titulus =~ /Incipit/i) { 
+              my $title_in = translate("Lectio prologus", $lang) ; 
+              $titulus =~ s/Incipit Prologus/$title_in/i ;}
+            else { my $title_in = translate("Lectio regulae", $lang) ; 
+              $titulus =~ s/Caput/ $title_in / ; }
+            $t .= "$titulus. " ; 
+            }
+
+            if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) { $sequentia = 1 ; $t .= "\n_\n" ; next ; }
+
+            if ( $sequentia == 0 ) { 
+              $t .= " <i>" . translate('Sequentia' , $lang) . ".</i> \n_\n" ; 
+              $sequentia = 1; }
+            if ( $reading == 3 && $sequentia == 0 ) { $t .= "\n_\n" ; }
+
           $line =~ s/^\s+//; $line =~ s/\s+$//;
-            if ($reading >= 1 && $line !~ /^$/ ) {
-              $line =~ s/^.*?\#//;
-              $line =~ s/^(\s*)$/_$1/;
-              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
+            if ( $reading >= 1 && $line !~ /^$/ ) { 
+              #$line =~ s/^.*?\#//;
+              #$line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/cæl/cœl/g;
               if ($line =~ /^\#\[/i && $reading > 1 ) {$reading = 0;}
-                $t .= "\t$line\n" unless ($reading == 0 || $reading == 1 );
+                $t .= "-- $line\n" unless ( $reading == 0 || $reading == 1 );
               }
         }
       }
     }
   }
-  $t .= "Regula de Emaus. Date $d. $month. $year. Leap year: $l \n_\n";
-  $t .= '$Tu autem';
+  #$t .= "Regula de Emaus. Date $d. $month. $year. Leap year: $l \n_\n";
+  $t .= "\n_\n" . '$Tu autem';
   return $t;
 }
 
