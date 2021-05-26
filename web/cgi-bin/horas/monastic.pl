@@ -456,7 +456,7 @@ sub regula_emaus : ScriptFunc {
   if ($month == 2 && $day >= 24 && !$l) { $d++; }
   $fname = sprintf("%02i-%02i", $month, $d);
 
-  $fname = checkfile($lang, 'Regula/Regula_OSB_Emaus.txt');
+  $fname = checkfile($lang, 'Regula/RegulaOsbEmaus.txt');
 
   if ( $day > 24 && $month == 2 && $l == 1 ) {
     my $minus = $day - 1;
