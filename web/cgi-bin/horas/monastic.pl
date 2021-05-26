@@ -441,6 +441,64 @@ sub regula : ScriptFunc {
   return $t;
 }
 
+# *** regula_emaus ($lang)
+# returns the text of the Regula for the day
+# This is the version of Czech Benedictines,
+# which is being used also in Altovadum (O.Cist.)
+sub regula_emaus : ScriptFunc {
+
+  my $lang = shift;
+  my @a;
+  my $t = setfont($largefont, translate("Regula", $lang)) . "\n_\n";
+  my $d = $day;
+  my $l = leapyear($year);
+
+  if ($month == 2 && $day >= 24 && !$l) { $d++; }
+  $fname = sprintf("%02i-%02i", $month, $d);
+
+  $fname = checkfile($lang, "Regula/Regula_OSB_Emaus.txt");
+
+  if ( $day > 24 && $month == 2 && $l == 1 ) {
+    my $minus = $day - 1;
+    $reading = 0;
+    if (@a = do_read($fname)) {
+     foreach $line (@a) {
+       if ($line =~ /^$minus.* @mensis[$month]/i || $reading >= 1 ) {
+           $reading ++;
+           $line =~ s/^\s+//; $line =~ s/\s+$//;
+           if ($reading >= 1 && $line !~ /^$/ ) {
+              $line =~ s/^.*?\#//;
+              $line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
+              if ($line =~ /A jinde/i) {$reading = 0;}
+                $t .= "r. $line\n" unless ($reading == 0 || $reading == 1 );
+            }
+        }
+      }
+    }
+  }
+  else {
+    $reading = 0;
+    if (@a = do_read($fname)) {
+      foreach $line (@a) {
+        if ($line =~ /^\#\[.*$d\. $month\./i || $reading >= 1 ) {
+          $reading ++;
+          $line =~ s/^\s+//; $line =~ s/\s+$//;
+            if ($reading >= 1 && $line !~ /^$/ ) {
+              $line =~ s/^.*?\#//;
+              $line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
+              if ($line =~ /^\#\[/i && $reading > 1 ) {$reading = 0;}
+                $t .= "\t$line\n" unless ($reading == 0 || $reading == 1 );
+              }
+        }
+      }
+    }
+  }
+  $t .= '$Tu autem';
+  return $t;
+}
+
 #*** necrologium ($lang)
 #returns the text of the Necrologium for the day
 sub necrologium : ScriptFunc {

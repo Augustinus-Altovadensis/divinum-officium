@@ -81,7 +81,7 @@ _
 ℣. Přikaž, pane, a požehnej.
 Benedictio. Dny a skutky naše ať zřídí ve svém pokoji všemohoucí Hospodin. Amen.
 
-&regula
+&regula_emaus
 
 !Když se ale recituje soukromě, toto bude krátké Čtení, které se čte po celý rok. 
 _
