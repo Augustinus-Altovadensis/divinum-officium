@@ -23,7 +23,7 @@ a noční čas zas nastane,
 my, kdož se světa zříkáme, 
 nechť chválu Bohu zpíváme.
 _
-Bud sláva, čest Otci Bohu
+* Bud sláva, čest Otci Bohu
 též Synu jeho Jednomu 
 i s Duchem Utěšitelem 
 dnes, od věků s celým světem.
@@ -53,7 +53,7 @@ $Fidelium animae
 
 !Zde končí Prima. Pak se v Kapitulní síni čte Martyrologium bez požehnání.
 
-&martyrologium
+&martyrologium_cz
 
 ℣. Drahocenná je v Hospodinových očích
 ℟. Smrt jeho svatých.
@@ -90,7 +90,9 @@ v. Pán ať vede vaše srdce k lásce Boží a k trpělivosti Kristově. Ty vša
 ℟. Bohu díky. 
 
 #Commemoratio defunctorum
-R.br. Vzpomínka na všechny zemřelé bratry, familiáře a dobrodince Našeho řádu.
+℣. Vzpomínka na všechny zemřelé bratry, familiáře a dobrodince Našeho řádu.
+_
+&necrologium
 ℣. Ať odpočívají v pokoji.
 ℟. Amen.
 _
@@ -98,18 +100,10 @@ _
 _
 ℣. Od bran pekelných.
 ℟. Vysvoboď, Pane, jejich duše!
-℣. Ať odpočívají v pokoji.
-℟. Amen.
-_
-℣. Pane, slyš modlitbu mou.
-℟. A volání mé k tobě přijď
-_
-&Dominus_vobiscum2
+&Dominus_vobiscum
 $Oremus
 v. Bože, jenž udílíš odpuštění, a miluješ lidskou spásu, žádáme tvou slitovnost, abys udělil bratrům naší kongregace, našim blízkým a dobrodincům, kteří z tohoto světa odešli, na přímluvu blahoslavené Marie vždy Panny se všemi tvými Svatými, aby k přebývání ve věčné blaženosti došli.
 $Per Dominum
 _
-℣. Odpočinutí věčné dej jim, ó Pane.
-℟. A světlo věčné ať jim svítí.
 ℣. Ať odpočívají v pokoji.
 ℟. Amen.

@@ -90,7 +90,9 @@ v. DÓMINUS autem dírigat corda, et córpora nostra in charitáte Dei, et pati�
 ℟. Deo grátias. 
 
 #Commemoratio defunctorum
-R.br. Commemorátio ómnium fratrum, familiárium et benefactórum defunctórum Ordinis nostri.
+℣. Commemorátio ómnium fratrum, familiárium et benefactórum defunctórum Ordinis nostri.
+_
+&necrologium
 ℣. Requiéscant in pace.
 ℟. Amen.
 _
@@ -98,18 +100,10 @@ _
 _
 ℣. A porta ínferi.
 ℟. Érue, Dómine, ánimas eórum.
-℣. Requiéscant in pace.
-℟. Amen.
-_
-℣. Dómine exáudi oratiónem meam.
-℟. Et clamor meus ad te véniat.
-_
-&Dominus_vobiscum2
+&Dominus_vobiscum
 $Oremus
 v. Deus véniæ largítor et humánæ salútis amátor: quǽsumus cleméntiam tuam: ut nostræ congregatiónis fratres, propínquos et benefactóres, qui ex hoc sǽculo transiérunt, beáta María semper vírgine intercedénte cum ómnibus sanctis tuis ad perpétuæ beatitúdinis consórtium perveníre concédas.
 $Per Dominum
 _
-℣. Réquiem ætérnam dona eis Dómine.
-℟. Et lux perpétua lúceat eis.
 ℣. Requiéscant in pace.
 ℟. Amen.

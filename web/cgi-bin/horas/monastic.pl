@@ -440,3 +440,79 @@ sub regula : ScriptFunc {
   $t .= '$Tu autem';
   return $t;
 }
+
+#*** necrologium ($lang)
+#returns the text of the Necrologium for the day
+sub necrologium : ScriptFunc {
+
+  my $lang = shift;
+  my @a;
+  my $t = setfont($largefont, translate("Necrologium", $lang)) . "\n";
+  my $d = $day;
+  my $l = leapyear($year);
+  my $reading = 0;
+  my $tomorrow = $d + 1;
+  #my $mensis;
+  my @mensis = (
+        'zero-ius',
+        'Januarius',
+        'Februarius',
+        'Martius',
+        'Aprilis',
+        'Majus',
+        'Junius',
+        'Julius',
+        'Augustus',
+        'September',
+        'October',
+        'November',
+        'December'
+      );
+
+   $fname = checkfile($lang, "Necrologium/@mensis[$month].txt");
+
+  # This reads the current part of the Necrologium by "greping" the day part in the text.
+  # The month part is solved before in the filename.
+
+  if (@a = do_read($fname)) {
+    foreach $line (@a) {
+      if ($line =~ /Die $d./i || $reading >= 1 ) {
+        $reading ++;
+        $line =~ s/^\s+//; $line =~ s/\s+$//;
+          if ($reading >= 1 && $line !~ /^$/ ) {
+            $line =~ s/^.*?\#//;
+            $line =~ s/^(\s*)$/_$1/;
+            $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
+            if ($line =~ /Die $tomorrow./i) {$reading = 0;}
+            $t .= "$line\n" unless ($reading == 0 );
+            if ($reading == 1 ) {$t = "<b>$line</b>" . "\n_\n"; }
+          }
+      }
+    }
+  }
+
+  # and if it is not a leap year...
+  if ( $day == 28 && $month == 2 && $l == 0 ) {
+    $reading = 0;
+    $t .= "\n_\n";
+    if (@a = do_read($fname)) {
+     foreach $line (@a) {
+       if ($line =~ /Die 29./i || $reading >= 1 ) {
+           $reading ++;
+           $line =~ s/^\s+//; $line =~ s/\s+$//;
+           if ($reading >= 1 && $line !~ /^$/ ) {
+              $line =~ s/^.*?\#//;
+              $line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
+              if ($reading == 1 ) { $t .= "<b>$line</b>\n" . "\n_\n" unless ($reading == 0 ); }
+              else { $t .= "$line\n" unless ($reading == 0 ); }
+            }
+        }
+      }
+    }
+  }
+
+
+  $t .= '$Quorum animae' . "\n_\n";
+  return $t;
+}

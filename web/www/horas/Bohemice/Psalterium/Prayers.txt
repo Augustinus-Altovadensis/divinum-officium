@@ -69,6 +69,9 @@ v. Prominutí + rozhřešení a odpuštění našich hříchů nechť udělí n�
 ℣. Ty však, Pane, smiluj se nad námi.
 ℟. Bohu díky.
 
+[Quorum animae]
+℣. Duše těchto zbožných velectěných otců a řeholních bratrů nechť jsou svěřeny našim prosbám!
+
 [Benedicamus Domino]
 ℣. Dobrořečme Pánu.
 ℟. Bohu díky.
@@ -178,7 +181,7 @@ r. Hail Mary
 ℣. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen.
 $Deo gratias.
 
-[ConclmartCist]
+[Conclmart Cist]
 ℣. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen, jejichž přímluvu si v modlitbách vyprošujeme.
 $Deo gratias.
 
@@ -211,4 +214,6 @@ v. Pane, smiluj se; Kriste, smiluj se; Pane, smiluj se
 
 [Alleluia Duplex]
 Alleluja, alleluja.
+
+
 

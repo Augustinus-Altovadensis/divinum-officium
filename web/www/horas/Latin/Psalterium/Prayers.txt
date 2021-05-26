@@ -69,6 +69,9 @@ v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbua
 ℣. Tu autem, Dómine, miserére nobis.
 ℟. Deo grátias.
 
+[Quorum animae]
+℣. Quorum ánimæ piis ádmodum reverendórum patrum ac religiosórum fratrum suffrágiis commendántur!
+
 [Benedicamus Domino]
 ℣. Benedicámus Dómino.
 ℟. Deo grátias.
@@ -180,6 +183,10 @@ r. Ave Maria.
 ℣. Et álibi aliórum plurimórum sanctórum Mártyrum et Confessórum, atque sanctárum Vírginum.
 $Deo gratias
 
+[Conclmart Cist]
+℣. Et álibi aliórum plurimórum sanctórum Mártyrum et Confessórum, atque sanctárum Vírginum.
+$Deo gratias
+
 [DefunctV]
 &Dominus_vobiscum
 &Benedicamus_Domino
@@ -210,3 +217,5 @@ v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 
 [Alleluia Duplex]
 Allelúja, allelúja.
+
+
