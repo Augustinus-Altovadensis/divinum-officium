@@ -452,6 +452,8 @@ sub regula_emaus : ScriptFunc {
   my $t = setfont($largefont, translate("Regula", $lang)) . "\n_\n";
   my $d = $day;
   my $l = leapyear($year);
+  my $reading = 0;
+  my $tomorrow = $d + 1;
 
 #  if ($month == 2 && $day >= 24 && !$l) { $d++; }
 #  $fname = sprintf("%02i-%02i", $month, $d);
@@ -481,7 +483,7 @@ sub regula_emaus : ScriptFunc {
     $reading = 0;
     if (@a = do_read($fname)) {
       foreach $line (@a) {
-        if ($line =~ /^#.*$d\. $month\./i || $reading >= 1 ) {
+        if ($line =~ /^#.$d\. $month\./i || $reading >= 1 ) {
           $reading ++;
           $line =~ s/^\s+//; $line =~ s/\s+$//;
             if ($reading >= 1 && $line !~ /^$/ ) {
@@ -495,7 +497,7 @@ sub regula_emaus : ScriptFunc {
       }
     }
   }
-  $t .= "Regula de Emaus. Filename: \"$fname\", date $d. $month. \n";
+  $t .= "Regula de Emaus. Filename: \"$fname\", date $d. $month. $year. Leap year: $l \n_\n";
   $t .= '$Tu autem';
   return $t;
 }
