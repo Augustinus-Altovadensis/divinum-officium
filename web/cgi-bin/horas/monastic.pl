@@ -483,7 +483,7 @@ sub regula_emaus : ScriptFunc {
     $reading = 0;
     if (@a = do_read($fname)) {
       foreach $line (@a) {
-        if ($line =~ /^#.$d\. $month\./i || $reading >= 1 ) {
+        if ($line =~ /^\#.$d\. $month\./i || $reading >= 1 ) {
           $reading ++;
           $line =~ s/^\s+//; $line =~ s/\s+$//;
             if ($reading >= 1 && $line !~ /^$/ ) {
@@ -497,7 +497,7 @@ sub regula_emaus : ScriptFunc {
       }
     }
   }
-  $t .= "Regula de Emaus. Filename: \"$fname\", date $d. $month. $year. Leap year: $l \n_\n";
+  $t .= "Regula de Emaus. Date $d. $month. $year. Leap year: $l \n_\n";
   $t .= '$Tu autem';
   return $t;
 }
