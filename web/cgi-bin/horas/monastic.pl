@@ -476,14 +476,14 @@ sub necrologium : ScriptFunc {
 
   if (@a = do_read($fname)) {
     foreach $line (@a) {
-      if ($line =~ /Die $d./i || $reading >= 1 ) {
+      if ($line =~ /Die $d\./i || $reading >= 1 ) {
         $reading ++;
         $line =~ s/^\s+//; $line =~ s/\s+$//;
           if ($reading >= 1 && $line !~ /^$/ ) {
             $line =~ s/^.*?\#//;
             $line =~ s/^(\s*)$/_$1/;
             $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
-            if ($line =~ /Die $tomorrow./i) {$reading = 0;}
+            if ($line =~ /Die $tomorrow\./i) {$reading = 0;}
             $t .= "$line\n" unless ($reading == 0 );
             if ($reading == 1 ) {$t = "<b>$line</b>" . "\n_\n"; }
           }
@@ -497,7 +497,7 @@ sub necrologium : ScriptFunc {
     $t .= "\n_\n";
     if (@a = do_read($fname)) {
      foreach $line (@a) {
-       if ($line =~ /Die 29./i || $reading >= 1 ) {
+       if ($line =~ /Die 29\./i || $reading >= 1 ) {
            $reading ++;
            $line =~ s/^\s+//; $line =~ s/\s+$//;
            if ($reading >= 1 && $line !~ /^$/ ) {
