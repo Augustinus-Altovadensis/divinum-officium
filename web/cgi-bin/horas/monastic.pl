@@ -453,8 +453,8 @@ sub regula_emaus : ScriptFunc {
   my $d = $day;
   my $l = leapyear($year);
 
-  if ($month == 2 && $day >= 24 && !$l) { $d++; }
-  $fname = sprintf("%02i-%02i", $month, $d);
+#  if ($month == 2 && $day >= 24 && !$l) { $d++; }
+#  $fname = sprintf("%02i-%02i", $month, $d);
 
   $fname = checkfile($lang, 'Regula/RegulaOsbEmaus.txt');
 
@@ -481,7 +481,7 @@ sub regula_emaus : ScriptFunc {
     $reading = 0;
     if (@a = do_read($fname)) {
       foreach $line (@a) {
-        if ($line =~ /^\#\[.*$d\. $month\./i || $reading >= 1 ) {
+       # if ($line =~ /^\#\[.*$d\. $month\./i || $reading >= 1 ) {
           $reading ++;
           $line =~ s/^\s+//; $line =~ s/\s+$//;
             if ($reading >= 1 && $line !~ /^$/ ) {
@@ -491,7 +491,7 @@ sub regula_emaus : ScriptFunc {
               if ($line =~ /^\#\[/i && $reading > 1 ) {$reading = 0;}
                 $t .= "\t$line\n" unless ($reading == 0 || $reading == 1 );
               }
-        }
+        #}
       }
     }
   }
