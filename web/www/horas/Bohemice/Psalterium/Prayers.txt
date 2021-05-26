@@ -196,7 +196,7 @@ $Deo gratias.
 ! Po Laudách ze dne se říkají %Matutinum a Laudy za zemřelé%.
 
 [Oremus]
-<div style="color:blue; text-align:center;">Modleme se.</div>
+<div style="color:red; text-align:center; font-size:30px">M</div><div style="color:black; text-align:center; font-size:20px">odleme se.</div>
 
 [Te decet]
 v. Thou art worthy of praise, thou art worthy of hymns, to Thee be glory: to God the Father and the Son with the Holy Ghost, world without end. Amen.
