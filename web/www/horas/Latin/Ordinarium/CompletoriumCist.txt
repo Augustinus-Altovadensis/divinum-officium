@@ -11,7 +11,7 @@ $Tu autem
 ℟. Qui fecit cælum et terram.
 _
 
-$Deus in adjutorium
+$Deus in adjutorium Cist Compl
 &Gloria
 
 &psalm(4)
@@ -84,7 +84,7 @@ O clemens, o pia, o dulcis Virgo María.
 _
 ℣. {::}Ave María, grátia plena.
 ℟. Dóminus tecum.
-v. Orémus. 	
+$Oremus
 v. Omnípotens sempitérne Deus, qui gloriósæ Vírginis Matris Maríæ corpus et ánimam, ut dignum Fílii tui habitáculum éffici mererétur, Spíritu Sancto cooperánte, præparásti: da, ut, cujus commemoratióne lætámur, ejus pia intercessióne, ab instántibus malis et a morte perpétua liberémur. Per eúndem Christum Dóminum nóstrum.
 ℟. Amen.
 _

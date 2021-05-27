@@ -1,6 +1,6 @@
 #Incipit
 ℣. Uděl nám, Pane, požehnání.
-Benedictio. Klidnou noc a dokonalý konec ať nám udělí všemohoucí Hospodin. Amen.
+Benedictio. Klidnou noc a dobrý konec ať nám udělí všemohoucí Hospodin. Amen.
 
 #Lectio brevis
 !1 Pet 5:8-9
@@ -13,7 +13,7 @@ $Tu autem
 ℟. Který stvořil nebe a zemi.
 _
 
-$Deus in adjutorium
+$Deus in adjutorium Cist Compl
 &Gloria
 
 &psalm(4)
@@ -86,8 +86,8 @@ nám po tomto putování ukaž.
 _
 ℣. Zdrávas, Maria, milosti plná.
 ℟. Pán s tebou.
-v. Modleme se. 	
-v. Všemohoucí, věčný Bože, jenž jsi působením Svatého Ducha připravil tělo i duši slavné Marie Panny za důstojný příbytek svého Syna † dej nám, kdo se těšíme vzpomínkou na ni * abychom její přímluvou unikli neustálým zlým událostem i věčné smrti. Skrze téhož Krista, našeho Pána.
+$Oremus
+v. Všemohoucí, věčný Bože, jenž jsi působením Svatého Ducha připravil tělo i duši slavné Marie Panny za důstojný příbytek svého Syna † dej nám, kdo se těšíme vzpomínkou na ni * abychom její přímluvou unikli neustálým zlým událostem i věčné smrti. Skrze téhož Krista, našeho Pána.
 ℟. Amen.
 _
 

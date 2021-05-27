@@ -66,7 +66,12 @@ v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbua
 ℟. Dómine, ad adjuvándum me festína.
 
 [Deus in adjutorium Cist]
-!Commemoratione officii parvi B.M.V. completa, facimus signum Crucis, et a signum Superioris inclinamus Altari.
+!Finita Commemoratione officii parvi B.M.V., facimus signum Crucis + atque ad signum Superioris inclinamus Altari.
+℣. Deus in adjutórium meum inténde.
+℟. Dómine, ad adjuvándum me festína.
+
+[Deus in adjutorium Cist Compl]
+!Finita lectione, facimus signum Crucis + atque ad signum Superioris inclinamus Altari.
 ℣. Deus in adjutórium meum inténde.
 ℟. Dómine, ad adjuvándum me festína.
 

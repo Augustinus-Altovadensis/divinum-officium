@@ -1115,7 +1115,7 @@ sub antetpsalm {
     }
   }
 
-  if ($version =~ /Cistercian/i) { $ant1 =~ $ant[0]; }                       #no doubling in Cist. rite
+  if ($version =~ /Cistercian/i) { $ant1 = $ant[0]; }                       #no doubling in Cist. rite
 
   if ($hora =~ /Matutinum/i && $dayname[0] =~ /Pasc[1-6]/i) { ($ant1, $ant) = ant_matutinum($ant1, $ant, $ind); }
   $ant1 =~ s/\;\;[0-9\;n]+//;

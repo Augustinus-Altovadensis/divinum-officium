@@ -537,6 +537,9 @@ sub psalm : ScriptFunc {
 
     foreach $line (@lines) {
 
+      if ( $version =~ /Cistercian/i ) { 
+        $line =~ s/\(Fit reverentia\:\)//i; $line =~ s/\(Fit reverentia\)//i; }
+
       # Interleave antiphon into the psalm "Venite exsultemus".
       if ($psnum == 94 && $line =~ /^\s*\$ant\s*$/) {
         $formatted_antline ||= setfont($redfont, 'Ant.') . " $antline";
@@ -996,6 +999,7 @@ sub canticum : ScriptFunc {
 
   if (@w = do_read($fname)) {
     $w[0] =~ s/\!//;
+    if ( $version =~ /Cistercian/i ) { $w[1] =~ s/\+//; }
     $w .= setfont($redfont, shift(@w)) . settone(2) . "\n";
 
     foreach $item (@w) {

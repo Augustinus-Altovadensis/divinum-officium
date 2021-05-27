@@ -1,5 +1,5 @@
 #Incipit
-$Deus in adjutorium
+$Deus in adjutorium Cist
 &Gloria
 
 #Hymnus {:H-Nona:}
