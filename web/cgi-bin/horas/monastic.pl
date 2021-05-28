@@ -385,6 +385,7 @@ sub brevis_monastic {
     $lectio  = $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasc" : $dayofweek)};
   }
   $lectio =~ s/&Gloria1?/&Gloria1/;
+  if ( $version =~ /Cistercian/i ) { $lectio =~ s/&Gloria1?//i; }
   push(@s, $lectio);
 }
 
