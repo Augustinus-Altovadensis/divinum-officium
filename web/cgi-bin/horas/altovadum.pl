@@ -15,7 +15,7 @@ use horas::Scripting;
 # translates a line from Latin to Czech
 # written for Necrologium from Vyšší Brod, CZ (Altovadum)
 # will hardly work on anything else...
-sub translate_cz {
+sub translate_cz : ScriptFunc {
 
 #	my $filename = $ARGV[0];
 #	my $i = 0;
