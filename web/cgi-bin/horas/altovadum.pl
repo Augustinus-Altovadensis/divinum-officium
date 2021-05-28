@@ -24,7 +24,7 @@ sub translate_cz : ScriptFunc {
 #	open(FH, '<', $filename) or die $!;
 	
 #	while(<FH>){
-#		$line = $_;
+		$line = $_;
 	
 	$line =~ s/\t\t/  /;
 	$line =~ s/ \t/  /;
