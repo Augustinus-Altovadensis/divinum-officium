@@ -19,7 +19,7 @@ while(<FH>){
 	$line =~ s/\t/ /g;
 
 	$line =~ s/Purissimi Cordis B\.M\.V\./Nejčistšího Srdce Panny Marie/ig;
-	
+
 	$line =~ s/A\.R\.P\./Veledůstojný Otec/ig;
 	$line =~ s/A\.R\.D\./Veledůstojný Pán/ig;
 	$line =~ s/A\.R\. et Ven.* P\./Veledůstojný a ctihodný Otec/ig;
@@ -56,11 +56,12 @@ while(<FH>){
 	$line =~ s/Clarae.Vallis/ze Zwettlu/ig;
 	$line =~ s/Sanctae Crucis/Heiligenkreuz/ig;
 	$line =~ s/Campililii/v klášteře Lilienfeld/ig;
+	$line =~ s/Aulae/Síně/ig;
 
 	$line =~ s/in Valle Virginum/v klášteře Pohled/ig;
 	$line =~ s/in Valle.Mariae/v klášteře Marienthal/ig;
 	$line =~ s/Mariae.Stellae|Stellae.Mariae|Mariae.Stelae|Stelae.Mariae/v klášteře Marienstern/ig;
-	
+
 
 	$line =~ s/Altovado/Vyšší Brod/ig;
 	$line =~ s/in Altovado/ve Vyšším Brodě/ig;
@@ -69,7 +70,10 @@ while(<FH>){
 	$line =~ s/in capella Beatae Mariae Virginis/v kapli Panny Marie/ig;
 	$line =~ s/Bechinensis/bechyňský/ig;
 	$line =~ s/Capellensis/z Kapliček/ig;
-	$line =~ s/in Capella/v Kapličkách/ig;
+	$line =~ s/in Capella/v Kapličkách/g;
+	$line =~ s/in capella prima/v první kapli/ig;
+	$line =~ s/in capella/v kapli/ig;
+	$line =~ s/Haericensis/z Hořic/ig;
 	$line =~ s/Hoericii|Hoericium|Hoeric|Haeric/Hořice/ig;
 	$line =~ s/ad Fonticulum|ad Fontem Salubrem|ad Salubrem Fonticulum/na Dobré Vodě/ig;
 	$line =~ s/Oberheid|Mericae Superioris/v Horním Dvořišti/ig;
@@ -93,8 +97,9 @@ while(<FH>){
 	$line =~ s/Černicensis/v Černici/ig;
 	$line =~ s/Potvoroviensi/potvorovské/ig;
 	$line =~ s/Malsching/Malšín/ig;
-	$line =~ s/de Rosenberg|de Rosis/z Rožmberka/ig;
+	$line =~ s/de Rosenberg|de Rosis|Rosensium/z Rožmberka/ig;
 	$line =~ s/Rosenberg/Rožmberk/ig;
+	$line =~ s/Rosensis/z Rožmberků/ig;
 	$line =~ s/Crumlovia|Crumlov/Krumlov/ig;
 	$line =~ s/Sobieslavia/Soběslav/ig;
 	$line =~ s/Kozojedii|in Kozojed/v Kozojedech/ig;
@@ -110,9 +115,14 @@ while(<FH>){
 	$line =~ s/Plan\./Planá\./ig;
 	$line =~ s/Mariae.Ratschitz|Maria Ratschitz/Mariánské Radčice/ig;
 	$line =~ s/Kirchschlag/Světlík/ig;
+	$line =~ s/in Antiqua Bruna/na Starém Brně/ig;
 	$line =~ s/Antiqua Bruna/Staré Brno/ig;
 	$line =~ s/Bruna/Brno/ig;
 	$line =~ s/ad Sanctum Oswaldum/ve Svatém Osvaldu/ig;
+	$line =~ s/de Serin/ze Serynu/ig;
+	$line =~ s/Lincii/v Linci/ig;
+	$line =~ s/Lincensi/lineckém/ig;
+	$line =~ s/Janecii/v Jeníkově/ig;
 
 	$line =~ s/Austriae superioris/v Horním Rakousku/ig;
 	$line =~ s/Austriae|in Austria/v Rakousku/ig;
@@ -125,6 +135,7 @@ while(<FH>){
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
 
 	$line =~ s/Ordinis Sancti Joannis hospitalis in Jerusalem/hospitálního Řádu svatého Jana v Jeruzalémě/ig;
+	$line =~ s/huius loci abbatis/Opata tohoto kláštera/ig;
 
 	$line =~ s/abbas/opat/ig;
 	$line =~ s/abbatiae/opatství/ig;
@@ -147,6 +158,8 @@ while(<FH>){
 	$line =~ s/Virgo/Panna/gi;
 	$line =~ s/Domina/Paní/gi;
 	$line =~ s/Dominus/Pán/gi;
+	$line =~ s/Dominorum/Pánů/gi;
+	$line =~ s/comes /hrabě /gi;
 	$line =~ s/magister infirmorum|infirmarius/infirmář/ig;
 	$line =~ s/Domini abbatis/Pana Opata/gi;
 	$line =~ s/abbatis/Opata/gi;
@@ -159,7 +172,12 @@ while(<FH>){
 	$line =~ s/habitis/konaných/gi;
 	$line =~ s/mortuus/zemřel/gi;
 	$line =~ s/in parochia/ve farnosti/gi;
-	
+	$line =~ s/annos natus (\d+)/ve věku $1 let/gi;
+	$line =~ s/villa/statek/gi;
+	$line =~ s/sedule/pečlivě/gi;
+	$line =~ s/annis (\d+)/$1 let/gi;
+	$line =~ s/praefuit/spravoval/gi;
+
 	$line =~ s/Quirini/Quirina/ig;
 	$line =~ s/illustrissimum dominum/nejjasnějšího pána/gi;
 	$line =~ s/cum monasterio nostro/s naším klášterem/gi;
@@ -188,16 +206,21 @@ while(<FH>){
 	$line =~ s/capellae regalis/královské kapely/gi;
 	$line =~ s/canonicus/kanovník/gi;
 
-	
+
+	$line =~ s/parochus (.*)emeritus/emeritní farář $1/gi;
 	$line =~ s/parochus emeritus/emeritní farář/gi;
 	$line =~ s/parochus/farář/gi;
 	$line =~ s/clericus/klerik/gi;
+	$line =~ s/novitius|novicius/novic/gi;
 	$line =~ s/studens|scholarius/student/gi;
 	$line =~ s/diaconus/jáhen/gi;
 	$line =~ s/plebanus/plebán/gi;
 	$line =~ s/auxiliator /pomocný duchovní /gi;
 	$line =~ s/cooperator administratoris|cooperator|capellanus|cooperatus|adjutor parochiae|adjutor parochi/kaplan/gi;
 	$line =~ s/presbyteri/kněze/gi;
+	$line =~ s/presbyter/kněz/gi;
+	$line =~ s/heremita|eremita/poustevník/gi;
+	$line =~ s/vir /muž /gi;
 
 	$line =~ s/archivarius/archivář/ig;
 	$line =~ s/praefectus pharmacopae/prefekt lékárny/ig;
@@ -207,15 +230,15 @@ while(<FH>){
 	$line =~ s/cellae vinariarum/vinných sklepů/ig;
 	$line =~ s/magister conversorum/konvršmistr/ig;
 	$line =~ s/magister novitiorum|novitiorum magister/novicmistr/ig;
-	$line =~ s/administrator oeconomiae/hospodářský správce/ig;
-	$line =~ s/inspector oeconomiae/hospodářský správce/ig;
+	$line =~ s/administrator oeconomiae|oeconomus|inspector oeconomiae/hospodářský správce/ig;
 	$line =~ s/bibliothecarius/knihovník/ig;
 	$line =~ s/confessarius/zpovědník/ig;
 	$line =~ s/cantor/kantor/ig;
 	$line =~ s/regens chori figuralis/dirigent orchestru a sboru/ig;
 	$line =~ s/regens chori/regenschori/ig;
-	$line =~ s/huius loci/tohoto kláštera/ig;
+	$line =~ s/huius loci|huius coenobii/tohoto kláštera/ig;
 	$line =~ s/domni abbatis/pana opata/ig;
+	$line =~ s/administrator (.*)emeritus/emeritní správce $1/gi;
 	$line =~ s/administrator|procurator/správce/gi;
 	$line =~ s/aurifaber/zlatník/gi;
 	$line =~ s/pharmacopoia/lékárník/gi;
@@ -227,10 +250,21 @@ while(<FH>){
 	$line =~ s/Ordinis cisterciensis|cisterciensis Ordinis/cisterciáckého Řádu/gi;
 	$line =~ s/Ordinis/Řádu/gi;
 	$line =~ s/director/ředitel/gi;
+	$line =~ s/protector/ochránce/gi;
 	$line =~ s/congregationis|congregatio/kongregace/gi;
 	$line =~ s/in prioratu/v převorství/gi;
+	$line =~ s/Erat/Byl to/g;
+	$line =~ s/erat/byl to/g;
+	$line =~ s/sinistrae/levé/ig;
+	$line =~ s/sinistri/levého/ig;
+	$line =~ s/dextrae/pravé/ig;
+	$line =~ s/dextri/pravého/ig;
+	$line =~ s/partis/části/ig;
+	$line =~ s/in coemeterio communi/na společném hřbitově/ig;
+	$line =~ s/in coemeterio/na hřbitově/ig;
 
 	$line =~ s/Joannis/Jana/ig;
+	$line =~ s/Joannes/Jan/ig;
 	$line =~ s/Jodoci/Jocha/ig;
 	$line =~ s/Augustini/Augustina/ig;
 	$line =~ s/Ulrici/Oldřicha/ig;
@@ -245,6 +279,9 @@ while(<FH>){
 	$line =~ s/Viti /Víta /ig;
 	$line =~ s/Edmundi/Edmunda/ig;
 	$line =~ s/Procopii/Prokopa/ig;
+	$line =~ s/Petri/Petra/ig;
+	$line =~ s/Vokonis/Voka/ig;
+	$line =~ s/Evae|Hevae/Evy/ig;
 
 
 	$line =~ s/canoniae/kanonie/ig;
@@ -253,7 +290,8 @@ while(<FH>){
 	$line =~ s/Reverendi /důstojného /ig;
 	$line =~ s/capituli/kapituly/ig;
 	$line =~ s/monialium/sester/ig;
-	
+	$line =~ s/ultimi/posledního/ig;
+
 	$line =~ s/dioeceseos Budvicensis/budějovické diecéze/ig;
 	$line =~ s/notarius archiepiscopialis/arcibiskupský notář/ig;
 	$line =~ s/notarius episcopalis/biskupský notář/ig;
@@ -284,8 +322,12 @@ while(<FH>){
 	$line =~ s/generosae/štědré/ig;
 	$line =~ s/generosi/štědrého/ig;
 	$line =~ s/generosus/štědrý/ig;
+	$line =~ s/generosorum|generosum/štědrých/ig;
+	$line =~ s/optimus/nejlepší/ig;
 	$line =~ s/virtuosa/ctnostná/ig;
 	$line =~ s/virtuosus/ctnostný/ig;
+	$line =~ s/Illustris/Přejasný/g;
+	$line =~ s/illustris/přejasný/g;
 	$line =~ s/primus/první/ig;
 	$line =~ s/camerarius/komorník/ig;
 	$line =~ s/laudabiliter/chvályhodně/ig;
@@ -297,6 +339,7 @@ while(<FH>){
 	$line =~ s/physicae/fyziky/ig;
 	$line =~ s/mathematicae/matematiky/ig;
 	$line =~ s/philosophiae professor|professor philosophiae/profesor filosofie/ig;
+	$line =~ s/professor (.*)emeritus/emeritní profesor $1/ig;
 	$line =~ s/professor/profesor/ig;
 	$line =~ s/pictor /malíř /ig;
 	$line =~ s/pictor\./malíř\./ig;
@@ -325,6 +368,11 @@ while(<FH>){
 	$line =~ s/officialis/hodnostář/ig;
 	$line =~ s/coadiutor/coadjutor/ig;
 	$line =~ s/ecclesiae Wratislaviensis/vratislavské katedrály/ig;
+	$line =~ s/ecclesiae/kostela/ig;
+	$line =~ s/maxime/nejvíce/ig;
+	$line =~ s/in extremis/na konci/ig;
+	$line =~ s/in nosocomio/v nemocnici/ig;
+	$line =~ s/Fratrum misericori|Fratrum misericordiorum/Milosrdných Bratří/ig;
 
 	$line =~ s/pater eius/jeho otec/ig;
 	$line =~ s/pater /otec /ig;
@@ -350,16 +398,24 @@ while(<FH>){
 	$line =~ s/in oppido/ve městě/ig;
 	$line =~ s/ante altare/před Oltářem/ig;
 	$line =~ s/post expulsionem/po vyhnání/ig;
-	
+	$line =~ s/a rusticis Bohemis/českými sedláky/ig;
+	$line =~ s/occisus est/byl zabit/ig;
+	$line =~ s/crudeliter/krutě/ig;
+	$line =~ s/cum abbate suo/se svým Opatem/ig;
+
 	$line =~ s/eodem anno /Téhož roku /ig;
-	$line =~ s/Anno /Roku /ig;
-	$line =~ s/Die /Dne /ig;
-	$line =~ s/quondam/kdysi/ig;
+	$line =~ s/anni eiusdem|eiusdem anni/téhož roku/ig;
+	$line =~ s/Anno /Roku /g;
+	$line =~ s/anno /roku /g;
+	$line =~ s/Die /Dne /g;
+	$line =~ s/die /dne /g;
+	$line =~ s/quondam|olim/kdysi/ig;
 	$line =~ s/hic /zde /ig;
 	$line =~ s/dein /poté /ig;
 	$line =~ s/sepultus est/je pohřbený/ig;
 	$line =~ s/sepultus iacet/leží pohřbený/ig;
-	$line =~ s/sepultus/pohřbený/ig;
+	$line =~ s/Sepultus/Pohřbený/g;
+	$line =~ s/sepultus/pohřbený/g;
 	$line =~ s/sepulta est/je pohřbená/ig;
 	$line =~ s/sepulta/pohřbená/ig;
 	$line =~ s/mensis/měsíce/ig;
@@ -386,7 +442,7 @@ while(<FH>){
 	$line =~ s/professus/profes/ig;
 	$line =~ s/professi/profese/ig;
 	$line =~ s/ibidem/na témž místě/ig;
-	$line =~ s/B\.M\.V\./Panny Marie/ig;
+	$line =~ s/B\.M\.V\.|Beatae Mariae Virginis/Panny Marie/ig;
 	$line =~ s/ et / a /ig;
 	$line =~ s/ qui / který /ig;
 	$line =~ s/ ubi / kde /ig;
@@ -399,7 +455,9 @@ while(<FH>){
 	$line =~ s/ de-la / de la /gi;
 	$line =~ s/ ad[ij]utor/ pomocný/gsi;
 	$line =~ s/(i|j)ubilatus]/slavný/gsi;
-	
+
+	$line =~ s/ \./\./gi;
+
    print $line;
    $i++;
    #if ( $i > 30 ) { last; }
