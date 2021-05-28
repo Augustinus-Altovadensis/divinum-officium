@@ -2,8 +2,8 @@
 use utf8;
 #use open ':std', ':encoding(UTF-8)';
 
-use warnings;
-use strict;
+#use warnings;
+#use strict;
 
 use FindBin qw($Bin);
 use lib "$Bin/..";
@@ -418,5 +418,5 @@ sub translate_cz {
 #	}
 	return $line;	
 #	close(FH);
-
 }
+1;
