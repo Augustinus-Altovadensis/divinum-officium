@@ -293,7 +293,7 @@ sub antetpsalm_mm {
   }
 }
 
-#*** monstic_lectio3($w, $lang)
+#*** monastic_lectio3($w, $lang)
 # return the legend if appropriate
 sub monastic_lectio3 {
   my $w = shift;
@@ -594,6 +594,7 @@ sub necrologium : ScriptFunc {
             $line =~ s/^(\s*)$/_$1/;
             $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
             if ($line =~ /Die $tomorrow\./i) {$reading = 0;}
+			if ($lang =~ /Bohemice/i) {$line =~ translate_cz ($line) ;}
             $t .= "$line\n" unless ($reading == 0 );
             if ($reading == 1 ) {$t = "<b>$line</b>" . "\n_\n"; }
           }
