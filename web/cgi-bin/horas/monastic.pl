@@ -594,7 +594,7 @@ sub necrologium : ScriptFunc {
             $line =~ s/^(\s*)$/_$1/;
             $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
             if ($line =~ /Die $tomorrow\./i) {$reading = 0;}
-			if ($lang =~ /Bohemice/i) { $line =~ translate_cz ;}
+			#if ($lang =~ /Bohemice/i) { $line =~ translate_cz ;}
             $t .= "$line\n" unless ($reading == 0 );
             if ($reading == 1 ) {$t = "<b>$line</b>" . "\n_\n"; }
           }
