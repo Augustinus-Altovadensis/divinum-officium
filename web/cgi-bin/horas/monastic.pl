@@ -624,6 +624,6 @@ sub necrologium : ScriptFunc {
   }
 
 
-  $t .= '$Quorum animae' . "\n_\n";
+  $t .= "Jazyk = \"$lang\" \n" . '$Quorum animae' . "\n_\n";
   return $t;
 }
