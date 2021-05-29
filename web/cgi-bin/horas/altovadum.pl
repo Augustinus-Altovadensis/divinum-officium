@@ -77,6 +77,7 @@ sub translate_cz {
 	$line =~ s/Aulae-Regensibus/zbraslavských/ig;
 	$line =~ s/Aulae/Síně/ig;
 	$line =~ s/Teplensis/tepelský/ig;
+	$line =~ s/Grissoviensis/křešovský/ig;
 
 	$line =~ s/in Valle.Virginum|ad Vallem Virginum/v klášteře Pohled/ig;
 	$line =~ s/in Valle.Mariae|Mariae.Vallis|Valle.Mariae/v klášteře Marienthal/ig;
