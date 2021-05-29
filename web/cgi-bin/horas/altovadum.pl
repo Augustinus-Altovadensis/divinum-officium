@@ -43,7 +43,8 @@ sub translate_cz {
 	$line =~ s/in Lambach/v Lambachu/ig;
 	$line =~ s/in Schlüchtern/v klášteře Schlüchtern/ig;
 	$line =~ s/Plagensis/ze Schläglu/ig;
-	$line =~ s/Aulae-Regiae/zbraslavský/ig;
+	$line =~ s/Aulae.Regiae/zbraslavský/ig;
+	$line =~ s/in Aula.Regia/na Zbraslavi/ig;
 	$line =~ s/Sanctae.Coronae|Sacrae Spinae Coronae/zlatokorunský/ig;
 	$line =~ s/in Sancta Corona/ve Zlaté Koruně/ig;
 	$line =~ s/Neo-Cellae|Neocellensis|Novae-Cellae/z Neuzelle/ig;
@@ -60,7 +61,8 @@ sub translate_cz {
 	$line =~ s/Sionensis/strahovský/ig;
 	$line =~ s/Clarae.Vallis/ze Zwettlu/ig;
 	$line =~ s/sacrosanctae Crucis/přesvatého Kříže/ig;
-	$line =~ s/ad Sanctam Crucem/v Heiligenkreuz/ig;
+	$line =~ s/ad Sanctam Crucem/v Heiligenkreuz/g;
+	$line =~ s/Ad Sanctam Crucem/V Heiligenkreuz/g;
 	$line =~ s/Sanctae Crucis/Heiligenkreuz/ig;
 	$line =~ s/Campililii/v klášteře Lilienfeld/ig;
 	$line =~ s/Pfortenae/v Pforten/ig;
@@ -74,10 +76,11 @@ sub translate_cz {
 	$line =~ s/Fontis Mariae ad Zaram|Fontis B\.M\.V.\ ad Zaram|Fontis Beatae Mariae Virginis ad Zaram/v klášteře Studnice Panny Marie ve Žďáru/ig;
 	$line =~ s/Aulae-Regensibus/zbraslavských/ig;
 	$line =~ s/Aulae/Síně/ig;
+	$line =~ s/Teplensis/tepelský/ig;
 
-	$line =~ s/in Valle Virginum/v klášteře Pohled/ig;
+	$line =~ s/in Valle.Virginum|ad Vallem Virginum/v klášteře Pohled/ig;
 	$line =~ s/in Valle.Mariae|Mariae.Vallis|Valle.Mariae/v klášteře Marienthal/ig;
-	$line =~ s/Mariae.Stellae|Stellae.Mariae|Mariae.Stelae|Stelae.Mariae|Marie.Stelae/v klášteře Marienstern/ig;
+	$line =~ s/Mariae.Stellae|Stellae.Mariae|Mariae.Stelae|Stelae.Mariae|Stela.Mariae|Marie.Stelae/v klášteře Marienstern/ig;
 	$line =~ s/universitatis Pragae/pražské university/ig;
 	$line =~ s/Pragae/v Praze/ig;
 	$line =~ s/universitatis/university/ig;
@@ -98,8 +101,8 @@ sub translate_cz {
 	$line =~ s/in Capella/v Kapličkách/g;
 	$line =~ s/in capella prima/v první kapli/ig;
 	$line =~ s/in capella/v kapli/ig;
-	$line =~ s/Haericensis/z Hořic/ig;
-	$line =~ s/Hoericii|Hoericium|Hoeric|Haeric/Hořice/ig;
+	$line =~ s/Haericensis|Hořiciensis/z Hořic/ig;
+	$line =~ s/Hoericii|Hoericium|Hoeric|Haeric|Hoeritz/Hořice/ig;
 	$line =~ s/ad Fonticulum|ad Fontem Salubrem|ad Salubrem Fonticulum|Brünnl/na Dobré Vodě/ig;
 	$line =~ s/Oberheid|Mericae Superioris/v Horním Dvořišti/ig;
 	$line =~ s/Unterheid|Merica Inferioris|Merica inferior/Dolní Dvořiště/ig;
@@ -113,7 +116,7 @@ sub translate_cz {
 	$line =~ s/Strakonicensis/strakonický/ig;
 	$line =~ s/Tarnoviensis/trnavského/ig;
 	$line =~ s/Strobniciensis/stropnický/ig;
-	$line =~ s/Strobnicii/ve Stropnici/ig;
+	$line =~ s/Strobnicii|in Strobnitz/ve Stropnici/ig;
 	$line =~ s/Kalschingensis|Chvalšinensis/chvalšinský/ig;
 	$line =~ s/Kalschingae/ve Chvalšinách/ig;
 	$line =~ s/Kalsching/Chvalšiny/ig;
@@ -145,11 +148,11 @@ sub translate_cz {
 	$line =~ s/in nostra ecclesia/v našem kostele/ig;
 	$line =~ s/in ecclesia/v kostele/ig;
 	$line =~ s/in instituto philosophico/na filosofickém institutu/ig;
-	$line =~ s/Tento-Richnovii/v Rychnově u Nových Hradů/ig;
+	$line =~ s/Tento-Richnovii|Teutorychnovii/v Rychnově u Nových Hradů/ig;
 	$line =~ s/Tento-Richnov|Tento-Richnovium/Rychnov u Nových Hradů/ig;
-	$line =~ s/Plan /Planá /ig;
+	$line =~ s/Plan |Planensis /Planá /ig;
 	$line =~ s/Plan\./Planá\./ig;
-	$line =~ s/Mariae.Ratschitz|Maria Ratschitz/Mariánské Radčice/ig;
+	$line =~ s/Mariae.Ratschitz|Maria.Ratschitz/Mariánské Radčice/ig;
 	$line =~ s/Kirchschlag|Kirschlag/Světlík/ig;
 	$line =~ s/in Antiqua Bruna|Vetero-Brunae/na Starém Brně/ig;
 	$line =~ s/Antiqua Bruna/Staré Brno/ig;
@@ -165,11 +168,13 @@ sub translate_cz {
 	$line =~ s/in Monte Aventino/na aventinském pahorku/ig;
 	$line =~ s/in Monte/na hoře/ig;
 	$line =~ s/Poletitz/Boletice/ig;
-	$line =~ s/Veter.Osseci/ve Starém Oseku/ig;
+	$line =~ s/Boleticii/v Boleticích/ig;
+	$line =~ s/Veter.Osseci|in Vetero-Ossegg/ve Starém Oseku/ig;
 	$line =~ s/Wissoczan/Vysočany/ig;
 	$line =~ s/Ottau/Zátoň/ig;
 	$line =~ s/Neostadii/v Novém Městě Vídeňském/ig;
 	$line =~ s/Lisnitz/Líšnice/ig;
+	$line =~ s/Netolitz/Netolice/ig;
 
 
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
@@ -216,6 +221,9 @@ sub translate_cz {
 	$line =~ s/Hungariae/maďarského/ig;
 	$line =~ s/Bohemiae/českého/ig;
 	$line =~ s/Moraviam/Moravu/ig;
+	$line =~ s/in Moravia/na Moravě/ig;
+	$line =~ s/Styriae/ve Štýrsku/ig;
+	$line =~ s/Tiroliae/v Tyrolsku/ig;
 
 
 	$line =~ s/abbas(.*)ultimus/poslední Opat$1/ig;
@@ -270,11 +278,19 @@ sub translate_cz {
 	$line =~ s/ornatum/zdobené/gi;
 	$line =~ s/in capitulo nostro/v naší kapitulní síni/gi;
 	$line =~ s/sodalis parthenius/mariánský ctitel/gi;
+	$line =~ s/hospis|hospes/host/gi;
+	$line =~ s/beneficiatus/obročník/gi;
+	$line =~ s/catecheta/katecheta/gi;
+	$line =~ s/homo simplex/prostý člověk/gi;
+	$line =~ s/delegavit/odkázal/gi;
+	$line =~ s/omnes libros suos/všechny své knihy/gi;
+	$line =~ s/praemonstratensis/premonstrátského/gi;
 	
 	$line =~ s/Quirini/Quirina/ig;
 	$line =~ s/illustrissimum dominum/nejjasnějšího pána/gi;
 	$line =~ s/cum monasterio nostro/s naším klášterem/gi;
 	$line =~ s/huic monasterio/tomuto klášteru/gi;
+	$line =~ s/nostro monasterio|monasterio nostro/našemu klášteru/gi;
 	$line =~ s/fidelem curam/věrnou péči/gi;
 	$line =~ s/in officio suo/ve svém úřadu/gi;
 	$line =~ s/impendit/vynakládal/gi;
@@ -314,6 +330,7 @@ sub translate_cz {
 	$line =~ s/Rusiam|Russiam/Rusku/gi;
 	$line =~ s/rector/rektor/gi;
 	$line =~ s/ad Sanctum Bernardum/u svatého Bernarda/gi;
+	$line =~ s/missarius/vyslanec/gi;
 
 
 	$line =~ s/parochus (.*) emeritus/emeritní farář $1/gi;
@@ -342,8 +359,8 @@ sub translate_cz {
 	$line =~ s/praefectus/prefekt/ig;
 	$line =~ s/cellae vinariarum/vinných sklepů/ig;
 	$line =~ s/magister conversorum/konvršmistr/ig;
-	$line =~ s/magister/magistr/ig;
 	$line =~ s/magister novitiorum|novitiorum magister/novicmistr/ig;
+	$line =~ s/magister/magistr/ig;
 	$line =~ s/administrator oeconomiae|oeconomus|oeconomicus|inspector oeconomiae/hospodářský správce/ig;
 	$line =~ s/bibliothecarius/knihovník/ig;
 	$line =~ s/confessarius/zpovědník/ig;
@@ -378,6 +395,9 @@ sub translate_cz {
 	$line =~ s/partis/části/ig;
 	$line =~ s/in coemeterio communi/na společném hřbitově/ig;
 	$line =~ s/in coemeterio/na hřbitově/ig;
+	$line =~ s/inspector silvarum/lesní inspektor/ig;
+	$line =~ s/silvarum/lesní/ig;
+	$line =~ s/poenitentiarius/penitenciář/ig;
 
 	$line =~ s/Joannis/Jana/ig;
 	$line =~ s/Joannes/Jan/ig;
@@ -517,6 +537,8 @@ sub translate_cz {
 	$line =~ s/iudicissa/rychtářka/ig;
 	$line =~ s/refectorarius/refektorář/ig;
 	$line =~ s/lotionarius/valchář/ig;
+	$line =~ s/scriniator/bednář/ig;
+	$line =~ s/scriniator/bednář/ig;
 
 	$line =~ s/pater eius/jeho otec/ig;
 	$line =~ s/pater /otec /ig;
@@ -610,6 +632,7 @@ sub translate_cz {
 	$line =~ s/professi/profese/ig;
 	$line =~ s/ibidem/na témž místě/ig;
 	$line =~ s/B\.M\.V\.|Beatae Mariae Virginis/Panny Marie/ig;
+	$line =~ s/(\w+) sui/svého $1/ig;
 	$line =~ s/ et / a /ig;
 	$line =~ s/ qui / který /ig;
 	$line =~ s/ nata / rozená /ig;
