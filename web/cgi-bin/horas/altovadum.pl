@@ -1,41 +1,34 @@
 #!/usr/bin/perl
 use utf8;
-#use open ':std', ':encoding(UTF-8)';
-
-#use warnings;
-#use strict;
 
 use FindBin qw($Bin);
 use lib "$Bin/..";
 
 # Defines ScriptFunc and ScriptShortFunc attributes.
-use horas::Scripting;
+#use horas::Scripting;
 
 #*** translate_cz()
 # translates a line from Latin to Czech
 # written for Necrologium from Vyšší Brod, CZ (Altovadum)
 # will hardly work on anything else...
-sub translate_cz : ScriptFunc {
+sub translate_cz {
 
-#	my $filename = $ARGV[0];
-#	my $i = 0;
 	my $line = shift;
-	
-#	open(FH, '<', $filename) or die $!;
-	
-#	while(<FH>){
-		$line = $_;
 	
 	$line =~ s/\t\t/  /;
 	$line =~ s/ \t/  /;
 	$line =~ s/\t/ /g;
 
 	$line =~ s/Purissimi Cordis B\.M\.V\./Nejčistšího Srdce Panny Marie/ig;
-	
+	$line =~ s/Sancti Joannis Nepomuceni/Svatého Jana Nepomuckého/ig;
+
 	$line =~ s/A\.R\.P\./Veledůstojný Otec/ig;
 	$line =~ s/A\.R\.D\./Veledůstojný Pán/ig;
 	$line =~ s/A\.R\. et Ven.* P\./Veledůstojný a ctihodný Otec/ig;
 	$line =~ s/A\.R\. ac Ven.* P\./Veledůstojný a ctihodný Otec/ig;
+	$line =~ s/Venerabilis P\./Veledůstojný Otec/ig;
+	$line =~ s/Venerabilis/Ctihodný/g;
+	$line =~ s/venerabilis/ctihodný/g;
 	$line =~ s/RR\. Domnus/Nejdůstojnější Pán/ig;
 	$line =~ s/Reverendissimi Domni|RR\. Domni/Nejdůstojnějšího Pána/ig;
 
@@ -43,7 +36,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Altovadensis/vyšebrodský/ig;
 	$line =~ s/Altovadensi/vyšebrodském/ig;
 	$line =~ s/Zarae|Zarensis/ze Žďáru/ig;
-	$line =~ s/Ossecensis/osecký/ig;
+	$line =~ s/Ossecensis|Ossencensis/osecký/ig;
 	$line =~ s/Ossecii/v Oseku/ig;
 	$line =~ s/circa Ossecum/v okolí Oseka/ig;
 	$line =~ s/Lambacensis/lambašský/ig;
@@ -51,7 +44,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in Schlüchtern/v klášteře Schlüchtern/ig;
 	$line =~ s/Plagensis/ze Schläglu/ig;
 	$line =~ s/Aulae-Regiae/zbraslavský/ig;
-	$line =~ s/Sanctae Coronae|Sacrae Spinae Coronae/zlatokorunský/ig;
+	$line =~ s/Sanctae.Coronae|Sacrae Spinae Coronae/zlatokorunský/ig;
 	$line =~ s/in Sancta Corona/ve Zlaté Koruně/ig;
 	$line =~ s/Neo-Cellae|Neocellensis|Novae-Cellae/z Neuzelle/ig;
 	$line =~ s/Plassensis/z Plas/ig;
@@ -60,54 +53,89 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Montis Pomarii|ad Montem Pomarium/z kláštera Baumgartenberg/ig;
 	$line =~ s/Wellehradensis/velehradský/ig;
 	$line =~ s/Hilariae/ve Wilheringu/ig;
-	$line =~ s/monasterii Sedlicensis|monasterii Sedlecensis/sedleckého kláštera/ig;
-	$line =~ s/Sedlicensis|Sedlecensis/sedlecký/ig;
+	$line =~ s/monasterii Sedlicensis|monasterii Sedlecensis/sedlckého kláštera/ig;
+	$line =~ s/Sedlicensis|Sedlecensis/sedlcký/ig;
 	$line =~ s/in Valle Mariae/v klášteře Marienthal/ig;
 	$line =~ s/in Waldsassen/v klášteře Waldsassen/ig;
 	$line =~ s/Sionensis/strahovský/ig;
 	$line =~ s/Clarae.Vallis/ze Zwettlu/ig;
+	$line =~ s/sacrosanctae Crucis/přesvatého Kříže/ig;
+	$line =~ s/ad Sanctam Crucem/v Heiligenkreuz/ig;
 	$line =~ s/Sanctae Crucis/Heiligenkreuz/ig;
 	$line =~ s/Campililii/v klášteře Lilienfeld/ig;
+	$line =~ s/Pfortenae/v Pforten/ig;
+	$line =~ s/Clarae.Tumbae/kláštera Mogiła/ig;
+	$line =~ s/Sedlicii et Skalicii abbas/opat v Sedlci a ve Skalici/ig;
+	$line =~ s/Sedlicii/v Sedlci/ig;
+	$line =~ s/Skalicii/ve Skalici/ig;
+	$line =~ s/Runae/v klášteře Rein/ig;
+	$line =~ s/Populeti/v klášteře Poblet/ig;
+	$line =~ s/Fontis Mariae ad Zaram abbas|Fontis B\.M\.V.\ ad Zaram abbas|Fontis Beatae Mariae Virginis ad Zaram abbas/Opat v klášteře Studnice Panny Marie ve Žďáru/ig;
+	$line =~ s/Fontis Mariae ad Zaram|Fontis B\.M\.V.\ ad Zaram|Fontis Beatae Mariae Virginis ad Zaram/v klášteře Studnice Panny Marie ve Žďáru/ig;
+	$line =~ s/Aulae-Regensibus/zbraslavských/ig;
+	$line =~ s/Aulae/Síně/ig;
 
 	$line =~ s/in Valle Virginum/v klášteře Pohled/ig;
-	$line =~ s/in Valle.Mariae/v klášteře Marienthal/ig;
-	$line =~ s/Mariae.Stellae|Stellae.Mariae|Mariae.Stelae|Stelae.Mariae/v klášteře Marienstern/ig;
-	
+	$line =~ s/in Valle.Mariae|Mariae.Vallis|Valle.Mariae/v klášteře Marienthal/ig;
+	$line =~ s/Mariae.Stellae|Stellae.Mariae|Mariae.Stelae|Stelae.Mariae|Marie.Stelae/v klášteře Marienstern/ig;
+	$line =~ s/universitatis Pragae/pražské university/ig;
+	$line =~ s/Pragae/v Praze/ig;
+	$line =~ s/universitatis/university/ig;
 
-	$line =~ s/Altovado/Vyšší Brod/ig;
+
+	$line =~ s/Roame|Romae/v Římě/ig;
 	$line =~ s/in Altovado/ve Vyšším Brodě/ig;
 	$line =~ s/in oppido Altovadeno/ve městě Vyšší Brod/ig;
 	$line =~ s/de oppido Altovadeno|de oppido Altovado/z města Vyšší Brod/ig;
+	$line =~ s/Altovado/Vyšší Brod/ig;
+	$line =~ s/Altovadi professi/vyšebrodského profese/ig;
+	$line =~ s/Altovadi|Altovadii/vyšebrodský/ig;
 	$line =~ s/in capella Beatae Mariae Virginis/v kapli Panny Marie/ig;
+	$line =~ s/ante capellam/před kaplí/ig;
 	$line =~ s/Bechinensis/bechyňský/ig;
 	$line =~ s/Capellensis/z Kapliček/ig;
-	$line =~ s/in Capella/v Kapličkách/ig;
+	$line =~ s/Vorder Heuraffl|Heuraffel|Hayraffl/Přední Výtoň/ig;
+	$line =~ s/in Capella/v Kapličkách/g;
+	$line =~ s/in capella prima/v první kapli/ig;
+	$line =~ s/in capella/v kapli/ig;
+	$line =~ s/Haericensis/z Hořic/ig;
 	$line =~ s/Hoericii|Hoericium|Hoeric|Haeric/Hořice/ig;
-	$line =~ s/ad Fonticulum|ad Fontem Salubrem|ad Salubrem Fonticulum/na Dobré Vodě/ig;
+	$line =~ s/ad Fonticulum|ad Fontem Salubrem|ad Salubrem Fonticulum|Brünnl/na Dobré Vodě/ig;
 	$line =~ s/Oberheid|Mericae Superioris/v Horním Dvořišti/ig;
 	$line =~ s/Unterheid|Merica Inferioris|Merica inferior/Dolní Dvořiště/ig;
 	$line =~ s/Rosenthal/Rožmitál/ig;
 	$line =~ s/Priethalium|Priethal/Přídolí/ig;
 	$line =~ s/Cajoviae/v Kájově/ig;
 	$line =~ s/Gratzen/Nové Hrady/ig;
-	$line =~ s/praedii Komařiciensis/statku v Komařicích/ig;
-	$line =~ s/Strziczicium/Strýčice/ig;
+	$line =~ s/praedii Komařiciensis|Komarzitzii|Komarzitii/statku v Komařicích/ig;
+	$line =~ s/Strziczicium|Stritzitz/Strýčice/ig;
 	$line =~ s/Strýčiciensis/strýčcký/ig;
 	$line =~ s/Strakonicensis/strakonický/ig;
 	$line =~ s/Tarnoviensis/trnavského/ig;
 	$line =~ s/Strobniciensis/stropnický/ig;
 	$line =~ s/Strobnicii/ve Stropnici/ig;
 	$line =~ s/Kalschingensis|Chvalšinensis/chvalšinský/ig;
+	$line =~ s/Kalschingae/ve Chvalšinách/ig;
+	$line =~ s/Kalsching/Chvalšiny/ig;
 	$line =~ s/Driesendorf/Střížov/ig;
-	$line =~ s/Boreschovii/v Boršově/ig;
+	$line =~ s/Boreschovii|Paireschau/v Boršově/ig;
+	$line =~ s/Payreschau|Payerschau/Boršov/ig;
 	$line =~ s/de Budvicio/z Budějovic/ig;
 	$line =~ s/Budvicii/v Budějovicích/ig;
+	$line =~ s/episcopi Budvicensis/biskupa budějovického/gi;
+	$line =~ s/gymnasii Budvicensis/budějovického gymnázia/ig;
+	$line =~ s/dioeceseos Budvicensis/budějovické diecéze/ig;
+	$line =~ s/Budvicensis/budějovický/ig;
 	$line =~ s/Černicensis/v Černici/ig;
 	$line =~ s/Potvoroviensi/potvorovské/ig;
 	$line =~ s/Malsching/Malšín/ig;
-	$line =~ s/de Rosenberg|de Rosis/z Rožmberka/ig;
+	$line =~ s/de Rosenberg|de Rosis|Rosensium/z Rožmberka/ig;
+	$line =~ s/Rosenbergicae/rožmberského/ig;
 	$line =~ s/Rosenberg/Rožmberk/ig;
-	$line =~ s/Crumlovia|Crumlov/Krumlov/ig;
+	$line =~ s/Rosensis/z Rožmberků/ig;
+	$line =~ s/Crumlovii/v Krumlově/ig;
+	$line =~ s/Crumlovium/do Krumlova/gi;
+	$line =~ s/Crumlovia|Crumlov|Crumbnaw/Krumlov/ig;
 	$line =~ s/Sobieslavia/Soběslav/ig;
 	$line =~ s/Kozojedii|in Kozojed/v Kozojedech/ig;
 	$line =~ s/Sanctae Annae/Svaté Anny/ig;
@@ -117,37 +145,89 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in nostra ecclesia/v našem kostele/ig;
 	$line =~ s/in ecclesia/v kostele/ig;
 	$line =~ s/in instituto philosophico/na filosofickém institutu/ig;
-	$line =~ s/Tento-Richnov.*/Rychnov u Nových Hradů/ig;
+	$line =~ s/Tento-Richnovii/v Rychnově u Nových Hradů/ig;
+	$line =~ s/Tento-Richnov|Tento-Richnovium/Rychnov u Nových Hradů/ig;
 	$line =~ s/Plan /Planá /ig;
 	$line =~ s/Plan\./Planá\./ig;
 	$line =~ s/Mariae.Ratschitz|Maria Ratschitz/Mariánské Radčice/ig;
-	$line =~ s/Kirchschlag/Světlík/ig;
+	$line =~ s/Kirchschlag|Kirschlag/Světlík/ig;
+	$line =~ s/in Antiqua Bruna|Vetero-Brunae/na Starém Brně/ig;
 	$line =~ s/Antiqua Bruna/Staré Brno/ig;
 	$line =~ s/Bruna/Brno/ig;
 	$line =~ s/ad Sanctum Oswaldum/ve Svatém Osvaldu/ig;
+	$line =~ s/de Serin/ze Serynu/ig;
+	$line =~ s/Lincii/v Linci/ig;
+	$line =~ s/Lincensi/lineckém/ig;
+	$line =~ s/Slapensis/slapské/ig;
+	$line =~ s/Janecii/v Jeníkově/ig;
+	$line =~ s/Janek|Janegg/Jeníkov/ig;
+	$line =~ s/de Schaumburg/z Schaumburgu/ig;
+	$line =~ s/in Monte Aventino/na aventinském pahorku/ig;
+	$line =~ s/in Monte/na hoře/ig;
+	$line =~ s/Poletitz/Boletice/ig;
+	$line =~ s/Veter.Osseci/ve Starém Oseku/ig;
+	$line =~ s/Wissoczan/Vysočany/ig;
+	$line =~ s/Ottau/Zátoň/ig;
+	$line =~ s/Neostadii/v Novém Městě Vídeňském/ig;
+	$line =~ s/Lisnitz/Líšnice/ig;
+
+
+	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
+	$line =~ s/Ordinis Sancti Joannis hospitalis in Jerusalem/hospitálního Řádu svatého Jana v Jeruzalémě/ig;
+	$line =~ s/huius loci abbatis/Opata tohoto kláštera/ig;
+	$line =~ s/cum vitam finire vellet/když se chystal na konec života/ig;
+	$line =~ s/honorifice/s poctami/ig;
+	$line =~ s/terrae traditus est/byl vydán zemi/ig;
+	$line =~ s/celebratis pro eo exequiis/když za něj byly odslouženy pohřební obřady/ig;
+	$line =~ s/supremus Regni Bohemiae Purgravius/nejvyšší Purkrabí Království Českého/gi;
+	$line =~ s/regni Bohemiae praelatus infulatus/infulované Prelát Království Českého/gi;
+	$line =~ s/gubernator domus/správce domu/gi;
+	$line =~ s/aurei velleris eques/rytíř zlatého rouna/gi;
+	$line =~ s/Imperatorum/Císařů/gi;
+	$line =~ s/Imperator/Císař/gi;
+	$line =~ s/trium/třem/gi;
+	$line =~ s/prope /poblíž /gi;
+	$line =~ s/eorumdemque regum Bohemiae/a také králům českým/gi;
+	$line =~ s/a consiliis/byl rádcem/gi;
+	$line =~ s/de republica Czechica optime meritus/s velkými zásluhami o Český stát/gi;
+	$line =~ s/Portatus/Přenesen/gi;
+	$line =~ s/Praga /z Prahy /gi;
+	$line =~ s/exequia/pohřební obřady/gi;
+	$line =~ s/celebrantur/se slavily/gi;
+	$line =~ s/ut supra/viz výše/gi;
+	$line =~ s/Sepelitur/Pohřben/gi;
+	$line =~ s/Illustri Principissa/Nejjasnější kněžnou/gi;
+	$line =~ s/in summa basilica/ve velké basilice/gi;
+	$line =~ s/pro patria mortuus est/zemřel za vlast/gi;
+	$line =~ s/in bello (miserrimo|miserimo)/v hrozné válce/gi;
+	$line =~ s/in bello infelicissimo/v nešťastné válce/gi;
+	$line =~ s/ad Sanctissimam Trinitatem/u Nejsvětější Trojice/gi;
+
+
 
 	$line =~ s/Austriae superioris/v Horním Rakousku/ig;
+	$line =~ s/Austriam emigravit|in Austria emigravit/emigroval do Rakouska/ig;
 	$line =~ s/Austriae|in Austria/v Rakousku/ig;
 	$line =~ s/per Bohemiam/pro Čechy/ig;
 	$line =~ s/in Lusatia/v Lužici/ig;
 	$line =~ s/Lusatiam/Lužici/ig;
 	$line =~ s/in Hungaria/v Maďarsku/ig;
 	$line =~ s/in Polonia/v Polsku/ig;
+	$line =~ s/Hungariae/maďarského/ig;
+	$line =~ s/Bohemiae/českého/ig;
+	$line =~ s/Moraviam/Moravu/ig;
 
-	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
 
-	$line =~ s/Ordinis Sancti Joannis hospitalis in Jerusalem/hospitálního Řádu svatého Jana v Jeruzalémě/ig;
-
-	$line =~ s/abbas/opat/ig;
+	$line =~ s/abbas(.*)ultimus/poslední Opat$1/ig;
+	$line =~ s/abbas/Opat/ig;
 	$line =~ s/abbatiae/opatství/ig;
 	$line =~ s/abbatissa/abatyše/ig;
 	$line =~ s/praepositus/probošt/ig;
 	$line =~ s/visitator/vizitátor/ig;
 	$line =~ s/subprior/podpřevor/ig;
+	$line =~ s/prior emeritus/emeritní převor/ig;
 	$line =~ s/prior.administrator/převor-administrátor/ig;
-	$line =~ s/prior /převor /ig;
-	$line =~ s/prior\./převor\./ig;
-	$line =~ s/prior\,/převor\,/ig;
+	$line =~ s/prior( |,|.)/převor$1/ig;
 	$line =~ s/Religiosus|Religiosa/Řeholní/gi;
 	$line =~ s/ Frater | Fr\. / bratr /gi;
 	$line =~ s/Reverendus/Důstojný/gi;
@@ -157,20 +237,39 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/confratris nostri/našeho spolubratra/ig;
 	$line =~ s/confrater/spolubratr/gi;
 	$line =~ s/Virgo/Panna/gi;
+	$line =~ s/Perillustris Domina/Přejasná Paní/ig;
 	$line =~ s/Domina/Paní/gi;
 	$line =~ s/Dominus/Pán/gi;
+	$line =~ s/Dominorum/Pánů/gi;
+	$line =~ s/Dominum/Pána/gi;
+	$line =~ s/comes /hrabě /gi;
+	$line =~ s/comitem/hraběte/gi;
 	$line =~ s/magister infirmorum|infirmarius/infirmář/ig;
-	$line =~ s/Domini abbatis/Pana Opata/gi;
+	$line =~ s/Domini abbatis|Domni abbatis/Pana Opata/gi;
 	$line =~ s/abbatis/Opata/gi;
 	$line =~ s/Domini /Pána /gi;
 	$line =~ s/gubernator/hejtman/gi;
 	$line =~ s/conventualis/konventní/gi;
-	$line =~ s/episcopi Budvicensis/biskupa budějovického/gi;
 	$line =~ s/stabilitatis/se slibem stability/gi;
 	$line =~ s/cum disputationibus/při disputacích/gi;
 	$line =~ s/habitis/konaných/gi;
-	$line =~ s/mortuus/zemřel/gi;
+	$line =~ s/mortuus est|mortuus/zemřel/gi;
 	$line =~ s/in parochia/ve farnosti/gi;
+	$line =~ s/annos natus (\d+)/ve věku $1 let/gi;
+	$line =~ s/villa/statek/gi;
+	$line =~ s/sedule/pečlivě/gi;
+	$line =~ s/annis (\d+)/$1 let/gi;
+	$line =~ s/per (\d+) annos/po $1 let/gi;
+	$line =~ s/praefuit/spravoval/gi;
+	$line =~ s/sitam/umístěnou/gi;
+	$line =~ s/e fundamentis|a fundamentis/od základů/gi;
+	$line =~ s/aedificavit/vystavěl/gi;
+	$line =~ s/donavit/daroval/gi;
+	$line =~ s/lignum/dřevo/gi;
+	$line =~ s/pretiose/drahocenně/gi;
+	$line =~ s/ornatum/zdobené/gi;
+	$line =~ s/in capitulo nostro/v naší kapitulní síni/gi;
+	$line =~ s/sodalis parthenius/mariánský ctitel/gi;
 	
 	$line =~ s/Quirini/Quirina/ig;
 	$line =~ s/illustrissimum dominum/nejjasnějšího pána/gi;
@@ -180,9 +279,13 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in officio suo/ve svém úřadu/gi;
 	$line =~ s/impendit/vynakládal/gi;
 	$line =~ s/serenissimi/nejjasnějšího/gi;
+	$line =~ s/serenissimus/nejjasnější/g;
+	$line =~ s/Serenissimus/Nejjasnější/g;
 	$line =~ s/magnifici/vznešeného/gi;
 	$line =~ s/magnificus/vznešený/gi;
-	$line =~ s/Inclytus/Slavný/gi;
+	$line =~ s/Inclytus/Slavný/g;
+	$line =~ s/inclytus/slavný/g;
+	$line =~ s/inclyti/slavného/gi;
 	$line =~ s/Regis/Krále/ig;
 	$line =~ s/protonotarius/protonotář/ig;
 	$line =~ s/prothonotarii|protonotarii/protonotáře/ig;
@@ -198,36 +301,59 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/cancellariae et aedificiorum inspector/správce kanceláří a budov/gi;
 	$line =~ s/inspector aedificiorum/správce budov/gi;
 	$line =~ s/capellae regalis/královské kapely/gi;
+	$line =~ s/capellae/kaple/g;
 	$line =~ s/canonicus/kanovník/gi;
+	$line =~ s/fundatoris/zakladatele/gi;
+	$line =~ s/fundator/zakladatel/gi;
+	$line =~ s/stabularius/kočí/gi;
+	$line =~ s/cliens/panoš/gi;
+	$line =~ s/principis|princeps/vládce/gi;
+	$line =~ s/scriba/písař/gi;
+	$line =~ s/cancelariae/kanceláře/gi;
+	$line =~ s/ contra / proti /gi;
+	$line =~ s/Rusiam|Russiam/Rusku/gi;
+	$line =~ s/rector/rektor/gi;
+	$line =~ s/ad Sanctum Bernardum/u svatého Bernarda/gi;
 
-	
+
+	$line =~ s/parochus (.*) emeritus/emeritní farář $1/gi;
 	$line =~ s/parochus emeritus/emeritní farář/gi;
 	$line =~ s/parochus/farář/gi;
 	$line =~ s/clericus/klerik/gi;
+	$line =~ s/novitius|novicius/novic/gi;
 	$line =~ s/studens|scholarius/student/gi;
 	$line =~ s/diaconus/jáhen/gi;
 	$line =~ s/plebanus/plebán/gi;
-	$line =~ s/auxiliator /pomocný duchovní /gi;
-	$line =~ s/cooperator administratoris|cooperator|capellanus|cooperatus|adjutor parochiae|adjutor parochi/kaplan/gi;
+	$line =~ s/auxiliator |auxiliarius /pomocný duchovní /gi;
+	$line =~ s/cooperator administratoris|cooperator|cooperatro|capellanus|cooperatus|adjutor parochiae|adjutor parochi/kaplan/gi;
 	$line =~ s/presbyteri/kněze/gi;
+	$line =~ s/presbyter/kněz/gi;
+	$line =~ s/heremita|eremita/poustevník/gi;
+	$line =~ s/vir( |\.|\,)/muž$1/gi;
 
 	$line =~ s/archivarius/archivář/ig;
 	$line =~ s/praefectus pharmacopae/prefekt lékárny/ig;
 	$line =~ s/praefectus culinae abbatialis/prefekt opatské kuchyně/ig;
 	$line =~ s/praefectus culinae|culinae praefectus/prefekt kuchyně/ig;
+	$line =~ s/culinae(.*)provisor/správce kuchyně$1/ig;
+	$line =~ s/culinae(.*)praefectus/prefekt kuchyně$1/ig;
+	$line =~ s/culinae/kuchyně/ig;
+	$line =~ s/cellae|celae/sklepů/ig;
 	$line =~ s/praefectus/prefekt/ig;
 	$line =~ s/cellae vinariarum/vinných sklepů/ig;
 	$line =~ s/magister conversorum/konvršmistr/ig;
+	$line =~ s/magister/magistr/ig;
 	$line =~ s/magister novitiorum|novitiorum magister/novicmistr/ig;
-	$line =~ s/administrator oeconomiae/hospodářský správce/ig;
-	$line =~ s/inspector oeconomiae/hospodářský správce/ig;
+	$line =~ s/administrator oeconomiae|oeconomus|oeconomicus|inspector oeconomiae/hospodářský správce/ig;
 	$line =~ s/bibliothecarius/knihovník/ig;
 	$line =~ s/confessarius/zpovědník/ig;
 	$line =~ s/cantor/kantor/ig;
 	$line =~ s/regens chori figuralis/dirigent orchestru a sboru/ig;
 	$line =~ s/regens chori/regenschori/ig;
-	$line =~ s/huius loci/tohoto kláštera/ig;
+	$line =~ s/hiuis/huius/ig;
+	$line =~ s/huius loci|huius coenobii/tohoto kláštera/ig;
 	$line =~ s/domni abbatis/pana opata/ig;
+	$line =~ s/administrator (.*)emeritus/emeritní správce $1/gi;
 	$line =~ s/administrator|procurator/správce/gi;
 	$line =~ s/aurifaber/zlatník/gi;
 	$line =~ s/pharmacopoia/lékárník/gi;
@@ -239,10 +365,22 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Ordinis cisterciensis|cisterciensis Ordinis/cisterciáckého Řádu/gi;
 	$line =~ s/Ordinis/Řádu/gi;
 	$line =~ s/director/ředitel/gi;
+	$line =~ s/protector/ochránce/gi;
 	$line =~ s/congregationis|congregatio/kongregace/gi;
 	$line =~ s/in prioratu/v převorství/gi;
+	$line =~ s/Erat /Byl to /g;
+	$line =~ s/erat /byl to /g;
+	$line =~ s/fuerat/byl/gi;
+	$line =~ s/sinistrae/levé/ig;
+	$line =~ s/sinistri/levého/ig;
+	$line =~ s/dextrae/pravé/ig;
+	$line =~ s/dextri/pravého/ig;
+	$line =~ s/partis/části/ig;
+	$line =~ s/in coemeterio communi/na společném hřbitově/ig;
+	$line =~ s/in coemeterio/na hřbitově/ig;
 
 	$line =~ s/Joannis/Jana/ig;
+	$line =~ s/Joannes/Jan/ig;
 	$line =~ s/Jodoci/Jocha/ig;
 	$line =~ s/Augustini/Augustina/ig;
 	$line =~ s/Ulrici/Oldřicha/ig;
@@ -257,16 +395,26 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Viti /Víta /ig;
 	$line =~ s/Edmundi/Edmunda/ig;
 	$line =~ s/Procopii/Prokopa/ig;
+	$line =~ s/Petri/Petra/ig;
+	$line =~ s/Vokonis|Wokonis/Voka/ig;
+	$line =~ s/Evae|Hevae/Evy/ig;
+	$line =~ s/Lucae/Lukáše/ig;
+	$line =~ s/Guillelmus/Vilém/ig;
+	$line =~ s/Zawissius/Záviš/ig;
+	$line =~ s/de Falkenstein/z Falkenštejna/ig;
+	$line =~ s/Andreae/Ondřeje/ig;
+	$line =~ s/Pauli/Pavla/ig;
 
 
 	$line =~ s/canoniae/kanonie/ig;
 	$line =~ s/vinearum/vinic/ig;
-	$line =~ s/parochii/farnosti/ig;
+	$line =~ s/parochii|parochiae/farnosti/ig;
 	$line =~ s/Reverendi /důstojného /ig;
 	$line =~ s/capituli/kapituly/ig;
 	$line =~ s/monialium/sester/ig;
-	
-	$line =~ s/dioeceseos Budvicensis/budějovické diecéze/ig;
+	$line =~ s/totius/celého/ig;
+	$line =~ s/ultimi/posledního/ig;
+
 	$line =~ s/notarius archiepiscopialis/arcibiskupský notář/ig;
 	$line =~ s/notarius episcopalis/biskupský notář/ig;
 	$line =~ s/proto.notarius apostolicus/apoštolský protonotář/ig;
@@ -275,14 +423,18 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/ordinis Cisterciensis/cisterciáckého řádu/ig;
 	$line =~ s/secretarius/sekretář/ig;
 	$line =~ s/notarius/notář/ig;
+	$line =~ s/sacellarius/kaplan/ig;
 	$line =~ s/cellarius/sklepmistr/ig;
 	$line =~ s/cellarii/sklepů/ig;
 	$line =~ s/cellerarius/celerář/ig;
-	$line =~ s/sacrista /sakristán /ig;
+	$line =~ s/sacrista|sacristanus/sakristán/ig;
 	$line =~ s/consiliar.* constistorialis|consiliarius consistorialis/konsistorní rada/ig;
-	$line =~ s/episcopi /biskupa /ig;
+	$line =~ s/consistorii(.*)consiliarius/konsistorní rada$1/ig;
+	$line =~ s/episcopi Brunensis/brněnského biskupa/ig;
+	$line =~ s/episcopi( |\.|\,)/biskupa$1/ig;
 	$line =~ s/ fratris/ bratra/ig;
 	$line =~ s/plebanus/plebán/ig;
+	$line =~ s/vicarius/vikář/ig;
 	$line =~ s/benefactor singularis/jedinečný dobrodinec/ig;
 	$line =~ s/benefactor noster/náš dobrodinec/ig;
 	$line =~ s/benefactor/dobrodinec/ig;
@@ -292,23 +444,35 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/ nobilis/ vznešený/ig;
 	$line =~ s/famosus/slavný/ig;
 	$line =~ s/exemplaris/příkladný/ig;
-	$line =~ s/generosa/štědrá/ig;
+	$line =~ s/Generosa/Štědrá/g;
+	$line =~ s/generosa/štědrá/g;
 	$line =~ s/generosae/štědré/ig;
 	$line =~ s/generosi/štědrého/ig;
-	$line =~ s/generosus/štědrý/ig;
+	$line =~ s/Generosus/Štědrý/g;
+	$line =~ s/generosus/štědrý/g;
+	$line =~ s/Egregius/Výjimečný/g;
+	$line =~ s/egregius/výjimečný/g;
+	$line =~ s/generosorum|generosum/štědrých/ig;
+	$line =~ s/optimus/nejlepší/ig;
 	$line =~ s/virtuosa/ctnostná/ig;
 	$line =~ s/virtuosus/ctnostný/ig;
+	$line =~ s/Illustris/Přejasný/g;
+	$line =~ s/illustris/přejasný/g;
+	$line =~ s/illustrem/přejasného/g;
 	$line =~ s/primus/první/ig;
+	$line =~ s/primi/prvního/ig;
 	$line =~ s/camerarius/komorník/ig;
 	$line =~ s/laudabiliter/chvályhodně/ig;
 	$line =~ s/persolvit/vykonával/ig;
-	$line =~ s/nostri /našeho /ig;
+	$line =~ s/(\w+) nostri/našeho $1/ig;
+	$line =~ s/(\w+) generalis/generální $1/ig;
 	$line =~ s/huius monasterii/tohoto kláštera/ig;
 	$line =~ s/monasterii/kláštera/ig;
 	$line =~ s/officium/úřad/ig;		######### OFFICIUM #########
 	$line =~ s/physicae/fyziky/ig;
 	$line =~ s/mathematicae/matematiky/ig;
 	$line =~ s/philosophiae professor|professor philosophiae/profesor filosofie/ig;
+	$line =~ s/professor (.*)emeritus/emeritní profesor $1/ig;
 	$line =~ s/professor/profesor/ig;
 	$line =~ s/pictor /malíř /ig;
 	$line =~ s/pictor\./malíř\./ig;
@@ -318,8 +482,15 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/capitaneus|capitanei/správce/ig;
 	$line =~ s/doleatoris/ranhojiče/ig;
 	$line =~ s/tumulatus est/je pohřben/ig;
+	$line =~ s/doctor decretorum|decretorum doctor/doktor církevního práva/ig;
+	$line =~ s/iuris utriusque(.*)doctor/doktor obojího práva$1/ig;
+	$line =~ s/philosophiae(.*)doctor/doktor filosofie$1/ig;
 	$line =~ s/philosophiae doctor|doctor philosophiae/doktor filosofie/ig;
+	$line =~ s/philosophiae/filosofie/ig;
+	$line =~ s/sanctae theologiae doctor|doctor sanctae theologiae/doktor posvátné teologie/ig;
+	$line =~ s/sanctae theologiae|sacrae theologiae/posvátné teologie/ig;
 	$line =~ s/theologiae doctor|doctor theologiae/doktor teologie/ig;
+	$line =~ s/utriusque iuris|iuris utriusque/obojího práva/ig;
 	$line =~ s/doctor/doktor/ig;
 	$line =~ s/theologiae baccalaureus|baccalaureus theologiae/bakalář teologie/ig;
 	$line =~ s/theologiae-dogmaticae professor/profesor dogmatické teologie/ig;
@@ -331,12 +502,21 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/procuratrix/správkyně/ig;
 	$line =~ s/balneator/lazebník/ig;
 	$line =~ s/portarius/fortnýř/ig;
-	$line =~ s/domi /domu /ig;
-	$line =~ s/domi\./domu\./ig;
-	$line =~ s/domi\,/domu\,/ig;
+	$line =~ s/domi( |\.|\,)/domu$1/ig;
 	$line =~ s/officialis/hodnostář/ig;
 	$line =~ s/coadiutor/coadjutor/ig;
 	$line =~ s/ecclesiae Wratislaviensis/vratislavské katedrály/ig;
+	$line =~ s/ecclesiae/kostela/ig;
+	$line =~ s/eandem ecclesiam/tentýž kostel/ig;
+	$line =~ s/ecclesiam/kostel/ig;
+	$line =~ s/maxime/nejvíce/ig;
+	$line =~ s/in extremis/na konci/ig;
+	$line =~ s/in nosocomio/v nemocnici/ig;
+	$line =~ s/Fratrum misericori|Fratrum misericordiorum/Milosrdných Bratří/ig;
+	$line =~ s/utramque/obojí/ig;
+	$line =~ s/iudicissa/rychtářka/ig;
+	$line =~ s/refectorarius/refektorář/ig;
+	$line =~ s/lotionarius/valchář/ig;
 
 	$line =~ s/pater eius/jeho otec/ig;
 	$line =~ s/pater /otec /ig;
@@ -357,33 +537,64 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/germanus/rodný bratr/ig;
 	$line =~ s/parens/rodič/ig;
 	$line =~ s/uxor eius/jeho manželka/ig;
+	$line =~ s/uxore/manželkou/ig;
 	$line =~ s/uxor/manželka/ig;
 	$line =~ s/hic professi/zdejšího profese/ig;
 	$line =~ s/in oppido/ve městě/ig;
+	$line =~ s/in aedibus/v síních/ig;
 	$line =~ s/ante altare/před Oltářem/ig;
 	$line =~ s/post expulsionem/po vyhnání/ig;
+	$line =~ s/a rusticis Bohemis/českými sedláky/ig;
+	$line =~ s/occisus est/byl zabit/ig;
+	$line =~ s/crudeliter/krutě/ig;
+	$line =~ s/cum abbate suo/se svým Opatem/ig;
+	$line =~ s/iuniorum/mládeže/ig;
+	$line =~ s/iunior/mladší/ig;
+	$line =~ s/(\w+) aulicus/dvorní $1/ig;
+	$line =~ s/novam/novou/ig;
+	$line =~ s/novum/nový/ig;
+	$line =~ s/curiam/budovu/ig;
+	$line =~ s/generalitiam/generalátu/ig;
+	$line =~ s/mire/krásně/ig;
+	$line =~ s/decoravit/vyzdobil/ig;
+	$line =~ s/indefessa cura/neúnavnou péčí/ig;
+	$line =~ s/atque/a také/ig;
+	$line =~ s/tandem/později/ig;
 	
+
+	$line =~ s/vicariatus assistens/sekretář vikariátu (kongregace)/ig;
+	$line =~ s/vicariatus/vikariátu (kongregace)/ig;
+	$line =~ s/assistens/sekretář/ig;
+
 	$line =~ s/eodem anno /Téhož roku /ig;
-	$line =~ s/Anno /Roku /ig;
-	$line =~ s/Die /Dne /ig;
-	$line =~ s/quondam/kdysi/ig;
+	$line =~ s/anni eiusdem|eiusdem anni/téhož roku/ig;
+	$line =~ s/Anno /Roku /g;
+	$line =~ s/anno /roku /g;
+	$line =~ s/Die /Dne /g;
+	$line =~ s/die /dne /g;
+	$line =~ s/quondam|olim/kdysi/ig;
 	$line =~ s/hic /zde /ig;
 	$line =~ s/dein /poté /ig;
 	$line =~ s/sepultus est/je pohřbený/ig;
 	$line =~ s/sepultus iacet/leží pohřbený/ig;
-	$line =~ s/sepultus/pohřbený/ig;
+	$line =~ s/Sepultus/Pohřbený/g;
+	$line =~ s/sepultus/pohřbený/g;
 	$line =~ s/sepulta est/je pohřbená/ig;
 	$line =~ s/sepulta/pohřbená/ig;
 	$line =~ s/mensis/měsíce/ig;
+	
+	$line =~ s/Tertius/Třetí/g;
+	$line =~ s/tertius/třetí/g;
+	$line =~ s/tertia/třetí/g;
 
 	$line =~ s/januarii/ledna/ig;
 	$line =~ s/februarii/února/ig;
 	$line =~ s/martii/března/ig;
 	$line =~ s/aprilis/dubna/ig;
-	$line =~ s/maii|maji/května/ig;
+	$line =~ s/maii |maji /května/ig;
 	$line =~ s/iunii|junii/června/ig;
-	$line =~ s/iulii|julii/července/ig;
-	$line =~ s/augusti/srpna/ig;
+	$line =~ s/iulii |julii /července/ig;
+	$line =~ s/augusti /srpna /ig;
 	$line =~ s/septembris/září/ig;
 	$line =~ s/octobris/října/ig;
 	$line =~ s/novembris/listopadu/ig;
@@ -398,10 +609,13 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/professus/profes/ig;
 	$line =~ s/professi/profese/ig;
 	$line =~ s/ibidem/na témž místě/ig;
-	$line =~ s/B\.M\.V\./Panny Marie/ig;
+	$line =~ s/B\.M\.V\.|Beatae Mariae Virginis/Panny Marie/ig;
 	$line =~ s/ et / a /ig;
 	$line =~ s/ qui / který /ig;
+	$line =~ s/ nata / rozená /ig;
+	$line =~ s/ cum / s /ig;
 	$line =~ s/ ubi / kde /ig;
+	$line =~ s/ ibi / tam /ig;
 	$line =~ s/ er / a /ig;
 	$line =~ s/ in / v obci /ig;
 	$line =~ s/ ac / a /ig;
@@ -411,12 +625,13 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/ de-la / de la /gi;
 	$line =~ s/ ad[ij]utor/ pomocný/gsi;
 	$line =~ s/(i|j)ubilatus]/slavný/gsi;
+
+	$line =~ s/ (\.|\,|\:)/$1/gi;
 	
-#	print $line;
-#	$i++;
-	#if ( $i > 30 ) { last; }
-#	}
+#	$line .= "Zkouška.\n" ;
+
 	return $line;	
-#	close(FH);
 }
+
+
 1;

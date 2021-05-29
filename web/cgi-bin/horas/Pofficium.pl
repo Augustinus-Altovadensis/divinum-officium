@@ -74,6 +74,7 @@ require "$Bin/specials.pl";
 require "$Bin/specmatins.pl";
 
 if (-e "$Bin/monastic.pl") { require "$Bin/monastic.pl"; }
+if (-e "$Bin/altovadum.pl") { require "$Bin/altovadum.pl"; }
 binmode(STDOUT, ':encoding(utf-8)');
 $q = new CGI;
 

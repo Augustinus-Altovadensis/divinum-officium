@@ -592,9 +592,9 @@ sub necrologium : ScriptFunc {
           if ($reading >= 1 && $line !~ /^$/ ) {
             $line =~ s/^.*?\#//;
             $line =~ s/^(\s*)$/_$1/;
-            $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/Tento/Teuto/g;
             if ($line =~ /Die $tomorrow\./i) {$reading = 0;}
-			if ($lang =~ /Bohemice/i) { $line =~ translate_cz ;}
+            if ($lang =~ /Bohemice/i) { $line = translate_cz ( "$line" ); } 
+            $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/Tento/Teuto/g;
             $t .= "$line\n" unless ($reading == 0 );
             if ($reading == 1 ) {$t = "<b>$line</b>" . "\n_\n"; }
           }
