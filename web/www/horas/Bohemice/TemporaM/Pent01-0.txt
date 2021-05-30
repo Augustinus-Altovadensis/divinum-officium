@@ -16,18 +16,18 @@ V. In heaven bestow your endless joys, and grant your gifts of grace below; from
 R. Throughout all ages.
 
 [Lectio5]
-@Tempora/Pent01-0:Lectio4:s/But we .*//s
+@Tempora/Pent01-0:Lectio4:s/Avšak Trojice .*//s
 
 [Lectio6]
-@Tempora/Pent01-0:Lectio4:s/.* (But we)/$1/s s/$/~/
-@Tempora/Pent01-0:Lectio5:s/But since .*//s
+@Tempora/Pent01-0:Lectio4:s/.* (Avšak Trojice)/$1/s s/$/~/
+@Tempora/Pent01-0:Lectio5:s/Protože však v jediné .*//s
 
 [Lectio7]
-@Tempora/Pent01-0:Lectio5:s/.* (But since)/$1/s s/$/~/
-@Tempora/Pent01-0:Lectio6:s/Of the .*//s
+@Tempora/Pent01-0:Lectio5:s/.* (Protože však v jediné)/$1/s s/$/~/
+@Tempora/Pent01-0:Lectio6:s/Žádný z nich neexistuje .*//s
 
 [Lectio8]
-@Tempora/Pent01-0:Lectio6:s/.* (Of the)/$1/s
+@Tempora/Pent01-0:Lectio6:s/.* (Žádný z nich neexistuje)/$1/s
 
 [Responsory8]
 R. Honour, strength and might and power be to the three in one, the one in three, 
@@ -36,11 +36,11 @@ V. Bless us, O God, our God, may our God bless us.
 R. Throughout eternal ages.
 
 [Lectio9]
-@Tempora/Pent01-0:Lectio7:s/For we .*//s
+@Tempora/Pent01-0:Lectio7:s/My totiž nerozlišujeme .*//s
 
 [Lectio10]
-@Tempora/Pent01-0:Lectio7:s/.* (For we)/$1/s s/$/~/
-@Tempora/Pent01-0:Lectio8a:s/And therefore .*//s
+@Tempora/Pent01-0:Lectio7:s/.* (My totiž nerozlišujeme)/$1/s s/$/~/
+@Tempora/Pent01-0:Lectio8a:s/A proto vyznáváme jediného .*//s
 
 [Responsory10]
 R. O blessed Trinity, we praise you, we bless you, we adore you: increase in us faith, increase hope, increase love, 
@@ -49,7 +49,7 @@ V. To you be praise, to you be glory, to you thanksgiving forever.
 R. O blessed Trinity.
 
 [Lectio11]
-@Tempora/Pent01-0:Lectio8a:s/.* (And therefore)/$1/s s/This.*//s
+@Tempora/Pent01-0:Lectio8a:s/.* (A proto vyznáváme jediného)/$1/s s/Toto tedy předávali .*//s
 
 [Responsory11]
 R. You, God the unbegotten Father, you, the only begotten Son, and you Holy Spirit, the Comforter, the holy and undivided Trinity, with all our heart and mouths we confess you, we praise you, and bless you; 
@@ -58,5 +58,5 @@ V. For you only are great and do wondrous things: you are God alone.
 R. To you be glory forever.
 
 [Lectio12]
-@Tempora/Pent01-0:Lectio8a:s/.* (This)/$1/s
+@Tempora/Pent01-0:Lectio8a:s/.* (Toto tedy předávali )/$1/s
 
