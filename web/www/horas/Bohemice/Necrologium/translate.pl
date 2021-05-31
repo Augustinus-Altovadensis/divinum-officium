@@ -5,7 +5,10 @@ use open ':std', ':encoding(UTF-8)';
 #use warnings;
 #use strict;
 
-my $Bin = "/Users/jirka/Documents/GitHub/divinum-officium/web/cgi-bin/horas/" ;
+$Bin = "../../../../cgi-bin/horas/" ;
+
+use "$Bin/Scripting.pm";
+
 require "$Bin/altovadum.pl" ;
 
 
