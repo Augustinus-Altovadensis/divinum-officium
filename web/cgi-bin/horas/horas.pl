@@ -347,6 +347,7 @@ sub Gloria : ScriptFunc {
 
 sub Gloria1 : ScriptFunc {    #* responsories
   my $lang = shift;
+ # if ( $version =~ /Cistercian/i ) { return "" ; }
   if ($dayname[0] =~ /(Quad5|Quad6)/i && $winner !~ /Sancti/i && $rule !~ /Gloria responsory/i) { return ""; }
   our %prayers;
   return $prayers{$lang}->{'Gloria1'};
@@ -1030,91 +1031,6 @@ sub Divinum_auxilium_cist : ScriptFunc {
   $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic/i);
   $text =~ s/\n/\n℟. /;
   return $text;
-}
-
-#*** martyrologium_cz($lang)
-#returns the text of the Czech martyrologium for the day
-sub martyrologium_cz : ScriptFunc {
-
-  my $lang = shift;
-  my @a;
-  my $t = setfont($largefont, translate("Necrologium", $lang)) . "\n";
-  my $d = $day;
-  my $l = leapyear($year);
-  my $reading = 0;
-  my $tomorrow = $d + 1;
-  my $t = setfont($largefont, "Martyrologium ") . setfont($smallblack, "(anticip.)") . "\n_\n";
-  my @mensis = (
-        'zero-ius',
-        'ledna',
-        'února',
-        'března',
-        'dubna',
-        'května',
-        'června',
-        'července',
-        'srpna',
-        'září',
-        'října',
-        'listopadu',
-        'prosince'
-      );
-
-   $fname = checkfile($lang, "Psalterium/Martyrologium.txt");
-
-  # This reads the current part of the Necrologium by "greping" the day part in the text.
-  # The month part is solved before in the filename.
-
-  $t .= "v. M<b>artyrologium na den $d. @mensis[$month], Léta Páně $year.</b>" . "\n_\n";
-  
-  if ( $day == 24 && $month == 2 && $l == 1 ) {
-    $t .= "r. Památka velkého počtu svatých mu­čedníků a vyznavačů, taktéž svatých panen, jejichž přímluvu s v modlitbách vyprošujeme. †\n" ;
-    $t .= '$Deo gratias' . "\n_\n";
-    return $t;
-  }
-
-  # and if it IS a leap year...
-  if ( $day > 24 && $month == 2 && $l == 1 ) {
-    my $minus = $day - 1;
-    $reading = 0;
-    if (@a = do_read($fname)) {
-     foreach $line (@a) {
-       if ($line =~ /^$minus.* @mensis[$month]/i || $reading >= 1 ) {
-           $reading ++;
-           $line =~ s/^\s+//; $line =~ s/\s+$//;
-           if ($reading >= 1 && $line !~ /^$/ ) {
-              $line =~ s/^.*?\#//;
-              $line =~ s/^(\s*)$/_$1/;
-              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
-              if ($line =~ /A jinde/i) {$reading = 0;}
-                $t .= "r. $line\n" unless ($reading == 0 || $reading == 1 );
-            }
-        }
-      }
-    }
-  }
-  else {
-    $reading = 0;
-    if (@a = do_read($fname)) {
-      foreach $line (@a) {
-        if ($line =~ /^$d\..* @mensis[$month]/i || $reading >= 1 ) {
-          $reading ++;
-          $line =~ s/^\s+//; $line =~ s/\s+$//;
-            if ($reading >= 1 && $line !~ /^$/ ) {
-              $line =~ s/^.*?\#//;
-              $line =~ s/^(\s*)$/_$1/;
-              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
-              if ($line =~ /A jinde/i) {$reading = 0;}
-                $t .= "r. $line\n" unless ($reading == 0 || $reading == 1 );
-              }
-        }
-      }
-    }
-  }
-
-
-  $t .= '$Conclmart Cist' . "\n_\n";
-  return $t;
 }
 
 
