@@ -188,6 +188,7 @@ sub getrank {
   our $hymncontract = 0;
   my $kalendarname =
       ($version =~ /Monastic/i) ? 'M'
+    : ($version =~ /Cistercian/i) ? 'M'
     : ($version =~ /1570/) ? 1570
     : ($version =~ /Trident/i) ? 1888
     : ($version =~ /Divino/i) ? '1954'
@@ -215,6 +216,7 @@ sub getrank {
     : ($version =~ /Divino/i) ? 'DA'
     : ($version =~ /(1955|1960)/) ? '1960'
     : ($version =~ /monastic/i) ? 'M'
+    : ($version =~ /Cistercian/i) ? 'M'
     : ($version =~ /1570/) ? '1570'
     : ($version =~ /1910/) ? 1910
     : '1960';
@@ -1795,6 +1797,20 @@ sub spell_var {
     $t =~ s/Génetrix/Génitrix/g;
     $t =~ s/\bco(t[ií]d[ií])/quo$1/g;
   }
+  if (our $version =~ /Cistercian/) {
+	$t =~ s/cæl/cœl/g;
+    $t =~ s/Cæl/Cœl/g;
+	$t =~ s/cǽl/cœl/g;
+    $t =~ s/Cǽl/Cœl/g;
+    $t =~ s/cael/cœl/g;
+    $t =~ s/Cael/Cœl/g;
+	$t =~ s/caríssi/charíssi/g;
+	$t =~ s/Caríssi/Charíssi/g;
+    $t =~ s/carit/charit/g;
+	$t =~ s/Carit/Charit/g;
+    $t =~ s/cárit/chárit/g;
+	$t =~ s/Cárit/Chárit/g;
+    }
   return $t;
 }
 

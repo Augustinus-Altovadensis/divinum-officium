@@ -263,6 +263,9 @@ Accípite * Spíritum Sanctum: quorum remiséritis peccáta, remittúntur eis, a
 !Act. 2:11
 v. Judǽi quoque et Prosélyti, Cretes et Arabes: audívimus eos loquéntes nostris linguis magnália Dei.
 
+[HymnusM Tertia]
+@:Hymnus Vespera
+
 [Hymnus Tertia]
 @:Hymnus Vespera
 

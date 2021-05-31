@@ -204,7 +204,7 @@ sub resolve_refs {
     $line =~ s/(\w)$/$&./ if ($line =~ /^\s*Ant\./);
 
     #red prefix
-    if ($line =~ /^\s*(R\.br\.|R\.|V\.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
+    if ($line =~ /^\s*(R\.br\.|R\.|V\.|℟.|℣.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
       my $h = $1;
       my $l = $2;
 
@@ -537,6 +537,9 @@ sub psalm : ScriptFunc {
 
     foreach $line (@lines) {
 
+      if ( $version =~ /Cistercian/i ) { 
+        $line =~ s/\(Fit reverentia\:\)//i; $line =~ s/\(Fit reverentia\)//i; }
+
       # Interleave antiphon into the psalm "Venite exsultemus".
       if ($psnum == 94 && $line =~ /^\s*\$ant\s*$/) {
         $formatted_antline ||= setfont($redfont, 'Ant.') . " $antline";
@@ -591,7 +594,7 @@ sub psalm : ScriptFunc {
       $t .= "\n$lnum $line $rest";
     }
     $t .= "\n";
-    if ($version eq "Monastic" && $num == 129 && $hora eq 'Prima') { $t .= $prayers{$lang}->{Requiem}; }
+    if ($version =~ /Monastic/i && $num == 129 && $hora eq 'Prima') { $t .= $prayers{$lang}->{Requiem}; }
     elsif ($num != 210 && !$nogloria) { $t .= "\&Gloria\n"; }
     $t .= settone(0);
     return $t;
@@ -914,7 +917,13 @@ sub ant_Benedictus : ScriptFunc {
     $ant = $specials{"Adv Ant $day" . "L"};
   }
   my @ant_parts = split('\*', $ant);
+  $ant_parts[0] =~ tr/,/./;
+  substr ($ant_parts[0], -1) = ".";	#  Adds a dot to verse incipit (looks better)
+  $ant_parts[0] =~ s/.(?!.)//g;		#  (only one...)
   if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
+
+  if ($num == 1 && $version =~ /Cistercian/i ) { return "Ant. $ant_parts[0]"; }
+
 
   if ($num == 1) {
     return "Ant. $ant";
@@ -959,7 +968,13 @@ sub ant_Magnificat : ScriptFunc {
     $num = 2;
   }
   my @ant_parts = split('\*', $ant);
+  $ant_parts[0] =~ tr/,/./;
+  substr ($ant_parts[0], -1) = ".";	#  Adds a dot to verse incipit (looks better)
+  $ant_parts[0] =~ s/.(?!.)//g;		#  (only one...)
   if ($num == 1 && $duplex < 3 && $version !~ /1960/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
+
+  if ($num == 1 && $version =~ /Cistercian/i ) { return "Ant. $ant_parts[0]"; }
+
 
   if ($num == 1) {
     return "Ant. $ant";
@@ -984,6 +999,7 @@ sub canticum : ScriptFunc {
 
   if (@w = do_read($fname)) {
     $w[0] =~ s/\!//;
+    if ( $version =~ /Cistercian/i ) { $w[1] =~ s/\+//; }
     $w .= setfont($redfont, shift(@w)) . settone(2) . "\n";
 
     foreach $item (@w) {
@@ -1002,11 +1018,105 @@ sub canticum : ScriptFunc {
 
 sub Divinum_auxilium : ScriptFunc {
   my $lang = shift;
-  my $text = "V. " . translate("Divinum auxilium", $lang);
+  my $text = "℣. " . translate("Divinum auxilium", $lang);
   $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic/i);
-  $text =~ s/\n/\nR. /;
+  $text =~ s/\n/\n℟. /;
   return $text;
 }
+
+sub Divinum_auxilium_cist : ScriptFunc {
+  my $lang = shift;
+  my $text = "℣. " . translate("Divinum auxilium Cist", $lang);
+  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic/i);
+  $text =~ s/\n/\n℟. /;
+  return $text;
+}
+
+#*** martyrologium_cz($lang)
+#returns the text of the Czech martyrologium for the day
+sub martyrologium_cz : ScriptFunc {
+
+  my $lang = shift;
+  my @a;
+  my $t = setfont($largefont, translate("Necrologium", $lang)) . "\n";
+  my $d = $day;
+  my $l = leapyear($year);
+  my $reading = 0;
+  my $tomorrow = $d + 1;
+  my $t = setfont($largefont, "Martyrologium ") . setfont($smallblack, "(anticip.)") . "\n_\n";
+  my @mensis = (
+        'zero-ius',
+        'ledna',
+        'února',
+        'března',
+        'dubna',
+        'května',
+        'června',
+        'července',
+        'srpna',
+        'září',
+        'října',
+        'listopadu',
+        'prosince'
+      );
+
+   $fname = checkfile($lang, "Psalterium/Martyrologium.txt");
+
+  # This reads the current part of the Necrologium by "greping" the day part in the text.
+  # The month part is solved before in the filename.
+
+  $t .= "v. M<b>artyrologium na den $d. @mensis[$month], Léta Páně $year.</b>" . "\n_\n";
+  
+  if ( $day == 24 && $month == 2 && $l == 1 ) {
+    $t .= "r. Památka velkého počtu svatých mu­čedníků a vyznavačů, taktéž svatých panen, jejichž přímluvu s v modlitbách vyprošujeme. †\n" ;
+    $t .= '$Deo gratias' . "\n_\n";
+    return $t;
+  }
+
+  # and if it IS a leap year...
+  if ( $day > 24 && $month == 2 && $l == 1 ) {
+    my $minus = $day - 1;
+    $reading = 0;
+    if (@a = do_read($fname)) {
+     foreach $line (@a) {
+       if ($line =~ /^$minus.* @mensis[$month]/i || $reading >= 1 ) {
+           $reading ++;
+           $line =~ s/^\s+//; $line =~ s/\s+$//;
+           if ($reading >= 1 && $line !~ /^$/ ) {
+              $line =~ s/^.*?\#//;
+              $line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
+              if ($line =~ /A jinde/i) {$reading = 0;}
+                $t .= "r. $line\n" unless ($reading == 0 || $reading == 1 );
+            }
+        }
+      }
+    }
+  }
+  else {
+    $reading = 0;
+    if (@a = do_read($fname)) {
+      foreach $line (@a) {
+        if ($line =~ /^$d\..* @mensis[$month]/i || $reading >= 1 ) {
+          $reading ++;
+          $line =~ s/^\s+//; $line =~ s/\s+$//;
+            if ($reading >= 1 && $line !~ /^$/ ) {
+              $line =~ s/^.*?\#//;
+              $line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g;
+              if ($line =~ /A jinde/i) {$reading = 0;}
+                $t .= "r. $line\n" unless ($reading == 0 || $reading == 1 );
+              }
+        }
+      }
+    }
+  }
+
+
+  $t .= '$Conclmart Cist' . "\n_\n";
+  return $t;
+}
+
 
 #*** martyrologium($lang)
 #returns the text of the martyrologium for the day
@@ -1233,6 +1343,7 @@ sub getordinarium {
   if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
   elsif ($version =~ /trident/i && $hora =~ /(laudes|vespera)/i) { $suffix .= "Trid"; }
+  elsif ($version =~ /Cistercian/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
@@ -1392,13 +1503,13 @@ sub postprocess_short_resp(\@$) {
       if (/^R\.br\./ ... (/^R\./ && ++$rlines >= 3)) {
 
         # Short responsory proper.
-        if ((/^V\./ .. /^R\./) && /^R\./) {
+        if ((/^[V℣]\./ .. /^[R℟]\./) && /^[R℟]\./) {
           our %prayers;
           $_ = 'R. ' . $prayers{$lang}->{'Alleluia Duplex'};
         } elsif (/^R\./) {
           ensure_double_alleluia($_, $lang);
         }
-      } elsif (/^[VR]\./) {
+      } elsif (/^[V℣R℟]\./) {
 
         # V/R following short responsory.
         ensure_single_alleluia($_, $lang);

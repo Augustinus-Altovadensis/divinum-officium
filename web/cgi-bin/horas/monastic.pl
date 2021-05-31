@@ -293,7 +293,7 @@ sub antetpsalm_mm {
   }
 }
 
-#*** monstic_lectio3($w, $lang)
+#*** monastic_lectio3($w, $lang)
 # return the legend if appropriate
 sub monastic_lectio3 {
   my $w = shift;
@@ -385,6 +385,7 @@ sub brevis_monastic {
     $lectio  = $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasc" : $dayofweek)};
   }
   $lectio =~ s/&Gloria1?/&Gloria1/;
+  if ( $version =~ /Cistercian/i ) { $lectio =~ s/&Gloria1?//i; }
   push(@s, $lectio);
 }
 
@@ -438,5 +439,191 @@ sub regula : ScriptFunc {
     }
   }
   $t .= '$Tu autem';
+  return $t;
+}
+
+# *** regula_emaus ($lang)
+# returns the text of the Regula for the day
+# This is the version of Czech Benedictines,
+# which is being used also in Altovadum (O.Cist.)
+sub regula_emaus : ScriptFunc {
+
+  my $lang = shift;
+  my @a;
+  my $t = setfont($largefont, translate("Regula", $lang)) . "\n_\n";
+  my $d = $day;
+  my $l = leapyear($year);
+  my $reading = 0;
+  my $tomorrow = $d + 1;
+  my $sequentia = 0;
+  my $titulus;
+
+  if ($month == 2 && $day >= 24 && !$l) { $d++; }
+#  $fname = sprintf("%02i-%02i", $month, $d);
+
+  $fname = checkfile($lang, 'Regula/Regula_OSB_Emaus.txt');
+
+  if ( $day == 23 && $month == 2 && $l == 0 ) {
+    my $plus = $day + 1;
+    $reading = 0;
+    if (@a = do_read($fname)) {
+      foreach $line (@a) {
+        if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) {
+          $titulus = $line ;
+          #$t .= "Titulus = \"$titulus\" \n_\n" ;
+        }
+
+        if ( $line =~ /. $d\.$month\. ./i || $reading >= 1 ) {
+          $reading ++;
+          next if ( $reading == 1 ); 
+
+          if ( $reading == 2 ) {
+            if ( $titulus =~ /Incipit/i) { 
+              my $title_in = translate("Lectio prologus", $lang) ; 
+              $titulus =~ s/Incipit Prologus/$title_in/i ;}
+            else { my $title_in = translate("Lectio regulae", $lang) ; 
+              $titulus =~ s/Caput/ $title_in / ; }
+            $t .= "$titulus. " ; 
+            }
+
+            if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) { $sequentia = 1 ; $t .= "\n_\n" ; next ; }
+
+            if ( $sequentia == 0 ) { 
+              $t .= " <i>" . translate('Sequentia' , $lang) . ".</i> \n_\n" ; 
+              $sequentia = 1; }
+            if ( $reading == 3 && $sequentia == 0 ) { $t .= "\n_\n" ; }
+
+          $line =~ s/^\s+//; $line =~ s/\s+$//;
+            if ( $reading >= 1 && $line !~ /^$/ ) { 
+              #$line =~ s/^.*?\#//;
+              #$line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/cæl/cœl/g;
+              if ($line =~ /^\#\[ 25/i && $reading > 1 ) {$reading = 0;}
+                $t .= "-- $line\n" unless ( $reading == 0 || $reading == 1 || $line =~ /^\#\[/i);
+              }
+        }
+      }
+    }
+  }
+  else {
+    $reading = 0;
+    if (@a = do_read($fname)) {
+      foreach $line (@a) {
+        if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) {
+          $titulus = $line ;
+          #$t .= "Titulus = \"$titulus\" \n_\n" ;
+        }
+
+        if ( $line =~ /. $d\.$month\. ./i || $reading >= 1 ) {
+          $reading ++;
+          next if ( $reading == 1 ); 
+
+          if ( $reading == 2 ) {
+            if ( $titulus =~ /Incipit/i) { 
+              my $title_in = translate("Lectio prologus", $lang) ; 
+              $titulus =~ s/Incipit Prologus/$title_in/i ;}
+            else { my $title_in = translate("Lectio regulae", $lang) ; 
+              $titulus =~ s/Caput/ $title_in / ; }
+            $t .= "$titulus. " ; 
+            }
+
+            if ( $line =~ /\<b\>Caput /i || $line =~ /\<b\>Incipit /i ) { $sequentia = 1 ; $t .= "\n_\n" ; next ; }
+
+            if ( $sequentia == 0 ) { 
+              $t .= " <i>" . translate('Sequentia' , $lang) . ".</i> \n_\n" ; 
+              $sequentia = 1; }
+            if ( $reading == 3 && $sequentia == 0 ) { $t .= "\n_\n" ; }
+
+          $line =~ s/^\s+//; $line =~ s/\s+$//;
+            if ( $reading >= 1 && $line !~ /^$/ ) { 
+              #$line =~ s/^.*?\#//;
+              #$line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/cæl/cœl/g;
+              if ($line =~ /^\#\[/i && $reading > 1 ) {$reading = 0;}
+                $t .= "-- $line\n" unless ( $reading == 0 || $reading == 1 );
+              }
+        }
+      }
+    }
+  }
+  #$t .= "Regula de Emaus. Date $d. $month. $year. Leap year: $l \n_\n";
+  $t .= "\n_\n" . '$Tu autem';
+  return $t;
+}
+
+#*** necrologium ($lang)
+#returns the text of the Necrologium for the day
+sub necrologium : ScriptFunc {
+
+  my $lang = shift;
+  my @a;
+  my $t = setfont($largefont, translate("Necrologium", $lang)) . "\n";
+  my $d = $day;
+  my $l = leapyear($year);
+  my $reading = 0;
+  my $tomorrow = $d + 1;
+  #my $mensis;
+  my @mensis = (
+        'zero-ius',
+        'Januarius',
+        'Februarius',
+        'Martius',
+        'Aprilis',
+        'Majus',
+        'Junius',
+        'Julius',
+        'Augustus',
+        'September',
+        'October',
+        'November',
+        'December'
+      );
+
+   $fname = checkfile($lang, "Necrologium/@mensis[$month].txt");
+
+  # This reads the current part of the Necrologium by "greping" the day part in the text.
+  # The month part is solved before in the filename.
+
+  if (@a = do_read($fname)) {
+    foreach $line (@a) {
+      if ($line =~ /Die $d\./i || $reading >= 1 ) {
+        $reading ++;
+        $line =~ s/^\s+//; $line =~ s/\s+$//;
+          if ($reading >= 1 && $line !~ /^$/ ) {
+            $line =~ s/^.*?\#//;
+            $line =~ s/^(\s*)$/_$1/;
+            if ($line =~ /Die $tomorrow\./i) {$reading = 0;}
+            if ($lang =~ /Bohemice/i) { $line = translate_cz ( "$line" ); } 
+            $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/Tento/Teuto/g;
+            $t .= "$line\n" unless ($reading == 0 );
+            if ($reading == 1 ) {$t = "<b>$line</b>" . "\n_\n"; }
+          }
+      }
+    }
+  }
+
+  # and if it is not a leap year...
+  if ( $day == 28 && $month == 2 && $l == 0 ) {
+    $reading = 0;
+    $t .= "\n_\n";
+    if (@a = do_read($fname)) {
+     foreach $line (@a) {
+       if ($line =~ /Die 29\./i || $reading >= 1 ) {
+           $reading ++;
+           $line =~ s/^\s+//; $line =~ s/\s+$//;
+           if ($reading >= 1 && $line !~ /^$/ ) {
+              $line =~ s/^.*?\#//;
+              $line =~ s/^(\s*)$/_$1/;
+              $line =~ s/oe/œ/g; $line =~ s/ae/æ/g; $line =~ s/Ae/Æ/g; $line =~ s/Tento/Teuto/g;
+              if ($reading == 1 ) { $t .= "<b>$line</b>\n" . "\n_\n" unless ($reading == 0 ); }
+              else { $t .= "$line\n" unless ($reading == 0 ); }
+            }
+        }
+      }
+    }
+  }
+
+
+  $t .= '$Quorum animae' . "\n_\n";
   return $t;
 }

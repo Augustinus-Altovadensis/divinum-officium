@@ -128,7 +128,7 @@ Psalmi et antiphonæ
 Psalmi Dominica, antiphonæ
 
 [Evangelist]
-Matt|Marc|Luc|Joannes
+Math|Marc|Luc|Joannes
 
 [Antiphona finalis BMV]
 Antiphona finalis B.M.V.
@@ -137,8 +137,24 @@ Antiphona finalis B.M.V.
 Divínum auxílium + máneat semper nobíscum.
 Et cum frátribus nostris abséntibus. Amen.
 
+[Divinum auxilium Cist]
+Divínum auxílium máneat semper nobíscum.
+Et cum frátribus nostris abséntibus. 
+
 [Gloria tibi Domine]
 Glória tibi, Dómine.
 
 [#Commemoratio defunctorum]
 #Commemorátio defunctórum
+
+[Lectio regulae]
+Lectio ex Regula S.P.N.Benedicti, Caput № 
+
+[Lectio prologus]
+Prologus Regulæ S.P.N.Benedicti
+
+[Sequentia]
+Sequentia
+
+[Finis]
+Finis coronat opus

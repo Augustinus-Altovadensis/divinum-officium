@@ -1,0 +1,109 @@
+#Incipit
+$Deus in adjutorium Cist
+&Gloria
+
+#Hymnus
+v. Již vzešla jasná denice, 
+i prosme Boha pokorně, 
+ať ve všem denním konání 
+nás od úkladů ochrání.
+_
+Dejž uzdu, mírnost jazyku, 
+nechť nepovstane hrozný svár
+nechť také náš zrak ochrání, 
+že po marnostech nebaží.
+_
+Nechť čisté je nitro srdcí, 
+a bláznivost vždy v dáli dlí, 
+nechť pýchu těla zkrocuje 
+nám střídmost jídla, nápoje.
+_
+Až den pak tento odejde 
+a noční čas zas nastane, 
+my, kdož se světa zříkáme, 
+nechť chválu Bohu zpíváme.
+_
+* Bud sláva, čest Otci Bohu
+též Synu jeho Jednomu 
+i s Duchem Utěšitelem 
+dnes, od věků s celým světem.
+Amen.
+
+#Psalmi
+
+#Capitulum Versus
+$Deo gratias
+_
+V. Povstaň, Kriste, a pomoz nám.
+℟. A vysvoboď nás pro své jméno.
+
+#Orationes
+$MLitany2
+_
+&Dominus_vobiscum
+$Oremus
+v. Pane, všemohoucí Bože, jenž jsi nás přivedl na začátek tohoto dne: zachraňuj nás dnes svou mocí, abychom se dnešního dne nesnížili k žádnému hříchu, avšak ke konání tvé spravedlnosti vždy směřovaly naše slova, myšlenky i skutky.
+$Per Dominum
+
+#Conclusio
+&Dominus_vobiscum
+&Benedicamus_Domino
+&Divinum_auxilium_cist
+$Fidelium animae
+
+!Zde končí Prima. Pak se v Kapitulní síni čte Martyrologium bez požehnání.
+
+&martyrologium_cz
+
+℣. Drahocenná je v Hospodinových očích
+℟. Smrt jeho svatých.
+v. Svatá Maria a všichni Svatí ať se za nás přimlouvají u Hospodina: abychom si zasloužili pomoc obdržeti a spaseni býti od toho, jenž žije a kraluje na věky věkův.
+℟. Amen.
+_
+!Pak se třikrát řekne ℣. 
+℣. Bože, k pomoci mé shlédni.
+℟. Pane, pospěš mi na pomoc.
+!Naposledy se dodá:
+&Gloria
+_
+$MLitany2
+
+℣. Pohlédni na své služebníky, Pane‚ a na své dílo, a veď jejich syny.
+℟. A budiž jas Pána našeho Boha nad námi, a skutky našich rukou řiď nad námi: a dílo našich rukou řiď.
+!A bez Orémus pokračuje Hebdomadář
+v. Říditi a posvěcovati‚ ovládati a vésti rač, Pane Bože, Králi nebe a země, dnes srdce i těla naše, smysly, slova i skutky naše ve svém zákoně, a ve vykonávání tvých přikázání: abychom nyní i navěky, s tvou pomocí zdrávi a svobodni býti si zasloužili, Spasiteli světa: 
+v. Jenž žiješ a kraluješ na věky věkův.
+℟. Amen. 
+_
+℣. Pomoc naše ve jménu Páně.
+℟. Který stvořil nebe i zemi.
+_
+℣. Přikaž, pane, a požehnej.
+Benedictio. Dny a skutky naše ať zřídí ve svém pokoji všemohoucí Hospodin. Amen.
+
+&regula_emaus
+
+!Když se ale recituje soukromě, toto bude krátké Čtení, které se čte po celý rok. 
+_
+!Krátké čtení. 2. Thess. 3. 
+v. Pán ať vede vaše srdce k lásce Boží a k trpělivosti Kristově. Ty však, Pane, smiluj se nad námi. 
+℟. Bohu díky. 
+
+#Commemoratio defunctorum
+℣. Vzpomínka na všechny zemřelé bratry, familiáře a dobrodince našeho Řádu.
+_
+&necrologium
+℣. Ať odpočívají v pokoji.
+℟. Amen.
+_
+&psalm(129)
+_
+℣. Od bran pekelných.
+℟. Vysvoboď, Pane, jejich duše!
+&Dominus_vobiscum
+$Oremus
+v. Bože, jenž udílíš odpuštění, a miluješ lidskou spásu, žádáme tvou slitovnost, abys udělil bratrům naší kongregace, našim blízkým a dobrodincům, kteří z tohoto světa odešli, na přímluvu blahoslavené Marie vždy Panny se všemi tvými Svatými, aby k přebývání ve věčné blaženosti došli.
+$Per Dominum
+_
+℣. Ať odpočívají v pokoji.
+℟. Amen.

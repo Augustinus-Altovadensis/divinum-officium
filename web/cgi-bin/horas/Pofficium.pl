@@ -74,6 +74,7 @@ require "$Bin/specials.pl";
 require "$Bin/specmatins.pl";
 
 if (-e "$Bin/monastic.pl") { require "$Bin/monastic.pl"; }
+if (-e "$Bin/altovadum.pl") { require "$Bin/altovadum.pl"; }
 binmode(STDOUT, ':encoding(utf-8)');
 $q = new CGI;
 
@@ -310,7 +311,7 @@ PrintTag
 PrintTag
   }
   @chv = splice(@chv, @chv);
-  if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic'); }
+  if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic', 'Cistercian Monastic'); }
   for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'red' : 'blue'; }
   my $vsize = @versions;
   print "<TABLE ALIGN=CENTER BORDER=1><TR><TD ALIGN=CENTER>\n";

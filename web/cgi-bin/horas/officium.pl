@@ -78,6 +78,7 @@ require "$Bin/specials.pl";
 require "$Bin/specmatins.pl";
 
 if (-e "$Bin/monastic.pl") { require "$Bin/monastic.pl"; }
+if (-e "$Bin/altovadum.pl") { require "$Bin/altovadum.pl"; }
 require "$Bin/do_io.pl";
 $q = new CGI;
 
@@ -363,7 +364,7 @@ PrintTag
     #  $ch3 = ($expand =~ /nothing/i) ? 'SELECTED' : '';
     #  $ch4 = ($expand =~ /skeleton/i) ? 'SELECTED' : '';
     @chv = splice(@chv, @chv);
-    if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic'); }
+    if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic', 'Cistercian Monastic'); }
     for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'SELECTED' : ''; }
     print << "PrintTag";
 <P ALIGN=CENTER>
