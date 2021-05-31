@@ -1,7 +1,7 @@
 #Incipit
-$Domine labia
-$Domine labia
-$Domine labia
+$Deus in adjutorium Cist
+!Deinde ter dicitur:
+$Domine labia Cist
 _
 &psalm(3)
 
@@ -18,4 +18,5 @@ _
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
+&Divinum_auxilium_cist
 $Fidelium animae

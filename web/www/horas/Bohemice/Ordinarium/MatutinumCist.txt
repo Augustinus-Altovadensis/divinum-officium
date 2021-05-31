@@ -1,7 +1,7 @@
 #Incipit
-$Domine labia
-$Domine labia
-$Domine labia
+$Deus in adjutorium Cist
+!Pak se třikrát zazpívá:
+$Domine labia Cist
 _
 &psalm(3)
 
@@ -13,9 +13,10 @@ _
 
 #Oratio
 
-!Skip the rest, unless praying %Lauds% separately.
+!Zbytek se vynechává, pokud se %Lauds% neříkají zvlášť.
 
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
+&Divinum_auxilium_cist
 $Fidelium animae
