@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+
 use utf8;
 use open ':std', ':encoding(UTF-8)';
 
@@ -20,7 +21,7 @@ BEGIN {
     parse_script_arguments);
 }
 use FindBin qw($Bin);
-use lib "$Bin/..";
+#use lib "$Bin/..";
 my %script_functions;
 my @deferred_functions;
 
