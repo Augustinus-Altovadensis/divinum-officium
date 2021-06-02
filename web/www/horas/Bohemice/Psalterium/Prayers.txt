@@ -28,7 +28,7 @@ Amen.
 ℟. A světlo věčné * ať jim svítí.
 
 [Alleluia]
-v. Alleluia.
+v. Alleluja.
 v. Chvála tobě, Pane, králi věčné slávy.
 
 [Dominus]
@@ -36,7 +36,7 @@ v. Chvála tobě, Pane, králi věčné slávy.
 ℟. I s duchem tvým.
 ℣. Pane, slyš modlitbu mou.
 ℟. A volání mé k tobě přijď.
-/:skip second 'O Lord, hear my prayer':/
+/:druhé 'Pane, slyš modlitbu mou' se vynechává:/
 
 [Confiteor]
 v. Vyznávám se všemohoucímu Bohu, blahoslavené vždy Panně Marii, svatému Michaelu Archandělovi, svatému Janu Křtiteli, svatým Apoštolům Petrovi a Pavlovi, a všem svatým, že často hřeším myšlením, slovy a skutky: /:bije se v prsa:/ je to má vina, má vina, má veliká vina. Proto prosím blahoslavenou Marii vždy Pannu, svatého Michaela Archanděla, svatého Jana Křtitele, svaté Apoštoly Petra a Pavla, a všechny Svaté, abyste se za mě u Boha přimlouvali. 
@@ -133,62 +133,62 @@ r. Který s tebou žije a kraluje, v jednotě s týmž Duchem svatým, jeden Bů
 ℟. Amen
 
 [Te Deum]
-v. We praise thee, O God, * we acknowledge thee to be the Lord.
-All the earth doth worship thee, * the Father everlasting.
-To thee all Angels cry aloud, * the Heavens, and all the Powers therein.
-To thee Cherubim and Seraphim * continually do cry.
+v. Bože, tebe chválíme, tebe, Pane, velebíme.
+Tebe, věčný Otče, oslavuje celá země. 
+Všichni andělé, cherubové i serafové, 
+všechny mocné nebeské zástupy bez ustání volají:
 _
-/:(bow head):/ Holy, Holy, Holy * Lord God of Sabaoth;
+/:(ukloníme se):/ Svatý, Svatý, Svatý, Pán, Bůh zástupů.;
 _
-Heaven and earth are full * of the Majesty of thy glory.
-The glorious company of the Apostles * praise thee.
-The goodly fellowship of the Prophets * praise thee.
-The noble army of Martyrs * praise thee.
-The holy Church throughout all the world * doth acknowledge thee;
-The Father, * of an infinite Majesty.
-Thine honourable, true, * and only Son;
-Also the Holy Ghost, * the Comforter.
-Thou art the King of Glory, * O Christ.
-Thou art the everlasting * Son of the Father.
+Plná jsou nebesa i země tvé vznešené slávy.
+Oslavuje tě sbor tvých Apoštolů,
+chválí tě velký počet Proroků,
+vydává o tobě svědectví zástup Mučedníků
+a po celém světě vyznává tě tvá Církev:
+neskonale velebný, všemohoucí Otče,
+úctyhodný Synu Boží, pravý a jediný,
+božský Utěšiteli, Duchu svatý.
+Kriste, Králi slávy, 
+tys od věků Syn Boha Otce;
 _
-!During the following verse all make a profound bow:
-When thou tookest upon thee to deliver man, * thou didst not abhor the Virgin's womb.
+!během následujícího verše uděláme hlubokou úklonu hlavy:
+abys člověka vykoupil, stal ses člověkem a nepohrdl jsi panenským lůnem;
 _
-When thou hadst overcome the sharpness of death, * thou didst open the Kingdom of Heaven to all believers.
-Thou sittest at the right hand of God, * in the glory of the Father.
-We believe that thou shalt come * to be our Judge.
+zlomil jsi osten smrti a otevřel věřícím nebe;
+sedíš po Otcově pravici a máš účast na jeho slávě.
+Věříme, že přijdeš soudit, a proto tě prosíme:
 _
-!Kneel for the following verse
-We therefore pray thee, help thy servants, * whom thou hast redeemed with thy precious Blood.
+!Při následujícím verši klečíme
+přispěj na pomoc svým služebníkům, vždyť jsi je vykoupil svou předrahou krví;
 _
-Make them to be numbered with thy Saints, * in glory everlasting.
-O Lord, save thy people, * and bless thine heritage.
-Govern them, * and lift them up for ever.
-Day by day * we magnify thee;
+dej, ať se radují s tvými Svatými ve věčné slávě.
+Zachraň, Pane, svůj lid, žehnej svému dědictví, 
+veď ho a stále pozvedej.
+Každý den tě budeme velebit 
 _
-!During the following verse, by local custom, all make a profound bow.
-And we worship thy Name * ever, world without end.
+!Během následujícího verše se hluboce ukloníme, pokud je to místní zvyk.
+a chválit tvé jméno po všechny věky.
 _
-Vouchsafe, O Lord, to keep us * this day without sin.
-O Lord, have mercy upon us, * have mercy upon us.
-O Lord, let thy mercy lighten upon us, * as our trust is in thee.
-O Lord, in thee have I trusted, * let me never be confounded.
+Pomáhej nám i dnes, ať se nedostaneme do područí hříchu.
+Smiluj se nad námi, Pane, smiluj se nad námi.
+Ať spočine na nás tvé milosrdenství, jak doufáme v tebe.
+Pane, k tobě se utíkáme, ať nejsme zahanbeni navěky.
 
 [Ante]
-/:kneel:/
-v. O Lord, open thou my mouth that I may bless thy Holy Name. Cleanse my heart from all vain, evil, and wandering thoughts; enlighten my understanding kindle my affections, that I may pray to, and praise thee with attention and devotion; and may worthily be heard before the presence of thy Divine Majesty. Through Christ our Lord. 
+/:vkleče:/
+v. Otevři, Pane, má ústa, abych chválil tvé svaté jméno. Očisti mé srdce od všech marnivých, zvrácených a jiných myšlenek, osvěť rozum, rozněť cit, abych mohl důstojně, soustředěně a zbožně recitovat toto posvátné Officium, a vysloužil si být vyslyšen před tváří tvé velebnosti. Skrze Krista našeho Pána.
 ℟. Amen. 
-v. Lord, in union with that Divine Intention wherewith thou didst thyself praise God, whilst thou wast on earth, I offer these Hours unto thee. 
+v. Pane, v jednotě s Jeho božským úmyslem, s nímž On sám zde na zemi přinášel chvály Bohu, tyto Hodinky ti i já přináším. 
 
 [Post]
-v. To the Most Holy and undivided Trinity, to the Manhood of our Lord Jesus Christ Crucified, to the fruitful Virginity of the most blessed and most glorious Mary, always a Virgin, and to the holiness of all the Saints be ascribed everlasting praise, honour, and glory, by all creatures, and to us be granted the forgiveness of all our sins, world without end.
+v. Svatosvaté a nerozdílné Trojici, ukřižovanému lidství našeho Pána Ježíše Krista, přeblažené a přeslavné plodné neporušenosti vždy Panny Marie i souhrnu všech Svatých buď ode všeho stvoření věčná chvála, čest a sláva, nám pak buď dáno odpuštění všech hříchů, po nekonečné věky věků. Amen
 ℟. Amen. 
 _
-℣. Blessed be the womb of the Virgin Mary which bore the Son of the Eternal Father. 
-℟. And blessed be the paps which gave suck to Christ our Lord. 
+℣. Blažené lůno Panny Marie, jež nosilo Syna věčného Otce. 
+℟. A blažené prsy, které kojily Krista Pána. 
 _
-r. Our Father
-r. Hail Mary
+r. Otče náš
+r. Zdrávas Maria
 
 [Conclmart]
 ℣. A jinde mnoho svatých mučedníků, vyznavačů a svatých panen.
@@ -212,7 +212,8 @@ $Deo gratias.
 <center><span style="color:red; font-size:1.25em">M</span>odleme se.</center><span style="font-size:0em"> </span>
 
 [Te decet]
-v. Thou art worthy of praise, thou art worthy of hymns, to Thee be glory: to God the Father and the Son with the Holy Ghost, world without end. Amen.
+v. Tobě patří chvála, tobě patří chvalozpěv, tobě patří sláva Boha Otce, a Syna, s Duchem Svatým na věky věkův. Amen.
+
 [MLitany]
 v. Pane, smiluj se; Kriste, smiluj se; Pane, smiluj se
 &pater_noster
