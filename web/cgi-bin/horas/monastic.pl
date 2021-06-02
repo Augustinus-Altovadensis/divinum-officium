@@ -276,7 +276,11 @@ sub antetpsalm_mm {
     }
   }
   if ($line[0] && $lastantiphon) { push(@s, "Ant. $lastantiphon"); push(@s, "\n"); }
-  if ($line[0]) { push(@s, "Ant. $line[0]"); $lastantiphon = $line[0]; }
+  #if ($line[0]) { push(@s, "Ant. $line[0]"); $lastantiphon = $line[0]; }
+   if ($line[0]) {
+    my $ant1 = ($version =~ /Cistercian/) ? substr($line[0], 0, index($line[0], '*')) : $line[0];
+    push(@s, "Ant. $ant1"); $lastantiphon = $line[0];
+  }
   my $p = $line[1];
   my @p = split(';', $p);
   my $i = 0;
@@ -367,7 +371,7 @@ sub legend_monastic {
   push(@s, responsory_gloria($resp, 3));
 }
 
-#*** brevis_monstic($lang)
+#*** brevis_monastic($lang)
 sub brevis_monastic {
   my $lang = shift;
   absolutio_benedictio($lang);
