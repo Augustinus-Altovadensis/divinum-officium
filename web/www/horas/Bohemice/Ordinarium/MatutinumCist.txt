@@ -13,7 +13,7 @@ _
 
 #Oratio
 
-!Zbytek se vynechává, pokud se %Lauds% neříkají zvlášť.
+!Zbytek se vynechává, pokud se %Laudy% neříkají zvlášť.
 
 #Conclusio
 &Dominus_vobiscum
