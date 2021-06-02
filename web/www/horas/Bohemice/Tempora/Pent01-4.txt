@@ -12,207 +12,186 @@ Doxology=Corp
 No Commemoratio
 
 [Ant Vespera]
-Christ the Lord, being made an High Priest for ever * after the order of Melchisedec, hath offered bread and wine.;;109
-He hath made His wonderful works to be remembered; * the Lord is gracious and full of compassion. He hath given meat unto them that fear Him.;;110
-I will take the cup of salvation, * and offer the sacrifice of thanksgiving.;;115
-Let the children of the Church be like olive-plants * round about the table of the Lord.;;127
-The Lord, That maketh peace in the borders of the Church, * filleth her with the finest of the wheat.;;147
+Knězem navěky * Kristus Pán podle řádu Melchizedechova, obětoval chléb a víno.;;109
+Milosrdný Hospodin * dal pokrm těm, kteří se ho bojí, na památku podivuhodných věcí, které učinil .;;110
+Kalich spásy, * vezmu: a obětovat budu oběť chvály.;;115
+Jako výhonky oliv * ať jsou děti Církve kolem stolu Páně.;;127
+Ten, jenž pokoj * zavedl v končinách Církve, jadrnou pšenicí sytí nás Hospodin;.;;147
 
 [Capitulum Vespera]
-!1 Cor 11:23-24
-v. Brothers: For I have received of the Lord that which also I delivered unto you, that the Lord Jesus, the same night in which he was betrayed, took bread. And giving thanks, broke, and said: Take ye, and eat: this is my body, which shall be delivered for you: this do for the commemoration of me.
+!1 Kor 11:23-24
+v. Bratři: Co jsem od Pána přijal, v tom jsem vás také vyučil: Pán Ježíš právě tu noc, kdy byl zrazen, vzal chléb, vzdal díky, rozlámal jej a řekl: „Vezměte a jezte. Toto je moje tělo, které se za vás vydává. To čiňte na mou památku“.
 $Deo gratias
 
 [Hymnus Vespera]
-v. Sing, my tongue, the Saviour's glory,
-Of his flesh the mystery sing;
-Of the blood, all price exceeding,
-Shed by our immortal King,
-Destined, for the world's redemption,
-From a noble womb to spring.
+v. Chvalte, ústa, vznešeného
+těla Páně tajemství,
+chvalte předrahou krev jeho,
+kterou z milosrdenství,
+zrozen z lůna panenského,
+prolil Král všech království.
 _
-Of a pure and spotless Virgin
-Born for us on earth below,
-He, as man, with man conversing,
-Stayed, the seeds of truth to sow;
-Then he closed in solemn order
-Wondrously his life of woe.
+Nám byl dán a nám se zrodil
+z Panny neporušené,
+jako poutník světem chodil,
+sil zde zrno pravdy své,
+skvělým řádem vyvrcholil
+svoje žití pozemské.
 _
-On the night of that last supper
-Seated with his chosen band,
-He, the paschal victim eating,
-First fulfills the law's command:
-Then as food to all his brethren
-Gives himself with his own hand.
+Na poslední večer k stolu
+s bratřími když zasedal,
+beránka by s nimi spolu
+podle zvyku pojídal,
+dvanácteru Apoštolů
+za pokrm sám sebe dal.
 _
-Word made flesh, the bread of nature
-By his word to flesh he turns;
-Wine into his blood he changes:
-What though sense no change discerns?
-Only be the heart in earnest,
-Faith her lesson quickly learns.
+Slovo v těle slovu dává
+moc chléb v tělo proměnit,
+z vína Boží krev se stává.
+I když Pán je smyslům skryt,
+stačí sama víra pravá
+srdce čisté přesvědčit.
 _
-!If the Office is celebrated before the exposed Blessed Sacrament, the following verses are said on bended knee.
+!Pokud se Officium slaví před vystavenou Nejsvětější Svátostí, poslední dvě sloky se říkají na kolenou.
 _
-Down in adoration falling,
-Lo! the sacred Host we hail;
-Lo! o'er ancient forms departing,
-Newer rites of grace prevail;
-Faith for all defects supplying,
-Where the feeble senses fail.
+Před svátostí touto slavnou
+v úctě skloňme kolena,
+bohoslužbu starodávnou
+nahraď nová, vznešená,
+doplň smysly, které slábnou,
+víra s láskou spojená.
 _
-To the everlasting Father,
-And the Son who reigns on high,
-With the Holy Ghost proceeding
-Forth from each eternally,
-Be salvation, honour, blessing,
-Might, and endless majesty.
+Otci, Synu bez ustání
+chvála nadšená ať zní,
+sláva, pocta, díkůvzdání
+naše chvály provází.
+Duchu též ať vše se klaní,
+který z obou vychází.
 Amen.
 
 [Versum 1]
-V. Thou didst send them from heaven, alleluia.
-R. Bread able to content every man's delight, alleluia.
+V. Chléb s nebe dal jsi jim, alleluia.
+R. Všechnu líbeznost v sobě mající, alleluia.
 
 [Ant 1]
-O Lord, how kindly is thy Spirit; * even thine, Whose sustenance declared thy sweetness unto thy children when Thou didst send them from heaven bread tempering itself to every man's liking. O Thou, Who hast filled the hungry with good things, and the rich, that are proud in the imagination of their hearts, Thou hast sent empty away.
+Ó jak sladký je, * Pane, tvůj duch, abys nám ukázal, jakou sladkost chováš ke svým dětem, dal jsi nám přesladký chléb z nebe, hladové sytíš dobrými věcmi, a nenasytné boháče propouštíš s prázdnou.
 
 [Oratio]
-O God, under a marvelous sacrament you have left us the memorial of thy Passion; grant us, we beseech thee, so to venerate the sacred mysteries of thy Body and Blood, that we may ever perceive within us the fruit of thy Redemption.
+Bože, tys nám v podivuhodné Svátosti oltářní zanechal památku svého umučení; dej nám, prosíme, abychom vždy svatá tajemství tvého Těla a tvé Krve tak uctívali, abychom v sobě směli navždy zakoušet jejich účinky:
 $Qui vivis
 
 [Invit]
-O come, and let us worship Christ, Of all the nations Lord, * Who doth, to them that feed on Him, The Bread of Life afford.
+Pojďme a klaňme se Kristu, panovníku národů: * Který dává ducha hojnosti těm, kdo jej požívají.
 
 [Hymnus Matutinum]
-v. At this our solemn feast,
-Let holy joys abound,
-And from the inmost breast
-Let songs of praise resound;
-Let ancient rites depart,
-And all be new around,
-In ev'ry act and voice and heart.
+v. K svátku tajemnému vroucně přistupujme,
+z hloubi duše k němu píseň zanotujme.
+Starého se vzdejme, všechno obnovujme, 
+srdce, řeč i skutky změňme.
 _
-Remember we that eve,
-When, the last supper spread,
-Christ, as we all believe,
-The lamb, with leavenless bread,
-Among his brethren shared,
-And thus the law obeyed,
-Of old unto their sires declared.
+Chvála na památku večeře se vzdává, 
+když v předvečer svátků beránka Pán dává, 
+s ním chléb nekvašený, dávno podle práva 
+v Písmech otcům přislíbený.
 _
-The typic lamb consumed,
-The legal feast complete,
-The Lord unto the twelve
-His body gave to eat;
-The whole to all, no less
-The whole to each, did mete
-With his own hands, as we confess.
+Když jsou nasyceni jídla tělesného, 
+Pán jim k podivení dá jíst těla svého: 
+vlastní rukou láme všem i pro každého, 
+sebe – chléb, jak vyznáváme.
 _
-He gave them, weak and frail,
-His flesh, their food to be;
-On them, downcast and sad,
-His blood bestowèd he:
-And thus to them he spake,
-“Receive this cup from me,
-And all of you of this partake.”
+Pán dal klesajícím tělo v posílení, 
+on dal litujícím krev svou k občerstvení. 
+Tento kalich, praví, je vám pro spasení, 
+pijte z něho věčné zdraví.
 _
-So he this sacrifice
-To institute did will,
-And charged his priests alone
-That office to fulfil:
-In them he did confide:
-To whom pertaineth still
-To take, and to the rest divide.
+Tím je provždy dána svátost Božích dětí, 
+ke cti Krista Pána, k spáse nám se světí. 
+Kněžím patří jíst a lidu rozdíleti, 
+tělo Páně v sboru bratří.
 _
-Thus angels' bread is made
-The bread of man today:
-The living bread from heaven
-With figures doth away:
-O wondrous gift indeed!
-The poor and lowly may
-Upon their Lord and Master feed.
+Z chleba andělského pro lid chléb se stává, 
+pod způsobou jeho skutečnost je pravá. 
+Ó div předivoucí: Nejchudším se dává, 
+v pokrm Kristus všemohoucí.
 _
-O Triune Deity,
-To thee we meekly pray,
-So mayst thou visit us,
-As we our homage pay;
-And in thy footsteps bright
-Conduct us on our way
-To where thou dwell'st in cloudless light.
+Bože trojjediný, z trůnu nebeského, 
+sestup do hlubiny duší lidu svého, 
+veď nás cestou spásy z kraje pozemského, 
+v světlo své a sídlo krásy.
 Amen.
 
 [Ant Matutinum]
-The Lord brought forth His fruit in the season of His death, * even that fruit whereof if any man eat, he shall live for ever.;;1
-His faithful ones which are increased by the fruit of His corn and His wine * do lay them down in peace and sleep in Christ.;;4
-Us, being many, hath the Lord made one body, * for we are all partakers of that one cup, which is not the communion of the blood of bulls, but of God Himself.;;15
-V. He gave them of the bread of heaven, alleluia.
-R. Man did eat Angels' bread, alleluia.
-The Lord remember our offering, * and accept our burnt-sacrifice.;;19
-The Lord prepareth His Table before us * in the presence of our enemies.;;22
-Let them that keep holiday around the table of the Lord * make the voice of joy and praise to be heard [in the house of God.];;41
-V. He fed them with the finest of the wheat, alleluia.
-R. And with honey out of the Rock did He satisfy them, alleluia.
-I will go unto the Altar of God * I will feed on Christ, Which is the Renewer of my youth.;;42
-The Lord hath fed us * with the finest of the wheat, and with honey out of the Rock hath He satisfied us.;;80
-It is at thine Altar, O Lord, * that we do feed on Christ, for Whom our heart and our flesh crieth out.;;83
-V. Thou bringest forth food out of the earth, alleluia.
-R. And wine that maketh glad the heart of man, alleluia.
+Spásonosný plos * dal Pán k ochutnání, když našel čas jeho smrti.;;1
+Z plodů obili * a vína jsou rozmnoženi věrní, kteří v pokoji Kristově umírají.;;4
+Ve společenství kalicha, * v kterém přijímáme samotného Boha, nikoliv ve společenství krve býčků, shromáždil nás Pán.;;15
+V. Chléb z nebe dal jim, alleluja.
+R. Chléb andělský pojedl člověk, alleluja.
+Ať se Hospodin rozpomene * na naši oběť, a náš celopal ať je tučný.;;19
+Připravuje * nám Pán svůj stůl proti všem, kdo nás ponižují.;;22
+Jásavým hlasem * ať volají ti, kdo večeří u stolu Páně;;41
+V. Nakrmil je jadrnou pšenicí, alleluia.
+R. A medem ze skály je nasytil, alleluia.
+Přistoupím * k Božímu oltáři: a přijmu Krista, který obnoví mou mladost.;;42
+Pán nás nakrmil * jadrnou pšenicí, a medem ze skály nás nasytil.;;80
+Z tvého oltáře, * Pane, přijímáme Krista: v němž jásá naše srdce i tělo.;;83
+V. Vyvádíš chléb ze země, alleluja.
+R. A vínem rozradostňuješ srdce člověka, alleluja.
 
 [Lectio1]
-Lesson from the first letter of St. Paul the Apostle to the Corinthians
+Čtení z prvního listu svatého Apoštola Pavla Korintským
 !1 Cor 11:20-22
-20 When you come therefore together into one place, it is not now to eat the Lord's supper.
-21 For every one taketh before his own supper to eat. And one indeed is hungry and another is drunk.
-22 What, have you not houses to eat and to drink in? Or despise ye the church of God; and put them to shame that have not? What shall I say to you? Do I praise you? In this I praise you not.
+20 Když se však shromažďujete vy, není to už společenství večeře Páně:
+21 každý z vás má tu troufalost, že hned začne jíst svou večeři, a jeden má třeba hlad, druhý se opije.
+22 Což nemáte své domácnosti, kde byste jedli a pili? Či snad pohrdáte Církví Boží a chcete zahanbit ty, kteří nic nemají? Co vám mám říci? Mám vás snad pochválit? Za to vás nechválím!
 
 [Responsory1]
-R. The whole assembly of the children of Israel shall kill the lamb toward the evening of the Passover.
-* And they shall eat the flesh, and unleavened bread.
-V. Even Christ our Passover is sacrificed for us therefore let us keep the feast with the unleavened bread of sincerity and truth.
-R. And they shall eat the flesh, and unleavened bread.
+R. Zástup synů israelských obětuje kozla v předvečer Paschy.
+* A budou jíst maso a nekvašené chleby.
+V. Naše Pascha - velikonoční beránek, který byl zabit - je Kristus: hodujme tedy nekvašené chleby upřímnosti a pravdy.
+R. A budou jíst maso a nekvašené chleby.
 
 [Responsory2]
-R. Ye shall eat flesh, and shall be filled with bread.
-* This is the bread which the Lord hath given you to eat.
-V. Moses gave you not that Bread from heaven, but My Father giveth you the true Bread from heaven.
-R. This is the bread which the Lord hath given you to eat.
+R. Budete jíst maso a nasyceni budete chleby.
+* On je ten chléb, který vám dal Pán k jídlu.
+V. Nebyl to Mojžíš, kdo vám dal chléb z nebe, ale můj Otec vám dává pravý chléb z nebe.
+R. On je ten chléb, který vám dal Pán k jídlu.
 
 [Lectio3]
-!1 Cor 11:27-32
-27 Therefore whosoever shall eat this bread, or drink the chalice of the Lord unworthily, shall be guilty of the body and of the blood of the Lord.
-28 But let a man prove himself: and so let him eat of that bread, and drink of the chalice.
-29 For he that eateth and drinketh unworthily, eateth and drinketh judgment to himself, not discerning the body of the Lord.
-30 Therefore are there many infirm and weak among you, and many sleep.
-31 But if we would judge ourselves, we should not be judged.
-32 But whilst we are judged, we are chastised by the Lord, that we be not condemned with this world.
+!1 Kor 11:27-32
+27 Kdo by tedy jedl tento chléb a pil kalich Páně nehodně, proviní se proti tělu a krvi Páně.
+28 Nechť tedy každý sám sebe zkoumá, a teprve potom jí tento chléb a pije z tohoto kalicha.
+29 Kdo jí a pije nehodně, jí a pije sám sobě odsouzení, neboť nesmýšlí správně o tělu Páně.
+30 Proto je mezi vámi tolik slabých a nemocných, a mnozí umírají.
+31 Kdybychom odsoudili sami sebe, nebyli bychom souzeni.
+32 Když nás však soudí Pán, je to k naší nápravě, abychom nebyli odsouzeni spolu se světem.
 
 [Responsory3]
-R. Elijah looked, and, behold, there was a cake baken on the coals at his head, and he arose, and did eat and drink;
-* And went in the strength of that meat [forty days and forty nights] unto the mount of God.
-V. If any man eat of this Bread, he shall live for ever.
-R. And went in the strength of that meat [forty days and forty nights] unto the mount of God.
+R. Elijáš pohlédl a viděl u své hlavy podpopelný chléb. Vstal tedy, jedl a pil;
+* a došel v síle toho chleba až k hoře Boží.
+V. Kdo však jí z tohoto chleba, bude žít navěky.
+R. A došel v síle toho chleba až k hoře Boží.
 &Gloria
-R. And went in the strength of that meat [forty days and forty nights] unto the mount of God.
+R. A došel v síle toho chleba až k hoře Boží.
 
 [Lectio4]
-From the Sermons of St. Thomas Aquinas
-!17th or 57th of his Opuscula, or Lesser Works
-The immeasurable benefits, which the goodness of God hath bestowed on Christian people, have conferred on them also a dignity beyond all price. "For what nation is there so great, who hath gods so nigh unto them, as the Lord, our God, is unto us?" (Deut. iv. 7.) The Only-begotten Son of God, being pleased to make us "partakers of the Divine nature," (2 Pet. i. 4,) took our nature upon Him, being Himself made Man that He might make men gods. And all, as much of ours as He took, He applied to our salvation. On the Altar of the Cross He offered up His Body to God the Father as a sacrifice for our reconciliation He shed His Blood as the price whereby He redeemeth us from wretchedness and bondage, and the washing whereby He cleanseth us from all sin. And for a noble and abiding memorial of that so great work of His goodness, He hath left unto His faithful ones the Same His very Body for Meat, and the Same His very Blood for Drink, to be fed upon under the appearance of bread and wine.
+Kázání svatého Tomáše Akvinského
+!Z menších děl č. 57
+Nesmírné dary božské štědrosti, které obdržel křes-ťanský lid, mu udělily nedocenitelnou důstojnost. Žádný jiný národ totiž není ani kdy nebyl tak veliký, že by se mu jejich bohové přiblížili tak, jako se nám přiblížil náš Bůh. Jednorozený Syn Boží totiž chtěl, abychom byli účastni jeho božství, takže přijal naši přirozenost, a aby z lidí učinil bohy, sám se stal člověkem. A navíc to, co z našeho přijal, to všechno nám udělil k naší spáse. Své tělo totiž pro naše smíření obětoval Bohu Otci na oltáři kříže. Krev svou prolil zároveň jako cenu vykoupení i prostředek k obmytí, abychom vykoupeni z ubohého otroctví byli očištěni ode všech hříchů. Aby nám tedy zůstala památka spojená s tak velikým dobrem, zanechal nám své Tělo jako pokrm a svou Krev jako nápoj pod podobou chleba a vína, aby je věřící mohli přijímat.
 
 [Responsory4]
-R. As they were eating, Jesus took bread, and blest it, and brake it, and gave it to the disciples, and said:
-* Take, eat this is My Body.
-V. The men of my tabernacle said: O that we had of his flesh, we cannot be satisfied.
-R. Take, eat this is My Body.
+R. Ještě když večeřeli, vzal Ježíš chléb, požehnal, a lámal, a dal svým učedníkům, a řekl.
+* Vezměte a jezte: toto je mé tělo.
+V. Řekli muži mého stánku: Kdo dá něco ze svého těla, abychom se nasytili?
+R. Vezměte a jezte: toto je mé tělo.
 
 [Lectio5]
-How precious a thing then, how marvelous, how health-giving, how furnished with all dainties, is the Supper [of the Lord!] Than His Supper can anything be more precious? Therein there is put before us for meat, not, as of old time, the flesh of bulls and of goats, but Christ Himself, our very God. Than this Sacrament can anything be more marvelous? Therein it cometh to pass that bread and wine are bread and wine no more, but in the stead thereof there is the Body and there is the Blood of Christ; that is to say, Christ Himself, Perfect God and Perfect Man, Christ Himself is there, under the appearance of a little bread and wine. His faithful ones eat Him, but He is not mangled; nay, when [the veil which shroudeth Him in] this Sacrament is broken, in each broken piece thereof remaineth whole Christ Himself, Perfect God and Perfect Man. All that the senses can reach in this Sacrament, [look, taste, feel, smell, and the like, all these] abide of bread and wine, but the Thing is not bread and wine. And thus room is left for faith; Christ Who hath a Form That can be seen, is here taken and received not only unseen, but seeming to be bread and wine, and the senses, which judge by the wonted look, are warranted against error.
+Ó jak předrahá a obdivuhodná hostina, spásonosná a veškerou sladkostí naplněná! Co by jen mohlo býti nad tuto hostinu dražšího? Hostina, ve které nikoliv již maso jalovic a kozlů, jak dáno bylo kdysi v zákoně, ale Kristus, pravý Bůh, se nám k přijímání předkládá. Co je podivuhodnější než tato Svátost? V ní se totiž chléb a víno v hloubi své podstaty proměňují v Kristovo Tělo a Krev, a tak je Kristus, dokonalý Bůh a dokonalý člověk, obsažen ve skromné podobě chleba a vína. Věřící jej tedy jedí, ale Pána tím nezraňují. Naopak, pokud se Nejsvětější Svátost dělí, v každé a jakékoliv částečce zůstává celý Bůh. Vnější znaky v ní tedy zůstávají zbaveny původní podstaty, aby zůstal prostor pro víru, viditelné je tedy přijímáno neviditel-ným způsobem, skryté pod jinou podobou. A smysly, které dle vnějších znaků poznávají věci známé, jsou jen vírou zbaveny klamu.
 
 [Responsory5]
-R. Jesus took the cup, after supper, saying: This cup is the New Testament in My Blood.
-* This do in remembrance of Me.
-V. My soul hath them still in remembrance, and is humbled in me.
-R. This do in remembrance of Me.
+R. Když povečeřeli, vzal Ježíš kalich a řekl: tento kalich je nová smlouva stvrzená mou krví.
+* To čiňte na mou památku.
+V. Budu si vše dobře pamatovat, a má duše bude vzdychat ve mě.
+R. To čiňte na mou památku.
 
 [Lectio6]
 Than this Sacrament can anything be more health-giving? Thereby are sins purged away, strength renewed, and the soul fed upon the fatness of spiritual gifts. This Supper is offered up in the Church both for the quick and dead it was ordained to the health of all, all get the good of it. Than this Sacrament can anything be more furnished with dainties The glorious sweetness thereof is of a truth such that no man can fully tell it. Therein ghostly comfort is sucked from its very well-head. Therein a memorial is made of that exceeding great love which Christ showed in time of His sufferings. It was in order that the boundless goodness of that His great love might be driven home into the hearts of His faithful ones, that when He had celebrated the Passover with His disciples, and the last Supper was ended, "the Lord Jesus, knowing that His hour was come that He should depart out of this world unto the Father, having loved His own which were in the world, He loved them unto the end," (John xiii. 1,) and instituted this Sacrament, this Sacrament, the everlasting "forth-showing of His death until He come again," (1 Cor. xi. 26,) this Sacrament, the embodied fulfilment of all the ancient types and figures, this Sacrament, the greatest miracle which He ever wrought, and the one mighty joy of them that now have sorrow, till He shall come again, and their heart shall rejoice, and their joy no man take from them. (John xvi. 22.)
@@ -226,72 +205,72 @@ R. This is the Bread Which cometh down from heaven, that a man may eat thereof, 
 R. This is the Bread Which cometh down from heaven, that a man may eat thereof, and not die.
 
 [Lectio7]
-From the Holy Gospel according to John
-!John 6:56-59
-At that time: Jesus said unto the multitudes of the Jews: My Flesh is meat indeed, and My Blood is drink indeed. And so on. 
+Čtení svatého Evangelia podle Jana
+!Jan 6:56-59
+Za onoho času řekl Ježíš zástupům Židů: „Tělo mé pravý jest pokrm, a krev má pravý jest nápoj.“ A ostatní. 
 _
-Homily by St. Augustine, Bishop (of Hippo) 
-!26th Tract on John
-By use of meat and drink men would fain that "they shall hunger no more, neither thirst any more," (Apoc. vii. 16,) and yet there is but one Meat and one Drink, Which doth work in them that feed thereon that "this corruptible must put on incorruption, and this mortal put on immortality," (1 Cor. xv. 53,) namely communion with that general assembly and Church of God's holy children, who are "kept in perfect peace," (Isa. xxvi. 3,) and are "all one," (John xvii. 11,) fully and utterly. And therefore it is, as men of God before our time have taken it, that our Lord Jesus Christ hath set before us His Body and His Blood in the likeness of things which, from being many, are reduced into one. In one loaf are many grains of corn, and one cup of wine the juice of many grapes. And now He giveth us to know how that which He spake cometh to pass, and how indeed "this Man can give us His Flesh to eat," and His Blood to drink.
+Kázání svatého Augustina, Biskupa (z Hippo) 
+!Pojednání 26. na Jana, ke konci
+Pomocí jídla a pití chtějí lidé dosáhnouti toho, aby nehladověli a nežíznili. To se ale ve skutečnosti nestane, pokud onen pokrm a nápoj, který přijímají, je nečiní nesmrtelnými a neporušitelnými; to znamená pokud nemají účast na samotném společenství svatých, kde bude pokoj a plná a dokonalá jednota. Proto tedy, jak již před námi poznali mužové Boží, náš Pán Ježíš Kristus nám zanechal své Tělo a Krev v takových věcech, které jsou vytvořeny spojením mnoha částí vjedno. Neboť chléb se peče z mnoha zrn spojených vjedno, víno nám splývá z mnoha vinných bobulí. A proto Pán již vysvětlil, jak by se mohlo stát to, o čem mluví, a co znamená jísti jeho Tělo a píti jeho Krev.
 
 [Responsory7]
-R. He that eateth My Flesh and drinketh My Blood,
-* Dwelleth in Me, and I in him.
-V. What nation is there so great, who hath gods so nigh unto them, as the Lord our God is to us
-R. Dwelleth in Me, and I in him.
+R. Kdo jí mé tělo a pije mou krev,
+* zůstává ve mně a já v něm.
+V. Žádný jiný národ není tak velký, aby měl bohy, kteří se k němu přiblížili, jak se náš Bůh přiblížil k nám.
+R. Zůstává ve mně a já v něm.
 
 [Lectio8]
-"He that eateth My Flesh, and drinketh My Blood, dwelleth in Me, and I in him." To dwell in Christ, therefore, and to have Him dwelling in us, is to "eat of that Bread and drink of that Cup," (1 Cor. xi. 28,) and he which dwelleth not in Christ, and in whom Christ dwelleth not, without all doubt doth not spiritually eat His Flesh nor drink His Blood, although he do carnally and visibly press the Sacrament with his teeth but, contrariwise, he "eateth and drinketh damnation to himself," because he dareth to draw nigh filthy to that secret and holy thing of Christ, whereunto none draweth nigh worthily, save he which is pure, even he which is of them concerning whom it is said: "Blessed are the pure in heart, for they shall see God." (Matth. v. 8.)
+„Kdo jí mé Tělo a pije mou Krev, zůstává ve mně a já v něm.“ Jísti tedy onen pokrm a píti onen nápoj znamená zůstávat v Kristu a on pak zůstává v nás. (1 Kor. xi. 28,) A proto, pokud kdo nezůstává v Kristu a Kristus nezůstává v něm, beze vší pochyby duchovně nepožívá jeho Tělo ani nepije jeho Krev, i když tělesně a viditelně do svých úst přijme Svátost Těla a Krve Kristovy. Spíše pak takovou Svátost jí a pije ke svému odsouzení, neboť se nečistý opovážil přistoupit ke Kristovým Svátostem, které pokud někdo přijímá a není čistý, přijímá je nehodně. O tom se pak říká: „Blažení čistí srdcem, neboť oni uvidí Boha.“ (Mat. v. 8.)
 
 [Responsory8]
-R. As the living Father hath sent Me, and I live by the Father,
-* So he that eateth Me, even he shall live by Me.
-V. With the bread of life and understanding hath the Lord fed him.
-R. So he that eateth Me, even he shall live by Me.
+R. Jak mě poslal živý Otec, a já žiji skrze Otce,
+* Tak i ten, kdo jí mne, bude žít skrze mne.
+V. Živil jej Pán chlebem života a poznání.
+R. Tak i ten, kdo jí mne, bude žít skrze mne.
 &Gloria
-R. So he that eateth Me, even he shall live by Me.
+R. Tak i ten, kdo jí mne, bude žít skrze mne.
 
 [Lectio9]
-"As the living Father hath sent Me, and I live by the Father, so he that eateth Me, even he shall live by Me." This is as though He said: The Father hath sent Me into the world (John x. 36,) and I have emptied Myself [and taken upon Me the form of a servant, and being found in fashion as a man], (Phil. ii. 7, 8.) I have My life from the Father, as One That is greater than I. (John xiv. 28.) He that eateth Me, even he, by thereby taking part in Me, shall live by Me. It is as having humbled Myself (Phil. ii. 8) that I live by the Father, but he that eateth Me, him will I raise up, (John vi. 55,) and so he shall live by Me. It is said "I live by the Father" that is to say, He is of the Father, not the Father of Him, and yet not so, but that the Father and the Son are co-equal together. Also it is said "So he that eateth Me, even he shall live by Me," whereby He showeth the gracious work towards His people of Him Who is the "one Mediator between God and man," (1 Tim. ii. 5,) and not that He Which is eaten and he which eateth Him are co-equal together.
+Pán praví: „Jako mne poslal živý Otec a já jsem živ skrze Otce, tak i ten, kdo jí mne, živ bude skrze mne.“ (Jan x. 36,) Jako by řekl „Abych já mohl býti živ skrze Otce,“ to znamená, že k němu jako většímu vztahuji svůj život, a on způsobil mé vyprázdnění, v němž mne poslal (Phil. ii. 7, 8.). Aby však člověk žil skrze mne, to způsobí pouze účast na mém Těle. Já tedy ponížen žiji skrze Otce (Jan xiv. 28.), člověk však s hlavou vztyčenou žije skrze mne. It is said "I live by the Father" that is to say, He is of the Father, not the Father of Him, and yet not so, but that the Father and the Son are co-equal together. Also it is said "So he that eateth Me, even he shall live by Me," whereby He showeth the gracious work towards His people of Him Who is the "one Mediator between God and man," (1 Tim. ii. 5,) and not that He Which is eaten and he which eateth Him are co-equal together.
 &teDeum
 
 [Ant Laudes]
-Wisdom hath builded her house, * she hath mingled her wine, she hath also furnished her table, alleluia.
-Thou feddest thine Own people * with Angels' food, and didst send them bread from heaven, alleluia.
-Out of Christ His bread shall be fat, * and He shall yield royal dainties, alleluia.
-The Priests shall be holy; * for the offerings of the Lord made by fire, and the bread of their God, they do offer, [therefore they shall be holy], alleluia.
-To him that overcometh will I give of the hidden manna, * and will give him a new name, alleluia.
+Moudrost * si zbudovala dům, smísila víno a prostřela stůl, alleluja.
+Andělským pokrmem * jsi krmil svůj lid, a chléb z nebe jsi jim seslal, alleluja.
+Tučná je pastva * Christova, a nabídne lahůdky králům, alleluja.
+Svatí kněží * obětují Bohu kadidlo a chléb, alleluja.
+Vítězi dám * skrytou manu, a nové jméno, alleluja.
 
 [Hymnus Laudes]
-v. The heav'nly Word proceeding forth,
-Yet leaving not the Father's side,
-And going to his work on earth
-Had reached at length life's eventide.
+v. Slovo, jež shůry vychází,
+ruku Otce neopouští; 
+přišel vykonat své dílo,
+konec života se blíží.
 _
-By false disciple to be given
-To foemen for his blood athirst,
-Himself, the living bread from heaven,
-He gave to his disciples first.
+Dřív než ho na smrt učedník
+vydal jeho nepřátelům,
+on jako pokrm života
+sám se vydal učedníkům.
 _
-To them he gave, in twofold kind,
-His very flesh, his very blood:
-In love's own fullness thus designed
-Of the whole man to be the food.
+Pod dvojími způsobami
+tělo jim dal a krev svoji,
+aby v pokrmu ukázal
+člověka podstaty dvojí.
 _
-By birth, our fellow-man was he;
-Our meat, while sitting at the board;
-He died, our ransomer to be;
-He ever reigns, our great reward.
+Narodil se pro přátele,
+s nimi teď slaví hostinu.
+Zemře jako cena za svět,
+v království svém dá odměnu.
 _
-O saving victim, opening wide
-The gate of heaven to man below,
-Our foes press on from every side,
-Thine aid supply, thy strength bestow.
+Ó spasitelná oběti,
+nebes bránu nám otvíráš.
+Když nepřítel nás sužuje,
+dej sílu, pomoc přinášej.
 _
-To thy great name be endless praise,
-Immortal Godhead, One in Three;
-O grant us endless length of days
-In our true native land, with thee.
+Jednomu Bohu v Trojici
+ať sláva věčná se vzdává,
+on potom život bez konce
+v nebeské vlasti kéž nám dá.
 Amen.
 
 [Versum 2]
