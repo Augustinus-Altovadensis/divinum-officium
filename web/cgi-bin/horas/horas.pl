@@ -283,6 +283,7 @@ sub pater_noster : ScriptFunc {
 sub teDeum : ScriptFunc {
   my $lang = shift;
   our %prayers;
+  if ($version =~ /Cistercian/i) { return "\n_\n!Te Deum\n$prayers{$lang}->{'Te Deum Cist'}"; }
   return "\n_\n!Te Deum\n$prayers{$lang}->{'Te Deum'}";
 }
 
@@ -347,7 +348,6 @@ sub Gloria : ScriptFunc {
 
 sub Gloria1 : ScriptFunc {    #* responsories
   my $lang = shift;
- # if ( $version =~ /Cistercian/i ) { return "" ; }
   if ($dayname[0] =~ /(Quad5|Quad6)/i && $winner !~ /Sancti/i && $rule !~ /Gloria responsory/i) { return ""; }
   our %prayers;
   return $prayers{$lang}->{'Gloria1'};
@@ -1000,7 +1000,7 @@ sub canticum : ScriptFunc {
 
   if (@w = do_read($fname)) {
     $w[0] =~ s/\!//;
-    if ( $version =~ /Cistercian/i ) { $w[1] =~ s/\+//; }
+    if ( $version =~ /Cistercian/i ) { $w[1] =~ s/\+//; }   # trim all Crosses (from canticles)
     $w .= setfont($redfont, shift(@w)) . settone(2) . "\n";
 
     foreach $item (@w) {

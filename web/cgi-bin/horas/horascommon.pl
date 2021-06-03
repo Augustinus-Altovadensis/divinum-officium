@@ -1798,18 +1798,20 @@ sub spell_var {
     $t =~ s/\bco(t[ií]d[ií])/quo$1/g;
   }
   if (our $version =~ /Cistercian/) {
-	$t =~ s/cæl/cœl/g;
+	  $t =~ s/cæl/cœl/g;
     $t =~ s/Cæl/Cœl/g;
-	$t =~ s/cǽl/cœl/g;
+	  $t =~ s/cǽl/cœl/g;
     $t =~ s/Cǽl/Cœl/g;
     $t =~ s/cael/cœl/g;
     $t =~ s/Cael/Cœl/g;
-	$t =~ s/caríssi/charíssi/g;
-	$t =~ s/Caríssi/Charíssi/g;
+	  $t =~ s/caríssi/charíssi/g;
+	  $t =~ s/Caríssi/Charíssi/g;
     $t =~ s/carit/charit/g;
-	$t =~ s/Carit/Charit/g;
+	  $t =~ s/Carit/Charit/g;
     $t =~ s/cárit/chárit/g;
-	$t =~ s/Cárit/Chárit/g;
+	  $t =~ s/Cárit/Chárit/g;
+  #  $t =~ s/^V. /^℣. /g;
+  #  $t =~ s/^R. /^℟. /g;
     }
   return $t;
 }

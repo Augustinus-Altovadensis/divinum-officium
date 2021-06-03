@@ -12,7 +12,7 @@ Doxology=Corp
 No Commemoratio
 
 [Ant Vespera]
-Knězem navěky * Kristus Pán podle řádu Melchizedechova, obětoval chléb a víno.;;109
+Kněz navěky * Kristus Pán podle řádu Melchizedechova, obětoval chléb a víno.;;109
 Milosrdný Hospodin * dal pokrm těm, kteří se ho bojí, na památku podivuhodných věcí, které učinil .;;110
 Kalich spásy, * vezmu: a obětovat budu oběť chvály.;;115
 Jako výhonky oliv * ať jsou děti Církve kolem stolu Páně.;;127

@@ -848,7 +848,6 @@ sub psalmi_minor {
 
   postprocess_ant($ant, $lang);
   $ant1 = ($version !~ /1960|monastic/i) ? $ant[0] : $ant;    #difference between 1955 and 1960
-  $ant1 = ($version =~ /Cistercian/i) ? $ant[0] : $ant;    #difference between 1955 and 1960
   setcomment($label, 'Source', $comment, $lang, $prefix);
   $psalms =~ s/\s//g;
   @psalm = split(',', $psalms);
@@ -1068,7 +1067,8 @@ sub psalmi_major {
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-  if ($version =~ /monastic/i && $version !~ /Cistercian/i) {
+  #if ($version =~ /monastic/i && $version !~ /Cistercian/i) {
+  if ($version =~ /monastic/i) {
     antetpsalm_mm('', -1);
     for ($i = 0; $i < @psalmi; $i++) { antetpsalm_mm($psalmi[$i], $i); }
     antetpsalm_mm('', -2);
@@ -1090,10 +1090,13 @@ sub antetpsalm {
   my @line = split(';;', $line);
   my @ant = split('\*', $line[0]);
   my $ant = $line[0];
+  our $ant_laudes;
 
-  $ant[0] =~ tr/,/./;
-  substr ($ant[0], -1) = "."; #  Adds a dot to verse incipit (looks better)
-  $ant[0] =~ s/.(?!.)//g;   #  (only one...)
+  if ( $version =~ /Cistercian/i ) {
+    $ant[0] =~ s/\s+$// ; $ant[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
+    $ant[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant[0] .= " " ;
+    }
 
   postprocess_ant($ant, $lang);
   my $ant1 = ($duplex > 2 || $version =~ /1960|Monastic/i) ? $ant : $ant[0];    #difference between 1955, 1960
@@ -1116,7 +1119,21 @@ sub antetpsalm {
     }
   }
 
-  if ($version =~ /Cistercian/i) { $ant1 = $ant[0]; }                       #no doubling in Cist. rite
+if ( $hora =~ /laudes/i && $version =~ /Cistercian/i )
+  {
+    if ($ind == 0) {
+      $ant1 = $ant[0];
+      $ant_laudes = $ant;
+      $ant = '';
+    } elsif ($last) {
+      $ant1 = '';
+      $ant = $ant_laudes;
+    } else {
+      $ant1 = $ant = '';
+    }
+  }
+
+  if ( $hora !~ /laudes/i && $version =~ /Cistercian/i) { $ant1 = $ant[0]; } #no doubling in Cist. rite
 
   if ($hora =~ /Matutinum/i && $dayname[0] =~ /Pasc[1-6]/i) { ($ant1, $ant) = ant_matutinum($ant1, $ant, $ind); }
   $ant1 =~ s/\;\;[0-9\;n]+//;

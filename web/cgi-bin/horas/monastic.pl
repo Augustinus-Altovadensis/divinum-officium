@@ -248,6 +248,7 @@ sub antetpsalm_mm {
   my $ind = shift;
   my @line = split(';;', $line);
   our $lastantiphon;
+  our $ant_laudes;
   $lastantiphon =~ s/\s+\*//;
 
   if ($ind == -1) { $lastantiphon = ''; return; }
@@ -275,10 +276,25 @@ sub antetpsalm_mm {
       if ($ind == 4) { $line[0] = Alleluia_ant($lang, 0, 0); }
     }
   }
+
+
+  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i )
+    {
+      if ($ind == 0) { $lastantiphon = '' ; $ant_laudes = $line[0] ; }
+      if ($ind == 1) { $line[0] = ''; $lastantiphon = ''; }
+      if ($ind == 2) { $line[0] = ''; $lastantiphon = ''; }
+      if ($ind == 3) { $line[0] = ''; $lastantiphon = ''; }
+      if ($ind == 4) { $line[0] = ''; $lastantiphon = $ant_laudes; }
+    }
+
   if ($line[0] && $lastantiphon) { push(@s, "Ant. $lastantiphon"); push(@s, "\n"); }
   #if ($line[0]) { push(@s, "Ant. $line[0]"); $lastantiphon = $line[0]; }
    if ($line[0]) {
-    my $ant1 = ($version =~ /Cistercian/) ? substr($line[0], 0, index($line[0], '*')) : $line[0];
+    my $ant1 = ($version =~ /Cistercian/i) ? substr($line[0], 0, index($line[0], '*')) : $line[0];
+    if ($version =~ /Cistercian/i) {
+      $ant1 =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
+      $ant1 =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+      }
     push(@s, "Ant. $ant1"); $lastantiphon = $line[0];
   }
   my $p = $line[1];
@@ -389,7 +405,7 @@ sub brevis_monastic {
     $lectio  = $b{"MM LB" . (($dayname[0] =~ /Pasc/) ? " Pasc" : $dayofweek)};
   }
   $lectio =~ s/&Gloria1?/&Gloria1/;
-  if ( $version =~ /Cistercian/i ) { $lectio =~ s/&Gloria1?//i; }
+  #if ( $version =~ /Cistercian/i ) { $lectio =~ s/&Gloria1?//i; }
   push(@s, $lectio);
 }
 
