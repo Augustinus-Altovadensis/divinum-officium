@@ -198,6 +198,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
 	$line =~ s/Ordinis Sancti Joannis hospitalis in Jerusalem/hospitálního Řádu svatého Jana v Jeruzalémě/ig;
 	$line =~ s/huius loci abbatis/Opata tohoto kláštera/ig;
+	$line =~ s/huius loci professus/profes tohoto kláštera/ig;
+	$line =~ s/huius loci professi/profese tohoto kláštera/ig;
 	$line =~ s/cum vitam finire vellet/když se chystal na konec života/ig;
 	$line =~ s/honorifice/s poctami/ig;
 	$line =~ s/terrae traditus est/byl vydán zemi/ig;
@@ -580,6 +582,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/lotionarius/valchář/ig;
 	$line =~ s/scriniator/bednář/ig;
 	$line =~ s/eiusdem/jeho/ig;
+	$line =~ s/pistor/pekař/ig;
 
 	$line =~ s/pater eius/jeho otec/ig;
 	$line =~ s/pater /otec /ig;
