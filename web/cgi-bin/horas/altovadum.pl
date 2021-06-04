@@ -55,8 +55,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Wellehradensis/velehradský/ig;
 	$line =~ s/Wellehradii/na Velehradě/ig;
 	$line =~ s/Hilariae/ve Wilheringu/ig;
-	$line =~ s/monasterii Sedlicensis|monasterii Sedlecensis/sedlckého kláštera/ig;
-	$line =~ s/Sedlicensis|Sedlecensis/sedlcký/ig;
+	$line =~ s/monasterii Sedlicensis|monasterii Sedlecensis/sedleckého kláštera/ig;
+	$line =~ s/Sedlicensis|Sedlecensis/sedlecký/ig;
 	$line =~ s/in Valle Mariae/v klášteře Marienthal/ig;
 	$line =~ s/in Waldsassen/v klášteře Waldsassen/ig;
 	$line =~ s/Sionensis/strahovský/ig;
@@ -111,6 +111,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Oberheid|Mericae Superioris/v Horním Dvořišti/ig;
 	$line =~ s/Unterhaydii/v Dolním Dvořišti/ig;
 	$line =~ s/Unterheid|Merica Inferioris|Merica inferior/Dolní Dvořiště/ig;
+	$line =~ s/Rosenthalii/v Rožmitálu/ig;
 	$line =~ s/Rosenthal/Rožmitál/ig;
 	$line =~ s/Priethalium|Priethal/Přídolí/ig;
 	$line =~ s/Cajoviae/v Kájově/ig;
@@ -122,7 +123,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Strakonicensis/strakonický/ig;
 	$line =~ s/Tarnoviensis/trnavského/ig;
 	$line =~ s/Strobniciensis/stropnický/ig;
-	$line =~ s/Strobnicii|in Strobnitz/ve Stropnici/ig;
+	$line =~ s/Strobnicii|in Strobnitz|Strobnitzii/ve Stropnici/ig;
+	$line =~ s/Strobnicium|Strobnitz|Strobnitzium|Stropnicz/Stropnice/ig;
 	$line =~ s/Kalschingensis|Chvalšinensis/chvalšinský/ig;
 	$line =~ s/Kalschingae/ve Chvalšinách/ig;
 	$line =~ s/Kalsching/Chvalšiny/ig;
@@ -188,7 +190,9 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Walschbirken/Vlachovo Březí/ig;
 	$line =~ s/Kuttenberg/Kutná Hora/gi;
 	$line =~ s/Zebnicz/Žebnice/gi;
+	$line =~ s/Winterberg/Vimperk/gi;
 	$line =~ s/de Novo Castro/z Jindřichova Hradce/gi;
+	$line =~ s/Lzin/Lžín/gi;
 
 
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
@@ -251,7 +255,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/prior emeritus/emeritní převor/ig;
 	$line =~ s/prior.administrator/převor-administrátor/ig;
 	$line =~ s/prior( |,|.)/převor$1/ig;
-	$line =~ s/Religiosus|Religiosa/Řeholní/gi;
+	$line =~ s/Religiosus|Religiosa|Rel\./Řeholní/gi;
 	$line =~ s/ Frater | Fr\. / bratr /gi;
 	$line =~ s/Reverendus/Důstojný/gi;
 	$line =~ s/Conversus/konvrš/gi;
@@ -305,6 +309,10 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/(\w+) honoratus/ctěný $1/gi;
 	$line =~ s/ levati / zrušeného /gi;
 	$line =~ s/ obiit / zesnul /gi;
+	$line =~ s/oriundus/, který pochází/gi;
+	$line =~ s/historiæ ecclesiasticæ/církevních dějin/gi;
+	$line =~ s/iuris canonici/kanonického práva/gi;
+	$line =~ s/concionator/kazatel/gi;
 	
 	$line =~ s/Quirini/Quirina/ig;
 	$line =~ s/illustrissimum dominum/nejjasnějšího pána/gi;
@@ -396,14 +404,14 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/hiuis/huius/ig;
 	$line =~ s/huius loci|huius coenobii/tohoto kláštera/ig;
 	$line =~ s/domni abbatis/pana opata/ig;
+	$line =~ s/quaesturae provisor/finanční správce/gi;
 	$line =~ s/administrator (.*)emeritus/emeritní administrátor $1/gi;
-	$line =~ s/administrator/administrátor/gi;
+	$line =~ s/administrator|provisor/administrátor/gi;
 	$line =~ s/procurator/správce/gi;
 	$line =~ s/aurifaber/zlatník/gi;
 	$line =~ s/pharmacopoia/lékárník/gi;
 	$line =~ s/granarius/správce sýpky/gi;
-	$line =~ s/quaesturae provisor/finanční správce/gi;
-	$line =~ s/provisor/správce/gi;
+	#$line =~ s/provisor/správce/gi;
 	$line =~ s/gymnasii/gymnázia/gi;
 	$line =~ s/Ordinis doctor theologus/řádový doktor teologie/gi;
 	$line =~ s/Ordinis cisterciensis|cisterciensis Ordinis/cisterciáckého Řádu/gi;
@@ -510,7 +518,9 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/illustris/přejasný/g;
 	$line =~ s/illustrem/přejasného/g;
 	$line =~ s/primus/první/ig;
+	$line =~ s/secundus/druhý/ig;
 	$line =~ s/primi/prvního/ig;
+	$line =~ s/secundi/druhého/ig;
 	$line =~ s/camerarius/komorník/ig;
 	$line =~ s/laudabiliter/chvályhodně/ig;
 	$line =~ s/persolvit/vykonával/ig;
@@ -635,6 +645,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/sepulta/pohřbená/ig;
 	$line =~ s/mensis/měsíce/ig;
 	$line =~ s/vixit/žil/ig;
+	$line =~ s/ecclesiae/kostely/ig;
 	
 	$line =~ s/Tertius/Třetí/g;
 	$line =~ s/tertius/třetí/g;
@@ -659,6 +670,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/professus iubilatus|professus jubilatus/profes po slavném jubileu/ig;
 	$line =~ s/sacerdos iubilatus|sacerdos jubilatus/kněz po slavném jubileu/ig;
 	$line =~ s/sacerdos/kněz/gi;
+	$line =~ s/professus de/profes z kláštera/ig;
 	$line =~ s/professus/profes/ig;
 	$line =~ s/professi/profese/ig;
 	$line =~ s/ibidem/na témž místě/ig;
