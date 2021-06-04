@@ -11,129 +11,126 @@ Antiphonas horas
 Doxology=Corp
 
 [Capitulum Vespera]
-!1. John 3:13-14
-v. Wonder not, brethren, if the world hate you. We know that we have passed from death to life, because we love the brethren. He that loveth not, abideth in death.
+!1. Jan 3:13-14
+v. Nejdražší, nic se nedivte, že svět vás nenávidí. My víme, že jsme přešli ze smrti do života, a proto milujeme bratry. 
 $Deo gratias
 
 [Versum 1]
-V. He fed them with the finest of the wheat. Alleluia.
-R. And with honey out of the rock did He satisfy them. Alleluia.
+V. Krmil je jadrnou pšenicí. Alleluia.
+R. A medem ze skýly je nasytil. Alleluia.
 
 [Ant 1]
-The child Samuel ministered unto God * before Eli, and the word of the Lord was precious in his sight.
+Chlapec Samuel * sloužil Bohu před Elim, a slovo Páně bylo před ním drahé.
 
 [Oratio]
-O Lord, Who never failest to help and govern them whom Thou dost bring up in thy steadfast fear and love keep us, we beseech thee, under the protection of thy good providence, and make us to have a perpetual fear and love of thy Holy Name.
+Svatý Bože, dej, ať jsme naplněni úctou a láskou k tobě; vždyť ty nás stále miluješ, staráš se o nás jako  Otec a nikdy nás nepřestáváš vést.
 $Per Dominum
 
 [Commemoratio 1]
 !Commemoratio de Octava Corporis Christi
-Ant. Holy exceedingly is the Supper of the Lord, * wherein we do feed on Christ, do show His death till He come, do get grace abundantly to our souls, and do take pledge of the glory which shall hereafter be revealed in us. Alleluia.
+Ant. O přesvatá hostino, na níž je přijímán Kristus. Uctívá se památka jeho urpení. Mysl se plní vděčností a dostává se nám závdavek budoucí slávy. Alleluja.
 _
-V. Thou didst send them from heaven Alleluia.
-R. Bread able to content every man's delight Alleluia
+V. Chléb s nebe dal jsi jim, Alleluja.
+R. Všechnu líbeznost v sobě mající, Alleluja
 _
 $Oremus
-O God, Who under a wonderful Sacrament hast left unto us whereby to show forth thy Suffering Death, grant unto us, we beseech thee, so reverently to handle the Sacred Mysteries of thy Body and thy Blood that we may alway feel within ourselves the fruit of thy Redeeming Work.
+Bože, tys nám v podivuhodné Svátosti oltářní zanechal památku svého umučení; dej nám, prosíme, abychom vždy svatá tajemství tvého Těla a tvé Krve tak uctívali, abychom v sobě směli navždy zakoušet jejich účinky:
 $Qui vivis
 
 [Lectio1]
 Lesson from the first book of Samuel
 !1 Sam 4:1-3
-1 And it came to pass in those days, that the Philistines gathered themselves together to fight: and Israel went out to war against the Philistines, and camped by the Stone of help. And the Philistines came to Aphec,
-2 And put their army in array against Israel. And when they had joined battle, Israel turned their backs to the Philistines, and there was slain in that fight here and there in the fields about four thousand men.
-3 And the people returned to the camp: and the ancients of Israel said: Why hath the Lord defeated us today before the Philistines? Let us fetch unto us the ark of the covenant of the Lord from Silo, and let it come in the midst of us, that it may save us from the hand of our enemies.
+1 V oněch dnech se stalo, že Pelištejci se shromáždili k boji: a Israel vytáhl do boje proti Pelištejcům. Utábořili se u Eben-ezeru (to je u Kamene pomoci); Pelištejci se utábořili v Afeku 
+2 a seřadili se proti Israeli. Rozpoutal se boj a Izrael byl od Pelištejců poražen; ti pobili v bitvě na poli asi čtyři tisíce mužů.
+3 Když se lid sešel v táboře, řekli israelští starší: „Proč nás Hospodin dnes před Pelištejci porazil? Vezměme si ze Šíla schránu Hospodinovy smlouvy, ať přijde mezi nás a zachrání nás ze spárů našich nepřátel.“
 
 [Lectio2]
 !1 Sam 5:4-11
-4 So the people sent to Silo, and they brought from thence the ark of the covenant of the Lord of hosts sitting upon the cherubims: and the two sons of Heli, Ophni and Phinees, were with the ark of the covenant of God.
-5 And when the ark of the covenant of the Lord was come into the camp, all Israel shouted with a great shout, and the earth rang again.
-6 And the Philistines heard the noise of the shout, and they said: What is this noise of a great shout in the camp of the Hebrews? And they understood that the ark of the Lord was come into the camp.
+4 Lid tedy poslal do Šíla a přinesli odtud schránu smlouvy Hospodina zástupů, trůnícího na cherubech. Se schránou Boží smlouvy tam byli oba synové Élího, Chofní a Pinchas.
+5 Když schrána Hospodinovy smlouvy přicházela do tábora, spustil všechen Israel mohutný válečný ryk, až země duněla.
+6 Pelištejci uslyšeli válečný ryk a ptali se: „Co znamená tento mohutný válečný ryk v táboře Hebrejů?“ Pak zjistili, že Hospodinova schrána přišla do tábora.
 
 [Lectio3]
 !1 Sam 4:7-11
-7 And the Philistines were afraid, saying: God is come into the camp. And sighing, they said:
-8 Woe to us: for there was no such great joy yesterday and the day before: Woe to us. Who shall deliver us from the hand of these high gods? these are the gods that struck Egypt with all the plagues in the desert.
-9 Take courage and behave like men, ye Philistines: lest you come to be servants to the Hebrews, as they have served you: take courage and fight.
-10 So the Philistines fought, and Israel was overthrown, and every man fled to his own dwelling: and there was an exceeding great slaughter; for there fell of Israel thirty thousand footmen.
-11 And the ark of God was taken: and the two sons of Heli, Ophni and Phinees, were slain.
+7 Tu se Pelištejci začali bát. Řekli: „Bůh přišel do jejich tábora.“ A naříkali: „Běda nám! Dosud se nic takového nestalo.
+8 Běda nám! Kdo nás vysvobodí z rukou těch vznešených bohů? To jsou přece ti bohové, kteří pobili Egypt všelijakými ranami na poušti. 
+9 Vzchopte se! Vzmužte se, Pelištejci, ať neotročíte Hebrejům, jako oni otročili vám. Vzmužte se a dejte se do boje!“ 
+10 Pelištejci tedy bojovali a Israel byl poražen; každý utíkal ke svému stanu. Byla to převeliká rána. Z Israele padlo třicet tisíc pěších.
+11  I Boží schrána byla vzata a oba synové Élího, Chofní a Pinchas, zahynuli.
 
 [Lectio4]
-From the Sermons of St. John Chrysostom Patriarch of Constantinople.
-!both Homily to the people of Antioch.
-His Word saith: "This is My Body." This we confess, and believe, and, with spiritual eyes, do see. Christ hath not left unto us Himself in such form as that we can see, hear, touch, smell, or taste Him and yet hath He left Himself unto us in things which we can see, hear, touch, smell, and taste, and which all men may understand. Thus also is it in baptism by mean of water, which men perceive outwardly, is given unto them a gift which they can grasp only inwardly, that is, a new birth. If we had no bodies, then would these things be given us without any outward and visible signs, but since we are here made up of souls and bodies, there are given unto our souls gifts which they can grasp, in outward signs which our bodies may perceive. How many there be which say I would that I could see His comely presence, His Face, His garments, even His shoes Behold, thou dost see and touch Him, yea, thou dost feed upon Him. And wouldest thou behold His raiment Lo, He hath given unto thee not only to behold it, but to feed upon it, and handle it, and take it into thyself.
+Z řeči sv. Jana Zlatoústého, Patriarchy konstantinopolského.
+!Z Řeči 60. k lidu z Antiochie.
+Protože Slovo řeklo: „Toto je mé Tělo,“ my to potvrzujeme i tomu věříme, a hledíme na ně zrakem intelektu. Kristus nám totiž nezanechal nic, co by dokázaly poznat naše smysly, avšak vše nám předal ve věcech, které jsou našim smyslům srozumitelné, a každý je chápe. Podobně je to ve křtu: skrze věc smyslům srozumitelnou, tedy vodu, je udělen tento dar. My však chápeme, co se ve skutečnosti stalo: zrození a obnovení. Kdybys tedy neměl tělo, dal by ti Pán všechny tyto dary prostě a nehmotně. Duše však je zaseta v těle, proto věci, které máme chápat, se musejí předávat tak, aby je mohly vnímat smysly. Kolikrát lidé říkají: „chtěl bych vidět, jak vypadá, jeho postavu, oděv, obuv“? Hle, zde jej vidíš, dotýkáš se jej, požíváš jej. Ty bys chtěl vidět jen jeho oděv. On ti však dovolí, abys nejen na něj pohlédl, ale dokonce jej snědl, dotkl se jej a přijal jej do svého nitra. 
 
 [Lectio5]
-At this table of the Lord let none dare to draw near with squeamishness or carelessness. Let all be fiery, all hot, all roused. To the Jews it was commanded touching the Paschal lamb, (Exod. xii. 11): "And thus shall ye eat it with your loins girded, your shoes on your feet, and your staff in your hand and ye shall eat it in haste it is the Lord's Passover." But thou needest to be more watchful than they. They were just about to travel from Egypt to Palestine, and therefore they bore the guise of travellers but the journey that lieth before thee is from earth to heaven. And therefore it behoveth thee in all things to be on thy guard, for the punishment of him that eateth or~
-drinketh unworthily is no light one (1 Cor. xi. 27.) Bethink thee how thou art indignant against him which betrayed, and them that crucified the Lord and look to it well that thou also be not " Guilty of the Body and Blood of the Lord." As for them, they slew His Most Holy Body but thou, after all that He hath done for thee, dost thrust Him into thy polluted soul. For His love, it was not enough to be made Man, to be buffeted, and to be crucified He hath also mingled Himself with us, by making us His Body, and that not by faith only, but verily and indeed.
+Nikdo k němu tedy nepřistupuj s nechutí či lhostejností, vždy k němu přistupujte se zápalem, vroucností a nadšením. Neboť když i Židé jedli beránka ve stoje, s botami na nohou, holemi v ruce a ve spěchu Exod. xii. 11, o to více se sluší, abys ty byl ještě vynalézavější. Oni totiž měli namířeno pouze do Palestiny a proto se oblékali jako na cestu. Ty však musíš dojít až do nebe. Proto je třeba, abys byl ve všem bdělý, neboť nemalý trest je stanoven těm, kteří Tělo Páně  přijímají nehodně. Pomysli jen, o co snad jsi horší než jeho zrádce či ti, kteří jej ukřižovali. Také považ, zda ses také neprovinil proti Tělu a Krvi Kristově. Oni zabili nejsvětější Tělo, ty bys je však přijímal do nečisté duše po tom všem, co pro tebe udělal. Nebylo mu totiž dost státi se člověkem, nechat se pohlavky bíti a nakonec ukřižovati. Dokonce on sám, Bůh, se spojil s námi, a to nejen vírou, ale i ve skutečnosti nás učinil svým tělem. 
 
 [Lectio6]
 Anything be purer than that man ought to be, who eateth of this great Sacrifice Can sun-beam be clearer than that hand ought to be which breaketh this Flesh? that mouth, which is filled with that spiritual fire? that tongue, which is reddened by that Blood, awful exceedingly? That whereon the Angels quail to look, neither dare to gaze steadfastly upon It, because of the blinding glory that shineth therefrom, upon This we feed, with This we become one, and are made one body of Christ, and one flesh. "Who can utter the mighty acts of the Lord; who~
 can show forth all His praise?" (Ps. cv. 2.) Where is the shepherd which feedeth his flock with his own blood Nay, why should I say, shepherd Many mothers there be, who after all the pains of travail, give their own little ones to strangers to nurse. But so would not He, but feedeth us with His Own Blood, and maketh us to grow up in His Own substance.
 
 [Lectio7]
-From the Holy Gospel according to Luke
-!Luke 14:16-24
-At that time: Jesus spake unto the Pharisees this parable: A certain man made a great supper, and bade many. And so on.
+Čtení svatého Evangelia podle Lukáše
+!Lukáš 14:16-24
+Za onoho času řekl Ježíš Farizeům toto podobenství: „Jeden člověk vystrojil velikou hostinu a pozval mnoho lidí.“ A ostatní.
 _
-Homily by Pope St. Gregory the Great
-!36th upon the Gospels
-Dearly beloved brethren, between the dainties of the body and the dainties of the mind there is this difference, that the dainties of the body, when we lack them, raise up a great hunger after them, and when we devour them, straightway our fulness worketh in us niceness. But about the dainties of the mind we are nice while as yet we lack them, and when we fill ourselves with them, then are we an-hungered after them, and the more, being an-hungered, we feed thereon, the~
-more are we an-hungered thereafter. In the bodily dainties, the hunger is keener~
-than the fullness, but in the spiritual the fulness is keener than the hunger. In the bodily, hunger gendereth fullness, and fulness niceness in the spiritual, hunger indeed gendereth fullness, but fullness gendereth hunger.
+Kázání sv. Řehoře Velikého, Papeže
+!Homilie 36 na Evangelia
+Nejdražší bratři, mezi požitky těla a srdce bývá veliký rozdíl v tom, že pokud nemáme tělesné požitky, velmi po nich začneme toužit. Pokud jich však máme příliš, přesytíme se jimi a nadále se nám pak zoškliví. Oproti tomu duchovní požitky se nám oškliví, pouze když je nemáme, avšak když je máme, toužíme po nich, takže ten, kdo jich má mnoho, po nich touží o to více, oč ten, komu se jich nedostává, by je chtěl požívat. Tělesné požitky nás v nedostatku lákají, v dostatku však odpuzují. Duchovní požitky nás v nedostatku nechávají chladnými, v dostatku nás však lákají. U tělesných požitků přichází po chuti sytost a ze sytosti se stává nechuť.
 
 [Lectio8]
-Scriptural dainties, in the very eating, do stir up the keenness of hunger in the mind which they fill, for, the more we taste their sweetness, the better we know how well they deserve to be loved and, if we taste them not, we cannot love them, for we know not how sweet they be. And who can love that whereof he knoweth nothing? Hence saith the Psalmist "O taste and see that the Lord is good," (Ps. xxxiii. 9,) that is, as it were, "If ye taste not, ye shall not see His goodness but let your heart once taste the bread of life, and then indeed, having tasted and proved His sweetness, ye shall be able to love Him." But these were the dainties which man lost when he sinned in Eden, and when he had shut his own mouth against the sweet bread whereof if any man eat he shall live for ever, he forsook paradise.
+Chuť po požitcích duchovních sice také plodí sytost, ale ta plodí opět chuť. Když jsme jich totiž syti, roste v naší mysli touha, neboť oč více zažíváme jejich chuť, o to více poznáváme, že je vroucněji milujeme. Věci, které nemáme, nemůžeme milovat, neboť neznáme jejich chuť. Kdo by totiž dokázal milovat, co nezná? Proto nás Žalmista nabádá slovy: „Okuste a vizte, neboť sladký je Pán.“ (Ps. xxxiii. 9,) To je, jako kdyby jasně říkal: „Sladkost jeho neznáte, pokud ji neochutnáte, avšak pokrm života poznejte chutí srdce, abyste zakusili jeho sladkost a tak jej dokázali milovat.“ Takové požitky totiž člověk ztratil v okamžiku, kdy v ráji zhřešil. Vyšel ven, když zavřel svá ústa před pokrmem věčné sladkosti. 
 
 [Responsory8]
-R. A certain man made a great supper, and sent his servant at suppertime to say to them that were bidden: Come
-* For all things are now ready.
-V. Come, eat of my bread, and drink of the wine which I have mingled for you.
-R. For all things are now ready.
+R. Jeden člověk připravil k večeři velikou hostinu, a v čas večeře poslal svého služebníka, aby vybídl pozvané, aby přišli.
+* Neboť vše již je připraveno.
+V. Pojďte a jezte můj chléb, a pijte víno, které jsem vám smísil.
+R. Neboť vše již je připraveno.
 &Gloria
-R. For all things are now ready
+R. Neboť vše již je připraveno.
 
 [Lectio9]
-And we that, from the first man, are born under the afflictions of this pilgrimage, are come into the world smitten with niceness we know not what we ought to want, and the disease of our niceness groweth the worse, as our soul draweth itself the more away from that bread of sweetness. We are no longer an-hungered after inward dainties, since we have lost the use of feeding on them. And so in our niceness we starve, and the sickness of long famishing maketh prey of our health. We will not eat of that inward sweetness which is made ready for us, and being enamoured only of things outward we sink into the wretchedness of loving starvation.
+Proto my, narozeni v toto bědné putování, když jsme sem přišli již znechuceni, nevíme, po čem bychom měli toužit. Tím více se rozšiřuje nemoc našeho nechutenství, čím více se náš duch vzdaluje od tohoto sladkého pokrmu. A proto vnitřní pochoutky náš duch nezakouší, neboť již dávno zapomněl, že by je měl přijímat. - Umdléváme tedy ve svém nechutenství a unavuje nás mor dlouhých postů. A protože uvnitř nechceme ochutnat sladkost, která je nám připravena, milujeme  svůj vnější hlad, my ubožáci.
 &teDeum
 
 [Versum 2]
-V. He gave them of the bread of heaven, alleluia.
-R. Man did eat Angels' bread, alleluia.
+V. Dal jim chléb nebeský, alleluja.
+R. Člověk jedl chléb andělský, alleluja.
 
 [Ant 2]
-A certain man made a great supper, * and bade many and sent his servant at suppertime to say to them that were bidden: Come, for all things are now ready.
+Jeden člověk připravil k večeři velikou hostinu, * a v čas večeře poslal svého služebníka, aby vybídl pozvané, aby přišli. Neboť vše již je připraveno.
 
 [Commemoratio 2]
 !Commemoratio Octava
-Ant. I am the Living Bread * Which came down from heaven, saith the Lord. Alleluia, Alleluia.
+Ant. Já jsem * živý chléb, a sestoupil jsem z nebe; kdo bude jíst z tohoto chleba, bude žít navěky, Alleluja.
 _
-V. He maketh peace in thy borders.
-R. And filleth thee with the finest of wheat.
+V. Rozhostil mír ve tvých končinách.
+R. A jadrnou pšenicí tě krmí.
 _
 $Oremus.
-O God, Who under a wonderful Sacrament hast left unto us whereby to show forth thy Suffering Death, grant unto us, we beseech thee, so reverently to handle the Sacred Mysteries of thy Body and thy Blood that we may alway feel within ourselves the fruit of thy Redeeming Work.
+Bože, tys nám v podivuhodné Svátosti oltářní zanechal památku svého umučení; dej nám, prosíme, abychom vždy svatá tajemství tvého Těla a tvé Krve tak uctívali, abychom v sobě směli navždy zakoušet jejich účinky:
 $Qui vivis
 
 [Lectio Prima]
-!1 John 3:18
-v. My little children, let us not love in word, neither in tongue, but in deed, and in truth.
+!1 Jan 3:18
+v. Synáčkové moji, nemilujme jen slovem a jazykem, ale činem, doopravdy!
 
 [Capitulum Sexta]
-!1 John 3:16
-v. Hereby perceive we the love of God, because He laid down His life for us and we ought to lay down our lives for the brethren.
+!1 Jan 3:16
+v. Z toho jsme poznali Lásku: že Kristus za nás položil svůj život. Také my jsme povinni položit život za své bratry.
 $Deo gratias
 
 [Ant 3]
-Go out quickly into the streets * and lanes of the city, and compel the poor and the maimed, and the halt, and the blind, to come in that my house may be full, alleluia.
+Vyjdi rychle * do náměstí a ulic města; a přiveď všechny chudé a nemocné, slepá a chromé, aby se naplnil můj dům, alleluja.
 
 [Commemoratio 3]
-!Commemoration of the Octave of Corpus Christi
-Ant. O Lord, how kindly is thy Spirit * even thine, Whose sustenance declared thy sweetness unto thy children when Thou didst send them from heaven bread tempering itself to every man's liking, O Thou, Who hast filled the hungry with good things, and the rich, that are proud in the imagination of their hearts, Thou hast sent empty away.
+!Připomínka Oktávu Těla Kristova
+Ant. Ó jak sladký je, * Pane, tvůj duch, abys nám ukázal, jakou sladkost chováš ke svým dětem, dal jsi nám přesladký chléb z nebe, hladové sytíš dobrými věcmi, a nenasytné boháče propouštíš s prázdnou.
 _
-V. Thou didst send them from heaven, alleluia.
-R. Bread able to content every man's delight, alleluia.
+V. Chléb s nebe dal jsi jim, Alleluja.
+R. Všechnu líbeznost v sobě mající, Alleluja.
 _
 $Oremus
-O God, under a marvelous sacrament you have left us the memorial of thy Passion; grant us, we beseech thee, so to venerate the sacred mysteries of thy Body and Blood, that we may ever perceive within us the fruit of thy Redemption.
+Bože, tys nám v podivuhodné Svátosti oltářní zanechal památku svého umučení; dej nám, prosíme, abychom vždy svatá tajemství tvého Těla a tvé Krve tak uctívali, abychom v sobě směli navždy zakoušet jejich účinky:
 $Qui vivis

@@ -310,8 +310,9 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/ levati / zrušeného /gi;
 	$line =~ s/ obiit / zesnul /gi;
 	$line =~ s/oriundus/, který pochází/gi;
-	$line =~ s/historiæ ecclesiasticæ/církevních dějin/gi;
+	$line =~ s/historiae ecclesiasticae/církevních dějin/gi;
 	$line =~ s/iuris canonici/kanonického práva/gi;
+	$line =~ s/concionator Quadragesimae/postní kazatel/gi;
 	$line =~ s/concionator/kazatel/gi;
 	
 	$line =~ s/Quirini/Quirina/ig;
@@ -645,7 +646,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/sepulta/pohřbená/ig;
 	$line =~ s/mensis/měsíce/ig;
 	$line =~ s/vixit/žil/ig;
-	$line =~ s/ecclesiae/kostely/ig;
+	$line =~ s/ecclesiae|ecclessiæ/kostely/ig;
 	
 	$line =~ s/Tertius/Třetí/g;
 	$line =~ s/tertius/třetí/g;
@@ -694,6 +695,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/(i|j)ubilatus]/slavný/gsi;
 
 	$line =~ s/ (\.|\,|\:)/$1/gi;
+	$line =~ s/\,\,)/\,/gi;
 	
 #	$line .= "Zkouška.\n" ;
 
