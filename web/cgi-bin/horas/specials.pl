@@ -359,7 +359,11 @@ sub specials {
       setcomment($label, 'Source', $c, $lang);
       $capit = chompd($capit) . "_\n" . $versum;
       if ($version =~ /monastic/i) {
-        if ($version =~ /Cistercian/) { $capit =~ s/&Gloria.*?_/_/s; }
+        if ($version =~ /Cistercian/) { 
+          $capit =~ s/&Gloria.*?_/_/s; 
+          $capit =~ s/V\. /℣\. /g ;
+          $capit =~ s/R\. /℟\. /g ;
+          }
         (@capit) = split(/\n/, $capit);
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);

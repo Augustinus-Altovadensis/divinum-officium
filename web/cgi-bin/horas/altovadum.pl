@@ -37,7 +37,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Altovadensi/vyšebrodském/ig;
 	$line =~ s/Zarae|Zarensis/ze Žďáru/ig;
 	$line =~ s/Ossecensis|Ossencensis/osecký/ig;
-	$line =~ s/Ossecii/v Oseku/ig;
+	$line =~ s/Ossecii|Osecii/v Oseku/ig;
 	$line =~ s/circa Ossecum/v okolí Oseka/ig;
 	$line =~ s/Lambacensis/lambašský/ig;
 	$line =~ s/in Lambach/v Lambachu/ig;
@@ -71,6 +71,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Sedlicii et Skalicii abbas/opat v Sedlci a ve Skalici/ig;
 	$line =~ s/Sedlicii|Sedlecii/v Sedlci/ig;
 	$line =~ s/Skalicii/ve Skalici/ig;
+	$line =~ s/Brunae/v Brně/ig;
 	$line =~ s/Runae/v klášteře Rein/ig;
 	$line =~ s/Populeti/v klášteře Poblet/ig;
 	$line =~ s/Fontis Mariae ad Zaram abbas|Fontis B\.M\.V.\ ad Zaram abbas|Fontis Beatae Mariae Virginis ad Zaram abbas/Opat v klášteře Studnice Panny Marie ve Žďáru/ig;
@@ -186,6 +187,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/de Mitrovitz/z Mitrovic/ig;
 	$line =~ s/Walschbirken/Vlachovo Březí/ig;
 	$line =~ s/Kuttenberg/Kutná Hora/gi;
+	$line =~ s/Zebnicz/Žebnice/gi;
+	$line =~ s/de Novo Castro/z Jindřichova Hradce/gi;
 
 
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
@@ -241,6 +244,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/abbas/Opat/ig;
 	$line =~ s/abbatiae/opatství/ig;
 	$line =~ s/abbatissa/abatyše/ig;
+	$line =~ s/praepositus (.*) emeritus/emeritní probošt $1/gi;
 	$line =~ s/praepositus/probošt/ig;
 	$line =~ s/visitator/vizitátor/ig;
 	$line =~ s/subprior/podpřevor/ig;
@@ -448,6 +452,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/de Falkenstein/z Falkenštejna/ig;
 	$line =~ s/Andreae/Ondřeje/ig;
 	$line =~ s/Pauli/Pavla/ig;
+	$line =~ s/Jacobi/Jakuba/ig;
 
 
 	$line =~ s/canoniae/kanonie/ig;
@@ -563,7 +568,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/refectorarius/refektorář/ig;
 	$line =~ s/lotionarius/valchář/ig;
 	$line =~ s/scriniator/bednář/ig;
-	$line =~ s/scriniator/bednář/ig;
+	$line =~ s/eiusdem/jeho/ig;
 
 	$line =~ s/pater eius/jeho otec/ig;
 	$line =~ s/pater /otec /ig;
@@ -629,6 +634,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/sepulta est/je pohřbená/ig;
 	$line =~ s/sepulta/pohřbená/ig;
 	$line =~ s/mensis/měsíce/ig;
+	$line =~ s/vixit/žil/ig;
 	
 	$line =~ s/Tertius/Třetí/g;
 	$line =~ s/tertius/třetí/g;
@@ -656,6 +662,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/professus/profes/ig;
 	$line =~ s/professi/profese/ig;
 	$line =~ s/ibidem/na témž místě/ig;
+	$line =~ s/ibique/a tam/ig;
 	$line =~ s/B\.M\.V\.|Beatae Mariae Virginis/Panny Marie/ig;
 	$line =~ s/(\w+) sui/svého $1/ig;
 	$line =~ s/ et / a /ig;
@@ -696,6 +703,11 @@ sub regula_emaus : ScriptFunc {
   my $tomorrow = $d + 1;
   my $sequentia = 0;
   my $titulus;
+
+  # remove leading zeros
+  $month =~ s/^0+//g ; 
+  $day =~ s/^0+//g ;  
+  $d =~ s/^0+//g ; 
 
   if ($month == 2 && $day >= 24 && !$l) { $d++; }
 #  $fname = sprintf("%02i-%02i", $month, $d);
@@ -820,6 +832,11 @@ sub necrologium : ScriptFunc {
 
    $fname = checkfile($lang, "Necrologium/@mensis[$month].txt");
 
+  # remove leading zeros
+  $month =~ s/^0+// ; 
+  $day =~ s/^0+// ;  
+  $d =~ s/^0+// ; 
+
   # This reads the current part of the Necrologium by "greping" the day part in the text.
   # The month part is solved before in the filename.
 
@@ -894,6 +911,11 @@ sub martyrologium_cz : ScriptFunc {
         'listopadu',
         'prosince'
       );
+
+  # remove leading zeros
+  $month =~ s/^0+// ; 
+  $day =~ s/^0+// ;  
+  $d =~ s/^0+// ; 
 
    $fname = checkfile($lang, "Psalterium/Martyrologium.txt");
 
