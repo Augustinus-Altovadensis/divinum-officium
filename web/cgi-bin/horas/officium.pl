@@ -415,7 +415,7 @@ PrintTag
     $sel3 = ($votive =~ /C9/) ? 'SELECTED' : '';
     $sel4 = ($votive =~ /C12/) ? 'SELECTED' : '';
     $addvotive =
-      ($version !~ /monastic/i)
+      ($version !~ /monastic/i || $version =~ /Cistercian/i )
       ? "&nbsp;&nbsp;&nbsp;\n"
       . "<LABEL FOR=votive CLASS=offscreen>Votive</LABEL>"
       . "<SELECT ID=votive NAME=votive SIZE=4 onchange='parchange()'>\n"
