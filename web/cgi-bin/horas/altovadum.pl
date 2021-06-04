@@ -695,7 +695,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/(i|j)ubilatus]/slavný/gsi;
 
 	$line =~ s/ (\.|\,|\:)/$1/gi;
-	$line =~ s/\,\,)/\,/gi;
+	$line =~ s/\,\,/\,/gi;
 	
 #	$line .= "Zkouška.\n" ;
 
