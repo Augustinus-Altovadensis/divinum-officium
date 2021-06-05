@@ -363,6 +363,7 @@ sub specials {
           $capit =~ s/&Gloria.*?_/_/s; 
           $capit =~ s/V\. /℣\. /g ;
           $capit =~ s/R\. /℟\. /g ;
+          $capit =~ s/R\.br\./℟\.br\./g ;
           }
         (@capit) = split(/\n/, $capit);
         postprocess_short_resp(@capit, $lang);
@@ -851,7 +852,7 @@ sub psalmi_minor {
   $ant[0] =~ s/.(?!.)//g;   #  (only one...)
 
   postprocess_ant($ant, $lang);
-  $ant1 = ($version !~ /1960|monastic/i) ? $ant[0] : $ant;    #difference between 1955 and 1960
+  $ant1 = ($version !~ /1960|monastic/i || $version =~ /Cistercian/i ) ? $ant[0] : $ant;    #difference between 1955 and 1960
   setcomment($label, 'Source', $comment, $lang, $prefix);
   $psalms =~ s/\s//g;
   @psalm = split(',', $psalms);

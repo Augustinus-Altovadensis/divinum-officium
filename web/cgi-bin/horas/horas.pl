@@ -204,7 +204,7 @@ sub resolve_refs {
     $line =~ s/(\w)$/$&./ if ($line =~ /^\s*Ant\./);
 
     #red prefix
-    if ($line =~ /^\s*(R\.br\.|R\.|V\.|℟.|℣.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
+    if ($line =~ /^\s*(R\.br\.|℟\.br\.|R\.|V\.|℟.|℣.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
       my $h = $1;
       my $l = $2;
 
@@ -1399,7 +1399,7 @@ sub postprocess_vr(\$$) {
   process_inline_alleluias($$vr);
 
   if ($dayname[0] =~ /Pasc/i && !officium_defunctorum()) {
-    my ($versicle, $response) = split(/(?=^\s*R\.)/m, $$vr);
+    my ($versicle, $response) = split(/(?=^\s*[R℟]\.)/m, $$vr);
     ensure_single_alleluia($versicle, $lang);
     ensure_single_alleluia($response, $lang);
     $$vr = $versicle . $response;
@@ -1416,13 +1416,13 @@ sub postprocess_short_resp(\@$) {
     my $rlines = 0;
 
     for (@$capit) {
-      if (/^R\.br\./ ... (/^R\./ && ++$rlines >= 3)) {
+      if (/^[R℟]\.br\./ ... (/^R\./ && ++$rlines >= 3)) {
 
         # Short responsory proper.
         if ((/^[V℣]\./ .. /^[R℟]\./) && /^[R℟]\./) {
           our %prayers;
-          $_ = 'R. ' . $prayers{$lang}->{'Alleluia Duplex'};
-        } elsif (/^R\./) {
+          $_ = '℟. ' . $prayers{$lang}->{'Alleluia Duplex'};
+        } elsif (/^℟\./) {
           ensure_double_alleluia($_, $lang);
         }
       } elsif (/^[V℣R℟]\./) {

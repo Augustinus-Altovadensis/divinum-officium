@@ -721,7 +721,7 @@ sub getrank {
       }
       $commemoratio = $tname;
 
-      if ($cname && $version !~ /1960|Newcal|Monastic/) {
+      if ($cname && $version !~ /1960|Newcal|Monastic/ || $cname && $version =~ /Cistercian/i) {
         { $commemoratio1 = $cname; }    #{$commemoratio = $cname; $commemoratio1 = $tname;}
       }
       $comrank = $trank[2];
@@ -1575,9 +1575,22 @@ sub setheadline {
       $rankname = 'Simplex';
     } elsif ($version =~ /(1570|1910|Divino|1955)/ && $dayname[0] == /07-04/i && $dayofweek > 0) {
       $rankname = ($rank =~ 7) ? 'Duplex I. classis' : 'Semiduplex';
-    } else {
+    } #elsif ($version =~ /Cistercian/i) {
+      #  my @ranktable = (
+      #    '',
+      #    'Commemoratio.',
+      #    'Commemoratio et M.',
+      #    'iij. Lect. et M.',
+      #    'xij. Lect. et M.',
+      #    'MM. min.',
+      #    'MM. maj.',
+      #    'Serm. min.',
+      #    'Serm. maj.'
+      #    );
+      #  }  
+     else {
       if ($version !~ /1960|Monastic/i) {
-        $rankname = ($rank <= 2) ? 'Ferial' : ($rank < 3) ? 'Feria major' : 'Feria privilegiata';
+        $rankname = ($rank <= 2) ? 'Ferial' : ($rank < 3) ? 'Feria major' : 'Feria privilegiata'; 
       } else {
         my @ranktable = (
           '',
@@ -1629,7 +1642,7 @@ sub setmdir {
     $sanctiname = 'SanctiM';
     $temporaname = 'TemporaM';
     $communename = 'CommuneM';
-    $votive = '';
+    $votive = '' unless $version =~ /Cistercian/i ;
   } else {
     $sanctiname = 'Sancti';
     $temporaname = 'Tempora';

@@ -193,6 +193,9 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Winterberg/Vimperk/gi;
 	$line =~ s/de Novo Castro/z Jindřichova Hradce/gi;
 	$line =~ s/Lzin/Lžín/gi;
+	$line =~ s/Cerhonic/Cerhonice/gi;
+	$line =~ s/Litomerzic/Litoměřice/gi;
+	$line =~ s/Bilin/Bílina/gi;
 
 
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
@@ -376,6 +379,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/studens|scholarius/student/gi;
 	$line =~ s/archidiaconus/arcijáhen/ig;
 	$line =~ s/(\w+) infulatus/infulovaný $1/ig;
+	$line =~ s/subdiaconus/podjáhen/gi;
 	$line =~ s/diaconus/jáhen/gi;
 	$line =~ s/plebanus/plebán/gi;
 	$line =~ s/auxiliator |auxiliarius /pomocný duchovní /gi;
@@ -650,6 +654,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/mensis/měsíce/ig;
 	$line =~ s/vixit/žil/ig;
 	$line =~ s/ecclesiae|ecclessiæ/kostely/ig;
+	$line =~ s/diocesis/diecéze/ig;
+	$line =~ s/diocesis/diecéze/ig;
 	
 	$line =~ s/Tertius/Třetí/g;
 	$line =~ s/tertius/třetí/g;
