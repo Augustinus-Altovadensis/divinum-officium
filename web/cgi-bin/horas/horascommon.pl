@@ -1233,6 +1233,7 @@ sub precedence {
       } 
     }
     $winner = "Commune/$vtv.txt";
+    if ( $version =~ /Cistercian/i && $vtv =~ /C12/i ) { $winner = "CommuneM/$vtv.txt"; }
     $commemoratio = $commemoratio1 = $scriptura = $commune = '';
     %winner = updaterank(setupstring($datafolder, $lang1, $winner));
     %winner2 = updaterank(setupstring($datafolder, $lang2, $winner));

@@ -28,7 +28,6 @@ $Oremus
 v. Shield, O Lord, thy people, and ever keep them in thy care, who put their trust in the pleading of thy Apostles Peter and Paul, and of the other Apostles.
 v. May all thy saints, we beseech thee, O Lord, everywhere come to our help, that while we do honor to their merits, we may also enjoy their intercession: grant thy own peace unto our times, and drive away all wickedness from thy Church; direct our way, our actions, and our wishes and those of all thy servants in the way of salvation; to our benefactors render everlasting blessings, and to all the faithful departed grant eternal rest.
 $Per Dominum
-$Dulce nomen
 (sed rubrica 1955 aut rubrica 1960 omittitur)
 
 [Pre oratio]
@@ -143,21 +142,38 @@ $Deo gratias
 [Hymnus minor]
 
 #Hymnus
-v. Remember, O creator Lord,
-That in the Virgin's sacred womb
-Thou wast conceived, and of her flesh
-Didst our mortality assume.
+v. Pomni, tvůrce země celé, 
+žes nám podoben byl v těle, 
+když sestoupils s nebes trůnu
+a vtělil se v Panny lůnu.
 _
-Mother of grace, O Mary blest,
-To thee, sweet fount of love, we fly;
-Shield us through life, and take us hence
-To thy dear bosom when we die.
+Maria Matko milosti,
+též Matko milosrdnosti,
+ty nás od ďábla ochraňuj,
+v hodince smrti při nás stůj.
 _
-O Jesu, born of Virgin bright,
-Immortal glory be to thee;
-Praise to the Father infinite,
-And Holy Ghost eternally.
+Sláva buď tobě, Pane náš,
+jenž čistou Pannu matku máš;
+S Otcem i svatým Duchem,
+vládneš věčným věkům všem.
 Amen.
+
+[Minor intro]
+#Incipit
+_
+$Ave Maria Parvum
+_
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+@:Hymnus minor
+
+#Psalmi
+
+[Minor final]
+
+#Conclusio
+$Dulce nomen
 
 [Capitulum Prima]
 !Song 6:9

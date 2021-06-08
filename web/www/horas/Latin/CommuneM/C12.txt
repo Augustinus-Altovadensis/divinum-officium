@@ -37,7 +37,6 @@ $Oremus
 v. Prótege, Dómine, pópulum tuum, et, Apostolórum tuórum Petri et Pauli et aliórum Apostólorum patrocínio confidéntem, perpétua defensióne consérva.
 v. Omnes Sancti tui, quǽsumus, Dómine, nos ubíque ádjuvent: ut, dum eórum mérita recólimus, patrocínia sentiámus: et pacem tuam nostris concéde tempóribus, et ab Ecclésia tua cunctam repélle nequítiam; iter, actus et voluntátes nostras et ómnium famulórum tuórum, in salútis tuæ prosperitáte dispóne, benefactóribus nostris sempitérna bona retríbue, et ómnibus fidélibus defúnctis réquiem ætérnam concéde.
 $Per Dominum
-$Dulce nomen
 (sed rubrica 1955 aut rubrica 1960 omittitur)
 
 [Pre oratio]
@@ -157,30 +156,30 @@ $Deo gratias
 [Hymnus minor]
 
 #Hymnus
-v. Memento, rerum Conditor,
-Nostri quod olim corporis,
-Sacrata ab alvo Virginis
-Nascendo formam sumpseris.
+v. Meménto, salútis Auctor,
+Quod nostri quondam córporis,
+Ex illibáta Vírgine 
+Nascéndo, formam súmpseris.
 _
-Maria Mater gratiae,
-Dulcis Parens clementiae,
-Tu nos ab hoste protege,
-Et mortis hora suscipe.
+María, Mater grátiæ, 
+Mater misericórdiæ,
+tu nos ab hoste prótege, 
+et hora mortis súscipe.
 _
-Jesu, tibi sit gloria,
-Qui natus es de Virgine,
-Cum Patre, et almo Spiritu,
-In sempiterna saecula.
+Glória tibi Dómine,
+qui natus es de Vírgine, 
+cum Patre et Sancto Spíritu, 
+in sempitérna sæcula.
 Amen.
 
 [Minor intro]
 #Incipit
 _
-$Ave Maria
-(sed rubrica 1955 aut rubrica 1960 omittitur)
-$Deus in adjutorium.
+$Ave Maria Parvum
+_
+℣. Deus in adjutórium meum inténde.
+℟. Dómine, ad adjuvándum me festína.
 &Gloria
-&Alleluia
 @:Hymnus minor
 
 #Psalmi
@@ -188,12 +187,8 @@ $Deus in adjutorium.
 [Minor final]
 
 #Conclusio
-&Dominus_vobiscum
-&Benedicamus_Domino
-$Fidelium animae
-_
-$Pater noster
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+$Dulce nomen
+
 
 [Capitulum Prima]
 !Cant 6:9
