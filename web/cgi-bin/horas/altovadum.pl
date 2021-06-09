@@ -60,7 +60,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in Valle Mariae/v klášteře Marienthal/ig;
 	$line =~ s/in Waldsassen/v klášteře Waldsassen/ig;
 	$line =~ s/Sionensis/strahovský/ig;
-	$line =~ s/Clarae.Vallis/ze Zwettlu/ig;
+	$line =~ s/Clarae.Vallis|in Clara Valle/ze Zwettlu/ig;
 	$line =~ s/sacrosanctae Crucis/přesvatého Kříže/ig;
 	$line =~ s/ad Sanctam Crucem/v Heiligenkreuz/g;
 	$line =~ s/Ad Sanctam Crucem/V Heiligenkreuz/g;
