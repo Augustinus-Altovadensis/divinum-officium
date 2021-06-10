@@ -10,6 +10,7 @@ Ave only
 Doxology=Nat
 Omit Suffragium
 Special Benedictio
+Special Laudes
 Votive nocturn
 Psalmi Dominica
 Antiphonas horas
