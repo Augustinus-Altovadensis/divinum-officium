@@ -42,7 +42,6 @@ $Oremus
 
 [Special Completorium]
 #Incipit
-_
 $Ave Maria Parvum
 _
 ℣. Obrať nás, Bože, náš Spasiteli: 
@@ -191,19 +190,19 @@ $Dulce nomen
 
 #Hymnus
 v. Pomni, tvůrce země celé, 
-žes nám podoben byl v těle, 
+žes nám byl podoben v těle, 
 když sestoupils s nebes trůnu
 a vtělil se v Panny lůnu.
 _
-Maria Matko milosti,
+r. Maria Matko milosti,
 též Matko milosrdnosti,
 ty nás od ďábla ochraňuj,
 v hodince smrti při nás stůj.
 _
-Sláva buď tobě, Pane náš,
+r. Sláva buď tobě, Pane náš,
 jenž čistou Pannu matku máš;
 S Otcem i svatým Duchem,
-vládneš věčným věkům všem.
+ty vládneš věčným věkům všem.
 Amen.
 
 [Minor intro]

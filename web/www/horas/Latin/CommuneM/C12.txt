@@ -51,7 +51,6 @@ $Oremus
 
 [Special Completorium]
 #Incipit
-_
 $Ave Maria Parvum
 _
 ℣. Convérte nos Deus, salutáris noster.
@@ -216,7 +215,6 @@ Amen.
 
 [Minor intro]
 #Incipit
-_
 $Ave Maria Parvum
 _
 ℣. Deus in adjutórium meum inténde.
@@ -251,6 +249,7 @@ _
 @Commune/C10:Capitulum Vespera
 _
 @Commune/C11:Versum 4
+_
 &Dominus_vobiscum
 $Oremus
 @:Oratio Prima
