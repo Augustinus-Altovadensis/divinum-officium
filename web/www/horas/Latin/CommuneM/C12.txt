@@ -145,7 +145,6 @@ R. Christus Deus noster.
 
 [Special Laudes]
 #Incipit
-_
 ℣. Deus in adjutórium meum inténde.
 ℟. Dómine, ad adjuvándum me festína.
 &Gloria
@@ -195,11 +194,6 @@ v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córp
 #Conclusio
 $Dulce nomen
 
-[Versum 2]
-@Commune/C10
-
-[Ant 2]
-@Commune/C10
 
 [Hymnus minor]
 
@@ -209,12 +203,12 @@ Quod nostri quondam córporis,
 Ex illibáta Vírgine 
 Nascéndo, formam súmpseris.
 _
-María, Mater grátiæ, 
+r. María, Mater grátiæ, 
 Mater misericórdiæ,
 tu nos ab hoste prótege, 
 et hora mortis súscipe.
 _
-Glória tibi Dómine,
+r. Glória tibi Dómine,
 qui natus es de Vírgine, 
 cum Patre et Sancto Spíritu, 
 in sempitérna sæcula.
@@ -238,19 +232,13 @@ _
 $Dulce nomen
 
 
-[Capitulum Prima]
-!Cant 6:9
-v. Quae est ista, quae progreditur quasi aurora consurgens, pulchra ut luna, electa ut sol, terribilis ut castrorum acies ordinata?
-$Deo gratias
-
 [Oratio Prima]
-v. Deus, qui virginalem aulam beatae Mariae in qua habitares, eligere dignatus es: da, quaesumus; ut sua nos defensione munitos, jucundos facias suae interesse commemorationi.
-$Qui vivis
+v. Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur. Per eúmdem Christum Dóminum nostrum. 
+℟. Amen.
 
 [Special Prima]
 @:Minor intro
 @Sancti/01-01:Ant Vespera:2 s/^/Ant. / s/(.*) \*(.*)/$1\./
-
 &psalm(53)
 
 &psalm(84)
@@ -260,9 +248,10 @@ _
 @Sancti/01-01:Ant Vespera:2 s/^/Ant. / s/(.*)\;\;(.*)/$1/ s/\*//
 
 #Capitulum
-@:Capitulum Prima
+@Commune/C10:Capitulum Vespera
 _
-@Commune/C11:Versum 1
+@Commune/C11:Versum 4
+&Dominus_vobiscum
 $Oremus
 @:Oratio Prima
 @:Minor final

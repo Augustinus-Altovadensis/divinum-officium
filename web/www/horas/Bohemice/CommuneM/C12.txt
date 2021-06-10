@@ -72,12 +72,12 @@ Jejž Gabriel předpověděl,
 Jejž ještě v mateřském lůně
 uzavřen Jan již pocítil.
 _
-Maria Matko milosti,
+r. Maria Matko milosti,
 též Matko milosrdnosti,
 ty nás od ďábla ochraňuj,
 v hodince smrti při nás stůj.
 _
-Sláva buď tobě, Pane náš,
+r. Sláva buď tobě, Pane náš,
 jenž čistou Pannu matku máš;
 S Otcem i svatým Duchem,
 vládneš věčným věkům všem.
@@ -137,7 +137,6 @@ R. Even Christ our God.
 
 [Special Laudes]
 #Incipit
-_
 ℣. Bože, k pomoci mé shlédni;
 ℟. Pane, přispěš k mé pomoci.
 &Gloria
@@ -230,8 +229,8 @@ v. Who is she that cometh forth like the rising dawn, fair as the moon, clear as
 $Deo gratias
 
 [Oratio Prima]
-v. O God, Who wast pleased to choose for thy dwelling-place the maiden palace of Blessed Mary, grant, we beseech thee, that her protection may shield us, and make us glad in her commemoration.
-$Qui vivis
+v. Bože, který jsi chtěl, aby se tvé Slovo po andělském zvěstování v lůně blahoslavené Panny Marie vtělilo, popřej nám, kteří tě prosíme a věříme, že ona je vpravdě Rodičkou Boží, její přímluvou u tebe podporováni byli. Skrze téhož Krista, našeho Pána.
+℟. Amen.
 
 [Capitulum Tertia]
 !Sir 24:15
