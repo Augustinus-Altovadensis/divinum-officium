@@ -134,19 +134,58 @@ R. For out of thee rose the Sun of righteousness
 &Gloria
 R. Even Christ our God.
 
-[Ant Laudes]
-Mary hath been taken to heaven; * the Angels rejoice; they praise and bless the Lord.
-The Virgin Mary hath been taken into the chamber on high, * where the King of kings sitteth on a throne amid the stars.
-We run after thee, on the scent of thy perfumes * the virgins love thee heartily.
-Blessed of the Lord art thou, O daughter, * for by thee we have been given to eat of the fruit of the tree of Life.
-Fair and comely art thou, O daughter of Jerusalem, * terrible as a fenced camp set in battle array.
+[Special Laudes]
+#Incipit
+_
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
 
-[Capitulum Laudes]
-!Song 6:8
-v. The daughters of Zion saw her, and called her blessed; the queens also, and they praised her.
+#Psalmi
+Ant. Jak podivuhodná to výměna!
+&psalm(92)
+
+&psalm(99)
+
+&psalm(62)
+
+&psalm(220)
+
+&psalm(148)
+_
+&psalm(149)
+_
+&psalm(150)
+_
+Ant.  Jak podivuhodná to výměna! Tvůrce lidského rodu přijal oživené tělo, ráčil se narodit z Panny; stal se bez mužské součinnosti člověkem, a daroval nám své božství.
+
+#Capitulum
+!Sir 24:11-12 (7-8)
+v.  U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
 $Deo gratias
 _
-@Commune/C10:Capitulum Vespera
+R.br. Zdrávas Maria, milosti plná, * Pán s tebou.
+R. Zdrávas Maria, milosti plná, * Pán s tebou.
+V. Požehnaná ty mezi ženami, a požehnaný plod života tvého.
+R. Pán s tebou.
+_
+#Hymnus
+@Commune/C10:HymnusM Laudes
+_
+℣. Krásnou ses stala, a sladkou.
+℟. Ve potěšeních tvých, svatá Boží Rodičko.
+
+@Commune/C10:Ant 2 s/^/Ant. / s/(.*) \*(.*)/$1\./
+&psalm(231)
+@Commune/C10:Ant 2 s/^/Ant. / s/\*//
+
+$Oremus
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
+℟. Amen.
+
+#Conclusio
+$Dulce nomen
+
 
 [Hymnus minor]
 

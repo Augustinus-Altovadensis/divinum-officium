@@ -142,19 +142,57 @@ R. Quia ex te ortus est sol justitiae.
 &Gloria
 R. Christus Deus noster.
 
-[Ant Laudes]
-Assumpta est Maria in caelum: * gaudent Angeli, laudantes benedicunt Dominum.
-Maria Virgo assumpta est * ad aethereum thalamum, in quo Rex regum stellato sedet solio.
-In odorem * unguentorum tuorum currimus: adolescentulae dilexerunt te nimis.
-Benedicta * filia tu a Domino: quia per te fructum vitae communicavimus.
-Pulchra es, * et decora, filia Jerúsalem: terribilis ut castrorum acies ordinata.
+[Special Laudes]
+#Incipit
+_
+℣. Deus in adjutórium meum inténde.
+℟. Dómine, ad adjuvándum me festína.
+&Gloria
 
-[Capitulum Laudes]
-!Cant 6:8
-v. Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.
+#Psalmi
+Ant. O admirábile commércium.
+&psalm(92)
+
+&psalm(99)
+
+&psalm(62)
+
+&psalm(220)
+
+&psalm(148)
+_
+&psalm(149)
+_
+&psalm(150)
+_
+Ant. O admirábile commércium! Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est; et, procédens homo sine sémine, largítus est nobis suam deitátem.
+
+#Capitulum
+!Sir 24:11-12
+v. In ómnibus réquiem quaesívi, et in hereditáte Dómini morábor. Tunc praecépit, et dixit mihi Creátor ómnium, et qui creávit me, requiévit in tabernáculo meo.
 $Deo gratias
 _
-@Commune/C10:Capitulum Vespera
+R.br. Ave María, grátia plena, * Dóminus tecum.
+R. Ave María, grátia plena, * Dóminus tecum.
+V. Benedícta tu in muliéribus, et benedíctus fructus ventris tui.
+R. Dóminus tecum.
+_
+#Hymnus
+@Commune/C10:HymnusM Laudes
+_
+℣. Speciósa facta es, et suávis.
+℟. In delíciis tuis, sancta Dei Génitrix.
+
+@Commune/C10:Ant 2 s/^/Ant. / s/(.*) \*(.*)/$1\./
+&psalm(231)
+@Commune/C10:Ant 2 s/^/Ant. / s/\*//
+
+$Oremus
+v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Mariæ semper Vírginis intercessióne, a praesénti liberári tristítia, et aetérna pérfrui laetítia. Der Christum Dóminum nostrum.
+℟. Amen.
+
+#Conclusio
+$Dulce nomen
 
 [Versum 2]
 @Commune/C10
