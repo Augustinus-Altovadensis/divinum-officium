@@ -153,6 +153,8 @@ Pulchra es, * et decora, filia Jerúsalem: terribilis ut castrorum acies ordinat
 !Cant 6:8
 v. Viderunt eam filiae Sion, et beatissimam praedicaverunt et reginae laudaverunt eam.
 $Deo gratias
+_
+@Commune/C10:Capitulum Vespera
 
 [Versum 2]
 @Commune/C10
