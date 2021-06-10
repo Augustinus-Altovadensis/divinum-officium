@@ -60,7 +60,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in Valle Mariae/v klášteře Marienthal/ig;
 	$line =~ s/in Waldsassen/v klášteře Waldsassen/ig;
 	$line =~ s/Sionensis/strahovský/ig;
-	$line =~ s/Clarae.Vallis|in Clara Valle/ze Zwettlu/ig;
+	$line =~ s/Clarae.Vallis/ze Zwettlu/ig;
 	$line =~ s/sacrosanctae Crucis/přesvatého Kříže/ig;
 	$line =~ s/ad Sanctam Crucem/v Heiligenkreuz/g;
 	$line =~ s/Ad Sanctam Crucem/V Heiligenkreuz/g;
@@ -606,7 +606,6 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/vidua /vdova /ig;
 	$line =~ s/germanus/rodný bratr/ig;
 	$line =~ s/parens/rodič/ig;
-	$line =~ s/parentes/rodiče/ig;
 	$line =~ s/uxor eius/jeho manželka/ig;
 	$line =~ s/uxore/manželkou/ig;
 	$line =~ s/uxor/manželka/ig;
@@ -677,7 +676,7 @@ sub translate_cz : ScriptFunc {
 
 	$line =~ s/pie in Domino obdormierunt/zbožně v Pánu zesnuli/ig;
 	$line =~ s/monachus chori/chórový mnich/ig;
-	$line =~ s/monachus/mnich/ig;
+	$line =~ s/monachus|monachos/mnich/ig;
 	$line =~ s/professus iubilatus|professus jubilatus/profes po slavném jubileu/ig;
 	$line =~ s/sacerdos iubilatus|sacerdos jubilatus/kněz po slavném jubileu/ig;
 	$line =~ s/sacerdos/kněz/gi;
