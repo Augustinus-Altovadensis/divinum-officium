@@ -9,6 +9,7 @@ ex C11;
 Ave only
 Doxology=Nat
 Omit Suffragium
+Omit Psalm0 Laudes
 Special Benedictio
 Special Laudes
 Votive nocturn
@@ -22,14 +23,12 @@ $Per eumdem
 
 [Commemoratio]
 !Commemoration of the Saints
-Ant. All ye saints of God, vouchsafe to plead for our salvation and for that of all mankind.
-V. Be glad in the Lord and rejoice, ye just.
-R. And be joyful, all ye that are upright of heart.
+Ant. Všichni svatí Boží, račte se přimlouvat za spásu naši i všech lidí.
+V. Radujte se v Pánu a jástejte, spravedliví.
+R. A oslavujte, všichni přímého srdce
 $Oremus
-v. Shield, O Lord, thy people, and ever keep them in thy care, who put their trust in the pleading of thy Apostles Peter and Paul, and of the other Apostles.
-v. May all thy saints, we beseech thee, O Lord, everywhere come to our help, that while we do honor to their merits, we may also enjoy their intercession: grant thy own peace unto our times, and drive away all wickedness from thy Church; direct our way, our actions, and our wishes and those of all thy servants in the way of salvation; to our benefactors render everlasting blessings, and to all the faithful departed grant eternal rest.
-$Per Dominum
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+v. Prosíme tě, Pane, shlédni laskavě na naši slabost; a všechno špatné, co si právem zasloužíme, na přímluvu všech svých Svatých odvrať. Skrze Krista, našeho Pána.
+℟. Amen.
 
 [Pre oratio]
 
