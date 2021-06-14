@@ -78,6 +78,7 @@ require "$Bin/specials.pl";
 require "$Bin/specmatins.pl";
 
 if (-e "$Bin/monastic.pl") { require "$Bin/monastic.pl"; }
+if (-e "$Bin/altovadum.pl") { require "$Bin/altovadum.pl"; }
 require "$Bin/do_io.pl";
 $q = new CGI;
 
@@ -363,7 +364,8 @@ PrintTag
     #  $ch3 = ($expand =~ /nothing/i) ? 'SELECTED' : '';
     #  $ch4 = ($expand =~ /skeleton/i) ? 'SELECTED' : '';
     @chv = splice(@chv, @chv);
-    if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic', 'Ordo Cisterciensis', 'Cisterciensis Monastic'); }
+    if (-e "$Bin/altovadum.pl") { unshift(@versions, 'Cistercian Monastic'); }
+    if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic'); }
     for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'SELECTED' : ''; }
     print << "PrintTag";
 <P ALIGN=CENTER>
@@ -413,7 +415,7 @@ PrintTag
     $sel3 = ($votive =~ /C9/) ? 'SELECTED' : '';
     $sel4 = ($votive =~ /C12/) ? 'SELECTED' : '';
     $addvotive =
-      ($version !~ /monastic/i)
+      ($version !~ /monastic/i || $version =~ /Cistercian/i )
       ? "&nbsp;&nbsp;&nbsp;\n"
       . "<LABEL FOR=votive CLASS=offscreen>Votive</LABEL>"
       . "<SELECT ID=votive NAME=votive SIZE=4 onchange='parchange()'>\n"

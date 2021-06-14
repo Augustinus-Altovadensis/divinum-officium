@@ -658,8 +658,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/diocesis/diecéze/ig;
 	
 	$line =~ s/Tertius/Třetí/g;
-	$line =~ s/tertius/třetí/g;
-	$line =~ s/tertia/třetí/g;
+	$line =~ s/tertius|tertia/třetí/g;
+	$line =~ s/tertii/třetího/g;
 
 	$line =~ s/januarii/ledna/ig;
 	$line =~ s/februarii/února/ig;

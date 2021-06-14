@@ -9,6 +9,7 @@ ex C11;
 Ave only
 Doxology=Nat
 Omit Suffragium
+Omit Psalm0 Laudes
 Special Benedictio
 Votive nocturn
 Psalmi Feria
@@ -25,7 +26,7 @@ Feria Te Deum
 @Commune/C10:Oratio
 
 [Oratio 2]
-v. Deus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti: praesta supplicibus tuis; ut, qui vere eam Genitricem Dei credimus, eius apud te intercessionibus adjuvemur.
+v. Deus, qui de beatæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: praesta supplícibus tuis; ut, qui vere eam Genitrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
 $Per eumdem
 
 [Commemoratio]
@@ -34,10 +35,8 @@ Ant. Sancti Dei omnes, intercédere dignémini pro nostra omniúmque salúte.
 V. Lætamini in Dómino et exsultáte, justi.
 R. Et gloriámini, omnes recti corde.
 $Oremus
-v. Prótege, Dómine, pópulum tuum, et, Apostolórum tuórum Petri et Pauli et aliórum Apostólorum patrocínio confidéntem, perpétua defensióne consérva.
-v. Omnes Sancti tui, quǽsumus, Dómine, nos ubíque ádjuvent: ut, dum eórum mérita recólimus, patrocínia sentiámus: et pacem tuam nostris concéde tempóribus, et ab Ecclésia tua cunctam repélle nequítiam; iter, actus et voluntátes nostras et ómnium famulórum tuórum, in salútis tuæ prosperitáte dispóne, benefactóribus nostris sempitérna bona retríbue, et ómnibus fidélibus defúnctis réquiem ætérnam concéde.
-$Per Dominum
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+v. Infirmitátem nostram, quæsumus Dómine, propítius réspice: et mala ómnia quæ juste merémur, ómnium Sanctórum tuórum intercessióne avérte. Per Christum, Dóminum nostrum.
+℟. Amen.
 
 [Pre oratio]
 
