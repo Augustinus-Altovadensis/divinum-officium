@@ -725,6 +725,7 @@ sub psalmi_minor {
       if ($dayofweek == 0 && $dayname[0] =~ /Quad/i) {
         $psalmkey .= ' SQP';
       }
+
     } else {
 
       # Psalmody at the hours is invariable. The antiphon at Terce,
@@ -734,6 +735,22 @@ sub psalmi_minor {
     ($ant, $psalms) = split(';;', $psalmlines{$psalmkey});
     $ant = chompd($ant);
     $psalms = chompd($psalms);
+
+    } elsif ( $version =~ /Cistercian/i && $votive =~ /C12/i ) {
+    my $daytype = ($dayofweek == 0) ? 'Dominica' : 'Feria';
+    my %psalmlines = split(/\n|=/, $psalmi{Parvum_BMV});
+    my $psalmkey;
+
+      my @days = ('Dominica', 'Feria II', 'Feria III', 'Feria IV', 'Feria V', 'Feria VI', 'Sabbato');
+
+      # Prime has one form for each day of the week in the temporal
+      # office, and another for feasts and Paschaltide.
+      $psalmkey = 'Prima ' . $days[$dayofweek] ;
+    
+    ($ant, $psalms) = split(';;', $psalmlines{$psalmkey});
+    $ant = chompd($ant);
+    $psalms = chompd($psalms);
+
   } else {
     @psalmi = split("\n", $psalmi{$hora});
     my $i = 2 * $dayofweek;

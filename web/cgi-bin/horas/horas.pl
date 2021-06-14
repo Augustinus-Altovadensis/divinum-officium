@@ -918,9 +918,13 @@ sub ant_Benedictus : ScriptFunc {
     $ant = $specials{"Adv Ant $day" . "L"};
   }
   my @ant_parts = split('\*', $ant);
-  $ant_parts[0] =~ tr/,/./;
-  substr ($ant_parts[0], -1) = ".";	#  Adds a dot to verse incipit (looks better)
-  $ant_parts[0] =~ s/.(?!.)//g;		#  (only one...)
+  
+  if ( $version =~ /Cistercian/i ) {
+    $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
+    $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] .= " " ;
+    }
+
   if ($num == 1 && $duplex < 3 && $version !~ /1960|Newcal|Praedicatorum/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1 && $version =~ /Cistercian/i ) { return "Ant. $ant_parts[0]"; }
@@ -969,9 +973,13 @@ sub ant_Magnificat : ScriptFunc {
     $num = 2;
   }
   my @ant_parts = split('\*', $ant);
-  $ant_parts[0] =~ tr/,/./;
-  substr ($ant_parts[0], -1) = ".";	#  Adds a dot to verse incipit (looks better)
-  $ant_parts[0] =~ s/.(?!.)//g;		#  (only one...)
+  
+  if ( $version =~ /Cistercian/i ) {
+    $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
+    $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] .= " " ;
+  }
+
   if ($num == 1 && $duplex < 3 && $version !~ /1960/ && $version !~ /monastic/i) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1 && $version =~ /Cistercian/i ) { return "Ant. $ant_parts[0]"; }
@@ -1019,8 +1027,10 @@ sub canticum : ScriptFunc {
 
 sub Divinum_auxilium : ScriptFunc {
   my $lang = shift;
-  my $text = "℣. " . translate("Divinum auxilium", $lang);
-  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic/i);
+  my $text;
+  if ( $version =~ /Cistercian/i ) { $text = "℣. " . translate("Divinum auxilium Cist", $lang); }
+  else { $text = "℣. " . translate("Divinum auxilium", $lang); }
+  $text =~ s/\n.*\. /\n/ unless ($version =~ /Monastic/i );
   $text =~ s/\n/\n℟. /;
   return $text;
 }

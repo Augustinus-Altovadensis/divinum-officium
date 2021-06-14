@@ -10,9 +10,8 @@ Ave only
 Doxology=Nat
 Omit Suffragium
 Special Benedictio
-Special Laudes
 Votive nocturn
-Psalmi Dominica
+Psalmi Feria
 Antiphonas horas
 Feria Te Deum
 
@@ -92,7 +91,7 @@ in sempitérna sæcula.
 Amen.
 _
 ℣. Ecce ancílla Dómini.
-℟ Fiat mihi secúndum verbum tuum.
+℟. Fiat mihi secúndum verbum tuum.
 _
 $Oremus
 v. Concéde, miséricors Deus, fragilitáti nostrae praesídium, § ut, qui sanctae Dei Genitrícis memóriam ágimus, * intercessiónis ejus auxílio a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nostrum.
@@ -103,7 +102,7 @@ $Dulce nomen
 
 &antiphona_finalis
 
-&Divinum_auxilium_cist
+&Divinum_auxilium
 $Fidelium animae
 
 
@@ -236,14 +235,7 @@ v. Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte,
 
 [Special Prima]
 @:Minor intro
-@Sancti/01-01:Ant Vespera:2 s/^/Ant. / s/(.*) \*(.*)/$1\./
-&psalm(53)
 
-&psalm(84)
-
-&psalm(116)
-_
-@Sancti/01-01:Ant Vespera:2 s/^/Ant. / s/(.*)\;\;(.*)/$1/ s/\*//
 
 #Capitulum
 @Commune/C10:Capitulum Vespera

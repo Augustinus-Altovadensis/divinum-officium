@@ -206,14 +206,14 @@ Nona Dominica=Allelúja, * allelúja, allelúja (allelúja);;118(81-88),118(89-9
 Nona Feria II=Fiat manus tua, Dómine, * ut salvet me: quóniam mandáta tua elégi.;;118(153-160),118(161-168),118(169-176)
 Nona Feria=Beáti omnes, * qui timent Dóminum.;;125,126,127
 
-[Parvum BMV]
-Prima Dominica=Allelúja, * allelúja, allelúja (allelúja);;53,84,116
-Prima Feria II=Servíte Dómino * in timóre et exsultáte ei cum tremóre.;;118(1-8),118(9-16),118(17-24),118(25-32)
-Prima Feria III=Deus judex justus * fortis et longanimus numquid irascétur per síngulos dies.;;53,84,116
-Prima Feria IV=Exsúrge Dómine * non prevaleat homo.;;118(1-8),118(9-16),118(17-24),118(25-32)
-Prima Feria V=Cantabo Domino, * qui bona tribuit mihi.;;53,84,116
-Prima Feria VI=Bonórum meórum * non indiges, in te sperávi, consérva me, Dómine.;;118(1-8),118(9-16),118(17-24),118(25-32)
-Prima Sabbato=Vivit Dóminus, * et benedíctus Deus salútis meæ.;;53,84,116
+[Parvum_BMV]
+Prima Dominica=Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.;;53,84,116
+Prima Feria II=Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.;;118(1-8),118(9-16),118(17-24),118(25-32)
+Prima Feria III=Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.;;53,84,116
+Prima Feria IV=Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.;;118(1-8),118(9-16),118(17-24),118(25-32)
+Prima Feria V=Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.;;53,84,116
+Prima Feria VI=Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.;;118(1-8),118(9-16),118(17-24),118(25-32)
+Prima Sabbato=Quando natus es * ineffabíliter ex Vírgine, tunc implétæ sunt Scriptúræ: sicut plúvia in vellus descendísti, ut salvum fáceres genus humánum: te laudámus, Deus noster.;;53,84,116
 Tertia Dominica=Allelúja, * allelúja, allelúja (allelúja);;118(33-40),118(41-48),118(49-56)
 Tertia Feria II=Ádjuva me * et salvus ero, Dómine.;;118(105-112),118(113-120),118(121-128)
 Tertia Feria=Clamávi, * et exaudívit me.;;119,120,121
