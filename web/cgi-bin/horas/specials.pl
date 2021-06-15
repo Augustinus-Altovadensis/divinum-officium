@@ -2033,7 +2033,7 @@ sub setbuild2 {
   $buildscript .= ",,,$comment\n";
 }
 
-#*** setbuild($line, $name, $vomment)
+#*** setbuild($line, $name, $comment)
 # set a headline into building script
 sub setbuild {
   if ($column != 1) { return; }
