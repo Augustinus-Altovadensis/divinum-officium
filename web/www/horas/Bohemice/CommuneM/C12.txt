@@ -13,7 +13,35 @@ Special Benedictio
 Votive nocturn
 Feria Te Deum
 
+[Oratio 1]
+v. Všemohoucí Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Ant 1]
+Svatá Maria, * přispěj na pomoc ubohým, pomáhej malomyslným, utěšuj plačtivé, oroduj za lid, pomáhej kněžstvu, přimlouvej se za oddané ženské pokolení.
+
+[Ant Vespera]
+Blažená Matko a nedotčená Panno! * Slavná Královno světa! Přimlouvej se za nás u Pána! ;;109
+;;112
+;;121
+;;126
+
+[Capitulum Vespera]
+!Sir 24:11-12 (7-8)
+v.  U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
+$Deo gratias
+_
+℟.br. Po porodu jsi, Panno, * Zůstala neporušenou.
+℟. Po porodu jsi, Panno, * Zůstala neporušenou.
+℣. Boží Rodičko, přimlouvej se za nás.
+℟. Zůstala neporušenou.
+
+
 [Oratio 2]
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Oratio Backup]
 v. Bože, jenž jsi podle Andělova oznámení chtěl přijmout tělo z lůna blažené Panny Marie, † uděl svým prosebníkům, nám, kdo věříme, že je vpravdě rodičkou Boží, * aby nám její přímluva u tebe pomohla. 
 $Per eumdem
 
@@ -136,7 +164,7 @@ R. Even Christ our God.
 &Gloria
 
 [Ant Laudes]
-Jak podivuhodná to výměna! * Tvůrce lidského rodu přijal oživené tělo, ráčil se narodit z Panny; stal se bez mužské součinnosti člověkem, a daroval nám své božství.
+Jak podivuhodná to výměna! * Tvůrce lidského rodu přijal oživené tělo, ráčil se narodit z Panny; stal se bez mužské součinnosti člověkem, a daroval nám své Božství.
 
 [Capitulum Laudes]
 !Sir 24:11-12 (7-8)
@@ -185,10 +213,6 @@ _
 _
 @Versum 2
 
-@Commune/C10:Ant 2
-&psalm(231)
-@Commune/C10:Ant 2
-
 $Oremus
 @Oratio Laudes
 
@@ -232,9 +256,11 @@ _
 #Conclusio
 $Dulce nomen
 
+
 [Capitulum Prima]
-!Song 6:9
-v. Who is she that cometh forth like the rising dawn, fair as the moon, clear as the sun, terrible as a fenced camp set in battle array?
+!Sir 24:14
+Před věky na počátku mě Bůh stvořil, až navěky být nepřestanu. Před ním ve svatostánku jsem konala svou službu.
+℟. Bohu díky.
 $Deo gratias
 
 [Oratio Prima]
@@ -245,24 +271,37 @@ v. Bože, který jsi chtěl, aby se tvé Slovo po andělském zvěstování v l�
 !Sir 24:15
 v. U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
 $Deo gratias
+_
+℣. Zdrávas Maria, milostiplná.
+℟. Pán s tebou.
+
 
 [Oratio Tertia]
 v. Všemohoucí Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života. Skrze Krista, našeho Pána.
 ℟. Amen.
 
 [Capitulum Sexta]
-!Sir 24:16
-v. And I took root among the honourable people, even in the portion of my God, as His own inheritance, and mine abiding was in the full assembly of the Saints.
+!Sir 24:15
+v. A tak jsem na Siónu obdržela sídlo. Usadil mě v městě, které miloval jako mě, v Jerusalémě vykonávám svou moc.
 $Deo gratias
+_
+℣. Požehnaná jsi mezi ženami.
+℟. A požehnaný plod života tvého.
 
 [Oratio Sexta]
-v. Most merciful God, grant, we beseech thee, a succour unto the frailty of our nature, that as we keep ever alive the memory of the holy Mother of God, so by the help of her intercession we may be raised up from the bondage of our sins.
-$Per eumdem
+v. Bože, jenž jsi skrze plodné panenství blahoslavené Panny Marie odměnil lidský rod, uděl nám, prosíme, abychom pocítili její přímluvu, když jsme od ní obdrželi rozmnožitele života.
+℟. Amen.
+
+[Capitulum Nona]
+!Sir 24:16
+v. V lidu plném slávy jsem zapustila kořeny, v Pánově údělu, v jeho dědictví, a držela jsem se v plnosti svatých.
+$Deo gratias
+_
+℣. Po porodu zůstala jsi neporušenou pannou. 
+℟. Boží rodičko, přimlouvej se za nás.
 
 [Oratio Nona]
-v. O Lord, we beseech thee, forgive the transgressions of thy servants, and, forasmuch as by our own deeds we cannot please thee, may we find safety through the prayers of the Mother of thy Son and our Lord.
-$Qui tecum
+v. Odpusť, prosíme, Pane, přestupky svých sluhů † abychom ježto se ti nedokážeme zalíbil skutky * byli spaseni přímluvou rodičky tvého Syna našeho Pána. Jenž s tebou žije a kraluje navěky věkův.
+℟. Amen.
 
-[Verse Nona]
-V. After thy delivery, thou still remainest a Virgin undefiled.
-R. Mother of God, pray for us.
+

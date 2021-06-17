@@ -1,0 +1,21 @@
+#Incipit
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+
+#Psalmi
+
+#Capitulum Responsorium Hymnus Versus
+
+#Canticum Benedictus
+&ant_Benedictus(1)
+&canticum(1)
+&Gloria
+_
+&ant_Benedictus(2)
+_
+
+#Oratio
+
+#Conclusio
+$Dulce nomen

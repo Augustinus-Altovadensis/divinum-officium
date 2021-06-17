@@ -894,6 +894,7 @@ sub psalmi_minor {
   if ($version =~ /Cistercian/i) {
       $ant[0] =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
       $ant[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+      $ant[0] =~ s/\!\./\!/; #  ( !. -> ! ).
       }
 
   postprocess_ant($ant, $lang);
@@ -1145,6 +1146,7 @@ sub antetpsalm {
   if ( $version =~ /Cistercian/i ) {
     $ant[0] =~ s/\s+$// ; $ant[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
     $ant[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant[0] =~ s/\!\./\!/; #  ( !. -> ! ).
     $ant[0] .= " " ;
     }
 

@@ -172,7 +172,7 @@ sub getrank {
   $c =~ s/\n//sg;
   %communesname = split(',', $c);
   $dayname[0] =~ s/\s*$//g;
-  $dayname[0] =~ s /^\s*//g;
+  $dayname[0] =~ s/^\s*//g;
 
   my %tempora = {};
   my %saint = {};
@@ -1233,7 +1233,7 @@ sub precedence {
       } 
     }
     $winner = "Commune/$vtv.txt";
-    if ( $version =~ /Cistercian/i && $vtv =~ /C12/i ) { $winner = "CommuneM/$vtv.txt"; }
+    if ( $version =~ /Cistercian/i && $vtv =~ /C12/i ) { $winner = "CommuneM/C12.txt"; }
     $commemoratio = $commemoratio1 = $scriptura = $commune = '';
     %winner = updaterank(setupstring($datafolder, $lang1, $winner));
     %winner2 = updaterank(setupstring($datafolder, $lang2, $winner));
@@ -1500,7 +1500,7 @@ sub climit1960 {
   if (!$c) { return 0; }
   if ($version !~ /1960|Monastic/i || $c !~ /sancti/i) { return 1; }
 
-  # Subsume commemoration in special case 7-16 with Common 10 (BVM in Sabbato)
+  # Subsume commemoration in special case 7-16 with Common 10 (BMV in Sabbato)
   return 0 if $c =~ /7-16/ && $winner =~ /C10/;
   my %w = updaterank(setupstring($datafolder, 'Latin', $winner));
   if ($winner !~ /tempora|C10/i) { return 1; }

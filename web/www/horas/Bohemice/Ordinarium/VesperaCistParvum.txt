@@ -1,0 +1,30 @@
+#Incipit
+$Ave Maria Parvum
+_
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+
+#Psalmi
+
+#Capitulum Responsorium Hymnus Versus
+
+#Canticum Magnificat
+&ant_Magnificat(1)
+&canticum(2)
+&Gloria
+_
+&ant_Magnificat(2)
+_
+#Oratio
+_
+!Připomínka všech Svatých
+Ant. Všichni svatí Boží, račte se přimlouvat za spásu naši i všech lidí.
+V. Radujte se v Pánu a jástejte, spravedliví.
+R. A oslavujte, všichni přímého srdce
+$Oremus
+v. Prosíme tě, Pane, shlédni laskavě na naši slabost; a všechno špatné, co si právem zasloužíme, na přímluvu všech svých Svatých odvrať. Skrze Krista, našeho Pána.
+℟. Amen.
+
+#Conclusio
+$Dulce nomen

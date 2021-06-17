@@ -294,6 +294,7 @@ sub antetpsalm_mm {
     if ($version =~ /Cistercian/i) {
       $ant1 =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
       $ant1 =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+      $ant1 =~ s/\!\./\!/; #  ( !. -> ! ).
       }
     push(@s, "Ant. $ant1"); $lastantiphon = $line[0];
   }

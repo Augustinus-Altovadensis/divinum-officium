@@ -922,6 +922,7 @@ sub ant_Benedictus : ScriptFunc {
   if ( $version =~ /Cistercian/i ) {
     $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
     $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] =~ s/\!\./\!/; #  ( !. -> ! ).
     $ant_parts[0] .= " " ;
     }
 
@@ -977,6 +978,7 @@ sub ant_Magnificat : ScriptFunc {
   if ( $version =~ /Cistercian/i ) {
     $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
     $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] =~ s/\!\./\!/; #  ( !. -> ! ).
     $ant_parts[0] .= " " ;
   }
 
@@ -1269,7 +1271,8 @@ sub getordinarium {
   if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
   elsif ($version =~ /trident/i && $hora =~ /(laudes|vespera)/i) { $suffix .= "Trid"; }
-  elsif ($version =~ /Cistercian/i && $votive =~ /C12/i ) { $command = "Minor"; $suffix .= "CistParvum"; }
+  elsif ($version =~ /Cistercian/i && $votive =~ /C12/i && $hora =~ /(Prima|Tertia|Sexta|Nona)/i ) { $command = "Minor"; $suffix .= "CistParvum"; }
+  elsif ($version =~ /Cistercian/i && $votive =~ /C12/i && $hora =~ /(Laudes|Vespera)/i ) { $suffix .= "CistParvum"; }
   elsif ($version =~ /Cistercian/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }

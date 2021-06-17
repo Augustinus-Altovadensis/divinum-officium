@@ -1,0 +1,30 @@
+#Incipit
+$Ave Maria Parvum
+_
+℣. Deus in adjutórium meum inténde.
+℟. Dómine, ad adjuvándum me festína.
+&Gloria
+
+#Psalmi
+
+#Capitulum Responsorium Hymnus Versus
+
+#Canticum Magnificat
+&ant_Magnificat(1)
+&canticum(2)
+&Gloria
+_
+&ant_Magnificat(2)
+_
+#Oratio
+_
+!Commemoratio de Sanctis
+Ant. Sancti Dei omnes, intercédere dignémini pro nostra, omniúmque salúte.
+V. Lætámini in Dómino, et exsultáte justi.
+R. Et gloriámini omnes recti corde.
+$Oremus
+v. Infirmitátem nostram, quæsumus Dómine, propítius réspice: et mala ómnia quæ juste merémur, ómnium Sanctórum tuórum intercessióne avérte. Per Christum, Dóminum nostrum.
+℟. Amen.
+
+#Conclusio
+$Dulce nomen

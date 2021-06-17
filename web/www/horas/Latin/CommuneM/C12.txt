@@ -14,23 +14,49 @@ Votive nocturn
 Feria Te Deum
 
 [Versum 1]
-@Commune/C11:Versum 2
+@:Versum 2
 
 [Ant 1]
-@Commune/C10
+Sancta María * succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femineo sexu.
+
+[Ant Vespera]
+Beáta Mater * et intácta Virgo, gloriósa Regína mundi, intercéde pro nobis ad Dóminum. ;;109
+;;112
+;;121
+;;126
 
 [Oratio 1]
-@Commune/C10:Oratio
+v. Concéde nos fámulos tuos, quæsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: * et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia. * Per Christum Dóminum nostrum.
+℟. Amen.
+
+
+[Capitulum Vespera]
+!Eccl. 24:11-12
+v. In ómnibus réquiem quæsívi, et in hereditáte Dómini morábor. Tunc præcépit, et dixit mihi Creátor ómnium, et qui creávit me, requiévit in tabernáculo meo.
+$Deo gratias
+_
+℟.br. Post partum, Virgo, * Invioláta permansísti.
+℟. Post partum, Virgo, * Invioláta permansísti.
+℣. Dei Génitrix, intercéde pro nobis.
+℟. Invioláta permansísti.
+
+
+
 
 [Oratio 2]
-v. Deus, qui de beatæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: praesta supplícibus tuis; ut, qui vere eam Genitrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
+v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Mariæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia. Der Christum Dóminum nostrum.
+℟. Amen.
+
+
+[Oratio Backup]
+v. Deus, qui de beatæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genitrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur.
 $Per eumdem
 
 [Commemoratio]
 !Commemoratio de Sanctis
-Ant. Sancti Dei omnes, intercédere dignémini pro nostra omniúmque salúte.
-V. Lætamini in Dómino et exsultáte, justi.
-R. Et gloriámini, omnes recti corde.
+Ant. Sancti Dei omnes, intercédere dignémini pro nostra, omniúmque salúte.
+V. Lætámini in Dómino, et exsultáte justi.
+R. Et gloriámini omnes recti corde.
 $Oremus
 v. Infirmitátem nostram, quæsumus Dómine, propítius réspice: et mala ómnia quæ juste merémur, ómnium Sanctórum tuórum intercessióne avérte. Per Christum, Dóminum nostrum.
 ℟. Amen.
@@ -65,7 +91,7 @@ _
 Ant. Compléti sunt dies Maríæ, ut páreret Fílium suum primogénitum.
 
 #Capitulum
-!Sir 24:19-20
+!Eccl. 24:19-20
 v. Sicut cinnamómum, et bálsamum aromatízans odórem dedi: quasi myrrha elécta dedi suavitátem odóris.
 $Deo gratias
 _
@@ -90,7 +116,7 @@ _
 ℟. Fiat mihi secúndum verbum tuum.
 _
 $Oremus
-v. Concéde, miséricors Deus, fragilitáti nostrae praesídium, § ut, qui sanctae Dei Genitrícis memóriam ágimus, * intercessiónis ejus auxílio a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nostrum.
+v. Concéde, miséricors Deus, fragilitáti nostræ præsídium, § ut, qui sanctæ Dei Genitrícis memóriam ágimus, * intercessiónis ejus auxílio a nostris iniquitátibus resurgámus. Per eúmdem Christum Dóminum nostrum.
 ℟. Amen.
 
 #Conclusio
@@ -109,21 +135,21 @@ $Fidelium animae
 @Commune/C11::s/V\. .*/V. Diffúsa est grátia in lábiis tuis./g s/R\. .*/R. Proptérea benedíxit te Deus in ætérnum./g
 
 [Lectio1]
-!Sir 24:11-13
-11 In omnibus requiem quaesivi, et in hereditate Domini morabor.
-12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
+!Eccl. 24:11-13
+11 In omnibus requiem quæsivi, et in hereditate Domini morabor.
+12 Tunc præcepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
 13 Et dixit mihi: In Jacob inhabita, et in Israël hereditare, et in electis meis mitte radices.
 
 [Lectio2]
-!Sir 24:15-16
+!Eccl. 24:15-16
 15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerúsalem potestas mea.
 16 Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
 
 [Responsory2]
-R. Beata es, Virgo Maria, quae Dominum portasti, Creatorem mundi:
-* Genuisti qui te fecit, et in aeternum permanes Virgo.
+R. Beata es, Virgo Maria, quæ Dominum portasti, Creatorem mundi:
+* Genuisti qui te fecit, et in æternum permanes Virgo.
 V. Ave Maria, gratia plena, Dominus tecum.
-R. Genuisti qui te fecit, et in aeternum permanes Virgo.
+R. Genuisti qui te fecit, et in æternum permanes Virgo.
 
 [Lectio3]
 @Commune/C12Q
@@ -131,9 +157,9 @@ R. Genuisti qui te fecit, et in aeternum permanes Virgo.
 
 [Responsory3]
 R. Felix namque es, sacra Virgo Maria, et omni laude dignissima:
-* Quia ex te ortus est sol justitiae, * Christus Deus noster.
+* Quia ex te ortus est sol justitiæ, * Christus Deus noster.
 V. Ora pro populo, interveni pro clero, intercede pro devoto femineo sexu: sentiant omnes tuum juvamen, quicumque celebrant tuam sanctam commemorationem.
-R. Quia ex te ortus est sol justitiae.
+R. Quia ex te ortus est sol justitiæ.
 &Gloria
 R. Christus Deus noster.
 
@@ -144,11 +170,11 @@ R. Christus Deus noster.
 &Gloria
 
 [Ant Laudes]
-O admirábile commércium! * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est; et, procédens homo sine sémine, largítus est nobis suam deitátem.
+O admirábile commércium! * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est: et procédens homo sine sémine, largítus est nobis suam Deitátem.
 
 [Capitulum Laudes]
-!Sir 24:11-12
-v. In ómnibus réquiem quaesívi, et in hereditáte Dómini morábor. Tunc praecépit, et dixit mihi Creátor ómnium, et qui creávit me, requiévit in tabernáculo meo.
+!Eccl. 24:11-12
+v. In ómnibus réquiem quæsívi, et in hereditáte Dómini morábor. Tunc præcépit, et dixit mihi Creátor ómnium, et qui creávit me, requiévit in tabernáculo meo.
 $Deo gratias
 _
 R.br. Ave María, grátia plena, * Dóminus tecum.
@@ -164,7 +190,7 @@ R. Dóminus tecum.
 @Commune/C10:Ant 2
 
 [Oratio Laudes]
-v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Mariæ semper Vírginis intercessióne, a praesénti liberári tristítia, et aetérna pérfrui laetítia. Der Christum Dóminum nostrum.
+v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Mariæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia. Der Christum Dóminum nostrum.
 ℟. Amen.
 
 [Special Laudes]
@@ -195,8 +221,6 @@ _
 @Commune/C10:HymnusM Laudes
 _
 @:Versum 2
-
-&psalm(231)
 
 $Oremus
 @:Oratio Laudes
@@ -243,9 +267,11 @@ $Dulce nomen
 
 
 [Capitulum Prima]
-@Commune/C10:Capitulum Vespera
+!Eccl. 24:14
+Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi.
+℟. Deo grátias.
 _
-@Commune/C11:Versum 4
+@:Commune/C11:Versum 4
 
 
 [Oratio Prima]
@@ -253,12 +279,12 @@ v. Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte,
 ℟. Amen.
 
 [Capitulum Tertia]
-!Sir 24:11-12
-v. In ómnibus réquiem quaesívi, et in hereditáte Dómini morábor. Tunc praecépit, et dixit mihi Creátor ómnium: et qui creávit me requiévit in tabernáculo meo.
+!Eccl. 24:11-12
+v. In ómnibus réquiem quæsívi, et in hereditáte Dómini morábor. Tunc præcépit, et dixit mihi Creátor ómnium: et qui creávit me requiévit in tabernáculo meo.
 $Deo gratias
 _
-V. Ave María, grátia plena.
-R. Dóminus tecum.
+℣. Ave María, grátia plena.
+℟. Dóminus tecum.
 
 [Oratio Tertia]
 v. Concéde nos fámulos tuos, quæsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: * et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia. * Per Christum Dóminum nostrum.
@@ -266,66 +292,35 @@ v. Concéde nos fámulos tuos, quæsumus, Dómine Deus, perpétua mentis et cór
 
 
 [Capitulum Sexta]
-!Sir 24:16
-v. Et radicavi in populo honorificato, et in parte Dei mei hereditas illius et in plenitudine sanctorum detentio mea.
+!Eccl. 24:15
+v. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea.
 $Deo gratias
+_
+℣. Benedícta tu in muliéribus.
+℟. Et benedíctus fructus ventris tui.
 
 [Oratio Sexta]
-v. Concede, misericors Deus, fragilitati nostrae praesidium: ut qui sanctae Dei Genitricis memoriam agimus, intercessionis ejus auxilio, a nostris iniquitatibus resurgamus.
-$Per eumdem
+v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte foecúnda, humáno géneri præmia præstitísti: § tríbue, quæsumus; * ut ipsam pro nobis intercédere sentiámus, § per quam merúimus auctórem vitæ suscípere, * Dóminum nostrum Jesum Christum Fílium tuum.
+℟. Amen.
 
-[Special Sexta]
-@:Minor intro
-@:Ant Laudes:3 s/^/Ant. /
-&psalm(122)
 
-&psalm(123)
-
-&psalm(124)
-_
-@:Ant Laudes:3 s/^/Ant. /
-
-#Capitulum
-@:Capitulum Sexta
-_
-@Commune/C10:Versum 2
-@:Pre oratio
-@:Oratio Sexta
-@:Minor final
 
 [Capitulum Nona]
-@Commune/C11:Lectio Prima
+!Eccl. 24:16
+v. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea.
 $Deo gratias
+_
+℣. Post partum, Virgo, invioláta permansísti.
+℟. Dei Génitrix, intercéde pro nobis.
 
 [Oratio Nona]
-v. Famulorum tuorum, quaesumus, Domine, delictis ignosce: ut qui tibi placere de actibus nostris non valemus, Genitricis Filii tui Domini nostri intercessione salvemur:
-$Qui tecum
+v. Famulórum tuórum, quæsumus, Dómine, delíctis ignósce: ut qui tibi plácere de áctibus nostris non valémus, Genitrícis Fílii tui Dómini nostri intercessióne salvémur. Qui tecum vivit et regnat in sæcula sæculórum.
+℟. Amen.
 
-[Verse Nona]
-V. Post partum, Virgo, inviolata permansisti.
-R. Dei Génetrix, intercede pro nobis.
 
-[Special Nona]
-@:Minor intro
-@:Ant Laudes:5 s/^/Ant. /
-&psalm(125)
-
-&psalm(126)
-
-&psalm(127)
-_
-@:Ant Laudes:5 s/^/Ant. /
-
-#Capitulum
-@:Capitulum Nona
-_
-@:Verse Nona
-@:Pre oratio
-@:Oratio Nona
-@:Minor final
 
 [Versum 3]
 @:Versum 1
 
 [Ant 3]
-@Commune/C10:Ant 1
+@:Ant 1
