@@ -377,7 +377,6 @@ sub specials {
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);
       }
-      $capit =~ s/e/-test-/ig;
 
       push(@s, $capit);
 
