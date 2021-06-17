@@ -251,7 +251,7 @@ sub specials {
       my $resp = '';
       my $votive = shift;
 
-      if ( $votive =~ /C12/i ) { $capit =~ s/e/-Test-/ig ; }
+      #if ( $votive =~ /C12/i ) { $capit =~ s/e/-Test-/ig ; }
 
       if ($capit !~ /\_\nR\.br. (.*)/is) {
         $resp = $capit{"Responsory $name"};

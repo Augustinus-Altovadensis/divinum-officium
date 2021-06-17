@@ -253,13 +253,7 @@ if ($command =~ /kalendar/) {    # kalendar widget
   #generate HTML
   htmlHead($title, 2);
   print << "PrintTag";
-<style>
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
-</style>
-<BODY VLINK=$visitedlink LINK=$link BACKGROUND="$htmlurl/horasbg.jpg" { font-family: 'EB Garamond', serif; } onload="startup();">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&display=swap');
-</style>
+<BODY VLINK=$visitedlink LINK=$link BACKGROUND="$htmlurl/horasbg.jpg" onload="startup();">
 <script>
 // https redirect
 if (location.protocol !== 'https:' && (location.hostname == "divinumofficium.com" || location.hostname == "www.divinumofficium.com")) {

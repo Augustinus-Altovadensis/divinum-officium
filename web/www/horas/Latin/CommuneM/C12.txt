@@ -137,14 +137,41 @@ R. Quia ex te ortus est sol justitiae.
 &Gloria
 R. Christus Deus noster.
 
-[Special Laudes]
+[Incipit Laudes]
 #Incipit
 ℣. Deus in adjutórium meum inténde.
 ℟. Dómine, ad adjuvándum me festína.
 &Gloria
 
+[Ant Laudes]
+O admirábile commércium! * Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est; et, procédens homo sine sémine, largítus est nobis suam deitátem.
+
+[Capitulum Laudes]
+!Sir 24:11-12
+v. In ómnibus réquiem quaesívi, et in hereditáte Dómini morábor. Tunc praecépit, et dixit mihi Creátor ómnium, et qui creávit me, requiévit in tabernáculo meo.
+$Deo gratias
+_
+R.br. Ave María, grátia plena, * Dóminus tecum.
+R. Ave María, grátia plena, * Dóminus tecum.
+V. Benedícta tu in muliéribus, et benedíctus fructus ventris tui.
+R. Dóminus tecum.
+
+[Versum 2]
+℣. Speciósa facta es, et suávis.
+℟. In delíciis tuis, sancta Dei Génitrix.
+
+[Ant 2]
+@Commune/C10:Ant 2
+
+[Oratio Laudes]
+v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Mariæ semper Vírginis intercessióne, a praesénti liberári tristítia, et aetérna pérfrui laetítia. Der Christum Dóminum nostrum.
+℟. Amen.
+
+[Special Laudes]
+@:Incipit Laudes
+
 #Psalmi
-Ant. O admirábile commércium.
+@:Ant Laudes:1
 &psalm(92)
 
 &psalm(99)
@@ -159,31 +186,20 @@ _
 _
 &psalm(150)
 _
-Ant. O admirábile commércium! Creátor géneris humáni, animátum corpus sumens, de Vírgine nasci dignátus est; et, procédens homo sine sémine, largítus est nobis suam deitátem.
+@:Ant Laudes:1
 
 #Capitulum
-!Sir 24:11-12
-v. In ómnibus réquiem quaesívi, et in hereditáte Dómini morábor. Tunc praecépit, et dixit mihi Creátor ómnium, et qui creávit me, requiévit in tabernáculo meo.
-$Deo gratias
-_
-R.br. Ave María, grátia plena, * Dóminus tecum.
-R. Ave María, grátia plena, * Dóminus tecum.
-V. Benedícta tu in muliéribus, et benedíctus fructus ventris tui.
-R. Dóminus tecum.
+@:Capitulum Laudes
 _
 #Hymnus
 @Commune/C10:HymnusM Laudes
 _
-℣. Speciósa facta es, et suávis.
-℟. In delíciis tuis, sancta Dei Génitrix.
+@:Versum 2
 
-@Commune/C10:Ant 2 s/^/Ant. / s/(.*) \*(.*)/$1\./
 &psalm(231)
-@Commune/C10:Ant 2 s/^/Ant. / s/\*//
 
 $Oremus
-v. Concéde nos fámulos tuos, quæsumus Dómine Deus, perpétua mentis et córporis sanitáte gaudére, et gloriósa beátæ Mariæ semper Vírginis intercessióne, a praesénti liberári tristítia, et aetérna pérfrui laetítia. Der Christum Dóminum nostrum.
-℟. Amen.
+@:Oratio Laudes
 
 #Conclusio
 $Dulce nomen

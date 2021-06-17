@@ -129,14 +129,38 @@ R. For out of thee rose the Sun of righteousness
 &Gloria
 R. Even Christ our God.
 
-[Special Laudes]
+[Incipit Laudes]
 #Incipit
 ℣. Bože, k pomoci mé shlédni;
 ℟. Pane, přispěš k mé pomoci.
 &Gloria
 
+[Ant Laudes]
+Jak podivuhodná to výměna! * Tvůrce lidského rodu přijal oživené tělo, ráčil se narodit z Panny; stal se bez mužské součinnosti člověkem, a daroval nám své božství.
+
+[Capitulum Laudes]
+!Sir 24:11-12 (7-8)
+v.  U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
+$Deo gratias
+_
+R.br. Zdrávas Maria, milosti plná, * Pán s tebou.
+R. Zdrávas Maria, milosti plná, * Pán s tebou.
+V. Požehnaná ty mezi ženami, a požehnaný plod života tvého.
+R. Pán s tebou.
+
+[Versum 2]
+℣. Krásnou ses stala, a sladkou.
+℟. Ve potěšeních tvých, svatá Boží Rodičko.
+
+[Oratio Laudes]
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Special Laudes]
+@:Incipit Laudes
+
 #Psalmi
-Ant. Jak podivuhodná to výměna!
+@:Ant Laudes:1
 &psalm(92)
 
 &psalm(99)
@@ -151,31 +175,22 @@ _
 _
 &psalm(150)
 _
-Ant.  Jak podivuhodná to výměna! Tvůrce lidského rodu přijal oživené tělo, ráčil se narodit z Panny; stal se bez mužské součinnosti člověkem, a daroval nám své božství.
+@:Ant Laudes:1
 
 #Capitulum
-!Sir 24:11-12 (7-8)
-v.  U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
-$Deo gratias
-_
-R.br. Zdrávas Maria, milosti plná, * Pán s tebou.
-R. Zdrávas Maria, milosti plná, * Pán s tebou.
-V. Požehnaná ty mezi ženami, a požehnaný plod života tvého.
-R. Pán s tebou.
+@:Capitulum Laudes
 _
 #Hymnus
 @Commune/C10:HymnusM Laudes
 _
-℣. Krásnou ses stala, a sladkou.
-℟. Ve potěšeních tvých, svatá Boží Rodičko.
+@Versum 2
 
-@Commune/C10:Ant 2 s/^/Ant. / s/(.*) \*(.*)/$1\./
+@Commune/C10:Ant 2
 &psalm(231)
-@Commune/C10:Ant 2 s/^/Ant. / s/\*//
+@Commune/C10:Ant 2
 
 $Oremus
-v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
-℟. Amen.
+@Oratio Laudes
 
 #Conclusio
 $Dulce nomen
