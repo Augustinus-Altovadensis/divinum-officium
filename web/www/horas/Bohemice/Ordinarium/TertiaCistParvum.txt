@@ -1,0 +1,32 @@
+#Incipit
+$Ave Maria Parvum
+_
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+
+#Hymnus {:H-MinorParvum:}
+v. Pomni, tvůrce země celé, 
+žes nám byl podoben v těle, 
+když sestoupils s nebes trůnu
+a vtělil se v Panny lůnu.
+_
+r. Maria Matko milosti,
+též Matko milosrdnosti,
+ty nás od ďábla ochraňuj,
+v hodince smrti při nás stůj.
+_
+r. Sláva buď tobě, Pane náš,
+jenž čistou Pannu matku máš;
+S Otcem i svatým Duchem,
+ty vládneš věčným věkům všem.
+Amen.
+
+#Psalmi
+
+#Capitulum
+
+#Oratio
+
+#Conclusio
+$Dulce nomen

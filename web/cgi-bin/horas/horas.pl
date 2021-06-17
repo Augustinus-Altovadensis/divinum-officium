@@ -204,7 +204,7 @@ sub resolve_refs {
     $line =~ s/(\w)$/$&./ if ($line =~ /^\s*Ant\./);
 
     #red prefix
-    if ($line =~ /^\s*(R\.br\.|℟\.br\.|R\.|V\.|℟.|℣.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
+    if ($line =~ /^\s*(R\.br\.|℟\.br\.|R\.|V\.|℟.|℣.|\*|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
       my $h = $1;
       my $l = $2;
 
@@ -1259,7 +1259,7 @@ sub special : ScriptFunc {
   return $r;
 }
 
-#*** getordinarium($lanf, $command)
+#*** getordinarium($lang, $command)
 # returns the ordinarium for the language and hora
 sub getordinarium {
   my $lang = shift;
@@ -1269,10 +1269,12 @@ sub getordinarium {
   if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; }
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
   elsif ($version =~ /trident/i && $hora =~ /(laudes|vespera)/i) { $suffix .= "Trid"; }
+  elsif ($version =~ /Cistercian/i && $votive =~ /C12/i ) { $command = "Minor"; $suffix .= "CistParvum"; }
   elsif ($version =~ /Cistercian/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
+
 
   @script = process_conditional_lines(do_read($fname));
   $error = "$fname cannot be opened or gives an empty script." unless @script;

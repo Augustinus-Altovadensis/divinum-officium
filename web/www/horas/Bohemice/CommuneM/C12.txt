@@ -5,16 +5,12 @@ Officium parvum Beatae Mariae Virginis
 Officium parvum Beatae Mariae Virginis;;Simplex;;1;;ex C11
 
 [Rule]
-ex C11;
+ex C11
 Ave only
 Doxology=Nat
 Omit Suffragium
-Omit Psalm0 Laudes
 Special Benedictio
-Special Laudes
 Votive nocturn
-Psalmi Dominica
-Antiphonas Horas
 Feria Te Deum
 
 [Oratio 2]
@@ -232,12 +228,12 @@ v. Bože, který jsi chtěl, aby se tvé Slovo po andělském zvěstování v l�
 
 [Capitulum Tertia]
 !Sir 24:15
-v. And so I was established in Zion, and likewise in the holy city was I given to rest, and in Jerusalem was my power.
+v. U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
 $Deo gratias
 
 [Oratio Tertia]
-v. O God, Who, by the fruitful virginity of the Blessed Mary, hast given unto mankind the rewards of everlasting life; grant, we beseech thee, that we may continually feel the might of her intercession through whom we have worthily received the Author of our life, our Lord Jesus Christ, thy Son:
-$Qui tecum
+v. Všemohoucí Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života. Skrze Krista, našeho Pána.
+℟. Amen.
 
 [Capitulum Sexta]
 !Sir 24:16

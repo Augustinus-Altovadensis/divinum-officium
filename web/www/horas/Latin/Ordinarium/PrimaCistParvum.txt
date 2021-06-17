@@ -1,0 +1,33 @@
+#Incipit
+$Ave Maria Parvum
+_
+℣. Deus in adjutórium meum inténde.
+℟. Dómine, ad adjuvándum me festína.
+&Gloria
+
+#Hymnus {:H-MinorParvum:}
+v. Meménto, salútis Auctor,
+Quod nostri quondam córporis,
+Ex illibáta Vírgine 
+Nascéndo, formam súmpseris.
+_
+r. María, Mater grátiæ, 
+Mater misericórdiæ,
+tu nos ab hoste prótege, 
+et hora mortis súscipe.
+_
+r. Glória tibi Dómine,
+qui natus es de Vírgine, 
+cum Patre et Sancto Spíritu, 
+in sempitérna sæcula.
+Amen.
+
+#Psalmi
+
+#Capitulum Versus
+
+#Oratio
+
+#Conclusio
+$Dulce nomen
+

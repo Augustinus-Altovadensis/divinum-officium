@@ -5,15 +5,12 @@ Officium parvum Beatae Mariae Virginis
 Officium Parvum Beatae Mariae Virginis;;Simplex;;1;;ex C11
 
 [Rule]
-ex C11;
+ex C11
 Ave only
 Doxology=Nat
 Omit Suffragium
-Omit Psalm0 Laudes
 Special Benedictio
 Votive nocturn
-Psalmi Feria
-Antiphonas horas
 Feria Te Deum
 
 [Versum 1]
@@ -221,6 +218,7 @@ _
 @:Hymnus minor
 
 #Psalmi
+$psalmi_minor
 
 [Minor final]
 
@@ -228,50 +226,28 @@ _
 $Dulce nomen
 
 
+[Capitulum Prima]
+@Commune/C10:Capitulum Vespera
+_
+@Commune/C11:Versum 4
+
+
 [Oratio Prima]
 v. Deus, qui de beátæ Maríæ Vírginis útero Verbum tuum, Angelo nuntiánte, carnem suscípere voluísti: præsta supplícibus tuis; ut, qui vere eam Genetrícem Dei crédimus, ejus apud te intercessiónibus adjuvémur. Per eúmdem Christum Dóminum nostrum. 
 ℟. Amen.
 
-[Special Prima]
-@:Minor intro
-
-#Capitulum
-@Commune/C10:Capitulum Vespera
-_
-@Commune/C11:Versum 4
-_
-&Dominus_vobiscum
-$Oremus
-@:Oratio Prima
-@:Minor final
-
 [Capitulum Tertia]
-!Sir 24:15
-v. Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerúsalem potestas mea.
+!Sir 24:11-12
+v. In ómnibus réquiem quaesívi, et in hereditáte Dómini morábor. Tunc praecépit, et dixit mihi Creátor ómnium: et qui creávit me requiévit in tabernáculo meo.
 $Deo gratias
+_
+V. Ave María, grátia plena.
+R. Dóminus tecum.
 
 [Oratio Tertia]
-v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
-$Qui tecum
+v. Concéde nos fámulos tuos, quæsumus, Dómine Deus, perpétua mentis et córporis sanitáte gaudére: * et gloriósa beátæ Maríæ semper Vírginis intercessióne, a præsénti liberári tristítia, et ætérna pérfrui lætítia. * Per Christum Dóminum nostrum.
+℟. Amen.
 
-[Special Tertia]
-@:Minor intro
-@:Ant Laudes:2 s/^/Ant. /
-&psalm(119)
-
-&psalm(120)
-
-&psalm(121)
-_
-@:Ant Laudes:2 s/^/Ant. /
-
-#Capitulum
-@:Capitulum Tertia
-_
-@Commune/C11:Versum 2
-@:Pre oratio
-@:Oratio Tertia
-@:Minor final
 
 [Capitulum Sexta]
 !Sir 24:16

@@ -204,6 +204,10 @@ sub specials {
         @capit = split("\n", $brevis{'Feria'});
         $comment = 1;
         setbuild1('Capitulum', 'Psalterium Feria');
+      } elsif ( $votive =~ /C12/i ) {
+        @capit = split("\n", $brevis{'Parvum'});
+        $comment = 0;
+        setbuild1('Capitulum', 'Psalterium Dominica');
       } else {
         @capit = split("\n", $brevis{'Dominica'});
         $comment = 0;
@@ -245,6 +249,9 @@ sub specials {
       $name .= 'M' if ($version =~ /monastic/i);
       my $capit = $capit{$name};
       my $resp = '';
+      my $votive = shift;
+
+      if ( $votive =~ /C12/i ) { $capit =~ s/e/-Test-/ig ; }
 
       if ($capit !~ /\_\nR\.br. (.*)/is) {
         $resp = $capit{"Responsory $name"};
@@ -270,6 +277,7 @@ sub specials {
         $w =~ s/\s*//;
         $w .= "\n_\n$resp";
       }
+
       if ($w) { @capit = split("\n", $w); $comment = $c; }
       postprocess_short_resp(@capit, $lang);
       setcomment($label, 'Source', $comment, $lang);
@@ -369,6 +377,8 @@ sub specials {
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);
       }
+      $capit =~ s/e/-test-/ig;
+
       push(@s, $capit);
 
       #my @capit = split("\n", chompd($capit) . "_\n" . $versum);
@@ -385,7 +395,8 @@ sub specials {
         : ($dayname[0] =~ /Adv/i) ? 'Adv'
         : ($dayname[0] =~ /Pasc6/i || ($dayname[0] =~ /Pasc5/i && $dayofweek > 3)) ? 'Asc'
         : ($dayname[0] =~ /Pasc[0-6]/i) ? 'Pasc'
-        : ($dayname[0] =~ /Pasc7/i) ? Pent
+        : ($dayname[0] =~ /Pasc7/i) ? 'Pent'
+        : ($votive =~ /C12/i) ? 'Parvum'
         : 'Per Annum';
 
       if ($version =~ /1960/) {
@@ -410,12 +421,12 @@ sub specials {
 
         if (exists($w{'Lectio Prima'})) {
           $b = $w{'Lectio Prima'};
-          if ($b) { setbuild2("Subst Lectio Pima $winner"); $comment = 3; }
+          if ($b) { setbuild2("Subst Lectio Prima $winner"); $comment = 3; }
         }
 
         if (!$b && $communetype =~ /ex/i && exists($commune{'Lectio Prima'})) {
           $b = (columnsel($lang)) ? $commune{'Lectio Prima'} : $commune2{'Lectio Prima'};
-          if ($b) { setbuild2("Subst Lectio Pima $commune"); $comment = 3; }
+          if ($b) { setbuild2("Subst Lectio Prima $commune"); $comment = 3; }
         }
 
         if (!$b && ($winner =~ /sancti/i || $commune =~ /C10/)) {
@@ -462,7 +473,7 @@ sub specials {
       # Normally we only handle the Oratio(nes) section at the hours other than
       # Prime and Compline, but during the Triduum, we do it for those hours,
       # too. The test for this case is somewhat oblique.
-      my $prime_or_compline = ($hora =~ /Prima|Completorium/i);
+      my $prime_or_compline = ($hora =~ /Prima|Completorium/i) unless ( $votive =~ /C12/i && $version =~ /Cistercian/i );
       my $triduum = ($rule =~ /Limit.*?Oratio/);
       my %oratio_params;
 
@@ -686,8 +697,25 @@ sub psalmi_minor {
   my %psalmi = %{setupstring($datafolder, $lang, 'Psalterium/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic/i && $version !~ /Cistercian/i ) {
     @psalmi = split("\n", $psalmi{Monastic});
+    my $i =
+        ($hora =~ /prima/i) ? $dayofweek
+      : ($hora =~ /tertia/i) ? 8
+      : ($hora =~ /sexta/i) ? 11
+      : ($hora =~ /nona/i) ? 14
+      : 17;
+
+    if ($hora !~ /(prima|completorium)/i) {
+      if ($dayofweek > 0) { $i++; }
+      if ($dayofweek > 1) { $i++; }
+    }
+    $psalmi[$i] =~ s/\=/\;\;/;
+    my @a = split(';;', $psalmi[$i]);
+    $ant = chompd($a[1]);
+    $psalms = chompd($a[2]);
+  } elsif ($version =~ /Cistercian/i && $votive !~ /C12/i ) {
+    @psalmi = split("\n", $psalmi{Cistercian});
     my $i =
         ($hora =~ /prima/i) ? $dayofweek
       : ($hora =~ /tertia/i) ? 8
@@ -745,7 +773,7 @@ sub psalmi_minor {
 
       # Prime has one form for each day of the week in the temporal
       # office, and another for feasts and Paschaltide.
-      $psalmkey = 'Prima ' . $days[$dayofweek] ;
+      $psalmkey = "$hora " . $days[$dayofweek] ;
     
     ($ant, $psalms) = split(';;', $psalmlines{$psalmkey});
     $ant = chompd($ant);
@@ -829,7 +857,7 @@ sub psalmi_minor {
   $feastflag = 0;
 
   #look for special from proprium the tempore of sancti
-  if ($hora !~ /completorium/i) {
+  if ($hora !~ /completorium/i && $votive !~ /C12/i && $version !~ /Cistercian/i ) {
     my ($w, $c) = getproprium("Ant $hora", $lang, 0, 1);
 
     if (!$w) {
@@ -863,10 +891,11 @@ sub psalmi_minor {
   if ($dayname[0] =~ /Quad/i) { $ant =~ s/[(]*allel[uú][ij]a[\.\,]*[)]*//ig; }
   if ($ant) { $ant = "Ant. $ant"; }
   my @ant = split('\*', $ant);
-  
-  $ant[0] =~ tr/,/./;
-  substr ($ant[0], -1) = "."; #  Adds a dot to verse incipit (looks better)
-  $ant[0] =~ s/.(?!.)//g;   #  (only one...)
+
+  if ($version =~ /Cistercian/i) {
+      $ant[0] =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
+      $ant[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+      }
 
   postprocess_ant($ant, $lang);
   $ant1 = ($version !~ /1960|monastic/i || $version =~ /Cistercian/i ) ? $ant[0] : $ant;    #difference between 1955 and 1960

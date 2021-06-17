@@ -42,6 +42,11 @@ v. Si consurrexístis cum Christo, quæ sursum sunt quǽrite, ubi Christus est i
 !Act. 2:11
 v. Judǽi quoque, et Prosélyti, Cretes, et Arabes: audívimus eos loquéntes nostris linguis magnália Dei.
 
+[Parvum]
+@Commune/C10:Capitulum Vespera
+_
+@Commune/C11:Versum 4
+
 [Responsory Adv]
 Qui ventúrus es in mundum.
 

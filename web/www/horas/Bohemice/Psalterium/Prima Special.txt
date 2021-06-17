@@ -42,6 +42,11 @@ v. If you be risen with Christ, seek the things that are above; where Christ is 
 !Acts 2:11
 v. Jews also, and Proselytes, Cretes and Arabians, we do hear them speak in our tongues the wonderful works of God.
 
+[Parvum]
+@Commune/C10:Capitulum Vespera
+_
+@Commune/C11:Versum 4
+
 [Responsory Adv]
 Thou that shouldst come into the world.
 

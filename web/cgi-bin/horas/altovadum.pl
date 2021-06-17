@@ -196,6 +196,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Cerhonic/Cerhonice/gi;
 	$line =~ s/Litomerzic/Litoměřice/gi;
 	$line =~ s/Bilin/Bílina/gi;
+	$line =~ s/Myliczyn/Miličín/gi;
 
 
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
@@ -381,6 +382,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/(\w+) infulatus/infulovaný $1/ig;
 	$line =~ s/subdiaconus/podjáhen/gi;
 	$line =~ s/diaconus/jáhen/gi;
+	$line =~ s/accolitus/akolyta/gi;
 	$line =~ s/plebanus/plebán/gi;
 	$line =~ s/auxiliator |auxiliarius /pomocný duchovní /gi;
 	$line =~ s/cooperator administratoris|cooperator|cooperatro|capellanus|cooperatus|adjutor parochiae|adjutor parochi/kaplan/gi;
