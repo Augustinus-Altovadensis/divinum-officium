@@ -61,6 +61,95 @@ $Oremus
 v. Infirmitátem nostram, quæsumus Dómine, propítius réspice: et mala ómnia quæ juste merémur, ómnium Sanctórum tuórum intercessióne avérte. Per Christum, Dóminum nostrum.
 ℟. Amen.
 
+[Vigilia intro]
+#Incipit
+$Ave Maria Parvum
+_
+℣. Dómine, lábia mea apéries.
+℟. Et os meum annuntiábit laudem tuam.
+℣. Deus in adjutórium meum inténde.
+℟. Dómine, ad adjuvándum me festína.
+&Gloria
+
+[Invit]
+Ave María, grátia plena * Dóminus tecum.
+
+[Invitatorium]
+v. Ave María, grátia plena: * Dóminus tecum.
+r. Ave María, grátia plena: * Dóminus tecum.
+v. Veníte, exsultémus Dómino, jubilémus Deo, salutári nostro: præoccupémus fáciem ejus in confessióne, et in psalmis jubilémus ei.
+r. Ave María, grátia plena: * Dóminus tecum.
+v. Quóniam Deus magnus Dóminus, et Rex magnus super omnes deos, quóniam non repéllet Dóminus plebem suam: quia in manu ejus sunt omnes fines terræ, et altitúdines móntium ipse cónspicit.
+r. Dóminus tecum.
+v. Quóniam ipsíus est mare, et ipse fecit illud, et áridam fundavérunt manus ejus (genuflectitur) veníte, adorémus, et procidámus ante Deum: plorémus coram Dómino, qui fecit nos, quia ipse est Dóminus, Deus noster; nos autem pópulus ejus, et oves páscuæ ejus.
+r. Ave María, grátia plena: * Dóminus tecum.
+v. Hódie, si vocem ejus audiéritis, nolíte obduráre corda vestra, sicut in exacerbatióne secúndum diem tentatiónis in desérto: ubi tentavérunt me patres vestri, probavérunt et vidérunt ópera mea.
+r. Dóminus tecum.
+v. Quadragínta annis próximus fui generatióni huic, et dixi; Semper hi errant corde, ipsi vero non cognovérunt vias meas: quibus jurávi in ira mea; Si introíbunt in réquiem meam.
+r. Ave María, grátia plena: * Dóminus tecum.
+℣. Glória Patri, et Fílio, * et Spirítui Sancto.
+℟. Sicut erat in princípio, et nunc, et semper: * et in sǽcula sæculórum. Amen.
+r. Dóminus tecum.
+r. Ave María, grátia plena: * Dóminus tecum.
+
+[Benedictio]
+Alma Virgo Vírginum, intercédat pro nobis ad Dóminum.
+
+[Benedictio Parvum]
+℣. Jube, domne, benedícere.
+Benedictio. Alma Virgo Vírginum, intercédat pro nobis ad Dóminum.
+℟. Amen.
+
+[Ant Matutinum Special]
+Benedícta * tu in muliéribus et benedíctus fructus ventris tui.
+
+[Versum Matutinum]
+℣. Ave María, grátia plena.
+℟. Dóminus tecum.
+
+[Lectio Matutinum]
+!S. Aug. Serm. 18. de Sanctis
+v. Admítte piíssima Dei Génitrix preces nostras intra sacrárium exauditiónis, et repórta nobis antídotum reconciliatiónis. Sit per te excussábile quod per te ingérimus: fiat impetrábile quod fida mente póscimus. Accipe quod offérimus, redóna quod rogámus, excúsa quod timémus. Tu autem, Dómine, miserére nobis. 
+$Deo gratias
+_
+℟.br. Dignáre me laudáre te, * Virgo sacráta.
+℟. Dignáre me laudáre te, * Virgo sacráta.
+℣. Da mihi virtútem contra hostes tuos. * 
+℟. Virgo sacráta.
+
+[Conclusio Matutinum]
+Statim sequuntur %Laudes%.
+
+[Special Matutinum]
+@:Vigilia intro
+
+#Invitatorium
+@:Invitatorium
+
+#Hymnus
+@Commune/C11:Hymnus Matutinum: s/\* Jesu, tibi sit glória/Glória tibi, Dómine/ s/almo/sancto/
+
+#Psalmi
+&psalm(8)
+
+&psalm(18)
+
+&psalm(23)
+_
+@Commune/C11:Ant Matutinum:1 s/(.*) \*(.*);;(.*)/Ant. $1 $2/
+_
+@:Versum Matutinum
+
+#Lectio brevis
+@:Benedictio Parvum
+_
+@:Lectio Matutinum
+_
+@:Conclusio Matutinum
+
+[Backup]
+@Commune/C11:Ant Matutinum:1 s/(.*) \*(.*);;(.*)/Ant. $1./
+
 [Pre oratio]
 
 #Oratio

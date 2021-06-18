@@ -1272,7 +1272,7 @@ sub getordinarium {
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
   elsif ($version =~ /trident/i && $hora =~ /(laudes|vespera)/i) { $suffix .= "Trid"; }
   elsif ($version =~ /Cistercian/i && $votive =~ /C12/i && $hora =~ /(Prima|Tertia|Sexta|Nona)/i ) { $command = "Minor"; $suffix .= "CistParvum"; }
-  elsif ($version =~ /Cistercian/i && $votive =~ /C12/i && $hora =~ /(Laudes|Vespera)/i ) { $suffix .= "CistParvum"; }
+  elsif ($version =~ /Cistercian/i && $votive =~ /C12/i && $hora =~ /(Matutinum|Laudes|Vespera)/i ) { $suffix .= "CistParvum"; }
   elsif ($version =~ /Cistercian/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }
