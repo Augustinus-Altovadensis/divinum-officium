@@ -61,7 +61,7 @@ Grant, we beseech thee, O Lord God, unto all thy servants, that they may remain 
 $Per Dominum
 
 [Invit]
-Hail Mary, full of grace, * The Lord is with thee.
+Zdrávas Maria, milostiplná * Pán s tebou.
 
 [Benedictio]
 The prayers and merits of blessed Mary ever Virgin and all the Saints bring us to the kingdom of heaven. Amen.
@@ -96,8 +96,8 @@ na věky věčné slavnému.
 Amen.
 
 [Versum 2]
-V. Blessed art thou amongst women,
-R. And blessed is the fruit of thy womb.
+V. Požehnaná jsi mezi ženami.
+R. A požehnaný plod života tvého
 
 [Ant 2]
 O Blessed Mary, * Mother of God, Virgin for ever, temple of the Lord, sanctuary of the Holy Ghost, thou, without any example before thee, didst make thyself well-pleasing in the sight of our Lord Jesus Christ; pray for the people, plead for the clergy, make intercession for all women vowed to God.
