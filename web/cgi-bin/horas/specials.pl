@@ -249,9 +249,6 @@ sub specials {
       $name .= 'M' if ($version =~ /monastic/i);
       my $capit = $capit{$name};
       my $resp = '';
-      my $votive = shift;
-
-      #if ( $votive =~ /C12/i ) { $capit =~ s/e/-Test-/ig ; }
 
       if ($capit !~ /\_\nR\.br. (.*)/is) {
         $resp = $capit{"Responsory $name"};
@@ -267,13 +264,13 @@ sub specials {
       #look for special from prorium the tempore of sancti
       my ($w, $c) = getproprium("Capitulum $hora", $lang, $seasonalflag, 1);
 
-      if ($w !~ /\_\nR\.br/i) {
+      if ($w !~ /\_\nR\.br/i && $votive !~ /C12/i ) {
         ($wr, $cr) = getproprium("Responsory $hora", $lang, $seasonalflag, 1);
         $w =~ s/\s*$//;
         if ($wr) { $w .= "\n_\n$wr"; }
       }
 
-      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\nV\. /)) {
+      if ($w && $w !~ /\_\nR\.br/i && $votive !~ /C12/i && !($version =~ /monastic/i && $w =~ /\_\nV\. /)) {
         $w =~ s/\s*//;
         $w .= "\n_\n$resp";
       }
@@ -281,7 +278,7 @@ sub specials {
       if ($w) { @capit = split("\n", $w); $comment = $c; }
       postprocess_short_resp(@capit, $lang);
       setcomment($label, 'Source', $comment, $lang);
-      foreach $l (@capit) { push(@s, $l); }
+      foreach $l (@capit) { push(@s, $l) ; }
       next;
     }
 
@@ -499,7 +496,7 @@ sub specials {
       my %suffr = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};
       my ($suffr, $comment);
 
-      if ($version =~ /trident/i) {
+      if ($version =~ /trident|Cistercian/i) {
         if ($dayname[0] =~ /pasc/i && $dayname[1] =~ /(?:feria|vigilia)/i) { 
           $suffr = ($hora =~ /Laudes/) ? $suffr{"Suffragium2"} : $suffr{"Suffragium2v"}; }
         else {
@@ -1259,6 +1256,11 @@ sub oratio {
   }
   if ($hora =~ /Matutinum/i && exists($w{'Oratio Matutinum'})) { $w = $w{'Oratio Matutinum'}; }
   if (!$w) { $w = $w{"Oratio $ind"}; }
+
+  if ($hora =~ /Prima/i && exists($w{'Oratio Prima'})) { $w = $w{'Oratio Prima'}; }
+  if ($hora =~ /Tertia/i && exists($w{'Oratio Tertia'})) { $w = $w{'Oratio Tertia'}; }
+  if ($hora =~ /Sexta/i && exists($w{'Oratio Sexta'})) { $w = $w{'Oratio Sexta'}; }
+  if ($hora =~ /Nona/i && exists($w{'Oratio Nona'})) { $w = $w{'Oratio Nona'}; }
 
   if (!$w) {
     my %c = (columnsel($lang)) ? %commune : %commune2;
