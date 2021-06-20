@@ -711,22 +711,20 @@ sub psalmi_minor {
     $ant = chompd($a[1]);
     $psalms = chompd($a[2]);
   } elsif ($version =~ /Cistercian/i && $votive !~ /C12/i ) {
-    @psalmi = split("\n", $psalmi{Cistercian});
-    my $i =
-        ($hora =~ /prima/i) ? $dayofweek
-      : ($hora =~ /tertia/i) ? 8
-      : ($hora =~ /sexta/i) ? 11
-      : ($hora =~ /nona/i) ? 14
-      : 17;
+    my $daytype = ($dayofweek == 0) ? 'Dominica' : 'Feria';
+    my %psalmlines = split(/\n|=/, $psalmi{Cistercian});
+    my $psalmkey;
 
-    if ($hora !~ /(prima|completorium)/i) {
-      if ($dayofweek > 0) { $i++; }
-      if ($dayofweek > 1) { $i++; }
-    }
-    $psalmi[$i] =~ s/\=/\;\;/;
-    my @a = split(';;', $psalmi[$i]);
-    $ant = chompd($a[1]);
-    $psalms = chompd($a[2]);
+      my @days = ('Dominica', 'Feria II', 'Feria III', 'Feria IV', 'Feria V', 'Feria VI', 'Sabbato');
+
+      # Prime has one form for each day of the week in the temporal
+      # office, and another for feasts and Paschaltide.
+      if ( $hora !~ /Prima/i ) { @days = ('Dominica', 'Feria II', 'Feria', 'Feria', 'Feria', 'Feria', 'Feria'); }   # Simple workaround to get Feria III. under one entry in Psalmi minor.txt.
+      $psalmkey = "$hora " . $days[$dayofweek] ; 
+    
+    ($ant, $psalms) = split(';;', $psalmlines{$psalmkey});
+    $ant = chompd($ant);
+    $psalms = chompd($psalms);
   } elsif ($version =~ /trident/i) {
     my $daytype = ($dayofweek == 0) ? 'Dominica' : 'Feria';
     my %psalmlines = split(/\n|=/, $psalmi{Tridentinum});
