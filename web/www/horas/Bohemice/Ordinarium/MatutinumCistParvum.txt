@@ -1,0 +1,24 @@
+#Incipit
+$Ave Maria Parvum
+_
+℣. Pane, rty mé otevři.
+℟. Aby má ústa zvěstovala tvou chválu.
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+_
+#Invitatorium
+
+#Hymnus
+
+#Psalmi cum lectionibus
+
+#Oratio
+
+!Zbytek se vynechává, pokud se %Laudy% neříkají zvlášť.
+
+#Conclusio
+&Dominus_vobiscum
+&Benedicamus_Domino
+&Divinum_auxilium_cist
+$Fidelium animae

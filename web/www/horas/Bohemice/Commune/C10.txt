@@ -12,7 +12,7 @@ Doxology=Nat
 
 [Capitulum Vespera]
 !Sir 24:14
-v. From the beginning, and before the world, was I created, and unto the world to come I shall not cease to be, and in the holy dwelling place I have ministered before him.
+v. Před věky na počátku mě Bůh stvořil, až navěky být nepřestanu. Před ním ve svatostánku jsem konala svou službu.
 $Deo gratias.
 
 [Hymnus Vespera]
@@ -57,7 +57,7 @@ Amen.
 Blažená Matko a nedotčená Panno! * Slavná Královno světa! Přimlouvej se za nás u Pána!
 
 [Oratio]
-Grant, we beseech thee, O Lord God, unto all thy servants, that they may remain continually in the enjoyment of soundness both of mind and body, and by the glorious intercession of the Blessed Mary, always a Virgin, may be delivered from present sadness, and enter into the joy of thine eternal gladness.
+Všemohoucí Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života.
 $Per Dominum
 
 [Invit]
@@ -100,7 +100,7 @@ V. Požehnaná jsi mezi ženami.
 R. A požehnaný plod života tvého
 
 [Ant 2]
-O Blessed Mary, * Mother of God, Virgin for ever, temple of the Lord, sanctuary of the Holy Ghost, thou, without any example before thee, didst make thyself well-pleasing in the sight of our Lord Jesus Christ; pray for the people, plead for the clergy, make intercession for all women vowed to God.
+Blahoslavená jsi, Boží Rodičko, Maria, * Panno neposkvrněná, chráme Hospodinův, svatyně Ducha svatého; ty samojediná zalíbila ses našemu Pánu Ježíši Kristu tak jako žádná jiná; přimlouvej se za věřící lid, prosiž za duchovenstvo, oroduj za ženy Bohu zasvěcené!
 
 [Lectio Prima]
 !Sir 24:19-20

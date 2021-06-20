@@ -14,7 +14,7 @@ Votive nocturn
 Feria Te Deum
 
 [Oratio 1]
-v. Všemohoucí Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života. Skrze Krista, našeho Pána.
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
 ℟. Amen.
 
 [Ant 1]
@@ -121,9 +121,6 @@ $Dulce nomen
 $Fidelium animae
 
 
-[Ant Matutinum]
-@Commune/C11::s/V\. .*/V. Grace is poured into thy lips./g s/R\. .*/R. Therefore God hath blessed thee for ever./g
-
 [Lectio1]
 !Sir 24:11-13
 11 And by my power I have trodden under my feet the hearts of all the high and low: and in all these I sought rest, and I shall abide in the inheritance of the Lord.
@@ -157,6 +154,57 @@ R. For out of thee rose the Sun of righteousness
 &Gloria
 R. Even Christ our God.
 
+
+[Invit]
+Zdrávas Maria, milostiplná * Pán s tebou.
+
+[Invitatorium]
+v. Zdrávas Maria, milostiplná: * Pán s tebou.
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+v. Pojďme, jásejme Hospodinu, oslavujme Skálu své spásy, předstupme před něho s chvalozpěvy a písněmi mu zajásejme!
+r. Zdrávas Maria, milostiplná, Pán s tebou.
+v. Neboť veliký Bůh je Hospodin a veliký Král nade všemi bohy. Neboť Hospodin nezavrhne svůj lid. V jeho ruce jsou hlubiny země a jemu patří výšiny hor. 
+r. Pán s tebou.
+v. Jeho je moře, vždyť on je učinil, i souš, kterou zhnětly jeho ruce. (poklekneme) Pojďme, padněme, klaňme se, poklekněme před svým tvůrcem, Hospodinem! Neboť on je náš Bůh a my jsme lid, který pase, stádce vedené jeho rukou.
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+v. Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce jako v Meribě, jako tehdy v Masse na poušti, kde mě dráždili vaši otcové, zkoušeli mě, ač viděli mé činy.
+r. Pán s tebou.
+v. Čtyřicet let mi bylo protivné ono pokolení; řekl jsem: Je to lid, který bloudí v srdci, nepoznali mé cesty. Proto jsem přísahal ve svém hněvu: Nepřijdou na místo mého klidu!“
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+℣. Sláva Otci, i Synu, * i Duchu svatému.
+℟. Jako byla na počátku, i nyní, i vždycky: * a na věky věků. Amen.
+r. Pán s tebou.
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+
+[Benedictio]
+Vznešená Panno laskavá, přimluv se za nás u Pána.
+
+[Benedictio Parvum]
+℣. Přikaž, pane, a požehnej.
+Benedictio. Vznešená Panno laskavá, přimluv se za nás u Pána.
+℟. Amen.
+
+[Ant Matutinum]
+Požehnaná * jsi mezi ženami, a požehnaný plod života tvého.
+
+[Versum Matutinum]
+℣. Zdrávas Maria, milostiplná.
+℟. Pán s tebou.
+
+[Lectio Matutinum]
+!Kázání sv. Augustina č. 18. o Svatých
+v. Přijmi, přelaskavá Boží Rodičko, naše prosby do svatyně vyslyšení, a znovu nám přines protijed smíření. Budiž skrze tebe omluvitelné, co skrze tebe vyznáváme; budiž vyprositelné, co s důvěrou v mysli žádáme. Přijmi, co obětujeme, daruj nám opět, co žádáme, odpusť, čeho se obáváme. Ty však, Pane, smiluj se nad námi. 
+$Deo gratias
+_
+℟.br. Učiň mě hodným tě chválit, * Panno přesvatá.
+℟. Učiň mě hodným tě chválit, * Panno přesvatá.
+℣. Dej mi sílu proti tvým nepřátelům. * 
+℟. Panno přesvatá.
+
+
+[Conclusio Matutinum]
+Následují hned %Laudy%.
+
 [Incipit Laudes]
 #Incipit
 ℣. Bože, k pomoci mé shlédni;
@@ -168,7 +216,7 @@ Jak podivuhodná to výměna! * Tvůrce lidského rodu přijal oživené tělo, 
 
 [Capitulum Laudes]
 !Sir 24:11-12 (7-8)
-v.  U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
+v. U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
 $Deo gratias
 _
 R.br. Zdrávas Maria, milosti plná, * Pán s tebou.
@@ -277,7 +325,7 @@ _
 
 
 [Oratio Tertia]
-v. Všemohoucí Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života. Skrze Krista, našeho Pána.
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
 ℟. Amen.
 
 [Capitulum Sexta]

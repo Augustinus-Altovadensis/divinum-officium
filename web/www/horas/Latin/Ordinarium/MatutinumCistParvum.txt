@@ -1,0 +1,24 @@
+#Incipit
+$Ave Maria Parvum
+_
+℣. Dómine, lábia mea apéries.
+℟. Et os meum annuntiábit laudem tuam.
+℣. Deus in adjutórium meum inténde.
+℟. Dómine, ad adjuvándum me festína.
+&Gloria
+_
+#Invitatorium
+
+#Hymnus
+
+#Psalmi cum lectionibus
+
+#Oratio
+
+!Reliqua omittuntur, nisi %Laudes% separandae sint.
+
+#Conclusio
+&Dominus_vobiscum
+&Benedicamus_Domino
+&Divinum_auxilium_cist
+$Fidelium animae
