@@ -954,7 +954,7 @@ sub psalmi_major {
   if ($hora =~ /Laudes/) { $name .= $laudes; }
   my @psalmi = splice(@psalmi, @psalmi);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic/i && $version !~ /Cistercian/i ) {
     my $head = "Daym$dayofweek";
     if ($hora =~ /Laudes/i) {
       if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaymF'; }
@@ -973,6 +973,17 @@ sub psalmi_major {
         if ($dayofweek == 6) { $psalmi[1] .= '(1-7)'; $psalmi[2] = ';;142(8-12)'; }
         $psalmi[3] = $canticles[$dayofweek];
       }
+    }
+  } elsif ($version =~ /Cistercian/i) {
+    my $head = "Dayc$dayofweek";
+    if ($hora =~ /Laudes/i) {
+      if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaycF'; }
+      if ($dayname[0] =~ /Pasc/i && $head =~ /Dayc0/i) { $head = 'DaycP'; }
+    }
+    @psalmi = split("\n", $psalmi{"$head $hora"});
+
+    if ($hora =~ /Laudes/i && $head =~ /Dayc[1-6]/) {
+      $sday = get_sday($month, $day, $year);
     }
   } elsif ($version =~ /Trident/i
     && $testmode =~ /seasonal/i
