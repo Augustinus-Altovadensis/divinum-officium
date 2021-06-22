@@ -432,99 +432,90 @@ In the Lord * is the justice and the throne of the children of Israel.;;225
 Show us, O Lord * thy mercy; and grant us thy salvation.;;226(1-13)
 
 [Dayc1 Laudes]
-Have mercy upon me, * O God.;;50
-Hearken to my cry * O Lord.;;5
-Thy mercy, * O Lord, is in the heavens.;;35
-Thy wrath is turned away, * O Lord, and Thou hast comforted me.;;221
-Praise ye * the Lord from the heavens.;;148;149;150
+Smiluj se * nade mnou, Bože.;;50
+;;5
+;;35
+;;221
+;;148;149;150
 
 [Dayc2 Laudes]
-Blot out, O Lord * my iniquity.;;50
-The salvation of my countenance * and my God.;;42
-For in thee * my soul trusteth.;;56
-Keep us safe, O Lord * all the days of our life.;;222
-Praise ye the Lord * from the heavens, all His angels.;;148;149;150
+Zahlaď, Pane, * mou nepravost.;;50
+;;42
+;;56
+;;222
+;;148;149;150
 
 [Dayc3 Laudes]
-Wash me yet more, O Lord * from my iniquity.;;50
-Deliver my soul * O Lord, from the fear of the enemy.;;63
-A hymn, O God * becometh thee in Sion.;;;64
-The Lord will judge * all the ends of the earth.;;223
-Ye heavens of heavens* praise the Lord.;;148;149;150
+Ještě více mě obmyj, * Hospodine, od mé nespravedlnosti.;;50
+;;63
+;;64
+;;223
+;;148;149;150
 
 [Dayc4 Laudes]
-Before thee only have I sinned, * O Lord, have mercy on me.;;50
-Let my prayer * come in before thee.;;87
-Lord, * thou hast been our refuge.;;89
-Let us sing unto the Lord, * for He hath triumphed gloriously.;;224
-Praise ye the Lord * in his holy places.;;148;149;150
+Proti tobě samotnému * jsem zhřešil, Pane, smiluj se nade mnou.;;50
+;;87
+;;89
+;;224
+;;148;149;150
 
 [Dayc5 Laudes]
-With a perfect spirit * strengthen my heart, O God.;;50
-His name * is great in Israel.;;75
-It is a good thing * to give thanks unto the Lord.;;91
-O Lord, I have heard thy hearing, * and was afraid.;;225
-Praise him with timbrel and choir: * praise him with strings and organs.;;148;149;150
+Duchem velkodušnosti * posil mé srdce, Bože.;;50
+;;75
+;;91
+;;225
+;;148;149;150
 
 [Dayc6 Laudes]
-In thy good will, O Lord, * deal favourably with Sion.;;50
-In thy truth, O Lord, * listen unto me.;;142
-Ascribe greatness * to our God.;;226(1-32)
+Čiň dobro * ve své přízni, Pane.;;50
+;;142
+;;226(1-32)
 ;;226(33-65)
-Praise God * upon the resounding cymbals.;;148;149;150
+;;148;149;150
 
 [Dayc0 Vespera]
-The Lord said * to my Lord: Sit thou at my right hand.;;109
-All his commandments are faithful: * confirmed for ever and ever.;;110
-He shall delight * exceedingly in his commandments.;;111
-Blessed be the name of the Lord * from henceforth now and for ever.;;112
+Řekl Pán * mému pánu: Seď po mé pravici.;;109
+Věrná * jsou všechna jeho přikázání: potvrzená na věky věkův.;;110
+Po přikázáních * jeho velmi touží.;;111
+Budiž jméno Páně * velebeno navěky.;;112
 
 [Dayc1 Vespera]
-But we that live * bless the Lord.;;113
-The Lord hath inclined * his ear unto me.;;114
-I have believed * therefore have I spoken.;;115;116
-Often * have they fought against me from my youth.;;128
+My, kteří žijeme, * dobrořečíme Pánu.;;113
+Naklonil * mi Pán svůj sluch.;;114
+Chvalte * Pána všechny Národy.;;115;116
+Žehnáme * vám ve jménu Páně.;;128
 
 [Dayc2 Vespera]
-Out of the depths * have I cried unto thee, O Lord!;;129
-Let Israel * hope in the Lord.;;130
-O Lord, remember Israel * and all his meekness.;;131
-Behold * how good and how pleasant it is for brethren to dwell together in unity.;;132
+Z hlubin * volám k tobě, Pane.;;129
+Doufá * Israël v Pána.;;130
+A veškerou * jeho mírnost;;131
+Když bratři * žijí ve svornosti.;;132
 
 [Dayc3 Vespera]
-Whatsoever * the Lord hath pleased he hath done.;;134
-For his mercy * endureth for ever.;;135
-Sing ye to us * a hymn of the songs of Sion.;;136
-Before the Angels will * I sing praise unto thee, O my God.;;137
+Všechno, * cokoliv chce, Pán učiní.;;134
+Neboť * navěky trvá jeho milosrdenství.;;135
+Zazpívejte nám chvalozpěv * z písní sionských.;;136
+Před zraky * Andělů ti budu zpívat, můj Bože.;;137
 
 [Dayc4 Vespera]
-O Lord * thou hast proved me, and known me.;;138(1-10)
+Pane, * vyzkoušel jsi mne a poznal mne.;;138(1-10)
 ;;138(11-24)
-Deliver me, O Lord * from the evil man.;;139
-I have cried to the, * O Lord, hearken to my voice.;;140
+Od člověka nepravého * vysvoboď mne, Pane.;;139
+Pane * volal jsem k tobě, vyslyš mne.;;140
 
 [Dayc5 Vespera]
-May my portion * O Lord, be in the land of the living.;;141
-Blessed be * the Lord my God.;;143(1-8)
+Můj podíl, * buď, Pane, v zemi živých.;;141
+Požehnaný * je Bůh můj Pán.;;143(1-8)
 ;;143(9-15)
-Day by day * I shall bless thee, O Lord.;;144(1-9)
+Navždy * a na věky věkův.;;144(1-9)
 
 [Dayc6 Vespera]
-Thy kingdom, * O Lord, is a kingdom for all ages.;;144(10-21)
-I shall praise the Lord * in my life.;;145
-To our God * be joyful and fitting praise.;;146
-Praise the Lord, * O Jerusalem.;;147
+Chrání * Pán všechny, kdo jej milují.;;144(10-21)
+Budu chválit * svého Boha po celý život.;;145
+Našemu Bohu * budiž radostná chvála.;;146
+Chval, * Jerusaléme Pána.;;147
 
 [DaycP Laudes]
-Alleluia, * alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia, alleluia.;;92;99;62
-Risen is Christ * from the grave, who freed the three young men from the burning furnace of fire, alleluia.;;210
-Alleluia, * alleluia, alleluia.;;148;149;150
-
-[DaycP Vespera]
-Alleluia, * alleluia, alleluia;;109
-;;110
-;;111
-;;112
-
-
-
+Allelúja, * allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja.;;92;99;62
+;;210
+;;148;149;150

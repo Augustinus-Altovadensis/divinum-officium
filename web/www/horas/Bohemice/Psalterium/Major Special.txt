@@ -1,31 +1,31 @@
 [Day0 Laudes]
-!Rev 7:12
-v. Benediction, and glory, and wisdom, and thanksgiving, honour, and power, and strength to our God for ever and ever. Amen.
+!Zjevení 7:12
+v. Chvála, sláva, moudrost, díky, čest, moc a síla <i>přísluší</i> našemu Bohu na věčné věky! Amen.
 $Deo gratias
 
 [HymnusM Day0 Laudes]
 @:Hymnus Day0 Laudes
 
 [Hymnus Day0 Laudes]
-v. Lo, the dim shadows of the night are waning;
-Lightsome and blushing, dawn of day returneth;
-Fervent in spirit, to the world’s Creator
-Pray we devoutly:
+v. Stín noci hasne, již se rozednívá,
+jitřenky jasné třpyt na slunce kývá,
+nuž, prosíme, všichni, co nám síly zbývá
+Všemohoucího.
 _
-That he may pity sinners in their sighing,
-Banish all troubles, kindly health bestowing;
-And may he grant us, of his countless blessings,
-Peace that is endless.
+Bůh aby všecku malátnost rozehnal,
+nám aby spásu milostivě všem dal,
+též by nám dopřál z dobroty otecké
+říše nebeské.
 _
-This be our portion, God forever blessed,
-Father eternal, Son, and Holy Spirit,
-Whose is the glory, which through all creation
-Ever resoundeth.
+Dej nám to všecko, přeblažené božství
+Otce i Syna i Ducha svatého,
+jemuž vždy třímá sláva světů množství
+z vesmíru všeho. 
 Amen.
 
 [Day0 Versum 2]
-V. The Lord reigns, he is clothed with beauty.
-R. The Lord is clothed with strength, and has girded himself.
+V. Hospodin kraluje, oděl se velebností.
+R. Oděl se Hospodin silou a opásal se mocí.
 
 [Day0 Laudes2]
 !1 Cor 9:24
@@ -126,8 +126,8 @@ V. O Lord, direct my prayer.
 R. As incense in thy sight.
 
 [Day1 Laudes]
-!Rom 13:12-13
-v. The night is passed, and the day is at hand. Let us therefore cast off the works of darkness, and put on the armour of light. Let us walk honestly, as in the day.
+!Řím 13:12-13
+v. Noc pokročila, den se přiblížil. Odložme tedy skutky temnoty a oblečme se do výzbroje světla. Veďme počestný život jako ve dne.
 $Deo gratias
 
 [HymnusM Day1 Laudes]
@@ -181,8 +181,8 @@ To God the Holy Paraclete.
 Amen.
 
 [Day1 Versum 2]
-V. We are filled in the morning with thy mercy.
-R. And we have rejoiced, and are delighted.
+V. Ráno jsme naplněni tvým milosrdenstvím.
+R. Zajásali jsme a jsme potěšeni.
 
 [Hymnus Day1 Vespera]
 v. O great Creator of the sky, 
@@ -1248,12 +1248,12 @@ R. Incline my heart * into thy testimonies.
 [DayFM Laudes]
 @:Day1 Laudes
 _
-R.br. Heal my soul, * for I have sinned against thee.
-R. Heal my soul, * for I have sinned against thee.
-V. I said: O Lord, be thou merciful to me
-R. For I have sinned against thee.
+R.br. Uzdrav mou duši, * neboť jsem zhřešil proti tobě.
+R. Uzdrav mou duši, * neboť jsem zhřešil proti tobě.
+V. Řekl jsem: Pane, smiluj se nade mnou.
+R. Neboť jsem zhřešil proti tobě.
 &Gloria
-R. Heal my soul, * for I have sinned against thee.
+R. Uzdrav mou duši, * neboť jsem zhřešil proti tobě.
 
 [Day0M Vespera]
 @:Day0 Vespera

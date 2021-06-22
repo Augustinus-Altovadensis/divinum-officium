@@ -304,7 +304,25 @@ sub specials {
           $name = 'Day0 Laudes2';
         }
 
-        if ($version =~ /(Monastic|1570)/i && exists($capit{"HymnusM $name"})) {
+        if ( $version =~ /Cistercian/i && exists($capit{"HymnusC $name"}) ) 
+        {
+           if ( $name =~ /Day[0-6] Laudes/i && ( $dayname[0] =~ /Epi[2-6]/
+            || $dayname[0] =~ /Quadp/i
+            || $winner{Rank} =~ /Novembris/i) # Ab Dominica proximiori Kalendis Novembris usque ad Adventum
+          )
+        {
+          $name = 'Day0 Laudes2';
+        }
+        if ( $name =~ /Day[0-6] Vespera/i && ( $dayname[0] =~ /Epi[2-6]/
+            || $dayname[0] =~ /Quadp/i
+            || $winner{Rank} =~ /Novembris/i) # Ab Dominica j. Novembris usque ad Adventum
+          )
+        {
+          $name = 'Day0 Vespera2';
+        }
+          $hymn = $capit{"HymnusC $name"}; 
+
+        } elsif ($version =~ /(Monastic|1570)/i && exists($capit{"HymnusM $name"})) {
           $hymn = $capit{"HymnusM $name"};
         } else {
           $hymn = $capit{"Hymnus $name"};

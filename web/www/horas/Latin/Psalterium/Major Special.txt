@@ -3,6 +3,95 @@
 v. Benedíctio, et cláritas, et sapiéntia, et gratiárum áctio, honor, virtus, et fortitúdo Deo nostro in sǽcula sæculórum. Amen.
 $Deo gratias
 
+[HymnusC Day0 Laudes]
+@:Hymnus Day0 Laudes:s/Ecce,/Ecce/ s/Lux et auróræ/Lucis auróra/ s/Súpplices.*?:/Nísibus totis rogitémus omnes\nCunctipoténtem:/s s/reos culpæ miserátus/Deus nostri miserátus, / s/angórem/languórem/ s/bona.*?\./pietáte Patris\nRegna polorum./s 
+
+[HymnusC Day1 Laudes]
+@:HymnusC Day0 Laudes
+
+[HymnusC Day2 Laudes]
+@:HymnusC Day0 Laudes
+
+[HymnusC Day3 Laudes]
+@:HymnusC Day0 Laudes
+
+[HymnusC Day4 Laudes]
+@:HymnusC Day0 Laudes
+
+[HymnusC Day5 Laudes]
+@:HymnusC Day0 Laudes
+
+[HymnusC Day6 Laudes]
+@:HymnusC Day0 Laudes
+
+
+[HymnusC Day0 Laudes2]
+@:HymnusM Day1 Laudes
+
+[HymnusC Day0 Vespera]
+@:HymnusM Day0 Vespera
+
+[HymnusC Day1 Vespera]
+@:HymnusM Day0 Vespera
+
+[HymnusC Day2 Vespera]
+@:HymnusM Day0 Vespera
+
+[HymnusC Day3 Vespera]
+@:HymnusM Day0 Vespera
+
+[HymnusC Day4 Vespera]
+@:HymnusM Day0 Vespera
+
+[HymnusC Day5 Vespera]
+@:HymnusM Day0 Vespera
+
+[HymnusC Day6 Vespera]
+@:HymnusM Day0 Vespera
+
+[HymnusC Day0 Vespera2]
+v. Deus, creátor ómnium
+políque rector, véstiens
+diem decóro lúmine,
+noctem sopóris grátia,
+_
+Artus solútos ut quies
+reddat labóris úsui
+mentésque fessas állevet
+luctúsque solvat ánxios,
+_
+Grates perácto iam die
+et noctis exórtu preces,
+voti reos ut ádiuves,
+hymnum canéntes sólvimus.
+_
+Te cordis ima cóncinant,
+te vox canóra cóncrepet,
+te díligat castus amor,
+te mens adóret sóbria,
+_
+Ut cum profúnda cláuserit
+diem calígo nóctium,
+fides ténebras nésciat
+et nox fide relúceat.
+_
+Dormíre mentem ne sinas, 
+dormíre culpa nóverit, 
+castis fides refrígerans,
+somni vapórem témperet.
+_
+Exúta sensu lúbrico,
+te cordis alta sómnient;
+nec hostis ínvidi dolo,
+pavor quiétos súscitet.
+_
+Christum rogámus, et Patrem,
+Christi Patrísque Spíritum;
+Unum potens per ómnia,
+Fove precántes Trínitas. 
+Amen.
+
+
 [HymnusM Day0 Laudes]
 @:Hymnus Day0 Laudes:s/Ecce,/Ecce/ s/Lux et auróræ/Lucis auróra/ s/Súpplices.*?:/Nísibus totis rogitémus omnes\nCunctipoténtem:/s s/reos culpæ miserátus/Deus nostri miserátus, / s/angórem/languórem/ s/bona.*?\./pietáte Patris\nRegna polorum./s s/résonat.*/réboat in omni\nGlória mundo.\nAmen./s
 
