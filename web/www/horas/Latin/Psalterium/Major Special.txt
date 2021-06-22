@@ -9,44 +9,11 @@ $Deo gratias
 [HymnusC Day1 Laudes]
 @:HymnusC Day0 Laudes
 
-[HymnusC Day2 Laudes]
-@:HymnusC Day0 Laudes
-
-[HymnusC Day3 Laudes]
-@:HymnusC Day0 Laudes
-
-[HymnusC Day4 Laudes]
-@:HymnusC Day0 Laudes
-
-[HymnusC Day5 Laudes]
-@:HymnusC Day0 Laudes
-
-[HymnusC Day6 Laudes]
-@:HymnusC Day0 Laudes
-
 
 [HymnusC Day0 Laudes2]
 @:HymnusM Day1 Laudes
 
 [HymnusC Day0 Vespera]
-@:HymnusM Day0 Vespera
-
-[HymnusC Day1 Vespera]
-@:HymnusM Day0 Vespera
-
-[HymnusC Day2 Vespera]
-@:HymnusM Day0 Vespera
-
-[HymnusC Day3 Vespera]
-@:HymnusM Day0 Vespera
-
-[HymnusC Day4 Vespera]
-@:HymnusM Day0 Vespera
-
-[HymnusC Day5 Vespera]
-@:HymnusM Day0 Vespera
-
-[HymnusC Day6 Vespera]
 @:HymnusM Day0 Vespera
 
 [HymnusC Day0 Vespera2]
@@ -1795,6 +1762,9 @@ R. Quia peccávi tibi.
 &Gloria
 R. Sana ánimam meam, * quia peccávi tibi.
 
+[DayCM Laudes]
+@:DayFM Laudes
+
 [Day6M Laudes]
 @:DayFM Laudes
 
@@ -1817,6 +1787,27 @@ V. Semper laus ejus in ore meo.
 R. In omni témpore.
 &Gloria
 R. Benedícam Dóminum * In omni témpore.
+
+[Day0C Laudes]
+@:Day0 Laudes
+_
+R.br. Hæc est dies * Quam fecit Dóminus. 
+R. Hæc est dies * Quam fecit Dóminus. 
+V. Exultémus et lætemur in ea. 
+R. Quam fecit Dóminus.
+&Gloria
+R. Hæc est dies * Quam fecit Dóminus. 
+
+[DayCM Vespera]
+@:Day0 Vespera
+_
+R.br. Adjutórium nostrum * In nómine Dómini.
+R. Adjutórium nostrum * In nómine Dómini.
+V. Qui fecit cœlum et terram.
+R. In nómine Dómini.
+&Gloria
+R. Adjutórium nostrum * In nómine Dómini.
+
 
 [Day6M Vespera]
 @:Day6 Vespera

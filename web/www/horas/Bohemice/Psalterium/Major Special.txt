@@ -9,12 +9,12 @@ $Deo gratias
 [Hymnus Day0 Laudes]
 v. Stín noci hasne, již se rozednívá,
 jitřenky jasné třpyt na slunce kývá,
-nuž, prosíme, všichni, co nám síly zbývá
+nuž, prosme, všichni, co nám síly zbývá
 Všemohoucího.
 _
 Bůh aby všecku malátnost rozehnal,
 nám aby spásu milostivě všem dal,
-též by nám dopřál z dobroty otecké
+též by nám dopřál z dobroty otcovské
 říše nebeské.
 _
 Dej nám to všecko, přeblažené božství
@@ -92,38 +92,38 @@ v. Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies
 $Deo gratias
 
 [Hymnus Day0 Vespera]
-v. O blest Creator of the light, 
-Who mak’st the day with radiance bright,
-And o’er the forming world didst call
-The light from chaos first of all;
+v. Ó světla Tvůrce nejlepší, 
+jenž bělostný jas dáváš dnům, 
+jenž v záři panenského dne 
+připravils světa počátek,
 _
-Whose wisdom joined in meet array
-The morn and eve, and named them day:
-Night comes with all its darkling fears;
-Regard thy people’s prayers and tears.
+A ráno spjato s večerem 
+Kážeš nám nazývati dnem: 
+Již černý chaos valí se
+modlitby, Bože, slyš a pláč:
 _
-Lest, sunk in sin, and whelmed with strife,
-They lose the gift of endless life; 
-While thinking but the thoughts of time,
-They weave new chains of woe and crime.
+By duch náš, ztěžklý zločinem
+připraven nebyl o podíl 
+Života, na nějž nemyslí, 
+a do vin jen se zaplétá.
 _
-But grant them grace that they may strain
-The heavenly gate and prize to gain:
-Each harmful lure aside to cast, 
-And purge away each error past.
+Však do bran tvých ať zabuší 
+v modř, vezme cenu Života. 
+Již zanechme, co škodí nám 
+a smyjme každou ohavnost!
 _
-* O Father, that we ask be done, 
-Through Jesus Christ, thine only Son;
-Who, with the Holy Ghost and thee,
-Doth live and reign eternally.
+To dejž nám, Otče laskavý, 
+i Ty, jenž Otci roven jsi, 
+jenž s Duchem Utěšitelem 
+vládneš od věků na věky.
 Amen.
 
 [HymnusM Day0 Vespera]
 @:Hymnus Day0 Vespera
 
 [Day0 Versum 3]
-V. O Lord, direct my prayer.
-R. As incense in thy sight.
+V. Směřuj, Pane, modlitbu mou.
+R. Jako dým kadidla až před tvář svou.
 
 [Day1 Laudes]
 !Řím 13:12-13
@@ -455,8 +455,8 @@ While everlasting ages run,
 Amen.
 
 [Day6 Vespera]
-!Rom 11:33
-v. O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways! 
+!Řím. 11:33
+v. Ó, jak bezedná je Boží štědrost, moudrost i poznání! Jak neproniknutelná jsou jeho rozhodnutí a neprobádatelné způsoby jeho jednání! 
 $Deo gratias
 
 [Hymnus Day6 Vespera]
@@ -477,25 +477,25 @@ The world began, so evermore.
 Amen.
 
 [HymnusM Day6 Vespera]
-v. O Trinity of blessed Light,
-O Unity of sovereign might,
-as now the fiery sun departs,
-shed Thou Thy beams within our hearts.
+v. Ó světlo Trojice nejsvětější, 
+ty jednotou jsi nejprvnější. 
+I slunce ohnivé ustoupí, 
+když světlo tvé nám do srdcí vstoupí.
 _
-To Thee our morning song of praise,
-to Thee our evening prayer we raise;
-Thee may our glory evermore
-in lowly reverence adore.
+Tě ráno písní slavných chval,
+tě večer snažně prosíme,
+Tě náš pokorný chvalozpěv
+po všechny věky chválit chce.
 _
-All laud to God the Father be;
-all praise, Eternal Son, to Thee;
-all glory, as is ever meet,
-to God the Holy Paraclete. 
+Bud Bohu Otci sláva, čest
+i Synu, který z mrtvých vstal, 
+i Duchu Utěšiteli
+bud chvála všechen věků věk.
 Amen.
 
 [Day6 Versum 3]
-V. Let the evening prayer ascend unto thee, O Lord.
-R. And let there descend upon us thy mercy. 
+V. Večerní modlitba vystoupiž k tobě, Pane.
+R. A k nám ať sestoupí tvé milosrdenství. 
 
 [Day1 Ant 2]
 Blessed be the Lord * the God of Israel, because he has visited and redeemed his people.
@@ -1274,6 +1274,27 @@ V. His praise shall be always in my mouth.
 R. At all times
 &Gloria
 R. I will bless the Lord * at all times.
+
+[Day0C Laudes]
+@:Day0 Laudes
+_
+R.br. Toto je den, * který stvořil Pán. 
+R. Toto je den, * který stvořil Pán. 
+V. Jásejme a radujme se v něm.
+R. Který stvořil Pán. 
+&Gloria
+R. Toto je den, * který stvořil Pán.  
+
+[DayCM Vespera]
+@:Day0 Vespera
+_
+R.br. Pomoc naše * ve jménu Páně.
+R. Pomoc naše * ve jménu Páně.
+V. Který stvořil nebe i zemi.
+R. Ve jménu Páně.
+&Gloria
+R. Pomoc naše * ve jménu Páně.
+
 
 [Day6M Vespera]
 @:Day6 Vespera

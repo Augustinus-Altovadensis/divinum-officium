@@ -285,6 +285,9 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /(Laudes|Vespera)/i) {
       my %capit = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};
       my $name = major_getname(1);
+      if ($version =~ /Cistercian/i) 
+        { $name =~ s/Day[1-5]M/DayCM/i; 
+          $name =~ s/Day0M Laudes/Day0C Laudes/i; }
       if ($version =~ /monastic/i) { $name =~ s/Day[1-5]M/DayFM/i; }
       my $capit = $capit{$name};
       my $name = major_getname();
@@ -304,24 +307,28 @@ sub specials {
           $name = 'Day0 Laudes2';
         }
 
-        if ( $version =~ /Cistercian/i && exists($capit{"HymnusC $name"}) ) 
-        {
+        if ( $version =~ /Cistercian/i ) 
+          {
            if ( $name =~ /Day[0-6] Laudes/i && ( $dayname[0] =~ /Epi[2-6]/
             || $dayname[0] =~ /Quadp/i
             || $winner{Rank} =~ /Novembris/i) # Ab Dominica proximiori Kalendis Novembris usque ad Adventum
           )
-        {
-          $name = 'Day0 Laudes2';
-        }
-        if ( $name =~ /Day[0-6] Vespera/i && ( $dayname[0] =~ /Epi[2-6]/
+            {
+            $name = 'Day0 Laudes2';
+            }
+          elsif ( $name =~ /Day[0-6] Vespera/i && ( $dayname[0] =~ /Epi[2-6]/
             || $dayname[0] =~ /Quadp/i
             || $winner{Rank} =~ /Novembris/i) # Ab Dominica j. Novembris usque ad Adventum
           )
-        {
-          $name = 'Day0 Vespera2';
-        }
-          $hymn = $capit{"HymnusC $name"}; 
+            {
+            $name = 'Day0 Vespera2';
+            }
+          elsif ( $name =~ /Day[0-6] Laudes/i ) { $name = 'Day0 Laudes'; }
+          elsif ( $name =~ /Day[0-5] Vespera/i ) { $name = 'Day0 Vespera'; }
+          }
 
+        if ( $version =~ /Cistercian/i && exists($capit{"HymnusC $name"}) ) {       
+          $hymn = $capit{"HymnusC $name"}; 
         } elsif ($version =~ /(Monastic|1570)/i && exists($capit{"HymnusM $name"})) {
           $hymn = $capit{"HymnusM $name"};
         } else {
