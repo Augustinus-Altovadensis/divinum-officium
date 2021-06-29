@@ -4,7 +4,7 @@ v. Benedíctio, et cláritas, et sapiéntia, et gratiárum áctio, honor, virtus
 $Deo gratias
 
 [HymnusC Day0 Laudes]
-@:Hymnus Day0 Laudes:s/Ecce,/Ecce/ s/Lux et auróræ/Lucis auróra/ s/Súpplices.*?:/Nísibus totis rogitémus omnes\nCunctipoténtem:/s s/reos culpæ miserátus/Deus nostri miserátus, / s/angórem/languórem/ s/bona.*?\./pietáte Patris\nRegna polorum./s 
+@:Hymnus Day0 Laudes:s/Ecce,/Ecce/ s/Lux et auróræ/Lucis auróra/ s/Súpplices.*?:/Nísibus totis rogitémus omnes\nCunctipoténtem:/s s/reos culpæ miserátus/Deus nostri miserátus, / s/angórem/languórem/ s/bona.*?\./pietáte Patris\nRegna polórum./s 
 
 [HymnusC Day1 Laudes]
 @:HymnusC Day0 Laudes
