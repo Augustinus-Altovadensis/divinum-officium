@@ -187,8 +187,8 @@ sub getrank {
   our %transfer;
   our $hymncontract = 0;
   my $kalendarname =
-      ($version =~ /Monastic/i) ? 'M'
-    : ($version =~ /Cistercian/i) ? 'M'
+      ($version =~ /Cistercian/i) ? 'Cist'
+    : ($version =~ /Monastic/i) ? 'M'
     : ($version =~ /1570/) ? 1570
     : ($version =~ /Trident/i) ? 1888
     : ($version =~ /Divino/i) ? '1954'
@@ -215,8 +215,8 @@ sub getrank {
       ($version =~ /newcal/i) ? 'Newcal'
     : ($version =~ /Divino/i) ? 'DA'
     : ($version =~ /(1955|1960)/) ? '1960'
-    : ($version =~ /monastic/i) ? 'M'
     : ($version =~ /Cistercian/i) ? 'M'
+    : ($version =~ /monastic/i) ? 'M'
     : ($version =~ /1570/) ? '1570'
     : ($version =~ /1910/) ? 1910
     : '1960';
@@ -409,7 +409,7 @@ sub getrank {
     $srank[2] = 1.5;
   }    #1955: semiduplex reduced to simplex
 
-  if ( $version =~ /1960|Monastic/i
+  if ( $version =~ /1960|Monastic/i && $version !~ /Cistercian/i
     && $srank[2] < 2
     && $srank[1] =~ /Simplex/i
     && $testmode =~ /seasonal/i
@@ -1639,7 +1639,11 @@ sub updaterank {
 sub setmdir {
   my $version = shift;
 
-  if ($version =~ /Monastic/i) {
+  if ($version =~ /Cistercian/i) {
+    $sanctiname = 'SanctiCist';
+    $temporaname = 'TemporaM';
+    $communename = 'CommuneCist';
+  } elsif ($version =~ /Monastic/i) {
     $sanctiname = 'SanctiM';
     $temporaname = 'TemporaM';
     $communename = 'CommuneM';

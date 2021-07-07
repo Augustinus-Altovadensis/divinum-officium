@@ -1,0 +1,40 @@
+@Sancti/01-25
+
+[MM Capitulum]
+@:Capitulum Sexta
+_
+@Commune/C1:Responsory Tertia:s/.*_.//s
+
+[Capitulum Laudes]
+@Sancti/01-25:Capitulum Vespera
+_
+@Commune/C1:Responsory Tertia:1-6
+
+[Versum 2]
+@Sancti/06-30:Versum 1
+
+[Ant 2]
+@Sancti/06-30
+
+[Responsory Tertia]
+@CommuneM/C1
+
+[Responsory Sexta]
+@CommuneM/C1
+
+[Responsory Nona]
+@CommuneM/C1
+
+[Capitulum Vespera]
+@Sancti/01-25:Capitulum Vespera
+_
+@Commune/C1:Responsory Sexta:1-6
+
+[Hymnus Vespera]
+@Sancti/06-30:HymnusM Matutinum
+
+[Ant Vespera 3]
+@Sancti/01-25::s/125/138/
+
+[Versum 3]
+@Sancti/06-30:Versum 1

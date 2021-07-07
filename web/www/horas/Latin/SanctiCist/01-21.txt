@@ -1,0 +1,52 @@
+@Sancti/01-21
+
+[Rank]
+S. Agnetis Virginis et Martyris;;Duplex;;3.1;;vide C6
+
+[Ant Matutinum]
+Discede a me pabulum mortis, quia jam ab alio amatore praeventa sum;;1
+Dexteram meam et collum meum cinxit lapidibus pretiosis tradidit auribus meis inaestimabiles margaritas;;2
+Posuit signum in faciem meam, ut nullum praeter eum amatorem admittam;;4
+Induit me Dominus cyclade auro texta, et immensis monilibus ornavit me;;5
+Mel et lac ex ejus ore suscepi, et sanguis ejus ornavit genas meas;;8
+Christi Virgo * nec terrore concutitur, nec blandimentis seducitur;;10
+V. Specie tua et pulchritudine tua.
+R. Intende, prospere procede, et regna.
+Christus circumdedit me vernantibus atque coruscantibus gemmis pretiosis;;14
+Ipsi sum desponsata, cui Angeli serviunt, cujus pulchritudinem sol et luna mirantur;;44
+Jam corpus eius * corpori meo sociatum est, et sanguis eius ornavit genas meas;;45
+Cujus pulchritudinem * sol et luna mirantur, ipsi soli servo fidem;;47
+Stans a dexteris eius * Agnus nive candidior Christus sibi sponsam et Martyrem consecravit;;84
+Ipsi soli servo fidem, ipsi me tota devotione committo;;86
+V. Adjuvabit eam Deus vultu suo.
+R. Deus in medio ejus, non commovebitur.
+Misit Dominus * Angelum suum, et liberavit me de medio ignis, et non sum aestuata;;249;250;251
+V. Elegit eam Deus, et praeelegit eam,
+R. In tabernaculo suo habitare facit eam.
+
+[Responsory9]
+R. Haec est virgo prudens
+* Quae veniente sponso accepit oleum in vasis suis, et ornatis lampedibus~
+introivit cum eo ad nuptias
+V. Haec est virgo sapiens, et una de numero prudentum
+R. Quae veniente sponso accepit oleum in vasis suis, et ornatis lampedibus~
+introivit cum eo ad nuptias
+&Gloria
+R. Quae veniente sponso accepit oleum in vasis suis, et ornatis lampedibus~
+introivit cum eo ad nuptias
+
+[MM Capitulum]
+@Psalterium/Matutinum Special:MM Capitulum C6m
+
+[Capitulum Laudes]
+@CommuneM/C7:Capitulum Laudes
+
+[Capitulum Vespera]
+@CommuneM/C7:Capitulum Vespera
+
+[Ant 3]
+@Sancti/01-21:Ant 1
+
+[Ant Vespera 3]
+@Sancti/01-21::s/112/126/ s/111/112/ s/110/111/
+

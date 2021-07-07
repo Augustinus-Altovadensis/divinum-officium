@@ -1,0 +1,355 @@
+[Name]
+Officium parvum Beatae Mariae Virginis
+
+[Rank]
+Officium parvum Beatae Mariae Virginis;;Simplex;;1;;ex C11
+
+[Rule]
+ex C11
+Ave only
+Doxology=Nat
+Omit Suffragium
+Special Benedictio
+Votive nocturn
+Feria Te Deum
+
+[Oratio 1]
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Ant 1]
+Svatá Maria, * přispěj na pomoc ubohým, pomáhej malomyslným, utěšuj plačtivé, oroduj za lid, pomáhej kněžstvu, přimlouvej se za oddané ženské pokolení.
+
+[Ant Vespera]
+Blažená Matko a nedotčená Panno! * Slavná Královno světa! Přimlouvej se za nás u Pána! ;;109
+;;112
+;;121
+;;126
+
+[Capitulum Vespera]
+!Sir 24:11-12 (7-8)
+v.  U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
+$Deo gratias
+_
+℟.br. Po porodu jsi, Panno, * Zůstala neporušenou.
+℟. Po porodu jsi, Panno, * Zůstala neporušenou.
+℣. Boží Rodičko, přimlouvej se za nás.
+℟. Zůstala neporušenou.
+
+
+[Oratio 2]
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Oratio Backup]
+v. Bože, jenž jsi podle Andělova oznámení chtěl přijmout tělo z lůna blažené Panny Marie, † uděl svým prosebníkům, nám, kdo věříme, že je vpravdě rodičkou Boží, * aby nám její přímluva u tebe pomohla. 
+$Per eumdem
+
+[Commemoratio]
+!Připomínka všech Svatých
+Ant. Všichni svatí Boží, račte se přimlouvat za spásu naši i všech lidí.
+V. Radujte se v Pánu a jástejte, spravedliví.
+R. A oslavujte, všichni přímého srdce
+$Oremus
+v. Prosíme tě, Pane, shlédni laskavě na naši slabost; a všechno špatné, co si právem zasloužíme, na přímluvu všech svých Svatých odvrať. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Pre oratio]
+
+#Oratio
+_
+v. Lord have mercy on us, Christ have mercy on us, Lord have mercy on us
+(sed rubrica 1955 aut rubrica 1960 omittitur)
+&Dominus_vobiscum
+$Oremus
+
+[Special Completorium]
+#Incipit
+$Ave Maria Parvum
+_
+℣. Obrať nás, Bože, náš Spasiteli: 
+℟. A odvrať svůj hněv od nás.
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+
+#Psalmi
+Ant. Naplnily se.
+&psalm(12)
+
+&psalm(128)
+
+&psalm(130)
+_
+Ant. Naplnily se dny Panny Marie, aby porodila svého prvorozeného Syna.
+
+#Capitulum
+!Sir 24:24
+v. Voněla jsem jako skořice a vonný balzám, jako nejjemnější myrha jsem šířila sladkou vůni.
+$Deo gratias
+_
+#Hymnus
+v. Zazářila ta rodička, 
+Jejž Gabriel předpověděl,
+Jejž ještě v mateřském lůně
+uzavřen Jan již pocítil.
+_
+r. Maria Matko milosti,
+též Matko milosrdnosti,
+ty nás od ďábla ochraňuj,
+v hodince smrti při nás stůj.
+_
+r. Sláva buď tobě, Pane náš,
+jenž čistou Pannu matku máš;
+S Otcem i svatým Duchem,
+vládneš věčným věkům všem.
+Amen.
+_
+℣. Hle, jsem služebnice Páně.
+℟. Ať se mi stane podle tvého slova.
+_
+$Oremus
+v. Milosrdný Otče, uděl nám, prosíme, pomoc v naší křehkosti, abychom, když slavíme památku svaté Boží Rodičky, na její přímluvu povstali ze svých nepravostí. Skrze téhož Krista, našeho Pána.
+℟. Amen.
+
+#Conclusio
+$Dulce nomen
+
+&antiphona_finalis
+
+&Divinum_auxilium_cist
+$Fidelium animae
+
+
+[Lectio1]
+!Sir 24:11-13
+11 And by my power I have trodden under my feet the hearts of all the high and low: and in all these I sought rest, and I shall abide in the inheritance of the Lord.
+12 Then the creator of all things commanded, and said to me: and he that made me, rested in my tabernacle,
+13 And he said to me: Let thy dwelling be in Jacob, and thy inheritance in Israel, and take root in my elect.
+
+[Lectio2]
+!Sir 24:15-16
+15 And so was I established in Sion, and in the holy city likewise I rested, and my power was in Jerusalem.
+16 And I took root in an honourable people, and in the portion of my God his inheritance, and my abode is in the full assembly of saints.
+
+[Responsory2]
+R. Blessed art thou, O Virgin Mary, who hast carried the Lord, the Maker of the world.
+* Thou hast borne Him Who created thee, and thou abidest a virgin for ever.
+V. Hail, Mary, full of grace, the Lord is with thee.
+R. Thou hast borne him who created thee, and thou abidest a virgin for ever.
+
+[Lectio3]
+!Sir 24:17-20
+17 I was exalted like a cedar in Libanus, and as a cypress tree on mount Sion.
+18 I was exalted like a palm tree in Cades, and as a rose plant in Jericho:
+19 As a fair olive tree in the plains, and as a plane tree by the water in the streets, was I exalted.
+20 I gave a sweet smell like cinnamon. and aromatical balm: I yielded a sweet odour like the best myrrh:
+&teDeum
+
+[Responsory3]
+R. O holy Virgin Mary, happy indeed art thou, and right worthy of all praise
+* For out of thee rose the Sun of righteousness, even Christ our God.
+V. Pray for the people, plead for the clergy, make intercession for all women vowed to God. Let all that are making this holy memorial of thee feel the might of thine assistance.
+R. For out of thee rose the Sun of righteousness
+&Gloria
+R. Even Christ our God.
+
+
+[Invit]
+Zdrávas Maria, milostiplná * Pán s tebou.
+
+[Invitatorium]
+v. Zdrávas Maria, milostiplná: * Pán s tebou.
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+v. Pojďme, jásejme Hospodinu, oslavujme Skálu své spásy, předstupme před něho s chvalozpěvy a písněmi mu zajásejme!
+r. Zdrávas Maria, milostiplná, Pán s tebou.
+v. Neboť veliký Bůh je Hospodin a veliký Král nade všemi bohy. Neboť Hospodin nezavrhne svůj lid. V jeho ruce jsou hlubiny země a jemu patří výšiny hor. 
+r. Pán s tebou.
+v. Jeho je moře, vždyť on je učinil, i souš, kterou zhnětly jeho ruce. (poklekneme) Pojďme, padněme, klaňme se, poklekněme před svým tvůrcem, Hospodinem! Neboť on je náš Bůh a my jsme lid, který pase, stádce vedené jeho rukou.
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+v. Kéž byste dnes uposlechli jeho hlasu: „Nezatvrzujte svá srdce jako v Meribě, jako tehdy v Masse na poušti, kde mě dráždili vaši otcové, zkoušeli mě, ač viděli mé činy.
+r. Pán s tebou.
+v. Čtyřicet let mi bylo protivné ono pokolení; řekl jsem: Je to lid, který bloudí v srdci, nepoznali mé cesty. Proto jsem přísahal ve svém hněvu: Nepřijdou na místo mého klidu!“
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+℣. Sláva Otci, i Synu, * i Duchu svatému.
+℟. Jako byla na počátku, i nyní, i vždycky: * a na věky věků. Amen.
+r. Pán s tebou.
+r. Zdrávas Maria, milostiplná: * Pán s tebou.
+
+[Benedictio]
+Vznešená Panno laskavá, přimluv se za nás u Pána.
+
+[Benedictio Parvum]
+℣. Přikaž, pane, a požehnej.
+Benedictio. Vznešená Panno laskavá, přimluv se za nás u Pána.
+℟. Amen.
+
+[Ant Matutinum]
+Požehnaná * jsi mezi ženami, a požehnaný plod života tvého.
+
+[Versum Matutinum]
+℣. Zdrávas Maria, milostiplná.
+℟. Pán s tebou.
+
+[Lectio Matutinum]
+!Kázání sv. Augustina č. 18. o Svatých
+v. Přijmi, přelaskavá Boží Rodičko, naše prosby do svatyně vyslyšení, a znovu nám přines protijed smíření. Budiž skrze tebe omluvitelné, co skrze tebe vyznáváme; budiž vyprositelné, co s důvěrou v mysli žádáme. Přijmi, co obětujeme, daruj nám opět, co žádáme, odpusť, čeho se obáváme. Ty však, Pane, smiluj se nad námi. 
+$Deo gratias
+_
+℟.br. Učiň mě hodným tě chválit, * Panno přesvatá.
+℟. Učiň mě hodným tě chválit, * Panno přesvatá.
+℣. Dej mi sílu proti tvým nepřátelům. * 
+℟. Panno přesvatá.
+
+
+[Conclusio Matutinum]
+Následují hned %Laudy%.
+
+[Incipit Laudes]
+#Incipit
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+
+[Ant Laudes]
+Jak podivuhodná to výměna! * Tvůrce lidského rodu přijal oživené tělo, ráčil se narodit z Panny; stal se bez mužské součinnosti člověkem, a daroval nám své Božství.
+
+[Capitulum Laudes]
+!Sir 24:11-12 (7-8)
+v. U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
+$Deo gratias
+_
+R.br. Zdrávas Maria, milosti plná, * Pán s tebou.
+R. Zdrávas Maria, milosti plná, * Pán s tebou.
+V. Požehnaná ty mezi ženami, a požehnaný plod života tvého.
+R. Pán s tebou.
+
+[Versum 2]
+℣. Krásnou ses stala, a sladkou.
+℟. Ve potěšeních tvých, svatá Boží Rodičko.
+
+[Oratio Laudes]
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Special Laudes]
+@:Incipit Laudes
+
+#Psalmi
+@:Ant Laudes:1
+&psalm(92)
+
+&psalm(99)
+
+&psalm(62)
+
+&psalm(220)
+
+&psalm(148)
+_
+&psalm(149)
+_
+&psalm(150)
+_
+@:Ant Laudes:1
+
+#Capitulum
+@:Capitulum Laudes
+_
+#Hymnus
+@Commune/C10:HymnusM Laudes
+_
+@Versum 2
+
+$Oremus
+@Oratio Laudes
+
+#Conclusio
+$Dulce nomen
+
+
+[Hymnus minor]
+
+#Hymnus
+v. Pomni, tvůrce země celé, 
+žes nám byl podoben v těle, 
+když sestoupils s nebes trůnu
+a vtělil se v Panny lůnu.
+_
+r. Maria Matko milosti,
+též Matko milosrdnosti,
+ty nás od ďábla ochraňuj,
+v hodince smrti při nás stůj.
+_
+r. Sláva buď tobě, Pane náš,
+jenž čistou Pannu matku máš;
+S Otcem i svatým Duchem,
+ty vládneš věčným věkům všem.
+Amen.
+
+[Minor intro]
+#Incipit
+_
+$Ave Maria Parvum
+_
+℣. Bože, k pomoci mé shlédni;
+℟. Pane, přispěš k mé pomoci.
+&Gloria
+@:Hymnus minor
+
+#Psalmi
+
+[Minor final]
+
+#Conclusio
+$Dulce nomen
+
+
+[Capitulum Prima]
+!Sir 24:14
+Před věky na počátku mě Bůh stvořil, až navěky být nepřestanu. Před ním ve svatostánku jsem konala svou službu.
+℟. Bohu díky.
+$Deo gratias
+
+[Oratio Prima]
+v. Bože, který jsi chtěl, aby se tvé Slovo po andělském zvěstování v lůně blahoslavené Panny Marie vtělilo, popřej nám, kteří tě prosíme a věříme, že ona je vpravdě Rodičkou Boží, její přímluvou u tebe podporováni byli. Skrze téhož Krista, našeho Pána.
+℟. Amen.
+
+[Capitulum Tertia]
+!Sir 24:15
+v. U nich všech jsem hledala odpočinek, a v dědictví Hospodinově jsem nalezla spočinutí. Tu mi dal Tvůrce veškerenstva rozkaz, můj stvořitel spočinul v mém stanu.
+$Deo gratias
+_
+℣. Zdrávas Maria, milostiplná.
+℟. Pán s tebou.
+
+
+[Oratio Tertia]
+v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše i těla, a na slavnou přímluvu blahoslavené a neporušené Panny Marie vysvoboď nás z nynější strasti a dej nám dojíti věčně blaženosti. Skrze Krista, našeho Pána.
+℟. Amen.
+
+[Capitulum Sexta]
+!Sir 24:15
+v. A tak jsem na Siónu obdržela sídlo. Usadil mě v městě, které miloval jako mě, v Jerusalémě vykonávám svou moc.
+$Deo gratias
+_
+℣. Požehnaná jsi mezi ženami.
+℟. A požehnaný plod života tvého.
+
+[Oratio Sexta]
+v. Bože, jenž jsi skrze plodné panenství blahoslavené Panny Marie odměnil lidský rod, uděl nám, prosíme, abychom pocítili její přímluvu, když jsme od ní obdrželi rozmnožitele života.
+℟. Amen.
+
+[Capitulum Nona]
+!Sir 24:16
+v. V lidu plném slávy jsem zapustila kořeny, v Pánově údělu, v jeho dědictví, a držela jsem se v plnosti svatých.
+$Deo gratias
+_
+℣. Po porodu zůstala jsi neporušenou pannou. 
+℟. Boží rodičko, přimlouvej se za nás.
+
+[Oratio Nona]
+v. Odpusť, prosíme, Pane, přestupky svých sluhů † abychom ježto se ti nedokážeme zalíbil skutky * byli spaseni přímluvou rodičky tvého Syna našeho Pána. Jenž s tebou žije a kraluje navěky věkův.
+℟. Amen.
+
+
