@@ -100,7 +100,8 @@
 07-02=07-02=In Visitatione B Mariae Virginis=5=
 07-03=07-03=Ss. Processi et Martiniani Martyrum=1=
 07-08=07-08=S. Eugenii, Papae et Confessoris=6=
-07-11=07-11=Solemnity of of Benedict=6=
+07-09=07-09=In Festo Prodigiorum B. Mariæ Virginis=5=
+07-11=07-11=In Festo Translationis S.P.N. Benedicti=6=
 07-12=07-12=S. Joannis Gualberti Abbatis=1
 07-14=07-14=S. Bonaventurae Episcopi Confessoris et Ecclesiae Doctoris=3=
 07-17=07-17=S. Leo IV=1=
