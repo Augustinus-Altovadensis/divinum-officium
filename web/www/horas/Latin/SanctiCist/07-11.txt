@@ -1,7 +1,7 @@
 @SanctiM/03-21
 
 [Rank]
-S. P. N. Benedicti Abbatis;;I class;;5;;vide C5
+S. P. N. Benedicti Abbatis;;I class;;7;;vide C5
 
 [Rule]
 12 lectiones
