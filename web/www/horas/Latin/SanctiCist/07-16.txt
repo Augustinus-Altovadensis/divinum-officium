@@ -1,0 +1,8 @@
+﻿[Rank]
+S. P. N. Stephani, Tertii Abbatis Cistercii;;Duplex;;7;;ex C5
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/
+
+[Oratio]
+Excita, Dómine, in Ecclésia tua Spíritum, cui beátus Stéphanus, Abbas, servívit: ut, eódem nos repléti, studeámus amáre quod amávit, et ópere exercére quod dócuit. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per omnia sæcula sæculórum. Amen.
