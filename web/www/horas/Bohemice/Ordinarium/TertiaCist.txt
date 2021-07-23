@@ -1,11 +1,11 @@
-#Incipit
+﻿#Incipit
 $Deus in adjutorium Cist
 &Gloria
 
 #Hymnus
-v. A nyní, Duchu přesvatý, 
+v. Nuž nyní, Duchu přesvatý, 
 jenž s Otcem, Synem jedno jsi, 
-rač sestoupiti mocně k nám, 
+rač rychle v nás sestoupiti, 
 v našich hrudích se rozlíti.
 _
 Rty, jazyk, smysl, síly dar 
@@ -13,8 +13,8 @@ nechť zazní jedním vyznáním.
 Nechť ohněm plane láska v nás, 
 žár vznítí plamen i v bližním.
 _
-To dejž Otec laskavý nám, 
-i Ty, jenž Otci roveň jsi, 
+To dej nám Otče laskavý, 
+i Ty, jenž Otci roven jsi, 
 jenž s Duchem Utěšitelem, 
 vládneš od věků na věky.
 Amen.

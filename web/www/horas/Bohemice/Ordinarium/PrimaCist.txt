@@ -1,4 +1,4 @@
-#Incipit
+﻿#Incipit
 $Deus in adjutorium Cist
 &Gloria
 
@@ -8,12 +8,12 @@ i prosme Boha pokorně,
 ať ve všem denním konání 
 nás od úkladů ochrání.
 _
-Dejž uzdu, mírnost jazyku, 
-nechť nepovstane hrozný svár
+Dej uzdu, mírnost jazyku, 
+nechť nezazní hrůza sváru,
 nechť také náš zrak ochrání, 
 že po marnostech nebaží.
 _
-Nechť čisté je nitro srdcí, 
+Nechť čistá jsou nitra srdcí, 
 a bláznivost vždy v dáli dlí, 
 nechť pýchu těla zkrocuje 
 nám střídmost jídla, nápoje.
