@@ -1,7 +1,8 @@
 @Commune/C4
 
 [Capitulum Vespera]
-@Commune/C4
+v. Benedictiónem ómnium Géntium dedit illi Dóminus, * et testaméntum suum confirmávit super caput ejus.
+$Deo gratias
 _
 @Commune/C4:Responsory Sexta:1-6
 
@@ -11,7 +12,8 @@ Euge serve bone, * in módico fidélis, intra in gáudium Dómini tui.
 Fidélis servus, et prudens, * quem constítuit Dóminus super famíliam suam.
 Ecce vere * Israëlita, in quo dolus non est.
 
-[HymnusM Vespera]
+[Backup]
+orig: HymnusM Vespera
 @Commune/C4::s/Hódie.*/Hac die lætus méruit suprémos/ s/Scándere.*/Laudis honóres./
 
 [Ant Matutinum]
@@ -108,11 +110,8 @@ _
 [Responsory Nona]
 @Commune/C4:Responsory Sexta:8-9
 
-[Ant Vespera]
-@Commune/C4:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;131/ s/_//
-
 [Ant 3]
-@Commune/C4:Ant 3 summi Pontificis
+@Commune/C4:Ant 3
 
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Matthǽum

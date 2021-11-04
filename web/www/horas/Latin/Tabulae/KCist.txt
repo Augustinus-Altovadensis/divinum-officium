@@ -158,10 +158,10 @@
 10-02=10-02=Ss. Angelorum Custodum=4=
 10-03=10-03=S. Theresiae a Jesu Infante Virginis=3=
 10-04=10-04=S. Francisci Confessoris=4=
-10-05=10-05=S. Maur et Placidi et Sociorum Martyrum=1=
+10-05=10-05=S. Mauri et Placidi et Sociorum Martyrum=1=
 10-06=10-06=S. Brunonis Confessoris=3=
 10-07=10-07=Festum Beatae Mariae Virginis a Rosario=5=
-10-14=10-14=S. Callisti Papae et Martyris=3=
+10-14=10-14=S. Callisti Papae et Martyris=1=
 10-15=10-15=S. Teresiae Virginis=3=
 10-18=10-18=S. Lucae Evangelistae=5=
 10-21=10-21=S. Hilarionis Abbatis=1=Ss. Ursule et Soc Virg et Mart=1=
@@ -170,7 +170,7 @@
 *November*
 11-01=11-01=Omnium Sanctorum=6=
 11-02=11-02=Commemoratio Omnium Fidelium Defunctorum=6=
-11-04=11-04=S. Caroli Episcopi et Confessoris=3=
+11-04=11-04=S. Caroli Episcopi et Confessoris=5=
 11-08=11-08=Ss. Quatuor Coronatorum Martyrum=1=
 11-09=11-09=In dedicatione Basilicae Ss. Salvatoris=5=S. Theodori=1=
 11-10=11-10=S. Theodori =1=

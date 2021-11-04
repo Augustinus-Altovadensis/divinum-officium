@@ -1547,7 +1547,19 @@ sub setheadline {
         'I. classis',
         'I. classis'
       );
+      my @cisttable = (
+          '',
+          'Commemoratio.',
+          'Commemoratio et M.',
+          'iij. Lect. et M.',
+          'xij. Lect. et M.',
+          'MM. min.',
+          'MM. maj.',
+          'Serm. min.',
+          'Serm. maj.'
+      );
       $rankname = ($version !~ /1960|Monastic/i) ? $tradtable[$rank] : $newtable[$rank];
+      if ($version =~ /Cistercian/i) {$rankname = $cisttable[$rank]; }
       if ($version =~ /(1955|1960|Newcal)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 
       if ($name =~ /Dominica/i && $version !~ /1960|Monastic/i) {
@@ -1575,20 +1587,8 @@ sub setheadline {
     } elsif ($version =~ /(1570|1910|Divino|1955)/ && $dayname[0] =~ /Quad/i && $dayname[0] !~ /Quad6-4|5|6/i && $dayofweek > 0) {
       $rankname = 'Simplex';
     } elsif ($version =~ /(1570|1910|Divino|1955)/ && $dayname[0] == /07-04/i && $dayofweek > 0) {
-      $rankname = ($rank =~ 7) ? 'Duplex I. classis' : 'Semiduplex';
-    } #elsif ($version =~ /Cistercian/i) {
-      #  my @ranktable = (
-      #    '',
-      #    'Commemoratio.',
-      #    'Commemoratio et M.',
-      #    'iij. Lect. et M.',
-      #    'xij. Lect. et M.',
-      #    'MM. min.',
-      #    'MM. maj.',
-      #    'Serm. min.',
-      #    'Serm. maj.'
-      #    );
-      #  }  
+      $rankname = ($rank =~ 7) ? 'Duplex I. classis' : 'Semiduplex'; 
+      }
      else {
       if ($version !~ /1960|Monastic/i) {
         $rankname = ($rank <= 2) ? 'Ferial' : ($rank < 3) ? 'Feria major' : 'Feria privilegiata'; 

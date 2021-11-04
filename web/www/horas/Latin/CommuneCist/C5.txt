@@ -39,6 +39,9 @@ R. Per vias rectas.
 [Ant 2]
 Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
 
+[HymnusM Laudes]
+@Commune/C5::s/Anni recúrso/Anni revérso/ s/Virtútum actu/Virtúte clarus/
+
 [Ant Tertia]
 @:Ant Vespera:2
 
