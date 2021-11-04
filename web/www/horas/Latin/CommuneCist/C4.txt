@@ -97,7 +97,8 @@ V. Immola Deo sacrificium laudis, et redde Altissimo vota tua.
 R. Ad sacrificándum ei hóstiam laudis.
 
 [Capitulum Laudes]
-@Commune/C4
+v. Benedictiónem ómnium Géntium dedit illi Dóminus, * et testaméntum suum confirmávit super caput ejus.
+$Deo gratias
 _
 @Commune/C4:Responsory Tertia:1-6
 

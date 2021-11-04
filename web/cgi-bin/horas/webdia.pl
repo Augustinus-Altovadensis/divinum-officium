@@ -488,6 +488,10 @@ sub setcross {
     # cross type 1: Dagger / Roman Cross
     my $csubst = "<span style='color:red; font-size:1.1em'>†</span>";
     $line =~ s/†/ $csubst /g;
+
+    # cross type 0: Asteriscus
+    my $csubst = "<span style='color:red'>*</span>";
+    $line =~ s/\*/ $csubst /g;
   }
   return $line;
 }
