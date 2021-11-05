@@ -1,1 +1,13 @@
-@Sancti/11-08r
+[Rank]
+SS. Quatuor Coronatorum Martyrum;;Commemoratio.;;1.1;;vide feria
+
+[Commemoratio 2]
+!Commemoratio SS. Quatuor Coronatorum Martyrum
+Ant. Sancti Mártyres, quanta passi sunt torménta, ut secúri pervenírent ad palmam Martyrii.
+_
+℣. Exultábunt Sancti in glória. 
+℟. Lætabúntur in cubílibus suis.
+_
+$Oremus
+v. Præsta, quæsumus, omnípotens Deus: * ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, † pios apud te in nostra intercessióne sentiámus. *
+$Per Dominum

@@ -316,7 +316,7 @@ sub specials {
             {
             $name = 'Day0 Laudes2';
             }
-          elsif ( $name =~ /Day[0-6] Vespera/i && ( $dayname[0] =~ /Epi[2-6]/
+          elsif ( $name =~ /Day[0-5] Vespera/i && ( $dayname[0] =~ /Epi[2-6]/
             || $dayname[0] =~ /Quadp/i
             || $winner{Rank} =~ /Novembris/i) # Ab Dominica j. Novembris usque ad Adventum
           )

@@ -1,13 +1,12 @@
 @Sancti/11-11
 
 [Rank]
-S. Martini Episcopi et Confessoris;;Duplex;;5;;vide C4
+S. Martini Episcopi et Confessoris;;Duplex;;6;;vide C4
 
 [Rule]
 12 lectiones
 
 [Commemoratio]
-
 
 [Ant Matutinum]
 Martínus, * adhuc catechúmenus, hac me veste contéxit.;;1
@@ -104,6 +103,9 @@ R. Elégit te Dóminus sacerdótem sibi
 * Ad sacrificándum ei hóstiam laudis.
 V. Immola Deo sacrificium laudis, et redde Altissimo vota tua.
 R. Ad sacrificándum ei hóstiam laudis.
+
+[Ant 2]
+O quantus luctus ómnium! * quanta præcípue laménta Monachórum, et Vírginum! quia et pium est gaudére Martíno et pium est flere Martínum.
 
 [Ant Vespera 3]
 @Sancti/11-11:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;131/ s/_//

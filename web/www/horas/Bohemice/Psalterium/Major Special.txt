@@ -7,8 +7,7 @@ $Deo gratias
 @:Hymnus Day0 Laudes
 
 [HymnusC Day0 Vespera2]
-v. 
-Bože, všeho stvořiteli,
+v. Bože, všeho stvořiteli,
 nebeský vládce, zdobící
 celý den světlem půvabným 
 noc tvého spánku milostí,
@@ -132,7 +131,7 @@ R. From generation to generation.
 
 [Day0 Vespera]
 !2 Cor 1:3-4
-v. Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort, who comforteth us in all our tribulation.
+v. Buď veleben Bůh, Otec našeho Pána Ježíše Krista, Otec milosrdenství a Bůh veškeré útěchy. On nás těší ve všech našich souženích.
 $Deo gratias
 
 [Hymnus Day0 Vespera]
@@ -178,50 +177,50 @@ $Deo gratias
 @:Hymnus Day1 Laudes
 
 [Hymnus Day1 Laudes]
-v. O splendour of God’s glory bright,
-O thou that bringest light from light,
-O light of light, light’s living spring,
-O day, all days illumining.
+v. Ó blesku slávy Otcovy, 
+jenž ve dne sluncem zazáříš,
+Tys světla svit, zdroj záření, 
+sám Den, jenž dni osvětluje: 
 _
-O thou true sun, on us thy glance 
-Let fall in royal radiance, 
-The Spirit’s sanctifying beam 
-Upon our earthly senses stream.
+a pravé slunce, vyjdi již
+ó věčný jase v blýskání 
+paprsky Ducha svatého 
+již nalej v proudy našich žil.
 _
-The Father too our prayers implore,
-Father of glory evermore, 
-The Father of all grace and might, 
-To banish sin from our delight:
+Teď Otce prosme obětmi, 
+Otce i mocné milosti,
+Otce i věčné oslavy, 
+ať kluzkou vinu vyhostí.
 _
-To guide whate’er we nobly do,
-With love all envy to subdue,
-To make ill-fortune turn to fair,
-And give us grace our wrongs to bear.
+Ať v pracích řádných řídí nás,
+a zuby ďáblu vyláme; 
+a trudy v dobro obrátí, 
+našemu dílu požehná.
 _
-Our mind be in his keeping placed,
-Our body true to him and chaste, 
-Where only faith her fire shall feed,
-And burn the tares of Satan’s seed.
+Ať mysl řídí, vládne jí 
+a tělo nadá čistotou, 
+víra ať teplem mocně plá, 
+jed bludný lži ji nezdeptá.
 _
-And Christ to us for food shall be, 
-From him our drink that welleth free,
-The Spirit’s wine, that maketh whole,
-And mocking not, exalts the soul.
+A Kristus nám bud pokrmem 
+a víra buď nám nápojem. 
+Radostně pijme střízlivou 
+záplavu Ducha svatého.
 _
-Rejoicing may this day go hence,
-Like virgin dawn our innocence,
-Like fiery noon our faith appear,
-Nor know the gloom of twilight drear.
+Tak v radosti ať projde den: 
+stud čistý bud jak svítání, 
+a víra jako poledne, 
+však soumrak ducha nezachmuř.
 _
-Morn in her rosy car is borne; 
-Let him come forth our perfect morn,
-The Word in God the Father One, 
-The Father perfect in the Son.
+Hle, jitřenka už vychází, 
+s níž přijdiž k nám již světel Pán,
+Syn celý v lůně Otcově 
+a celý v Slově Otec sám.
 _
-All laud to God the Father be;
-All praise, Eternal Son, to thee;
-All glory, as is ever meet,
-To God the Holy Paraclete.
+Bud Bohu Otci sláva, čest, 
+i Synu, jemu rovnému, 
+i Duchu Utěšiteli 
+buď sláva všechen věků věk. 
 Amen.
 
 [Day1 Versum 2]
@@ -1317,12 +1316,12 @@ R. Uzdrav mou duši, * neboť jsem zhřešil proti tobě.
 [Day0M Vespera]
 @:Day0 Vespera
 _
-R.br. How great are thy works, O Lord.  
-R. How great are thy works, O Lord.  
-V. Thou hast made all things in wisdom.
-R. Thy works, O Lord.
+R.br. Jak vznešená jsou tvá díla, Hospodine.  
+R. Jak vznešená jsou tvá díla, Hospodine.   
+V. Všechno jsi moudře učinil.
+R. Tvá díla, Hospodine.
 &Gloria
-R. How great are thy works, O Lord.
+R. Jak vznešená jsou tvá díla, Hospodine. 
   
 [DayFM Vespera]
 @:Day0 Vespera
@@ -1358,12 +1357,12 @@ R. Pomoc naše * ve jménu Páně.
 [Day6M Vespera]
 @:Day6 Vespera
 _
-R.br. Great is our Lord, and great is his power.
-R. Great is our Lord, and great is his power.
-V. and of his wisdom there is no number. 
-R. And great is his power.
+R.br. Veliký je náš Pán, a veliká je jeho moc.
+R. Veliký je náš Pán, a veliká je jeho moc.
+V. a jeho moudrost nelze vyčíslit. 
+R. A veliká je jeho moc.
 &Gloria
-R. Great is our Lord, and great is his power.
+R. Veliký je náš Pán, a veliká je jeho moc.
 
 [AdvM Laudes]
 @:Adv Laudes

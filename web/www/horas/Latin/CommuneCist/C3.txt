@@ -3,7 +3,13 @@
 [Capitulum Vespera]
 @Commune/C3
 _
-@Commune/C3:Responsory Sexta:1-6
+@:Responsory Vespera
+
+[Responsory Vespera]
+R.br. Sancti tui, Dómine, * benedícent te.
+R. Sancti tui, Dómine, * benedícent te.
+V. Glóriam regni tui dicent, et poténtiam tuam loquéntur.
+R. Benedícent te.
 
 [Ant Matutinum]
 Secus decúrsus aquárum * plantávit víneam justórum, et in lege Dómini fuit volúntas eórum.;;1

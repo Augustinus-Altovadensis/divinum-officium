@@ -2,3 +2,6 @@
 
 [Rank]
 S. Caroli Episcopi et Confessoris;;Simplex;;4;;ex C4
+
+[Rule]
+Antiphonas horas

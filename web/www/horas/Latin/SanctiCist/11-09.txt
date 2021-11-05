@@ -1,4 +1,6 @@
 @Sancti/11-09
+[Rank]
+In Dedicatione Basilicæ Ss. Salvatoris;;MM.maj.;;6;;ex C8
 
 [Rule]
 12 lectiones

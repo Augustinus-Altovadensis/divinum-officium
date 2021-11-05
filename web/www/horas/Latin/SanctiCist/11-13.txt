@@ -1,20 +1,28 @@
 [Rank]
-Omnium Sanctorum Ordinis Nostri;;Duplex;;6;;
+Omnium Sanctorum Ordinis Nostri;;MM.maj.;;6;;
 
 [Rule]
 12 lectiones
 Psalmi Dominica
 
 [Ant Vespera]
-@:Ant Laudes
+Fulgébunt justi, * et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et regnábunt in ætérnum.
+Gaudent in cælis * ánimæ Sanctórum, qui Christi vestígia sunt secúti: et quia pro ejus amóre sæculum sprevérunt, ídeo cum Christo exsúltant sine fine.
+Beáti éritis, * cum vos óderint hómines, et cum separáverint vos, et exprobráverint, et ejécerint nomen vestrum tamquam malum propter Fílium hóminis: gaudéte et exsultáte: ecce enim merces vestra multa est in cælo.
+O quam gloriósum est regnum, * in quo cum Christo gaudent omnes Sancti! amícti stolis albis sequúntur Agnum quocúmque íerit!
+Sancti Dómini * Dóminum benedcite in ætérnum.
 
 [Capitulum Vespera]
 @:Capitulum Tertia
 _
-@Commune/C3:Responsory Sexta:s/._.*//s
+@CommuneCist/C3:Responsory Vespera
+
+[Versum 1]
+V. Exultábunt Sancti in glória. 
+R. Lætabúntur in cubílibus suis.
 
 [Ant 1]
-@Commune/C1
+@:Ant 3
 
 [Hymnus Vespera]
 @:Hymnus Laudes
@@ -123,55 +131,60 @@ R. Et nómina eórum vivent in generatiónem et generatiónem.
 @CommuneM/C1
 
 [Ant Laudes]
-Fulgébunt justi * sicut sol in regno Patris eórum, dicit Dóminus.
+Fulgébunt justi, * et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et regnábunt in ætérnum.
 Beáti éritis, * cum vos óderint hómines, et cum separáverint vos, et exprobráverint, et ejécerint nomen vestrum tamquam malum propter Fílium hóminis gaudéte et exsultáte: ecce enim merces vestra multa est in cælis.
 Gaudent in cælis * ánimæ Sanctórum, qui Christi vestígia sunt secúti: et quia pro ejus amóre sánguinem suum fudérunt, ídeo cum Christo exsúltant sine fine.
 Sancti Dómini * Dóminum benedcite in ætérnum.
 O quam gloriósum est regnum * in quo cum Christo gaudent omnes Sancti, amícti stolis albis sequúntur Agnum quocúmque íerit!
 
 [Ant 3]
-In regeneratióne, cum séderit Fílius hóminis in sede majestátis suæ, sedébitis et vos, super sedes duódecim, judicántes duódecim tribus Israël.
+In regeneratióne, * cum séderit Fílius hóminis in sede Majestátis suæ, sedébitis et vos, super sedes duódecim, judicántes duódecim tribus Israël, dicit Dóminus.
 
 [Capitulum Laudes]
 @:Capitulum Tertia
 _
-@Commune/C3:Responsory Tertia:s/._.*//s
+@Commune/C3:Responsory Sexta:s/._.*//s
 
 [Hymnus Laudes]
-Salvéte, cedri Líbani,
-Plantæ viréntes Ordinis,
-Quæ prata nunc cæléstia
-Implétis almo gérmine.
+Avéte solitúdinis
+Claustríque mites íncolæ,
+Qui pertulístis ímpios
+Cœtus furéntis tártari.
 _
-Vos Trinitátis glória
-Ætérna circumpléctitur:
-Vos aura Matris Vírginis
-Mulcet piis favóniis.
+Gemmas, et auri póndera,
+Et dignitátum cúlmina
+Calcástis et fœdíssima,
+Quæ mundus offert gáudia.
 _
-Vos Angelórum cúriæ
-Cingunt choréa pérpetim,
-Et írrigant puríssimi
-Æternitátis rívuli.
+Vobis olus cibária
+Fuére vel legúmina,
+Potúmque lympha præbuit,
+Humúsque dura léctulum.
 _
-O ínclytæ propágines,
-Vestros juváte fílios:
-In valle mæsta débiles
-Nos roboráte súrculos.
+Vixístis inter áspides,
+Sævísque cum dracónibus,
+Porténta nec tetérrima
+Vos terruére dæmonum.
 _
-Sit laus Patri, cum Fílio,
-Simúlque dulci Flámini,
-Læti quibúscum vívitis
-In sempitérno lúmine.
+Rebus procul mortálibus
+Mens avolábat férvida,
+Divúmque juncta cœtui,
+Hærébat inter sídera.
+_
+Summo Parénti Cœlitum, 
+Magnæque Proli Vírginis,
+Sancto simul Paráclito,
+Sit summa laus et glória.
 Amen.
 
 [Versum 2]
-@Commune/C3
+@:Versum 1
 
 [Ant 2]
 @Commune/C1
 
 [Oratio]
-Concéde, quǽsumus omnípotens Deus, ut ad meliórem vitam sanctórum Monachórum exémplua non próvocent: † quátenus, quorum solémnia ágimus, * étiam actus imitémur.
+Concéde, quǽsumus omnípotens Deus: * ut ad meliórem vitam Sanctórum tuórum exémplua non próvocent: † quátenus, quorum solémnia ágimus, étiam actus imitémur.
 $Per Dominum
 
 [Capitulum Tertia]
