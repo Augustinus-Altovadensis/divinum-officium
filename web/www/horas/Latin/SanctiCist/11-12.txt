@@ -1,5 +1,9 @@
 [Rank]
-S. Mennæ Martyris;;Simplex;;1.1;;vide C2
+S. Martini Papae et Martyris;;Commemoratio.;;1.1;;vide feria
 
-[Oratio]
-@Commune/C2:Oratio2:s/N\./Mennæ/
+[Commemoratio]
+!Commemoratio S. Martini
+@CommuneCist/C2:Oratio1:s/N\./Martini/
+
+
+
