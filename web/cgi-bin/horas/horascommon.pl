@@ -625,7 +625,7 @@ sub getrank {
   # Dispose of some cases in which the office can't be sanctoral:
   # if we have no sanctoral office, or it was reduced to a
   # commemoration by Cum nostra.
-  if (!$srank[2] || ($version =~ /(1955|1960|Monastic|Newcal)/i && $version !~ /Cistercian/i && $srank[2] <= 1.1)) {
+  if (!$srank[2] || ($version =~ /(1955|1960|Monastic|Newcal)/i && $srank[2] <= 1.1)) {
 
     # Office is temporal; flag is correct.
   }
