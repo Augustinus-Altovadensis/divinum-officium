@@ -1,9 +1,19 @@
 @Commune/C6
 
+[Ant Vespera]
+Hæc est Virgo sápiens, * et una de número prudéntum.;;109
+Hæc est Virgo sápiens, * quam Dóminus vigilántem invénit.;;112
+Invénta bona margaríta, * dedit ómnia sua, et comparávit eam.;;121
+Tunc surrexérunt omnes * Vírgines illæ, et ornavérunt lámpades suas.;;126
+Média nocte * clamor factus est: Ecce sponsus venit, exíte óbviam ei.;;147
+
 [Capitulum Vespera]
 @Commune/C6
 _
-@Commune/C6:Responsory Sexta:1-6
+@Commune/C6:Responsory Tertia:1-6
+
+[Versum 1]
+@Commune/C6:Versum 2
 
 [Ant Matutinum]
 O quam pulchra * est casta generátio cum claritate!;;8
@@ -40,7 +50,10 @@ R. Exierunt obviam sponso et sponsae
 [Capitulum Laudes]
 @Commune/C6
 _
-@Commune/C6:Responsory Tertia:1-6
+@Commune/C6:Responsory Sexta:1-6
+
+[Ant 2]
+Símile est regnum cælórum sagénæ, missæ in mare, et ex omni génere píscium cóngreganti: quam, cum impléta esset, educéntes, et secus littus sedéntes, elegérunt bonos in vasa sua, malos autem foras misérunt.
 
 [Capitulum Tertia]
 @Commune/C6
