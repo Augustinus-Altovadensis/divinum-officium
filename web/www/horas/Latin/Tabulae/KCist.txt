@@ -187,7 +187,7 @@
 11-22=11-22=S. Ceciliae Virginis et Martyrum=4=
 11-23=11-23=S. Clement Papae et Martyris=3=S. Felicitatis Mart=1=
 11-24=11-24=S. Joannis de Cruce Confessoris et Ecclesiae Doctoris=3=S. Chrysogoni Martyris=1=
-11-25=11-25=S. Catharinae Virginis et Martyris=3=
+11-25=11-25=S. Catharinae Virginis et Martyris=4=
 11-26=11-26=S. Silvesteri Abbatis Confessoris=3=
 11-29=11-29=S. Saturnini Martyris=1=
 11-30=11-30=S. Andreae Apostoli=5=
