@@ -57,7 +57,7 @@ _
 @:Versum 1
 
 [Ant 2]
-@Commune/C2:Ant 3
+Qui vult veníre post me, * ábneget semetípsum, et tollat crucem suam, et sequátur me, dicit Dóminus.
 
 [Oratio]
 Infirmitátem nostram réspice, omnípotens Deus: et quia pondus própriæ actiónis gravat, beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.

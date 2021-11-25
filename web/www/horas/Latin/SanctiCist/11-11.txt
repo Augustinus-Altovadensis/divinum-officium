@@ -107,6 +107,5 @@ R. Ad sacrificándum ei hóstiam laudis.
 [Ant 2]
 O quantus luctus ómnium! * quanta præcípue laménta Monachórum, et Vírginum! quia et pium est gaudére Martíno et pium est flere Martínum.
 
-[Ant Vespera 3]
-@Sancti/11-11:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;131/ s/_//
+
 
