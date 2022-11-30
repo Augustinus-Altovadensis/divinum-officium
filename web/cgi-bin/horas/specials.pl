@@ -1842,6 +1842,7 @@ sub major_getname {
     : ($dayname[0] =~ /Quad/i && $dayname[0] !~ /Quadp/i) ? 'Quad'
     : ($dayname[0] =~ /Pasc/i) ? 'Pasch'
     : "Day$dayofweek";
+  if ($version =~ /Cistercian/i && $flag) { $name .= 'C'; }
   if ($version =~ /monastic/i && $flag) { $name .= 'M'; }
   $name .= " $hora";
   return $name;
@@ -2026,7 +2027,7 @@ sub getseant {
   return $w;
 }
 
-#*** geffrompsalterium($item, $ind, $lang)
+#*** getfrompsalterium($item, $ind, $lang)
 # returns $item (antiphona/versum) $ind(1-3) from $lang/Psalterium/Major Special.txt
 sub getfrompsalterium {
   my $item = shift;

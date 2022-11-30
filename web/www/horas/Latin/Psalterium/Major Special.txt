@@ -875,7 +875,7 @@ Amen.
 V. Vox clamántis in desérto: Paráte viam Dómini. 
 R. Rectas fácite sémitas ejus.
 
-[Adv Versum 2 Cist]
+[Adv VersumC 2]
 V. Emítte Agnum, Dómine, dominatórem terrae.
 R. De Petra desérti ad montem fíliae Sion.
 
