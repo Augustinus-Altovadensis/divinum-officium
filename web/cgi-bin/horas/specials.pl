@@ -1843,7 +1843,7 @@ sub major_getname {
     : ($dayname[0] =~ /Pasc/i) ? 'Pasch'
     : "Day$dayofweek";
   if ($version =~ /Cistercian/i && $flag) { $name .= 'C'; }
-  if ($version =~ /monastic/i && $flag) { $name .= 'M'; }
+#  if ($version =~ /monastic/i && $flag) { $name .= 'M'; }
   $name .= " $hora";
   return $name;
 }
