@@ -3,10 +3,16 @@
 [Rule]
 12 lectiones
 
+[Ant Vespera]
+Diléxit * Andréam Dóminus in odórem suavitátis, allelúia.
+Bíduo vivens * pendébat in cruce pro Christi nómine beátus Andréas, et docébat pópulum.
+Non me permíttas, Dómine, * fámulum tuum a te separári, tempus est, ut commendétur terrae corpus meum.
+Qui persequebántur justum, * demersísti eos, Dómine, in inférno, et in ligno crucis dux justi fuísti.
+
 [Capitulum Vespera]
 @Sancti/11-30:Capitulum Vespera
 _
-@Commune/C1:Responsory Sexta:s/._.*//s
+@Commune/C1:Responsory Tertia:s/._.*//s
 
 [Ant Matutinum]
 Vidit Dóminus * Petrum et Andréam, et vocávit eos.;;18
@@ -111,11 +117,11 @@ R. Et ídeo amícus Dei appellátus est.
 [Capitulum Laudes]
 @Sancti/11-30:Capitulum Vespera
 _
-@Commune/C1:Responsory Tertia:s/._.*//s
+@Commune/C1:Responsory Sexta:s/._.*//s
 
 [Capitulum Tertia]
 @Sancti/11-30:Capitulum Vespera
 
 [Ant Vespera 3]
-@Sancti/11-30:Ant Vespera:s/\.$/.;;109/m s/\.$/.;;112/m s/\.$/.;;115/m s/\.$/.;;138/m
+@Sancti/11-30:Ant Vespera:s/\.$/.;;109/m s/\.$/.;;112/m s/\.$/.;;115/m s/\.$/.;;125/m
 
