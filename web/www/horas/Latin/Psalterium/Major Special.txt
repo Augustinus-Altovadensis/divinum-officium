@@ -875,6 +875,10 @@ Amen.
 V. Vox clamántis in desérto: Paráte viam Dómini. 
 R. Rectas fácite sémitas ejus.
 
+[Adv Versum 2 Cist]
+V. Emítte Agnum, Dómine, dominatórem terrae.
+R. De Petra desérti ad montem fíliae Sion.
+
 [Adv Vespera]
 !Gen 49:10
 v. Non auferétur sceptrum de Juda, et dux de fémore ejus, donec véniat qui mitténdus est; et ipse erit exspectátio géntium.

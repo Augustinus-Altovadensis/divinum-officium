@@ -13,7 +13,7 @@ _
 _
 @Psalterium/Major Special:AdvM Laudes:s/.*_//s
 
-[Versus 2]
+[Versum 2]
 V. Emítte Agnum, Dómine, dominatórem terrae.
 R. De Petra desérti ad montem fíliae Sion.
 
