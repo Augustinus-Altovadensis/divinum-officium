@@ -1,4 +1,4 @@
-# divinum-officium
+# divinum-officium 30.11.2022
 
 Data files and source code for the
 [Divinum Officium](http://www.divinumofficium.com/) project.
