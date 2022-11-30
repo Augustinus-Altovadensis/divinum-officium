@@ -5,6 +5,10 @@
 _
 @Commune/C1:Responsory Sexta:1-6
 
+[Versum 1]
+V. Nimis honoráti sunt amíci tui, Deus.
+R. Nimis confortátus est principátus eórum.
+
 [Ant Matutinum]
 In omnem terram * exívit sonus eórum, et in fines orbis terræ verba eórum.;;18
 Clamavérunt justi, * et Dóminus exaudívit eos.;;33
@@ -116,6 +120,9 @@ _
 [Hymnus Laudes]
 @:Hymnus Vespera
 
+[Versum 2]
+@:Versum 1
+
 [Capitulum Tertia]
 @Commune/C1:Capitulum Laudes
 
@@ -130,3 +137,6 @@ _
 
 [Ant Vespera 3]
 @Commune/C1::s/125/138/
+
+[Versum 3]
+@:Versum 1
