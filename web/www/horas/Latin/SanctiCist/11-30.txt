@@ -123,5 +123,5 @@ _
 @Sancti/11-30:Capitulum Vespera
 
 [Ant Vespera 3]
-@Sancti/11-30:Ant Vespera:s/\.$/.;;109/m s/\.$/.;;112/m s/\.$/.;;115/m s/\.$/.;;125/m
+@SanctiCist/11-30:Ant Vespera:s/\.$/.;;109/m s/\.$/.;;112/m s/\.$/.;;115/m s/\.$/.;;125/m
 
