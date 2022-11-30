@@ -1641,7 +1641,7 @@ sub setmdir {
 
   if ($version =~ /Cistercian/i) {
     $sanctiname = 'SanctiCist';
-    $temporaname = 'TemporaM';
+    $temporaname = 'TemporaCist';
     $communename = 'CommuneCist';
   } elsif ($version =~ /Monastic/i) {
     $sanctiname = 'SanctiM';
