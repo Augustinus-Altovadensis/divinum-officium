@@ -15,7 +15,7 @@ _
 
 [Lectio4]
 !Isa 11:11-13
-11 Et erit in die illa: adíciet Dóminus secúndo manum suam ad possidéndum resíduum pópuli sui, quod relinquétur ab Assýriis, et ab Ægýpto, et a Phetros, et ab Æthiópia, et ab Ælam, et a Sénnaar, et ab Emath, et ab ínsulis maris.
+11 Et erit in die illa: adíciet Dóminuss secúndo manum suam ad possidéndum resíduum pópuli sui, quod relinquétur ab Assýriis, et ab Ægýpto, et a Phetros, et ab Æthiópia, et ab Ælam, et a Sénnaar, et ab Emath, et ab ínsulis maris.
 12 Et levábit signum in natiónes, et congregábit prófugos Israël, et dispérsos Juda cólliget a quátuor plagis terræ.
 13 Et auferétur zelus Ephraim, et hostes Juda períbunt.
 
@@ -47,9 +47,9 @@ R. Quem Joánnes prædicávit Agnum esse ventúrum.
 In eódem Matthǽi volúmine légimus illud, quod in consequéntibus scríbitur: Ecce puer meus, quem elégi; eléctus meus, in quo complácuit ánimae meae: ponam Spíritum meum super illum, iudícium géntibus próferet: ad Salvatóris reférri intellegéntiam, in quo requiéscat Spíritus Dómini, id est, aetérna habitatióne permánsit.
 
 [Responsory8]
-R. Ecce Dóminus véniet, et omnes sancti ejus cum eo; † tunc aperiéntur óculi caecórum, et aures surdórum áudient; † tunc ascéndet claudus quasi cervus,
+R. Ecce Dóminuss véniet, et omnes sancti ejus cum eo; † tunc aperiéntur óculi caecórum, et aures surdórum áudient; † tunc ascéndet claudus quasi cervus,
 * Et absolútae erunt línguae mutórum.
-V. Ecce Dóminus in fortitúdine véniet: et brácchium ejus dominábitur.
+V. Ecce Dóminuss in fortitúdine véniet: et brácchium ejus dominábitur.
 R. Et absolútae erunt línguae mutórum.
 
 [Lectio9]

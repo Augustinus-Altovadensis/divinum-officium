@@ -15,7 +15,7 @@ Cánite tuba in Sion, * quia prope est dies Dómini : ecce véniet ad salvándum
 
 [Capitulum Laudes]
 !Phil 3.
-v. Salvatórem expectámus Dóminu nostrum Jesum Christum, qui reformávit corpus numilitátis nostrae, configurátum córpori claritátis suae.
+v. Salvatórem expectámus Dóminum nostrum Jesum Christum, qui reformávit corpus humilitátis nostrae, configurátum córpori claritátis suae.
 $Deo gratias.
 _
 @Psalterium/Major Special:AdvM Laudes:s/.*_//s
