@@ -1,0 +1,6 @@
+[Rank]
+Vigilia Immaculatae Conceptionis B.M.V.;;Vigilia;;2.5;;
+
+[Oratio]
+Deus, qui Unigéniti tui Matrem ab origináli culpa in sua Conceptióne mirábiliter præservásti: da, quæsumus; et sua nos intercessióne munítos, corde mundos fácias suæ interésse festivitáti.
+$Per eumdem

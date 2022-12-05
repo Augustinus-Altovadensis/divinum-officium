@@ -15,11 +15,11 @@ In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allel
 
 [Capitulum Laudes]
 !Phil 3.
-v. Salvatórem expectámus Dóminum nostrum Jesum Christum, qui reformávit corpus humilitátis nostrae, configurátum córpori claritátis suae.
+v. Salvatórem expectámus Dóminum nostrum Jesum Christum, qui reformávit corpus humilitátis nostræ, configurátum córpori claritátis suæ.
 $Deo gratias.
 _
 @Psalterium/Major Special:AdvM Laudes:s/.*_//s
 
 [Versum 2]
-V. Emítte Agnum, Dómine, dominatórem terrae.
+V. Emítte Agnum, Dómine, dominatórem terræ.
 R. De Petra desérti ad montem fíliae Sion.

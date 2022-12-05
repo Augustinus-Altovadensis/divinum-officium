@@ -195,12 +195,14 @@
 *December*
 12-02=12-02=S. Petri Chrysologi Episcopi Confessoris Ecclesiae Doctoris=3=S. Barbarae Virginis et Martyris=1=
 12-03=12-03=S. Francisci Xaverii Confessoris=4=
-12-06=12-06=S. Nicolai Episcopi et Confessoris=3=
-12-07=12-07=S. Ambrosii Episcopi Confesoris et Ecclesiae Doctoris=3=
-12-08=12-08= Immaculata Conceptione Beatae Mariae Virginis=6=
+12-04=12-04=S. Barbarae Virginis et Martyris=6=
+12-06=12-06=S. Nicolai Episcopi et Confessoris=8=
+12-07=12-07v=Vigilia Immaculatae Conceptionis B. M. V.=2=
+12-08=12-08= Immaculata Conceptione Beatae Mariae Virginis=8=
+12-10=12-10=S. Melchiadis Papae et Mart=1=  
 12-11=12-11=S. Damasi Papae et confessoris=3=
 12-13=12-13=S. Luciae Virginis et Martyris=3=
-12-21=12-21=S. Thomae Apostoli=5=
+12-21=12-21=S. Thomae Apostoli=6=
 12-24=12-24=Vigilia Nativitatis Domini=6=
 12-25=12-25=In Nativitate Domini=6=
 12-26=12-26=Die secunda infra octavam Nativitati=5=Commemoratio S. Stephani Protomartyris
