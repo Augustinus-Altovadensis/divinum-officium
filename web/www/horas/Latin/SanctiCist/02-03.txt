@@ -1,1 +1,13 @@
-@Sancti/02-03
+[Rank]
+S. Ælredi Abbatis;;iij. Lect. et M.;;2;;ex C5
+
+[Rule]
+vide C3;
+
+[Oratio]
+Omnípotens sempitérne Deus, qui Ecclésiæ tuæ fílios sicut non cessas erudíre, ita non désinis adjuváre: da fidélibus tuis intercessióne beáti Aleredi, Abbátis, quem eis ætérnæ salútis minístrum tribuísti; ut et sciéntiam, te miseránte, recta faciénsi, et possibilitátem cápiant exequéndi.
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio S. Blasii Episcopi et Martyris
+@Commune/C2:Oratio1:s/N\./Blásii/
