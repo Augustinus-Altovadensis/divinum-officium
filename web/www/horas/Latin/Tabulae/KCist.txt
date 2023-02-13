@@ -35,6 +35,7 @@
 02-05=02-05=S. Agathae Virginis et Martyris=3=
 02-07=02-07=S. Romualdi Abbatis=3=
 02-10=02-10=S. Scholasticae Virginis=3=
+02-13=02-13=S. Stephani Abbatis=2=
 02-14=02-14=S. Valentini=1=
 02-22=02-22=In Cathedra S. Petri Ap=5=
 02-23=02-23=S. Petri Damiani=3=
