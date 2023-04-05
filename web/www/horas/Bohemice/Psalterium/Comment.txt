@@ -9,8 +9,8 @@ v průběhu roku
 votivní
 
 [Preces]
-včetně
-vynechané
+dělají se
+vynechává se
 vlastní
 
 [Prima_Special]
@@ -18,7 +18,7 @@ o slavnostech
 ve všední dny
 
 [Suffragium]
-vynechá se
+vynechává se
 obvyklé
 pro dobu velikonoční
 Tridentská

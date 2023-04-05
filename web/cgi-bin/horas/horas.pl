@@ -658,6 +658,8 @@ sub depunct {
   $item =~ s/[úüûÚÜÛ]/u/g;
   $item =~ s/æ/ae/g;
   $item =~ s/œ/oe/g;
+  $item =~ s/℣/V/g;
+  $item =~ s/℟/R/g;
   return $item;
 }
 
