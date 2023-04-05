@@ -277,7 +277,7 @@ sub antetpsalm_mm {
     }
   }
 
-
+  # WORKING switch of one Laudes Antiphon for Cistercian Office
   if ($hora =~ /Laudes/i && $version =~ /Cistercian/i && $winner !~ /Quad6-[4-6]/i )
     {
       if ($ind == 0) { $lastantiphon = '' ; $ant_laudes = $line[0] ; }

@@ -14,9 +14,12 @@ $Deus in adjutorium Cist
 &Gloria
 &ant_Benedictus(2)
 _
+#Preces Feriales
 $MLitany
 
 #Oratio
+
+#Suffragium
 
 #Conclusio
 &Dominus_vobiscum

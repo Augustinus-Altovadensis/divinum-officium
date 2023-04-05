@@ -1,0 +1,27 @@
+[Ant Laudes]
+Ó smrti, * budu tvé smrt, budu tvá zkáza, hrobe.
+Oplakávají jej * jako jednorozeného, neboť nevinný Pán byl zabit.;;42
+Pohleďte, * všichni lidé, a vizte mnou bolest.;;62;66
+Od brány pekelné * vysvoboď, Pane, mou duši.;;222
+Ó vy všichni, * jež jdete po cestě, pohleďte a vizte, jestli je na světě bolest stejná jako má bolest.
+
+[Versum 2]
+V. Tělo mé odpočívá v naději.
+R. A ty nedáš svému Svatému spatřit zkázu.
+
+[Ant 2]
+Ženy, * které seděly u hrobu, naříkaly a oplakávaly Pána.
+
+[Oratio 2]
+v. Kristus se stal pro nás poslušným až k smrti, a to smrti křížem. Proto jej Bůh povýšil a dal mu jméno, které jest nad každé jiné jméno.
+!Zcela v tichosti se řekne
+$Pater noster
+_
+!Poněkud hlasitěji 
+&psalm(50)
+@:Oratio Matutinum
+
+[Oratio Matutinum]
+v. Shlédni, prosíme, Pane, na tuto svou rodinu, pro niž se náš Pán Ježíš Kristus neváhal vydat v ruce zlých, a podstoupit mučení kříže:
+!A v tichosti se dokončí:
+$Qui tecum

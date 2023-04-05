@@ -137,3 +137,29 @@ _
 
 [Versum 3]
 @:Versum 2
+
+[Special Vespera 1]
+#Sabbato Sancto special Paschal Vespera
+_
+$Pater noster
+$Ave Maria
+_
+Ant. Allelúja.
+&psalm(116)
+Ant. Allelúja, Allelúja, Allelúja.
+_
+Ant. Véspere autem sábbati.
+&canticum(2)
+&Gloria
+{::}
+Ant. Véspere autem sábbati quæ lucéscit in prima sábbati, venit María Magdaléne et áltera María vidére sepúlcrum, allelúja.
+
+&Dominus_vobiscum
+v. Orémus.
+v. Spíritum nobis, Dómine, tuæ charitátis infúnde: ut, quos Sacraméntis Paschálibus satiásti, tua fácias pietáte concórdes.
+$Per Dominum 
+&Dominus_vobiscum
+
+V. Benedicámus Dómino, allelúja, allelúja.
+R. Deo grátias, allelúja, allelúja.
+$Pater noster

@@ -521,7 +521,7 @@ sub specials {
       my %suffr = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};
       my ($suffr, $comment);
 
-      if ($version =~ /trident|Cistercian/i) {
+      if ($version =~ /trident/i) {
         if ($dayname[0] =~ /pasc/i && $dayname[1] =~ /(?:feria|vigilia)/i) { 
           $suffr = ($hora =~ /Laudes/) ? $suffr{"Suffragium2"} : $suffr{"Suffragium2v"}; }
         else {
@@ -547,6 +547,15 @@ sub specials {
         if ($c == 1 && $commune =~ /(C1[0-9])/) { $c = 11; }
         $suffr = $suffr{"Suffragium$c"};
       }
+
+      # Cistercian version of Suffragia. TODO
+      if ($version =~ /Cistercian/i) {
+        if ($dayname[0] =~ /pasc/i && $hora =~ /Laudes/ ) 
+          { $suffr = $suffr{Suffragium3L_Pascha}; }
+        if ($dayname[0] =~ /pasc/i && $hora =~ /Vespera/ ) 
+          { $suffr = $suffr{Suffragium3_Pascha}; }
+      }  
+
       if ($churchpatron) { $suffr =~ s/r\. N\./$churchpatron/; }
       setcomment($label, 'Suffragium', $comment, $lang);
       setbuild1("Suffragium$comment", 'included');
@@ -659,6 +668,9 @@ sub preces {
   my $dominicales = 0;
   my $feriales = 0;
   our $precesferiales = 0;
+  if ( $winner !~ /Quad6-[4-6]/i && $version =~ /Cistercian/i ) {
+    $precesferiales = 1;
+    return 0;} # Cistercian rite always has Preces feriales (Kyrie. Pater noster after the Canticle, except for the Holy Triduum)
   if ($winner =~ /C12/i) { return 1; }    #Officium parvum BMV
   if ($rule =~ /Omit.*? Preces/i) { return 1; }
   if ($duplex > 2 && $seasonalflag) { return 1; }
@@ -692,7 +704,7 @@ sub preces {
     return 0;
   }
 
-  if ($dominicales && $item =~ /Dominicales/i) {
+    if ($dominicales && $item =~ /Dominicales/i) {
     if ($hora =~ /prima/i) { $precesferiales = 1; }
     return 0;
   }
@@ -1197,20 +1209,6 @@ sub antetpsalm {
     } elsif ($last) {
       $ant1 = '';
       $ant = Alleluia_ant($lang, 1);
-    } else {
-      $ant1 = $ant = '';
-    }
-  }
-
-if ( $hora =~ /laudes/i && $version =~ /Cistercian/i && $dayname[0] !~ /Quad6-[4-6]/i )
-  {
-    if ($ind == 0) {
-      $ant1 = $ant[0];
-      $ant_laudes = $ant;
-      $ant = '';
-    } elsif ($last) {
-      $ant1 = '';
-      $ant = $ant_laudes;
     } else {
       $ant1 = $ant = '';
     }

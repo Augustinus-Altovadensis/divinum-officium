@@ -32,13 +32,13 @@
 #Kantikum Nunc dimittis
 
 [#Preces Dominicales]
-#Nedělní přímluvy
+#Nedělní prosby
 
 [#Preces Dominicales et Feriales]
-#Nedělní i všední přímluvy
+#Nedělní i všední prosby
 
 [#Preces Feriales]
-#Všední přímluvy
+#Všední prosby
 
 [#Suffragium]
 #Suffragium
