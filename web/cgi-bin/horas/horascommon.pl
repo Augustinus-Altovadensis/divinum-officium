@@ -1828,6 +1828,7 @@ sub spell_var {
 	  $t =~ s/Carit/Charit/g;
     $t =~ s/cárit/chárit/g;
 	  $t =~ s/Cárit/Chárit/g;
+    $t =~ s/eius/ejus/g;
     #$t =~ s/V. /℣. /g;
     #$t =~ s/R. /℟. /g;
     }

@@ -1438,7 +1438,7 @@ sub postprocess_short_resp(\@$) {
         # Short responsory proper.
         if ((/^[V℣]\./ .. /^[R℟]\./) && /^[R℟]\./) {
           our %prayers;
-          $_ = '℟. ' . $prayers{$lang}->{'Alleluia Duplex'};
+          #$_ = '℟. ' . $prayers{$lang}->{'Alleluia Duplex'}; # disabling for now to show the versicle
         } elsif (/^℟\./) {
           ensure_double_alleluia($_, $lang);
         }
