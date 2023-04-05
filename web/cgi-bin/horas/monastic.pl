@@ -278,7 +278,7 @@ sub antetpsalm_mm {
   }
 
 
-  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i )
+  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i && $winner !~ /Quad6-[4-6]/i )
     {
       if ($ind == 0) { $lastantiphon = '' ; $ant_laudes = $line[0] ; }
       if ($ind == 1) { $line[0] = ''; $lastantiphon = ''; }
