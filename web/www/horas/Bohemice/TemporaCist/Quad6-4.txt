@@ -1,9 +1,9 @@
 [Ant Laudes]
-Jsi spravedlivý, Pane, * ve svých výrocích, a zvítězíš, pokud budeš souzen.
-Pán * jako ovce na porážku byl veden, a neotevřel svá ústa.
-Zkroušeno jest * má srdce v mém nitru, roztřásly se všechny mé kosti.
+Jsi spravedlivý, Pane, * ve svých výrocích, a zvítězíš, pokud budeš souzen.;;50
+Pán * jako ovce na porážku byl veden, a neotevřel svá ústa.;;89
+Zkroušeno jest * má srdce v mém nitru, roztřásly se všechny mé kosti.;;62;66
 Byl povzbuzen * ve tvé ctnosti, a ve tvém svatém pokrmu, Pane.
-Byl obětován * neboť on sám to chtěl, a naše hříchy on sám nesl.
+Byl obětován * neboť on sám to chtěl, a naše hříchy on sám nesl.;;148;149;150
 
 [Versum 2]
 V. Člověk mého pokoje, v něhož doufám.
