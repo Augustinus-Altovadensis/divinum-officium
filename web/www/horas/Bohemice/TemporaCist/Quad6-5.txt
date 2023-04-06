@@ -1,7 +1,7 @@
 [Ant Laudes]
-Vlastního * Syna svého neušetřil Bůh, avšak pro nás všechny jej vydal.
-Úzkostmi trpěl * můj duch, ve mě neklidné je mé srdce.
-Řekl lotr lotrovi: * My jsme jen dostali, co jsme si za své skutky zasloužili, co ale tento udělal? Vzpomeň si na mne, Pane, až přijdeš do svého království.
+Vlastního * Syna svého neušetřil Bůh, avšak pro nás všechny jej vydal.;;50
+Úzkostmi trpěl * můj duch, ve mě neklidné je mé srdce.;;142
+Řekl lotr lotrovi: * My jsme jen dostali, co jsme si za své skutky zasloužili, co ale tento udělal? Vzpomeň si na mne, Pane, až přijdeš do svého království.;;62;66
 Když se bude obávat * má duše, Pane, vzpomeň si na své milosrdenství.
 Pamatuj na mě, * Pane, až přijdeš do svého království.
 
