@@ -278,8 +278,8 @@ sub antetpsalm_mm {
   }
 
   # WORKING switch of one Laudes Antiphon for Cistercian Office
-  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i && $winner !~ /Quad6-[4-6]/i )
-    {
+  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i && $winner !~ /Quad6-[4-6]/i && $dayname[1] !~ /Fidelium Defunctorum/i )
+    { # every day except for the Holy Triduum and All Souls Day, there is one Antiphon for Lauds.
       if ($ind == 0) { $lastantiphon = '' ; $ant_laudes = $line[0] ; }
       if ($ind == 1) { $line[0] = ''; $lastantiphon = ''; }
       if ($ind == 2) { $line[0] = ''; $lastantiphon = ''; }

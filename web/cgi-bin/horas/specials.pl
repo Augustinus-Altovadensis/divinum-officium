@@ -287,7 +287,12 @@ sub specials {
       my $name = major_getname(1);
       if ($version =~ /Cistercian/i) 
         { $name =~ s/Day[1-5]M/DayCM/i; 
-          $name =~ s/Day0M Laudes/Day0C Laudes/i; }
+          $name =~ s/Day0M Laudes/Day0C Laudes/i; 
+          $name =~ s/AdvM/AdvC/i;
+          $name =~ s/QuadM/QuadC/i;
+          $name =~ s/Quad5M/Quad5C/i;
+          $name =~ s/PaschM/PaschC/i;
+        }
       if ($version =~ /monastic/i) { $name =~ s/Day[1-5]M/DayFM/i; }
       my $capit = $capit{$name};
       my $name = major_getname();
@@ -339,7 +344,7 @@ sub specials {
       $capit .= "\n_\n!$hymntrans\n$hymn";
       setbuild('Psalterium/Major Special', $name, 'Capitulum ord');
 
-      #look for special from prorium the tempore or sancti
+      #look for special from proprium the tempore or sancti
       my ($w, $c);
       $w = '';
 
@@ -385,9 +390,13 @@ sub specials {
       if ($w) { $capit = $w; $comment = $c; }
       if ($capit) { $capit = doxology($capit, $lang); }
       my $ind = ($hora =~ /laudes/i) ? 2 : $vespera;
-      my ($versum, $c1) = getantvers('Versum', $ind, $lang);
+
+      if ( $version =~ /Cistercian/i ) { our ($versum, $c1) = getantvers('VersumC', $ind, $lang);}
+      if ( !$versum ) { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
+      # TODO: solve verses with commemorations (currently they copy the main verse et responsum)
+
       setcomment($label, 'Source', $c, $lang);
-      $capit = chompd($capit) . "_\n" . $versum;
+      $capit = chompd($capit) . "_\n" . $versum; our ($versum, $c1) = '';
       if ($version =~ /monastic/i) {
         if ($version =~ /Cistercian/) { 
           $capit =~ s/&Gloria.*?_/_/s; 
@@ -548,12 +557,19 @@ sub specials {
         $suffr = $suffr{"Suffragium$c"};
       }
 
-      # Cistercian version of Suffragia. TODO
+      # Cistercian version of Suffragia. TODO: doplnit nemariánská suffragia
       if ($version =~ /Cistercian/i) {
-        if ($dayname[0] =~ /pasc/i && $hora =~ /Laudes/ ) 
-          { $suffr = $suffr{Suffragium3L_Pascha}; }
-        if ($dayname[0] =~ /pasc/i && $hora =~ /Vespera/ ) 
-          { $suffr = $suffr{Suffragium3_Pascha}; }
+        $suffr = "";
+        if ($dayname[0] =~ /adv/i && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Advent}; }
+        elsif ($dayname[0] =~ /adv/i && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Advent}; }
+        elsif ( (($month == 1 && $day > 13) || $month == 2 && $day == 1) && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Epi}; }
+        elsif ( (($month == 1 && $day > 13) || $month == 2 && $day == 1) && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Epi}; }
+        elsif ( ($month == 2 && $day >= 3 || $dayname[0] =~ /quad/i) && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Quad}; }
+        elsif ( ($month == 2 && $day >= 3 || $dayname[0] =~ /quad/i) && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Quad}; }
+        elsif ($dayname[0] =~ /pasc/i && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Pascha}; }
+        elsif ($dayname[0] =~ /pasc/i && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Pascha}; }
+        elsif ($hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L}; }
+        elsif ($hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3C}; }
       }  
 
       if ($churchpatron) { $suffr =~ s/r\. N\./$churchpatron/; }
@@ -1374,7 +1390,7 @@ sub oratio {
   }
 
   if ($hora =~ /(Laudes|Vespera)/i && $winner{Rule} =~ /Sub unica conc/i) {
-    if ($version !~ /1960|Monastic/i) {
+    if ($version !~ /1960|Monastic/i || $version =~ /Cistercian/i ) {
       if ($w =~ /(.*?)(\n\$Per [^\n\r]*?\s*)$/s) { $addconclusio = $2; $w = $1; }
       if ($w =~ /(.*?)(\n\$Qui [^\n\r]*?\s*)$/s) { $addconclusio = $2; $w = $1; }
     } else {
@@ -1775,6 +1791,7 @@ sub getcommemoratio {
   my $v = $w{"Versum $ind"};
   if (!$v) { $i = 4 - $ind; $v = $w{"Versum $i"}; }
   if (!$v) { $v = $c{"Versum $ind"}; }
+  if ( $version =~ /Cistercian/i ) { $v = getfrompsalterium('VersumC', $ind, $lang); }
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
@@ -1840,8 +1857,6 @@ sub major_getname {
     : ($dayname[0] =~ /Quad/i && $dayname[0] !~ /Quadp/i) ? 'Quad'
     : ($dayname[0] =~ /Pasc/i) ? 'Pasch'
     : "Day$dayofweek";
-#  if ($version =~ /Cistercian/i && $flag) { $name .= 'C'; }
-#  if ($version =~ /monastic/i && $version !~ /Cistercian/i && $flag) { $name .= 'M'; }
 if ($version =~ /monastic/i && $flag) { $name .= 'M'; }
   $name .= " $hora";
   return $name;
@@ -1989,7 +2004,7 @@ sub getantvers {
   }
 
   if ($w) {
-    if ($item =~ /Versum/i) {
+    if ($item =~ /Versum/i || $item =~ /VersumC/i) {
       postprocess_vr($w, $lang);
     } else {
       postprocess_ant($w, $lang);
@@ -2173,8 +2188,10 @@ sub doxology {
 # versions 1956 and 1960 exclude from Ordinarium
 sub checksuffragium {
   if ($rule =~ /no suffragium/i) { return 0; }
-  if (!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) { return 0; }    #christmas, adv, passiontime omit
+  if ((!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) && $version !~ /Cistercian/i ) { return 0; }    #christmas, adv, passiontime omit
   if ($dayname[0] =~ /Pasc[07]/i) { return 0; }
+  if ( ($winner =~ /C1[0-2]/ || $dayname[1] =~ /Dominica/i ) && $version =~ /Cistercian/i ) { return 0; }
+  if ($rank <= 4 && $seasonalflag && $version =~ /Cistercian/i ) { return 1; }
   if ($winner =~ /sancti/i && $rank >= 3 && $seasonalflag) { return 0; }
   if ($commemoratio =~ /sancti/i && $commemoratio{Rank} =~ /;duplex/i && $seasonalflag) { return 0; }
 

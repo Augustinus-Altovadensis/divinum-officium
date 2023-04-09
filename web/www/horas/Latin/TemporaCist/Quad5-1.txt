@@ -7,22 +7,9 @@ Feria Secunda infra Hebdomadam Passionis;;Feria major;;3
 V. Dedérunt in escam meam fel.
 R. Et in siti mea potavérunt me acéto.
 
-[Capitulum Laudes]
-!Heb 9:28
-v. Christus semel oblátus est ad multórum exhauriénda peccáta: * secúndo sine peccáto apparébit expectántibus se, in salútem.
-_
-@Psalterium/Major Special:Quad5M Laudes:3-6
-
 [Versum 2]
 V. Homo pacis meæ in quo sperábam.
 R. Ampliávit advérsum me supplantatiónem.
-
-[Capitulum Vespera]
-!Jer 11:20
-v. Tu autem, Dómine Sábaoth, qui júdicas juste, et probas renes et corda, vídeam ultiónem tuam ex eis: tibi enim revelávi causam meam, Dómine, Deus meus.
-$Deo gratias
-_
-@Psalterium/Major Special:Quad5M Vespera:3-6
 
 [Versum 3]
 @:Versum 1
