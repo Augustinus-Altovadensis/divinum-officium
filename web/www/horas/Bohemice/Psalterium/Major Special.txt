@@ -1548,3 +1548,98 @@ R. From the lion's mouth, * O Lord, Save me.
 V. And my lowness from the horns of the unicorns. 
 R. O Lord. save me.
 R. From the lion's mouth, * O Lord, Save me.
+
+[AdvC Laudes]
+!Phil 3.
+v. Salvatórem expectámus Dóminum nostrum Jesum Christum, qui reformávit corpus humilitátis nostrae, configurátum córpori claritátis suae.
+$Deo gratias.
+_
+R.br. Veni ad liberándum nos * Dómine Deus virtútum.
+R. Veni ad liberándum nos * Dómine Deus virtútum.
+V. Osténde fáciem tuam et salvi érimus.
+R. Dómine Deus virtútum.
+
+[AdvC Vespera]
+!Gen 49.
+v. Non auferétur sceptrum de Juda, et dux de fémore ejus, donec véniat qui mitténdus est, et ipse erit exspectátio Géntium.
+$Deo gratias.
+_
+R.br. Tu exúrgens, Dómine, * Miseréberis Sion.
+R. Tu exúrgens, Dómine, * Miseréberis Sion.
+V. Quia tempus miseréndi ejus, quia venit tempus.
+R. Miseréberis Sion.
+
+[QuadC Laudes]
+!2. Cor. 6
+v. Ecce nunc tempus acceptábile, ecce nunc dies salútis. Némini dantes ullam offensiónem, ut non vituperétur ministérium nostrum. 
+$Deo gratias
+_
+R.br. Ipse liberávit me * de láqueo venántium.
+R. Ipse liberávit me * de láqueo venántium.
+V. Et a verbo áspero.
+R. De láqueo venántium.
+
+[QuadC Vespera]
+@:Quad Vespera
+_
+R.br. Scápulis suis * obumbrábit tibi.
+R. Scápulis suis * obumbrábit tibi.
+V. Et sub pennis ejus sperábis.
+R. Obumbrábit tibi.
+
+[Quad5C Laudes]
+!Heb 9:28
+v. Christus semel oblátus est ad multórum exhauriénda peccáta: * secúndo sine peccáto apparébit expectántibus se, in salútem.
+$Deo gratias
+_
+R.br. Érue a frámea * Deus ánimam meam.
+R. Érue a frámea * Deus ánimam meam
+V. Et de manu canis únicam meam.
+R. Deus ánimam meam.
+
+[Quad5C Vespera]
+!Jer 11:20
+v. Tu autem, Dómine Sábaoth, qui júdicas juste, et probas renes et corda, vídeam ultiónem tuam ex eis: tibi enim revelávi causam meam, Dómine, Deus meus.
+$Deo gratias
+_
+R.br. De ore leónis * líbera me, Dómine.
+R. De ore leónis * líbera me, Dómine.
+V. Et a córnibus unicórnium humilitátem meam.
+R. Líbera me, Dómine.
+
+[Adv Versum 1]
+V. Rosu dejte, nebesa, shůry, a oblakové dštěte spravedlivého.
+R. Otevři se, země, a vydej Spasitele.
+
+[AdvC Versum 2]
+V. Vydej Beránka, Hospodine, vládce země.
+R. Z pouště Petry až k hoře dcery Sionské.
+
+[Quad VersumC 2]
+V. Jako štít tě obklopí jeho pravda.
+R. Nebudeš se bát zlých snů.
+
+[Quad VersumC 3]
+V. Svým Andělům dal Bůh o tobě příkaz.
+R. Aby tě střežili na všech tvých cestách.
+
+[Quad5 VersumC 2]
+V. Člověk mého pokoje, v něhož jsem doufal.
+R. Rozšířil proti mě zradu.
+
+[Quad5 VersumC 3]
+V. Dali v můj pokrm žluč.
+R. A v mé žízni napájeli mě octem.
+
+[Pasch VersumC 2]
+V. Rozhlašujte mezi národy, allelúja.
+R. Že Pán vládnul z dřeva kříže, allelúja.
+
+[Pasch Versum 3]
+V. Zůstaň s námi, Pane, allelúja.
+R. Neboť se připozdívá, allelúja.
+
+
+
+
+

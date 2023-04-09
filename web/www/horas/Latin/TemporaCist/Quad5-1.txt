@@ -3,13 +3,5 @@
 [Rank]
 Feria Secunda infra Hebdomadam Passionis;;Feria major;;3
 
-[Versum 1]
-V. Dedérunt in escam meam fel.
-R. Et in siti mea potavérunt me acéto.
 
-[Versum 2]
-V. Homo pacis meæ in quo sperábam.
-R. Ampliávit advérsum me supplantatiónem.
 
-[Versum 3]
-@:Versum 1

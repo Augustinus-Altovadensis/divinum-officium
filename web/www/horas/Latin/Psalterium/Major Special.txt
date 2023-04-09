@@ -1081,8 +1081,12 @@ V. Ángelis suis Deus mandávit de te.
 R. Ut custódiant te in ómnibus viis tuis.
 
 [Quad5 VersumC 2]
-V. Scuto circúmdabit te véritas ejus.
-R. Non timébis a timóre noctúrno.
+V. Homo pacis meæ in quo sperábam.
+R. Ampliávit advérsum me supplantatiónem.
+
+[Quad5 VersumC 3]
+V. Dedérunt in escam meam fel.
+R. Et in siti mea potavérunt me acéto.
 
 [Quad Vespera]
 !Joël 2:17
@@ -1387,7 +1391,7 @@ Amen.
 V. In resurrectióne tua, Christe, allelúja.
 R. Cæli et terra læténtur, allelúja.
 
-[PaschC Versum 2]
+[Pasch VersumC 2]
 V. Dícite in natiónibus, allelúja.
 R. Quia Dóminus regnávit a ligno, allelúja.
 
@@ -1481,6 +1485,9 @@ Amen.
 [Pasch Versum 3]
 V. Mane nobíscum, Dómine, allelúja.
 R. Quóniam advesperáscit, allelúja.
+
+[Pasch VersumC 3]
+@:Pasch Versum 3
 
 [Suffragium1]
 Ant. Beáta Dei Génitrix Virgo María, Sanctique omnes intercedant pro nobis ad Dóminum.

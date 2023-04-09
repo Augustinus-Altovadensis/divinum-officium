@@ -1791,7 +1791,6 @@ sub getcommemoratio {
   my $v = $w{"Versum $ind"};
   if (!$v) { $i = 4 - $ind; $v = $w{"Versum $i"}; }
   if (!$v) { $v = $c{"Versum $ind"}; }
-  if ( $version =~ /Cistercian/i ) { $v = getfrompsalterium('VersumC', $ind, $lang); }
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
   postprocess_vr($v, $lang);
