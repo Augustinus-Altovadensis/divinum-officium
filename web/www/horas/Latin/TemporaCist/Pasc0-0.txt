@@ -101,12 +101,22 @@ Assúmpsit, quod detérius erat, ut det, quod paestántius est: mendícus factus
 [Responsory12]
 @Tempora/Pasc0-5:Responsory2
 
+[Ant Laudes]
+Allelúia, * allelúia, allelúia.
+
+[Ant Vespera]
+Allelúia, * allelúia, allelúia.
+
 [Capitulum Laudes]
 @:Capitulum Tertia
 _
-@Psalterium/Major Special:PaschM Laudes:3-8
+@Psalterium/Major Special:PaschC Laudes:3-6
 
 [Versum 2]
+V. Hæc dies, quam fécit Dominus.
+R. Exsultémus et lætémur in ea.
+
+[VersumC 2]
 V. Hæc dies, quam fécit Dominus.
 R. Exsultémus et lætémur in ea.
 
@@ -135,10 +145,16 @@ $Deo gratias
 [Capitulum Vespera]
 @:Capitulum Tertia
 _
-@Psalterium/Major Special:PaschM Laudes:3-8
+@Psalterium/Major Special:PaschC Vespera:3-6
 
 [Versum 3]
 @:Versum 2
+
+[VersumC 3]
+@:VersumC 2
+
+[Ant 3]
+Christus * resúrgens ex mórtuis, jam non móritur, mors illi ultra non dominábitur, quod enim vivit, vivit Deo, allelúia, allelúia.
 
 [Special Vespera 1]
 #Sabbato Sancto special Paschal Vespera

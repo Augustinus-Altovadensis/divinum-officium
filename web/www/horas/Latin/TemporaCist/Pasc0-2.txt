@@ -10,3 +10,6 @@ Doxology=Pasc
 
 [Responsory3]
 @Tempora/Pasc0-3:Responsory1
+
+[Ant 3]
+Obtulérunt * discípuli Dómino partem piscis assi, et favum mellis, allelúia, allelúia.
