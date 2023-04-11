@@ -6,7 +6,7 @@
 [Capitulum Vespera]
 @Tempora/Quad5-0
 _
-@Psalterium/Major Special:Quad5M Vespera:3-7
+@Psalterium/Major Special:Quad5C Vespera:3-6
 
 [Lectio3]
 @Tempora/Quad5-0:Lectio3:s/-19/-16/ s/17 .*//s
@@ -86,18 +86,10 @@ R. Vidísti, Dómine, ne síleas, ne discédas a me.
 &Gloria
 R. Pacífice loquebántur mihi inimíci mei, et in ira molésti erant mihi: * Vidísti, Dómine, ne síleas, ne discédas a me.
 
-[Versum 1]
-V. Dedérunt in escam meam fel.
-R. Et in siti mea potavérunt me acéto.
-
 [Capitulum Laudes]
 @Tempora/Quad5-0
 _
-@Psalterium/Major Special:Quad5M Laudes:3-6
-
-[Versum 2]
-V. Homo pacis meæ in quo sperábam.
-R. Ampliávit advérsum me supplantatiónem.
+@Psalterium/Major Special:Quad5C Laudes:5-8
 
 [Ant 2]
 Ego * dæmónium non hábeo, sed honorífico Patrem meum, dicit Dóminus.
@@ -105,7 +97,7 @@ Ego * dæmónium non hábeo, sed honorífico Patrem meum, dicit Dóminus.
 [Capitulum Vespera 3]
 @Tempora/Quad5-0:Capitulum Vespera
 _
-@Psalterium/Major Special:Quad5M Vespera:3-6
+@Psalterium/Major Special:Quad5C Vespera:5-8
 
 [Ant Prima]
 Abraham pater vester * exsultávit ut vidéret diem meum: vidit, et gavísus est.

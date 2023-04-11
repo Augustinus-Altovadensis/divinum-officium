@@ -6,12 +6,12 @@
 [Capitulum Vespera]
 @Tempora/Adv3-0
 _
-@Psalterium/Major Special:AdvM Vespera:s/.*_//s
+@Psalterium/Major Special:AdvC Vespera:s/.*_//s
 
 [Capitulum Laudes]
 @Tempora/Adv3-0
 _
-@Psalterium/Major Special:AdvM Laudes:s/.*_//s
+@Psalterium/Major Special:AdvC Laudes:s/.*_//s
 
 [Lectio1]
 @Tempora/Adv3-0:Lectio1:s/-6/-3/ s/4 .*//s

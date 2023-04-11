@@ -603,34 +603,41 @@ v. Come and let us go up to the mountain of the Lord, and to the house of the Go
 $Deo gratias
 
 [Hymnus Adv Laudes]
-v. Hark, a herald voice is calling;
-“Christ is nigh,” it seems to say; 
-“Cast away the dreams of darkness, 
-O ye children of the day.”
+v. Hle, z pouště zní hlas jasný dost,
+jenž deptá každou nepravost,
+vyhosťme z nitra plané sny,
+už svítá Ježíš z výšiny.
 _
-Startled at the solemn warning, 
-Let the earth-bound soul arise; 
-Christ, her sun, all sloth dispelling,
-Shines upon the morning skies.
+Prober se duše z mrákoty,
+než tě kal hříchů zatopí.
+Už nová hvězda vysvitla,
+jež vyvede svět z moci zla.
 _
-Lo, the Lamb, so long expected, 
-Comes with pardon down from heaven;
-Let us haste, with tears of sorrow, 
-One and all to be forgiven.
+Beránek je k nám posílán
+za naše hříchy splatit daň.
+Úpěnlivými prosbami
+jej prosme o slitování.
 _
-So when next he comes with glory,
-Wrapping all the earth in fear, 
-May he then as our defender 
-On the clouds of heaven appear.
+Až jako blesk se vrátí zpět
+a v pouta hrůzy sevře svět,
+ať netrestá nás podle vin,
+je však nám Otcem laskavým.
 _
-Honour, glory, virtue, merit,
-To the Father and the Son,
-With the co-eternal Spirit,
-While eternal ages run.
+Ať slávou se Bůh Otec skví,
+buď jeho Synu vítězství.
+Nechť chvála Duchu, Plameni,
+po všechny věky všude zní.
 Amen.
 
 [HymnusM Adv Laudes]
 @:Hymnus Adv Laudes
+
+[HymnusC Adv Laudes]
+@:Hymnus Adv Laudes
+
+[Adv VersumC 2]
+V. Sešli nám Beránka, Hospodine, vládce země.
+R. Z pouště Petry až k hoře Sionské dcery.
 
 [Adv Versum 2]
 V. A voice of one crying in the wilderness: Prepare the way of the Lord.
@@ -642,35 +649,35 @@ v. The sceptre shall not be taken away from Juda, nor a ruler from his thigh, ti
 $Deo gratias
 
 [Hymnus Adv Vespera]
-v. Bright builder of the heavenly poles,
-Eternal light of faithful souls, 
-Jesus, Redeemer of mankind, 
-Our humble prayers vouchsafe to mind.
+v. Blahý Tvůrce hvězd zářivých,
+ty věčné světlo věrných svých,
+Ježíši, Spasiteli všech,
+slyš tento prosebný náš zpěv.
 _
-Who, lest the fraud of hell’s black king
-Should all men to destruction bring,
-Didst, by an act of generous love, 
-The fainting world’s physician prove.
+Když viděls pln soucitu svět
+do neodvratné zkázy spět,
+ty jsi mu, když už umdléval,
+sám sebe z lásky za lék dal.
 _
-Who, that thou mightst our ransom pay
-And wash the stains of sin away, 
-Wouldst from a Virgin’s womb proceed
-And on the cross a victim bleed.
+K večeru se svět skláněl již,
+když jako ženich vycházíš
+z komnaty stále zamčené
+své Matky, Panny vznešené.
 _
-Whose glorious power, whose saving name
-No sooner any voice can frame, 
-But heaven and earth and hell agree
-To honour them with trembling knee.
+Před mocným majestátem tvým
+pokleká každý s třesením,
+jak pozemšťan, tak nebešťan
+a vyznává, žes jeho Pán.
 _
-Thee, Christ, who at the latter day
-Shalt be our Judge, we humbly pray
-Such arms of heavenly grace to send
-As may thy Church from foes defend.
+Prosíme tebe pokorně,
+náš soudce posledního dne:
+už nyní chraň nás štítem svým
+před zrádným šípem ďáblovým.
 _
-Be glory given and honour done
-To God the Father and the Son
-And to the Holy Ghost on high,
-From age to age eternally.
+Laskavý Vládce, Ježíši,
+buď s Otcem ti čest nejvyšší,
+i s Duchem, který těší nás,
+po všechny věky v každý čas. 
 Amen.
 
 [HymnusM Adv Vespera]
@@ -681,31 +688,31 @@ V. Drop down dew, ye heavens, from above, and let the clouds rain the Just.
 R. Let the earth be opened, and bud forth the Saviour.
 
 [Adv Ant 17]
-O Wisdom, * that comest out of the mouth of the Most High, that reachest from one end to another, and dost mightily and sweetly order all things; come, to teach us the way of prudence! 
+Ó moudrosti, * tys vyšla z úst Nejvyššího a od počátku do konce pronikáš všechno, celý svět mocně a líbezně řídíš: přijď a nauč  nás cestě moudrosti! 
 
 [Adv Ant 18]
-O Adonai, * and Ruler of the house of Israel, who didst appear unto Moses in the burning bush, and gavest him the law in Sinai; come, to redeem us with an outstretched arm! 
+Ó Adonai, * Vladaři Israelova domu, ty ses ukázal Mojžíšovi v plameni hořícího keře a dals mu na Sinaji zákon: přijď a zachraň nás svou mocnou pravicí! 
 
 [Adv Ant 19]
-O Root of Jesse, * which standest for an ensign of the people, at whom the kings shall shut their mouths, to whom the Gentiles shall seek; come to deliver us, make no tarrying! 
+Ó kořeni Jesse, * ty jsi byl dán na znamení národům, před tebou králové v úžasu zmlknou, tebe budou Národy vzývat; přijď a vysvoboď nás a už neprodlévej! 
 
 [Adv Ant 20]
-O Key of David, * and Sceptre of the house of Israel that openest, and no man shutteth; and shuttest and no man openeth; come to bring out the prisoners from the prison, and them that sit in darkness, and in the shadow of death! 
+Ó klíči Davidův * a žezlo Israelova domu, ty otvíráš a nikdo nezavře, ty zavíráš a nikdo neotevře: přijď a vyveď z vězení ty, kdo jsou spoutáni v temnotách a stínu smrti! 
 
 [Adv Ant 21]
-O Day-Spring, * brightness of the everlasting Light, Sun of Righteousness; come, to give light to them that sit in darkness, and in the shadow of death! 
+Ó Vycházející * z výsosti, jase věčného světla a slunce spravedlnosti: přijď a osvěť ty, kdo jsou v temnotách a stínu smrti! 
 
 [Adv Ant 22]
-O King of the Gentiles, * yea, and Desire thereof, O Cornerstone that makest of twain one; come to save man, whom thou hast made of the dust of the earth! 
+Ó Králi * a touho Národů, úhelný kameni, který rozdělené spojuješ vjedno: přijď a spas člověka, kterého jsi utvořil z prachu země! 
 
 [Adv Ant 23]
-O Emmanuel, our King * and our Law-giver, Longing of the Gentiles, yea, and Salvation thereof; come to save us, O Lord our God! 
+Ó Emanueli, * náš Králi a Zákonodárce, očekávání a spáso Národů: přijď a zachraň nás, Pane, náš Bože! 
 
 [Adv Ant 21L]
-Fear not: * yet five days and the Lord shall come unto you.
+Nebojte se: * ještě pět dnů a Pán přijde k vám.
 
 [Adv Ant 23L]
-Behold, all things are fulfilled * which were spoken by the Angel concerning the Virgin Mary.
+Hle, naplnilo se vše * co řekl Anděl k Panně Marii.
 
 [Quad Laudes]
 !Isa 58:1
@@ -716,30 +723,30 @@ $Deo gratias
 @:Hymnus Quad Laudes
 
 [Hymnus Quad Laudes]
-v. Jesu, salvation’s Sun Divine, 
-Within our inmost bosoms shine,
-With light all darkness drive away 
-And give the world a better day.
+v. Ó Slunce spásy, Ježíši,
+již svitni v niter zátiší,
+když prchla noc a milý všem
+se světu rodí nový den.
 _
-Now days of grace with mercy flow,
-O Lord, the gift of tears bestow, 
-To wash our stains in every part, 
-Whilst heavenly fire consumes the heart.
+Čas dáváš plný milosti,
+dej, aby v slzách lítosti
+byl obětní náš obmyt dar, 
+jejž zažehne pak lásky žár.
 _
-Rise, crystal tears, from that same source
-From whence our sins derive their course;
-Nor cease, till hardened hearts relent,
-And softened by your streams, repent.
+A odkud hřích svůj pramen bral,
+dej, zdroj slz aby vytékal,
+až naše vzdorné útroby
+prut pokání si podrobí.
 _
-Behold, the happy days return, 
-The days of joy for them that mourn;
-May we of their indulgence share, 
-And bless the God that grants our prayer.
+Den nový, den tvůj, vchází svět,
+zas všecko bude jeden květ;
+a£ v našich očích vzplane jas
+neb ruka tvá nás vede zas.
 _
-May heaven and earth aloud proclaim
-The Trinity’s almighty fame;
-And we, restored to grace, rejoice
-In newness both of heart and voice.
+Laskavý Bože na nebi,
+tě v pokoře svět velebí;
+my milostí tvou vzkříšení
+ti pějem v novém nadšení.
 Amen.
 
 [Quad Versum 2]
@@ -748,34 +755,34 @@ R. To keep thee in all thy ways.
 
 [Quad Vespera]
 !Joel 2:17
-v. Between the porch and the altar the priests the Lord's ministers shall weep, and shall say: Spare, O Lord, spare thy people: and give not thy inheritance to reproach, that the heathen should rule over them. 
+v. Kněží, Hospodinovi služebníci, ať pláčou mezi předsíní a oltářem a říkají: „Ušetř, Hospodine, svůj lid, nevydávej své dědictví v potupu, aby nad ním nevládli pohané!“ 
 $Deo gratias
 
 [Hymnus Quad Vespera]
-v. O kind Creator, bow thine ear 
-To mark the cry, to know the tear
-Before thy throne of mercy spent 
-In this thy holy fast of Lent.
+v. Slyš, Tvůrce plný milosti,
+jak lkáme k tobě v lítosti,
+jak vylévá svou bolest ret
+v čas postní po dní čtyřicet.
 _
-Our hearts are open, Lord, to thee:
-Thou knowest our infirmity;
-Pour out on all who seek thy face
-Abundance of thy pardoning grace.
+Tys milostivý Soudce náš,
+neb naši křehkost dobře znáš:
+hle, my se k tobě vrátili,
+nuž odpusť, čím jsme zhřešili.
 _
-Our sins are many, this we know; 
-Spare us, good Lord, thy mercy show;
-And for the honour of thy name 
-Our fainting souls to life reclaim.
+A třebas mnohý je náš hřích,
+rač ušetřit nás kajících,
+a svého jména k oslavě
+lék skytni naší únavě.
 _
-Give us the self-control that springs
-From discipline of outward things,
-That fasting inward secretly
-The soul may purely dwell with thee.
+Kéž milost tvá nás posílí,
+vzdor těla bychom zkrotili,
+by srdce v hrůze před hříchem:
+se vyhýbalo svodům všem.
 _
-We pray thee, Holy Trinity,
-One God, unchanging Unity,
-That we from this our abstinence
-May reap the fruits of penitence.
+To jediný, dej, Bože náš,
+jenž v osobách třech přebýváš,
+by sklízel každý v hojnosti
+pak ovoce své střídmosti.
 Amen.
 
 [Quad5 Laudes]
@@ -787,47 +794,47 @@ $Deo gratias
 @:Hymnus Quad5 Laudes
 
 [Hymnus Quad5 Laudes]
-v. Thirty years among us dwelling, 
-His appointed time fulfilled, 
-Born for this, he meets his passion,
-For that this he freely willed:
-On the cross the Lamb is lifted, 
-Where his life-blood shall be spilled.
+v. Třicet let zde strávil s námi, 
+Čas svůj v těle naplnil, 
+Proto on se rád narodil,
+By se vydal trápení:
+Beránek na Kříže zdvižen, 
+K oběti na nástroji.
 _
-He endured the nails, the spitting,
-Vinegar, and spear, and reed;
-From that holy body broken
-Blood and water forth proceed:
-Earth, and stars, and sky, and ocean,
-By that flood from stain are free.
+Zde ocet, žluč, bití třtinou,
+Plivance, hřeby, kopí;
+Mírně tělo pronikají,
+Krev i voda vyplují:
+Země, nebe, hvězdy i svět,
+Jsou tou vlnou obmyty.
 _
-Faithful cross! above all other,
-One and only noble tree!
-None in foliage, none in blossom,
-None in fruit thy peers may be;
-Sweetest wood and sweetest iron!
-Sweetest weight is hung on thee.
+Věřný Kříži, mezi všemi
+Strom jediný vznešený!
+Žádný les nemůž' jej zrodit,
+dle větví, květů, plodů;
+Sladké dřevo, sladké hřeby
+Sladkou tíži ponesou.
 _
-Bend thy boughs, O tree of glory!
-Thy relaxing sinews bend;
-For awhile the ancient rigour,
-That thy birth bestowed, suspend;
-And the King of heavenly beauty
-On thy bosom gently tend!
+Skloň své větve, velký strome!
+Uvolni tvrdé nitro;
+A změkčí se ona drsnost,
+již jsi dostal do vínku;
+Abys údům svého Krále
+měkký nástroj připravil!
 _
-Thou alone wast counted worthy
-This world's ransom to uphold;
-For a shipwrecked race preparing
-Harbour, like the ark of old;
-With the sacred blood anointed
-From the smitten Lamb that rolled.
+Ty jediný byl jsi hoden
+Nésti světa odplatu;
+Také přístav připraviti
+Světu ztroskotalému;
+Jejž přesvatá krev obmyla
+Kterou prolil Beránek.
 _
-To the Trinity be glory
-Everlasting, as is meet;
-Equal to the Father, equal
-To the Son, and Paraclete:
-Trinal Unity, whose praises
-All created things repeat.
+Sláva a sláva Bohu
+Odvěků nejvyššího;
+Spolu Otci, též i Synu,
+A slavnému Těšiteli:
+Jemu chvála buď i síla
+Na nekonečné věky.
 Amen.
 
 [Quad5 Versum 2]
@@ -1035,7 +1042,7 @@ O God, who didst send thy Son to suffer death for us upon the Cross, that thou m
 $Per eumdem
 
 [Suffragium3]
-!Commemoration of the Blessed Virgin Mary. 
+!Připomínka Nejblahoslavenější Panny Marie
 Ant. O Holy Mary, be thou an help to the helpless, a strength to the fearful, a comfort to the sorrowful; pray for the people, plead for the clergy, make intercession for all women vowed to God may all that keep thine holy remembrance, feel the might of thine assistance. 
 _
 V. Pray for us, holy Mother of God. 
@@ -1046,7 +1053,7 @@ $Oremus.
 Grant, we beseech thee, O  Lord God, unto all thy servants, that they may continually enjoy soundness both of mind and of body, and by the glorious intercession of the Blessed Mary, always a Virgin, may be delivered from present sadness, and enter into the joy of thine eternal gladness. 
 
 [Suffragium3C]
-!Připomínka Nejblahoslavenější Panny Marie
+!O Panně Marii
 Ant. Svatá Maria, přispěj na pomoc ubohým, pomoz malodušným, utěš plačící, modli se za lid, přimlouvej se za kněžstvo, zasáhni ve prospěch oddaného ženského pokolení. 
 _
 V. Oroduj za nás, svatá Boží Rodičko. 
@@ -1057,7 +1064,7 @@ v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše
 $Per Dominum
 
 [Suffragium3L]
-!Připomínka Nejblahoslavenější Panny Marie
+!O Panně Marii
 v. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha.
 _
 V. Oroduj za nás, svatá Boží Rodičko. 
@@ -1068,6 +1075,7 @@ v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše
 $Per eundem
 
 [Suffragium3_Advent]
+!O Panně Marii v Adventu
 v. Matko Páně, nebes bráno, hvězdo mořská, vzácná schráno,
 přispěj lidu ku pomoci, aby povstal z hříchů noci.
 Příroda to zřela v žasu, že se zrodil z tebe v času,
@@ -1083,6 +1091,7 @@ v. Pane, poznali jsme andělské poselství o vtělení Krista, tvého syna; Vle
 $Per eundem
 
 [Suffragium3L_Advent]
+!O Panně Marii v Adventu
 v. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha.
 _
 ℣. Anděl Páně zvěstoval Panně Marii.
@@ -1093,6 +1102,7 @@ v. Pane, poznali jsme andělské poselství o vtělení Krista, tvého syna; Vle
 $Per eundem
 
 [Suffragium3_Epi]
+!O Panně Marii po Zjevení Páně
 v. Matko Páně, nebes bráno, hvězdo mořská, vzácná schráno,
 přispěj lidu ku pomoci, aby povstal z hříchů noci.
 Příroda to zřela v žasu, že se zrodil z tebe v času,
@@ -1109,6 +1119,7 @@ lidstvu udělil milost věčně spásy, dej, prosíme, abychom se přesvědčova
 $Qui tecum 
 
 [Suffragium3L_Epi]
+!O Panně Marii po Zjevení Páně
 v. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha.
 _
 ℣. Po porodu, Panno, jsi zůstala neporušená.
@@ -1120,6 +1131,7 @@ lidstvu udělil milost věčně spásy, dej, prosíme, abychom se přesvědčova
 $Qui tecum 
 
 [Suffragium3_Quad]
+!O Panně Marii v době postní
 v. Zdráva buď, Královno nebe
 andělů sbory ctí tebe.
 Zdráva buď, nebeská bráno,
@@ -1138,6 +1150,7 @@ v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše
 $Per eundem
 
 [Suffragium3L_Quad]
+!O Panně Marii v době postní
 v. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha.
 _
 ℣. Učiň, Panno svatá, abych Tě důstojně chválil.
@@ -1148,7 +1161,7 @@ v. Uděl nám, svým služebníkům, prosíme, Pane Bože, stálé zdraví duše
 $Per eundem
 
 [Suffragium3_Pascha]
-!O Panně Marii
+!O Panně Marii v době velikonoční
 Raduj se, Královno nebeská, aleluja,
 protože splnil Pán slova svá, aleluja:
 z mrtvých vstal, Matko, Ježíš tvůj, aleluja:
@@ -1162,7 +1175,7 @@ Bože, vzkříšením svého Syna, našeho Pána Ježíše Krista, jsi naplnil s
 $Per eumdem
 
 [Suffragium3L_Pascha]
-!O Panně Marii
+!O Panně Marii v době velikonoční
 v. Svatá Boží Rodičko, vždy Panno Maria, přimlouvej se za nás u Pána našeho Boha. Alleluia.
 _
 ℣. Raduj se a vesel, Panno Maria, aleluja.
@@ -1550,46 +1563,46 @@ R. O Lord. save me.
 R. From the lion's mouth, * O Lord, Save me.
 
 [AdvC Laudes]
-!Phil 3.
-v. Salvatórem expectámus Dóminum nostrum Jesum Christum, qui reformávit corpus humilitátis nostrae, configurátum córpori claritátis suae.
+!Phil 3, 20-21.
+v. Očekáváme Spasitele našeho Pána Ježíše Krista, který přemění naše ubohé tělo, aby nabylo stejné podoby jako jeho tělo oslavené.
 $Deo gratias.
 _
-R.br. Veni ad liberándum nos * Dómine Deus virtútum.
-R. Veni ad liberándum nos * Dómine Deus virtútum.
-V. Osténde fáciem tuam et salvi érimus.
-R. Dómine Deus virtútum.
+R.br. Přijď a vysvoboď nás * silný Pane Bože.
+R. Přijď a vysvoboď nás * silný Pane Bože.
+V. Ukaž nám svou tvář a budeme spaseni.
+R. Silný Pane Bože.
 
 [AdvC Vespera]
-!Gen 49.
-v. Non auferétur sceptrum de Juda, et dux de fémore ejus, donec véniat qui mitténdus est, et ipse erit exspectátio Géntium.
+!Gen 49, 10.
+v.  Nebude odňato žezlo od Judy, vladařská hůl od jeho kolen, dokud nepřijde ten, který má být poslán; on bude nadějí pohanských Národů.
 $Deo gratias.
 _
-R.br. Tu exúrgens, Dómine, * Miseréberis Sion.
-R. Tu exúrgens, Dómine, * Miseréberis Sion.
-V. Quia tempus miseréndi ejus, quia venit tempus.
-R. Miseréberis Sion.
+R.br. Ty povstaň, Pane, * A smiluj se nad Sionem.
+R. Ty povstaň, Pane, * A smiluj se nad Sionem.
+V. Neboť čas jeho slitování, nastal jeho čas.
+R. A smiluj se nad Sionem.
 
 [QuadC Laudes]
-!2. Cor. 6
-v. Ecce nunc tempus acceptábile, ecce nunc dies salútis. Némini dantes ullam offensiónem, ut non vituperétur ministérium nostrum. 
+!2. Cor. 6, 3
+v. Hle, teď je ta „doba příhodná“, hle, teď je ten „den spásy“! Nikomu v ničem nedáváme pohoršení, aby nebyla potupena naše služba. 
 $Deo gratias
 _
-R.br. Ipse liberávit me * de láqueo venántium.
-R. Ipse liberávit me * de láqueo venántium.
-V. Et a verbo áspero.
-R. De láqueo venántium.
+R.br. On mě vysvobodil * ze smyčky lovců.
+R. On mě vysvobodil * ze smyčky lovců
+V. A od krutého slova.
+R. Ze smyčky lovců.
 
 [QuadC Vespera]
 @:Quad Vespera
 _
-R.br. Scápulis suis * obumbrábit tibi.
-R. Scápulis suis * obumbrábit tibi.
-V. Et sub pennis ejus sperábis.
-R. Obumbrábit tibi.
+R.br. Svými rameny * tě zastíní.
+R. Svými rameny * tě zastíní
+V. A pod jeho křídly máš naději.
+R. Zastíní tě.
 
 [Quad5C Laudes]
 !Heb 9:28
-v. 9,28 Krista byl jednou obětován, aby na sebe vzal hříchy celého množství lidí, objeví se podruhé, aby přinesl spásu těm, kteří na něho čekají. 
+v. Kristus byl jednou obětován, aby na sebe vzal hříchy celého množství lidí, objeví se podruhé, aby přinesl spásu těm, kteří na něho čekají. 
 $Deo gratias
 _
 R.br. Vysvoboď od meče, * Bože, mou duši.

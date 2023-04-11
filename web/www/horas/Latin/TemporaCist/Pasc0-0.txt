@@ -157,7 +157,7 @@ _
 Christus * resúrgens ex mórtuis, jam non móritur, mors illi ultra non dominábitur, quod enim vivit, vivit Deo, allelúia, allelúia.
 
 [Special Vespera 1]
-#Sabbato Sancto special Paschal Vespera
+#Sabbato Sancto speciales Vesperæ Paschales
 _
 $Pater noster
 $Ave Maria

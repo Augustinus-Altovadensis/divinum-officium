@@ -392,11 +392,11 @@ sub specials {
       my $ind = ($hora =~ /laudes/i) ? 2 : $vespera;
 
       if ( $version =~ /Cistercian/i ) { our ($versum, $c1) = getantvers('VersumC', $ind, $lang);}
-      if ( !$versum ) { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
-      # TODO: solve verses with commemorations (currently they copy the main verse et responsum)
+      if ( $versum =~ /missing/i ) { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
+      # in Cist. version, search for VersumC in sources
 
       setcomment($label, 'Source', $c, $lang);
-      $capit = chompd($capit) . "_\n" . $versum; our ($versum, $c1) = '';
+      $capit = chompd($capit) . "_\n" . $versum; 
       if ($version =~ /monastic/i) {
         if ($version =~ /Cistercian/) { 
           $capit =~ s/&Gloria.*?_/_/s; 
@@ -1378,6 +1378,8 @@ sub oratio {
       push(@s, "&Dominus_vobiscum");
     } elsif (!$precesferiales) {
       push(@s, "&Dominus_vobiscum");
+    } elsif ( $precesferiales && $version =~ /Cistercian/i ) {
+      push(@s, "&Dominus_vobiscum");
     } else {
       our %prayers;
       my $text = $prayers{$lang}->{'Dominus'};
@@ -1386,7 +1388,9 @@ sub oratio {
       $precesferiales = 0;
     }
     my $oremus = translate('Oremus', $lang);
+    if ( $version =~ /Cistercian/i ) { push(@s, "<center>"); } # Centering the Orémus in Cist. version.
     push(@s, "v. $oremus");
+    if ( $version =~ /Cistercian/i ) { push(@s, "</center>"); }  # Centering the Orémus in Cist. version.
   }
 
   if ($hora =~ /(Laudes|Vespera)/i && $winner{Rule} =~ /Sub unica conc/i) {

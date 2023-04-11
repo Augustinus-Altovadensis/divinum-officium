@@ -1,25 +1,4 @@
 @Tempora/Adv4-4
 
-[Capitulum Vespera]
-!Gen 49.
-v. Non auferétur sceptrum de Juda, et dux de fémore ejus, donec véniat qui mitténdus est, et ipse erit exspectátio Géntium.
-$Deo gratias.
-_
-R. br. Tu exúrgens, Dómine, * Miseréberis Sion. 
-V. Tu exúrgens, Dómine, * Miseréberis Sion. 
-R. Quia tempus miseréndi ejus, quia venit tempus.
-V. Miseréberis Sion. 
-
 [Ant Laudes]
 Cánite tuba in Sion, * quia prope est dies Dómini : ecce véniet ad salvándum nos, allelúia.
-
-[Capitulum Laudes]
-!Phil 3.
-v. Salvatórem expectámus Dóminum nostrum Jesum Christum, qui reformávit corpus humilitátis nostrae, configurátum córpori claritátis suae.
-$Deo gratias.
-_
-@Psalterium/Major Special:AdvM Laudes:s/.*_//s
-
-[Versum 2]
-V. Emítte Agnum, Dómine, dominatórem terrae.
-R. De Petra desérti ad montem fíliae Sion.

@@ -902,9 +902,9 @@ Amen.
 V. Vox clamántis in desérto: Paráte viam Dómini. 
 R. Rectas fácite sémitas ejus.
 
-[AdvC Versum 2]
-V. Emítte Agnum, Dómine, dominatórem terrae.
-R. De Petra desérti ad montem fíliae Sion.
+[Adv VersumC 2]
+V. Emítte Agnum, Dómine, dominatórem terræ.
+R. De Petra desérti ad montem fíliæ Sion.
 
 [Adv Vespera]
 !Gen 49:10
@@ -1574,6 +1574,7 @@ v. Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et cór
 $Per eundem
 
 [Suffragium3_Advent]
+!De Beata Maria Tempore Adventus
 v. Alma Redemptóris Mater, quæ pérvia cœli porta manes, 
 et stella maris, succúrre cadénti,
 Súrgere qui curat, pópulo: tu quæ genuísti,
@@ -1589,7 +1590,7 @@ v. Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut, qui, Ánge
 $Per eundem
 
 [Suffragium3L_Advent]
-!De Beata Maria
+!De Beata Maria Tempore Adventus
 v. Sancta Dei Génitrix, Virgo semper María, intercéde pro nobis ad Dóminum Deum nostrum.
 _
 ℣. Ángelus Dómini nuntiávit Maríæ.
@@ -1600,7 +1601,7 @@ v. Grátiam tuam, quǽsumus, Dómine, méntibus nostris infúnde: ut, qui, Ánge
 $Per eundem
 
 [Suffragium3Epi]
-!De Beata Maria
+!De Beata Maria 
 Ant. Sancta María succúrre míseris, juva pusillánimes, réfove flébiles, ora pro pópulo, intérveni pro clero, intercéde pro devóto femineo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tuam sanctam commemoratiónem.
 _
 V. Post partum Virgo invioláta permansísti.
@@ -1611,7 +1612,7 @@ $Oremus
 v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
 
 [Suffragium3_Epi]
-!De Beata Maria
+!De Beata Maria post Epiphaniam
 v. Alma Redemptóris Mater, quæ pérvia cœli porta manes, 
 et stella maris, succúrre cadénti,
 Súrgere qui curat, pópulo: tu quæ genuísti,
@@ -1627,7 +1628,7 @@ v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno 
 $Qui tecum 
 
 [Suffragium3L_Epi]
-!De Beata Maria
+!De Beata Maria post Epiphaniam
 v. Sancta Dei Génitrix, Virgo semper María, intercéde pro nobis ad Dóminum Deum nostrum.
 _
 ℣. Post partum Virgo invioláta permansísti.
@@ -1638,6 +1639,7 @@ v. Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno 
 $Qui tecum 
 
 [Suffragium3_Quad]
+!De Beata Maria in Quadragesima
 v. Ave, Regína cælórum,
 Ave, Dómina Angelórum:
 Salve radix, salve porta,
@@ -1656,7 +1658,7 @@ v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ
 $Per eundem
 
 [Suffragium3L_Quad]
-!De Beata Maria
+!De Beata Maria in Quadragesima
 v. Sancta Dei Génitrix, Virgo semper María, intercéde pro nobis ad Dóminum Deum nostrum.
 _
 ℣. Dignáre me laudáre te, Virgo sacráta.
@@ -1667,7 +1669,7 @@ v. Concéde, miséricors Deus, fragilitáti nostræ præsídium; ut, qui sanctæ
 $Per eundem
 
 [Suffragium3_Pascha]
-!De Beata Maria
+!De Beata Maria Tempore Paschali
 Ant. Regína cœli lætáre, allelúia. 
 Quia quem merúisti portáre, allelúia. 
 Resurréxit, sicut dixit, allelúia. 
@@ -1692,7 +1694,7 @@ v. Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et cór
 $Per eumdem 
 
 [Suffragium3L_Pascha]
-!De Beata Maria
+!De Beata Maria Tempore Paschali
 Ant. Sancta Dei Génitrix, Virgo semper María, intercéde pro nobis ad Dóminum Deum nostrum. Allelúia.
 _
 ℣. Gaude et lætáre, Virgo María, allelúia.

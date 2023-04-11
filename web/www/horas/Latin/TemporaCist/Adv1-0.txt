@@ -6,16 +6,16 @@
 [Capitulum Vespera]
 @Tempora/Adv1-0
 _
-@Psalterium/Major Special:AdvM Vespera:s/.*_//s
+@Psalterium/Major Special:AdvC Vespera:s/.*_//s
 
 [Capitulum Laudes]
 @Tempora/Adv1-0
 _
-@Psalterium/Major Special:AdvM Laudes:s/.*_//s
+@Psalterium/Major Special:AdvC Laudes:s/.*_//s
 
 [Versum 2]
-V. Emítte Agnum, Dómine, dominatórem terrae.
-R. De Petra desérti ad montem fíliae Sion.
+V. Emítte Agnum, Dómine, dominatórem terræ.
+R. De Petra desérti ad montem fíliæ Sion.
 
 [Lectio1]
 @Tempora/Adv1-0:Lectio1
@@ -53,7 +53,7 @@ R. De Petra desérti ad montem fíliae Sion.
 @Tempora/Adv1-0:Responsory6
 
 [Lectio8]
-Quod si in hac vita diffícile est continuári, potest tamen frequénter assúmi; ut sǽpius ac diútius spiritálibus pótius quam carnálibus occupémur. Et cum melióribus curis maióres impéndimus moras, ad incorruptíbiles divítias étiam temporáles tránseunt actiónes.
+Quod si in hac vita diffícile est continuári, potest tamen frequénter assúmi; ut sǽpius ac diútius spiritálibus pótius quam carnálibus occupémur. Et cum melióribus curis majóres impéndimus moras, ad incorruptíbiles divítias étiam temporáles tránseunt actiónes.
 
 [Responsory8]
 @Tempora/Adv1-1:Responsory2
@@ -74,13 +74,13 @@ Quod si in hac vita diffícile est continuári, potest tamen frequénter assúmi
 @Tempora/Adv1-0:Lectio9
 
 [Responsory11]
-R. Ecce dies véniunt, dicit Dóminuss, † et suscitábo David germen justum: † et regnábit rex, et sápiens erit, et fáciet iudícium et justítiam in terra:
+R. Ecce dies véniunt, dicit Dóminuss, † et suscitábo David germen justum: † et regnábit rex, et sápiens erit, et fáciet judícium et justítiam in terra:
 * Et hoc est nomen quod vocábunt eum: † Dóminuss justus noster.
 V. In diébus illis salvábitur Iuda, et Israël habitábit confidénter.
 R. Et hoc est nomen quod vocábunt eum: † Dóminuss justus noster.
 
 [Lectio12]
-Confúsio autem maris et flúctuum necdum nova exórta est. Sed cum multa praenuntiáta iam compléta sint, dúbium non est quin sequántur étiam pauca, quae restant: quia sequéntium rerum certitúdo est praeteritárum exhibítio. Haec nos, fratres caríssimi, idcírco dícimus, ut ad cautélae stúdium vestrae mentes evígilent, ne securitáte tórpeant, ne ignorántia languéscant, sed semper eas et timor sollícitet, et in bono ópere sollicitúdo confírmet.
+Confúsio autem maris et flúctuum necdum nova exórta est. Sed cum multa praenuntiáta iam compléta sint, dúbium non est quin sequántur étiam pauca, quae restant: quia sequéntium rerum certitúdo est praeteritárum exhibítio. Haec nos, fratres charíssimi, idcírco dícimus, ut ad cautélæ stúdium vestrae mentes evígilent, ne securitáte tórpeant, ne ignorántia languéscant, sed semper eas et timor sollícitet, et in bono ópere sollicitúdo confírmet.
 
 [Responsory12]
 @Tempora/Adv1-1:Responsory3
