@@ -20,57 +20,63 @@ v. Behold an high priest, who in his days pleased God, and was found righteous, 
 $Deo gratias
 
 [Hymnus Vespera]
-v. This the confessor of the Lord, whose triumph
-Now all the faithful celebrate, with gladness
-Erst on this feast-day merited to enter
-Into his glory.
+v. Vyznavač Páně, kterého tak zbožně 
+Po celé zemi chválí uctivý lid, 
+V tento den šťastně zasloužil si vkročit 
+V blažený stánok.
 _
-Saintly and prudent, modest in behaviour,
-Peaceful and sober, chaste was he, and lowly.
-While that life’s vigour, coursing through his members,
-Quickened his being.
+Byl zbožný, moudrý, čistý, ponížený 
+Žil zdrženlivě, zcela bez poskvrny, 
+Zatím dech jeho duše oživoval 
+Tělesnou schránku.
 _
-Sick ones of old time, to his tomb resorting,
-Sorely by ailments manifold afflicted,
-Oft-times have welcomed health and strength returning,
-At his petition.
+Pro jeho známé zásluhy jak často 
+Údy, jež churavěly tu a tam, když 
+Násilí chorob přemohly už, znovu 
+Získaly spásu.
 _
-Whence we in chorus gladly do him honour,
-Chanting his praises with devout affection,
-That in his merits we may have a portion,
-Now and forever.
+A proto náš chór rád ho vychvaluje 
+A o vítězstvích jeho skvostných zpívá, 
+By jeho prosby skýtaly nám pomoc 
+Na večné časy.
 _
-His be the glory, power and salvation,
-Who over all things reigneth in the highest,
-Earth’s mighty fabric ruling and directing,
-Onely and Trinal.
+Tomu buď sláva, čest a síla stálá, 
+Neb Trojjediný na nebeském trůně 
+Nádherně skvěje sa a řídí celý, 
+Celičký vesmír.
 Amen.
 
+[HymnusM Vespera]
+@:Hymnus Vespera
+
+[Hymnus1M Vespera]
+@:Hymnus1 Vespera
+
 [Hymnus1 Vespera]
-v. This the confessor of the Lord, whose triumph
-Now all the faithful celebrate, with gladness
-On this feast day year by year receiveth
-Merited honors.
+v. Vyznavač Páně, kterého tak zbožně 
+Po celé zemi chválí uctivý lid, 
+V tento den šťastně zasloužil si čest a 
+Najvyšší chválu.
 _
-Saintly and prudent, modest in behaviour,
-Peaceful and sober, chaste was he, and lowly.
-While that life’s vigour, coursing through his members,
-Quickened his being.
+Byl zbožný, moudrý, čistý, ponížený 
+Žil zdrženlivě, zcela bez poskvrny, 
+Zatím dech jeho duše oživoval 
+Tělesnou schránku.
 _
-Sick ones of old time, to his tomb resorting,
-Sorely by ailments manifold afflicted,
-Oft-times have welcomed health and strength returning,
-At his petition.
+Pro jeho známé zásluhy jak často 
+Údy, jež churavěly tu a tam, když 
+Násilí chorob přemohly už, znovu 
+Získaly spásu.
 _
-Whence we in chorus gladly do him honour,
-Chanting his praises with devout affection,
-That in his merits we may have a portion,
-Now and forever.
+A proto náš chór rád ho vychvaluje 
+A o vítězstvích jeho skvostných zpívá, 
+By jeho prosby skýtaly nám pomoc 
+Na večné časy.
 _
-His be the glory, power and salvation,
-Who over all things reigneth in the highest,
-Earth’s mighty fabric ruling and directing,
-Onely and Trinal.
+Tomu buď sláva, čest a síla stálá, 
+Neb Trojjediný na nebeském trůně 
+Nádherně skvěje sa a řídí celý, 
+Celičký vesmír.
 Amen.
 
 [Versum 1]
@@ -221,30 +227,30 @@ O all ye Priests of God, * bless ye the Lord, O all ye servants of the Lord, sin
 Good and faithful servant, * enter thou into the joy of thy Lord.
 
 [Hymnus Laudes]
-v. Jesu, the world’s Redeemer, O hear;
-thy bishops’ fadeless crown, draw near:
-Accept with gentlest love today
-The prayers and praises that we pay.
+v. Jezu, všech Vykupiteli,
+Ty Kněží věčná koruno, 
+V tento den láskavěji slyš 
+Prosících sluhů zbožný hlas.
 _
-The meek confessor of thy name
-Today attained a glorious fame;
-Whose yearly feast, in solemn state,
-Thy faithful people celebrate.
+Dnes totiž slavný vyznavač 
+Svatého tvého jména se 
+Skvěje, když světí zbožný lid 
+Den zrodu jeho slavnostně.
 _
-The world and all its boasted good,
-As vain and passing, he eschewed;
-And therefore with angelic bands,
-In endless joy forever stands.
+Správně a moudře pohrdl 
+Rozkoší světa prchavou 
+A dostal za to odměnu 
+Mezi anděli nadvěkou.
 _
-Grant then that we, most gracious God,
-May follow in the steps he trod:
-And, at his prayer, thy servants free
-From stain of all iniquity.
+Dej i nám milost laskavě 
+Po jeho stopách za ním jít:
+Na jeho prosby odpusť nám
+Všechnu škodlivou zahálku.
 _
-* To thee, O Christ, our loving King,
-All glory, praise, and thanks we bring:
-All glory, as is ever meet,
-To Father and to Paraclete.
+Buď, Kriste, Králi laskavý, 
+Ti sláva, taktéž Otcovi 
+I Duchu Těšitelovi 
+Dnes i na věčné věky.
 Amen.
 
 [Versum 2]

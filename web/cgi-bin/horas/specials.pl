@@ -70,7 +70,7 @@ sub specials {
           push(@s, "#Versus (In loco Capituli)");
           push(@s, $v);
           push(@s, "");
-          setbuild1("Versus speciale in loco calpituli");
+          setbuild1("Versus speciale in loco Capituli");
         }
         $skipflag = 1;
         next;
@@ -391,7 +391,8 @@ sub specials {
       if ($capit) { $capit = doxology($capit, $lang); }
       my $ind = ($hora =~ /laudes/i) ? 2 : $vespera;
 
-      if ( $version =~ /Cistercian/i ) { our ($versum, $c1) = getantvers('VersumC', $ind, $lang);}
+      if ( $version =~ /Cistercian/i && $dayname[0] =~ /(Adv|Quad|Pasch)/i ) { our ($versum, $c1) = getantvers('VersumC', $ind, $lang);}
+      else { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
       if ( $versum =~ /missing/i ) { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
       # in Cist. version, search for VersumC in sources
 
