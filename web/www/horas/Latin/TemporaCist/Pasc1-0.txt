@@ -91,4 +91,9 @@ _
 [Oratio]
 @Tempora/Pasc1-0:Oratio:s/paschá/Paschá/s
 
+[Versum 2]
+V. Dícite in natiónibus, allelúja.
+R. Quia Dóminus regnávit a ligno, allelúja.
 
+[Ant 3]
+Multa quidem * et ália signa fecit Jesus in conspéctu discipulórum suórum, allelúia, quæ non sunt scripta in libro hoc, allelúia.

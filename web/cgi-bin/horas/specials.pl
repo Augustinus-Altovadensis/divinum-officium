@@ -1031,7 +1031,7 @@ sub psalmi_major {
   } elsif ($version =~ /Cistercian/i) {
     my $head = "Dayc$dayofweek";
     if ($hora =~ /Laudes/i) {
-      if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaycF'; }
+      if ( ($rule =~ /Psalmi Dominica/ && $rule !~ /Psalmi Feria/ ) || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaycF'; }
       if ($dayname[0] =~ /Pasc/i && $head =~ /Dayc0/i) { $head = 'DaycP'; }
     }
     @psalmi = split("\n", $psalmi{"$head $hora"});

@@ -2,7 +2,7 @@
 
 [Rule]
 ex Pasc0-0
-Psalmi Dominica
+Psalmi feriales
 Doxology=Pasc
 
 [Responsory3]
