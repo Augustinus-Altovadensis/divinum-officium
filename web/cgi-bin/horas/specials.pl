@@ -391,9 +391,12 @@ sub specials {
       if ($capit) { $capit = doxology($capit, $lang); }
       my $ind = ($hora =~ /laudes/i) ? 2 : $vespera;
 
-      if ( $version =~ /Cistercian/i && $dayname[0] =~ /(Adv|Quad|Pasch)/i ) { our ($versum, $c1) = getantvers('VersumC', $ind, $lang);}
-      else { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
-      if ( $versum =~ /missing/i ) { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
+      if ( $version =~ /Cistercian/i && $winner =~ /(Adv|Quad|Pasc)/i ) 
+        { 
+        our ($versum, $c1) = getantvers('VersumC', $ind, $lang);
+        if ( $versum =~ /missing/i ) { our ($versum, $c1) = getantvers('Versum', $ind, $lang);}
+        }
+      else { our ($versum, $c1) = getantvers('Versum', $ind, $lang); }
       # in Cist. version, search for VersumC in sources
 
       setcomment($label, 'Source', $c, $lang);
@@ -1497,8 +1500,8 @@ sub oratio {
     if (length($s[-1]) > 3) { push(@s, '_'); }
     if ($key >= 900) { push(@s, delconclusio($cc{$key})); }
   }
-
-  if ((!checksuffragium() || $dayname[0] =~ /(Quad5|Quad6)/i || $version =~ /(1955|1960|monastic)/i)
+  # in Cist. version, we want "sub unica conclusione"
+  if ((!checksuffragium() || $dayname[0] =~ /(Quad5|Quad6)/i || ( $version =~ /(1955|1960|monastic)/i && $version !~ /Cistercian/i ) )
     && $addconclusio)
   {
     push(@s, $addconclusio);
@@ -1736,7 +1739,9 @@ sub getcommemoratio {
     if ($w{Rule} =~ /Comex=(.*?);/i && $rank < 5) { $file = $1; }
     if ($file =~ /^C[0-9]+$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
-    if ($file =~ /^C/) { $file = "Commune/$file"; }
+    if ($file =~ /^C/) { 
+      if ( $version =~ /Cistercian/i ) { $file = "CommuneCist/$file"; }
+      else { $file = "Commune/$file"; }} #Cistercian version has its own commune
     %c = %{setupstring($datafolder, $lang, $file)};
   } else {
     %$c = {};
@@ -2082,7 +2087,8 @@ sub getfromcommune {
   if (!$c) { return; }
 
   if ($c =~ /^C/) {
-    $c = "Commune/$c";
+    if ( $version =~ /Cistercian/i ) { $c = "CommuneCist/$c"; }
+    else { $c = "Commune/$c"; }
     my $fname = "$datafolder/$lang1/$c" . "p.txt";
     if ($dayname[0] =~ /Pasc/i && (-e $fname)) { $c .= 'p'; }
   }

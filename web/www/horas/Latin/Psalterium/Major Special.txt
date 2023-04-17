@@ -1350,8 +1350,8 @@ Ab omni mortis ímpetu
 Tuum defénde pópulum.
 _
 Glória tibi Dómine,
-Qui surrexíst[i] a mórtuis,
-Cum Patr[e] et Sancto Spíritu,
+Qui surrexíst<i>i</i> a mórtuis,
+Cum Patr<i>e</i> et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
@@ -1485,9 +1485,6 @@ Amen.
 [Pasch Versum 3]
 V. Mane nobíscum, Dómine, allelúja.
 R. Quóniam advesperáscit, allelúja.
-
-[Pasch VersumC 3]
-@:Pasch Versum 3
 
 [Suffragium1]
 Ant. Beáta Dei Génitrix Virgo María, Sanctique omnes intercedant pro nobis ad Dóminum.

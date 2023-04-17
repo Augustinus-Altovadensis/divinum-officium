@@ -100,8 +100,21 @@ R. Gáudium et exsultatiónem obtinébunt, allelúja.
 [Responsory Nona]
 @Commune/C1p:Responsory Sexta:8-9
 
+[Versum 1]
+V. Justi in perpétuum vivent, allelúia.
+R. Et apud Dóminum est merces eórum, allelúia.
+
+[Ant 1]
+@Commune/C1p:Ant 2
+
+[Ant 2]
+@Commune/C1p:Ant 1
+
+[Versum 2]
+@:Versum 1
+
 [Versum 3]
-@:Versum 2
+@:Versum 1
 
 [Ant Vespera 3]
 @Commune/C1p::s/112/111/ s/115/112/ s/125/115/
@@ -117,3 +130,4 @@ v. Sequéntia sancti Evangélii secúndum Joánnem
 15:6 Si quis in me non mánserit, mittétur foras sicut palmes, et aréscet, et cólligent eum, et in ignem mittent, et ardet.
 15:7 Si manséritis in me, et verba mea in vobis mánserint, quodcúmque voluéritis petétis, et fiet vobis.
 $Te decet
+
