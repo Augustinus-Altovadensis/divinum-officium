@@ -1392,8 +1392,8 @@ V. In resurrectióne tua, Christe, allelúja.
 R. Cæli et terra læténtur, allelúja.
 
 [Pasch VersumC 2]
-V. Dícite in natiónibus, allelúja.
-R. Quia Dóminus regnávit a ligno, allelúja.
+V. Dícite in natiónibus, allelúia.
+R. Quia Dóminus regnávit a ligno, allelúia.
 
 [Pasch Vespera]
 @:Pasch Laudes
@@ -1485,6 +1485,9 @@ Amen.
 [Pasch Versum 3]
 V. Mane nobíscum, Dómine, allelúja.
 R. Quóniam advesperáscit, allelúja.
+
+[Pasch VersumC 3]
+@:Pasch Versum 3:s/allelúja/allelúia/g
 
 [Suffragium1]
 Ant. Beáta Dei Génitrix Virgo María, Sanctique omnes intercedant pro nobis ad Dóminum.
