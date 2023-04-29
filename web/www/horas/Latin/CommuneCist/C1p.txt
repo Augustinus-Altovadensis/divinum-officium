@@ -1,9 +1,19 @@
 @Commune/C1p
 
+[Ant Vespera]
+Allelúia, * allelúja, allelúja.
+
 [Capitulum Vespera]
 @Commune/C1p
 _
-@Commune/C1p:Responsory Sexta:1-6
+R.br. In omnem terram exívit sonus eórum, Allelúia, allelúia.
+R. In omnem terram exívit sonus eórum, Allelúia, allelúia.
+V. Et in fines orbis terræ verba eórum.
+R. Allelúia, allelúia.
+
+[Versum 1]
+V. Nimis honoráti sunt amíci tui, Deus, allelúia.
+R. Nimis confortátus est principátus eórum, allelúia.
 
 [Ant Matutinum]
 @Commune/C1p::1-3
@@ -55,10 +65,19 @@ R. Quóniam digni hábiti sunt pro nómine Jesu contuméliam pati, † allelúja
 _
 @:Responsory Sexta
 
+[Ant Laudes]
+Allelúia, * allelúja, allelúja.
+
 [Capitulum Laudes]
 @Commune/C1p
 _
-@Commune/C1p:Responsory Tertia:1-6
+R.br. Constítues eos Príncipes super omnem terram, allelúia, allelúia.
+R. Constítues eos Príncipes super omnem terram, allelúia, allelúia.
+V. Mémores erunt nóminis tui, Dómine.
+R. Allelúia, allelúia.
+
+[Versum 2]
+@:Versum 1
 
 [Responsory Tertia]
 @Commune/C1p:Versum 1
@@ -70,7 +89,13 @@ _
 @Commune/C1p:Responsory Sexta:8-9
 
 [Ant Vespera 3]
-@Commune/C1p::s/125/138/
+Allelúja, * allelúja, allelúja;;109
+;;112
+;;115
+;;125
+
+[Versum 3]
+@:Versum 1
 
 [LectioE]
 @CommuneM/C1

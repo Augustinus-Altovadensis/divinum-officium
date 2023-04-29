@@ -50,6 +50,9 @@ Cum Patr[e] et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
+[HymnusC Vespera]
+@Commune/C1p:HymnusM Vespera: s/pœna mortis crudéli/morte crudelíssima/ s/Osc[u]lántur pedes Dómini./Christi tenent vestígia./
+
 [Hymnus Vespera]
 {:H-Tristeserantapostoli:}v. Tristes erant Apóstoli
 De Christi acérbo fúnere,
