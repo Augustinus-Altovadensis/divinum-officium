@@ -1,1 +1,16 @@
-@Sancti/06-19o
+[Rank]
+Ss. Gervasii et Protasii Martyrum;;Simplex;;1.1;;vide C3
+
+[Rule]
+vide C3;
+
+[Oratio]
+Deus, qui nos annua sanctórum Mártyrum tuórum Gervásii et Protásii solemnitáte~
+lætíficas: concéde propítius: ut quorum gaudémus méritis, accendámur exémplis.
+$Per Dominum.
+
+[Ant 2]
+@CommuneCist/C3:Ant 2
+
+[Versum 2]
+@CommuneCist/C3:Versum 2
