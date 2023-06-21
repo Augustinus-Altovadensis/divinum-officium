@@ -55,6 +55,9 @@ _
 [Responsory Nona]
 @Commune/C3:Responsory Sexta:8-9
 
+[Ant 2]
+Isti sunt sancti * qui pro testaménto Dei sua córpora tradidérunt, et in sánguine Agni lavérunt stolas suas.
+
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Lucam
 !Luc 21:9-19
