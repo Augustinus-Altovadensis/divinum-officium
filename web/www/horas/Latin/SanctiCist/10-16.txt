@@ -1,0 +1,9 @@
+[Rank]
+S. Hedwigis, Viduæ;;iij. Lect. et M.;;3;;vide C7a
+
+[Rule]
+vide C7a;
+
+[Oratio]
+Tuórum corda fidélium, Deus miserátor, illústra: et beátæ Hedwígis précibus gloriósis, fac nos próspea mundi despícere, et cœlésti semper consolatióne gaudére.
+$Per Dominum

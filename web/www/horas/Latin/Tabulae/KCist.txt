@@ -165,8 +165,10 @@
 10-05=10-05=S. Mauri et Placidi et Sociorum Martyrum=1=
 10-06=10-06=S. Brunonis Confessoris=3=
 10-07=10-07=Festum Beatae Mariae Virginis a Rosario=5=
+10-13=10-13=S. Mauritii, Abbasit et Comfessoris=3=
 10-14=10-14=S. Callisti Papae et Martyris=1=
 10-15=10-15=S. Teresiae Virginis=3=
+10-16=10-16=S. Hedwigis, Viduae=3=
 10-18=10-18=S. Lucae Evangelistae=5=
 10-21=10-21=S. Hilarionis Abbatis=1=Ss. Ursule et Soc Virg et Mart=1=
 10-25=10-25=Ss. Chrysanthi et Dariae Martyres=1=

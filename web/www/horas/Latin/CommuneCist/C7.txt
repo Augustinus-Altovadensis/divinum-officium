@@ -1,9 +1,19 @@
 @Commune/C7
 
+[Ant Vespera]
+Dum esset Rex * in accúbitu suo, nardus mea dedit odórem suavitátis.;;109
+Unguéntum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te nimis.;;112
+Veni, * elécta mea, et ponam in te thronum meum, quia concupívit Rex spéciem tuam.;;121
+Pulchra es * et decóra, fília Jerúsalem, terríbilis ut castrórum ácies ordináta.;;126
+Nigra sum, * sed formósa, fíliæ Jerúsalem; ídeo diléxit me Rex, et introdúxit me in cubículum suum.;;147
+
 [Capitulum Vespera]
 @Commune/C7
 _
 @Commune/C6:Responsory Sexta:1-6
+
+[Ant 2]
+Símile est * regnum cœlórum sagénæ, missæ in mare, et ex omni génere píscium congregánti. Quam, cum impléta esset, educéntes, et secus litus sedéntes, elegérunt bonos in vasa sua, malos autem foras misérunt.
 
 [Ant Matutinum]
 O quam pulchra * est casta generátio cum claritáte!;;8
@@ -18,7 +28,7 @@ Nigra sum, * sed formósa, fíliæ Jerúsalem; ídeo diléxit me Rex, et introd�
 Trahe me post te, * in odórem currémus unguentórum tuórum: óleum effúsum nomen tuum.;;86
 Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.;;95
 Unguentum effusum * nomen tuum; ideo adulescentulae dilexerunt te nimis;;96
-Pulchra es * et decore filia Jerusalem, terribilis ut castrorum acies ordinate;;97
+Pulchra es * et decóra, fília Jerúsalem, terríbilis ut castrórum ácies ordináta;;97
 Accinxit * fortitudine lumbos suos, et roboravit brachium suum; ideoque lucerna eius non exstinguetur in sempiternum;;98
 V. Adjuvábit eam Deus vultu suo.
 R. Deus in médio ejus, non commovébitur.
@@ -40,7 +50,8 @@ _
 @Commune/C6:Responsory Tertia:1-6
 
 [Responsory Tertia]
-@Commune/C6:Versum 1
+V. Spécie tua et pulchritúdine tua.
+R. Inténde, próspere procéde, et regna.
 
 [Responsory Sexta]
 @Commune/C6:Responsory Tertia:8-9
@@ -61,3 +72,6 @@ v. Sequéntia sancti Evangélii secúndum Matthǽum
 13:51 Intellexistis haec omnia? Dicunt ei: Etiam.
 13:52 Ait illis: Ideo omnis scriba doctus in regno caelorum, similis est homini patrifamilias, qui profert de thesauro suo nova et vetera.
 $Te decet
+
+[Ant 3]
+@Commune/C6:Ant 2
