@@ -170,7 +170,7 @@
 10-15=10-15=S. Teresiae Virginis=3=
 10-16=10-16=S. Hedwigis, Viduae=3=
 10-18=10-18=S. Lucae Evangelistae=5=
-10-21=10-21=S. Hilarionis Abbatis=1=Ss. Ursule et Soc Virg et Mart=1=
+10-21=10-21=SS. Ursulae et Sociarum, Virginum et Martyrum=4=S. Hilarionis Abbatis=1=
 10-25=10-25=Ss. Chrysanthi et Dariae Martyres=1=
 10-28=10-28=Ss. Simonis et Judae Apostolorum=5=
 *November*

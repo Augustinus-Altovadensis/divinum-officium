@@ -1,4 +1,37 @@
-@Sancti/10-21
+[Rank]
+SS. Ursulae et Sociarum, Virginum et Martyrum;;xij. Lect. et M.;;4;;ex C6
+
+[Rule]
+ex C6;
+
+[Ant Vespera]
+Hæc est quæ nescívit, * thorum in delícto, habébit fructum in respectióne animárum sanctárum;;109
+Unguéntum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te nimis.;;112
+Média nocte * clamor factus est: Ecce sponsus venit, exíte óbviam ei.;;121
+Tunc surrexérunt omnes * Vírgines illæ, et ornavérunt lámpades suas.;;126
+
+Vírginum chorus * laudáte Dóminum in cœlis, allelúia.;;147
+
+[Capitulum Vespera]
+@Commune/C6
+_
+R.br. Unguéntum effúsum * nomen tuum.
+R. Unguéntum effúsum * nomen tuum.
+V. Ideo adolescéntulæ dilexérunt te nimis.
+R. Nomen tuum.
+
+[Versum 1]
+V. Adducéntur Regi Vírgines post eam.
+R. Próximæ ejus afferéntur tibi.
+
+[Ant 1]
+@CommuneCist/C6:Ant NM
+
+[Oratio]
+v. Da nobis, quǽsumus, Dómine, Deus noster, sanctárum Vírginum et Mártyrum tuárum Ursulæ et Sociárum ejus palmas incessábili devotióne venerári: ut, quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.
+$Per Dominum
 
 [Commemoratio]
- 
+!Commemoratio S. Hilarionis Abbatis
+
+@CommuneCist/C5:Oratio1:s/N\./Hilariónis/
