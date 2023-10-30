@@ -752,6 +752,9 @@ Eréxit Dóminus * nobis cornu salútis in domo David púeri sui.
 [Day1 Ant 3]
 Magníficat * ánima mea Dóminum, quia respéxit Deus humilitátem meam.
 
+[Day1 Ant 3] (rubrica cisterciensis)
+Exúltet * spíritus meus in Dómino Deo salutári meo.
+
 [Day2 Ant 2]
 Eréxit nobis * Dóminus cornu salútis in domo David púeri sui.
 
@@ -763,6 +766,9 @@ Exsultávit * spíritus meus in Deo salutári meo.
 
 [Day2 Ant 3] (rubrica tridentina aut rubrica monastica)
 Exsúltet * spíritus meus in Deo salutári meo.
+
+[Day2 Ant 3] (rubrica Cisterciensis)
+Respexísti * humilitátem meam Dómine Deus meus.
 
 [Day3 Ant 2]
 De manu ómnium * qui odérunt nos, liberávit nos Dóminus.
@@ -776,6 +782,9 @@ In sanctitáte * serviámus Dómino, et liberábit nos ab inimícis nostris.
 [Day3 Ant 3]
 Respéxit Dóminus * humilitátem meam, et fecit in me magna, qui potens est.
 
+[Day3 Ant 3] (rubrica Cisterciensis)
+Quia fecit * mihi Dóminus magna qui potens est, et sanctum nomen ejus.
+
 [Day4 Ant 2]
 In sanctitáte * serviámus Dómino, et liberábit nos ab inimícis nostris.
 
@@ -788,6 +797,9 @@ Fecit Deus * poténtiam in brácchio suo: dispérsit supérbos mente cordis sui.
 [Day4 Ant 3] (rubrica tridentina aut rubrica monastica)
 Fac Deus, * poténtiam in brácchio tuo: dispérde supérbos, et exálta húmiles.
 
+[Day4 Ant 3] (rubrica Cisterciensis)
+Depósuit poténtes, * Sanctos persequéntes: et exaltávit húmiles, Christum confiténtes.
+
 [Day5 Ant 2]
 Per víscera misericórdiæ * Dei nostri visitávit nos Óriens ex alto.
 
@@ -796,6 +808,9 @@ Depósuit Dóminus * poténtes de sede, et exaltávit húmiles.
 
 [Day5 Ant 3] (rubrica tridentina aut rubrica monastica)
 Depósuit poténtes, * Sanctos persequéntes: et exaltávit húmiles, Christum confiténtes.
+
+[Day5 Ant 3] (rubrica Cisterciensis)
+Suscépit Deus * Israël, púerum suum: sicut locútus est ad Ábraham, et semen ejus usque in sǽculum.
 
 [Day6 Ant 2]
 Illúmina, Dómine, * sedéntes in ténebris et umbra mortis, et dírige pedes nostros in viam pacis.
