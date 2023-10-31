@@ -11,6 +11,13 @@ R. Sancti tui, Dómine, * benedícent te.
 V. Glóriam regni tui dicent, et poténtiam tuam loquéntur.
 R. Benedícent te.
 
+[Versum 1]
+℣. Justi in perpétuum vivent.
+℟. Et apud Dóminum est merces eórum.
+
+[Ant 1]
+Isti sunt sancti * qui pro testaménto Dei sua córpora tradidérunt, et in sánguine Agni lavérunt stolas suas.
+
 [Ant Matutinum]
 Secus decúrsus aquárum * plantávit víneam justórum, et in lege Dómini fuit volúntas eórum.;;1
 Tamquam aurum * in fornáce probávit eléctos Dóminus: et quasi holocáusta accépit eos in ætérnum.;;2
@@ -56,7 +63,7 @@ _
 @Commune/C3:Responsory Sexta:8-9
 
 [Ant 2]
-Isti sunt sancti * qui pro testaménto Dei sua córpora tradidérunt, et in sánguine Agni lavérunt stolas suas.
+Fulgébunt justi: * et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et regnábunt in ætérnum.
 
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Lucam

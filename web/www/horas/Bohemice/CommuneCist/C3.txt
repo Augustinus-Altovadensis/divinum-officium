@@ -1,5 +1,21 @@
 @Commune/C3
 
+[Responsory Vespera]
+R.br. Svatí tvoji, Hospodine, * budou ti dobrořečit.
+R. Svatí tvoji, Hospodine, * budou ti dobrořečit
+V. Slávu tvého království budou hlásat, a o tvé moci mluvit.
+R. Budou ti dobrořečit.
+
+[Versum 1]
+℣. Spravedliví budou žít navěky.
+℟. A u Hospodina bude jejich odplata.
+
+[Ant 1]
+Tito jsou Svatí, * kteří pro svědectí Boží vydali svá těla, a v krvi Beránkově si umyli své oděvy.
+
+[Ant 2]
+Zazářili spravedliví: * a jako jiskry v rákosí se rozběhli. Budou soudit národy, a vládnout navěky.
+
 [Ant Matutinum]
 By the rivers of water * hath the Lord planted the vineyard of the righteous, and in His Law do they meditate day and night;;1
 As gold in the furnace * hath the Lord tried His chosen ones, and received them for ever as a burnt-offering.;;2

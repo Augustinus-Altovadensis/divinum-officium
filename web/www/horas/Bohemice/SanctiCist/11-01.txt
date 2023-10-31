@@ -1,3 +1,97 @@
+[Ant Vespera]
+Svatých, stejně jako orlí * dorost se obnovuje, vykvétají jako lilie ve městě Hospodinově.
+Světlo věčné * svítit bude tvým Svatým, a věčnost časů, alleluja.
+Hlas radosti * <i>bude znít </i> ve stáncích spravedlivých, alleluja, alleluja, alleluja.
+Blažení čistí srdcem: * neboť oni uvidí Boha.
+Svatí svou vírou * přemohli říše <i>světa i pekla</i>, vykonávali spravedlnost, a dosáhli zaslíbení.
+
+[Capitulum Vespera]
+@Sancti/11-01
+_
+<font color=red>Responsorium.</font> Vpravdě blažená je matka Církev, kterou tak osvěcuje čest božského úradku, kterou zdobí krev vítězných Mučedníků, * Která oděla bělost neposkvrněného panenství. 
+℣. Mezi jejími květy nescházejí ani růže, ani lilie. 
+℟. Která oděla bělost neposkvrněného panenství. 
+
+[Ant 1]
+Spasiteli světa, * zachraň nás všechny; svatá Boží Rodičko, vždy Panno Maria, oroduj za nás; též prosbami svatých Apoštolů, Mučedníků i Vyzvavačů, i svatých Panen pokorně prosíme, abychom byli vysvobozeni ode všeho zlého, a zasloužili si těšit se ze všeho dobrého navždy.
+
+[Ant 2]
+Blažení jste * všichni Boží Svatí, neboť jste si zasloužili státi se účastnými na nebeských mocnostech, a těšit se ze slávy věčné jasnosti; proto prosíme, abyste pamětlivi byli nás, a ráčili se za nás přimlouvat u Hospodina našeho Boha.
+
+[Ant 3]
+Tebe chválí * slavný sbor Apoštolů, též chvályhodný počet Proroků, také bělostné vojsko Mučedníků, tebe všichni Svatí a vyvolení jedním hlasem i duchem vyznávají, blažená Trojice, jeden Bože.
+
+[Oratio]
+Všemohoucí, věčný Bože, jenž jsi nám dal jednou slavností zásluhy všech svých Svatých uctívati; prosíme, uděl nám na přímluvu tolika orodovníků žádoucí hojnosti svého slitování. 
+$Per Dominum
+
+[HymnusM Vespera]
+Všech tvorů Vykupiteli,
+své sluhy zachraň, Ježíši,
+usmířen svatou přímluvou
+své Matky, Panny nejčistší.
+_
+Blažených těch dnů nebeských
+zástupy jasem planoucí,
+zažeňte jak zla minulá,
+tak přítomná, tak budoucí.
+_
+Proroci Soudce věčného,
+vy apoštolé vznešení,
+prosíme, nám svou přímluvou
+vyproste všem dar spasení.
+_
+Vy Mučedníci vítězní,
+vy všichni slavní vyznáním,
+nás přímluvami přiveďte
+k nebeským sídlům přejasným.
+_
+Vy svatých Panen zástupy,
+všech Mnichů sbore nesmírný,
+se všemi Světci, vemte nás
+do Ježíšovy družiny.
+_
+Zbavte nás lidu zrádného
+z končin patřících věřícím,
+Ať Kristu chvály převhodné
+Svědomitě pak vzdáváme.
+_
+Sláva Otci nezrozenému,
+A jeho Jednorozenému,
+Spolu se Svatým Duchem,
+Vládnoucí navěky všem.
+Amen.
+
+[HymnusM Laudes]
+v. Ježíši, lidstva zachránce,
+při vykoupených stále stůj,
+Rodičko Boží laskavá,
+svým sluhům spásu vyprošuj.
+_
+Ať všechny sbory andělské
+s Proroků sborem vznešeným
+nám s Patriarchy slavnými
+vyprosí odpuštění vin.
+_
+Ať předchůdce a Křtitel tvůj
+i Klíčník jasných nebes bran,
+s ním Apoštolé ostatní
+břemena všech vin sejmou nám.
+_
+Ať Mučedníci vítězní
+a Kněží velké zástupy
+i čisté Panny všechny nás
+vyvedou z hříšné potupy.
+_
+Ať Řeholníků přímluvy
+se všemi nebe svatými
+připojí se k nám prosícím
+o dary věčné otčiny.
+_
+Buď tobě sláva, Kriste náš,
+i Otci, s Duchem přesvatým,
+vždyť svatí v nebi těší se
+již věčným světlem úchvatným. Amen.
 
 [Ant Matutinum]
 The Lord knoweth the way of the righteous, * who in His Law do meditate day and night.;;1

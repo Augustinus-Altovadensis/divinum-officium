@@ -1,13 +1,77 @@
 @Sancti/11-01
 
+[Rank]
+In Festo Omnium Sanctorum;;Serm. maj. cum Octava;;8;;
+
 [Rule]
 12 lectiones
 Psalmi Dominica
+Vesperae Defunctorum
+
+[Ant Vespera]
+Sanctórum sicut áquilæ * juvéntus renovábitur, florébunt sicut lílium in civitáte Dómini.
+Lux perpétua * lucébit Sanctis tuis, et ætérnitas témporum, allelúia.
+Vox lætítiæ * in tabernáculis justórum, allelúia, allelúia, allelúia.
+Beáti mundo corde: * quóniam ipsi Deum vidébunt.
+Sancti per fidem * vicérunt regna, operáti sunt justítiam, adépti sunt repromissiónes.
 
 [Capitulum Vespera]
 @Sancti/11-01
 _
+<font color=red>Responsorium.</font> Beáta vere mater Ecclésia, quam sic honor divínæ dignatiónis illúminat, quam victoriosórum gloriósus Mártyrum sanguis exórnat, * Quam inviolátæ confessiónis cándida índuit virgínitas. 
+℣. Flóribus ejus nec rosæ, nec lília desunt. 
+℟. Quam inviolátæ confessiónis cándid índuit virgínitas. 
+
+[HymnusM Vespera]
+@Sancti/11-01:HymnusM Vespera:s/Chorus/Chori/s:s/Glória.*//s
+Glória Patr<i>i</i> ingénito,
+Ejúsque Unigénito,
+Una cum Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Versum 1]
+@CommuneCist/C3:Versum 1
+
+[Ant 1]
+Salvátor mundi * salva nos omnes: sancta Dei Génitrix, Virgo semper María, ora pro nobis: précibus quoque sanctórum Apostolórum, Mártyrum et Confessórum, atque sanctárum Vírginum supplíciter pétimus, ut a malis ómnibus eruámur, bonísque ómnibus nunc et semper pérfrui mereámur.
+
+[Ant Laudes]
+@CommuneCist/C3:Ant 2
+
+[Capitulum Laudes]
+@Sancti/11-01:Capitulum Vespera
+_
 @Commune/C3:Responsory Sexta:s/._.*//s
+
+[Versum 2]
+@CommuneCist/C3:Versum 1
+
+[Ant 2]
+Beáti estis * Sancti Dei omnes, qui meruístis consórtes fíeri cæléstium virtútum, et pérfrui ætérnæ claritátis glória: idéoque precámur, ut mémores nostri, intercédere dignémini pro nobis ad Dóminum Deum nostrum.
+
+[Responsory Tertia]
+@:Versum 1
+
+[Responsory Sexta]
+@Commune/C3:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Commune/C3:Responsory Sexta:8-9
+
+[Ant Vespera 3]
+@:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;115/ s/_//
+
+[Capitulum Vespera 3]
+@Sancti/11-01:Capitulum Vespera
+_
+@CommuneCist/C3:Responsory Vespera
+
+[Versum 3]
+@CommuneCist/C3:Versum 1
+
+[Ant 3]
+Te gloriósus * Apostolórum chorus, te Prophetárum laudábilis númerus, te Mártyrum candidátus laudat exércitus, te omnes Sancti et elécti voce confiténtur unánimes, beáta Trínitas, unus Deus.
 
 [Ant Matutinum]
 Novit Dóminus * viam justórum, qui in lege ejus meditántur die ac nocte.;;1
@@ -95,19 +159,3 @@ R. Vidi Angelum ascendéntem ab ortu solis, habentem signum Dei vivi; † et cla
 V. Et vidébunt fáciem eius, et nomen Patris eius scriptum in fróntibus suis.
 R. Et audívi númerum signatórum centum quadragínta quátuor míllia signáti, † ex omni tribu filiórum Israël.
 
-[Capitulum Laudes]
-@Sancti/11-01:Capitulum Vespera
-_
-@Commune/C3:Responsory Tertia:s/._.*//s
-
-[Responsory Tertia]
-@:Versum 1
-
-[Responsory Sexta]
-@Commune/C3:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Commune/C3:Responsory Sexta:8-9
-
-[Ant Vespera 3]
-@Sancti/11-01:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;115/ s/_//
