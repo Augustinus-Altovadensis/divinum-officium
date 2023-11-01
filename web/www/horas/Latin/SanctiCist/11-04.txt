@@ -5,3 +5,16 @@ S. Caroli Episcopi et Confessoris;;Simplex;;4;;ex C4
 
 [Rule]
 Antiphonas horas
+
+!Commemoratio Ss. Mart. Vitalis et Agricolæ.
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Vitális et Agrícolæ solémnia cólimus, eórum apud te intercessiónibus adjuvémur.
+$Per Dominum
+
+[Commemoratio 1]
+!Commemoratio Ss. Mart. Vitalis et Agricolæ
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Vitális et Agrícolæ solémnia cólimus, eórum apud te intercessiónibus adjuvémur.
+$Per Dominum
