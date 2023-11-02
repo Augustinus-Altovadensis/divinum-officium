@@ -6,6 +6,7 @@ Psalmi Dominica
 Antiphonas horas
 Capitulum Versum 2 ad Laudes et Vesperas
 Omit Incipit Hymnus Capitulum Lectio Preces Capitulum Commemoratio Suffragium
+Omit Capitulum Responsorium Hymnus Versus (rubrica cisterciensis)
 Special Conclusio
 Limit Benedictiones Oratio
 Requiem gloria
@@ -14,17 +15,21 @@ Votive nocturn
 
 [Ant Vespera]
 Placébo Dómino * in regióne vivórum.;;114
-Hei mihi Dómine, * quia incolátus meus prolongátus est.;;119
+Heu mihi Dómine, * quia incolátus meus prolongátus est.;;119
 Dóminus custódit te * ab omni malo: custódiat ánimam tuam Dóminus.;;120
 Si iniquitátes * observáveris, Dómine: Dómine, quis sustinébit?;;129
 Opera * mánuum tuárum, Dómine, ne despícias.;;137
 
-[Versum 1]
+[Versum 1] 
 V. Audívi vocem de cælo dicéntem mihi.
 R. Beáti mórtui qui in Dómino moriúntur.
+(sed rubrica cisterciensis omittitur)
 
 [Ant 1]
 Omne * quod dat mihi Pater, ad me véniet; et eum qui venit ad me, non eíciam foras.
+
+[Ant 1](rubrica cisterciensis)
+Audívi * vocem de cælo dicéntem: Beáti mórtui qui in Dómino moriúntur.
 
 [Oratio_a_porta]
 _
@@ -32,6 +37,19 @@ _
 _
 &psalm(145)
 (sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
+_
+V. A porta ínferi.
+R. Erue, Dómine, ánimas eórum.
+V. Requiéscant in pace.
+R. Amen.
+V. Dómine, exáudi oratiónem meam.
+R. Et clamor meus ad te véniat.
+
+[Oratio_a_porta_cist]
+_
+&pater_noster
+_
+&psalm(145) 
 _
 V. A porta ínferi.
 R. Erue, Dómine, ánimas eórum.
@@ -54,8 +72,16 @@ $Qui vivis
 @:Oratio_a_porta
 @:Oratio_Fid
 
+[Oratio 1] (rubrica cisterciensis)
+@:Oratio_a_porta_cist
+@:Oratio_Fid
+
 [Oratio 2]
 @:Oratio_a_porta:s/&psalm.*\)//s
+@:Oratio_Fid
+
+[Oratio 2] (rubrica cisterciensis)
+@:Oratio_a_porta_cist:s/psalm\(145\)/psalm\(129\)/g
 @:Oratio_Fid
 
 [Oratio1]
@@ -258,6 +284,13 @@ Exsultábunt Dómino * ossa humiliáta.;;50
 Exáudi, Dómine, * oratiónem meam: ad te omnis caro véniet.;;64
 Me suscépit * déxtera tua, Dómine.;;62;66
 A porta ínferi * érue, Dómine, ánimam meam.;;222
+Omnis spíritus * laudet Dóminum.;;148;149;150
+
+[Ant Laudes](rubrica cisterciensis)
+Exsultábunt Dómino * ossa humiliáta.;;50
+Exáudi, Dómine, * oratiónem meam: ad te omnis caro véniet.;;64
+Me suscépit * déxtera tua, Dómine.;;62;66
+Eruísti, Dómine, * ánimam meam ne períret.;;222
 Omnis spíritus * laudet Dóminum.;;148;149;150
 
 [Versum 2]

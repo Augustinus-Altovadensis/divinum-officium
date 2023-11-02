@@ -316,14 +316,14 @@ sub specials {
           {
            if ( $name =~ /Day[0-6] Laudes/i && ( $dayname[0] =~ /Epi[2-6]/
             || $dayname[0] =~ /Quadp/i
-            || $winner{Rank} =~ /Novembris/i) # Ab Dominica proximiori Kalendis Novembris usque ad Adventum
+            || $winner{Rank} =~ /Novembris/i || $month == 11 ) # Ab Dominica proximiori Kalendis Novembris usque ad Adventum
           )
             {
             $name = 'Day0 Laudes2';
             }
           elsif ( $name =~ /Day[0-5] Vespera/i && ( $dayname[0] =~ /Epi[2-6]/
             || $dayname[0] =~ /Quadp/i
-            || $winner{Rank} =~ /Novembris/i) # Ab Dominica j. Novembris usque ad Adventum
+            || $winner{Rank} =~ /Novembris/i || $month == 11 ) # Ab Dominica j. Novembris usque ad Adventum
           )
             {
             $name = 'Day0 Vespera2';
@@ -629,7 +629,11 @@ sub specials {
     if ($item =~ /Conclusio/i && $dirge && $commune !~ /C9/i && $votive !~ /C9/i) {
       our %prayers;
 
-      if ($hora =~ /Vespera/i && $dirge == 1) {
+      if ($hora =~ /Vespera/i && $dirge == 1 && $version =~ /Cistercian/i) {
+        push(@s, $prayers{$lang}->{DefunctVC});
+        setbuild1($item, 'Recite Vespera defunctorum');
+        $skipflag = 1;
+      } elsif ($hora =~ /Vespera/i && $dirge == 1) {
         push(@s, $prayers{$lang}->{DefunctV});
         setbuild1($item, 'Recite Vespera defunctorum');
         $skipflag = 1;
@@ -637,8 +641,11 @@ sub specials {
         push(@s, $prayers{$lang}->{DefunctM});
         setbuild1($item, 'Recite Officium defunctorum');
         $skipflag = 1;
-      }
-    }
+      } elsif ($hora =~ /Laudes/i && $dirge == 3) {
+        push(@s, $prayers{$lang}->{DefunctLC});
+        setbuild1($item, 'Recite Officium defunctorum');
+        $skipflag = 1;
+      }}
   }
   return @s;
 }

@@ -278,7 +278,7 @@ sub antetpsalm_mm {
   }
 
   # WORKING switch of one Laudes Antiphon for Cistercian Office
-  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i && $winner !~ /Quad6-[4-6]/i && $dayname[1] !~ /Fidelium Defunctorum/i )
+  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i && $winner !~ /Quad6-[4-6]/i && $dayname[1] !~ /Fidelium Defunctorum/i && $votive !~ /(Defunctorum|C9)/i )
     { # every day except for the Holy Triduum and All Souls Day, there is one Antiphon for Lauds.
       if ($ind == 0) { $lastantiphon = '' ; $ant_laudes = $line[0] ; }
       if ($ind == 1) { $line[0] = ''; $lastantiphon = ''; }
@@ -293,7 +293,7 @@ sub antetpsalm_mm {
     my $ant1 = ($version =~ /Cistercian/i) ? substr($line[0], 0, index($line[0], '*')) : $line[0];
     if ($version =~ /Cistercian/i) {
       $ant1 =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
-      $ant1 =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+      $ant1 =~ s/[\,|\.|\;|:]\./\./; #  (looks better) Trim all the double punctuation.
       $ant1 =~ s/\!\./\!/; #  ( !. -> ! ).
       }
     push(@s, "Ant. $ant1"); $lastantiphon = $line[0];

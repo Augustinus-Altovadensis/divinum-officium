@@ -99,6 +99,10 @@ v. Prominutí + rozhřešení a odpuštění našich hříchů nechť udělí n�
 ℣. Dobrořečme Pánu, alleluja, alleluja.
 ℟. Bohu díky, alleluja, alleluja.
 
+[Divinum auxilium]
+℣. Božská pomoc ať s námi zůstává navždy.
+℟. I s našimi bratry, kteří zde nejsou.
+
 [Deo gratias]
 ℟. Bohu díky.
 
@@ -257,6 +261,18 @@ $Deo gratias.
 &Dominus_vobiscum
 &Benedicamus_Domino
 ! Po Laudách ze dne se říkají %Matutinum a Laudy za zemřelé%.
+
+[DefunctVC]
+&Dominus_vobiscum
+&Benedicamus_Domino
+&Divinum_auxilium
+! Po Nešporách ze dne se říkají %Nešpory za zemřelé%.
+
+[DefunctLC]
+&Dominus_vobiscum
+&Benedicamus_Domino
+&Divinum_auxilium
+! Po Laudách ze dne se říkají %Laudy za zemřelé%.
 
 [Oremus]
 <center><span style="color:red; font-size:1.25em">M</span>odleme se.</center><span style="font-size:0em"> </span>

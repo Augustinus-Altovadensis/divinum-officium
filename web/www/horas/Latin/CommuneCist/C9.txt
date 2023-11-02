@@ -1,5 +1,30 @@
 @Commune/C9
 
+[Rule]
+Omit Incipit Hymnus Capitulum Versum Lectio Preces Capitulum Commemoratio Suffragium
+Special Conclusio
+Limit Benedictiones Oratio
+Requiem gloria
+Votive nocturn
+9 lectiones
+
+[Ant 1]
+Audívi * vocem de cælo dicéntem: Beáti mórtui qui in Dómino moriúntur.
+
+[Oratio_a_porta]
+_
+&pater_noster
+_
+&psalm(145)
+_
+V. A porta ínferi.
+R. Erue, Dómine, ánimas eórum.
+V. Requiéscant in pace.
+R. Amen.
+V. Dómine, exáudi oratiónem meam.
+R. Et clamor meus ad te véniat.
+
+
 [Responsory1]
 R. In dedicatióne templi decantábat pópulus laudem: 
 * Et in ore eórum dulcis resonábat sonus.

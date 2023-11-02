@@ -97,6 +97,10 @@ v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbua
 ℣. Benedicámus Dómino, allelúja, allelúja.
 ℟. Deo grátias, allelúja, allelúja.
 
+[Divinum auxilium]
+℣. Divínum auxílium máneat semper nobíscum.
+℟. Et cum frátribus nostris abséntibus.
+
 [Deo gratias]
 ℟. Deo grátias.
 
@@ -254,10 +258,22 @@ $Deo gratias
 &Benedicamus_Domino
 ! Post Vesperas diei dicuntur %Vesperae Defunctorum%.
 
+[DefunctVC]
+&Dominus_vobiscum
+&Benedicamus_Domino
+&Divinum_auxilium
+! Post Vesperas diei dicuntur %Vesperae Defunctorum%.
+
 [DefunctM]
 &Dominus_vobiscum
 &Benedicamus_Domino
 ! Post Laudes diei dicuntur %Matutinum et Laudes Defunctorum%.
+
+[DefunctLC]
+&Dominus_vobiscum
+&Benedicamus_Domino
+&Divinum_auxilium
+! Post Laudes diei dicuntur %Laudes Defunctorum%.
 
 [Oremus]
 <center><span style="color:red; font-size:1.25em">O</span>rémus.</center>

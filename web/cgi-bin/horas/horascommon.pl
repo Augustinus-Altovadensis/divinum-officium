@@ -392,6 +392,13 @@ sub getrank {
       || $saint{Rule} =~ /Matutinum et Laudes Defunctorum/)
     );
 
+  $dirge = 3
+    if (
+    $hora =~ /Laudes/i
+    && (($dirgeline && $version =~ /Cistercian/i && $snd && $dirgeline =~ /$snd/)
+      || $saint{Rule} =~ /Laudes Defunctorum/)
+    );
+
   if ($version =~ /(1955|1960|Newcal)/) {
     if ($srank =~ /vigil/i && $sday !~ /(06\-23|06\-28|08\-09|08\-14|12\-24)/) { $srank = ''; }
     if ($srank =~ /(infra octavam|in octava)/i && nooctnat()) { $srank = ''; }
