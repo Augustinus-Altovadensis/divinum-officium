@@ -832,6 +832,9 @@ sub getrank {
         if ($srank[0] =~ /vigil/i && $srank[0] !~ /Epiph/i) {
           $laudesonly = ($dayname[0] =~ /(Adv|Quad[0-6])/i) ? ' ad Missam tantum' : ' ad Laudes tantum';
         }
+        
+        # Attempt to get rid of Laudes only (doesn't work so far)
+        if ($srank[0] =~ /vigil/i && $version =~ /Cistercian/i ) { $laudesonly = ''; }
 
         # Don't say "Commemoratio in Commemoratione"
         my $comm = $srank[0] =~ /^In Commemoratione/ ? '' : 'Commemoratio';
@@ -1133,7 +1136,14 @@ sub precedence {
       $commemoratio = '';
       %commemoratio = undef;
       $dayname[2] = '';
-    } else {
+    } 
+    # Limit second Vesper commemoration at iij. Lect. and lower ranks
+    elsif ($vespera == $svesp && $vespera == 1 && $cvespera == 3 && $version =~ /Cistercian/i && $rank <= 3 ) {
+      $commemoratio = '';
+      %commemoratio = undef;
+      $dayname[2] = '';
+    } 
+    else {
       %commemoratio2 = %{officestring($datafolder, $lang2, $commemoratio)};
     }
   }
