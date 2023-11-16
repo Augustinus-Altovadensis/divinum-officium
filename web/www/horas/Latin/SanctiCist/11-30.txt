@@ -1,18 +1,24 @@
 @Sancti/11-30
 
+[Rank]
+S. Andreæ Apostoli;;MM. maj.;;6;;ex C1
+
 [Rule]
 12 lectiones
 
 [Ant Vespera]
 Diléxit * Andréam Dóminus in odórem suavitátis, allelúia.
 Bíduo vivens * pendébat in cruce pro Christi nómine beátus Andréas, et docébat pópulum.
-Non me permíttas, Dómine, * fámulum tuum a te separári, tempus est, ut commendétur terrae corpus meum.
+Non me permíttas, Dómine, * fámulum tuum a te separári, tempus est, ut commendétur terræ corpus meum.
 Qui persequebántur justum, * demersísti eos, Dómine, in inférno, et in ligno crucis dux justi fuísti.
 
 [Capitulum Vespera]
 @Sancti/11-30:Capitulum Vespera
 _
 @Commune/C1:Responsory Tertia:s/._.*//s
+
+[Ant 1]
+Ambulans Jesus * juxta mare Galilææ vidit Petrum et Andréam fratrem ejus, et ait illis: Veníte post me, fáciam vos fíeri piscatóres hóminum: at illi, relíctis rétibus et navi, secúti sunt eum.
 
 [Ant Matutinum]
 Vidit Dóminus * Petrum et Andréam, et vocávit eos.;;18
@@ -113,6 +119,9 @@ R. Diléxit Andréam Dóminus in odórem suavitátis, dum pendéret in cruce, �
 * Et ídeo amícus Dei appellátus est.
 V. Andréas, Christi fámulus, dignus Dei Apóstolus, germánus Petri, et is possessióne sócius.
 R. Et ídeo amícus Dei appellátus est.
+
+[Ant Laudes]
+@:Ant Vespera
 
 [Capitulum Laudes]
 @Sancti/11-30:Capitulum Vespera

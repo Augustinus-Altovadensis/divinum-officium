@@ -1,7 +1,5 @@
-@Sancti/12-04
-
+@Sancti/12-02
 [Rank]
-S. Petri Chrysologi Episcopi Confessoris et Ecclesiæ Doctoris;;Simplex;;1.1;;vide C4
+S. Bibianæ Virginis et Martyris;;Commemoratio;;1.1;;vide C6
 
-[Commemoratio]
- 
+

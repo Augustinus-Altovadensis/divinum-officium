@@ -1,7 +1,7 @@
 @Sancti/11-18r
 
 [Rank]
-In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli;;Duplex;;3;;vide C8
+In Dedicatione Basilicarum Ss. Apostolorum Petri et Pauli;;Duplex;;6.1;;ex C8
 
 [Lectio3]
 @Sancti/11-18o:Lectio94

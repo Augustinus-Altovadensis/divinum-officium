@@ -108,6 +108,10 @@ _
 [Oratio2]
 @Commune/C7
 
+[Oratio3]
+Tuórum corda fidélium, Deus miserátor, illústra: et, beátæ N. précibus gloriósis; fac nos próspera mundi despícere, et cælésti semper consolatióne gaudére.
+$Per Dominum
+
 [Capitulum Tertia]
 @:Capitulum Vespera:1-3
 

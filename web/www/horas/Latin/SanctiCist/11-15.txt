@@ -1,4 +1,6 @@
-@Sancti/11-15
-
 [Rank]
-S. Alberti Magni Episcopi Confessoris et Ecclesiæ Doctoris;;Simplex;;1.1;;vide C4
+S. Leopoldi, Confessoris;;iij. Lect. et M.;;3;;vide C5
+
+[Oratio]
+Adésto, Dómine, supplicatiónibus nostris, quas in beáti Leopóldi, Confessóris tui, solemnitáte deférimus: ut, qui nostræ justítiæ fidúciam non habémus, ejus, qui tibi plácuit, précibus adjuvémur.
+$Per Dominum

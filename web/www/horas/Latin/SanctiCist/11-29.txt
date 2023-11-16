@@ -1,1 +1,8 @@
-@Sancti/11-29r
+@Sancti/11-29v
+
+[Commemoratio]
+!Commemoratio S. Saturnini, Martyris
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Deus, qui nos beáti Saturníni Mártyris tui concédis natalício pérfrui: ejus nos tríbue méritis adjuvári.
+$Per Dominum
