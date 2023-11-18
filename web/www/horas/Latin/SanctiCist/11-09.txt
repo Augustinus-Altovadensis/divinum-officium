@@ -6,6 +6,11 @@ In Dedicatione Basilicæ Ss. Salvatoris;;MM.maj.;;6;;ex C8
 12 lectiones
 
 [Commemoratio]
+!Commemoratio S. Theodori Martyris
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Deus, qui nos beáti Theodóri Mártyris tui confessióne gloriósa circúmdas et prótegis: præsta nobis ex ejus imitatióne profícere, et oratióne fulcíri.
+$Per Dominum
 
 
 [Lectio1]

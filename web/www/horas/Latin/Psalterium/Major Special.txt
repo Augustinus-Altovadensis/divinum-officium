@@ -997,6 +997,12 @@ R. Aperiátur terra, et gérminet Salvatórem.
 [Adv Versum 3]
 @:Adv Versum 1
 
+[Adv VersumC 1]
+@:Adv Versum 1
+
+[Adv VersumC 3]
+@:Adv Versum 1
+
 [Adv Ant 17]
 O Sapiéntia, * quæ ex ore Altíssimi prodiísti, attíngens a fine usque ad finem, fórtiter suavitérque dispónens ómnia: veni ad docéndum nos viam prudéntiæ.
 

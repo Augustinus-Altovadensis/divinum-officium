@@ -713,7 +713,7 @@ sub getrank {
     if (transfered($tname)) {    #&& !$vflag)
       if ($hora !~ /Completorium/i) { $dayname[2] = "Transfer $trank[0]"; }
       $commemoratio = '';
-    } elsif ($version =~ /1960|Newcal|Monastic/i && $winner{Rule} =~ /Festum Domini/i && $trank =~ /Dominica/i) {
+    } elsif ($version =~ /1960|Newcal|Monastic/i && $version !~ /Cistercian/i && $winner{Rule} =~ /Festum Domini/i && $trank =~ /Dominica/i) {
       $trank = '';
       @trank = undef;
 
@@ -832,9 +832,6 @@ sub getrank {
         if ($srank[0] =~ /vigil/i && $srank[0] !~ /Epiph/i) {
           $laudesonly = ($dayname[0] =~ /(Adv|Quad[0-6])/i) ? ' ad Missam tantum' : ' ad Laudes tantum';
         }
-        
-        # Attempt to get rid of Laudes only (doesn't work so far)
-        if ($srank[0] =~ /vigil/i && $version =~ /Cistercian/i ) { $laudesonly = ''; }
 
         # Don't say "Commemoratio in Commemoratione"
         my $comm = $srank[0] =~ /^In Commemoratione/ ? '' : 'Commemoratio';
@@ -1808,7 +1805,7 @@ sub days_to_date1 {
 #*** nooctnat()
 # returns 1 for 1960 not Christmas Octave days
 sub nooctnat {
-  if ($version =~ /1960|Monastic/i && ($month < 12 || $day < 25)) { return 1; }
+  if ( $version =~ /1960|Monastic/i && $version !~ /Cistercian/i && ($month < 12 || $day < 25)) { return 1; }
   return 0;
 }
 

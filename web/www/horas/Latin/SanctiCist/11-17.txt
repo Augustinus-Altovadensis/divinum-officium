@@ -3,8 +3,8 @@
 S. Gertrudis Virginis;;MM. maj.;;6;;ex C6
 
 [Rule]
-vide C6;
-9 lectiones
+ex C6;
+12 lectiones
 
 [Oratio]
 Deus, qui in corde beátæ Gertrúdis Vírginis jucúndam tibi mansiónem præparásti: ipsíus méritis et intercessióne; cordis nostri máculas cleménter abstérge, et eiúsdem tríbue gaudére consórtio.

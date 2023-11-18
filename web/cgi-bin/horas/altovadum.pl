@@ -950,7 +950,7 @@ sub martyrologium_cz : ScriptFunc {
   $t .= "v. M<b>artyrologium na den $d. @mensis[$month], Léta Páně $year.</b>" . "\n_\n";
   
   if ( $day == 24 && $month == 2 && $l == 1 ) {
-    $t .= "r. Památka velkého počtu svatých mu­čedníků a vyznavačů, taktéž svatých panen, jejichž přímluvu s v modlitbách vyprošujeme. †\n" ;
+    $t .= "r. Památka velkého počtu svatých mučedníků a vyznavačů, taktéž svatých panen, jejichž přímluvu s v modlitbách vyprošujeme. †\n" ;
     $t .= '$Deo gratias' . "\n_\n";
     return $t;
   }
