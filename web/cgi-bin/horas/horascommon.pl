@@ -1512,6 +1512,7 @@ sub transfered {
 sub climit1960 {
   my $c = shift;
   if (!$c) { return 0; }
+  if ($version =~ /Cistercian/i && $rank <= 7) { return 1; }
   if ($version !~ /1960|Monastic/i || $c !~ /sancti/i) { return 1; }
 
   # Subsume commemoration in special case 7-16 with Common 10 (BMV in Sabbato)
