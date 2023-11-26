@@ -1,13 +1,25 @@
 
+[Ant Vespera]
+Předtím, než spolu začali žít, * ukázalo se, že Maria počala z Ducha svatého, alleluja.;;109
+Josefe, synu Davidův, * neboj se přijmout Marii za svou manželku: dítě, které se z ní narodí, je z Ducha svatého, alleluja.;;110
+Naplnily se * dny Marii, aby porodila svého prvorozeného Syna.;;111
+Radujme se všichni věřící, * náš Spasitel se narodil do světa: dnes vyšlo potomstvo vznešeného rodu, avšak panenská čistota byla zachována.;;112
+Hle, již přišla * plnost času, v němž poslal Bůh svého Syna na zemi, narozeného z Panny, postaveného pod zákon, aby vykoupil podřízené zákonu.;;116
+
 [Capitulum Vespera]
 @Sancti/12-25:Capitulum Vespera
 _
-R.br. This day ye shall know that the Lord cometh.
-R. This day ye shall know that the Lord cometh.
-V. And in the morning, then ye shall see His glory.
-R. That the Lord cometh.
-&Gloria
-R. This day ye shall know that the Lord cometh.
+<FONT COLOR=RED>Responsorium</FONT> ó Judo a Jerusaléme, nebojte se, zítra vyjdete, a Hospodin bude s vámi.
+V. Vůbec se nebojte, uzříte pomoc Páně na sebou.
+R. Zítra vyjdete, a Hospodin bude s vámi.
+
+[Versum 1]
+℣. Požehnaný jenž přichází ve jménu Páně.
+℟. Bůh Hospodin, a rozzářil se nad námi.
+
+[Ant 1]
+Když byla * zasnoubena Matka Ježíšova Maria s Josefem, ještě než spolu začali žít, ukázalo se, že počala; ovšem dítě, které se z ní narodilo, je z Ducha svatého, alleluja.
+
 
 [Ant Matutinum]
 The Lord hath said unto Me: * Thou art My Son, this day have I begotten thee.;;2

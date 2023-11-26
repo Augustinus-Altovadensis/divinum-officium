@@ -1,17 +1,30 @@
 @Sancti/12-25
+[Rank]
+In Nativitate Domini;;Duplex I Classis;;8
 
 [Rule]
 12 lectiones
 
+[Ant Vespera]
+Antequam convenírent * invénta est María habens in útero de Spíritu sancto, allelúia.;;109
+Joseph fili David * noli timére accípere Maríam cónjugem tuam: quod enim in ea natum est, de Spíritu sancto est, allelúia.;;110
+Compléti sunt * dies Maríæ, ut páreret Fílium suum primogénitum.;;111
+Gaudeámus omnes fidéles, * Salvátor noster natus est in mundo: hódie procéssit proles magnífici gérminis, et persevérat pudos virginitátis.;;112
+Ecce jam venit * plenitúdo témporis, in quo misit Deus fílium suum in terras, natum de Vírgine, factum sub lege, ut eos qui sub lege erant redímeter.;;116
+
 [Capitulum Vespera]
 @Sancti/12-25:Capitulum Vespera
 _
-R.br. Hódie sciétis * Quia véniet Dóminus.
-R. Hódie sciétis * Quia véniet Dóminus.
-V. Et mane vidébitis glóriam ejus.
-R. Hódie sciétis * Quia véniet Dóminus.
-&Gloria
-R. Hódie sciétis * Quia véniet Dóminus.
+<FONT COLOR=RED>Responsorium</FONT> O Juda et Jerúsalem, nolíte timére: * Cras egrediémini, et Dóminus erit vobíscum.
+V. Constántes estóte, vidébitis auxílium Dómini super vos.
+R. Cras egrediémini, et Dóminus erit vobíscum.
+
+[Versum 1]
+℣. Benedíctus qui venit in nómine Dómini.
+℟. Deus Dóminus, et illúxit nobis.
+
+[Ant 1]
+Cum esset * desponsáta Mater Jesu María Joseph, ántequam convenírent, invénta est in útero habens: quod enim in ea natum est, de Spíritu sancto est, allelúia.
 
 [Ant Matutinum]
 Dóminus dixit * ad me: Fílius meus es tu, ego hódie génui te.;;2
