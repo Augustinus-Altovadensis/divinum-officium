@@ -20,6 +20,34 @@ R. Zítra vyjdete, a Hospodin bude s vámi.
 [Ant 1]
 Když byla * zasnoubena Matka Ježíšova Maria s Josefem, ještě než spolu začali žít, ukázalo se, že počala; ovšem dítě, které se z ní narodilo, je z Ducha svatého, alleluja.
 
+[Ant Laudes]
+Zrodila matka * Krále, jehož jméno je věčné, a mateřské radosti spojila s panenskou ctí: a nebylo před ní podobné nalezeno, ani její následovnice, alleluja.
+
+[Capitulum Laudes]
+@Sancti/12-25:Capitulum Laudes
+_
+R.br. Požehnaný, jenž přichází,  * Ve jménu Páně.
+R. Požehnaný, jenž přichází,  * Ve jménu Páně.
+V. Bůh Hospodin, a rozzářil se nad námi.
+R. Ve jménu Páně.
+
+[Versum 2]
+V. Chlapec se nám narodil.
+R. Syn nám byl dán.
+
+[Ant Vespera 3]
+Na počátku * a před věky Bůh byl Slovo: právě on se nám narodil jako Spasitel světa.;;109
+Panna Slovo počala, * Pannou zůstala, jako Pana porodila Krále všech králů.;;110
+Blažené lůno, * které tě nosilo, Kriste, a blažené prsy, které tě kojily, Hospodina, a Spasitele světa, alleluja.;;111
+Zazářil nám den * nového vykoupení, napravení pradávné viny, <i>den</i> věčného štěstí.;;131
+
+[Capitulum Vespera 3]
+@Sancti/12-25:Capitulum Laudes
+_
+R.br. Slovo se stalo tělem, * A přebývalo mezi námi.
+R. Slovo se stalo tělem, * A přebývalo mezi námi.
+V. A uviděli jsme jeho slávu, slávu, kterou má Jednorozený <i>Syn</i> od Otce.
+R. A přebývalo mezi námi.
 
 [Ant Matutinum]
 The Lord hath said unto Me: * Thou art My Son, this day have I begotten thee.;;2

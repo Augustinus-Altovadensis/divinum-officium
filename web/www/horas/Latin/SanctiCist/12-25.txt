@@ -125,10 +125,23 @@ R. Hoc erat in princípio apud Deum.
 [Responsory12]
 @Sancti/12-25:Responsory8
 
+[Ant Laudes]
+Génuit puérpera * Regem, cui nomen ætérnum, et gáudia matris habens cum virginitátis honóre: nec primam símilem visa est, nec habére sequéntem, allelúja.
+
 [Capitulum Laudes]
 @Sancti/12-25:Capitulum Laudes
 _
-@Sancti/12-25:Responsory Tertia:s/._.*//s
+R.br. Benedíctus qui venit  * In nómine Dómini.
+R. Benedíctus qui venit  * In nómine Dómini.
+V. Deus Dóminus, et illúxit nobis.
+R. In nómine Dómini.
+
+[Versum 2]
+V. Puer natus est nobis.
+R. Fílius datus est nobis.
+
+[Ant Prima]
+Lux orta est * super nos: quia hódie natus est Salvátor, allelúia.
 
 [Responsory Tertia]
 @Sancti/12-25:Responsory Nona:s/.*_.//s
@@ -140,10 +153,21 @@ _
 @Sancti/12-25:Responsory Sexta:s/.*_.//s
 
 [Ant Vespera 3]
-@Sancti/12-25::s/.*;;131//
+In princípio * et ante sǽcula Deus erat Verbum: ipse natus est nobis Salvátor mundi.;;109
+Virgo Verbo concépit, * Virgo permánsit, Virgo péperit Regem ómnium regum.;;110
+Beátus venter, * qui te portávit, Christe, et beáta úbera quæ te lactavérunt Dóminum, et Salvatórem mundi, allelúia.;;111
+Illúxit nobis dies * redemptiónis novæ, reparatiónis antíquæ, felicitátis ætérnæ.;;131
 
 [Capitulum Vespera 3]
-@:Capitulum Laudes
+@Sancti/12-25:Capitulum Laudes
+_
+R.br. Verbum caro factum est, * Et habitávit in nobis.
+R. Verbum caro factum est, * Et habitávit in nobis.
+V. Et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre.
+R. Et habitávit in nobis.
+
+[Versum 3]
+@:Versum 2
 
 [LectioE]
 Initium ++ Sancti Evangelii secundum Matthaeum.
