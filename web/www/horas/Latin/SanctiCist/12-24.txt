@@ -5,6 +5,10 @@
 _
 @Sancti/12-24:Responsory Tertia:s/._.*//s
 
+[Versum 2]
+V. Constántes estóte.
+R. Vidébitis auxílium Dómini super vos.
+
 [Responsory Tertia]
 @Sancti/12-24::s/.*_.//s
 

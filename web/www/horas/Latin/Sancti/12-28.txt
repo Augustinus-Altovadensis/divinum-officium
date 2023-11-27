@@ -214,6 +214,12 @@ Amen.
 @Sancti/12-26:Octava
 @Sancti/12-27:Octava
 
+[Commemoratio 2] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
+
+[Commemoratio 3] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
+
 [Lectio Prima]
 !Apo 14:4-5
 v. Hi empti sunt ex homínibus primítiæ Deo et Agno, et in ore ipsórum non est invéntum mendácium: sine mácula enim sunt ante thronum Dei.

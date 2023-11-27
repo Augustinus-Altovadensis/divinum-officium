@@ -89,6 +89,12 @@ Verum ab utróque se dissidére osténdit Christus: ab illis quidem, qui in ali�
 [Commemoratio 3]
 @Sancti/12-25:Octava
 
+[Commemoratio 2] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
+
+[Commemoratio 3] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
+
 [Commemoratio 2] (rubrica trident)
 @Sancti/12-25:Octava
 @Sancti/12-26:Octava

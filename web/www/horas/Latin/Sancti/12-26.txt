@@ -14,6 +14,9 @@ no Psalm5
 [Versum 1]
 @Commune/C2:Versum 1
 
+[Versum 1] (rubrica cisterciensis)
+@CommuneCist/C2:Versum 1
+
 [Ant 1]
 Stéphanus autem * plenus grátia et fortitúdine, faciébat signa magna in pópulo.
 
@@ -182,8 +185,14 @@ Sepeliérunt Stéphanum * viri timoráti, et fecérunt planctum magnum super eum
 [Commemoratio 2]
 @Sancti/12-25:Octava
 
+[Commemoratio 2] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
+
 [Commemoratio 3]
 @Sancti/12-25:Octava
+
+[Commemoratio 3] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
 
 [Octava 2]
 !Commemoratio Octavæ S. Stephani

@@ -14,6 +14,12 @@ Da, quǽsumus, omnipotens Deus: ut beati Silvéstri Confessóris tui atque~
 Pontíficis veneránda solémnitas, et devotiónem nobis augeat et salútem.
 $Per Dominum.
 
+[Commemoratio 2] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
+
+[Commemoratio 3] (rubrica cisterciensis)
+@SanctiCist/12-25:Octava
+
 [Lectio1]
 De Epístola ad Romános
 !Rom 3:19-22

@@ -88,8 +88,14 @@ Antiphonas horas
 [Capitulum Laudes]
 @Sancti/12-24:Capitulum Laudes
 
+[Capitulum Laudes] (rubrica cisterciensis)
+@SanctiCist/12-24:Capitulum Laudes
+
 [Versum 2]
 @Sancti/12-24:Versum 2
+
+[Versum 2] (rubrica cisterciensis)
+@SanctiCist/12-24:Versum 2
 
 [Ant 2]
 @Sancti/12-24:Ant 2
@@ -103,6 +109,19 @@ Ant. Ave, María, grátia plena: Dóminus tecum: benedícta tu in muliéribus, a
 _
 V. Vox clamántis in desérto: Paráte viam Dómini. 
 R. Rectas fácite sémitas ejus.
+_
+$Oremus
+Excíta, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte~
+succúrre; ut per auxílium grátiæ tuæ, quod nostra peccáta præpédiunt,~
+indulgéntia tuæ propitiatiónis accéleret:
+$Qui vivis
+
+[Commemoratio 2] (rubrica cisterciensis)
+!De Dominica
+Ant. Ave, María, grátia plena: Dóminus tecum: benedícta tu in muliéribus, allelúja.
+_
+℣. Emítte Agnum, Dómine, dominatórem terræ. 
+℟. De Petra desérti ad montem fíliæ Sion.
 _
 $Oremus
 Excíta, quǽsumus, Dómine, poténtiam tuam, et veni: et magna nobis virtúte~

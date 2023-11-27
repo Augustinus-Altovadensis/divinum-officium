@@ -77,10 +77,7 @@ On the morrow * ye shall be saved, saith the Lord God of hosts.
 
 [Capitulum Laudes]
 !Rom 1:1-3
-v. Paul, a servant of Jesus Christ, called to be an apostle, separated unto the~
-gospel of God, which he had promised before, by his prophets, in the holy~
-scriptures concerning his Son, who was made to him of the seed of David,~
-according to the flesh.
+v. Pavel, služebník Ježíše Krista, povolán za Apoštola, oddělen v Evangeliu Božím, co Bůh dříve sliboval skrze své Proroky v posvátných Písmech o svém Synu, který se mu zrodil z pokolení Davidova podle těla.
 $Deo gratias
 
 [Versum 2]
@@ -92,10 +89,9 @@ The Saviour of the world * shall rise like the sun, and come down into the womb 
 the Virgin as the showers upon the grass. Alleluia.
 
 [Oratio]
-O God, thou Who gladden us year after year with the expectation of our redemption,~
-grant that we, who now welcome with joy thy only-begotten Son as our Redeemer,~
-may also gaze upon Him without fear when He comes as our judge, our Lord Jesus~
-Christ.
+Bože, jenž nás každým rokem těšíš očekáváním naší spásy, dej, abychom tvého Jednorozeného,~
+jejž jako Vykupitele radostně vítáme, bezpečni viděli přicházeti také jako soudce,~
+Pána našeho Ježíše Krista, tvého Syna,
 $Qui tecum
 
 [Lectio Prima]
@@ -104,10 +100,10 @@ v. By whom we have received grace and apostleship for obedience to the faith, in
 all nations, for his name, among whom are you also the called of Jesus Christ.
 
 [Responsory Tertia]
-R.br. This day ye shall know * That the Lord cometh.
-R. This day ye shall know * That the Lord cometh.
-V. And in the morning, then ye shall see His glory.
-R. That the Lord cometh.
+R.br. Dnes poznáte, * Že přijde Pán.
+R. Dnes poznáte, * Že přijde Pán.
+V. A ráno uzříte jeho slávu.
+R. Že přijde Pán.
 &Gloria
 R. This day ye shall know * That the Lord cometh.
 _

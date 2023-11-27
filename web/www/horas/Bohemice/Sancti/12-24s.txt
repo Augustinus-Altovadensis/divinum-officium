@@ -9,14 +9,22 @@ Antiphonas horas
 
 [Commemoratio 2]
 !De Dominica
-Ant. Hail, Mary, full of grace, * the Lord is with thee blessed art thou among~
-women. Alleluia.
+Ant. Zdrávas Maria, milosti plná, Pán s tebou; požehnaná jsi mezi ženami, alleluia.
 _
-V. A voice of one crying in the wilderness
-R. Make straight his paths.
+V. Hlas volajícího na poušti: Připravte cesty Pánu.
+R. Urovnejte jeho cesty.
 _
 $Oremus
-Stir up, O Lord, we pray thee, thy power, and come among us, and with great~
-might succour us, that whereas through our sins and wickedness we are sore let~
-and hindered, thy bountiful grace and mercy may speedily help and deliver us
+Vzbuď, prosíme, Pane, moc svou a přijď, a silou velikou nám přispěj, aby pomocí tvé milosti to, co hříchy naše zdržují, blahovůle tvé slitov­nosti urychlila.
+$Qui vivis
+
+[Commemoratio 2] (rubrica cisterciensis)
+!De Dominica
+Ant. Zdrávas Maria, milosti plná, Pán s tebou; požehnaná jsi mezi ženami, alleluia.
+_
+V. Vyšli, Pane, Beránka, panovníka Země.
+R. Z Petry na poušti na horu dcery Sionské.
+_
+$Oremus
+Vzbuď, prosíme, Pane, moc svou a přijď, a silou velikou nám přispěj, aby pomocí tvé milosti to, co hříchy naše zdržují, blahovůle tvé slitov­nosti urychlila.
 $Qui vivis
