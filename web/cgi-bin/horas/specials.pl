@@ -316,14 +316,14 @@ sub specials {
           {
            if ( $name =~ /Day[0-6] Laudes/i && ( $dayname[0] =~ /Epi[2-6]/
             || $dayname[0] =~ /Quadp/i
-            || $winner{Rank} =~ /Novembris/i || $month == 11 ) # Ab Dominica proximiori Kalendis Novembris usque ad Adventum
+            || $winner{Rank} =~ /Novembris/i || $month >= 11 ) # Ab Dominica proximiori Kalendis Novembris usque ad Adventum
           )
             {
             $name = 'Day0 Laudes2';
             }
           elsif ( $name =~ /Day[0-5] Vespera/i && ( $dayname[0] =~ /Epi[2-6]/
             || $dayname[0] =~ /Quadp/i
-            || $winner{Rank} =~ /Novembris/i || $month == 11 ) # Ab Dominica j. Novembris usque ad Adventum
+            || $winner{Rank} =~ /Novembris/i || $month >= 11 ) # Ab Dominica j. Novembris usque ad Adventum
           )
             {
             $name = 'Day0 Vespera2';
@@ -1664,10 +1664,9 @@ sub commemoratio {
     $w = getrefs($w{'Commemoratio Sabbat'}, $lang, 2, $w{Rule});
   }
 
-  if ($version =~ /Cistercian/i && nooctnat()) { return; }
   if ($version =~ /1955|1960|Newcal|Monastic/i && $version !~ /Cistercian/i && $w =~ /!.*?(O[ckt]ta|Dominica)/i && nooctnat()) { return; }
   if ($version =~ /(1955|1960|Newcal)/ && $hora =~ /Vespera/i && $rank >= 5 && nooctnat()) { return; }
-  if ($rank >= 5 && $w =~ /!.*?Octav/i && $winner =~ /Sancti/i && $hora =~ /Vespera/i && nooctnat()) { return; }
+  if ($rank >= 5 && $w =~ /!.*?Octav/i && $winner =~ /Sancti/i && $hora =~ /Vespera/i && $version !~ /Cistercian/i && nooctnat()) { return; }
 
   if ( $w
     && $version =~ /1955|1960|Newcal/
@@ -1729,7 +1728,7 @@ sub getcommemoratio {
     return '';
   }
   my @rank = split(";;", $w{Rank});
-  if ($rank[1] =~ /Feria/ && $rank[2] < 2) { return; }    #no commemoration of no privileged feria
+  if ($rank[1] =~ /Feria/ && $rank[2] < 2 ) { return; }    #no commemoration of no privileged feria
 
   if ( $rank[0] =~ /Infra Octav/i
     && $rank[2] < 2
