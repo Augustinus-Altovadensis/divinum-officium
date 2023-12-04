@@ -1810,6 +1810,17 @@ sub getcommemoratio {
   if (!$v) { $v = $c{"Versum $ind"}; }
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
+
+  if ( $version =~ /Cistercian/i && $dayname =~ /(Adv|Quad|Pasc)/i && $wday =~ /tempora/i )
+    { # search for Cistercian verse for commemorated Ferias
+    $v = $w{"VersumC $ind"};
+    if (!$v) { $v = getfrompsalterium('VersumC', $ind, $lang); }
+    if (!$v) { $v = $w{"Versum $ind"}; } 
+    if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
+    if (!$v) { $v = 'versus missing'; }
+    $v =~ s/V\. /℣\. /g ;
+    $v =~ s/R\. /℟\. /g ;
+    }
   postprocess_vr($v, $lang);
   our %prayers;
   my $w = "!" . &translate("Commemoratio", $lang);
