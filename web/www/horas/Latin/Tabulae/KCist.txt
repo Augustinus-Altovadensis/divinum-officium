@@ -196,7 +196,7 @@
 11-24=11-24=S. Chrysogoni Martyris=1=
 11-25=11-25=S. Catharinæ Virginis et Martyris=4=
 11-29=11-29=S. Saturnini Martyris=1=
-11-30=11-30=S. Andreæ Apostoli=5=
+11-30=11-30=S. Andreæ Apostoli=6=
 *December*
 12-01=12-01=S. Eligii, Episcopi et Confessoris=1=
 12-02=12-02=S. Bibianae Virginis=1=
@@ -212,9 +212,9 @@
 12-21=12-21=S. Thomæ Apostoli=6=
 12-24=12-24=Vigilia Nativitatis Domini=6=
 12-25=12-25=In Nativitate Domini=6=
-12-26=12-26=Die secunda infra octavam Nativitati=5=Commemoratio S. Stephani Protomartyris
-12-27=12-27=Die tertia infra octavam Nativitati=5=Commemoratio S. Joannis Apostoli
-12-28=12-28=Die quarta infra octavam Nativitati=5=Commemoratio Ss. Innocentium
-12-29=12-29=Die quinta infra octavam Nativitati=5=Commemoratio S. Thomæ Episcopi et Martyris
+12-26=12-26=Die secunda infra octavam Nativitatis=5=Commemoratio S. Stephani Protomartyris
+12-27=12-27=Die tertia infra octavam Nativitatis=5=Commemoratio S. Joannis Apostoli
+12-28=12-28=Die quarta infra octavam Nativitatis=5=Commemoratio Ss. Innocentium
+12-29=12-29=Die quinta infra octavam Nativitatis=5=Commemoratio S. Thomæ Episcopi et Martyris
 12-30=12-30=Die sexta infra Octavam Nativitatis=5=
-12-31=12-31=Die septima infra octavam Nativitati=5=Commemoratio S. Silvestri Papae et Conf
+12-31=12-31=Die septima infra octavam Nativitatis=5=Commemoratio S. Silvestri Papae et Conf

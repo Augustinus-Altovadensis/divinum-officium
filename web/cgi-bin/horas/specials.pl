@@ -1714,7 +1714,7 @@ sub getcommemoratio {
 
   if ($version =~ /Trident|Divino/i && $wday =~ /12-30/) { return ''; }
 
-  if ($hora =~ /Vespera/i && $rank >= 5 && $w{Rank} =~ /;;1/ && $winner !~ /Tempora/i) {
+  if ( $version !~ /Cistercian/i && $hora =~ /Vespera/i && $rank >= 5 && $w{Rank} =~ /;;1/ && $winner !~ /Tempora/i) {
     return '';
   }    #2nd class and commemorated simplex
   if ($rule =~ /no commemoratio/i && !($hora =~ /Vespera/i && $vespera == 3 && $svesp == 1)) { return ''; }
@@ -1733,7 +1733,7 @@ sub getcommemoratio {
   if ( $rank[0] =~ /Infra Octav/i
     && $rank[2] < 2
     && $rank >= 5
-    && $winner =~ /Sancti/i)
+    && $winner =~ /Sancti/i && $version !~ /Cistercian/i )
   {
     return;
   }                                                       #no commemoration of octava common in 2nd class
@@ -1747,7 +1747,7 @@ sub getcommemoratio {
     if ($file =~ /^C[0-9]+$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
     if ($file =~ /^C/) { 
-      if ( $version =~ /Cistercian/i && -e "CommuneCist/$file" ) { $file = "CommuneCist/$file"; }
+      if ( $version =~ /Cistercian/i && -e "$datafolder/$lang/CommuneCist/$file" ) { $file = "CommuneCist/$file"; }
       else { $file = "Commune/$file"; }} #Cistercian version has its own commune
     %c = %{setupstring($datafolder, $lang, $file)};
   } else {
@@ -2031,7 +2031,7 @@ sub getantvers {
   }
 
   if ($w) {
-    if ($item =~ /Versum/i || $item =~ /VersumC/i) {
+    if ($item =~ /Versum/i ) {
       postprocess_vr($w, $lang);
     } else {
       postprocess_ant($w, $lang);
