@@ -1627,7 +1627,7 @@ sub commemoratio {
     || ($version =~ /(1955|1960)/ && $winner{Rank} =~ /Dominica/i)
     || ($rank >= 6 && ($dayname[0] !~ /Pasc[07]/ || $dayofweek < 2) && $item !~ /winner/i))
   {
-    return;
+    if ( $version !~ /Cistercian/i ) {return;} 
   }
   if ($hora !~ /(laudes|vespera)/i || ($rule =~ /no commemoratio/i && $item !~ /winner/i)) { return; }
   if ($hora =~ /vespera/i && $winner =~ /Sancti/i && $rank >= 5 && nooctnat()) { return; }

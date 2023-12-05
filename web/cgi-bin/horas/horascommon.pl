@@ -1313,6 +1313,10 @@ sub precedence {
     if ($hora !~ /(Vespera|Completorium)/i) {
       %winner = %{officestring($datafolder, $lang1, 'Sancti/12-24s.txt', $flag)};
       %winner2 = %{officestring($datafolder, $lang2, 'Sancti/12-24s.txt', $flag)};
+      #if ($version =~ /Cistercian/i) {
+      #  %winner = %{officestring($datafolder, $lang1, 'SanctiCist/12-24s.txt', $flag)};
+      #  %winner2 = %{officestring($datafolder, $lang2, 'SanctiCist/12-24s.txt', $flag)};
+      #  }  # Backup for Cistercian office, when it falls on Sunday
       $rule = $winner{Rule};
     } else {
       $dayname[2] = '';

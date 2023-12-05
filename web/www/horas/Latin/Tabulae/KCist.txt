@@ -212,7 +212,7 @@
 12-21=12-21=S. Thomæ Apostoli=6=
 12-24=12-24=Vigilia Nativitatis Domini=6=
 12-25=12-25=In Nativitate Domini=6=
-12-26=12-26=Die secunda infra octavam Nativitatis=5=Commemoratio S. Stephani Protomartyris
+12-26=12-26=S. Stephani Protomartyris=7=Die secunda infra octavam Nativitatis=5=
 12-27=12-27=Die tertia infra octavam Nativitatis=5=Commemoratio S. Joannis Apostoli
 12-28=12-28=Die quarta infra octavam Nativitatis=5=Commemoratio Ss. Innocentium
 12-29=12-29=Die quinta infra octavam Nativitatis=5=Commemoratio S. Thomæ Episcopi et Martyris
