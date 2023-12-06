@@ -2,3 +2,6 @@
 
 [Ant Laudes]
 Ecce in núbibus coeli * Dóminuss véniet cum potestáte magna, allelúia.
+
+[Ant 3]
+@Tempora/Adv2-1::s/véniet Rex/Rex venit/i

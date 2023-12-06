@@ -2,3 +2,6 @@
 
 [Rank]
 S. Francisci Xaverii Confessoris;;iij. Lect. et M.;;3;;vide C5
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/

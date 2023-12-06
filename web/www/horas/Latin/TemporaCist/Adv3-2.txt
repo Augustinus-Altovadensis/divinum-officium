@@ -2,3 +2,6 @@
 
 [Ant Laudes]
 Véniet Dóminuss, * et non tardábit, et illuminábit abscóndita tenebrárum, et manifestábit se ad omnes Gentes, allelúia.
+
+[Ant 2]
+@Tempora/Adv3-1

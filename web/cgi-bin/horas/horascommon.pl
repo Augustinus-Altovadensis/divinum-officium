@@ -685,7 +685,8 @@ sub getrank {
 
     # Again pre-1960, doubles of at least the II. cl. (and privileged
     # octave days) beat all Sundays in concurrence.
-    elsif ($hora =~ /(Vespera|Completorium)/i && ($tvesp != $svesp) && $srank[2] >= 5) {
+    # Cistercian: certain Sundays cannot get trumped by anything (Adv1, Quad1, Quad5 etc.)
+    elsif ($hora =~ /(Vespera|Completorium)/i && ($tvesp != $svesp) && $srank[2] >= 5 && !($version =~ /Cistercian/i && $trank[2] > 5 )) {
       $sanctoraloffice = 1;
     }
   }

@@ -8,6 +8,9 @@
 _
 @Psalterium/Major Special:AdvC Vespera:s/.*_//s
 
+[Ant 1]
+@Tempora/Adv1-6:Ant 2
+
 [Capitulum Laudes]
 @Tempora/Adv2-0
 _

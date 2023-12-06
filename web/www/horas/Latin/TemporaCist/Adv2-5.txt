@@ -2,3 +2,9 @@
 
 [Ant Laudes]
 Ecce in núbibus coeli * Dóminuss véniet cum potestáte magna, allelúia.
+
+[Ant 2]
+@Tempora/Adv2-5:Ant 3
+
+[Ant 3]
+@Tempora/Adv2-5:Ant 2

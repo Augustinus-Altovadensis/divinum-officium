@@ -1074,7 +1074,7 @@ sub psalmi_major {
   setbuild("Psalterium/Psalmi major", "Day$dayofweek $name", 'Psalmi ord');
 
   my @antiphones;
-  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
+  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/ && $version !~ /Cistercian/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
     for (my $i = 0; $i < @p1; $i++) {
       my @p2 = split(';;', $psalmi[$i]);
@@ -1818,6 +1818,8 @@ sub getcommemoratio {
     if (!$v) { $v = $w{"Versum $ind"}; } 
     if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
     if (!$v) { $v = 'versus missing'; }
+    }
+  if ( $version =~ /Cistercian/i ) {
     $v =~ s/V\. /℣\. /g ;
     $v =~ s/R\. /℟\. /g ;
     }

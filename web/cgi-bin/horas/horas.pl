@@ -973,7 +973,7 @@ sub ant_Magnificat : ScriptFunc {
   if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
     my %specials = %{setupstring($datafolder, $lang, "Psalterium/Major Special.txt")};
     $ant = $specials{"Adv Ant $day"};
-    $num = 2;
+    if ( $version !~ /Cistercian/i ) { $num = 2; }
   }
   my @ant_parts = split('\*', $ant);
   

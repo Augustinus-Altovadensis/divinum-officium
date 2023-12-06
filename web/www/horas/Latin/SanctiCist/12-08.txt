@@ -10,7 +10,9 @@ In Conceptione Immaculata Beatæ Mariæ Virginis;;Serm. maj.;;6;;ex C11
 [Capitulum Vespera]
 @Sancti/12-08:Capitulum Vespera
 _
-@Sancti/12-08:Responsory Sexta:s/._.*//s
+<font color=red>Responsorium.</font> Magníficat * ánima mea Dóminum; * Quia fecit mihi magna qui potens est, et sanctum nomen ejus. 
+℣. Ecce enim ex hoc beátam me dicent omnes generatiónes. 
+℟. Quia fecit mihi magna qui potens est: * et sanctum nomen ejus. 
 
 [Hymnus Matutinum]
 @Sancti/12-08::s/Jesu, tibi sit glória/Glória tibi Dómine/
@@ -126,4 +128,9 @@ R. Et pósuit immaculátam viam meam.
 
 [Responsory Nona]
 @Sancti/12-08:Responsory Sexta:s/.*_.//s
+
+[Capitulum Vespera 3]
+@Sancti/12-08:Capitulum Vespera
+_
+@Sancti/12-08:Responsory Sexta:s/._.*//s
 
