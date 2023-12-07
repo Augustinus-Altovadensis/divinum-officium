@@ -538,18 +538,24 @@ sub getrank {
       $vflag = 1;
 
       if ((($srank[2] >= 6 && $crank[2] < 5) || ($srank[2] >= 5 && $crank[2] < 3))
-        && $crank[0] !~ /Octav.*?(Epiph|Nativ|Corporis|Cordis|Ascensionis)/i)
-      {
+        && $crank[0] !~ /Octav.*?(Epiph|Nativ|Corporis|Cordis|Ascensionis)/i && $version !~ /Cistercian/i )
+      { # we don't want to delete Commemorations in Cistercian Office
         $crank = '';
         $cname = '';
         @crank = '';
         %csaint = undef;
-      } elsif ($srank[2] >= 5 && $crank =~ /infra octav/i) {
+      } elsif ($srank[2] >= 5 && $crank =~ /infra octav/i && $version !~ /Cistercian/i ) {
         $crank = '';
         $cname = '';
         %csaint = undef;
         @crank = '';
       }
+      #elsif ($crank[2] >= 5 && $srank[2] <= 3 && $version =~ /Cistercian/i ) {
+      #  $crank = '';
+      #  $cname = '';
+      #  %csaint = undef;
+      #  @crank = '';
+      #}  # experiment, however, we need to keep the commemoration in Cist. rite.
     }
 
     if ($tvesp == 1 && $version =~ /(1955|1960|Newcal)/) {
@@ -1136,7 +1142,7 @@ sub precedence {
       $dayname[2] = '';
     } 
     # Limit second Vesper commemoration at iij. Lect. and lower ranks
-    elsif ($vespera == $svesp && $vespera == 1 && $cvespera == 3 && $version =~ /Cistercian/i && $rank <= 3 ) {
+    elsif ($vespera == $svesp && $vespera == 1 && $cvespera == 3 && $version =~ /Cistercian/i && $crank <= 3 ) {
       $commemoratio = '';
       %commemoratio = undef;
       $dayname[2] = '';
