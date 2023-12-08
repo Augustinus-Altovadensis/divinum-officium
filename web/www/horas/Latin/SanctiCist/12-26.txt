@@ -86,10 +86,20 @@ R. Sepeliérunt Stéphanum viri timoráti, † et fecérunt planctum magnum supe
 V. Saulus autem conséntiens neci eius, devastábat Ecclésiam.
 R. Facta est persecútio magna adversus Ecclésiam, quæ erat Jerosólymis.
 
+[Ant Laudes]
+Cum autem * esset Stéphanus plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad déxteram Patris.
+Lapidábant * Judæi Stéphanum invocántem, et dicéntem: Dómine Jesu, áccipe spíritum meum.
+Adhǽsit ánima mea post te, * quia caro mea lapidáta est pro te, Deus meus.
+Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.
+Pósitis autem génibus, * clamávit voce magna dicens Stéphanus: Dómine Jesu, ne státuas illis hoc peccátum.
+
 [Capitulum Laudes]
 @Sancti/12-26
 _
 @Commune/C2:Responsory Tertia:1-6
+
+[Ant Vespera 3]
+@:Ant Laudes
 
 [Capitulum Vespera]
 @Sancti/12-26:Capitulum Laudes
