@@ -72,7 +72,7 @@ Ab illo bene + dicáris, in cujus honóre cremáberis. Amen.
 &introitus
 
 # Kyrie
-!Qua finita, junctis manibus, accedit ad medium altaris et, alternatim cum Ministris, dicit:
+!Qua finita, junctis manibus, et alternatim cum Ministris, dicit:
 S. Kýrie, eléison. 
 M. Kýrie, eléison.
 S. Kýrie, eléison.
@@ -153,7 +153,7 @@ v. Orémus.
 v. Súscipe, sancte Pater, omnípotens ætérne Deus, hanc immaculátam hóstiam, quam ego indígnus fámulus tuus óffero tibi Deo meo vivo et vero, pro innumerabílibus peccátis, et offensiónibus, et neglegéntiis meis, et pro ómnibus circumstántibus, sed et pro ómnibus fidélibus christiánis vivis atque defúnctis: ut mihi, et illis profíciat ad salútem in vitam ætérnam. Amen.
 
 !Deinde faciens crucem cum eadem Patena, deponit Hostiam super Corporale. Diaconus ministrat vinum, Subdiaconus aquam in Calice: vel si privata est Missa, utrumque infundit Sacerdos, et aquam miscendam in Calice benedicit signo crucis, dicens:
-v. Deus, qui humánæ substántiæ dignitátem mirabíliter condidísti, et mirabílius reformásti: da nobis per hujus aquæ et vini mystérium, ejus divinitátis esse consórtes, qui humanitátis nostræ fíeri dignátus est párticeps, Jesus Christus, Fílius tuus, Dóminus noster: Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus: per ómnia sǽcula sæculórum. Amen.
+v. Deus, + qui humánæ substántiæ dignitátem mirabíliter condidísti, et mirabílius reformásti: da nobis per hujus aquæ et vini mystérium, ejus divinitátis esse consórtes, qui humanitátis nostræ fíeri dignátus est párticeps, Jesus Christus, Fílius tuus, Dóminus noster: Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus: per ómnia sǽcula sæculórum. Amen.
 
 !*D 
 !In Missis Defunctorum dicitur prædicta Oratio: sed aqua non benedicitur. 
@@ -181,6 +181,7 @@ v. Accéndat in nobis Dóminus ignem sui amóris, et flammam ætérnæ caritáti
 !Sacerdos lavat manus, dicens:
 !Ps. 25, 6-12
 v. Lavábo inter innocéntes manus meas: et circúmdabo altáre tuum, Dómine: Ut áudiam vocem laudis, et enárrem univérsa mirabília tua. Dómine, diléxi decórem domus tuæ et locum habitatiónis glóriæ tuæ. Ne perdas cum ímpiis, Deus, ánimam meam, et cum viris sánguinum vitam meam: In quorum mánibus iniquitátes sunt: déxtera eórum repléta est munéribus. Ego autem in innocéntia mea ingréssus sum: rédime me et miserére mei. Pes meus stetit in dirécto: in ecclésiis benedícam te, Dómine. 
+!*nD
 &Gloria
 
 !Deinde, aliquantulum inclinatus in medio Altaris, junctis manibus super eo, dicit:
@@ -212,7 +213,7 @@ v. Sanctus, Sanctus, Sanctus Dóminus, Deus Sábaoth. Pleni sunt cæli et terra 
 
 # Canon
 !Finita præfatione, sacerdos extendens, elevans aliquantulum et iungens manus, elevansque ad cælum oculos, et statim demittens, profunde inclinatus ante Altare, manibus super eo positis, dicit :
-v. Te ígitur, clementíssime Pater, per Jesum Christum, Fílium tuum, Dóminum nostrum, súpplices rogámus, ac pétimus, (osculatur Altare et, junctis manibus ante pectus, dicit:) uti accépta hábeas et benedícas, (Signat ter super Hostiam et Calicem simul, dicens:) hæc + dona, hæc + múnera, hæc + sancta sacrifícia illibáta, (Extensis manibus prosequitur:) in primis, quæ tibi offérimus pro Ecclésia tua sancta cathólica: quam pacificáre, custodíre, adunáre et régere dignéris toto orbe terrárum: una cum fámulo tuo Papa nostro N.p et Antístite nostro N.b et ómnibus orthodóxis, atque cathólicæ et apostólicæ fídei cultóribus. 
+v. Te ígitur, clementíssime Pater, per Jesum Christum, Fílium tuum, Dóminum nostrum, súpplices rogámus, ac pétimus, (osculatur Altare et, junctis manibus ante pectus, dicit:) uti accépta hábeas et benedícas, (Signat ter super Hostiam et Calicem simul, dicens:) hæc + dona, hæc + múnera, hæc + sancta sacrifícia illibáta, (Extensis manibus prosequitur:) in primis, quæ tibi offérimus pro Ecclésia tua sancta cathólica: quam pacificáre, custodíre, adunáre et régere dignéris toto orbe terrárum: una cum fámulo tuo Papa nostro N. et Antístite nostro N. et ómnibus orthodóxis, atque cathólicæ et apostólicæ fídei cultóribus. 
 
 !Commemoratio pro vivis
 v. Meménto, Dómine, famulórum famularúmque tuarum N. et N. wait10 (Jungit manus, orat aliquantulum pro quibus orare intendit: deinde manibus extensis prosequitur:) et ómnium circumstántium, quorum tibi fides cógnita est et nota devótio, pro quibus tibi offérimus: vel qui tibi ófferunt hoc sacrifícium laudis, pro se suísque ómnibus: pro redemptióne animárum suárum, pro spe salútis et incolumitátis suæ: tibíque reddunt vota sua ætérno Deo, vivo et vero.
@@ -365,7 +366,7 @@ R. Et cum spíritu tuo.
 # Conclusio
 !Dicto, post ultimam Orationem, 
 S. Dóminus vobíscum.  
-M. Et cum spíritu tuo, 
+M. Et cum spíritu tuo. 
 !dicit pro Missæ qualitate, vel Ite, Missa est, vel Benedicámus Dómino. Deo grátias.
 !*D In Missis Defunctorum dicit:  Requiescant in pace.  Amen.
 

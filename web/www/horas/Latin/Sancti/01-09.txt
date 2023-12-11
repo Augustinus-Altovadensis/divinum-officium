@@ -1,7 +1,7 @@
 [Rank]
-Quarta die infra Octavam Epiphaniæ;;Semiduplex;;2;;ex Sancti/01-06
+Quarta die infra Octavam Epiphaniæ;;Semiduplex;;5.6;;ex Sancti/01-06
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Die Nona Januarii;;Feria;;1.2;;vide Sancti/01-06
 
 [Rule]
@@ -74,3 +74,6 @@ Vídimus stellam ejus * in Oriénte, et vénimus cum munéribus adoráre Dóminu
 
 [Ant 3]
 Interrogábat * Magos Heródes: Quod signum vidístis super natum Regem? Stellam vídimus fulgéntem, cujus splendor illúminat mundum.
+
+[Ant 1]
+@Sancti/01-08:Ant 3

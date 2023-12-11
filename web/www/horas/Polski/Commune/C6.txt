@@ -9,7 +9,7 @@ Antiphonas horas
 Ta jest Panna mądra * i jedna z roztropnych.;;109
 Ta jest Panna mądra, * którą Pan czuwającą zastał.;;112
 Ta jest, * która nie uznała łoża grzechu, będzie miała pożytek w nawiedzeniu dusz świętych.;;121
-Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluia.;;126
+Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluja.;;126
 Ta jest * piękna między córkami Jerozolimskiemi.;;147
 
 [Capitulum Vespera]
@@ -81,7 +81,7 @@ Duchu, Boże jedyny zawsze
 Po wszystek wieczności czas.
 Amen.
 
-[Hymnus Matutinum 1]
+[Hymnus Matutinum pro Virgo tantum et non Martyr]
 {:H-Virginisproles:}v. Potomku Dziewicy i Stwórco swej Matki,
 Którego Dziewica nosiła i Dziewica zrodziła;
 Dziewicy błogosławionej opiewamy święto,
@@ -101,10 +101,10 @@ Amen.
 [Ant Matutinum]
 O jak piękny * jest czysty rodzaj z jasnością.;;8
 Przed łożem * tejże Dziewicy, śpiewajmy wciąż pieśni radosne.;;18
-Nawróć się, nawróć Sulamitko: nawróć się, nawróć się, abyśmy na cię patrzyli.;;23
+Nawróć się, nawróć Sunamitko: nawróć się, nawróć się, abyśmy na cię patrzyli.;;23
 V. Z ślicznością twoją i z pięknością twoją.
 R. Nadciągnij, szczęśliwie postępuj i króluj.
-Z ślicznością twoją i z pięknością twoją nadciągnij, szczęśliwie postępuj i króluj.;;44
+Z ślicznością twoją * i z pięknością twoją nadciągnij, szczęśliwie postępuj i króluj.;;44
 Wspomoże ją * Bóg obliczem swoim: Bóg w pośrodku jej, nie będzie poruszona.;;45
 Wody mnogie * nie mogły ugasić miłości.;;47
 V. Wspomoże ją Bóg obliczem swoim.
@@ -122,9 +122,21 @@ Z Pierwszego Listu świętego Pawła Apostoła do Koryntian
 26 Mniemam tedy to być rzeczą dobrą dla teraźniejszéj potrzeby, iż dobra jest rzecz człowiekowi tak być.
 27 Przywiązanyś do żony, nie szukajże rozwiązania. Rozwiązanyś od żony, nie szukaj że żony.
 28 A jeźlibyś wziął żonę, nie zgrzeszyłeś; jeźliby też panna szła za mąż, nie zgrzeszyła. Wszakże trapienie ciała mieć będą takowi, a ja wam folguję.
-29 To tedy powiadam, bracia! czas krótki jest, to zostaje, aby i którzy żony mają, byli, jakoby nie mieli:
+29 To tedy powiadam, bracia, czas krótki jest, to zostaje, aby i którzy żony mają, byli, jakoby nie mieli:
 30 A którzy płaczą, jakoby nie płakali: a którzy się weselą, jakoby się nie weselili: a którzy kupują, jakoby nie dzierżeli:
 31 A którzy używają świata tego, jakoby nie używali; bo przemija kształt świata tego.
+
+[Responsory1 pro Martyre]
+R. Pójdź oblubienico Chrystusowa, weźmi koronę, ktorąć Pan zgotował na wieki, dla którego miłości krew twoję wylałaś, 
+* I z Anioły weszłaś do raju.
+V. Pójdź wybrana moja i położę na tobie stolicę moję, bo pożądał król urody twej.
+R. I z Anioły weszłaś do raju.
+
+[Responsory1]
+R. Pójdź wybrana moja i położę na tobie stolicę moję, 
+* Bo pożądał król urody twej.
+V. Z ślicznością twoją i z pięknością twoją nadciągnij, szczęśliwie postępuj i króluj.
+R. Bo pożądał król urody twej.
 
 [Lectio2]
 !1 Kor 7:32-35
@@ -187,7 +199,7 @@ R. Oto Oblubieniec idzie, wynijdźcie przeciwko Niemu.
 Ta jest Panna mądra * i jedna z roztropnych.;;
 Ta jest Panna mądra, * którą Pan czuwającą zastał.;;
 Ta jest, * która nie uznała łoża grzechu, będzie miała pożytek w nawiedzeniu dusz świętych.;;
-Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluia.;;
+Przyjdź wybrana moja, * a założę w tobie stolicę moją, alleluja.;;
 Ta jest * piękna między córkami Jerozolimskiemi.;;
 
 [Versum 2]
@@ -208,6 +220,10 @@ $Per Dominum
 [Lectio Prima]
 !Mdr 4:1
 v. O, jako piękny jest czysty rodzaj z jasnością! Nieśmiertelna jest bowiem pamiątka jego: gdyż i u Boga znajoma jest, i u ludzi.
+
+[Lectio Prima pro Martyre]
+!Syr 51:13-14
+v. Panie, Boże mój, wywyższyłeś na ziemi mieszkanie moje i o spłynienie od śmierci prosiłem. Wzywałem Pana, Ojca Pana mego, aby mię nie opuszczał w dzień utrapienia mego i czasu pysznych, bez pomocy.
 
 [Responsory Tertia]
 R.br. Z ślicznością twoją * I z pięknością twoją.
@@ -247,7 +263,7 @@ _
 V. Rozlała się wdzięczność po wargach twoich.
 R. Dlatego cię błogosławił Bóg na wieki.
 
-[Lectio11]
+[Lectio1 in 2 loco]
 Z Księgi Ekklezjastyka
 !Syr 51:1-7
 1 Wyznawać ci będę, Panie, Królu, i będę cię chwalił, Boga, Zbawiciela mego.
@@ -258,7 +274,7 @@ Z Księgi Ekklezjastyka
 6 od ucisku płomienia, który mię ogarnął, a w pośrzód ognia nie upaliłem się,
 7 z głębokości brzucha piekielnego i od języka splugawionego, i od słowa kłamliwego, od króla niezbornego i od języka niesprawiedliwego.
 
-[Lectio21]
+[Lectio2 in 2 loco]
 !Syr 51:8-12
 8 Będzie chwaliła aż do śmierci dusza moja Pana,
 9 a żywot mój przybliżał się na dół do piekła.
@@ -266,7 +282,7 @@ Z Księgi Ekklezjastyka
 11 Wspominałem na miłosierdzie twoje, Panie, i na sprawę twoję, które są od wieku.
 12 Bo wyrywasz czekających na cię, Panie, i wybawiasz je z rąk pogańskich.
 
-[Lectio31]
+[Lectio3 in 2 loco]
 !Syr 51:13-17
 13 Wywyższyłeś na ziemi mieszkanie moje i o spłynienie od śmierci prosiłem.
 14 Wzywałem Pana, Ojca Pana mego, aby mię nie opuszczał w dzień utrapienia mego i czasu pysznych, bez pomocy.

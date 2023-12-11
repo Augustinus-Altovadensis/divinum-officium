@@ -15,12 +15,9 @@ _
 @Tempora/Quad5-0:Lectio3:s/14-/17-/ s/14.*17/17/s
 
 [Responsory4]
-R. Deus meus, éripe me de manu peccatóris: † et de manu contra legem agéntis, et iníqui:
-* Quóniam tu es patiéntia mea.
-V. Deus meus, ne elongéris a me: † Deus meus, in auxílium meum réspice.
-R. Quóniam tu es patiéntia mea.
+@Tempora/Quad5-1:Responsory1
 &Gloria
-R. Deus meus, éripe me de manu peccatóris: † et de manu contra legem agéntis, et iníqui: * Quóniam tu es patiéntia mea.
+@Tempora/Quad5-1:Responsory1:1-2 s/\n/ /
 
 [Lectio5]
 @Tempora/Quad5-0:Lectio4
@@ -45,12 +42,9 @@ R. Deus meus, éripe me de manu peccatóris: † et de manu contra legem agénti
 @Tempora/Quad5-0:Lectio6:s/.* Beátus /Beátus /s
 
 [Responsory8]
-R. Qui custodiébant ánimam meam, consílium fecérunt in unum, dicéntes: † Deus derelíquit eum,
-* Persequímini et comprehéndite eum: quia non est qui líberet eum: † Deus meus, ne elongéris a me: Deus meus, in adiutórium meum inténde.
-V. Omnes inimíci advérsum me cogitábant mala mihi: † verbum iníquum mandavérunt advérsum me, dicéntes.
-R. Persequímini et comprehéndite eum: quia non est qui líberet eum: † Deus meus, ne elongéris a me: Deus meus, in adiutórium meum inténde.
+@Tempora/Quad5-1:Responsory2
 &Gloria
-R. Qui custodiébant ánimam meam, consílium fecérunt in unum, dicéntes: † Deus derelíquit eum, * Persequímini et comprehéndite eum: quia non est qui líberet eum: † Deus meus, ne elongéris a me: Deus meus, in adiutórium meum inténde.
+@Tempora/Quad5-1:Responsory2:1-2 s/\n/ /s
 
 [Ant Matutinum 3N]
 Ego * glóriam meam non quæro: † est qui quærat, et júdicet.

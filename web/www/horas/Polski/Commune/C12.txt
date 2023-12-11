@@ -17,7 +17,7 @@ $Oremus
 v. Wspieraj lud Twój, Panie, a w opiekę Apostołów Twoich Piotra i Pawła, oraz innych Apostołów ufający, racz otaczać ustawiczną opieką.
 v. Wszyscy Święci prosimy, Panie niech nas wspomagają, iżbyśmy rozpamiętywając i czcząc ich zasługi, doznali ich wspomożenia. Pokoju Twegi użycz czasom naszym, od Kościoła Twojego wszelką nieprawość oddal. Nasze i wszystkich sług Twoich uczynki, zamiary i sprawy, racz pokierować ku szczęśliwemu osiągnięciu zbawienia. Dobrodziejów naszych nagródź wiecznemi dobrami. Wszystkim wiernym zmarłym racz dać wieczny odpoczynyk.
 $Per Dominum
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
 
 [Pre oratio]
 
@@ -32,11 +32,10 @@ $Oremus
 #Incipit
 _
 $Ave Maria
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
 V. Nawróć nas +++ Boże, nasz zbawco.
 R. I odwróć swój gniew od nas.
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
 #Psalmi
@@ -78,7 +77,7 @@ R. Amen.
 $Pater noster
 $Ave Maria
 $Credo
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
 
 [Ant Matutinum]
 @Commune/C11::s/V\. .*/V. Rozlała się wdzięczność po wargach twoich./g s/R\. .*/R. Dlatego cię błogosławił Bóg na wieki./g
@@ -109,12 +108,7 @@ R. Porodziłaś Tego, który Cię stworzył, i na wieki Dziewicą pozostałaś.
 &teDeum
 
 [Responsory3]
-R. Szczęśliwa jesteś, święta Panno Maryjo, i wszelkiej chwały najgodniejsza:
-* Bo z Ciebie wzeszło Słońce sprawiedliwości, Chrystus, Bóg nasz.
-V. Módl się za lud, wstawiaj się za klerem, przyczyń się za niewiastami Bogu poświęconemi: niechaj doznają Twego wsparcia wszyscy, którzy obchodzą świętą uroczystość Twoją.
-R. Bo z Ciebie wzeszło Słońce sprawiedliwości
-&Gloria
-R. Chrystus, Bóg nasz
+@Commune/C11:Responsory7:s/Twoją uroczystość/Twoje wspomnienie/ s/(R. Bo z Ciebie wzeszło Słońce sprawiedliwości), (Chrystus, Bóg nasz.)/$1.\n&Gloria\nR. $2/
 
 [Ant Laudes]
 Marja wzięta jest * do Nieba, radują się Aniołowie; wychwalając błogosławią Pana.

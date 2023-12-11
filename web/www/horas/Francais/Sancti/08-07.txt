@@ -1,5 +1,5 @@
 [Rank]
-S. Cajetani Confessoris;;Duplex;;3;;vide C5
+St Gaétan de Thienne Confesseur;;Duplex;;3;;vide C5
 
 [Rule]
 vide C5 ;
@@ -9,14 +9,14 @@ vide C5 ;
 @Tempora/Pent14-0:Ant 3:s/, alleluia//
 
 [Oratio]
-Dieu, vous avez donné au bienheureux Gaétan, votre Confesseur, d’imiter le genre de vie des Apôtres : accordez-nous, par son intercession et à son exemple, de mettre toujours en vous notre confiance et de ne désirer que les biens du ciel.
+Dieu, Vous avez donné au bienheureux Gaétan, Votre Confesseur, d’imiter le genre de vie des Apôtres : accordez-nous, par son intercession et à son exemple, de mettre toujours en Vous notre confiance et de ne désirer que les biens du ciel.
 $Per Dominum.
 
 [Commemoratio 2]
 !Commemoratio S. Donati, Ep. et Mart.
 @Commune/C2:Oratio proper
 $Oremus
-v. Dieu, vous êtes la gloire de vos prêtres : faites, nous vous en prions, que nous ressentions le secours de votre saint Martyr et Évêque Donat, dont nous célébrons la fête.
+v. Dieu, Vous êtes la gloire de Vos prêtres : faites, nous Vous en prions, que nous ressentions le secours de Votre saint Martyr et Évêque Donat, dont nous célébrons la fête.
 $Per Dominum
 
 [Lectio4]
@@ -34,7 +34,7 @@ Lecture du saint Évangile selon saint Matthieu
 En ce temps-là : Jésus dit à ses disciples : Nul ne peut servir deux maîtres. Et le reste.
 _
 Homélie de saint Augustin, Évêque
-!Liber 2 de Sermóne Dómini in monte, cap. 14
+!Livre 2 du Sermon du Seigneur sur la montagne. Chapitre 14.
 « Nul ne peut servir deux maîtres ». A cette même intention (bonne ou mauvaise ), se rapporte ce que notre Seigneur expose en conséquence de son assertion, disant : « Ou il haïra l’un et il aimera l’autre, ou il s’attachera à l’un et méprisera l’autre ». Il faut examiner attentivement ce passage ; le Seigneur lui-même indique quels sont ces deux maîtres, en ajoutant : « Vous ne pouvez servir Dieu et mammon ». Les Hébreux donnent, dit-on, aux richesses, le nom de mammon. En langue punique, ce mot a le même sens ; car mammon signifie gain.
 
 [Lectio8]

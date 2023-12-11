@@ -1,14 +1,17 @@
 [Rank]
 Dominica Infra Octavam Nativitatis;;Semiduplex;;5;;ex Sancti/12-25
 
-[Rank1960]
+[Rank] (rubrica tridentina)
+Dominica Infra Octavam Nativitatis;;Semiduplex;;2.93;;ex Sancti/12-25
+
+[Rank] (rubrica 1960)
 Dominica Infra Octavam Nativitatis;;Semiduplex;;5.5;;ex Sancti/12-25
 
 [Rule]
 9 lectiones
 ex Sancti/12-25 
-Lectio1 Sancti
 Psalmi Dominica
+Lectio1 OctNat
 
 [Ant Vespera]
 @Sancti/12-25:Ant Vespera 3
@@ -32,7 +35,16 @@ $Qui tecum
 [Commemoratio] (rubrica divino)
 @Sancti/12-25:Octava
 
+[Commemoratio 3] (rubrica divino)
+@Sancti/12-25:Octava
+
 [Commemoratio] (rubrica tridentina)
+@Sancti/12-25:Octava
+@Sancti/12-26:Octava
+@Sancti/12-27:Octava
+@Sancti/12-28:Octava
+
+[Commemoratio 3] (rubrica tridentina)
 @Sancti/12-25:Octava
 @Sancti/12-26:Octava
 @Sancti/12-27:Octava
@@ -87,7 +99,7 @@ R. Jacet in præsépio, et in cælis regnat.
 R. Jacet in præsépio, et in cælis regnat.
 
 [Lectio9]
-Prophetávit itaque Simeon, prophetáverat virgo, prophetáverat copuláta conjugio; prophétare debuit étiam vidua, ne qua aut proféssio deésset, aut sexus. Et ideo Anna et stipendiis viduitátis, et móribus talis inducitur, ut digna plane fuísse credátur, quæ Redemptórem ómnium venisse nuntiáret. Cujus merita cum álibi descripsérimus, cum viduas hortarémur, hoc loco, quóniam ad alia properamus, non putámus iteránda.
+Prophetávit ítaque Simeon, prophetáverat virgo, prophetáverat copuláta conjugio; prophétare debuit étiam vidua, ne qua aut proféssio deésset, aut sexus. Et ideo Anna et stipendiis viduitátis, et móribus talis inducitur, ut digna plane fuísse credátur, quæ Redemptórem ómnium venisse nuntiáret. Cujus merita cum álibi descripsérimus, cum viduas hortarémur, hoc loco, quóniam ad alia properamus, non putámus iteránda.
 &teDeum
 
 [Capitulum Laudes]

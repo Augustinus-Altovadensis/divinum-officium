@@ -1,8 +1,8 @@
 [Rank]
-Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;2
+Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;2.1
 
 [Rank](rubrica 1960)
-Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;3
+Feria Secunda infra Hebdomadam II in Quadragesima;;Feria major;;4.9
 
 [Rule]
 no Gloria
@@ -18,7 +18,7 @@ Júdica me, Dómine, quóniam ego in innocéntia mea ingréssus sum: et in Dómi
 v. Rédime me, Dómine, et miserére mei: pes enim meus stetit in via recta: in ecclésiis benedícam Dóminum.
 
 [Oratio]
- Præsta, quǽsumus, omnípotens Deus: ut fámilia tua, quæ se, affligéndo carnem, ab aliméntis ábstinet: sectándo justítiam, a culpa jejúnet.
+ Præsta, quǽsumus, omnípotens Deus: ut família tua, quæ se, affligéndo carnem, ab aliméntis ábstinet: sectándo justítiam, a culpa jejúnet.
 $Per Dominum
 
 [Lectio]

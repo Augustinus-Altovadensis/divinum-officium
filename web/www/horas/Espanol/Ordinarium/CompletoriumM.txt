@@ -19,7 +19,6 @@ $Indulgentiam
 V. Conviértenos, +++ oh Dios, Salvador nuestro.
 R. Cesa en tu rencor contra nosotros.
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
 &psalm(4)
@@ -28,22 +27,7 @@ $Deus in adjutorium
 
 &psalm(133)
 
-#Hymnus {:H-Completorium:}
-v. Antes que la luz se oscurezca,
-te suplicamos, oh Creador del universo,
-que con tu clemencia
-nos protejas y nos guardes.
-_
-Aleja de nosotros los sueños
-y los nocturnos fantasmas;
-refrena a nuestro enemigo;
-conserva castos nuestros cuerpos.
-_
-* Concédenoslo, oh Padre misericordiosísimo,
-y Tú, el Unigénito igual al Padre,
-que, con el Espíritu consolador,
-vives y reinas por todos los siglos.
-Amén.
+#Hymnus
 
 #Capitulum Responsorium Versus
 !Jer 14:9
@@ -52,11 +36,9 @@ R. Demos gracias a Dios.
 _
 V. Guárdanos, Señor, como a las niñas de tus ojos.
 R. A la sombra de tus alas, escóndenos.
-_
-v. Señor, ten piedad. Cristo, ten piedad. Señor, ten piedad.
-&pater_noster
 
 #Oratio
+$MLitany2
 &Dominus_vobiscum
 $Oremus
 v. Visita, Señor, esta habitación: aleja de ella las insidias del enemigo; que tus ángeles santos habiten en ella y nos guarden en paz.
@@ -67,6 +49,6 @@ $Per Dominum
 &Benedicamus_Domino
 Benedictio. Que nos bendiga y nos guarde el Señor omnipotente y misericordioso, Padre, Hijo y Espíritu Santo.
 R. Amen.
-_
+
 &antiphona_finalis
 &Divinum_auxilium

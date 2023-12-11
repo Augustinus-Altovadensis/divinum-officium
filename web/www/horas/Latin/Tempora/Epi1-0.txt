@@ -1,5 +1,5 @@
 [Rank]
-Sanctæ Familiæ Jesu Mariæ Joseph;;Duplex majus;;4
+Sanctæ Familiæ Jesu Mariæ Joseph;;Duplex majus;;5.61
 (sed rubrica 1960)
 Sanctæ Familiæ Jesu Mariæ Joseph;;Duplex II classis;;5
 
@@ -11,7 +11,7 @@ No Sunday Commemoratio
 
 [Ant Vespera]
 Jacob autem * génuit Joseph virum Maríæ; de qua natus est Jesus, qui vocátur Christus.;;109
-Angelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam conjúgem tuam; quod enim in ea natum est, de Spíritu Sancto est.;;112
+Angelus Dómini * appáruit in somnis Joseph, dicens: Joseph, fili David, noli timére accípere Maríam cónjugem tuam; quod enim in ea natum est, de Spíritu Sancto est.;;112
 Pastóres venérunt * festinántes, et invenérunt Maríam, et Joseph, et Infántem pósitum in præsépio.;;121
 Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.;;126
 Erat Pater ejus * et Mater mirántes super his quæ dicebántur de illo.;;147
@@ -76,7 +76,7 @@ R. In sǽcula sæculórum laudábunt te.
 Verbum caro * factum est, et habitávit in nobis, plenum grátiæ et veritátis; de cujus plenitúdine omnes nos accépimus, et grátiam pro grátia, allelúja.
 
 [Oratio]
-Dómine Iesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum:
+Dómine Jesu Christe, qui, Maríæ et Joseph súbditus, domésticam vitam ineffabílibus virtútibus consecrásti: fac nos, utriúsque auxílio, Famíliæ sanctæ tuæ exémplis ínstrui; et consórtium cónsequi sempitérnum:
 $Qui vivis
 
 [Invit]
@@ -218,7 +218,7 @@ V. Pauper sum ego, et in labóribus a juventúte mea.
 R. Fílius autem hóminis non habet ubi caput reclínet.
 
 [Lectio6]
-Quibus e rebus jure meritóque apud cathólicos Sacræ Famíliæ cultus matúre invéctus, majus in dies síngulos increméntum capit. Id quidem probant tum christianórum sodalitátes sub invocatióne Sacræ Famíliæ institútæ, tum singuláres honóres ei rédditi, tum potíssimum a decessóribus Nostris ad excitándum erga eam pietátis stúdium impertíta privilégia et grátiæ. Hujúsmodi cultus magno in honóre hábitus est jam inde a sǽculo décimo séptimo, latéque per Itáliam, Gálliam et Bélgium propagátus, totam fere Európam pervásit: deínde prætergréssus vastos Océani tractus, in Ameríca per Canadénsem regiónem, sese exténdit, faustísque efflóruit auspíciis. Síquidem nihil magis salutáre aut éfficax famíliis christiánis cogitári potest exémplo Sacræ Famíliæ, quæ perfectiónem absolutionémque compléctitur ómnium virtútum domesticárum. Sic imploráti inter domésticos paríetes adsint propítii Jesus, María et Joseph, caritátem alant, mores regant, ad virtútem próvocent imitatióne sui, et quæ úndique instant mortáles ærúmnæ, eas leniéndo fáciant tolerabilióres. - Ad cultum vero Sacræ Famíliæ augéndum Leo Papa décimus tértius christiánas famílias eídem Sacræ Famíliæ consecrári præscrípsit: Benedíctus autem décimus quintus Offícium et Missam ad univérsam Ecclésiam exténdit.
+Quibus e rebus jure meritóque apud cathólicos Sacræ Famíliæ cultus matúre invéctus, majus in dies síngulos increméntum capit. Id quidem probant tum christianórum sodalitátes sub invocatióne Sacræ Famíliæ institútæ, tum singuláres honóres ei rédditi, tum potíssimum a decessóribus Nostris ad excitándum erga eam pietátis stúdium impertíta privilégia et grátiæ. Hujúsmodi cultus magno in honóre hábitus est jam inde a sǽculo décimo séptimo, latéque per Itáliam, Gálliam et Bélgium propagátus, totam fere Európam pervásit: deínde prætergréssus vastos Océani tractus, in América per Canadénsem regiónem, sese exténdit, faustísque efflóruit auspíciis. Síquidem nihil magis salutáre aut éfficax famíliis christiánis cogitári potest exémplo Sacræ Famíliæ, quæ perfectiónem absolutionémque compléctitur ómnium virtútum domesticárum. Sic imploráti inter domésticos paríetes adsint propítii Jesus, María et Joseph, caritátem alant, mores regant, ad virtútem próvocent imitatióne sui, et quæ úndique instant mortáles ærúmnæ, eas leniéndo fáciant tolerabilióres. - Ad cultum vero Sacræ Famíliæ augéndum Leo Papa décimus tértius christiánas famílias eídem Sacræ Famíliæ consecrári præscrípsit: Benedíctus autem décimus quintus Offícium et Missam ad univérsam Ecclésiam exténdit.
 
 [Responsory6]
 R. Cum in forma Dei esset, semetípsum exinanívit, 
@@ -247,7 +247,7 @@ R. Deus Israël Salvátor.
 Disce, homo, obedíre; disce, terra, subdi; disce, pulvis, obtemperáre. De auctóre tuo loquens Evangelísta. Et erat, inquit, súbditus illis; haud dúbium, quin Maríæ et Joseph. Erubésce, supérbe cinis! Deus se humíliat, et tu te exáltas? Deus se homínibus subdit, et tu, dominári géstiens homínibus, tuo te præpónis auctóri? Utinam mihi, aliquándo tale áliquid cogitánti, Deus respondére dignétur quod et suo increpándo respóndit Apóstolo: Vade, inquit, post me, sátana, quia non sapis ea quæ Dei sunt. Quóties enim homínibus præésse desídero, tóties Deum præíre conténdo; et tunc vere non sápio ea quæ Dei sunt. De ipso namque dictum est: Et erat súbditus illis. Si hóminis, o homo, imitári dedignáris exémplum, certe non erit tibi indígnum sequi auctórem tuum. Si non potes fórsitan sequi eum quocúmque íerit, dignáre vel sequi quo tibi condescéndit.
 
 [Responsory8]
-R. Sicut per inobediéntiam uníus hóminis peccatóres constítui sunt multi: 
+R. Sicut per inobediéntiam uníus hóminis peccatóres constitúti sunt multi: 
 * Ita et per uníus obeditiónem justi constituéntur multi.
 V. Venit Názareth et erat súbditus illis.
 R. Ita et per uníus obeditiónem justi constituéntur multi.
@@ -337,7 +337,7 @@ R. Et ambulábimus in sémitis ejus.
 
 [Capitulum Sexta]
 !Rom 5:19
-v. Sicut per inobediéntiam uníus hóminis peccatóres constítui sunt multi, ita et per uníus obeditiónem justi constituéntur multi.
+v. Sicut per inobediéntiam uníus hóminis peccatóres constitúti sunt multi, ita et per uníus obeditiónem justi constituéntur multi.
 $Deo gratias
 
 [Responsory Sexta]

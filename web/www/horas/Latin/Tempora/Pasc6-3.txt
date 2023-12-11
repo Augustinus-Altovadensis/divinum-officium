@@ -1,7 +1,10 @@
 [Rank]
+Feria IV infra Octavam Ascensionis;;Semiduplex;;2.1;;ex Tempora/Pasc5-4
+
+[Rank] (rubrica tridentina)
 Feria IV infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Feria IV post Ascensionem;;Feria;;1;;vide Tempora/Pasc5-4
 
 [Rule]
@@ -13,9 +16,9 @@ Feria Te Deum
 [Lectio1]
 Incipit Epístola secúnda beáti Joánnis Apóstoli
 !2 Joannes 1:1-5
-1 Sénior Eléctæ dóminæ, et natis eius, quos ego díligo in veritáte, et non ego solus, sed et omnes qui cognovérunt veritátem,
+1 Sénior Eléctæ dóminæ, et natis ejus, quos ego díligo in veritáte, et non ego solus, sed et omnes qui cognovérunt veritátem,
 2 propter veritátem, quæ pérmanet in nobis, et nobíscum erit in ætérnum.
-3 Sit vobíscum grátia, misericórdia, pax a Deo Patre, et a Christo Iesu Fílio Patris in veritáte, et caritáte.
+3 Sit vobíscum grátia, misericórdia, pax a Deo Patre, et a Christo Jesu Fílio Patris in veritáte, et caritáte.
 4 Gavísus sum valde, quóniam invéni de fíliis tuis ambulántes in veritáte, sicut mandátum accépimus a Patre.
 5 Et nunc rogo te dómina, non tamquam mandátum novum scribens tibi, sed quod habúimus ab inítio, ut diligámus altérutrum.
 
@@ -24,8 +27,8 @@ Incipit Epístola secúnda beáti Joánnis Apóstoli
 
 [Lectio2]
 !2 Joannes 1:6-9
-6 Et hæc est cáritas, ut ambulémus secúndum mandáta eius. Hoc est enim mandátum, ut quemádmodum audístis ab inítio, in eo ambulétis.
-7 Quóniam multi seductóres exiérunt in mundum, qui non confiténtur Iesum Christum venísse in carnem: hic est sedúctor, et Antichrístus.
+6 Et hæc est cáritas, ut ambulémus secúndum mandáta ejus. Hoc est enim mandátum, ut quemádmodum audístis ab inítio, in eo ambulétis.
+7 Quóniam multi seductóres exiérunt in mundum, qui non confiténtur Jesum Christum venísse in carnem: hic est sedúctor, et Antichrístus.
 8 Vidéte vosmetípsos, ne perdátis quæ operáti estis: sed ut mercédem plenam accipiátis.
 9 Omnis qui recédit, et non pérmanet in doctrína Christi, Deum non habet: qui pérmanet in doctrína, hic et Patrem et Fílium habet.
 
@@ -35,7 +38,7 @@ Incipit Epístola secúnda beáti Joánnis Apóstoli
 [Lectio3]
 !2 Joannes 1:10-13
 10 Si quis venit ad vos, et hanc doctrínam non affert, nolíte recípere eum in domum, nec Ave ei dixéritis.
-11 Qui enim dicit illi Ave, commúnicat opéribus eius malígnis.
+11 Qui enim dicit illi Ave, commúnicat opéribus ejus malígnis.
 12 Plura habens vobis scríbere, nólui per cartam et atraméntum: spero enim me futúrum apud vos, et os ad os loqui: ut gáudium vestrum plenum sit.
 13 Salútant te fílii soróris tuæ Eléctæ.
 

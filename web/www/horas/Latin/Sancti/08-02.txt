@@ -8,12 +8,10 @@ Alfónse María
 vide C4a;mtv
 9 lectiones
 CPapaM=Stéphanum;
+(sed rubrica tridentina) CPapaM=Stéphani;
 
 [Oratio]
-Deus, qui per beátum Alfónsum Maríam Confessórem tuum atque Pontíficem, animárum~
-zelo succénsum, Ecclésiam tuam nova prole fecundásti: quǽsumus; ut, ejus~
-salutáribus mónitis edócti et exémplis roboráti, ad te perveníre felíciter~
-valeámus.
+Deus, qui per beátum Alfónsum Maríam Confessórem tuum atque Pontíficem, animárum zelo succénsum, Ecclésiam tuam nova prole fecundásti: quǽsumus; ut, ejus salutáribus mónitis edócti et exémplis roboráti, ad te perveníre felíciter valeámus.
 $Per Dominum.
 
 [Commemoratio]
@@ -31,7 +29,7 @@ Ab ecclesiásticis dignitátibus sibi oblátis constantíssime abhorruit; at, Cl
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Lucam
-!Luc 16:13-19
+!Luc 10:1-9
 In illo témpore: Designávit Dóminus et alios septuagínta duos: et misit illos binos ante fáciem suam, in omnem civitátem et locum, quo erat ipse venturus. Et réliqua.
 _
 Homilía sancti Gregórii Papæ

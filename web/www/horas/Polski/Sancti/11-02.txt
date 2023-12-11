@@ -43,6 +43,15 @@ $Indulgentiam
 
 &special('Conclusio', 'Latin')
 
+
+[Oratio mortuorum2]
+@Commune/C9:Oratio_a_porta:s/&psalm.*\)//s
+&Dominus_vobiscum2
+_
+$Oremus
+v. Wylewamy, Panie, pokorne prośby za dusze wszystkich Twoich sług i służebnic; abyś łaskawie odpuścił, cokolwiek zawinili w ludzkim postępowaniu, i dobrotliwie uczynił kres ich karom.
+$Per Dominum
+
 [Conclusio]
 &Gloria
 V. Niech odpoczywają w pokoju.
@@ -88,7 +97,7 @@ Z Pierwszego Listu Świętego Pawła Apostoła do Koryntian
 [Lectio8]
 !1 Kor 15:35-44
 35 Ale kto rzecze: Jakoż zmartwycbwstają umarli? a w jakiem ciele przyjdą?
-36 Głupi! co ty siejesz, nie bywa ożywiono, jeźli pierwéj nie obumrze.
+36 Głupi, co ty siejesz, nie bywa ożywiono, jeźli pierwéj nie obumrze.
 37 I co siejesz, nie siejesz ciała, które ma być, ale gołe ziarno, jako na przykład, pszeniczne albo z inszych które.
 38 A Bóg daje mu ciało jako chce, a każdemu nasieniu własne ciało.
 39 Nie każde ciało tóż ciało; ale insze ludzkie, insze bydlęce, insze ptasze, insze rybie.
@@ -101,13 +110,13 @@ Z Pierwszego Listu Świętego Pawła Apostoła do Koryntian
 [Lectio9]
 !1 Kor 15:51-58
 51 Oto tajemnicę wam powiadam: Wszyscy wprawdzie zmartwycbwstaniemy, ale nie wszyscy odmienieni będziemy,
-52 Prędziuchno we mgnieniu oka, na trąbę ostateczną; (albowiem zatrąbi trąba), a umarli powstaną nieskażonymi, a my będziemy przemienieni.
+52 prędziuchno we mgnieniu oka, na trąbę ostateczną; (albowiem zatrąbi trąba), a umarli powstaną nieskażonymi, a my będziemy przemienieni.
 53 Boć musi to skazitelne przyoblec nieskazitelność: i to śmiertelne przyoblec nieśmiertelność.
 54 A gdy to śmiertelne przyoblecze nieśmiertelność, tedy się stanie mowa, która jest napisana: Pożarta jest śmierć w zwycięstwie.
-55 Gdzie jest zwycięstwo twe, o śmierci? Gdzież jest, śmierci! oścień twój?
+55 Gdzie jest zwycięstwo twe, o śmierci? Gdzież jest, śmierci, oścień twój?
 56 A oścień śmierci jest grzech, a moc grzechu zakon.
 57 Lecz dzięka Bogu, który nam dał zwycięstwo przez Pana naszego Jezusa Chrystusa.
-58 A tak, bracia moi mili! bądźcie stateczni a nieporuszeni, obfitując w robocie Pańskiéj zawsze, wiedząc, iż praca wasza nie jest próżna w Panu.
+58 A tak, bracia moi mili, bądźcie stateczni a nieporuszeni, obfitując w robocie Pańskiéj zawsze, wiedząc, iż praca wasza nie jest próżna w Panu.
 
 [Special Prima]
 &special('Initial', 'Polski')
@@ -128,7 +137,7 @@ V. W wiecznéj pamiątce będzie sprawiedliwy.
 R. Nie będzie się bał posłuchu złego.
 _
 $Oremus
-Boże, Dawco przebaczenia i zbawienia ludzkiego miłośniku: błagamy łaskawości Twojej, abyś duszom sług i służebnic Twoich, które z tego świata zeszły, za wstawieniem się błogosławionej Marji, zawsze Panny i wszystkich Świętych Twoich, do uczestnictwa w wiecznej szczęśliwości dojść dozwolił. Przez Chrystusa Pana naszego.
+Boże, dawco przebaczenia i zbawienia ludzkiego miłośniku: błagamy łaskawości Twojej, abyś duszom sług i służebnic Twoich, które z tego świata zeszły, za wstawieniem się błogosławionej Marji, zawsze Panny i wszystkich Świętych Twoich, do uczestnictwa w wiecznej szczęśliwości dojść dozwolił. Przez Chrystusa Pana naszego.
 R. Amen
 
 &special('Conclusio', 'Polski')

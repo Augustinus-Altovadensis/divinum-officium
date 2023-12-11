@@ -23,10 +23,29 @@ v. Quando orábas cum lácrimis, et sepeliébas mórtuos, et derelinquébas prá
 $Deo gratias
 
 [Hymnus Vespera]
-@Sancti/05-08:Hymnus Laudes:s/Angelus pacis.*?_//s s/Angelus fortis.*?_//s
+v. Christe, sanctórum decus Angelórum,
+Gentis humánæ Sator et Redémptor,
+Cǽlitum nobis tríbuas beátas
+Scándere sedes.
+_
+Angelus nostræ médicus salútis,
+Adsit e cælo Ráphaël, ut omnes
+Sanet ægrótos, dubiósque vitæ
+Dírigat actus.
+_
+Virgo dux pacis Genetríxque lucis,
+Et sacer nobis chorus Angelórum
+Semper assístat, simul et micántis
+Régia cæli.
+_
+Præstet hoc nobis Déitas beáta
+Patris, ac Nati, paritérque Sancti
+Spíritus, cujus résonat per omnem
+Glória mundum.
+Amen.
 
 [Ant 1]
-Ego sum Ráphaël Angelus, * qui asto ante Dóminum: vos autem benedícite Deum, et narráte ómnia mirabília eius, allelúja.
+Ego sum Ráphaël Angelus, * qui asto ante Dóminum: vos autem benedícite Deum, et narráte ómnia mirabília ejus, allelúja.
 
 [Oratio]
 Deus, qui beátum Raphaélem Archángelum Tobíæ fámulo tuo cómitem dedísti in via: concéde nobis fámulis tuis; ut eiúsdem semper protegámur custódia et muniámur auxílio.
@@ -161,7 +180,7 @@ V. Ipsum benedícite, et cantáte illi, et narráte ómnia mirabília ejus.
 R. Quia fecit vobíscum misericórdiam suam.
 
 [Lectio8]
-Sed ad propositum jam redeamus. Primo itaque, ut diximus, córporum maculas, deínde varias infirmitátes per aquam solvi curat. Ut enim nos Deus ad baptismi grátiam propius reduceret, non jam maculas solum, sed et morbos sanat. Imagines enim quæ propius ad veritátem accedunt, et in baptismate, et in passióne, et in aliis magis conspicuæ sunt quam vetustiores. Quemádmodum enim qui prope regem sunt satéllites, remotióribus sunt honoratiores; ita et in figuris factum est. Et Angelus descéndens turbábat aquam, et snándi vim indebat ipsi, ut discerent Judæi, Angelórum Dóminum multo magis posse ánimæ morbos omnes curare. Sed, quemádmodum hic aquárum natúra non simpliciter curábat (alioquin enim semper id fáceret), sed Angeli operatióne id fiebat; sic in nobis non aqua simpliciter operátur, sed, postquam Spíritus grátiam accéperit, tunc ómnia solvit peccáta.
+Sed ad propositum jam redeamus. Primo ítaque, ut diximus, córporum maculas, deínde varias infirmitátes per aquam solvi curat. Ut enim nos Deus ad baptismi grátiam propius reduceret, non jam maculas solum, sed et morbos sanat. Imagines enim quæ propius ad veritátem accedunt, et in baptismate, et in passióne, et in aliis magis conspicuæ sunt quam vetustiores. Quemádmodum enim qui prope regem sunt satéllites, remotióribus sunt honoratiores; ita et in figuris factum est. Et Angelus descéndens turbábat aquam, et snándi vim indebat ipsi, ut discerent Judæi, Angelórum Dóminum multo magis posse ánimæ morbos omnes curare. Sed, quemádmodum hic aquárum natúra non simpliciter curábat (alioquin enim semper id fáceret), sed Angeli operatióne id fiebat; sic in nobis non aqua simpliciter operátur, sed, postquam Spíritus grátiam accéperit, tunc ómnia solvit peccáta.
 
 [Responsory8]
 R. Tempus est ut revértar ad eum, qui me misit, dixit Angelus Ráphaël; 

@@ -1,11 +1,11 @@
 [Rank]
-Septem Dolorum Beatæ Mariæ Virginis;;Duplex 2nd class;;5.1;;ex C11
+Les sept douleurs de la Bienheureuse Vierge Marie;;Duplex 2nd class;;5.1;;ex C11
 
 [Rank1960]
-Septem Dolorum Beatæ Mariæ Virginis;;Duplex 2nd class;;5;;ex C11
+Les sept douleurs de la Bienheureuse Vierge Marie;;Duplex 2nd class;;5;;ex C11
 
 [RankNewcal]
-Septem Dolorum Beatæ Mariæ Virginis;;Duplex;;3;;ex C11
+Les sept douleurs de la Bienheureuse Vierge Marie;;Duplex;;3;;ex C11
 
 [Rule]
 ex C11 ;
@@ -22,7 +22,7 @@ Soutenez-moi avec des fleurs, * fortifiez-moi avec des fruits ; car je languis d
 
 [Capitulum Vespera]
 !Lam 2:13
-v. A qui te comparer ? ou bien à qui t’assimiler, fille de Jérusalem ? A qui t’égaler pour te consoler, vierge fille de Sion ? Grande est comme la mer, la douleur qui te broie.
+v. A qui te comparer ? Ou bien à qui t’assimiler, fille de Jérusalem ? A qui t’égaler pour te consoler, vierge fille de Sion ? Grande est comme la mer, la douleur qui te broie.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -39,9 +39,9 @@ _
 Votre Fils, suspendu à la croix sous vos yeux,
 Votre Fils, déchiré sous les coups des barbares,
 Votre Fils, tout meurtri de blessures béantes,
-Ah ! de quelles douleurs il transperce votre âme !
+Ah ! De quelles douleurs il transperce votre âme !
 _
-Hélas ! les crachats, les soufflets, les blessures et les coups,
+Hélas ! Les crachats, les soufflets, les blessures et les coups,
 Les clous, le fiel, le vinaigre, l'éponge et la lance
 Les épines, la soif, le sang tour à tour,
 Accablèrent votre âme d'angoisse.
@@ -191,7 +191,7 @@ Lecture du saint Évangile selon saint Jean.
 En ce temps-là : Étaient debout près de la croix de Jésus, sa mère, et la sœur de sa mère, Marie, femme de Cléophas, et Marie-Madeleine. Et le reste.
 _
 Homélie de saint Ambroise, Évêque.
-!De Instit. Virg. cap. 7
+!De la formation des Vierges, chap. 7
 La Mère de Jésus était debout près de la croix ; et quand les hommes s’enfuyaient, elle restait là, intrépide. Voyez si la Mère de Jésus a pu devenir timide, n’ayant point changé de sentiments ? Ses yeux pleins de tendresse contemplaient les blessures de son Fils, qu’elle savait être la rédemption de tous. Elle n’était pas indigne d’assister à ce spectacle, cette Mère qui n’aurait pas craint pour sa propre vie. Le Fils était suspendu en croix, la Mère s’offrait aux bourreaux.
 
 [Responsory7]
@@ -201,7 +201,7 @@ V. Prêtez attention et voyez s’il est une douleur comme ma douleur.
 R. Quand Joseph enveloppa votre Fils du suaire et le déposa dans le sépulcre ?
 
 [Lectio8]
-!Epist. 25 ad Ecclésiam Vercellensem, prope finem
+!Lettre 25 à l'Eglise de Vercelles, vers la fin.
 En face de la croix de son Fils, Marie, la Mère du Seigneur, se tenait debout. De tous les Évangélistes, saint Jean est le seul à m’apprendre ce détail. Les autres nous ont raconté comment, durant la passion, la terre avait tremblé, le ciel s’était couvert de nuages, le larron avait obtenu le paradis après l’humble aveu de ses fautes. Mais Jean m’a enseigné ce que je ne trouve dans nul autre : la manière dont le Sauveur crucifié adressa la parole à Marie. Il semble attacher plus d’importance aux pieux devoirs que Jésus, vainqueur des supplices, rendait à sa Mère, qu’à la promesse même du royaume des cieux. Le pardon que reçut le larron doit, il est vrai, exciter notre piété, mais il y a encore une douceur plus abondante à contempler le Christ honorant sa Mère d’une si grande affection.
 
 [Responsory8]
@@ -216,9 +216,6 @@ R. Afin que, dans leur plénitude, vous receviez miséricorde et bénédiction.
 « Voici, dit-il, ton fils ; voici ta mère. » Le Christ, du haut de la croix, faisait son testament ; il partageait entre sa mère et son disciple les devoirs de la piété. Le Seigneur établissait non seulement un testament général1, mais encore un testament dans sa propre famille et, ce testament, Jean le signait en digne témoin d’un tel testateur. Testament excellent, où il s’agit non d’argent, mais de vie éternelle ; testament écrit non avec de l’encre, mais par l’Esprit du Dieu vivant, qui dit : « Ma langue est celle d’un écrivain qui écrit avec rapidité. »
 &teDeum
 
-[Lectio93]
-@Sancti/09-15t :Lectio93
-
 [Ant Laudes]
 @:Ant Vespera :s/;;.*//g
 
@@ -231,7 +228,7 @@ Faites que nous méditions avec amour,
 Les sept douleurs de la Vierge Marie
 Et les plaies de son Fils Jésus.
 _
-Ah ! qu'elles nous procurent le salut,
+Ah ! Qu'elles nous procurent le salut,
 Ces larmes si abondantes de la Mère de Dieu,
 Ces larmes qui seules pouvaient suffire
 A effacer les crimes du monde entier.
@@ -241,7 +238,11 @@ Des cinq plaies de Jésus,
 Que les douleurs de la Vierge
 Soient pour nous tous le gage des joies éternelles.
 _
-@Tempora/Quad5-5:Doxology
+Jésus, à Vous soit la gloire, 
+Vous qui avez souffert pour Vos humbles serviteurs, 
+Ainsi qu’au Père et à l’Esprit divin, 
+Dans les siècles des siècles.
+Amen.
 
 [Versum 2]
 V. Vierge Marie, par la vertu de tant de douleurs.
@@ -251,15 +252,8 @@ R. Faites-nous nous réjouir dans le royaume des cieux.
 Venez, * montons à la montagne du Seigneur et voyez s’il est douleur comparable à ma douleur.
 
 [Oratio]
-O Dieu, dans la passion Duquel, suivant la prophétie de Siméon, un glaive de douleur a percé le cœur très doux de la glorieuse Vierge Marie, votre Mère, faites, dans Votre miséricorde, que célébrant avec respect le souvenir de ses douleurs, nous recueillions les heureux fruits de Votre passion.
+O Dieu, dans la passion Duquel, suivant la prophétie de Siméon, un glaive de douleur a percé le cœur très doux de la glorieuse Vierge Marie, Votre Mère, faites, dans Votre miséricorde, que célébrant avec respect le souvenir de ses douleurs, nous recueillions les heureux fruits de Votre passion.
 $Qui vivis
-
-[Commemoratio]
-!Commémoraison de St Nicomède, Martyr :
-@Commune/C2:Oratio proper
-$Oremus
-v. Montrez-vous favorable à votre peuple, Seigneur, afin que, célébrant les mérites si glorieux de votre bienheureux Martyr Nicomède, il soit toujours aidé de ses prières pour obtenir vos miséricordes.
-$Per Dominum
 
 [Versum Prima]
 @Tempora/Quad5-5

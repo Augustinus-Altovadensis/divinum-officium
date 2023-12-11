@@ -1,7 +1,10 @@
 [Rank]
 In Annuntiatione Beatæ Mariæ Virginis;;Duplex I classis;;6.5;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1570 aut rubrica 1888)
+In Annuntiatione Beatæ Mariæ Virginis;;Duplex II classis;;5;;ex C11
+
+[Rank] (rubrica 1960)
 In Annuntiatione Beatæ Mariæ Virginis;;Duplex I classis;;6;;ex C11
 
 [Rule]
@@ -46,7 +49,7 @@ De Isaía Prophéta
 @Tempora/Adv1-6:Lectio3
 
 [Responsory1]
-R. Missus est Gabriel Angelus ad Maríam Vírginem desponsátam Joseph, núntians ei verbum; et expavéscit Virgo de lúmine: ne tímeas, María, invenísti grátiam apud Dóminum: 
+R. Missus est Gábriel Angelus ad Maríam Vírginem desponsátam Joseph, núntians ei verbum; et expavéscit Virgo de lúmine: ne tímeas, María, invenísti grátiam apud Dóminum: 
 * Ecce concípies et páries, et vocábitur Altíssimi Fílius. (Allelúja.) 
 V. Dabit ei Dóminus Deus sedem David, patris ejus, et regnábit in domo Jacob in ætérnum.
 R. Ecce concípies et páries, et vocábitur Altíssimi Fílius. (Allelúja.) 
@@ -66,12 +69,12 @@ V. Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Angelus, di
 R. Spíritus Sanctus supervéniet in te, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur Sanctum, vocábitur Fílius Dei. (Allelúja.) 
 
 [Lectio3]
-@Tempora/Adv4-0:Lectio1
+@Tempora/Adv4-0:Lectio1:2-9
 
 [Responsory3]
 R. Súscipe verbum, Virgo María, quod tibi a Dómino per Angelum transmíssum est: concípies et páries Deum páriter et hóminem, 
 * Ut benedícta dicáris inter omnes mulíeres. (Allelúja.) 
-V. Paries quidem fílium, et virginitátis non patiéris detriméntum: efficiéris grávida, et eris mater semper intácta.
+V. Páries quidem fílium, et virginitátis non patiéris detriméntum: efficiéris grávida, et eris mater semper intácta.
 R. Ut benedícta dicáris inter omnes mulíeres. (Allelúja.) 
 &Gloria
 R. Ut benedícta dicáris inter omnes mulíeres. (Allelúja.) 

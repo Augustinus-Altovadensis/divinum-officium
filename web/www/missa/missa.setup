@@ -3,8 +3,8 @@ $pope='(nomen Papae),(name of Pope)';;
 $bishop='(nomen Episcopi),(name of Bishop)';;
 $lang1='Latin';;
 $whitebground='1';;
-$blackfont='black';;
-$smallblack='-1 black';;
+$blackfont='';;
+$smallblack='-1';;
 $redfont=' italic red';;
 $initiale='+2 bold italic red';;
 $largefont='+1 bold italic red';;
@@ -17,11 +17,10 @@ $textwidth='100';;
 ttobcccccccnn
 
 [general]
-$version1='Rubrics 1960';;
-$version2='New Mass';;
+$version='Rubrics 1960';;
 $testmode='regular';;
 $lang2='English';;
-$votive=' ';;
+$votive='Hodie';;
 $rubrics='1';;
 $solemn='0';;
 
@@ -29,9 +28,10 @@ $solemn='0';;
 oooobb
 
 [generalc]
-$version='Rubrics 1960';;
+$version1='Rubrics 1960';;
+$version2='New Mass';;
 $lang1='Latin';;
-$lang2='English';;
+$lang2='Latin';;
 
 [generalccheck]
-ooo
+oooo

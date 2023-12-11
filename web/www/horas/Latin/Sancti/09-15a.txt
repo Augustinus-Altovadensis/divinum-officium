@@ -1,5 +1,5 @@
 [Rank]
-ln Octavam Nativitatis Beatæ Mariæ Virginis;;Semiduplex;;2;;vide C11
+In Octavam Nativitatis Beatæ Mariæ Virginis;;Duplex;;3.1;;vide C11
 
 [Rule]
 vide C11
@@ -36,7 +36,7 @@ vide C11
 @Sancti/07-02:Responsory8
 
 [Lectio93]
-@Sancti/09-15t:Lectio93
+@Sancti/09-15t:Lectio9
 
 [Commemoratio]
 @Sancti/09-15t:Commemoratio

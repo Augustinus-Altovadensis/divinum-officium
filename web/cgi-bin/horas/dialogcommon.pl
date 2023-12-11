@@ -24,86 +24,62 @@ sub chompd {
   return $a;
 }
 
-#*** printhas(\%hash, $sep)
-#returns the referenced hash as key=value$sep string
-sub printhash {
-  my $hash = shift;
-  my %hash = %$hash;
-  my $flag = shift;
-  my $str = "";
+local %_dialog;
 
-  foreach (sort keys %hash) {
-    if ($flag) {
-      my $value = $hash{$_};
-      $value =~ s/\;+\s*$//;
-      $str .= "$_;;;$value;;;";
-    } else {
-      $str .= "$_=\"$hash{$_}\",";
-    }
-  }
-  return $str;
-}
-
-#*** getsetuppar($name) {
-#returns $dialog{$name} value, evaluating the variables
-sub getsetuppar {
-  my $name = shift;
-  my $par = $dialog{$name};
-  return setuppar($par);
-}
-
-#*** getdialogcolumn($name, $sep, $col)
+#*** getdialog($name, $sep, $col)
 # returns the array of the $col-th column from $dialog{$name} hash element
 # the hash value is cleared from newline characters and is split
 # into and string array where the elements are separated by , comma
 # Each string is split by $sep separator, and the $col-th element
 # of this split is collected onto the returned array.
-sub getdialogcolumn {
-  my ($name, $sep, $col) = @_;
-  my $str = $dialog{$name};
-  $str =~ s/\n//g;
-  my @a = split(',', $str);
-  my @b = splice(@b, @b);
-
-  foreach (@a) {
-    my @c = split($sep, $_);
-    my $item = $c[$col];
-    if (!$item) { $item = ''; }
-    push(@b, $item);
+sub getdialog {
+  my ($name) = @_;
+  if (!$_dialog{'loaded'}) {
+    $datafolder =~ /(missa|horas)$/;
+    %_dialog = %{setupstring('', "$1.dialog")};
+    foreach (keys %_dialog) { chomp($_dialog{$_}) }
+    $_dialog{'loaded'} = 1;
   }
-  return @b;
+  chomp($_dialog{$name});
+  if (wantarray) {
+    return split(',', $_dialog{$name});
+  } else { 
+    return $_dialog{$name};
+  }
 }
 
-#*** getdialogcolumnstring($name, $sep, $col)
-# returns the array resolted from getdialogcolumn sub
-# as a comma separated string
-sub getdialogcolumnstring {
-  my @c = getdialogcolumn(@_);
-  my $c = '';
-  foreach (@c) { $c .= "\'$_\',"; }
-  $c =~ s /\,$//;
-  return $c;
+sub gethoras {
+  my($C9f) = @_;
+  my @horas = getdialog('horas');
+  @horas = @horas[0,1,6] if ($C9f);
+  $horas[-1] =~ s/\s*$//;
+  @horas;
 }
 
-#*** setsetupvalue($name, $ind, $value)
-# set $value to the $ind-th line of $setup{$name} hash item
-sub setsetupvalue {
-  my $name = shift;
-  my $ind = shift;
-  my $value = shift;
-  my $script = $setup{$name};
-  $script =~ s/\n\s*//g;
-  my @script = split(';;', $script);
-  $script = "";
-
-  for ($i = 0; $i < @script; $i++) {
-    my $si = $script[$i];
-    $si =~ s/\=/\~\>/;
-    my @elems = split('~>', $si);
-    if ($i == $ind) { $script[$i] = $elems[0] . '=\'' . $value . '\''; }
-    $script .= "$script[$i];;";
+sub set_runtime_options {
+  my($name) = @_;
+  my @parameters = split(/;;\r?\n/, getdialog($name));
+  # pop(@parameters);
+  my @setupt = split(/;;/, getsetup($name));
+  # pop(@setupt);
+  my $p = undef;
+  my $i = 1;
+  foreach (@parameters) {
+    my($parname, $parvalue, $parmode, $parpar, $parpos, $parfunc, $parhelp) = split('~>');
+    if ($parpos !~ /^\d+$/) {
+      $parpos = $i;
+      $i++;
+    }
+    $parvalue = substr($parvalue,1);
+    if ($p = strictparam($parvalue)) { 
+      setsetupvalue($name, $parpos - 1, $p);
+    } else {
+      $p = substr($setupt[$parpos - 1], index($setupt[$parpos - 1], '=') + 2, -1)
+    }
+    $$parvalue = $p;
   }
-  $setup{$name} = $script;
+  $blackfont =~ s/black//; # can't use black in contrast mode
+  $smallblack =~ s/black//;
 }
 
 sub get_tempus_id {
@@ -210,25 +186,6 @@ AUTEM: for (split /\baut\b/, $condition) {
   return ($vero = 0);
 }
 
-#*** setsetup($name, $value1, $value2 ...)
-# set the values into $setup{$name} hash item
-sub setsetup {
-  my @a = @_;
-  my $name = $a[0];
-  my $script = $setup{$name};
-  $script =~ s/\n\s*//g;
-  my @script = split(';;', $script);
-  $script = "";
-
-  for ($i = 0; $i < @script; $i++) {
-    my $si = $script[$i];
-    $si =~ s/\=/\~\>/;
-    my @elems = split('~>', $si);
-    $script[$i] = $elems[0] . '=\'' . $a[$i + 1] . '\'';
-    $script .= "$script[$i];;";
-  }
-  $setup{$name} = $script;
-}
 our %setupstring_caches_by_version;
 
 # Constants specifying which @-directives to resolve when calling
@@ -239,13 +196,14 @@ use constant {
   RESOLVE_ALL => 2
 };
 
-#*** setupstring($basedir, $lang, $fname, %params)
+#*** setupstring($lang, $fname, %params)
 # Loads the database file from path "$basedir/$lang/$fname" through
 # the cache. Inclusions are performed according to the value of
 # $params{'resolve@'}. If omitted, the default is RESOLVE_ALL.
-sub setupstring($$$%) {
+sub setupstring($$%) {
+  my ($lang, $fname, %params) = @_;
 
-  my ($basedir, $lang, $fname, %params) = @_;
+  my $basedir = our $datafolder;
   my $fullpath = "$basedir/$lang/$fname";
   our ($lang1, $lang2, $missa);
   my $inclusionregex = qr/^\s*\@
@@ -271,17 +229,17 @@ sub setupstring($$$%) {
     if ($lang eq 'English') {
 
       # English layers on top of Latin.
-      $base_sections = setupstring($basedir, 'Latin', $fname, 'resolve@' => RESOLVE_NONE);
+      $base_sections = setupstring('Latin', $fname, 'resolve@' => RESOLVE_NONE);
     } elsif ($lang =~ /-/) {
 
       # If $lang contains dash, the part before the last dash is taken as a new fallback
       my $temp = $lang;
       $temp =~ s/-[^-]+$//;
-      $base_sections = setupstring($basedir, $temp, $fname, 'resolve@' => RESOLVE_NONE);
+      $base_sections = setupstring($temp, $fname, 'resolve@' => RESOLVE_NONE);
     } elsif ($lang && $lang ne 'Latin') {
 
       # Other non-Latin languages layer on top of English.
-      $base_sections = setupstring($basedir, 'English', $fname, 'resolve@' => RESOLVE_NONE);
+      $base_sections = setupstring('English', $fname, 'resolve@' => RESOLVE_NONE);
     }
 
     # Get the top layer.
@@ -292,6 +250,15 @@ sub setupstring($$$%) {
       # Fill in the missing things from the layer below.
       ${$new_sections}{'__preamble'} .= "\n${$base_sections}{'__preamble'}";
       ${$new_sections}{$_} ||= ${$base_sections}{$_} foreach (keys(%{$base_sections}));
+			
+			# Ensure consistency in ranking of Offices by always defaulting to Latin even if there is a Translation itself
+			my @baserank = split(';;', ${$base_sections}{Rank});
+			if(@baserank) {
+				my @newrank = split(';;', ${$new_sections}{Rank});
+				$baserank[0] = $newrank[0];
+				${$new_sections}{Rank} = join(';;', @baserank);
+			}
+			
     } else {
       $new_sections = $base_sections;
     }
@@ -310,7 +277,7 @@ sub setupstring($$$%) {
     while ($sections{'__preamble'} =~ /$inclusionregex/gc) {
       my $incl_fname .= "$1.txt";
       if ($fullpath =~ /$incl_fname/) { warn "Cyclic dependency in whole-file inclusion: $fullpath"; last; }
-      my $incl_sections = setupstring($basedir, $lang, $incl_fname, 'resolve@' => RESOLVE_NONE);
+      my $incl_sections = setupstring($lang, $incl_fname, 'resolve@' => RESOLVE_NONE);
       $sections{$_} ||= ${$incl_sections}{$_} foreach (keys %{$incl_sections});
     }
     delete $sections{'__preamble'};
@@ -321,8 +288,8 @@ sub setupstring($$$%) {
     # Iterate over all sections, resolving inclusions. We make sure we
     # do [Rule] first, if it exists: we need to use the rule to work
     # out some subsequent substitutions.
-    foreach my $key ((exists $sections{'Rule'}) ? 'Rule' : (), keys %sections) {
-      if ($key !~ /Commemoratio/i || $missa) {
+    foreach my $key ((exists $sections{'Rule'}) ? 'Rule' : (), sort(keys(%sections))) {
+      if ($key !~ /Commemoratio|LectioE/i || $missa) {
         1 while $sections{$key} =~ s/$inclusionregex/
           get_loadtime_inclusion(\%sections, $basedir, $lang,
           $1,             # Filename.
@@ -423,7 +390,7 @@ sub process_conditional_lines {
 
     # Check for a new condition.
     if ($line =~ /^\s*$conditional_regex\s*(.*)$/o) {
-      my ($strength, $result, $backscope, $forwardscope) = parse_conditional($1, $2, $3);
+      my ($strength, $result, $backscope, $forwardscope) = parse_conditional($1 || '', $2, $3);
 
       # Sequel.
       $line = $4;
@@ -555,7 +522,7 @@ sub get_loadtime_inclusion(\%$$$$$$$) {
 
   # Load the file to resolve the reference; if none specified, it's a
   # self-reference.
-  my $inclfile = $ftitle ? setupstring($basedir, $lang, "$ftitle.txt", 'resolve@' => RESOLVE_WHOLEFILE) : $sections;
+  my $inclfile = $ftitle ? setupstring($lang, "$ftitle.txt", 'resolve@' => RESOLVE_WHOLEFILE) : $sections;
 
   if ( $version !~ /Trident/i
     && $section =~ /Gregem/i
@@ -576,28 +543,4 @@ sub get_loadtime_inclusion(\%$$$$$$$) {
   return "$ftitle:$section is missing!";
 }
 
-#*** setuppar($par)
-# returns the parameter variables evaluated
-sub setuppar {
-  my $par = shift;
-  $par =~ s/\;*\s*$//;
-  $par =~ s/\;\;+\s*/\;\;/g;
-  my @par = split(';;', $par);
-  $par = "";
-  my $s;
-
-  for ($i = 0; $i < @par; $i++) {
-    if (!$par[$i]) { next; }
-    my @a = split('~>', $par[$i]);
-    $a[1] = eval($a[1]);
-
-    foreach $s (@a) {
-      if (!$s && $s ne '0') { $s = ''; }
-      $par .= "$s~>";
-    }
-    $par =~ s/\~\>$/\;\;/;
-  }
-  $par =~ s/\;+\s*$//;
-  return $par;
-}
 1;

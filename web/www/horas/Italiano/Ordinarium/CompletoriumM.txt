@@ -19,7 +19,6 @@ $Indulgentiam
 V. Convertici, +++ o Dio, nostro salvatore.
 R. E allontana da noi la tua ira.
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
 &psalm(4)
@@ -28,22 +27,7 @@ $Deus in adjutorium
 
 &psalm(133)
 
-#Hymn
-v. Prima che finisca il giorno,
-Te, Creator, preghiamo,
-Che giusta la tua clemenza
-Presidio ci sia e custodia
-_
-Lungi fuggano i sogni
-E della notte i fantasmi;
-Frena il nostro nemico,
-Che non sian macchiati i nostri corpi.
-_
-* Ascoltaci, Padre piissimo,
-O Figlio eguale al Padre,
-Che con lo Spirito Paraclito
-Regnate in sempiterno.
-Amen.
+#Hymnus
 
 #Capitulum Responsorio Versus
 !Ger 14:9
@@ -52,11 +36,9 @@ R. Grazie a Dio.
 _
 V. Custodiscici, Signore, come la pupilla dell'occhio.
 R. Proteggici sotto l'ombra delle tue ali.
-_
-v. Signore, pietà di noi. Cristo, pietà di noi. Signore, pietà di noi.
-&pater_noster
 
 #Oratio
+$MLitany2
 &Dominus_vobiscum
 $Oremus
 v. Visita, o Signore, te ne preghiamo, quest’abitazione e respingi lungi da essa tutte le insidie del nemico: i tuoi Santi Angeli abitino in essa, ci custodiscano in pace; e la tua benedizione sia sempre sopra di noi.
@@ -67,6 +49,6 @@ $Per Dominum
 &Benedicamus_Domino
 Benedictio. Ci benedica e custodisca l'onnipotente e misericordioso Signore, + il Padre, e il Figlio, e lo Spirito Santo.
 R. Amen.
-_
+
 &antiphona_finalis
 &Divinum_auxilium

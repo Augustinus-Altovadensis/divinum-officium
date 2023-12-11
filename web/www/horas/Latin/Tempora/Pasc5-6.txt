@@ -1,7 +1,10 @@
 [Rank]
+Sabbato infra Octavam Ascensionis;;Semiduplex;;2.1;;ex Tempora/Pasc5-4
+
+[Rank] (rubrica tridentina)
 Sabbato infra Octavam Ascensionis;;Semiduplex;;2;;ex Tempora/Pasc5-4
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Sabbato post Ascensionem;;Feria;;1;;vide Tempora/Pasc5-4
 
 [Rule]
@@ -16,7 +19,7 @@ De Epístola secúnda beáti Petri Apóstoli
 1 Hanc ecce vobis, caríssimi, secúndam scribo epístolam, in quibus vestram éxcito in commonitióne sincéram mentem:
 2 ut mémores sitis eórum, quæ prædíxi, verbórum, a sanctis prophétis et apostolórum vestrórum, præceptórum Dómini et Salvatóris.
 3 Hoc primum sciéntes, quod vénient in novíssimis diébus in deceptióne illusóres, juxta próprias concupiscéntias ambulántes,
-4 dicéntes: Ubi est promíssio, aut advéntus eius? ex quo enim patres dormiérunt, ómnia sic perséverant ab inítio creatúræ.
+4 dicéntes: Ubi est promíssio, aut advéntus ejus? ex quo enim patres dormiérunt, ómnia sic perséverant ab inítio creatúræ.
 5 Latet enim eos hoc voléntes, quod cæli erant prius, et terra de aqua, et per aquam consístens Dei verbo:
 6 per quæ, ille tunc mundus aqua inundátus, périit.
 7 Cæli autem, qui nunc sunt, et terra eódem verbo repósiti sunt, igni reserváti in diem judícii, et perditiónis impiórum hóminum.
@@ -42,7 +45,7 @@ De Epístola secúnda beáti Petri Apóstoli
 15 et Dómini nostri longanimitátem, salútem arbitrémini: sicut et caríssimus frater noster Paulus secúndum datam sibi sapiéntiam scripsit vobis,
 16 sicut et in ómnibus epístolis, loquens in eis de his in quibus sunt quædam difficília intelléctu, quæ indócti et instábiles deprávant, sicut et céteras Scriptúras, ad suam ipsórum perditiónem.
 17 Vos ígitur fratres, præsciéntes custodíte, ne insipiéntium erróre tradúcti excidátis a própria firmitáte:
-18 créscite vero in grátia, et in cognitióne Dómini nostri, et Salvatóris Iesu Christi. Ipsi glória et nunc, et in diem æternitátis. Amen.
+18 créscite vero in grátia, et in cognitióne Dómini nostri, et Salvatóris Jesu Christi. Ipsi glória et nunc, et in diem æternitátis. Amen.
 
 [Responsory3]
 @Tempora/Pasc5-4:Responsory3

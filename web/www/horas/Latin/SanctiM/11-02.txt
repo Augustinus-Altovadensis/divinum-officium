@@ -31,15 +31,12 @@ Psalmi feriales
 _
 @Sancti/11-02::s/.*&special\('O/&special('O/s
 
-[Responsory9]
-@Commune/C9:Responsory91
-
 [Special Tertia]
 Psalmi feriales
 
-&special('Oratio mortuorum', 'Latin')
+&special('Oratio mortuorum')
 
-&special('Conclusio', 'Latin')
+&special('Conclusio')
 
 [Special Sexta]
 @:Special Tertia

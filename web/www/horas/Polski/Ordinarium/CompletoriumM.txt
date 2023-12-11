@@ -19,7 +19,6 @@ $Indulgentiam
 V. Nawróć nas +++ Boże, nasz zbawco.
 R. I odwróć swój gniew od nas.
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
 &psalm(4)
@@ -28,22 +27,7 @@ $Deus in adjutorium
 
 &psalm(133)
 
-#Hymn
-v. Ciebie przed zanikiem światła,
-Stwórco wszechrzeczy, prosimy,
-Abyś według twej miłościwości
-Był nam obrońcą i strażą.
-_
-Niechaj daleko od nas odstąpią,
-Widziadła senne i zjawy nocne;
-Powstrzymaj nieprzyjaciela naszego,
-By ciała nie uległy zmazaniu.
-_
-* Udziel nam tego, Ojcze wszechmogący,
-Przez Jezusa Chrystusa, Pana naszego,
-Który z Tobą w wieczności,
-Króluje z Świętym Duchem.
-Amen.
+#Hymnus
 
 #Capitulum Responsorium Versus
 !Jr 14:9
@@ -52,11 +36,9 @@ R. Bogu niech będą dzięki.
 _
 V. Strzeż nas Panie, jak źrenicy oka.
 R. Pod cieniem Twych skrzydeł obroń nas.
-_
-v. Kyrie elejson. Chryste, elejson. Kyrie, elejson.
-&pater_noster
 
 #Oratio
+$MLitany2
 &Dominus_vobiscum
 $Oremus
 v. Nawiedź, prosimy Cię, Panie, ten dom, i oddal od niego wszelkie wrogie zasadzki: niech mieszkają w nim Twoi święci Aniołowie i strzegą nas w pokoju; a błogosławieństwo Twoje niech zawsze będzie z nami.
@@ -67,6 +49,6 @@ $Per Dominum
 &Benedicamus_Domino
 Benedictio. Niech nas błogosławi i strzeże wszechmogący i miłosierny Pan, + Ojciec, i Syn, i Duch Święty.
 R. Amen.
-_
+
 &antiphona_finalis
 &Divinum_auxilium

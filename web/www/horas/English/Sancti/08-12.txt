@@ -1,5 +1,8 @@
 [Rank]
-S. Clarae Virginis;;Duplex;;3;;vide C6
+S. Claræ Virginis;;Duplex;;3;;vide C6
+
+[Rank] (rubrica 1570)
+S. Claræ Virginis;;Simplex;;1.1;;vide C6
 
 [Rule]
 vide C6;
@@ -9,6 +12,9 @@ vide C6;
 Hear us, O God, our saviour, that we who are gladdened by the Festival of blessed~
 Clare may learn from her piety and devotion.
 $Per Dominum
+
+[Hymnus Matutinum] 
+@Commune/C6:Hymnus Matutinum pro virgo tantum et non Martyr
 
 [Lectio4]
 The noble maiden Clara was born at Assisi in Umbria, (in the year 1193.) In~

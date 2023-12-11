@@ -24,26 +24,23 @@ use Time::Local;
 #use DateTime;
 use locale;
 use lib "$Bin/..";
-use DivinumOfficium::Main qw(vernaculars);
+use DivinumOfficium::Main qw(vernaculars liturgical_color);
 $error = '';
 $debug = '';
 
-our $Tk = 0;
-our $Hk = 0;
 our $Ck = 0;
 our $missa = 1;
 our $NewMass = 0;
 our $officium = 'missa.pl';
-our $version = 'Rubrics 1960';
 
 @versions =
-  ('Tridentine 1570', 'Tridentine 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1965-1967', '1960 Newcalendar');
+  ('Tridentine 1570', 'Tridentine 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1965-1967', '1960 Newcalendar', 'Dominican');
 
 #***common variables arrays and hashes
 #filled  getweek()
 our @dayname;    #0=Advn|Natn|Epin|Quadpn|Quadn|Pascn|Pentn 1=winner title|2=other title
 
-#filled by getrank()
+#filled by occurence()
 our $winner;     #the folder/filename for the winner of precedence
 our $commemoratio;    #the folder/filename for the commemorated
 our $scriptura;       #the folder/filename for the scripture reading (if winner is sancti)
@@ -71,8 +68,8 @@ our $duplex;                                  #1=simplex-feria, 2=semiduplex-fer
 require "$Bin/../horas/do_io.pl";
 require "$Bin/../horas/horascommon.pl";
 require "$Bin/../horas/dialogcommon.pl";
-require "$Bin/webdia.pl";
-require "$Bin/msetup.pl";
+require "$Bin/../horas/webdia.pl";
+require "$Bin/../horas/setup.pl";
 require "$Bin/ordo.pl";
 require "$Bin/propers.pl";
 
@@ -81,21 +78,10 @@ $q = new CGI;
 
 #get parameters
 getini('missa');    #files, colors
-$setupsave = strictparam('setup');
-$setupsave =~ s/\~24/\"/g;
-our ($lang1, $lang2, $column);
+our ($version, $lang1, $lang2, $column);
 our %translate;     #translation of the skeleton label for 2nd language
-
-#internal script, cookies
-%dialog = %{setupstring($datafolder, '', 'missa.dialog')};
-
-if (!$setupsave) {
-  %setup = %{setupstring($datafolder, '', 'missa.setup')};
-} else {
-  %setup = split(';;;', $setupsave);
-}
-if (!$setupsave && !getcookies('missap', 'parameters')) { setcookies('missap', 'parameters'); }
-if (!$setupsave && !getcookies('missago', 'general')) { setcookies('missago', 'general'); }
+our $testmode;
+our $votive;
 $first = strictparam('first');
 our $Propers = strictparam('Propers');
 our $command = strictparam('command');
@@ -106,116 +92,60 @@ if (!$command) { $command = 'praySanctaMissa'; }
 our $missanumber = strictparam('missanumber');
 if (!$missanumber) { $missanumber = 1; }
 our $caller = strictparam('caller');
-our $sanctiname = 'Sancti';
-our $temporaname = 'Tempora';
-our $communename = 'Commune';
+
+$setupsave = strictparam('setupm');
+loadsetup($setupsave);
+
+if (!$setupsave) {
+  getcookies('missap', 'parameters');
+  getcookies('missag', 'general');
+}
+
+set_runtime_options('general'); #$expand, $version, $lang2
+set_runtime_options('parameters'); # priest, lang1 ... etc
+
+if ($command eq 'changeparameters') { getsetupvalue($command); }
+
+setcookies('missap', 'parameters');
+setcookies('missag', 'general');
+
+# save parameters
+$setupsave = savesetup(1);
+$setupsave =~ s/\r*\n*//g;
 
 #*** handle different actions
 #after setup
-if ($command =~ /change(.*)/is) {
-  $command = $1;
-  getsetupvalue($command);
-  if ($command =~ /parameters/) { setcookies('missap', 'parameters'); }
-}
-eval($setup{'parameters'});    #$lang1, colors, sizes
-eval($setup{'general'});       #$version, $testmode,$lang2,$votive,$rubrics, $solemn
 
-#prepare testmode
-our $testmode = strictparam('testmode');
 if ($testmode !~ /(Seasonal|Season|Saint)/i) { $testmode = 'regular'; }
-our $votive = strictparam('votive');
-$p = strictparam('lang1');
+$rubrics = strictparam('rubrics');
+$solemn = strictparam('solemn');
 
-if ($p) {
-  $lang1 = $p;
-  setsetupvalue('parameters', 2, $lang1);
-}
-$p = strictparam('screenheight');
-
-if ($p) {
-  $screenheight = $p;
-  setsetupvalue('parametrs', 11, $screenheight);
-}
-$p = strictparam('textwidth');
-
-if ($p) {
-  $textwidth = $p;
-  setsetupvalue('parametrs', 12, $screenheight);
-}
-
-#expand (all, psalms, nothing, skeleton) parameter
-$flag = 0;
-$p = strictparam('lang2');
-if ($p) { $lang2 = $p; $flag = 1; }
-$p = strictparam('version');
-if ($p) { $version = $p; $flag = 1; }
-
-if (!$first) {
-  $first = 1;
-} else {
-  $flag = 1;
-  $rubrics = strictparam('rubrics');
-  $solemn = strictparam('solemn');
-}
-
-if ($flag) {
-  setsetup('general', $version, $testmode, $lang2, $votive, $rubrics, $solemn);
-  setcookies('missago', 'general');
-}
-if (!$version) { $version = 'Rubrics 1960'; }
-if (!$lang2) { $lang2 = 'English'; }
 $only = ($lang1 =~ /$lang2/) ? 1 : 0;
-setmdir($version);
 
 # save parameters
-$setupsave = printhash(\%setup, 1);
-$setupsave =~ s/\r*\n*//g;
-$setupsave =~ s/\"/\~24/g;
 precedence();    #fills our hashes et variables
-
-# prepare title
-$daycolor =
-    ($commune =~ /(C1[0-9])/) ? "blue"
-  : ($dayname[1] =~ /(Vigilia Pentecostes|Quattuor Temporum Pentecostes|Martyr)/i) ? "red"
-  : ($dayname[1] =~ /(Conversione|Dedicatione|Cathedra|oann|Pasch|Confessor|Ascensio|Cena)/i) ? "black"
-  : ($dayname[1] =~ /(Vigilia|Quattuor|Passionis|gesim|Hebdomadæ Sanctæ|Ciner|Adventus)/i) ? "purple"
-  : ($dayname[1] =~ /(Pentecosten|Epiphaniam|post octavam)/i) ? "green"
-  : ($dayname[1] =~ /(Pentecostes|Evangel|Innocentium|Sanguinis|Cruc|Apostol)/i) ? "red"
-  : ($dayname[1] =~ /(Defunctorum|Parasceve|Morte)/i) ? "grey"
-  : "black";
-build_comment_line();
+setsecondcol();
 
 #prepare main pages
 $title = "Sancta Missa";
 
 #*** print pages (setup, hora=pray, mainpage)
 #generate HTML
-htmlHead($title, 2);
-print << "PrintTag";
-<BODY VLINK=$visitedlink LINK=$link BACKGROUND="$htmlurl/horasbg.jpg" onload="startup();">
-<script>
-// https redirect
-if (location.protocol !== 'https:' && (location.hostname == "divinumofficium.com" || location.hostname == "www.divinumofficium.com")) {
-    location.replace(`https:\${location.href.substring(location.protocol.length)}`);
-}
-</script>
-<FORM ACTION="$officium" METHOD=post TARGET=_self>
-PrintTag
+htmlHead($title, 'startup()');
 
 if ($command =~ /setup(.*)/is) {
   $pmode = 'setup';
   $command = $1;
-  setuptable($command);
+  print setuptable($command, $title);
+  $command = "change" . $command;
 } elsif ($command =~ /pray/i) {
   $pmode = 'missa';
   $command =~ s/(pray|change|setup)//ig;
-  $title = "Sancta Missa";
   $head = $title;
-  $headline = setheadline();
   headline($head);
 
   #eval($setup{'parameters'});
-  $background = ($whitebground) ? "BGCOLOR=\"white\"" : "BACKGROUND=\"$htmlurl/horasbg.jpg\"";
+  $background = ($whitebground) ? ' class="contrastbg"' : '';
   ordo();
   print << "PrintTag";
 <INPUT TYPE=HIDDEN NAME=expandnum VALUE="">
@@ -223,26 +153,34 @@ PrintTag
 } else {    #mainpage
   $pmode = 'main';
   $command = "";
-  $height = floor($screenheight * 3 / 12);
-  $headline = setheadline();
+  $height = floor($screenheight * 6 / 12);
   headline($title);
   print << "PrintTag";
 <P ALIGN=CENTER>
 <TABLE BORDER=0 HEIGHT=$height><TR>
-<TD><IMG SRC="$htmlurl/missa.jpg" HEIGHT=$height></TD>
+<TD><IMG SRC="$htmlurl/missa.png" HEIGHT=$height></TD>
 </TR></TABLE>
 <BR>
 </P>
 PrintTag
 }
 
-#common widgets for main and hora
-$crubrics = ($rubrics) ? 'CHECKED' : '';
-$csolemn = ($solemn) ? 'CHECKED' : '';
-@chv = splice(@chv, @chv);
-for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'SELECTED' : ''; }
-$ctext = ($pmode =~ /(main)/i) ? 'Sancta Missa' : 'Sancta Missa Persoluta';
-print << "PrintTag";
+# translate from new breviary version names
+$version =~ s/ - 196.$//;
+$version =~ s/ -//;
+$version =~ s/1888/1910/;
+$version =~ s/ 1954//;
+$version =~ s/Rubrics 1960 2020 USA/1960 Newcalendar/;
+$version =~ s/Ordo Praedicatorum/Dominican/;
+
+if ($pmode =~ /(main|missa)/i) {
+  #common widgets for main and hora
+  $crubrics = ($rubrics) ? 'CHECKED' : '';
+  $csolemn = ($solemn) ? 'CHECKED' : '';
+  @chv = splice(@chv, @chv);
+  for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'SELECTED' : ''; }
+  $ctext = ($pmode =~ /(main)/i) ? 'Sancta Missa' : 'Sancta Missa Persoluta';
+  print << "PrintTag";
 <P ALIGN=CENTER><FONT SIZE=+1><I>
 <LABEL FOR=rubrics>Rubrics : </LABEL><INPUT ID=rubrics TYPE=CHECKBOX NAME='rubrics' $crubrics Value=1  onclick="parchange()">
 &nbsp;&nbsp;&nbsp;
@@ -252,108 +190,36 @@ print << "PrintTag";
 </I></P>
 <P ALIGN=CENTER>
 PrintTag
-$vsize = @versions;
-print "
-  <LABEL FOR=version CLASS=offscreen>Version</LABEL>
-  <SELECT ID=version NAME=version SIZE=$vsize onchange=\"parchange();\">\n
-";
-for ($i = 0; $i < @versions; $i++) { print "<OPTION $chv[$i] VALUE=\"$versions[$i]\">$versions[$i]\n"; }
-print "</SELECT>\n";
 
+  print option_selector("Version", "parchange();", $version, @versions );
+
+#$testmode = 'Regular' unless $testmode;
 #if ($savesetup > 1) {
-#my $sel10 = (!$testmode || $testmode =~ /regular/i) ? 'SELECTED' : '';
-#my $sel11 = ($testmode =~ /Seasonal/i) ? 'SELECTED' : '';
-#my $sel12 = ($testmode =~ /^Season$/i) ? 'SELECTED' : '';
-#my $sel13 = ($testmode =~ /Saint/i) ? 'SELECTED' : '';
-#  print << "PrintTag";
-#&nbsp;&nbsp;&nbsp;
-#<SELECT NAME=testmode SIZE=4 onchange="parchange();">
-#<OPTION $sel10 VALUE='regular'>regular
-#<OPTION $sel11 VALUE='Seasonal'>Seasonal
-#<OPTION $sel12 VALUE='Season'>Season
-#<OPTION $sel13 VALUE='Saint'>Saint
-#</SELECT>
-#PrintTag
+#  print option_selector("testmode", "parchange();", $testmode, qw(Regular Seasonal Season Saint Common));
 #} else {
-#my $sel10 = (!$testmode || $testmode =~ /regular/i) ? 'SELECTED' : '';
-#my $sel11 = ($testmode =~ /Seasonal/i) ? 'SELECTED' : '';
-#  print << "PrintTag";
-#&nbsp;&nbsp;&nbsp;
-#<SELECT NAME=testmode SIZE=2 onchange="parchange();">
-#<OPTION $sel10 VALUE='regular'>regular
-#<OPTION $sel11 VALUE='Seasonal'>Seasonal
-#</SELECT>
-#PrintTag
+#  print option_selector("testmode", "parchange();", $testmode, qw(Regular Seasonal));
 #}
-@sel = ();
-@votive = ('Hodie');
-
-if (opendir(DIR, "$datafolder/Latin/Votive")) {
-  @a = sort readdir(DIR);
-  closedir DIR;
-  my $item;
-
-  foreach $item (@a) {
-    if ($item =~ /\.txt/i) { $item =~ s/\.txt//i; push(@votive, $item); }
+  my $propname = ($Propers) ? 'Full' : 'Propers';
+  print "&nbsp;&nbsp;&nbsp;";
+  print htmlInput('lang2', $lang2, 'options', 'languages', , "parchange()" );
+  @votive = ('Hodie;');
+  if (opendir(DIR, "$datafolder/Latin/Votive")) {
+    @a = sort readdir(DIR);
+    closedir DIR;
+    foreach (@a) { push(@votive, $_) if (s/\.txt//i); }
   }
-}
-$sel[0] = '';
-for ($i = 1; $i < @votive; $i++) { $sel[$i] = ($votive =~ $votive[$i]) ? 'SELECTED' : ''; }
-$osize = (@votive > $vsize) ? $vsize : @votive;
-$addvotive = "
-  &nbsp;&nbsp;&nbsp;\n
-  <LABEL FOR=votive CLASS=offscreen>Votive</LABEL>
-  <SELECT ID=votive NAME=votive SIZE=$osize onchange=\"parchange()\">\n
-";
-for ($i = 0; $i < @votive; $i++) { $addvotive .= "<OPTION $sel[$i] VALUE=\"$votive[$i]\">$votive[$i]\n"; }
-$addvotive .= "</SELECT>\n";
-my @languages = ('Latin', vernaculars($datafolder));
-my $lang_count = @languages;
-my $vers = $version;
-$vers =~ s/ /_/g;
-my $propname = ($Propers) ? 'Full' : 'Propers';
-print << "PrintTag";
-&nbsp;&nbsp;&nbsp;
-<LABEL FOR=lang2 CLASS=offscreen>Language</LABEL>
-<SELECT ID=lang2 NAME=lang2 SIZE="$lang_count" onchange="parchange()">
-PrintTag
-foreach my $lang (@languages) {
-  my $sel = ($lang2 =~ /$lang/i) ? 'SELECTED' : '';
-  print qq(<OPTION $sel VALUE="$lang">$lang</OPTION>);
-}
-print << "PrintTag";
-</SELECT>
-$addvotive</P>
-<P ALIGN=CENTER><FONT SIZE=+1>
-PrintTag
-print << "PrintTag";
-<P ALIGN=CENTER>
-<A HREF=# onclick="hset('Propers')">$propname</A></P>
-PrintTag
-print "</FONT></P>\n";
-    print << "PrintTag";
-</SELECT>
-<P ALIGN=CENTER><FONT SIZE=+1>
-<A HREF="../../www/horas/Help/versions.html" TARGET="_BLANK">Versions</A>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<A HREF="../../www/horas/Help/credits.html" TARGET="_BLANK">Credits</A>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<A HREF="../../www/horas/Help/download.html" TARGET="_BLANK">Download</A>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<A HREF="../../www/horas/Help/rubrics.html" TARGET="_BLANK">Rubrics</A>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<A HREF="../../www/horas/Help/technical.html" TARGET="_BLANK">Technical</A>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<A HREF="../../www/horas/Help/help.html" TARGET="_BLANK">Help</A>
-</FONT>
-</P>
-PrintTag
+  print option_selector("Votive", "parchange();", $votive, @votive );
+  print "</P>\n";
+  print qq(<P ALIGN=CENTER><FONT SIZE=+1>\n<A HREF=# onclick="hset('Propers')">$propname</A>\n</FONT></P>\n);
+  print "<P ALIGN=CENTER><FONT SIZE=+1>\n" . bottom_links_menu() . "</FONT>\n</P>\n";
+}    
+
 #common end for programs
 if ($error) { print "<P ALIGN=CENTER><FONT COLOR=red>$error</FONT></P>\n"; }
 if ($debug) { print "<P ALIGN=center><FONT COLOR=blue>$debug</FONT></P>\n"; }
 $command =~ s/(pray|setup)//ig;
 print << "PrintTag";
-<INPUT TYPE=HIDDEN NAME=setup VALUE="$setupsave">
+<INPUT TYPE=HIDDEN NAME=setupm VALUE="$setupsave">
 <INPUT TYPE=HIDDEN NAME=command VALUE="$command">
 <INPUT TYPE=HIDDEN NAME=searchvalue VALUE="0">
 <INPUT TYPE=HIDDEN NAME=officium VALUE="$officium">
@@ -362,6 +228,7 @@ print << "PrintTag";
 <INPUT TYPE=HIDDEN NAME=popup VALUE="">
 <INPUT TYPE=HIDDEN NAME=first VALUE="$first">
 <INPUT TYPE=HIDDEN NAME=Propers VALUE="$Propers">
+<INPUT TYPE=HIDDEN NAME=compare VALUE=0>
 </FORM>
 </BODY></HTML>
 PrintTag
@@ -371,12 +238,11 @@ sub headline {
   my $head = shift;
   my $numsel = setmissanumber();
   $numsel = "<BR><BR>$numsel<BR>" if $numsel;
-  $headline =~ s{!(.*)}{<FONT SIZE=1>$1</FONT>}s;
+  my $headline = html_dayhead(setheadline(), $dayname[2]);
   print << "PrintTag";
-<P ALIGN=CENTER><FONT COLOR=$daycolor>$headline<BR></FONT>
-$comment<BR><BR>
-<FONT COLOR=MAROON SIZE=+1><B><I>$head</I></B></FONT><P>
-<P ALIGN=CENTER><A HREF="Cmissa.pl">Compare</A>
+<P ALIGN=CENTER>$headline</P>
+<P ALIGN=CENTER><FONT COLOR=MAROON SIZE=+1><B><I>$head</I></B></FONT></P>
+<P ALIGN=CENTER><A HREF=# onclick="callcompare()">Compare</A>
 &nbsp;&nbsp;&nbsp;<A HREF=# onclick="callofficium();">Divinum Officium</A>
 &nbsp;&nbsp;&nbsp;
 <LABEL FOR=date CLASS=offscreen>Date</LABEL>
@@ -396,10 +262,7 @@ PrintTag
 #*** Javascript functions
 # the sub is called from htmlhead
 sub horasjs {
-  print << "PrintTag";
-
-<SCRIPT TYPE='text/JavaScript' LANGUAGE='JavaScript1.2'>
-
+qq(
 //position
 function startup() {
   var i = 1;
@@ -424,7 +287,7 @@ function pset(p) {
 
 //call an individual hora
 function hset(p) {
-  if (p.match('Completed')) {
+  if (p.match('Persoluta')) {
 	return okbutton();
   }
   if (p.match('Propers')) {
@@ -470,7 +333,7 @@ function parchange() {
 
 //calls kalendar
 function callkalendar() {
-  document.forms[0].action = 'kalendar.pl';
+  document.forms[0].action = '../horas/kalendar.pl';
   document.forms[0].target = "_self"
   document.forms[0].submit();
 }
@@ -478,6 +341,13 @@ function callkalendar() {
 //calls officium
 function callofficium() {
   document.forms[0].action = '../horas/officium.pl';
+  document.forms[0].target = "_self"
+  document.forms[0].submit();
+}
+
+//calls compare
+function callcompare() {
+  document.forms[0].action = "Cmissa.pl";
   document.forms[0].target = "_self"
   document.forms[0].submit();
 }
@@ -518,9 +388,7 @@ function prevnext(ch) {
   }
   document.forms[0].date.value = m + "-" + d + "-" + y;
 }
-
-</SCRIPT>
-PrintTag
+)
 }
 
 # This procedure handles days on which there qre more than one proper Mass.

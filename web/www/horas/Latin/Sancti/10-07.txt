@@ -1,7 +1,7 @@
 [Rank]
 Sanctissimi Rosarii Beatæ Mariæ Virginis;;Duplex 2 classis;;5.1;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Beatæ Mariæ Virginis a Rosario;;Duplex 2 classis;;5;;ex C11
 
 [Rule]
@@ -57,16 +57,15 @@ V. Regína sacratíssimi Rosárii, ora pro nobis.
 R. Ut digni efficiámur promissiónibus Christi.
 
 [Ant 1]
-Beáta es, * Virgo Maria, Dei Génetrix, quæ credidísti Dómino; perfécta sunt in te quæ dicta sunt tibi, intercéde pro nobis ad Dóminum, Deum nostrum.
+Beáta es, * Virgo María, Dei Génetrix, quæ credidísti Dómino; perfécta sunt in te quæ dicta sunt tibi, intercéde pro nobis ad Dóminum, Deum nostrum.
 
 [Oratio]
-Deus, cujus Unigénitus per vitam, mortem et resurrectiónem suam nobis salútis ætérnæ prǽmia comparávit: concéde, quǽsumus; ut hæc mystéria sanctíssimo beátæ Maríæ Vírginis Rosário recoléntes, et imitémur quod cóntinent, et quod promíttunt, assequámur.
+Deus, cujus Unigénitus per vitam, mortem et resurrectiónem suam nobis salútis ætérnæ prǽmia comparávit: concéde, quǽsumus; ut hæc mystéria sacratíssimo beátæ Maríæ Vírginis Rosário recoléntes, et imitémur quod cóntinent, et quod promíttunt, assequámur.
 $Per eumdem
 
 [Commemoratio 2]
 !Commemoratio S. Marci Papæ
 @Commune/C4:Oratio proper Gregem
-_
 $Oremus
 Exaudi, Domine, preces nostras: et, interveniente beato Marco, Confessore tuo atque Pontifice, indulgentiam nobis tribue placatus et pacem.
 $Per Dominum
@@ -74,14 +73,14 @@ _
 !Commemoratio Ss. Mártyrum Sergii, Bacchi, Marcelli et Apuleji
 @Commune/C3:Oratio proper
 $Oremus
-Sanctórum Mártyrum tuórum nos, Dómine, Sergii, Bacchi, Marcelli et Apuleji beáta merita prosequántur: et tuo semper fáciant amore fervéntes. 
+Sanctórum Mártyrum tuórum nos, Dómine, Sergii, Bacchi, Marcelli et Apuleji beáta merita prosequántur: et tuo semper fáciant amóre fervéntes. 
 $Per Dominum
 
 [Invit]
 Solemnitátem Rosárii Vírginis Maríæ celebrémus: * Christum ejus Fílium adorémus Dóminum.
 
 [Hymnus Matutinum]
-v. In monte olivis cónsito
+v. In monte olívis cónsito
 Redémptor orans prócidit,
 Mæret, pavéscit, déficit,
 Sudóre manans sánguinis.
@@ -110,9 +109,9 @@ _
 
 [Ant Matutinum]
 Angelus Gábriel * nuntiávit Maríæ: et concépit de Spíritu Sancto.;;8
-Intrávit Maria * in domum Zacharíæ, et salutávit Elísabeth.;;18
+Intrávit María * in domum Zacharíæ, et salutávit Elísabeth.;;18
 Péperit Fílium suum * primogénitum, et reclinávit eum in præsépio.;;23
-V. Sancta Dei Génetrix, semper Virgo Maria.
+V. Sancta Dei Génetrix, semper Virgo María.
 R. Intercéde pro nobis ad Dóminum, Deum nostrum.
 Cum indúcerent * Jesum paréntes ejus, ut sísterent eum Dómino, Símeon accépit eum in ulnas suas, et benedíxit Deum.;;44
 Requiréntes Jesum * paréntes ejus, invenérunt illum post tríduum in médio doctórum.;;45
@@ -154,7 +153,7 @@ R. Et exsultáte Vírgini adjutríci nostræ.
 R. Vidi speciósam ascendéntem désuper rivos aquárum; cujus inæstimábilis odor erat nimis; 
 * Et sicut dies verni circúmdabant eam flores rosárum et lília convállium.
 V. Astitit Regína a dextris tuis in vestítu deauráto, circúmdata varietáte.
-R. Et sicut dies verni circúmdabant eam flores rosárum et lília convallium.
+R. Et sicut dies verni circúmdabant eam flores rosárum et lília convállium.
 
 [Lectio3]
 !Sir 24:24-31
@@ -221,7 +220,7 @@ R. Et flores mei fructus honóris et honestátis.
 
 [Lectio8]
 !Sermo de Aquæductu
-Verbum caro factum est, et hábitat jam in nobis. Hábitat in memória nostra, hábitat in cogitatióne, quia usque ad ipsam descéndit imaginatiónem. Quonam modo, inquis? Nimírum jacens in præsépio, in virgináli grémio cubans, in monte prǽdicans, in oratióne pernóctans, in cruce pendens, in morte pallens, liber inter mórtuos et in inférno ímperans, seu étiam tértia die resúrgens, et Apóstolis loca clavórum, victóriæ signa, demónstrans, novíssime coram eis cæli secréta conscéndens. Quid horum non vere, non pie, non sancte cogitátur? Quidquid horum cógito, Deum cógito; et per ómnia est Deus meus. Hæc ego meditári dixi sapiéntiam, et prudéntiam judicávi erúctare memóriam suavitátis; quóniam in hujuscémodi núcleis virga sacerdotális copiósa prodúxit, quam, in supérnis háuriens, ubérius nobis María refúdit. In supérnis plane et ultra Angelos, quæ Verbum ex ipso Patris corde suscépit.
+Verbum caro factum est, et hábitat jam in nobis. Hábitat in memória nostra, hábitat in cogitatióne, quia usque ad ipsam descéndit imaginatiónem. Quonam modo, inquis? Nimírum jacens in præsépio, in virgináli grémio cubans, in monte prǽdicans, in oratióne pernóctans, in cruce pendens, in morte pallens, liber inter mórtuos et in inférno ímperans, seu étiam tértia die resúrgens, et Apóstolis loca clavórum, victóriæ signa, demónstrans, novíssime coram eis cæli secréta conscéndens. Quid horum non vere, non pie, non sancte cogitátur? Quidquid horum cógito, Deum cógito; et per ómnia est Deus meus. Hæc ego meditári dixi sapiéntiam, et prudéntiam judicávi eructáre memóriam suavitátis; quóniam in hujuscémodi núcleis virga sacerdotális copiósa prodúxit, quam, in supérnis háuriens, ubérius nobis María refúdit. In supérnis plane et ultra Angelos, quæ Verbum ex ipso Patris corde suscépit.
 
 [Responsory8]
 R. Surge, própera, amíca mea; jam enim hiems tránsiit, imber ábiit et recéssit, 
@@ -262,7 +261,7 @@ Mæstis alúmnis ímpluit.
 _
 Solúta carnis póndere
 Ad astra Virgo tóllitur,
-Excepta cæli júbilo
+Excépta cæli júbilo
 Et Angelórum cánticis.
 _
 Bis sena cingunt sídera

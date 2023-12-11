@@ -30,7 +30,8 @@ our $missa = 1;
 #*** collect standard items
 require "$Bin/../horas/horascommon.pl";
 require "$Bin/../horas/dialogcommon.pl";
-require "$Bin/webdia.pl";
+require "$Bin/../horas/webdia.pl";
+require "$Bin/../horas/setup.pl";
 require "$Bin/ordo.pl";
 require "$Bin/propers.pl";
 
@@ -40,21 +41,26 @@ binmode(STDOUT, ':encoding(utf-8)');
 
 #*** get parameters
 getini('missa');    #files, colors
-%dialog = %{setupstring($datafolder, '', 'missa.dialog')};
-%setup = %{setupstring($datafolder, '', 'missa.setup')};
-eval($setup{'parameters'});
-eval($setup{'general'});
+
+$setupsave = strictparam('setup');
+loadsetup($setupsave);
+
+if (!$setupsave) {
+  getcookies('missap', 'parameters');
+  getcookies('missago', 'general');
+}
+
+set_runtime_options('general'); #$expand, $version, $lang2
+set_runtime_options('parameters'); # priest, lang1 ... etc
+
 $popup = strictparam('popup');
-$rubrics = strictparam('rubrics');
-$lang1 = strictparam('lang1');
-$lang2 = strictparam('lang2');
-$background = ($whitebground) ? "BGCOLOR=\"white\"" : "BACKGROUND=\"$htmlurl/horasbg.jpg\"";
+$background = ($whitebground) ? ' class="contrastbg"' : '';
 $only = ($lang1 && $lang1 =~ /$lang2/) ? 1 : 0;
 $title = "$popup";
 $title =~ s/[\$\&]//;
 
 #$tlang = ($lang1 !~ /Latin/) ? $lang1 : $lang2;
-#%translate = %{setupstring($datafolder, $tlang, "Ordo/Translate.txt")};
+#%translate = %{setupstring($tlang, "Ordo/Translate.txt")};
 cache_prayers();
 $text = gettext($popup, $lang1);
 $t = length($text);
@@ -63,13 +69,11 @@ $height = ($t > 300) ? $screenheight - 100 : 3 * $screenheight / 4;
 
 #*** generate HTML
 # prints the requested item from prayers hash as popup
-htmlHead($title, 2);
+htmlHead($title, 'setsize()');
 print << "PrintTag";
-<BODY VLINK=$visitedlink LINK=$link BACKGROUND="$htmlurl/horasbg.jpg" onload="setsize()">
-<FORM ACTION="popup.pl" METHOD=post TARGET=_self>
 <H3 ALIGN=CENTER><FONT COLOR=MAROON><B><I>$title</I></B></FONT></H3>
 <P ALIGN=CENTER><BR>
-<TABLE BORDER=0 WIDTH=90% ALIGN=CENTER CELLPADDING=8 CELLSPACING=$border BGCOLOR='maroon'>
+<TABLE BORDER=0 WIDTH=90% ALIGN=CENTER CELLPADDING=8 CELLSPACING=$border$background>
 <TR>
 PrintTag
 $text =~ s/\_/ /g;
@@ -89,16 +93,7 @@ print "</FORM></BODY></HTML>";
 
 #*** javascript functions
 sub horasjs {
-  print << "PrintTag";
-
-<SCRIPT TYPE='text/JavaScript' LANGUAGE='JavaScript1.2'>
-
-function setsize() {
-  window.resizeTo($width, $height);
-}
-
-</SCRIPT>
-PrintTag
+  "function setsize() { window.resizeTo($width, $height); }"
 }
 
 sub gettext {

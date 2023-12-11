@@ -33,7 +33,7 @@ R. Szatą chwały przyodział go.
 O Doktorze najlepszy, * światłości Kościoła świętego, błogosławiony N., miłośniku prawa Bożego, błagaj za nami Syna Bożego.
 
 [Invit]
-Pana, Króla Wyznawców, * pójdźmy uwielbiać.
+Pana, Króla Wyznawców, * Pójdźmy uwielbiać.
 
 [Hymnus Matutinum]
 @Commune/C4:Hymnus Vespera
@@ -84,6 +84,11 @@ R. Umiłował go Pan, i przyozdobił go: szatą chwały przyodział go
 V. Induit eum Dominus loricam fidei, i przyozdobił go.
 R. U bram nieba ukoronował go.
 
+[Responsory8]
+R. W pośrzód kościoła otworzy usta jego,
+* I napełni go Pan duchem mądrości i rozumienia.
+V. Wesele i radość będzie skarbiła nad nim.
+R. I napełni go Pan duchem mądrości i rozumienia.
 
 [Ant Laudes]
 Oto kapłan wielki, * który za dni swoich podobał się Bogu i znalezion jest sprawiedliwym.

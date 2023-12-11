@@ -1,8 +1,8 @@
 [Rank]
-S. Joannis Cantii Confessoris;;Duplex;;3;;vide C5
+St Jean de Kenty, Confesseur;;Duplex;;3;;vide C5
 
 [RankNewcal]
-S. Joannis Cantii Confessoris;;Duplex optional;;2;;vide C5
+St Jean de Kenty, Confesseur;;Duplex optional;;2;;vide C5
 
 [Rule]
 vide C5 ;
@@ -60,7 +60,7 @@ Tu présentes le manteau protecteur ;
  A la soif et faim des indigents
  Par nourriture et boissons tu subviens.
 _
-0 toi qui n’as refusé à personne
+O toi qui n’as refusé à personne
 Le secours demandé, de tes pères
 Défends le royaume ; ils t’en prient,
 Les Polonais et les autres chrétiens.

@@ -46,7 +46,7 @@ Z Księgi Ekklezjastyka
 25 We mnie wszelka łaska drogi i prawdy, we mnie wszytka nadzieja żywota i cnoty.
 26 Przejdźcie do mnie wszyscy, którzy mnie pragniecie, i najedzcie się owoców moich!
 27 Abowiem duch mój słodszy nad miód a dziedzictwo moje nad miód i plastr miodu,
-28 Pamiątka moja na rodzaje wieków.
+28 pamiątka moja na rodzaje wieków.
 29 Którzy mię jedzą, jeszcze łaknąć będą, a którzy mię piją, jeszcze pragnąć będą.
 30 Kto mię słucha, nie będzie zawstydzon, a którzy przez mię sprawują, nie zgrzeszą; którzy mię objaśniają, będą mieć żywot wieczny.
 
@@ -87,17 +87,6 @@ R. Z Chrystusem króluje na wieki, alleluja.
 [Ant 2]
 Królowo świata najgodniejsza, * Marjo, zawsze Dziewico, wstawiaj się za nasz pokój i zbawienie, któraś urodziła Chrystusa Pana, Zbawiciela świata, alleluja.
 
-[Commemoratio 2]
-!Wspomnienie Św. Petronilli Dziewicy
-Ant. Przyjdź oblubienico Chrystusowa, * weź koronę, którą ci Pan przygotował na wieki, alleluja.
-_
-V. Rozlała się wdzięczność po wargach twoich, alleluja.
-R. Dlatego cię błogosławił Bóg na wieki, alleluja.
-_
-$Oremus
-Wysłuchaj nas, Boże, Zbawicielu nasz, abyśmy radując się z uroczystości błogosławionej Petronilli Dziewicy Twojej, uczucia żarliwej pobożności w sercach naszych żywili.
-$Per Dominum
-
 [Lectio Prima]
 !Syr 24:30-31
 v. Kto mię słucha, nie będzie zawstydzon, a którzy przez mię sprawują, nie zgrzeszą: którzy mię objaśniają, będą mieć żywot wieczny.
@@ -115,7 +104,7 @@ R. W cierpieniu wspólniczka, całego świata Królowa, alleluja.
 
 [Capitulum Sexta]
 !Syr 24:9-11
-v. I stałam na wszelkiej ziemi i między wszelkim ludem, i w każdym narodzie miałam przodek,a wszytkich wysokich i niskich serca mocąm podeptała.
+v. I stałam na wszelkiej ziemi i między wszelkim ludem, i w każdym narodzie miałam przodek, a wszytkich wysokich i niskich serca mocąm podeptała.
 $Deo gratias
 
 [Responsory Sexta]

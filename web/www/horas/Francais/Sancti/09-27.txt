@@ -1,5 +1,5 @@
 [Rank]
-S. Cosmæ et Damiani Martyrum;;Semiduplex;;2;;vide C3
+Sts Côme et Damien, Martyrs;;Semiduplex;;2;;vide C3
 
 [Rule]
 vide C3 ;
@@ -7,7 +7,7 @@ vide C3 ;
 Quorum Festum
 
 [Oratio]
-Accordez-nous, s’il vous plaît, ô Dieu tout-puissant, que, célébrant la naissance au ciel de vos bienheureux Martyrs Côme et Damien, nous soyons délivrés, grâce à leur intercession, de tous les maux qui nous menacent.
+Accordez-nous, s’il Vous plaît, ô Dieu tout-puissant, que, célébrant la naissance au ciel de Vos bienheureux Martyrs Côme et Damien, nous soyons délivrés, grâce à leur intercession, de tous les maux qui nous menacent.
 $Per Dominum
 
 [Lectio4]
@@ -24,13 +24,13 @@ Les deux frères Côme et Damien, originaires d’Égée, en Arabie, étaient de
 &teDeum
 
 [Lectio7]
-@Commune/C3:Lectio71
+@Commune/C3:Lectio7 in 2 loco
 
 [Lectio8]
-@Commune/C3:Lectio81
+@Commune/C3:Lectio8 in 2 loco
 
 [Responsory8]
-@Commune/C3:Responsory81
+@Commune/C3:Responsory8 in 2 loco
 
 [Lectio9]
-@Commune/C3:Lectio91
+@Commune/C3:Lectio9 in 2 loco

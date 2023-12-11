@@ -1,5 +1,8 @@
-[Rank](rubrica 1570 aut rubrica 1910 aut rubrica divino)
-Octavæ Ss. Petri et Pauli;;Duplex majus;;4;;vide C1
+[Rank] (rubrica divino)
+In Octava Ss. Apostolorum Petri et Pauli;;Duplex majus;;4.1;;vide C1
+
+[Rank] (rubrica tridentina)
+In Octava Ss. Apostolorum Petri et Pauli;;Duplex;;3.1;;vide C1
 
 [Rule]
 vide C1;
@@ -12,7 +15,7 @@ vide C1;
 @Sancti/07-03t
 
 [Oratio]
-Deus, cujus déxtera beátum Petrum ambulántem in fluctibus, ne mergerétur, eréxit, et coapostolum ejus Paulum, tertio naufragántem, de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut, ambórum meritis, æternitátis glóriam consequámur:
+Deus, cujus déxtera beátum Petrum ambulántem in fluctibus, ne mergerétur, eréxit, et coapóstolum ejus Paulum, tértio naufragántem, de profúndo pélagi liberávit: exáudi nos propítius, et concéde; ut, ambórum meritis, æternitátis glóriam consequámur:
 $Qui vivis
 
 [Lectio4]
@@ -33,7 +36,7 @@ In illo témpore: Cómpulit Jesus discipulos ascendere in naviculam, et præcede
 _
 Homilía sancti Hierónymi Presbýteri
 !Liber 2 Comment. in cap. 14 Matth.
-Discípulis Dóminus præcepit transfretare, et cómpulit ut ascenderent naviculam. Quo sermóne osténditur, invitos eos a Dómino recessisse, dum amore Præceptoris ne punctum quidem témporis ab eo volunt separari. Et, dimissa turba, ascéndit in montem solus orare. Si fuissent cum eo discípuli Petrus et Jacobus et Joánnes, qui víderant glóriam transformáti, fórsitan ascendíssent in montem cum eo; sed turba ad sublimia sequi non potest, nisi docúerit eam juxta mare in littore et alúerit in desérto.
+Discípulis Dóminus præcepit transfretare, et cómpulit ut ascenderent naviculam. Quo sermóne osténditur, invitos eos a Dómino recessisse, dum amóre Præceptoris ne punctum quidem témporis ab eo volunt separari. Et, dimissa turba, ascéndit in montem solus orare. Si fuíssent cum eo discípuli Petrus et Jacobus et Joánnes, qui víderant glóriam transformáti, fórsitan ascendíssent in montem cum eo; sed turba ad sublimia sequi non potest, nisi docúerit eam juxta mare in littore et alúerit in desérto.
 
 [Lectio8]
 Quod autem ascéndit solus orare, non ad eum réferas, qui de quinque pánibus quinque míllia saturávit hóminum, exceptis párvulis et muliéribus; sed ad eum, qui, audíta morte Joánnis, secessit in solitúdinem: non quod personam Dómini separemus, sed quod ópera ejus inter Deum hominémque divisa sint. Navicula autem in médio mari jactabátur fluctibus. Recte quasi invíti et retractántes Apóstoli a Dómino recesserant, ne, illo absente, naufragia sustinérent.

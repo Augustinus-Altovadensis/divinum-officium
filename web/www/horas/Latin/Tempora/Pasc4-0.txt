@@ -23,7 +23,7 @@ $Per Dominum
 [Lectio1]
 Incipit Epístola cathólica beáti Jacóbi Apóstoli
 !Jas 1:1-6
-1 Jacóbus, Dei et Dómini nostri Iesu Christi servus, duódecim tríbubus, quæ sunt in dispersióne, salútem.
+1 Jacóbus, Dei et Dómini nostri Jesu Christi servus, duódecim tríbubus, quæ sunt in dispersióne, salútem.
 2 Omne gáudium existimáte fratres mei, cum in tentatiónes várias incidéritis:
 3 sciéntes quod probátio fídei vestræ patiéntiam operátur.
 4 Patiéntia autem opus perféctum habet: ut sitis perfécti et íntegri in nullo deficiéntes.
@@ -43,7 +43,7 @@ R. Adhǽreat lingua mea fáucibus meis, si non memínero tui, allelúja, allelú
 8 Vir duplex ánimo incónstans est in ómnibus viis suis.
 9 Gloriétur autem frater húmilis in exaltatióne sua:
 10 dives autem in humilitáte sua, quóniam sicut flos fœni transíbit;
-11 exórtus est enim sol cum ardóre, et arefécit fœnum, et flos eius décidit, et decor vultus eius depériit: ita et dives in itinéribus suis marcéscet.
+11 exórtus est enim sol cum ardóre, et arefécit fœnum, et flos ejus décidit, et decor vultus ejus depériit: ita et dives in itinéribus suis marcéscet.
 
 [Responsory2]
 R. Vidérunt te aquæ, Deus, vidérunt te aquæ, et timuérunt: 

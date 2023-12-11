@@ -1,11 +1,11 @@
 [Rank]
-S. Damasi Papæ et Confessoris;;Semiduplex;;2.9;;vide C4
+St Damase Ier, pape et confesseur;;Semiduplex;;2.9;;vide C4
 
 [Rank1960]
-S. Damasi Papæ et Confessoris;;Duplex;;3;;vide C4
+St Damase Ier, pape et confesseur;;Duplex;;3;;vide C4
 
 [RankNewcal]
-S. Damasi Papæ et Confessoris;;Semiduplex;;2.5;;vide C4
+St Damase Ier, pape et confesseur;;Semiduplex;;2.5;;vide C4
 
 [Rule]
 vide C4;
@@ -36,13 +36,13 @@ Il établit la peine du talion contre ceux qui accuse- seraient à faux quelqu�
 L’Espagnol Damase, homme remarquable et versé dans les Écritures, ayant convoqué le premier concile de Constantinople, y étouffa la criminelle hérésie d’Eunomius et de Macédonius. C’est lui aussi qui condamna de nouveau l’assemblée de Rimini, déjà rejetée précédemment par Libère, en laquelle, comme l’écrit saint Jérôme, par suite des ruses d’Ursace et surtout de Valens, on avait proclamé la condamnation de la foi de Nicée. Il édifia deux basiliques, l’une sous le vocable de saint Laurent, près du théâtre de Pompée, l’autre sur la voie d’Ardée, aux Catacombes. Il prescrivit que, selon l’usage déjà reçu en plusieurs endroits, les Psaumes seraient chantés dans toutes les églises, jour et nuit, à deux chœurs ; et, qu’à la fin de chaque Psaume, on dirait : Gloire au Père, et au Fils, et au Saint-Esprit. Par son ordre, saint Jérôme ramena le Nouveau Testament à la fidélité au texte grec. Il découvrit aussi de nombreux corps de saints Martyrs et célébra leur mémoire par des pièces de poésie. Célèbre par sa vertu, sa science et sa prudence, presque octogénaire, il s’endormit dans le Seigneur, sous le règne de Théodose l’Ancien.
 
 [Lectio7]
-@Commune/C4:Lectio71
+@Commune/C4:Lectio7 in 2 loco
 
 [Lectio8]
-@Commune/C4:Lectio81
+@Commune/C4:Lectio8 in 2 loco
 
 [Lectio9]
-@Commune/C4:Lectio91
+@Commune/C4:Lectio9 in 2 loco
 
 [Ant 3] (rubrica divino aut rubrica 1955 aut rubrica 1960)
 @Commune/C4:Ant 3 summi Pontificis

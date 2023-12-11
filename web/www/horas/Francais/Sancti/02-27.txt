@@ -14,13 +14,13 @@ O Dieu, qui avez appris au bienheureux Gabriel à vénérer assidûment les doul
 $Qui vivis
 
 [Lectio1](sed non rubrica 1960)
-@Commune/C5:Lectio11
+@Commune/C5:Lectio1 in 2 loco
 
 [Lectio2](sed non rubrica 1960)
-@Commune/C5:Lectio21
+@Commune/C5:Lectio2 in 2 loco
 
 [Lectio3](sed non rubrica 1960)
-@Commune/C5:Lectio31
+@Commune/C5:Lectio3 in 2 loco
 
 [Lectio4]
 Gabriel né à Assise en Ombrie, de famille honorable, et appelé François en souvenir de son séraphique compatriote, manifesta dès l’enfance un excellent naturel. Pendant son adolescence, alors qu’il étudiait les lettres à Spolète, il parut quelque peu attiré par la vaine apparence et les pompes du monde. Mais par la grâce du Dieu miséricordieux qui déjà l’invitait à la perfection de la vie chrétienne, étant tombé malade, il commença de prendre en dégoût les vanités du siècle et de ne plus désirer que les biens immortels. Mais pour qu’il obéît plus promptement au Dieu qui l’appelait, il arriva qu’ayant contemplé l’image de la Bienheureuse Vierge qu’on portait en procession solennelle, hors de l’enceinte de l’église de Spolète, il en conçut une vive flamme d’amour divin et résolut d’entrer dans l’Institut des Clercs de la Passion de Jésus. C’est pourquoi, après avoir triomphé de grosses difficultés, il entra à la retraite de Morovallo, en reçut l’habit de deuil et choisit le nom de Gabriel de la Vierge des douleurs, pour honorer perpétuellement le souvenir des douleurs et des joies de la Vierge.
@@ -37,7 +37,7 @@ Lecture du saint Évangile selon saint Marc.
 En ce temps-là, on présentait à Jésus des petits enfants, pour qu’il les touchât mais ses disciples menaçaient ceux qui les présentaient. Et le reste.
 _
 Homélie de saint Bède le vénérable, Prêtre.
-!Commentárium in Marcum 10:13-21
+!Commentaire de Marc, ch. 10, 13-21
 Jésus dit à ses disciples : Laissez les petits enfants venir à moi et ne les en empêchez pas, car c’est à leurs pareils qu’appartient le royaume de Dieu. C’est à dessein qu’il a dit : C’est à leurs pareils et non pas : C’est à eux, pour montrer que ce n’est pas à l’âge, mais aux mœurs qu’appartient le règne et que la récompense est promise à ceux qui auraient semblable innocence et simplicité. L’Apôtre, lui aussi, est du même avis : Frères, ne devenez pas des enfants par vos jugements, mais soyez des tout petits, par la malice ; par vos jugements soyez des parfaits. En vérité, je vous le dis, quiconque ne recevra pas le royaume de Dieu, comme un tout petit, n’y entrera pas. De même que l’enfant ne persévère pas dans sa colère, ne se souvient pas d’une offense, ne se délecte pas à voir une belle femme, ne pense pas autrement qu’il ne parle ; ainsi vous-mêmes, à moins d’avoir pareille innocence et pureté d’esprit, ne pourrez pas entrer dans le royaume des cieux. En d’autres termes, nous recevons l’ordre d’accepter comme de petits enfants, la doctrine de l’Évangile. Car, de même que l’enfant ne contredit pas les maîtres qui l’enseignent, n’aligne pas des raisonnements et des phrases pour les leur opposer, ainsi nous-mêmes devons-nous, en obéissant simplement et sans aucune résistance aux paroles du Seigneur, les mettre en pratique : Et les embrassant et leur imposant les mains, z 7 /es bénissait. En les embrassant, il bénit les enfants pour signifier que les humbles d’esprit sont dignes de sa bénédiction, de sa grâce et de son amour.
 
 [Lectio8]

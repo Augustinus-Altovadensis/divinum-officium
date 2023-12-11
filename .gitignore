@@ -7,17 +7,9 @@ docker-compose.override.yml
 
 # Temporary files created by nano
 .*.swp
-**/.DS_Store
-*.afpub~lock~
-web/www/horas/Bohemice/.DS_Store
-web/www/.DS_Store
-web/www/horas/.DS_Store
-web/www/horas/Bohemice/.DS_Store
-.DS_Store
-web/.DS_Store
-web/cgi-bin/.DS_Store
-web/www/horas/Bohemice/.DS_Store
-*.odt#
-web/cgi-bin/horas/officium.pl
-web/cgi-bin/horas/officium.pl
-share.nosync/Fr. Gregora. Pekelný valčík/.mscbackup/.Pekelný valčík.mscz~
+
+# Generated files
+standalone/tools/epubgen2/output
+
+# dev tools
+.idea

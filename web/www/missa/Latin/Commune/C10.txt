@@ -12,7 +12,7 @@ Prefatio=Maria=veneratione;
 [Introitus]
 !Sedulius
 v. Salve, sancta Parens, eníxa puérpera Regem: qui cœlum terrámque regit in~
-sǽecula sæculórum.
+sǽcula sæculórum.
 !Ps 44:2
 Eructávit cor meum verbum bonum: dico ego ópera mea Regi.
 &Gloria
@@ -26,7 +26,7 @@ præsénti liberári tristítia, et ætérna pérfrui lætítia.
 $Per Dominum
 
 [Lectio]
-Léctio libri Sapiéntiæ.
+Léctio libri Sapiéntiæ
 !Eccli 24:14-16
 Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi. Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea.
 

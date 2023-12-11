@@ -1,34 +1,8 @@
 #Incipit
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
-#Hymnus {:H-Prima1:}
-v. Déjà paraît l'astre éclatant,
-Prions, supplions Dieu,
-Pour qu'en nos œuvres de ce jour
-Il nous préserve de tout mal.
-_
-Qu'Il bride et règle notre langue
-Pour éviter l'éclat de l'horrible discorde,
-Qu'Il voile avec soin nos regards
-Pour qu'aux vanités ils ne puisent.
-_
-Que dans notre cœur tout soit pur,
-Que la malice en soit bannie,
-Que la modération du boire et du manger
-Terrasse l'orgeuil de la chair.
-_
-Afin qu'au départ de ce jour,
-Quand la nuit reprendra son tour,
-Gardés purs par notre réserve,
-Nous Lui chantions un hymne de gloire.
-_
-* A Dieu le Père soit la gloire
-Et à Son Fils unique,
-Avec l'Esprit Consolateur,
-Maintenant et dans tous les siècles.
-Ainsi soit-il.
+#Hymnus
 
 
 #Psalmi
@@ -47,7 +21,7 @@ V. Levez-Vous, ô Christ, aidez-nous.
 R. Et délivrez-nous pour la gloire de Votre Nom.
 
 #Orationes
-&Dominus_vobiscum1
+&Dominus_vobiscum
 v. Prions.
 v. Seigneur, Dieu tout-puissant, qui nous avez fait parvenir au commencement de ce jour, sauvez-nous aujourd'hui par Votre puissance, afin que durant le cours de cette journée nous ne nous laissions aller à aucun péché: mais que nos paroles, nos pensées et nos œuvres tendent toujours à l'accomplissement de Votre justice.
 $Per Dominum

@@ -1,5 +1,5 @@
 [Rank]
-S. Joannis Mariæ Vianney Confessoris;;Duplex;;3;;vide C5
+St Jean-Marie Vianney, Confesseur;;Duplex;;3;;vide C5
 
 [Rule]
 vide C5 ;mtv
@@ -9,10 +9,10 @@ vide C5 ;mtv
 @Sancti/08-08r :Oratio
 
 [Commemoratio 1]
-!Commemoratio S. Romani Martyris
+!Commémoraison de St Romain Martyr
 @Commune/C2:Oratio proper
 $Oremus
-Faites, s’il vous plaît, Dieu tout-puissant, que par l’intercession du bienheureux Romain, votre Martyr, nous soyons délivrés de toute adversité corporelle, et que notre âme soit purifiée de toute pensée mauvaise.
+Faites, s’il Vous plaît, Dieu tout-puissant, que par l’intercession du bienheureux Romain, Votre Martyr, nous soyons délivrés de toute adversité corporelle et que notre âme soit purifiée de toute pensée mauvaise.
 $Per Dominum.
 
 [Lectio Vigilia]
@@ -33,15 +33,15 @@ Souvent invité par les curés voisins à venir, comme le font les missionnaires
 @Sancti/08-09t :Lectio1
 
 [Commemoratio 2]
-!Commemoratio S. Romani Martyris
+!Commémoraison de St Romain Martyr
 @Commune/C2:Oratio proper
 $Oremus
-Faites, s’il vous plaît, Dieu tout-puissant, que par l’intercession du bienheureux Romain, votre Martyr, nous soyons délivrés de toute adversité corporelle, et que notre âme soit purifiée de toute pensée mauvaise.
+Faites, s’il Vous plaît, Dieu tout-puissant, que par l’intercession du bienheureux Romain, Votre Martyr, nous soyons délivrés de toute adversité corporelle et que notre âme soit purifiée de toute pensée mauvaise.
 $Per Dominum.
 
 [Oratio Vigilia]
 !Commemoraison de la Vigile de St Laurent
-Exaucez nos supplications, Seigneur : et par l’intercession du bienheureux Laurent votre Martyr, dont nous devançons la fête, faites-nous ressentir avec bienveillance les effets de votre miséricorde.
+Exaucez nos supplications, Seigneur et, par l’intercession du bienheureux Laurent, Votre Martyr, dont nous devançons la fête, faites-nous ressentir avec bienveillance les effets de Votre miséricorde.
 $Per Dominum
 
 [Lectio94]

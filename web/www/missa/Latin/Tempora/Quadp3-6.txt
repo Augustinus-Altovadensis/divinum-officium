@@ -1,5 +1,8 @@
 [Rank]
-Sabbato post Cineres;;Feria major;;2
+Sabbato post Cineres;;Feria major;;2.1
+
+[Rank] (rubrica 196)
+Sabbato post Cineres;;Feria major;;4.9
 
 [Rule]
 no Gloria

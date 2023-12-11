@@ -3,35 +3,9 @@ $Pater noster
 $Ave Maria
 $Credo
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
-#Hymnus {:H-Prima1:}
-v. Jam lucis orto sídere,
-Deum precémur súpplices,
-Ut in diúrnis áctibus
-Nos servet a nocéntibus.
-_
-Linguam refrénans témperet,
-Ne litis horror ínsonet:
-Visum fovéndo cóntegat,
-Ne vanitátes háuriat.
-_
-Sint pura cordis íntima,
-Absístat et vecórdia;
-Carnis terat supérbiam
-Potus cibíque párcitas.
-_
-Ut, cum dies abscésserit,
-Noctémque sors redúxerit,
-Mundi per abstinéntiam
-Ipsi canámus glóriam.
-_
-* Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
-Amen.
+#Hymnus
 
 #Psalmi
 
@@ -52,7 +26,10 @@ R. Et líbera nos propter nomen tuum.
 v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
 !« Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: »
 &pater_noster
-$Credo
+!« Credo » dicitur secreto usque ad « Carnis resurrectiónem. »
+v. Credo in Deum, Patrem omnipoténtem, Creatórem cæli et terræ. Et in Jesum Christum, Fílium ejus únicum, Dóminum nostrum: qui concéptus est de Spíritu Sancto, natus ex María Vírgine, passus sub Póntio Piláto, crucifíxus, mórtuus, et sepúltus: descéndit ad ínferos; tértia die resurréxit a mórtuis; ascéndit ad cælos; sedet ad déxteram Dei Patris omnipoténtis: inde ventúrus est judicáre vivos et mórtuos. Credo in Spíritum Sanctum, sanctam Ecclésiam cathólicam, Sanctórum communiónem, remissiónem peccatórum.
+V. Carnis resurrectiónem.
+R. Vitam ætérnam. Amen.
 V. Et ego ad te, Dómine, clamávi.
 R. Et mane orátio mea prævéniet te.
 V. Repleátur os meum laude.

@@ -1,9 +1,9 @@
 [Rank]
-Dominica in Palmis;;I classis Semiduplex;;6
+Dominica in Palmis;;I classis Semiduplex;;6.91
 
 [Rule]
 9 lectiones
-Symbolum Athanasium(rubrica 1570 aut rubrica 1910)
+Symbolum Athanasium(rubrica tridentina)
 
 [Ant 1]
 Pater juste, * mundus te non cognóvit: ego autem novi te, quia tu me misísti.

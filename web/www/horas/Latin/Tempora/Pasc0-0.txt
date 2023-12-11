@@ -7,6 +7,7 @@ Omit Hymnus Preces Suffragium Commemoratio;
 Minores sine Antiphona;
 Capitulum Versum 2;
 Psalmi Dominica
+Special Evangelii Benedictio
 Prima=53
 
 [Ant 1]
@@ -23,7 +24,7 @@ Ant. Véspere autem sábbati * quæ lucéscit in prima sábbati, venit María Ma
 Surréxit Dóminus vere, * Allelúja.
 
 [Prelude Matutinum] (rubrica 1955 aut rubrica 1960)
-!Cum solemnis vigiliæ paschalis celebratio locum obtineat officii nocturni dominicæ Resurrectionis, Matutino eiusdem dominicæ Resurrectionis omisso, statim inter Missarum vigiliæ solemnia, post communionem, cantatur Laudes. Officium dominicæ Resurrectionis prosequitur deínde cum Prima.
+!Cum solemnis vigiliæ paschalis celebratio locum obtineat officii nocturni dominicæ Resurrectionis, Matutino ejusdem dominicæ Resurrectionis omisso, statim inter Missarum vigiliæ solemnia, post communionem, cantatur Laudes. Officium dominicæ Resurrectionis prosequitur deínde cum Prima.
 _
 !Qui vero solemni vigiliæ paschali non interfuerunt, tenentur dicere Matutinum et Laudes dominicæ Resurrectionis.
 
@@ -110,7 +111,7 @@ $Per Dominum eiusdem
 
 V. Benedicámus Dómino, allelúja, allelúja.
 R. Deo grátias, allelúja, allelúja.
-$Fidelium animæ
+$Fidelium animae
 $Pater noster
 
 [Ant Vespera]

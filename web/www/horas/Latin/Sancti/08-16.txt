@@ -1,7 +1,7 @@
 [Rank]
 S. Joachim Confessoris, Patris B. M. V.;;Duplex II classis;;5.1;;ex C5
 
-[Rank1960]
+[Rank] (rubrica 1960)
 S. Joachim Confessoris, Patris B. M. V.;;Duplex II classis;;5;;ex C5
 
 [Rule]
@@ -16,9 +16,7 @@ R. Generátio rectórum benedicétur.
 Laudémus * virum gloriósum in generatióne sua, quia benedictiónem ómnium géntium dedit illi Dóminus, et testaméntum suum confirmávit super caput ejus.
 
 [Oratio]
-Deus, qui præ ómnibus Sanctis tuis beátum Jóachim Genetrícis Fílii tui patrem~
-esse voluísti: concéde, quǽsumus; ut, cujus festa venerámur, ejus quoque~
-perpétuo patrocínia sentiámus.
+Deus, qui præ ómnibus Sanctis tuis beátum Jóachim Genetrícis Fílii tui patrem esse voluísti: concéde, quǽsumus; ut, cujus festa venerámur, ejus quoque perpétuo patrocínia sentiámus.
 $Per eumdem
 
 [Lectio4]

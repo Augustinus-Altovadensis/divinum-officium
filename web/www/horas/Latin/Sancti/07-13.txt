@@ -1,5 +1,5 @@
 [Rank]
-S. Anacleti Papæ et Martyris;;Semiduplex;;2;;vide C2
+S. Anacleti Papæ et Martyris;;Semiduplex;;2.2;;vide C2
 
 [Rule]
 vide C2;
@@ -25,10 +25,10 @@ Anaclétus Atheniénsis, Trajáno imperatóre rexit Ecclésiam. Decrévit ut ep�
 &teDeum
 
 [Lectio7]
-@Commune/C4:Lectio71
+@Commune/C4:Lectio7 in 2 loco
 
 [Lectio8]
-@Commune/C4:Lectio81
+@Commune/C4:Lectio8 in 2 loco
 
 [Lectio9]
-@Commune/C4:Lectio91
+@Commune/C4:Lectio9 in 2 loco

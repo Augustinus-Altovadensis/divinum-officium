@@ -6,22 +6,18 @@ vide C6;
 9 lectiones
 
 [Oratio]
-Bonórum ómnium largítor, omnípotens Deus, qui beátam Rosam, cæléstis grátiæ~
-rore prævéntam, virginitátis et patiéntiæ decóre Indis floréscere voluísti: da~
-nobis fámulis tuis; ut, in odórem suavitátis ejus curréntes, Christi bonus odor~
-éffici mereámur:
+Bonórum ómnium largítor, omnípotens Deus, qui beátam Rosam, cæléstis grátiæ rore prævéntam, virginitátis et patiéntiæ decóre Indis floréscere voluísti: da nobis fámulis tuis; ut, in odórem suavitátis ejus curréntes, Christi bonus odor éffici mereámur:
 $Qui tecum
 
 [Commemoratio]
 !Commemoratio Ss. Felicis et Adaucti Martyrum
 @Commune/C3:Oratio proper
 $Oremus
-v. Majestátem tuam, Dómine, súpplices exorámus: ut, sicut nos júgiter Sanctórum~
-tuórum commemoratióne lætíficas; ita semper supplicatióne deféndas.
+v. Majestátem tuam, Dómine, súpplices exorámus: ut, sicut nos júgiter Sanctórum tuórum commemoratióne lætíficas; ita semper supplicatióne deféndas.
 $Per Dominum
 
 [Hymnus Matutinum]
-@Commune/C6:Hymnus Matutinum 1
+@Commune/C6:Hymnus Matutinum pro Virgo tantum et non Martyr
 
 [Lectio4]
 Primus Americæ Meridionalis flos sanctitatis, virgo Rosa, christianis parentibus Limæ progenita, mox ab incunabulis claruit futuræ sanctimoniæ indiciis. Nam vultus infantis mirabiliter in rosæ effugiem transfiguratus, huic nomini occasionem dedit: cui postea Virgo Deipara cognomen adjecit, jubens vocari deinceps Rosam a sancta Maria. Quinquennis votum perpetuæ virginitatis emisit. Adultior, ne a parentibus ad nuptias cogeretur, clam sibimet venustissimam capitis cæsariem præscidit. Jejuniis supra humánum modum addicta, integras Quadragesimas transegit, pane abstinens, ac dietim solis quinque granulis mali citrini victitans.

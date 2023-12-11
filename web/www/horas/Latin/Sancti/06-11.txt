@@ -1,7 +1,7 @@
 [Rank]
 S. Barnabæ Apostoli;;Duplex majus;;4;;ex C1
 
-[Rank1960]
+[Rank] (rubrica 1960)
 S. Barnabæ Apostoli;;Duplex;;3;;vide C1
 
 [Rule]
@@ -11,9 +11,7 @@ Psalmi Dominica
 Antiphonas horas
 
 [Oratio]
-Deus, qui nos beáti Bárnabæ Apóstoli tui méritis et intercessióne lætíficas:~
-concéde propítius; ut, qui tua per eum benefícia póscimus, dono tuæ grátiæ~
-consequámur.
+Deus, qui nos beáti Bárnabæ Apóstoli tui méritis et intercessióne lætíficas: concéde propítius; ut, qui tua per eum benefícia póscimus, dono tuæ grátiæ consequámur.
 $Per Dominum
 
 [Lectio1]

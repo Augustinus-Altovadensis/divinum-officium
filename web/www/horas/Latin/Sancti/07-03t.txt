@@ -1,5 +1,5 @@
 [Rank]
-Quinta die infra Octavam Ss. Petri et Pauli.;;Semiduplex;;1.9;;vide C1
+Quinta die infra Octavam Ss. Apostolorum Petri et Pauli;;Semiduplex;;2;;vide C1
 
 [Rule]
 vide C1;
@@ -26,7 +26,7 @@ R. Memores erunt nominis tui Domine.
 [Lectio4]
 De Sermone sancti Leonis Papæ.
 !Ex Serm. 82. in natali Ss. Apost. Petri et Pauli, in fine.
-Pretiosa est in conspectu Domini mors sanctorum eius: nec ullo crudelitatis~
+Pretiosa est in conspectu Domini mors sanctorum ejus: nec ullo crudelitatis~
 genere destrui potest sacramento crucis Christi fundata religio. Non minuitur~
 persecutionibus Ecclesia, sed augetur: et semper Dominicus ager segete ditiori~
 vestitur, dum grana, quæ singula cadunt, multiplicata nascuntur. Unde duo ista~
@@ -46,7 +46,7 @@ loquendi superant facultatem, nihil diversum, nihil debemus sentire discretum:~
 quia illos et electio pares, et labor similes, et finis fecit æquales.
 
 [Lectio6]
-Sicut autem et nos experti sumus, et nostri probavere maiores, credimus atque~
+Sicut autem et nos experti sumus, et nostri probavere majores, credimus atque~
 confidimus, inter omnes labores istius vitæ ad obtinendam misericordiam Dei~
 semper nos specialium patronorum orationibus adjuvandos: ut quantum propriis~
 peccatis deprimimur, tantum apostolicis meritis erigamur: Per Dominum nostrum~

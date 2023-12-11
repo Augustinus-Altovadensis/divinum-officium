@@ -28,7 +28,7 @@ $Oremus
 v. Shield, O Lord, thy people, and ever keep them in thy care, who put their trust in the pleading of thy Apostles Peter and Paul, and of the other Apostles.
 v. May all thy saints, we beseech thee, O Lord, everywhere come to our help, that while we do honor to their merits, we may also enjoy their intercession: grant thy own peace unto our times, and drive away all wickedness from thy Church; direct our way, our actions, and our wishes and those of all thy servants in the way of salvation; to our benefactors render everlasting blessings, and to all the faithful departed grant eternal rest.
 $Per Dominum
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
 
 [Pre oratio]
 
@@ -43,11 +43,10 @@ $Oremus
 #Incipit
 _
 $Ave Maria
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
 V. Turn us then, +++ O God, our saviour: 
 R. And let thy anger cease from us.
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
 #Psalmi
@@ -68,9 +67,9 @@ V. Pray for us, O holy Mother of God.
 R. That we may be made worthy of the promises of Christ.
 
 #Canticum Nunc dimittis
-Ant. We take refuge * under thy protection, O holy Mother of God! Despise not our supplications in our need, but deliver us alway from all dangers, O Virgin, glorious and blessed!
+Ant. We take refuge * under thy protection, O holy Mother of God! Despise not our supplications in our need, but deliver us always from all dangers, O Virgin, glorious and blessed!
 &psalm(233)
-Ant. We take refuge * under thy protection, O holy Mother of God! Despise not our supplications in our need, but deliver us alway from all dangers, O Virgin, glorious and blessed!
+Ant. We take refuge * under thy protection, O holy Mother of God! Despise not our supplications in our need, but deliver us always from all dangers, O Virgin, glorious and blessed!
 
 @:Pre oratio
 v. O Lord, we pray thee, that the glorious intercession of Mary, blessed, and glorious, and everlastingly Virgin, may shield us and bring us on toward eternal life.
@@ -89,7 +88,7 @@ R. Amen.
 $Pater noster
 $Ave Maria
 $Credo
-(sed rubrica 1955 aut rubrica 1960 omittitur)
+(sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
 
 [Ant Matutinum]
 @Commune/C11::s/V\. .*/V. Grace is poured into thy lips./g s/R\. .*/R. Therefore God hath blessed thee for ever./g
@@ -120,12 +119,7 @@ R. Thou hast borne him who created thee, and thou abidest a virgin for ever.
 &teDeum
 
 [Responsory3]
-R. O holy Virgin Mary, happy indeed art thou, and right worthy of all praise
-* For out of thee rose the Sun of righteousness, even Christ our God.
-V. Pray for the people, plead for the clergy, make intercession for all women vowed to God. Let all that are making this holy memorial of thee feel the might of thine assistance.
-R. For out of thee rose the Sun of righteousness
-&Gloria
-R. Even Christ our God.
+@Commune/C11:Responsory7:s/May all that are keeping this thine holy Feast day/Let all that are making this holy memorial of thee/ s/(R. For out of thee rose the Sun of righteousness), (even Christ our God.)/$1.\n&Gloria\nR. \u$2/
 
 [Ant Laudes]
 Mary hath been taken to heaven; * the Angels rejoice; they praise and bless the Lord.
@@ -138,6 +132,10 @@ Fair and comely art thou, O daughter of Jerusalem, * terrible as a fenced camp s
 !Song 6:8
 v. The daughters of Zion saw her, and called her blessed; the queens also, and they praised her.
 $Deo gratias
+
+[HymnusM minor]
+@:Hymnus minor:1-12
+@Psalterium/Doxologies:NatT
 
 [Hymnus minor]
 

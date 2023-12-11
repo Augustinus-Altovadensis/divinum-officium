@@ -1,7 +1,7 @@
 [Rank]
 S. Nominis Beatæ Mariæ Virginis;;Duplex majus;;4;;ex C11
 
-[Rank1960]
+[Rank] (rubrica 1960)
 S. Nominis Beatæ Mariæ Virginis;;Duplex;;3;;vide C11
 
 [Rule]
@@ -21,15 +21,15 @@ Concéde, quǽsumus, omnípotens Deus: ut fidéles tui, qui sub sanctíssimæ V�
 $Per Dominum
 
 [Lectio4]
-Sermo sancti Bernardi Abbatis
+Sermo sancti Bernárdi Abbátis
 !Ex Homil. 2 super Missus est, circa finem
-Et nomen, inquit, Vírginis Maria. Loquámur pauca, et super hoc nómine, quod interpretátum maris stella dícitur, et Matri Virgini valde conveniénter aptátur. Ipsa namque aptíssime sideri comparátur, quia sicut sine sui corruptióne sidus suum emittit radium, sic absque sui læsióne Virgo parturívit Fílium. Nec síderi radius suam minuit claritátem, nec Virgini Fílius suam integritátem. Ipsa est ígitur nobilis illa stella ex Jacob orta, cujus radius univérsum orbem illúminat, cujus splendor et præfulget in supernis, et ínferos penetrat; terras étiam perlustrans, et calefáciens magis mentes quam corpora, fovet virtútes, éxcoquit vitia. Ipsa, inquam, est præclára et exímia stella super hoc mare magnum et spatiósum necessario sublevata, micans meritis, illustrans exemplis.
+Et nomen, inquit, Vírginis Maria. Loquámur pauca, et super hoc nómine, quod interpretátum maris stella dícitur, et Matri Vírgini valde conveniénter aptátur. Ipsa namque aptíssime síderi comparátur, quia sicut sine sui corruptióne sidus suum emíttit rádium, sic absque sui læsióne Virgo parturívit Fílium. Nec síderi rádius suam mínuit claritátem, nec Vírgini Fílius suam integritátem. Ipsa est ígitur nóbilis illa stella ex Jacob orta, cujus rádius univérsum orbem illúminat, cujus splendor et præfúlget in supérnis, et ínferos pénetrat; terras étiam perlústrans, et calefáciens magis mentes quam córpora, fovet virtútes, éxcoquit vítia. Ipsa, inquam, est præclára et exímia stella super hoc mare magnum et spatiósum necessário subleváta, micans méritis, illústrans exémplis.
 
 [Lectio5]
-O quisquis te intelligis in hujus sæculi profluvio magis inter procellas et tempestates fluctuare, quam per terram ambuláre; ne avértas óculos a fulgóre hujus sideris, si non vis óbrui procellis. Si insurgant venti tentatiónum, si incurras scópulos tribulatiónum, réspice stellam, voca Mariam. Si jactaris supérbiæ undis, si ambitiónis, si detractiónis, si æmulatiónis, réspice stellam, voca Mariam. Si iracúndia aut avarítia aut carnis illécebra naviculam concusserit mentis, réspice ad Mariam. Si criminum immanitate turbátus, consciéntiæ fœditate confúsus, judícii horrore perterritus, bárathro incipias absorberi tristítiæ, desperatiónis abysso, cogita Mariam.
+O quisquis te intélligis in hujus sǽculi proflúvio magis inter procéllas et tempestátes fluctuáre, quam per terram ambuláre; ne avértas óculos a fulgóre hujus síderis, si non vis óbrui procéllis. Si insúrgant venti tentatiónum, si incúrras scópulos tribulatiónum, réspice stellam, voca Maríam. Si jactáris supérbiæ undis, si ambitiónis, si detractiónis, si æmulatiónis, réspice stellam, voca Maríam. Si iracúndia aut avarítia aut carnis illécebra navículam concússerit mentis, réspice ad Maríam. Si críminum immanitáte turbátus, consciéntiæ fœditáte confúsus, judícii horróre pertérritus, bárathro incípias absorbéri tristítiæ, desperatiónis abýsso, cógita Maríam.
 
 [Lectio6]
-In periculis, in angustiis, in rebus dubiis Mariam cogita, Mariam ínvoca. Non recedat ab ore, non recedat a corde; et, ut ímpetres ejus oratiónis suffragium, non déseras conversatiónis exemplum. Ipsam sequens, non dévias; ipsam rogans, non despéras; ipsam cogitans, non erras; ipsa tenente, non corruis; ipsa protegénte, non metuis; ipsa duce, non fatigaris; ipsa propitia, pérvenis: et sic in temetípso experiris quam mérito dictum sit: Et nomen Vírginis Maria. - Quod quidem venerábile nomen, jamprídem in quibusdam christiáni orbis partibus speciali ritu cultum, Innocentius undecimus Romanus Pontifex, ob insignem victoriam sub ejusdem Vírginis Maríæ præsidio de immaníssimo Turcárum tyranno, cervicibus pópuli christiáni insultante, Viennæ in Austria partam, et in perenne tanti beneficii monuméntum, in Ecclésia universali singulis annis celebrari præcepit.
+In perículis, in angústiis, in rebus dúbiis Maríam cógita, Maríam ínvoca. Non recédat ab ore, non recédat a corde; et, ut ímpetres ejus oratiónis suffrágium, non déseras conversatiónis exémplum. Ipsam sequens, non dévias; ipsam rogans, non despéras; ipsam cógitans, non erras; ipsa tenénte, non córruis; ipsa protegénte, non métuis; ipsa duce, non fatigáris; ipsa propítia, pérvenis: et sic in temetípso experíris quam mérito dictum sit: Et nomen Vírginis María. - Quod quidem venerábile nomen, jamprídem in quibúsdam christiáni orbis pártibus speciáli ritu cultum, Innocéntius undécimus Románus Póntifex, ob insígnem victóriam sub ejusdem Vírginis Maríæ præsídio de immaníssimo Turcárum tyránno, cervícibus pópuli christiáni insultánti, Viénnæ in Austria partam, et in perenne tanti benefícii monuméntum, in Ecclésia universáli síngulis annis celebrári præcépit.
 
 [Lectio7]
 Léctio sancti Evangélii secúndum Lucam
@@ -41,10 +41,7 @@ Homilía sancti Petri Chrysólogi
 Audístis hódie, fratres caríssimi, Angelum cum muliere de hóminis reparatióne tractántem. Audístis agi, ut homo cursibus eisdem, quibus delapsus fuerat ad mortem, rediret ad vitam. Agit, agit cum Maria Angelus de salúte, quia cum Heva angelus egerat de ruína. Audístis Angelum de carnis nostræ limo templum divinæ majestátis arte ineffábili construentem. Audístis in terris Deum in cælis hóminem sacraménto incomprehensibili collocari. Audístis inaudíta ratióne in uno corpore Deum hominémque misceri. Audístis frágilem nostræ carnis natúram ad portandam totam Deitátis glóriam angelica exhortatióne roborari.
 
 [Responsory7]
-R. Felix namque es, sacra Virgo María, et omni laude digníssima: 
-* Quia ex te ortus est sol justítiæ, Christus, Deus noster.
-V. Ora pro pópulo, intérveni pro clero, intercéde pro devóto femineo sexu: séntiant omnes tuum juvámen, quicúmque célebrant tui sancti nóminis commemoratiónem.
-R. Quia ex te ortus est sol justítiæ, Christus, Deus noster.
+@Commune/C11:Responsory7:s/tuam sanctam festivitátem/tui sancti nóminis commemoratiónem/
 
 [Lectio8]
 Denique, ne tanto pónderi cæléstis fabricæ in Maria subtilis nostri corporis arena succumberet, et in Vírgine totius generis humani portatúra fructum, virga ténuis frangerétur; fugatúra metum vox Angeli mox præcessit, dicens: Ne timeas, Maria. Ante causam dignitas Vírginis annuntiátur ex nómine; nam Maria Hebræo sermóne, Latine Domina nuncupátur. Vocat ergo Angelus Dominam, ut Dominatoris Genitricem trepidátio déserat servitutis, quam nasci et vocari Dominam ipsa sui Gérminis fecit et impetrávit auctoritas. Ne timeas, Maria, invenísti enim grátiam. Verum est, quia, qui invénit grátiam, nescit timére: Invenísti grátiam.

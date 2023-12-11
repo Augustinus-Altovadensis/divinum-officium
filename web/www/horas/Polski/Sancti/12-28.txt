@@ -26,25 +26,28 @@ $Per Dominum
 
 [Hymnus Matutinum]
 v. Słyszy tyran przerażony,
-że zjawił się Król królów,
-który ma panować nad imieniem Izraela
-i posiąść stolicę Dawidową.
+Że zjawił się Król królów,
+Który ma panować nad imieniem Izraela
+I posiąść stolicę Dawidową.
 _
 Na wieść woła nieprzytomny:
 Następca grozi, wypędzi nas;
-sługo, biegnij, chwyć miecz,
-oblej kolebki krwią.
+Sługo, biegnij, chwyć miecz,
+Oblej kolebki krwią.
 _
 Nacóż zda się tak wielka bezbożność?
 Cóż pomaga Herodowi tak wielka zbrodnia?
 Jeden wśród tylu pomordowanych
-uchodzi bez szkody Chrystus.
+Uchodzi bez szkody Chrystus.
 _
 Jezu, Tobie niechaj będzie chwała,
-który narodziłeś się z Dziewicy,
-oraz Ojcu i dobroczynnemu Duchowi,
-po nieskończone wieki.
+Który narodziłeś się z Dziewicy,
+Oraz Ojcu i dobroczynnemu Duchowi,
+Po nieskończone wieki.
 Amen.
+
+[HymnusM Matutinum]
+@:Hymnus Matutinum:s/Jezu, Tobie niechaj będzie chwała/Chwała niech Ci będzie Panie/
 
 [Lectio1]
 Z Proroka Jeremiasza
@@ -55,9 +58,9 @@ Z Proroka Jeremiasza
 
 [Responsory1]
 R. Sto czterdzieści cztery tysiące, którzy są kupieni z ziemie, ci są, którzy się z niewiastami nie pokalali.
-* Virgines enim permanserunt, ideo regnant cum Deo, et Agnus Dei cum illis.
+* Ponieważ dziewicami pozostali, dlatego królują z Bogiem i Baranek Boży z nimi.
 V. Ci są, którzy przyszli z ucisku wielkiego, i omyli szaty swoje we krwi Barankowéj.
-R. Virgines enim permanserunt, ideo regnant cum Deo, et Agnus Dei cum illis.
+R. Ponieważ dziewicami pozostali, dlatego królują z Bogiem i Baranek Boży z nimi.
 
 [Lectio2]
 !Jr 31:18-20
@@ -67,7 +70,7 @@ R. Virgines enim permanserunt, ideo regnant cum Deo, et Agnus Dei cum illis.
 
 [Lectio3]
 !Jr 31:21-23
-21 Postaw sobie strażnicę, nakładź sobie gorzkości, obróć serce swe ku drodze prostéj, którąś chodziła! wróć się, panno Izraelska! wróć się do tych miast twoich.
+21 Postaw sobie strażnicę, nakładź sobie gorzkości, obróć serce swe ku drodze prostéj, którąś chodziła, wróć się, panno Izraelska, wróć się do tych miast twoich.
 22 Dokądże od rozkoszy rozpuścisz się, córko błędna? Bo Pan stworzył nowinę na ziemi: białagłowa ogarnie męża.
 23 To mówi Pan zastępów, Bóg Izraelów: Jeszcze będą mówić to słowo w ziemi Judzkiej i w mieściech jéj, gdy nawrócę poimanie ich: Niechaj ci błogosławi Pan, piękność sprawiedliwości, góro święta!
 
@@ -160,22 +163,6 @@ R. W Betlejem Judy, mieście Dawidowem.
 
 [Ant 2]
 Ci są * którzy się z niewiastami nie pokalali: bo dziewicami są, ci chodzą za Barankiem, gdziekolwiek idzie.
-
-[Commemoratio 2]
-@Sancti/12-25:Octava 2
-
-[Commemoratio 3]
-@Sancti/12-25:Octava 3
-
-[Commemoratio 2] (rubrica trident)
-@Sancti/12-25:Octava 2
-@Sancti/12-26:Octava 2
-@Sancti/12-27:Octava 2
-
-[Commemoratio 3] (rubrica trident)
-@Sancti/12-25:Octava 3
-@Sancti/12-26:Octava 3
-@Sancti/12-27:Octava 3
 
 [Lectio Prima]
 !Ap 14:4-5

@@ -7,7 +7,7 @@ Feria VI post Ascensionem;;Feria;;1;;vide TemporaM/Pasc5-4
 
 [Capitulum Tertia]
 !Eph 2:6-7
-v. Conresuscitávit, et consedére fecit in cæléstibus in Christo Jesu, ut osténderet in sǽculis superveniéntibus abundántes divítias grátiæ suæ, in bonitáte super nos in Christo Jesu.
+v. Conresuscitávit, et consedére nos fecit Deus in cæléstibus in Christo Jesu, ut osténderet in sǽculis superveniéntibus abundántes divítias grátiæ suæ, in bonitáte super nos in Christo Jesu.
 $Deo gratias
 
 [Capitulum Vespera]
@@ -27,5 +27,5 @@ $Deo gratias
 
 [Capitulum Nona]
 !Eph 1:22-23
-v. Ómnia subiécit sub pédibus eius: et ipsum dedit caput supra omnem Ecclésiam, quæ est corpus ipsíus, et plenitúdo eius, qui ómnia in ómnibus adimplétur.
+v. Ómnia subiécit sub pédibus ejus: et ipsum dedit caput supra omnem Ecclésiam, quæ est corpus ipsíus, et plenitúdo ejus, qui ómnia in ómnibus adimplétur.
 $Deo gratias

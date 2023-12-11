@@ -1,7 +1,7 @@
 [Rank]
 S. Monicæ Viduæ;;Duplex;;3;;vide C7a
 
-[Rank1570]
+[Rank] (rubrica 1570)
 S. Monicæ Viduæ;;Simplex;;1.1;;vide C7a
 
 [Rule]
@@ -9,10 +9,7 @@ vide C7a;
 9 lectiones
 
 [Oratio]
-Deus, mæréntium consolátor et in te sperántium salus, qui beátæ Mónicæ pias~
-lácrimas in conversióne fílii sui Augustíni misericórditer suscepísti: da nobis~
-utriúsque intervéntu; peccáta nostra deploráre, et grátiæ tuæ indulgéntiam~
-inveníre.
+Deus, mæréntium consolátor et in te sperántium salus, qui beátæ Mónicæ pias lácrimas in conversióne fílii sui Augustíni misericórditer suscepísti: da nobis utriúsque intervéntu; peccáta nostra deploráre, et grátiæ tuæ indulgéntiam inveníre.
 $Per Dominum
 
 [Invit]

@@ -115,7 +115,7 @@ Wszechmogące słowo Twoje * ze stolicy królewskiej przyjdzie, alleluja.
 
 [Adv43]
 1 = Spuśćcie rosę niebiosa z góry, * a obłoki niech spuszczą z dżdżem Sprawiedliwego, niech się otworzy ziemia i zrodzi Zbawiciela.
-2 = Ześlij, Panie! baranka * panującego ziemi, z skały pustynie do góry córki Syonskiéj.
+2 = Ześlij, Panie, baranka * panującego ziemi, z skały pustynie do góry córki Syonskiéj.
 3 = Żebyśmy poznali, Panie * na ziemi drogę twoję: między wszemi narody zbawienie twoje.
 4 = Daj zapłatę Panie, * tym, którzy cię oczekawają, aby się naleźli prawdziwi prorocy twoi.
 5 = Albowiem zakon przez Mojżesza jest dan, * łaska i prawda przez Jezusa Chrystusa się stała.
@@ -191,7 +191,7 @@ Completorium=Zmiłuj się * nademną, Panie, a wysłuchaj modlitwę moję;;4,30(
 Prima Dominica=Alleluja * alleluja, alleluja (alleluja);;118(1-8),118(9-16),118(17-24),118(25-32)
 Prima Feria II=Służcie Panu * w bojaźni, a radujcie się mu ze drżeniem.;;1,2,6
 Prima Feria III=Bóg, sędzia sprawiedliwy, * mocny i cierpliwy: zaż się gniewa na każdy dzień?;;7,8,9(2-19)
-Prima Feria IV=Powstań, Panie, * niech się nie zmacnia człowiek.;;9(20-39),10,11
+Prima Feria IV=Powstań, Panie, * niech się nie zwycięża człowiek.;;9(20-39),10,11
 Prima Feria V=Będę śpiewał Panu, * który mi dobra dał.;;12,13,14
 Prima Feria VI=Dóbr moich * nie potrzebujesz, w tobie mam nadzieję, zachowaj mię, Panie.;;15,16,17(2-25)
 Prima Sabbato=Żywie Pan, * i błogosławiony Bóg zbawienia mego.;;17(26-51),18,19

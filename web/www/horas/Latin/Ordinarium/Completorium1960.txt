@@ -20,27 +20,11 @@ $Indulgentiam
 V. Convérte nos +++ Deus, salutáris noster.
 R. Et avérte iram tuam a nobis.
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
 #Psalmi
 
-#Hymnus {:H-Completorium:}
-v. Te lucis ante términum,
-Rerum Creátor, póscimus,
-Ut pro tua cleméntia
-Sis præsul et custódia.
-_
-Procul recédant sómnia,
-Et nóctium phantásmata;
-Hostémque nóstrum cómprime,
-Ne polluántur córpora.
-_
-* Præsta, Pater piíssime,
-Patríque compar Únice,
-Cum Spíritu Paráclito
-Regnans per omne sǽculum.
-Amen.
+#Hymnus
 
 #Capitulum Responsorium Versus
 !Jer 14:9

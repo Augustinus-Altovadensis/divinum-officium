@@ -86,14 +86,14 @@ R. Na dworze świętym jego, alleluja.
 [Lectio1]
 Z proroka Izajasza
 !Iz 55:1-4
-1 Wszyscy pragnący pójdźcie do wód, i którzy nie macie srebra, kwapcie się, kupujcie, a jedzcie! chodźcie, kupujcie bez srebra, i bez żadnej zamiany wino i mleko.
+1 Wszyscy pragnący pójdźcie do wód, i którzy nie macie srebra, kwapcie się, kupujcie, a jedzcie, chodźcie, kupujcie bez srebra, i bez żadnej zamiany wino i mleko.
 2 Przecz odważacie srebro nie za chleb, a pracę wasze nie za nasycenie? Słuchajcie słuchając mię, a jedzcie dobro, a rozkoszować będzie w tłustości dusza wasza.
 3 Nakłońcie ucha swego, a przyjdźcie do mnie: słuchajcie, i żyć będzie dusza wasza: i uczynię z wami przymierze wieczne, miłosierdzia Dawidowe wierne.
 4 Otom go dał świadkiem narodom, wodzem i nauczycielem narodom.
 
 [Lectio2]
 !Iz 60:1-6
-1 Wstań, oświeć się, Jeruzalem! bo przyszła światłość twoja, a sława Pańska weszła nad tobą.
+1 Wstań, oświeć się, Jeruzalem, bo przyszła światłość twoja, a sława Pańska weszła nad tobą.
 2 Bo oto ciemności okryją ziemię, i mrok narody; ale nad tobą wnidzie Pan, a sława jego nad tobą, widziana będzie.
 3 I będą chodzić narodowie w światłości twojej, a królowie w jasności wejścia twojego.
 4 Podnieś wokoło oczy twoje, a oglądaj: ci wszyscy zgromadzili się, przyszli do ciebie: synowie twoi zdaleka przyjdą, a córki twoje z boku powstaną.
@@ -108,11 +108,17 @@ Z proroka Izajasza
 
 [Responsory3]
 R. Królowie Tarsis i wyspy przyniosą dary:
-* Królowie arabscy i Saba przywiozą upominki.
+* Królowie arabscy i Saba przywiozą Panu Bogu upominki.
 V. Wszyscy z Saby przyjdą, złoto i kadzidło przynosząc.
-R. Królowie arabscy i Saba przywiozą upominki.
+R. Królowie arabscy i Saba przywiozą Panu Bogu upominki.
 &Gloria
-R. Królowie arabscy i Saba przywiozą upominki.
+R. Królowie arabscy i Saba przywiozą Panu Bogu upominki.
+
+[Responsory4]
+R. Oświeć się, oświeć Jeruzalem, bo przyszła światłość twoja: 
+* A sława Pańska weszła nad tobą.
+V. I będą chodzić narodowie w światłości twojej, a królowie w jasności wejścia twojego.
+R. A sława Pańska weszła nad tobą.
 
 [Responsory5]
 R. Wszyscy z Saby przyjdą, złoto i kadzidło przynosząc, a chwałę Panu opowiadając.
@@ -122,11 +128,11 @@ R. Alleluja, alleluja, alleluja.
 
 [Responsory6]
 R. Oto Mędrcy ze wschodu słońca przybyli do Jerozolimy, mówiąc: Gdzie jest, który się narodził, widzieliśmy gwiazdę jego?
-* I przyjechaliśmy pokłonić się jemu.
+* I przyjechaliśmy pokłonić się Panu.
 V. Widzieliśmy gwiazdę jego na wschód słońca.
-R. I przyjechaliśmy pokłonić się jemu.
+R. I przyjechaliśmy pokłonić się Panu.
 &Gloria
-R. I przyjechaliśmy pokłonić się jemu.
+R. I przyjechaliśmy pokłonić się Panu.
 
 [Lectio7]
 Czytanie Ewangelii świętej według św. Mateusza
@@ -169,7 +175,7 @@ przewyższająca pięknością i blaskiem,
 oznajmia światu, że przyszedł
 Bóg w ciele ziemskiem.
 _
-Skoro Go Magowie ujrzeli,
+Skoro Go Mędrcy ujrzeli,
 wykładają dary wschodnie:
 i w pokłonię z modłami ofiarują Mu
 kadzidło, mirrę i złoto królewskie.
@@ -190,7 +196,7 @@ V. Kłaniajcie się Bogu, alleluja.
 R. Wszyscy aniołowie jego, alleluja.
 
 [Ant 2]
-Dzisiaj * z niebieskim oblubieńcem złączon jest Kościół, bo w Jordanie zmył Chrystus winy jego: pospieszają z darami Magowie na gody, a z wody w wino zmienionej radują się ucztujący, alleluja.
+Dzisiaj * z niebieskim oblubieńcem złączon jest Kościół, bo w Jordanie zmył Chrystus winy jego: pospieszają z darami Mędrcy na gody, a z wody w wino zmienionej radują się ucztujący, alleluja.
 
 [Lectio Prima]
 !Iz 60:6
@@ -235,4 +241,4 @@ V. Kłaniajcie się Bogu, alleluja.
 R. Wszyscy aniołowie jego, alleluja.
 
 [Ant 3]
-Potrójny cud * święcimy w dniu dzisiejszym: dziś gwiazda przy wiodła Królów do żłóbka: dziś woda w wino się przemieniła na godach: dziś Chrystus chciał być ochrsczonym przez Jana, by nas zbawić. Alleluja.
+Potrójny cud * święcimy w dniu dzisiejszym: dziś gwiazda przywiodła Królów do żłóbka: dziś woda w wino się przemieniła na godach: dziś Chrystus chciał być ochrzczonym przez Jana, by nas zbawić, alleluja.

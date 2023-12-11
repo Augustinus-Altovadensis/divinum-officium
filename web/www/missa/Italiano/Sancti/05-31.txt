@@ -58,7 +58,7 @@ V. Madre di Dio, prega per noi.
 
 [Evangelium]
 Seguito ++ del Santo Vangelo secondo Luca.
-!Luke 1:26-33
+!Luca 1:26-33
 In quel tempo, l'angelo Gabriele fu inviato da Dio in una città della Galilea, di nome Nazareth, ad una vergine sposa di un uomo di nome Giuseppe, della stirpe di Davide; e il nome della vergine era Maria. L'angelo, entrando da lei, disse: «Ave, piena di grazia; il Signore è con te, tu sei benedetta fra le donne». Mentre l'udiva, fu turbata alle sue parole, e si domandava cosa significasse quel saluto. E l'angelo le disse: «Non temere, Maria, poiché hai trovato grazia presso Dio. Ecco, concepirai nel tuo seno e partorirai un figlio, e gli porrai nome Gesù. Egli sarà grande e sarà chiamato Figlio dell’Altissimo, e il Signore Iddio gli darà il trono di Davide, suo padre: e regnerà sulla casa di Giacobbe in eterno, e il suo regno non avrà fine».
 
 [Offertorium]
@@ -73,20 +73,5 @@ O la più nobile Regina del mondo, sempre Vergine Maria, Tu che hai dato alla lu
 
 [Postcommunio]
 O Signore, il sacrificio che abbiamo celebrato, nella festa di Maria santissima, nostra Regina, per la sua intercessione, sia di salvezza a noi, che lo abbiamo offerto con esultanza in suo onore.
-$Per Dominum
-
-[Commemoratio Oratio]
-!Pro S. Petronilla
-Ascoltaci, o Dio, nostra salvezza: e mentre ci rallegriamo per la festa della tua santa vergine Petronilla, impariamo ad amarti con devozione filiale.
-$Per Dominum
-
-[Commemoratio Secreta]
-!Pro S. Petronilla
-Accetta, o Signore, l'offerta presentata in onore dei tuoi santi dal popolo che ti è consacrato: esso sa che per i loro meriti ha ottenuto il soccorso nella prova.
-$Per Dominum
-
-[Commemoratio Postcommunio]
-!Pro S. Petronilla
-Sostieni sempre, o Signore, per l'intercessione della Santa di cui celebriamo la festa, questa tua famiglia che hai nutrito con il tuo sacrificio.
 $Per Dominum
 

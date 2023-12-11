@@ -1,5 +1,5 @@
 [Rank]
-S. Petri de Alcantara Confessoris;;Duplex;;3;;vide C5
+St Pierre d’Alcantara, Confesseur;;Duplex;;3;;vide C5
 
 [Rule]
 vide C5 ;mtv
@@ -23,10 +23,10 @@ Pierre naquit à Alcantara, en Espagne, de parents nobles. A l’âge de seize a
 &teDeum
 
 [Lectio7]
-@Commune/C5:Lectio71
+@Commune/C5:Lectio7 in 2 loco
 
 [Lectio8]
-@Commune/C5:Lectio81
+@Commune/C5:Lectio8 in 2 loco
 
 [Lectio9]
-@Commune/C5:Lectio91
+@Commune/C5:Lectio9 in 2 loco

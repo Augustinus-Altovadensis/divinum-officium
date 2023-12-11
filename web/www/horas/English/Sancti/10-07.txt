@@ -15,13 +15,13 @@ CPapaC=Mark;
 [Ant Vespera]
 Who is this, * fair as a dove, like a rose-tree planted beside the rivers of waters?;;109
 A virgin most mighty, * like the tower of David, whereon there hung a thousand bucklers, all the shields of valiant men.;;112
-Hail, Mary, * the Lord is with thee, blessed art thou among women.;;121
+Hail Mary, * full of grace, the Lord is with thee, blessed art thou among women.;;121
 The Lord hath blessed thee * by His power, because through thee He hath brought our enemies to nought.;;126
 The daughters of Sion saw her in her spring time, amidst the flowers of the roses, and called her most blessed.;;147
 
 [Capitulum Vespera]
 !Sir 24:25; 39:17
-v. In me is all grace of the way and of the truth, in me is all hope of life and of virtue, I am as the rose planted by the brooks of waters.
+v. In me is all grace of the way and of the truth; in me is all hope of life and virtue; I have flowered forth like a rose planted by the brooks of water.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -79,7 +79,6 @@ $Per Dominum
 _
 !Commemoration of the Holy Martyrs Sergius, Bacchus, Marcellus and Apuleius
 @Commune/C3:Oratio proper
-_
 $Oremus
 Pause there to come upon us, O Lord, a grace from the blessed and worthy wrestling of thine holy Martyrs Sergius, Bacchus, Marcellus, and Apuleius, fanning ever in us the fire of the love of thyself.
 $Per Dominum

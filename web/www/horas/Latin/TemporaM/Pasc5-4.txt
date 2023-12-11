@@ -14,18 +14,26 @@ Doxology=Asc
 _
 @Tempora/Pasc5-4:Responsory Sexta:1-6
 
+[AntMatutinumM]
+Elevámini, * elevámini, portæ æternáles: † et introíbit rex glóriæ, allelúja.;;23
+Exaltábor * in géntibus, et exaltábor in terra, allelúja.;;45
+Læténtur * cæli, et exsúltet terra, † quia venit Dóminus, allelúja.;;95
+
+[Ant Matutinum 3N]
+Illi autem profécti * prædicavérunt ubíque, Dómino cooperánte, et sermónem confirmánte sequéntibus signis, † allelúja, allelúja.
+
 [Ant Matutinum]
 @Tempora/Pasc5-4::1-3
 @Tempora/Pasc5-4::6
-Elevámini, * elevámini, portæ æternáles: † et introíbit rex glóriæ, allelúja.;;23
+@:AntMatutinumM:1
 @Tempora/Pasc5-4::7
 @Tempora/Pasc5-4::4-5
-Exaltábor * in géntibus, et exaltábor in terra, allelúja.;;45
+@:AntMatutinumM:2
 @Tempora/Pasc5-4::8
-Læténtur * cæli, et exsúltet terra, † quia venit Dóminus, allelúja.;;95
+@:AntMatutinumM:3
 @Tempora/Pasc5-4::11-13
 @Tempora/Pasc5-4::9-10
-Illi autem profécti * prædicavérunt ubíque, Dómino cooperánte, et sermónem confirmánte sequéntibus signis, † allelúja, allelúja.;;243;244;245
+;;243;244;245
 @Tempora/Pasc5-4::14-15
 
 [Lectio1]
@@ -101,10 +109,7 @@ R. Quemádmodum vidístis eum ascendéntem in cælum, ita véniet, † allelúja
 @Tempora/Pasc5-4:Lectio9
 
 [Responsory12]
-R. Si enim non abíero, Paráclitus non véniet ad vos: † si autem abíero, mittam eum ad vos:
-* Cum autem vénerit ille, docébit vos omnem veritátem, allelúja.
-V. Non enim loquétur a semetípso: sed quæcúmque áudiet, loquétur: † et quæ ventúra sunt, annuntiábit vobis.
-R. Cum autem vénerit ille, docébit vos omnem veritátem, allelúja.
+@Tempora/Pasc6-0:Responsory8
 
 [MM LB]
 !He 6:18-20

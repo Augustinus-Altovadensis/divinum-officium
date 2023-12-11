@@ -1,40 +1,14 @@
 #Incipit
 $Deus in adjutorium
-&Gloria
 &Alleluia
 
-#Hymnus {:H-Prima1:}
-v. Wo hell nun scheint das Tageslicht,
-Flehn Gottes Huld wir innig an,
-Dass er im ganzen Tagwerk uns
-Vor allem schütz, was schaden kann.
-_
-Die Zunge zähm und zügle er,
-Dass nicht entstehe wilder Streit;
-Er heg' und pfleg' das Auge gut,
-Dass es nicht schau auf Eitelkeit.
-_
-Rein bleib, was drin im Herzen ist;
-Es sei auch fern verkehrter Geist;
-Dass brech' des Fleisches Übermut,
-Werd's karg getränkt und karg gepeitscht.
-_
-Dass, wenn der Tag zu Ende geht
-Und uns der Wechsel bringt die Nacht,
-Wir rein sind in Enthaltsamkeit,
-Gott aber werde Lob gebracht.
-_
-* Gott Vater sei stets Preis und Ruhm
-Und seinem eingebornen Sohn:
-Mit ihnen auch dem Heiligen Geist,
-Der ewig thront auf gleichem Thron.
-Amen.
+#Hymnus
 
 
 #Psalmi
 
 #Capitulum Responsorium Versus
-R. Gott sei Dank gesagt.
+$Deo gratias
 _
 R.br. Christus, du Sohn des lebendigen Gottes, * erbarme dich unser.
 R. Christus, du Sohn des lebendigen Gottes, * erbarme dich unser.
@@ -49,7 +23,7 @@ R. Und mach uns [vom Übel] frei um deinetwillen.
 #Orationes
 &Dominus_vobiscum
 v. Lasset uns beten.
-v. O allmächtiger Herr und Gott, der du uns zum Beginn dieses Tages hast gelangen lassen, erhalte uns heute heil auf Grund deiner Kraft, damit wir an diesem Tage zu keiner Sünde abweichen, sondern dass stets zum Erfüllen dessen, was bei dir Recht ist, das ausgehe, was wir reden, und das geleitet werde, was wir denken und tun.
+v. O allmächtiger Herr und Gott, der du uns zum Beginn dieses Tages hast gelangen lassen, erhalte uns heute heil auf Grund deiner Kraft, damit wir an diesem Tage zu keiner Sünde abweichen, sondern daß stets zum Erfüllen dessen, was bei dir Recht ist, das ausgehe, was wir reden, und das geleitet werde, was wir denken und tun.
 $Per Dominum
 &Dominus_vobiscum
 &Benedicamus_Domino
@@ -75,11 +49,11 @@ V. Schau doch hernieder,  o Herr, auf deine Knechte, die du selbst geschaffen, u
 R. Es leuchte deine Huld, o Herr und unser Gott, nun über uns und leite die Werke unserer Hände durch dein Walten über uns und lenke das, was unsere Hände auszuführen haben.
 &Gloria
 v. Lasset uns beten. 	
-Würdige dich, o Herr und Gott, du König des Himmels und der Erde, heute zu leiten und zu heiligen, zu beherrschen und zu lenken unsere Herzen und alles, was in uns ist, die Gedanken, die Worte und die Werke gemäß deinem Gesetz und so, dass sie zu den Werken gehören, die deinen Vorschriften entsprechen, damit wir, hier und auf ewig, mit deiner Hilfe würdig werden, heil und vom Übel frei zu sein, o du Heiland der Welt, der du lebst und regierst in alle Ewigkeit.
+Würdige dich, o Herr und Gott, du König des Himmels und der Erde, heute zu leiten und zu heiligen, zu beherrschen und zu lenken unsere Herzen und alles, was in uns ist, die Gedanken, die Worte und die Werke gemäß deinem Gesetz und so, daß sie zu den Werken gehören, die deinen Vorschriften entsprechen, damit wir, hier und auf ewig, mit deiner Hilfe würdig werden, heil und vom Übel frei zu sein, o du Heiland der Welt, der du lebst und regierst in alle Ewigkeit.
 R. Amen.
 
-V. Lass, o Herr, den Segen erteilen.
-Benediktion. Unsere Tage und unsere Werke mag, dass wir in Freundschaft mit ihm bleiben, ordnen der allmächtige Herr. Amen.
+V. Laß, o Herr, den Segen erteilen.
+Benedictio. Unsere Tage und unsere Werke mag, daß wir in Freundschaft mit ihm bleiben, ordnen der allmächtige Herr. Amen.
 #Lectio brevis
 V. Du aber, o Herr, sei uns gnädig.
 R. Gott sei Dank gesagt.

@@ -1,5 +1,5 @@
 [Rank]
-S. Damasi Papæ et Confessoris;;Semiduplex;;2.5;;vide C4
+S. Damasi Papæ et Confessoris;;Semiduplex;;2.2;;vide C4
 
 [Rule]
 @Sancti/12-11
@@ -11,7 +11,7 @@ vide C4;
 [Oratio]
 @Sancti/12-11:Oratio
 
-[Commemoratio 2] (rubrica 1910)
+[Commemoratio 2] (rubrica 1888)
 !Commemoratio Diei infra Octavam Immaculatæ Conceptionis B.M.V.
 @Sancti/12-08:Oratio
 

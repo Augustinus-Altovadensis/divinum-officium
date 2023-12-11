@@ -103,7 +103,7 @@ R. Porque has sido elevada por encima del coro de los ángeles a los reinos cele
 [Responsory2]
 R. Honramos la dignidad real de la virgen María. 
 * Porque ella reina con Cristo para siempre. Aleluya. 
-V. Celebramos mos la gloria de nuestra Reina. 
+V. Celebramos la gloria de nuestra Reina. 
 R. Porque ella reina con Cristo para siempre. Aleluya.
 
 [Lectio3]
@@ -196,17 +196,6 @@ R. Y reina con Cristo eternamente. Aleluya.
 
 [Ant 2]
 Noble Reina del mundo, * María, Virgen perpetua, Tú que engendraste a Cristo, Señor y Salvador de todos, intercede por nuestra paz y salvación. Aleluya.
-
-[Commemoratio 2]
-!Conmemoración de Sta. Petronila, Virgen
-Ant. El reino de los cielos se parece a un comerciante en perlas finas, que, al encontrar una perla de gran valor, se va a vender todo lo que tiene y la compra. Aleluya.
-_
-V. En tus labios se derrama la gracia. Aleluya.
-R. El Señor te bendice eternamente. Aleluya.
-_
-$Oremus
-v. Escúchanos, Dios Salvador nuestro; para que, en la alegría de la fiesta de Santa Petronila, virgen, aprendamos a servirte con amor. 
-$Per Dominum
 
 [Lectio Prima]
 !Sir 24:30-31

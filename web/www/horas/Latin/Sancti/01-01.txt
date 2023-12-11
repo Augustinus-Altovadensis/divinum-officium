@@ -1,7 +1,7 @@
 [Rank]
-In Circumcisione Domini;;Duplex II classis;;5.1;;ex Sancti/12-25
+In Circumcisione Domini;;Duplex II classis;;5.09;;ex Sancti/12-25
 
-[Rank1960]
+[Rank] (rubrica 1960)
 Die Octavæ Nativitatis Domini;;Duplex I classis;;6;;ex Sancti/12-25
 
 [Rule]
@@ -30,7 +30,7 @@ $Deo gratias
 Propter nímiam * caritátem suam, qua diléxit nos Deus, Fílium suum misit in similitúdinem carnis peccáti, allelúja.
 
 [Oratio]
-Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tribue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
+Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
 $Qui tecum
 
 [Ant Matutinum]
@@ -135,7 +135,7 @@ In illo témpore: Postquam consummáti sunt dies octo, ut circumciderétur Puer:
 _
 Homilía sancti Ambrósii Epíscopi
 !Liber 2 in cap. 2 Lucæ, circa medium
-Circumcíditur itaque Puer. Quis est iste puer, nisi ille, de quo dictum est: Puer natus est nobis, Fílius datus est nobis? Factus est enim sub lege, ut eos, qui sub lege essent, lucrifáceret. Ut sísterent eum Dómino. Quid sit autem in Jerúsalem sisti Dómino, dícerem, nisi in Isaíæ comméntis ante dixíssem. Circumcísus enim vítiis, Domínico dignus judicátur obtútu; quia, Oculi Dómini super justos. Vides omnem legis véteris sériem fuísse typum futúri: nam et circumcísio purgatiónem signíficat delictórum.
+Circumcíditur ítaque Puer. Quis est iste puer, nisi ille, de quo dictum est: Puer natus est nobis, Fílius datus est nobis? Factus est enim sub lege, ut eos, qui sub lege essent, lucrifáceret. Ut sísterent eum Dómino. Quid sit autem in Jerúsalem sisti Dómino, dícerem, nisi in Isaíæ comméntis ante dixíssem. Circumcísus enim vítiis, Domínico dignus judicátur obtútu; quia, Oculi Dómini super justos. Vides omnem legis véteris sériem fuísse typum futúri: nam et circumcísio purgatiónem signíficat delictórum.
 
 [Responsory7]
 @Sancti/12-25:Responsory6
