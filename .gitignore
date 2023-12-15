@@ -14,3 +14,4 @@ standalone/tools/epubgen2/output
 # dev tools
 .idea
 *.afpub~lock~
+.DS_Store
