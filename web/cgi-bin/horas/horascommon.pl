@@ -94,6 +94,9 @@ sub occurrence {
 				$transfer = subdirname('Sancti', $version) . "$transfer"; }	# add path to Sancti folder if necessary
 			elsif ($version =~ /monastic/i) {
 				$transfer =~ s/TemporaM?/TemporaM/; 	# modify path to Monastic Tempora folder if necessary
+      }
+      elsif ($version =~ /Cistercien/i) {
+        $transfer =~ s/TemporaCist?/TemporaCist/;   # modify path to Monastic Tempora folder if necessary
 			}
 		}
 	}

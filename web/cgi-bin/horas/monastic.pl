@@ -294,7 +294,7 @@ sub antetpsalm_mm {
   }
 
   # WORKING switch of one Laudes Antiphon for Cistercian Office
-  if ($hora =~ /Laudes/i && $version =~ /Cistercian/i && $winner !~ /Quad6-[4-6]/i && $dayname[1] !~ /Fidelium Defunctorum/i && $votive !~ /(Defunctorum|C9)/i )
+  if ($hora =~ /Laudes/i && $version =~ /Cistercien/i && $winner !~ /Quad6-[4-6]/i && $dayname[1] !~ /Fidelium Defunctorum/i && $votive !~ /(Defunctorum|C9)/i )
     { # every day except for the Holy Triduum and All Souls Day, there is one Antiphon for Lauds.
       if ($ind == 0) { $lastantiphon = '' ; $ant_laudes = $line[0] ; }
       if ($ind == 1) { $line[0] = ''; $lastantiphon = ''; }
@@ -306,8 +306,8 @@ sub antetpsalm_mm {
   if ($line[0] && $lastantiphon) { push(@s, "Ant. $lastantiphon"); push(@s, "\n"); }
   #if ($line[0]) { push(@s, "Ant. $line[0]"); $lastantiphon = $line[0]; }
    if ($line[0]) {
-    my $ant1 = ($version =~ /Cistercian/i) ? substr($line[0], 0, index($line[0], '*')) : $line[0];
-    if ($version =~ /Cistercian/i) {
+    my $ant1 = ($version =~ /Cistercien/i) ? substr($line[0], 0, index($line[0], '*')) : $line[0];
+    if ($version =~ /Cistercien/i) {
       $ant1 =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
       $ant1 =~ s/[\,|\.|\;|:]\./\./; #  (looks better) Trim all the double punctuation.
       $ant1 =~ s/\!\./\!/; #  ( !. -> ! ).

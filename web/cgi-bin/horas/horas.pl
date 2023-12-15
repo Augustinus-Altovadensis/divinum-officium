@@ -274,6 +274,7 @@ sub pater_noster : ScriptFunc {
 sub teDeum : ScriptFunc {
   my $lang = shift;
   our %prayers;
+  if ($version =~ /Cistercian/i) { return "\n_\n!Te Deum\n$prayers{$lang}->{'Te Deum Cist'}"; }
   return "\n_\n!Te Deum\n$prayers{$lang}->{'Te Deum'}";
 }
 
@@ -450,7 +451,7 @@ sub psalm : ScriptFunc {
     $num = $1;
 
       if ( ($version =~ /Trident/i && $num =~ /(62|148|149)/)     # Tridentine Laudes: Pss. 62/66 & 148/149/150 under 1 gloria
-        || ($version =~ /Monastic/i && $num =~ /(115|148|149)/))  # Monastic Vespers: Pss. 115/116 & 148/149/150 under 1 gloria
+        || ($version =~ /Monastic|Cistercien/i && $num =~ /(115|148|149)/))  # Monastic Vespers: Pss. 115/116 & 148/149/150 under 1 gloria
     {
       $nogloria = 1;
     }
@@ -517,6 +518,9 @@ sub psalm : ScriptFunc {
 
   foreach my $line (@lines) {
 
+     if ( $version =~ /Cistercien/i ) { 
+        $line =~ s/\(Fit reverentia\:\)//i; $line =~ s/\(Fit reverentia\)//i; }
+
     # Interleave antiphon into the psalm "Venite exsultemus".
     if ($psnum == 94 && $line =~ /^\s*\$ant\s*$/) {
       $formatted_antline ||= setfont($redfont, 'Ant.') . " $antline";
@@ -575,7 +579,7 @@ sub psalm : ScriptFunc {
     $t .= "\n$lnum $line $rest";
   }
   $t .= "\n";
-  if ($version =~ /Monastic/ && $num == 129 && $hora eq 'Prima') { $t .= $prayers{$lang}->{Requiem}; }
+  if ($version =~ /Monastic|Cistercien/ && $num == 129 && $hora eq 'Prima') { $t .= $prayers{$lang}->{Requiem}; }
   elsif ($num != 210 && !$nogloria) { $t .= "\&Gloria\n"; }
   $t .= settone(0);
   return $t;
@@ -890,6 +894,12 @@ sub ant_Benedictus : ScriptFunc {
     $ant = $specials{"Adv Ant $day" . "L"};
   }
   my @ant_parts = split('\*', $ant);
+  if ( $version =~ /Cistercien/i ) {
+    $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
+    $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] =~ s/\!\./\!/; #  ( !. -> ! ).
+    $ant_parts[0] .= " " ;
+    }
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {
@@ -931,6 +941,12 @@ sub ant_Magnificat : ScriptFunc {
     $num = 2;
   }
   my @ant_parts = split('\*', $ant);
+  if ( $version =~ /Cistercien/i ) {
+    $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
+    $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] =~ s/\!\./\!/; #  ( !. -> ! ).
+    $ant_parts[0] .= " " ;
+  }
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {
@@ -1193,6 +1209,9 @@ sub getordinarium {
   my $suffix = "";
   if ($command =~ /Matutinum/i && $rule =~ /Special Matutinum Incipit/i) { $suffix .= "e"; } # for Epiphanias
   if ($version =~ /(1955|1960|Newcal)/) { $suffix .= "1960"; }
+  elsif ($version =~ /Cistercien/i && $votive =~ /C12/i && $hora =~ /(Prima|Tertia|Sexta|Nona)/i ) { $command = "Minor"; $suffix .= "CistParvum"; }
+  elsif ($version =~ /Cistercien/i && $votive =~ /C12/i && $hora =~ /(Matutinum|Laudes|Vespera)/i ) { $suffix .= "CistParvum"; }
+  elsif ($version =~ /Cistercien/i) { $suffix .= "Cist"; }
   elsif ($version =~ /Monastic/i) { $suffix .= "M"; }
   elsif ($version =~ /Ordo Praedicatorum/i) { $suffix .= "OP"; }
   my $fname = checkfile($lang, "Ordinarium/$command$suffix.txt");
