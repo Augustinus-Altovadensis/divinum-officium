@@ -79,6 +79,7 @@ require "$Bin/horas.pl";
 require "$Bin/specials.pl";
 require "$Bin/specmatins.pl";
 require "$Bin/monastic.pl";
+require "$Bin/altovadum.pl";
 require "$Bin/horasjs.pl";
 require "$Bin/officium_html.pl";
 $q = new CGI;
