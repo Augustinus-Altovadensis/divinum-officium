@@ -54,7 +54,7 @@ sub horas {
   $ind1 = $ind2 = 0;
   $searchind = 0;
 
-  if ($version !~ /(Monastic|1570|1955|1960|Newcal|Praedicatorum)/i) {
+  if ($version !~ /(Monastic|1570|1955|1960|Newcal|Praedicatorum|Cistercien)/i) {
     ante_post('Ante');
   } else {
     $searchind++;
