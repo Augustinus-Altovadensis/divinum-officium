@@ -95,9 +95,9 @@ sub occurrence {
 			elsif ($version =~ /monastic/i) {
 				$transfer =~ s/TemporaM?/TemporaM/; 	# modify path to Monastic Tempora folder if necessary
       }
-      elsif ($version =~ /Cistercien/i) {
-        $transfer =~ s/TemporaCist?/TemporaCist/;   # modify path to Monastic Tempora folder if necessary
-			}
+      #elsif ($version =~ /Cistercien/i) {
+      #  $transfer =~ s/Tempora/TemporaCist/;   # modify path to Monastic Tempora folder if necessary
+			#}
 		}
 	}
 	

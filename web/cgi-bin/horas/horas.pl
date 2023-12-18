@@ -274,7 +274,7 @@ sub pater_noster : ScriptFunc {
 sub teDeum : ScriptFunc {
   my $lang = shift;
   our %prayers;
-  if ($version =~ /Cistercian/i) { return "\n_\n!Te Deum\n$prayers{$lang}->{'Te Deum Cist'}"; }
+  if ($version =~ /Cistercien/i) { return "\n_\n!Te Deum\n$prayers{$lang}->{'Te Deum Cist'}"; }
   return "\n_\n!Te Deum\n$prayers{$lang}->{'Te Deum'}";
 }
 
@@ -967,6 +967,15 @@ sub canticum : ScriptFunc {
 }
 
 sub Divinum_auxilium : ScriptFunc {
+  my $lang = shift;
+  my @text = split(/\n/, $prayers{$lang}{"Divinum auxilium"});
+  $text[-2] = "V. $text[-2]";
+  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i); # contract resp. "Et cum fratribus… " to "Amen." for Roman
+  $text[-1] = "R. $text[-1]";
+  join("\n", @text);
+}
+
+sub Divinum_auxilium_cist : ScriptFunc {
   my $lang = shift;
   my @text = split(/\n/, $prayers{$lang}{"Divinum auxilium"});
   $text[-2] = "V. $text[-2]";
