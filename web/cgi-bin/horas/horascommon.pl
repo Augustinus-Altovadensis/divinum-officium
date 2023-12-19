@@ -1652,6 +1652,26 @@ sub spell_var {
 		$t =~ s/Génetrix/Génitrix/g;
 		$t =~ s/\bco(t[ií]d[ií])/quo$1/g;
 	}
+  if (our $version =~ /Cistercien/) {
+    $t =~ s/cæl/cœl/g;
+    $t =~ s/Cæl/Cœl/g;
+    $t =~ s/cǽl/cœl/g;
+    $t =~ s/Cǽl/Cœl/g;
+    $t =~ s/cael/cœl/g;
+    $t =~ s/Cael/Cœl/g;
+    $t =~ s/caríssi/charíssi/g;
+    $t =~ s/Caríssi/Charíssi/g;
+    $t =~ s/carit/charit/g;
+    $t =~ s/Carit/Charit/g;
+    $t =~ s/cárit/chárit/g;
+    $t =~ s/Cárit/Chárit/g;
+    $t =~ s/eius/ejus/g;
+    $t =~ s/ iam/ jam/g;
+    $t =~ s/ iud/ jud/g;
+    $t =~ s/ Iam/ Jam/g;
+    #$t =~ s/V. /℣. /g;
+    #$t =~ s/R. /℟. /g;
+    }
 	return $t;
 }
 

@@ -1572,8 +1572,10 @@ sub getcommemoratio {
     if ($w{Rule} =~ /Comex=(.*?);/i && $rank < 5) { $file = $1; }
     if ($file =~ /^C[0-9]+$/ && $dayname[0] =~ /Pasc/i) { $file .= 'p'; }
     $file = "$file.txt";
-    if ($file =~ /^C/) { $file = "Commune/$file"; }
-    %c = %{setupstring($lang, $file)};
+    if ($file =~ /^C/) { 
+      if ( $version =~ /Cistercien/i && -e "$datafolder/$lang/CommuneCist/$file" ) { $file = "CommuneCist/$file"; }
+      else { $file = "Commune/$file"; }} #Cistercian version has its own commune
+    %c = %{setupstring($datafolder, $lang, $file)};
   } else {
     %$c = {};
   }
@@ -1640,6 +1642,16 @@ sub getcommemoratio {
   if (!$v) { $i = 4 - $ind; $v = $c{"Versum $i"}; }
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
+
+if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ /tempora/i )
+    { # search for Cistercian verse for commemorated Ferias
+    $v = $w{"VersumC $ind"};
+    if (!$v) { $v = getfrompsalterium('VersumC', $ind, $lang); }
+    if (!$v) { $v = $w{"Versum $ind"}; } 
+    if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
+    if (!$v) { $v = 'versus missing'; }
+    }
+
   postprocess_vr($v, $lang);
   our %prayers;
 	my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
@@ -1901,6 +1913,14 @@ sub getantvers {
     }
   }
 
+  if ($item =~ /Versum/i && $version =~ /Cistercien/i && $winner =~ /Tempora/i ) {
+    $item2 = $item;
+    $item2 =~ s/Versum/VersumC/i;
+    $w = getfrompsalterium($item2, $ind, $lang);
+    $c = 0;
+    setbuild2("$item2 $ind ex Psalterio");
+  }
+
   if (!$w) {
     $w = getfrompsalterium($item, $ind, $lang);
     $c = 0;
@@ -1971,7 +1991,8 @@ sub getfromcommune {
   if (!$c) { return; }
 
   if ($c =~ /^C/) {
-    $c = "Commune/$c";
+    if ( $version =~ /Cistercien/i ) { $c = "CommuneCist/$c"; }
+    else { $c = "Commune/$c"; }
     my $fname = "$datafolder/$lang1/$c" . "p.txt";
     if ($dayname[0] =~ /Pasc/i && (-e $fname)) { $c .= 'p'; }
   }
