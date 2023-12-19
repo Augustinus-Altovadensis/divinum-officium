@@ -95,9 +95,9 @@ sub occurrence {
 			elsif ($version =~ /monastic/i) {
 				$transfer =~ s/TemporaM?/TemporaM/; 	# modify path to Monastic Tempora folder if necessary
       }
-      #elsif ($version =~ /Cistercien/i) {
-      #  $transfer =~ s/Tempora/TemporaCist/;   # modify path to Monastic Tempora folder if necessary
-			#}
+      elsif ($version =~ /Cistercien/i) {
+        $transfer =~ s/Tempora/TemporaCist/;   # modify path to Cistercian Tempora folder if necessary
+			}
 		}
 	}
 	
@@ -169,6 +169,9 @@ sub occurrence {
 				elsif ($version =~ /monastic/i) {
 					$kalentry =~ s/TemporaM?/TemporaM/; 	# modify path to Monastic Tempora folder if necessary
 				}
+        elsif ($version =~ /Cistercien/i) {
+          $kalentry =~ s/TemporaCist?/TemporaCist/;   # modify path to Cistercian Tempora folder if necessary
+        }
 			}
 		}
 		$sfile = shift @commemoentries;	# get the filename for the Sanctoral office from the Kalendarium
@@ -1508,6 +1511,7 @@ sub setheadline {
 sub subdirname {
 	my($subdir, $version) = @_;
 	$subdir .= 'M' if $version =~ /monastic/i;
+  $subdir .= 'Cist' if $version =~ /Cistercien/i;
 	"$subdir/"
 }
 

@@ -97,7 +97,7 @@ sub horas {
     }
   }
 
-  if ($version !~ /(Monastic|1570|1955|1960|Newcal|Praedicatorum)/) {
+  if ($version !~ /(Monastic|Cistercien|1570|1955|1960|Newcal|Praedicatorum)/) {
     ante_post('Post');
   } else {
     $searchind++;
@@ -187,7 +187,7 @@ sub resolve_refs {
     $line =~ s/(\w)$/$&./ if ($line =~ /^\s*Ant\./);
 
     #red prefix
-    if ($line =~ /^\s*(R\.br\.|R\.|V\.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
+    if ($line =~ /^\s*(R\.br\.|R\.|V\.|℟\.|℣\.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
       my $h = setvrbar($1);
       my $l = $2;
 
@@ -364,7 +364,7 @@ sub Dominus_vobiscum : ScriptFunc {
   if ($priest) {
     $text = "$text[0]\n$text[1]";
   } else {
-    if (!$precesferiales) {
+    if (!$precesferiales || $version =~ /Cistercien/i ) {
       $text = "$text[2]\n$text[3]";
     } else {
       $text = "$text[4]";
@@ -660,7 +660,7 @@ sub settone {
   my @parray;
   my $tone = '';
 
-  if ($version =~ /Monastic/i) {
+  if ($version =~ /Monastic|Cistercien/i) {
     if ($hora =~ /Matutinum/i) { return ''; }
 
     if ($hora =~ /(Laudes|Vespera)/i) {
@@ -896,11 +896,13 @@ sub ant_Benedictus : ScriptFunc {
   my @ant_parts = split('\*', $ant);
   if ( $version =~ /Cistercien/i ) {
     $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
-    $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] =~ s/[\,|\.|\;|\:]\./\./; #  (looks better) Trim all the double punctuation.
     $ant_parts[0] =~ s/\!\./\!/; #  ( !. -> ! ).
     $ant_parts[0] .= " " ;
     }
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
+
+  if ($num == 1 && $version =~ /Cistercien/i ) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {
     return "Ant. $ant";
@@ -938,16 +940,18 @@ sub ant_Magnificat : ScriptFunc {
   if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
     my %specials = %{setupstring($lang, "Psalterium/Major Special.txt")};
     $ant = $specials{"Adv Ant $day"};
-    $num = 2;
+    if ( $version !~ /Cistercien/i ) { $num = 2; }
   }
   my @ant_parts = split('\*', $ant);
   if ( $version =~ /Cistercien/i ) {
     $ant_parts[0] =~ s/\s+$// ; $ant_parts[0] .= "." ; # Trim all the spaces, add the dot to verse incipit 
-    $ant_parts[0] =~ s/[\,|\.|\;]\./\./; #  (looks better) Trim all the double punctuation.
+    $ant_parts[0] =~ s/[\,|\.|\;|\:]\./\./; #  (looks better) Trim all the double punctuation.
     $ant_parts[0] =~ s/\!\./\!/; #  ( !. -> ! ).
     $ant_parts[0] .= " " ;
   }
   if ($num == 1 && $duplex < 3 && $version !~ /196/) { return "Ant. $ant_parts[0]"; }
+
+  if ($num == 1 && $version =~ /Cistercien/i ) { return "Ant. $ant_parts[0]"; }
 
   if ($num == 1) {
     return "Ant. $ant";
@@ -975,19 +979,10 @@ sub Divinum_auxilium : ScriptFunc {
   join("\n", @text);
 }
 
-sub Divinum_auxilium_cist : ScriptFunc {
-  my $lang = shift;
-  my @text = split(/\n/, $prayers{$lang}{"Divinum auxilium"});
-  $text[-2] = "V. $text[-2]";
-  $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i); # contract resp. "Et cum fratribus… " to "Amen." for Roman
-  $text[-1] = "R. $text[-1]";
-  join("\n", @text);
-}
-
 sub Domine_labia : ScriptFunc {
   my $lang = shift;
   my $text = $prayers{$lang}{"Domine labia"};
-  if ($version =~ /monastic/i) { # triple times with one cross sign
+  if ($version =~ /monastic|Cistercien/i) { # triple times with one cross sign
     $text .= "\n$text\n$text";
     $text =~ s/\+\+/$&++/;
     $text =~ s/\+\+ / /g;

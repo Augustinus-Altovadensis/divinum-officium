@@ -117,7 +117,7 @@ $Dulce nomen
 
 &antiphona_finalis
 
-&Divinum_auxilium_cist
+&Divinum_auxilium
 $Fidelium animae
 
 

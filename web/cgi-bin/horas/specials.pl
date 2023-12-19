@@ -71,7 +71,7 @@ sub specials {
           push(@s, "#Versus (In loco Capituli)");
           push(@s, $v);
           push(@s, "");
-          setbuild1("Versus speciale in loco calpituli");
+          setbuild1("Versus speciale in loco capituli");
         }
         $skipflag = 1;
         next;
@@ -130,7 +130,7 @@ sub specials {
       $skipflag = !preces($item);
       setcomment($label, 'Preces', $skipflag, $lang);
       setbuild1($item, $skipflag ? 'omit' : 'include');
-      if (!$skipflag && $hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/) {
+      if (!$skipflag && $hora =~ /Laudes|Tertia|Sexta|Nona|Vespera/ && $version !~ /Cistercien/ ) {
         push(@s, $prayers{$lang}{"Preces feriales $hora"});
       }
       next;
@@ -211,6 +211,7 @@ sub specials {
       my %capit = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
       $name .= 'M' if ($version =~ /monastic/i);
+      #$name .= 'C' if ($version =~ /Cistercien/i); Preparation for minor hours
       my $capit = $capit{$name};
       my $resp = '';
 
@@ -221,6 +222,7 @@ sub specials {
       } else {
         $resp = "R.br. $1";
       }
+      
       my @capit = split("\n", $capit);
       $comment = ($name =~ /(Dominica|Feria)/i) ? 5 : 1;
       setbuild('Psalterium/Minor Special', $name, 'Capitulum ord');
@@ -267,13 +269,17 @@ sub specials {
         my $name = major_getname(1);
         $capit = $capit{$name};
       }
+
+      if ($version =~ /Cistercien/) { $capit =~ s/&Gloria.*//s; }
+      
       if ($version =~ /monastic/i) {
         (@capit) = split(/\n/, $capit);
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);
       }
       setcomment($label, 'Source', $c, $lang);
-      push(@s, $capit);
+        
+      push(@s, $capit );
     }
 
     if ($item =~ /Lectio brevis/i && $hora =~ /prima/i) {
@@ -310,12 +316,12 @@ sub specials {
 
         if (exists($w{'Lectio Prima'})) {
           $b = $w{'Lectio Prima'};
-          if ($b) { setbuild2("Subst Lectio Pima $winner"); $comment = 3; }
+          if ($b) { setbuild2("Subst Lectio Prima $winner"); $comment = 3; }
         }
 
         if (!$b && $communetype =~ /ex/i && exists($commune{'Lectio Prima'})) {
           $b = (columnsel($lang)) ? $commune{'Lectio Prima'} : $commune2{'Lectio Prima'};
-          if ($b) { setbuild2("Subst Lectio Pima $commune"); $comment = 3; }
+          if ($b) { setbuild2("Subst Lectio Prima $commune"); $comment = 3; }
         }
 
         if (!$b && ($winner =~ /sancti/i || $commune =~ /C10/)) {
@@ -453,6 +459,22 @@ sub specials {
         if ($c == 1 && $commune =~ /(C1[0-9])/) { $c = 11; }
         $suffr = $suffr{"Suffragium$c"};
       }
+
+      # Cistercian version of Suffragia. TODO: doplnit nemariánská suffragia
+      if ($version =~ /Cistercien/i) {
+        $suffr = "";
+        if ($dayname[0] =~ /adv/i && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Advent}; }
+        elsif ($dayname[0] =~ /adv/i && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Advent}; }
+        elsif ( (($month == 1 && $day > 13) || $month == 2 && $day == 1) && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Epi}; }
+        elsif ( (($month == 1 && $day > 13) || $month == 2 && $day == 1) && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Epi}; }
+        elsif ( ($month == 2 && $day >= 3 || $dayname[0] =~ /quad/i) && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Quad}; }
+        elsif ( ($month == 2 && $day >= 3 || $dayname[0] =~ /quad/i) && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Quad}; }
+        elsif ($dayname[0] =~ /pasc/i && $hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L_Pascha}; }
+        elsif ($dayname[0] =~ /pasc/i && $hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3_Pascha}; }
+        elsif ($hora =~ /Laudes/ ) { $suffr .= $suffr{Suffragium3L}; }
+        elsif ($hora =~ /Vespera/) { $suffr .= $suffr{Suffragium3C}; }
+      }
+
       if ($churchpatron) { $suffr =~ s/r\. N\./$churchpatron/; }
       setcomment($label, 'Suffragium', $comment, $lang);
       setbuild1("Suffragium$comment", 'included');
@@ -566,15 +588,19 @@ sub translate_label {
 # returns 1 = yes or 0 = omit after deciding about the preces
 sub preces {
 
+  my $item = shift;
+  our $precesferiales = 0;
+
+  if ( $winner !~ /Quad6-[4-6]/i && $version =~ /Cistercien/i ) {
+    $precesferiales = 1;
+    return 1;} # Cistercian rite always has Preces feriales (Kyrie. Pater noster after the Canticle, except for the Holy Triduum)
+
   return 0 if ( 
     $winner =~ /C12/i 
     || $rule =~ /Omit.*? Preces/i
     || ($duplex > 2 && $seasonalflag) 
     || $dayname[0] =~ /Pasc[67]/i
   );
-
-  my $item = shift;
-  our $precesferiales = 0;
 
   if ($item =~ /Dominicales/i) {
     my $dominicales = 1;
@@ -641,7 +667,7 @@ sub psalmi_minor {
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic|Cistercien/i) {
     @psalmi = split("\n", $psalmi{Monastic});
     my $i =
         ($hora =~ /prima/i) ? $dayofweek
@@ -862,13 +888,13 @@ sub psalmi_minor {
 # collects and return the psalms for laudes and vespera
 sub psalmi_major {
   $lang = shift;
-  if ($version =~ /monastic/i && $hora =~ /Laudes/i && $rule !~ /matutinum romanum/i) { $psalmnum1 = $psalmnum2 = -1; }
+  if ($version =~ /monastic|Cistercien/i && $hora =~ /Laudes/i && $rule !~ /matutinum romanum/i) { $psalmnum1 = $psalmnum2 = -1; }
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi major.txt')};
   my $name = $hora;
   if ($hora =~ /Laudes/) { $name .= $laudes; }
   my @psalmi = splice(@psalmi, @psalmi);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic|Cistercien/i) {
     my $head = "Daym$dayofweek";
     if ($hora =~ /Laudes/i) {
       if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaymF'; }
@@ -912,7 +938,7 @@ sub psalmi_major {
   setbuild("Psalterium/Psalmi major", "Day$dayofweek $name", 'Psalmi ord');
 
   my @antiphones;
-  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
+  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic|Cistercien/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
     if ($dayofweek == 6 && $version =~ /trident/i) { # take ants from feria occuring Dec 21st
       my $expectetur = $p1[3]; # save Expectetur
@@ -983,7 +1009,7 @@ sub psalmi_major {
     my $h = ($hora =~ /laudes/i && $version !~ /monastic/i) ? "$hora" . '1' : "$hora";
     @p = split("\n", $psalmi{"Day0 $h"});
 
-    if ($version =~ /monastic/i && $hora =~ /laudes/i) {
+    if ($version =~ /monastic|Cistercien/i && $hora =~ /laudes/i) {
       @p = split("\n", $psalmi{"DaymF Laudes"});
     } elsif ($version =~ /Trident/i && $hora =~ /laudes/i) {
       @p = split("\n", $psalmi{"DayaC Laudes"});
@@ -993,7 +1019,7 @@ sub psalmi_major {
     @p = @psalmi;
   }
   my $lim = 5;
-  if ($version =~ /monastic/i && $hora =~ /Vespera/i && ($winner !~ /C(?:9|12)/) && ($commune !~ /C9/) && ($dayname[0] !~ /Quad6/ || $dayofweek < 4)) {
+  if ($version =~ /monastic|Cistercien/i && $hora =~ /Vespera/i && ($winner !~ /C(?:9|12)/) && ($commune !~ /C9/) && ($dayname[0] !~ /Quad6/ || $dayofweek < 4)) {
     $lim = 4;
 		if ($antiphones[4]) {															# if 5 psalms and antiphones are given
 			local($a1,$p1) = split(/;;/, $antiphones[3]);	  # split no. 4
@@ -1035,7 +1061,7 @@ sub psalmi_major {
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic|Cistercien/i) {
     antetpsalm_mm('', -1);
     for ($i = 0; $i < @psalmi; $i++) { antetpsalm_mm($psalmi[$i], $i); }
     antetpsalm_mm('', -2);
@@ -1231,7 +1257,7 @@ sub oratio {
       }
       if ($priest) {
         push(@s, "&Dominus_vobiscum");
-      } elsif (!$precesferiales) {
+      } elsif (!$precesferiales || $version =~ /Cistercien/) {
         push(@s, "&Dominus_vobiscum");
       } else {
         our %prayers;
@@ -1242,7 +1268,7 @@ sub oratio {
       }
     }
     my $oremus = translate('Oremus', $lang);
-    push(@s, "v. $oremus");
+    if ($version =~ /Cistercien/ ) { push(@s, "<center>\nv. $oremus </center>"); } else { push(@s, "v. $oremus"); } #cist: I like the Orémus in the center better
   }
 
   if ($hora =~ /(Laudes|Vespera)/i && $winner{Rule} =~ /Sub unica conc/i) {
@@ -1684,6 +1710,10 @@ sub major_getname {
     $name .= 'M';
     $name =~ s/Day[1-5]M/DayFM/i; 
   }
+  if ($version =~ /Cistercien/i && $flag) { 
+    $name .= 'C';
+    $name =~ s/Day[1-5]M/DayCM/i; 
+  }
   $name .= " $hora";
   return $name;
 }
@@ -1752,11 +1782,15 @@ sub tryoldhymn {
   my %source = %$source;
   my $name = shift;
   $name1 = $name;
+  $name2 = $name;
   $name1 =~ s/Hymnus\S*/$&M/;
+  $name2 =~ s/Hymnus\S*/$&C/;
 
-  if (($oldhymns || ($version =~ /(Monastic|1570|Praedicatorum)/i)) && $name =~ /Hymnus/i && exists($source{$name1})) {
+  if (($version =~ /Cistercien/i) && $name =~ /Hymnus/i && exists($source{$name2})) {
+    return $source{$name2};
+  } elsif (($oldhymns || ($version =~ /(Monastic|Cistercien|1570|Praedicatorum)/i)) && $name =~ /Hymnus/i && exists($source{$name1})) {
     return $source{$name1};
-  } else {
+    } else {
     return $source{$name};
   }
 }
@@ -2048,6 +2082,8 @@ sub doxology {
 # versions 1956 and 1960 exclude from Ordinarium
 sub checksuffragium {
   if ($rule =~ /no suffragium/i) { return 0; }
+  if ( ($winner =~ /C1[0-2]/ || $dayname[1] =~ /Dominica/i ) && $version =~ /Cistercien/i ) { return 0; }
+  if ($rank <= 4 && $version =~ /Cistercien/i ) { return 1; }
   if (!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) { return 0; }    #christmas, adv, passiontime omit
   if ($dayname[0] =~ /Pasc[07]/i) { return 0; }
   if ($winner =~ /sancti/i && $rank >= 3 && $seasonalflag) { return 0; }

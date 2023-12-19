@@ -887,37 +887,17 @@ In sæculórum sǽcula.
 Amen.
 
 [HymnusC Adv Laudes]
-{:H-LaudsAdv:}v. Vox clara ecce íntonat,
-Obscúra quæque íncrepat:
-Procul fugéntur sómnia,
-Ab æthre Christus prómicat.
-_
-Mens jam resúrgat tórpida
-Quæ sorde exstat sáucia;
-Sidus refúlget jam novum,
-Ut tollat omne nóxium.
-_
-E sursum Agnus míttitur
-Laxáre gratis débitum:
-Omnes pro indulgéntia
-Vocem demus cum lácrimis,
-_
-Ut cum secúndo fúlserit,
-Mundúmque horror cínxerit,
-Non pro reátu púniat,
-Sed nos pius tunc prótegat.
-_
-Laus, honor, virtus, glória,
-Deo Patri, et Fílio,
-Sancto simul Paráclito,
-In sæculórum sǽcula.
-Amen.
+@:HymnusM Adv Laudes:s/Pellántur éminus/Procul fugéntur/ s/Secúndo ut cum/Ut cum secúndo/
 
 [Adv Versum 2]
 V. Vox clamántis in desérto: Paráte viam Dómini. 
 R. Rectas fácite sémitas ejus.
 
 [Adv VersumC 2]
+V. Emítte Agnum, Dómine, dominatórem terræ.
+R. De Petra desérti ad montem fíliæ Sion.
+
+[AdvC Versum 2]
 V. Emítte Agnum, Dómine, dominatórem terræ.
 R. De Petra desérti ad montem fíliæ Sion.
 

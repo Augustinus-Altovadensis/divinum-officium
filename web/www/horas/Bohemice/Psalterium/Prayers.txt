@@ -99,9 +99,14 @@ v. Prominutí + rozhřešení a odpuštění našich hříchů nechť udělí n�
 ℣. Dobrořečme Pánu, alleluja, alleluja.
 ℟. Bohu díky, alleluja, alleluja.
 
-[Divinum auxilium]
-℣. Božská pomoc ať s námi zůstává navždy.
-℟. I s našimi bratry, kteří zde nejsou.
+[Divinum auxilium] (rubrica cisterciensis)
+Božská pomoc ať s námi zůstává navždy.
+I s našimi bratry, kteří zde nejsou.
+
+[Divinum auxilium] (rubrica Monastica)
+/:Pokud se má odcházet z chóru, řekne se následující závěr.:/
+Božská pomoc + ať s námi zůstává navždy.
+I s našimi bratry, kteří zde nejsou.
 
 [Deo gratias]
 ℟. Bohu díky.
@@ -275,6 +280,9 @@ $Deo gratias.
 ! Po Laudách ze dne se říkají %Laudy za zemřelé%.
 
 [Oremus]
+v. Modleme se.
+
+[Oremus] (rubrica cisterciensis)
 <center><span style="color:red; font-size:1.25em">M</span>odleme se.</center><span style="font-size:0em"> </span>
 
 [Te decet]

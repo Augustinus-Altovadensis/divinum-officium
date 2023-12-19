@@ -18,5 +18,5 @@ _
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
-&Divinum_auxilium_cist
+&Divinum_auxilium
 $Fidelium animae

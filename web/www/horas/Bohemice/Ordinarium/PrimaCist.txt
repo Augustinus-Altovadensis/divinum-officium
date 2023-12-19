@@ -48,7 +48,7 @@ $Per Dominum
 #Conclusio
 &Dominus_vobiscum
 &Benedicamus_Domino
-&Divinum_auxilium_cist
+&Divinum_auxilium
 $Fidelium animae
 
 !Zde končí Prima. Pak se v Kapitulní síni čte Martyrologium bez požehnání.
