@@ -1441,7 +1441,6 @@ sub oratio {
 				%c = %{officestring($lang, $commemo, 0)};
 
 				if($c) {
-					
 					my @cr = split(";;", $c{Rank});
 					if ($cr[0] =~ /Vigilia Epi|$sundaystring/i) {
 						$key = ($version !~ /trident/i || ($version =~ /1906/ && $cr[2] > 5)) ? 7000 : 2900;	# under DA, all Sundays, in 1906, priviliged Sundays, are all privilegded commemorations
@@ -1491,7 +1490,8 @@ sub oratio {
 					foreach my $ic (@ic) {
 						if (!$ic || $ic =~ /^\s*$/
 							|| ($ic =~ /$octavestring|!.*?$sundaystring/i && nooctnat())
-							|| ($version =~ /19(?:55|6)/ && $ic =~ /!.*?Vigil/i && $commemo =~ /Sancti/i && $commemo !~ /08\-14|06\-23|06\-28|08\-09/)) { next;
+							|| ($version =~ /19(?:55|6)/ && $ic =~ /!.*?Vigil/i && $commemo =~ /Sancti/i && $commemo !~ /08\-14|06\-23|06\-28|08\-09/)
+							|| ($rank >= 5 && $ic =~ /$octavestring/i && ($month != 12 || $day < 18))) { next;
 							}
 						if ($ic !~ /^!/) { $ic = "!$ic"; }
 						$ccind++;
@@ -2258,7 +2258,7 @@ sub get_prima_responsory {
   }
   if ($dayname[0] =~ /Pasc7/i) { $key = 'Pent'; }
 
-  if ( ($version =~ /1960/ && $month == 12 && $day > 8 && $day < 16)
+  if ( ($version =~ /1960/ && $month == 12 && $day > 8 && $day < 16 && $version !~ /Newcal/ && $day !~ 12)
     || ($version !~ /Trident/i && $winner{Rank} =~ /Adventus/))
   {
     $key = 'Adv';
