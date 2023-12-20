@@ -15,3 +15,4 @@ standalone/tools/epubgen2/output
 .idea
 *.afpub~lock~
 .DS_Store
+*.odt#
