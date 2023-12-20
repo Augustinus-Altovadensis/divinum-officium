@@ -519,7 +519,9 @@ sub psalm : ScriptFunc {
   foreach my $line (@lines) {
 
      if ( $version =~ /Cistercien/i ) { 
-        $line =~ s/\(Fit reverentia\:\)//i; $line =~ s/\(Fit reverentia\)//i; }
+        $line =~ s/\(Fit reverentia\:\)//i; $line =~ s/\(Fit reverentia\)//i; 
+        if ($psnum >= 231 ) { $line =~ s/\+//i } 
+      }
 
     # Interleave antiphon into the psalm "Venite exsultemus".
     if ($psnum == 94 && $line =~ /^\s*\$ant\s*$/) {

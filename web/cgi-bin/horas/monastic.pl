@@ -319,7 +319,7 @@ sub antetpsalm_mm {
     my $ant1 = ($version =~ /Cistercien/i) ? substr($line[0], 0, index($line[0], '*')) : $line[0];
     if ($version =~ /Cistercien/i) {
       $ant1 =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
-      $ant1 =~ s/[\,|\.|\;|:]\./\./; #  (looks better) Trim all the double punctuation.
+      $ant1 =~ s/[\,|\.|\;|\:]\./\./; #  (looks better) Trim all the double punctuation.
       $ant1 =~ s/\!\./\!/; #  ( !. -> ! ).
       }
     push(@s, "Ant. $ant1"); $lastantiphon = $line[0];
