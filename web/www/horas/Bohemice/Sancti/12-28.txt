@@ -14,39 +14,38 @@ no Te Deum
 no Psalm5
 
 [Ant 1]
-These are they * who were not defiled with women; for they are virgins, and~
-follow the Lamb whithersoever he goeth.
+To jsou ti, * kteří nedošli poskvrnění se ženami; jsou totiž panicové,~
+a následují Beránka, kamkoliv jde.
 
 [Versum 1]
-V. Herod being wroth, slew many children.
-R. In Bethlehem of Juda, the city of David.
+V. Rozlícený Herodes pobil mnoho dětí.
+R. V judském Betlémě, městě Davidově.
 
 [Oratio]
-O God, whose praise the martyred Innocents on this day confessed, not by speaking,~
-but by dying, destroy all the evils of sin in us, that our life also may~
-proclaim in deeds, thy faith which our tongues profess.
+Bože, jehož chválu dnešního dne Neviňátka jako mučedníci, nikoliv řečí, ale smrtí vyznala,~ 
+veškeré zlo hříchů v nás umrtvi, aby víru v tebe, kterou vyznává náš jazyk, také život mravy hlásal.
 $Per Dominum
 
 [Hymnus Matutinum]
-v. With terror doth the tyrant hear
-The King of kings hath come to dwell
-Where David's court shall widely rear
-A sceptered reign o'er Israel.
+v. Zděšený tyran slyší zvěst,
+že Vladař vládců tu již jest,
+že má vést Izraelův dům,
+zasednout na Davidův trůn.
 _
-Then cries out, raging, at the word:
-“He comes to stand where we have stood:
-Hence, soldier, and with ruthless sword
-Deluge the cradles deep with blood!”
+Omráčen zprávou, strhne křik:
+Mám už jít, je tu následník.
+Biřici, pospěš pro kopí,
+ať kolébky krev zatopí.
 _
-What profiteth a crime so dread?
-What hope shall Herod's bosom sway?
-Alone amidst the thronging dead,
-The Christ is safely borne away!
+K čemu ten hrozný zločin je,
+jak Herodovi prospěje?
+Zdráv mezi všemi mrtvými
+unikne Kristus jediný.
 _
-All glory for this blessed morn
-To God the Father ever be;
-All praise to thee, Virgin-born,
-All praise, Holy Ghost, to thee.
+Buď sláva tobě, Ježíši,
+zrozený z Panny nejčistší,
+i Otci, Duchu milosti
+po všechny věky věčnosti.
 Amen.
 
 [Lectio1]
@@ -227,7 +226,7 @@ R. These are they which came out of great tribulation, and have washed their~
 robes, and made them white in the Blood of the Lamb.
 
 [Ant Laudes]
-Herod was exceeding wroth, * and slew many children in Bethlehem of Judah, the city of David.
+Herodes pln hněvu * zabil mnoho chlapců v judském Betlémě, městě Davidově.
 Herod slew many children * from two years old, and under, for the Lord's sake.
 Their angels * do always behold the face of the Father.
 In Rama was there a voice * heard, weeping and mourning, Rachel weeping for her children.
@@ -235,43 +234,42 @@ Under the throne of God * all the saints cry aloud: Avenge our blood, O our God!
 
 [Capitulum Laudes]
 !Rev 14:1
-v. Lo, a lamb stood upon mount Sion, and with him an hundred forty-four thousand,~
-having his name, and the name of his Father, written on their foreheads.
+v. Viděl jsem Beránka státi na hoře Sion, a spolu s ním tam bylo sto čtyřicet čtyři tisíc, kteří měli jeho jméno a jméno Otcovo napsané na čele.
 $Deo gratias
 
 [Hymnus Laudes]
-v. All hail, ye little Martyr flowers,
-Sweet rosebuds cut in dawning hours!
-When Herod sought the Christ to find
-Ye fell as bloom before the wind.
+v. Vám, květy mučedníků, čest!
+Nepřítel Kristův vás dal smést
+na samém prahu života
+jak vichrem růží poupata.
 _
-First victims of the Martyr bands,
-With crowns and palms in tender hands,
-Around the very altar, gay
-And innocent, ye seem to play.
+Kristova první oběti,
+jehňátka hnaná k zabití,
+hned před oltářem nyní jste
+a s vavříny si hrajete.
 _
-All honor, laud, and glory be,
-O Jesu, Virgin-born to thee;
-All glory, as is ever meet
-To Father and to Paraclete.
+Buď sláva tobě, Ježíši,
+zrozený z Panny nejčistší,
+i Otci, Duchu milosti
+po všechny věky věčnosti.
 Amen.
 
 [Lectio Prima]
 !Rev 14:4-5
-v. These were purchased from among men, the firstfruits to God and to the~
-Lamb: And in their mouth there was found no lie; for they are without spot before~
-the throne of God.
+v. Tito jsou vykoupeni jako první z lidí pro Boha a Beránka,~ 
+a v jejich ústech nebyla shledána lež; bez poskvrny totiž~
+jsou před trůnem Božím.
 
 [Capitulum Tertia]
 !Rev 14:1
-v. Lo, a lamb stood upon mount Sion, and with him an hundred forty-four thousand,~
-having his name, and the name of his Father, written on their foreheads.
+v. Viděl jsem Beránka státi na hoře Sion, a spolu s ním tam bylo ~
+sto čtyřicet čtyři tisíc, kteří měli jeho jméno a jméno Otcovo napsané na čele. 
 $Deo gratias
 
 [Capitulum Sexta]
 !Rev 14:4
-v. These are they who were not defiled with women: for they are virgins. These~
-follow the Lamb whithersoever he goeth.
+v. To jsou ti, kteří nedošli poskvrnění se ženami; jsou totiž panicové,~ 
+a následují Beránka, kamkoliv on jde. .
 $Deo gratias
 
 [Versum 3]

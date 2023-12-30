@@ -1,7 +1,7 @@
 @Sancti/12-26
 
 [Rank]
-S. Stephani Protomartyris;;Duplex II class;;7;;ex C2
+S. Stephani Protomartyris;;Duplex II class;;5.4;;ex C2
 
 [Rule]
 12 lectiones
@@ -98,6 +98,9 @@ Pósitis autem génibus, * clamávit voce magna dicens Stéphanus: Dómine Jesu,
 _
 @Commune/C2:Responsory Tertia:1-6
 
+[Ant 2]
+Patefáctæ sunt * jánuæ cœli Christi Mártyri Stéphano, qui in número Mártyrum invéntus est primus, et ídeo triúmphat in cœlis coronátus, allelúia.
+
 [Ant Vespera 3]
 @:Ant Laudes
 
@@ -106,6 +109,6 @@ _
 _
 @Commune/C2:Responsory Sexta:1-6
 
-[Ant Vespera 3]
-@Sancti/12-25::s/129/131/
+[Ant 3]
+Intuens in cœlum * beátus Stéphanus vidit glóriam Dei, et ait: Ecce vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei.
 

@@ -1,10 +1,13 @@
 @Sancti/12-27
 
 [Rank]
-S. Joanni Apostoli;;Duplex II Class;;7;;ex C1
+S. Joanni Apostoli;;Duplex II Class;;5.3;;ex C1
 
 [Rule]
 12 lectiones
+
+[Versum 1]
+@CommuneCist/C1
 
 [Lectio1]
 @Sancti/12-27:Lectio1:s/-5/-3/ s/4 .*//s
@@ -87,10 +90,24 @@ R. Sic eum volo manére, donec véniam:
 V. Hunc ergo cum vidísset Petrus, dixit ad Iesum: † Dómine hic autem quid?
 R. Quid ad te, tu me séquere.
 
+[Ant Laudes]
+Ecce puer meus * eléctus, quem elégi, pósui super eum Spíritum meum.
+Hic est discípulus ille * qui testimónium pérhibet de his: et scimus quia verum est testimónium ejus.
+Misit Dóminus * manum suam, et tétigit os meum, et replévit illud.
+Sunt de hic stántibus, * qui non gustábunt mortem, donec vídeant Fílium hóminis in regno suo.
+Joánnes autem Apóstolus * virgo Dei eléctus, cui Vírginem Matrem Dóminus vírgini commendávit.
+
+
 [Capitulum Laudes]
 @Sancti/12-27
 _
 @Commune/C1:Responsory Tertia:1-6
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+In médio * Ecclésiæ apéruit Dóminus os ejus, et implévit eum spíritu sapiéntiæ et intelléctus, allelúia.
 
 [Capitulum Vespera]
 @Sancti/12-27:Capitulum Laudes
@@ -98,5 +115,7 @@ _
 @Commune/C1:Responsory Sexta:1-6
 
 [Ant Vespera 3]
-@Sancti/12-25::s/129.*/129/s
+@:Ant Laudes
 
+[Ant 3]
+Joánnes Apóstolus * et Evangelísta, virgo est eléctus a Dómino, atque inter céteros magis diléctus, allelúia.

@@ -3,6 +3,12 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+O quam * gloriósum est regnum, in quo cum Christo gaudent Innocéntes, amícti stolis albis sequúntur Agnum quocúmque íerit.
+
+[Versum 1]
+@CommuneCist/C3
+
 [Ant Matutinum]
 @CommuneM/C3:Ant Matutinum:1-9
 Isti * sunt, qui venérunt ex magna tribulatióne, † et lavérunt stolas suas in sánguine Agni.;;33
@@ -92,13 +98,36 @@ R. Deus noster.
 [Capitulum Laudes]
 @Sancti/12-28
 _
-@Commune/C3:Responsory Tertia:s/_.*//s
+@Commune/C3:Responsory Sexta
 
 [Capitulum Vespera]
 @Sancti/12-28:Capitulum Laudes
 _
-@Commune/C3:Responsory Sexta:s/_.*//s
+@CommuneCist/C3:Responsory Vespera
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Ant Prima]
+Angeli eórum * semper vident fáciem Patris.
+
+[Ant Tertia]
+Vox in Rama audíta est, * plorátus et ululátus, Rachel plorans fílios suos.
+
+[Ant Sexta]
+Sub throno Dei * Sancti clamábant: Víndica sánguinem nostrum, Deus noster.
+
+[Ant Nona]
+Cantábant Sancti * cánticum novum ante sedem Dei, et Agni, et resonábat terra in voces illórum.
 
 [Ant Vespera 3]
-@Sancti/12-25::s/129/131/
+A bimátu * et infra occídit multos púeros Heródes propter Dóminum.
+Sínite párvulos * ad me veníre, tálium est enim regnum cœlórum.
+Lavérunt stolas suas * et cándidas eas fecérunt in sánguine Agni.
+Hi empti sunt * ex homínibus primítiæ Deo et Agno; et in ore eórum non est invéntum mendácium.
 
+[Ant 3]
+Ambulábunt mecum in albis, * quóniam digni sunt, et non delébo nómina eórum de libro vitæ.
