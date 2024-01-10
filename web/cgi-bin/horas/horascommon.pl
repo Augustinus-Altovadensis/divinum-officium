@@ -1423,7 +1423,20 @@ sub setheadline {
 			'I. classis',
 			'I. classis'
 			);
+      my @cisttable = (   # Cistercian table
+      'none',
+      'Commemoratio',
+      'iij. Lect. et M.',
+      'xij. Lect. et M.',
+      'MM. min.',
+      'MM. maj.',
+      'Serm. min.',
+      'Serm. maj.'
+      );
 			$rankname = ($version !~ /196/) ? $tradtable[$rank] : $newtable[$rank];
+
+      if ($version =~ /Cistercien/i ) { $rankname = $cisttable[$rank]; }
+
 			if ($version =~ /19(?:55|60)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 			
 			if ($version =~ /1570/i) { $rankname =~ s/ majus//;	} # no Duplex majus yet in 1570
@@ -1487,7 +1500,7 @@ sub setheadline {
 		} elsif ($version !~ /196/ && $dayname[0] =~ /07-04/i && $dayofweek > 0) {
 			$rankname = ($rank =~ 7) ? 'Duplex I. classis' : 'Semiduplex'; # TODO: what is this? Independecne Day????
 		} else {	# Default for Ferias
-			if ($version !~ /196/) {
+			if ($version !~ /196|Cistercien/) {
 				$rankname = ($rank < 2) ? 'Ferial' : ($rank < 3) ? 'Feria major' : ($rank < 5) ? 'Feria privilegiata II. ordinis' : 'Feria privilegiata';
 			} else {
 				my @ranktable = (

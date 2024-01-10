@@ -894,7 +894,7 @@ sub psalmi_major {
   if ($hora =~ /Laudes/) { $name .= $laudes; }
   my @psalmi = splice(@psalmi, @psalmi);
 
-  if ($version =~ /monastic|Cistercien/i) {
+  if ($version =~ /monastic/i) {
     my $head = "Daym$dayofweek";
     if ($hora =~ /Laudes/i) {
       if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaymF'; }
@@ -909,6 +909,25 @@ sub psalmi_major {
                || (($dayname[0] =~ /Pent/) && ($dayname[1] =~ /Vigil/)))
       {
         my @canticles = split("\n", $psalmi{'DaymF Canticles'});
+        if ($dayofweek == 6) { $psalmi[1] .= '(1-7)'; $psalmi[2] = ';;142(8-12)'; }
+        $psalmi[3] = $canticles[$dayofweek];
+      }
+    }
+  } if ($version =~ /Cistercien/i) {
+    my $head = "Dayc$dayofweek";
+    if ($hora =~ /Laudes/i) {
+      if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaycF'; }
+      if ($dayname[0] =~ /Pasc/i && $head =~ /Dayc0/i) { $head = 'DaycP'; }
+    }
+    @psalmi = split("\n", $psalmi{"$head $hora"});
+
+    if ($hora =~ /Laudes/i && $head =~ /Dayc[1-6]/) {
+      unless ( (($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
+               || (($dayname[0] =~ /Quad\d/) && ($dayname[1] =~ /Feria/))
+               || ($dayname[1] =~ /Quattuor Temporum Septembris/)
+               || (($dayname[0] =~ /Pent/) && ($dayname[1] =~ /Vigil/)))
+      {
+        my @canticles = split("\n", $psalmi{'DaycF Canticles'});
         if ($dayofweek == 6) { $psalmi[1] .= '(1-7)'; $psalmi[2] = ';;142(8-12)'; }
         $psalmi[3] = $canticles[$dayofweek];
       }
@@ -2090,7 +2109,7 @@ sub doxology {
 
   if ($dname && !$dox) {
     my %w = %{setupstring($lang, 'Psalterium/Doxologies.txt')};
-    if ($version =~ /Monastic|1570/i && $w{"${dname}T"}) { $dname .= 'T'; }
+    if ($version =~ /Monastic|Cistercien|1570/i && $w{"${dname}T"}) { $dname .= 'T'; }
     $dox = $w{$dname};
     setbuild2("Doxology: $dname");
   }
