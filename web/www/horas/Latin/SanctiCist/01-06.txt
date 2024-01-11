@@ -8,7 +8,33 @@ Doxology=Epi
 [Capitulum Vespera]
 @Sancti/01-06
 _
-@Sancti/01-06:Responsory Sexta:1-6
+<FONT COLOR=RED>Responsorium</FONT> Illumináre, illumináre Jerúsalem, quia venit lux tua: * Et glória Dómini super te orta est.
+V. Et ambulábunt Gentes in lúmine tuo, et reges in splendóre ortus tui:
+R. Et glória Dómini super te orta est.
+
+[Versum 1]
+V. Omnes de Saba vénient.
+R. Aurum et thus deferéntes, et laudem Dómini annuntiántes.
+
+[Ant 1]
+@Sancti/01-06::s/Magi vidéntes \*/Magi \* vidérunt/i
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Capitulum Vespera 3]
+@Sancti/01-06:Capitulum Vespera
+_
+R.br. Dies sanctificátus, * Illúxit nobis.
+R. Dies sanctificátus, * Illúxit nobis.
+V. Veníte, Gentes, et adoráte Dóminum.
+R. Illúxit nobis.
+
+[Ant 3]
+Ab Oriénte * venérunt Magi in Béthlehem adoráre Dóminum, et apértis thesáuris suis pretiósa múnera obtulérunt: aurum sicut Regi magno: thus sicut Deo vero: myrrham sepultúræ ejus.
 
 [Ant Matutinum]
 Afférte Dómino * fílii Dei, adoráte Dóminum in aula sancta ejus.;;28
@@ -112,7 +138,7 @@ R. Cujus stellam Magi vidéntes gavísi sunt, et múnera ei obtulérunt.
 [Capitulum Laudes]
 @Sancti/01-06
 _
-@Sancti/01-06:Responsory Tertia:1-6
+@Sancti/01-06:Responsory Tertia:1-6:s/múnera ófferent\, \* Allelúja, allelúja./\* Múnera ófferent/ig s/R\. Allelúja\, allelúja/R\. Múnera ófferent/ig
 
 [Responsory Tertia]
 @Sancti/01-06:Versum 1:s/\.$/, allelúja./gm

@@ -12,43 +12,42 @@ Psalm5 Vespera3=113
 Festum Domini
 
 [Ant Vespera]
-The Lord our Saviour, * begotten before the day-star, and before the ages, is this day made manifest in the world.
-O Jerusalem, * thy light is come, and the glory of the Lord is risen upon thee, and the Gentiles shall walk in thy light. Alleluia.
-When the wise men * had opened their treasures, they presented unto the Lord gold, frankincense, and myrrh. Alleluia.
-O ye seas and floods, * bless ye the Lord. O ye wells, bless ye the Lord. Alleluia.
-This star shineth * as a flame of fire, and pointeth out God, the King of kings: the Wise Men beheld it, and offered gifts unto the great King.
+Před východem slunce zrozen, * a před věky, Pán náš Spasitel se dnes zjevil světu.
+Přišlo tvé světlo, * Jerusaléme, a sláva Páně vzešla nad tebou, a Národy budou kráčet ve tvém světle, alleluja.
+Když otevřeli své poklady, * obětovali Mudrci Pánu zlato, kadidlo a myrhu, alleluja.
+Moře a řeky, * dobrořečte Pánu; Prameny, velebte Pána, alleluja.
+A ta hvězda * září jako plamen, a ukazuje Krále králů a Boha. Mudrci ji uviděli, a velikému Králi přinesli dary.
 
 [Capitulum Vespera]
 !Isa 60:1
-v. Arise, be enlightened, O Jerusalem: for thy light is come, and the glory of~
-the Lord is risen upon thee.
+v. Povstaň a rozjasni se, Jerusaléme, neboť přišlo tvé světlo, a sláva Páně vzešla nad tebou.
 $Deo gratias
 
 [Hymnus Vespera]
-v. Why, impious Herod, vainly fear
-That Christ the Saviour cometh here?
-He takes no earthly realms away
-Who gives the crown that lasts for aye.
+v. Proč jen, bezbožný Herode
+Bojíš se Boha a Krále?
+Neuchvacuje časný trůn 
+Kdo dává říše nebeské.
 _
-To greet His birth the Wise Men went,
-Led by the star before them sent;
-Called on by light, towards light they pressed,
-And by their gifts their God confessed.
+Šli Mudrci a hvězdička,
+již viděli, před nimi šla,
+Světlo též světlem hledali,
+Dary jej Bohem vyznali.
 _
-In holy Jordan's purest wave
-The heavenly Lamb vouchsafed to lave;
-That He, to whom was sin unknown,
-Might cleanse His people from their own.
+Lázeň z čistého pramene
+Nebeský přines' Beránek,
+A hříchy, jež neodnesl
+Obmyv nás pak na sebe vzal.
 _
-New miracle of power divine!
-The water reddens into wine:
-He spake the word: and poured the wave
-In other streams than nature gave.
+V novém druhu jeho moci
+Džbány vody zčervenají,
+Když nalít víno přikázal,
+Mění voda podstatu svou.
 _
-All glory, Lord, to thee we pay
-For thine Epiphany to-day:
-All glory, as is ever meet,
-To Father and to Paraclete.
+Buď sláva tobě, Ježíši,
+Jenž jsi Pohanům zjevený,
+i Otci, Duchu milosti
+po všechny věky věčnosti.
 Amen.
 
 [Versum 1]
@@ -56,14 +55,13 @@ V. The kings of Tarshish and of the isles shall bring presents.
 R. The kings of Arabia and Saba shall offer gifts.
 
 [Ant 1]
-When the wise men saw the star * they said one unto another: This is the sign~
-of the Great King; let us go and search diligently for Him, and present unto Him~
-gifts, gold, and frankincense, and myrrh. Alleluia.
+Mudrci, * když uviděli hvězdu, řekli si společně: Je to znamení velikého Krále;~
+pojďme jej navštívit, a obětujme mu dary, zlato, kadidlo a myrhu, alleluja.
 
 [Oratio]
-O God, Who by the leading of a star didst, as on this day, manifest thine~
-Only-begotten Son to the Gentiles, mercifully grant that we, which know thee now~
-by faith, may after this life have the fruition of thy glorious Godhead:
+Bože, jenž jsi dnešního dne svého Jednorozeného zjevil Pohanům vedeným hvězdou,~ 
+popřej milostivě, abychom my, kteří jsme tě už vírou poznali, až k patření na krásu tvé~
+velebnosti byli přivedeni. 
 $Per eumdem
 
 [Invit]
@@ -304,30 +302,30 @@ rent by repentance.
 &teDeum
 
 [Hymnus Laudes]
-v. Bethlehem, of noblest cities
-None can once with thee compare;
-Thou alone the Lord from heaven
-Didst for us incarnate bear.
+v. Ty jediné z velikých Měst,
+Velký Betléme, kde se stalo.
+že Vůdce spásy nebeský
+V těle se slavně narodil.
 _
-Fairer than the sun at morning
-Was the star that told His birth;
-To the lands their God announcing,
-Hid beneath a form of earth.
+Ta hvězda, jež se krásou skví
+víc nežli slunce planoucí,
+roznáší zprávu po zemi,
+že přišel k nám Bůh vtělený.
 _
-By its lambent beauty guided,
-See, the eastern kings appear;
-See them bend, their gifts to offer,
-Gifts of incense, gold, and myrrh.
+Viděli jej pak Mudrci,
+Když z Východu přinesli dary,
+Padli na zem a dali mu,
+Kadidlo, myrhu, zlato králů.
 _
-Solemn things of mystic meaning:
-Incense doth the God disclose;
-Gold a royal child proclaimeth;
-Myrrh a future tomb foreshows.
+Krále a Boha ohlašují,
+poklady i krásná vůně
+Kadidla ze Sáby, a myrhový 
+Prach jeho hrob nám zvěstují.
 _
-Holy Jesu, in thy brightness
-To the Gentile world displayed,
-With the Father and the Spirit,
-Endless praise to thee be paid.
+Buď sláva tobě, Ježíši,
+Jenž jsi Pohanům zjevený,
+i Otci, Duchu milosti
+po všechny věky věčnosti.
 Amen.
 
 [Versum 2]
@@ -335,17 +333,17 @@ V. Worship God. Alleluia.
 R. All ye His angels. Alleluia.
 
 [Ant 2]
-This day is the Church joined unto the Heavenly Bridegroom, * since Christ hath washed away her sins in Jordan; the wise men hasten with gifts to the marriage supper of the King; and they that sit at meat together make merry with water turned into wine. Alleluia.
+Dnes * se k nebeskému Ženichu připojila Církev, neboť v Jordánu obmyl Kristus její přečiny. Mudrci s dary běží ke královské svatbě; a z vody proměněné ve víno se radují hodující, alleluja.
 
 [Lectio Prima]
 !Isa 60:6
 v. All they from Saba shall come, bringing gold and frankincense: and shewing forth praise to the Lord.
 
 [Responsory Tertia]
-R.br. The kings of Tarshish and of the isles shall bring presents. * Alleluia, Alleluia.
-R. The kings of Tarshish and of the isles shall bring presents. * Alleluia, Alleluia.
-V. The kings of Arabia and Saba shall offer gifts.
-R. Alleluia, Alleluia.
+R.br. Králové Taršíše a ostrovů přinesou dary. * Alleluja, alleluja.
+R. Králové Taršíše a ostrovů přinesou dary. * Alleluja, alleluja.
+V. Králové Arábie a Sáby přijdou i s dary.
+R. Alleluja, alleluja.
 &Gloria
 R. The kings of Tarshish and of the isles shall bring presents. * Alleluia, Alleluia.
 _

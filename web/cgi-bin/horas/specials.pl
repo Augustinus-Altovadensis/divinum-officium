@@ -2123,7 +2123,7 @@ sub doxology {
 sub checksuffragium {
   if ($rule =~ /no suffragium/i) { return 0; }
   if ( ($winner =~ /C1[0-2]/ || $dayname[1] =~ /Dominica/i ) && $version =~ /Cistercien/i ) { return 0; }
-  if ($rank <= 4 && $version =~ /Cistercien/i ) { return 1; }
+  if ( $winner{Rank} !~ /octav/i && $rank <= 4 && $version =~ /Cistercien/i ) { return 1; }
   if (!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) { return 0; }    #christmas, adv, passiontime omit
   if ($dayname[0] =~ /Pasc[07]/i) { return 0; }
   if ($winner =~ /sancti/i && $rank >= 3 && $seasonalflag) { return 0; }
