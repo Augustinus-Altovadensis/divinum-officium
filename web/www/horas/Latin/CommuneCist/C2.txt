@@ -4,8 +4,8 @@
 Qui me conféssus fúerit * coram homínibus, confitébor et ego eum coram Patre meo.
 Qui séquitur me, * non ámbulat in ténebris, sed habébit lumen vitæ, dicit Dóminus.
 Qui mihi minístrat, * me sequátur: et ubi ego sum, illic sit et miníster meus.
-Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 Si quis mihi ministráverit, * honorificábit eum Pater meus, qui est in cælis, dicit Dóminus.
+Volo Pater, * ut ubi ego sum, illic sit et miníster meus.
 
 [Capitulum Vespera]
 @Commune/C2
@@ -17,7 +17,7 @@ V. Justus germinábit sicut lílium.
 R. Et florébit in ætérnum ante Dóminum.
 
 [Ant 1]
-Beátus vir, qui suffert tentatiónem: quia cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus his, qui díligunt eum.
+Beátus vir, * qui suffert tentatiónem: quia cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus his, qui díligunt eum.
 
 [Ant Matutinum]
 In lege Dómini * fuit volúntas ejus die ac nocte.;;1
@@ -56,8 +56,14 @@ _
 [Versum 2]
 @:Versum 1
 
+[Versum 3]
+@:Versum 1
+
 [Ant 2]
 Qui vult veníre post me, * ábneget semetípsum, et tollat crucem suam, et sequátur me, dicit Dóminus.
+
+[Ant 3]
+Hic est vere Martyr, * qui pro Christi nómine sánguinem suum fudit, qui minas júdicum non tímuit, nec terrénæ dignitátis glóriam quæsívit, sed ad coeléstia regna felíciter pervénit.
 
 [Oratio]
 Infirmitátem nostram réspice, omnípotens Deus: et quia pondus própriæ actiónis gravat, beáti N. Mártyris tui atque Pontíficis intercéssio gloriósa nos prótegat.
