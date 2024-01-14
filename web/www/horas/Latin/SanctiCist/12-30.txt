@@ -10,7 +10,7 @@ Dum médium siléntium * tenérent ómnia, et nox in suo cursu médium iter per�
 
 [Oratio]
 Omnípotens sempitérne Deus, dírige actus nostros in beneplácito tuo: ut in nómine dilécti Fílii tui mereámur bonis opéribus abundáre.
-$Per eumdem
+$Qui tecum
 
 [Capitulum Laudes]
 v. Fratres: Quanto témpore hæres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus, et actóribus est usque ad præfinítum tempus a patre.
@@ -32,6 +32,27 @@ Puer Jesus * proficiébat ætáte, et sapiéntia coram Deo, et homínibus.
 [Versum 3]
 @:Versum 1
 
+[Ant Prima]
+Angelus * ad pastóres ait: Annúntio vobis gáudium magnum: quia natus est vobis hódie Salvátor mundi, allelúia.
+
+[Ant Tertia]
+Facta est * cum Angelo multitúdo cœléstis exércitus laudántium, et dicéntium: Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúia.
+
+[Capitulum Tertia]
+v. Fratres: Quanto témpore hæres párvulus est, nihil differt a servo, cum sit dóminus ómnium: sed sub tutóribus, et actóribus est usque ad præfinítum tempus a patre.
+
+[Ant Sexta]
+Pastóres * loquébantur ad ínvicem: Transeámus usque Béthlehem, et videámus hoc Verbum quod factum est, quod Dóminus osténdit nobis, allelúia.
+
+[Capitulum Sexta]
+v. At ubi venit plenitúdo témporis, misit Deus Fílium suum factum ex mulíere, factum sub lege, ut eos, qui sub lege erant, redímeret, ut adoptiónem filiórum reciperémus.
+
+[Ant Nona]
+Et venérunt * festinántes: et invenérunt Maríam, et Joseph, et infántem pósitum in præsépio, allelúia.
+
+[Capitulum Nona]
+v. Itaque jam non est servus, sed fílius. Quod si fílius: et hæres per Deum.
+
 [Lectio1]
 @Sancti/12-30:Lectio7
 
@@ -50,5 +71,4 @@ Puer Jesus * proficiébat ætáte, et sapiéntia coram Deo, et homínibus.
 [Responsory3]
 @Tempora/Nat1-0:Responsory8
 
-[Ant Vespera]
-@Sancti/12-25:Ant Vespera 3:s/.*;;129/;;131/
+

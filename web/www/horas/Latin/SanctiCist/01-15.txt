@@ -1,0 +1,13 @@
+[Rank]
+S. Mauri Abbatis;;iij. Lect. et M.;;3;;vide C5
+
+[Rule]
+vide C5;
+
+[Oratio] 
+@CommuneCist/C5:Oratio1:s/N./Mauri/
+
+[Lectio93]
+Maurus nobilis Romanus, puer a patre Eutychio Deo sub sancti Benedicti disciplína oblatus, brevi tantum divina grátia profecit, ut ipsi magistro admiratióni esset; qui illum sæpe, véluti regularis observantiæ et virtútum ómnium specimen, ceteris discípulis ad imitándum proponebat. Cujus adhuc adolescentis illud admirábilis obediéntiæ exemplum a sancto Gregório Papa commemorátur: nam, cum Placidus mónachus in lacum prolapsus, aquárum ímpetu raperétur, sancti Patris jussu accurrens Maurus, et super aquas incédens, socium capíllis apprehensum, ad terram attraxit. Missus in Gálliam ab eodem sancto Benedicto, célebri monasterio exstructo, cui annos quadragínta præfuit, monasticam disciplínam mirifice propagávit. Denique sanctitáte et miraculis clarus, septuagenario major migrávit in cælum, anno salútis quingentésimo sexagésimo quinto.
+&teDeum
+

@@ -1,23 +1,8 @@
-﻿#Incipit
+#Incipit
 $Deus in adjutorium Cist
 &Gloria
 
 #Hymnus
-v. Vládce mocný, pravý Bože,
-jenž pořádáš síly v světě
-rána šatíš svou nádherou,
-poledne ohnivostí svou.
-_
-Uhas nesvárů plamennost,
-žáru provinění zbavuj,
-uděl zdraví těla hojnost,
-srdcím pak pravou pokojnost.
-_       
-* To uděl, Otče přesvatý 
-se Synem stejné podstaty,
-jenž s Duchem, který těší nás
-nad světem vládneš v každý čas.
-Amen.
 
 #Psalmi
 

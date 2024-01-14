@@ -1,19 +1,44 @@
 @Sancti/01-01
 
 [Rank]
-Die Octavæ Nativitatis Domini;;Duplex I classis;;7;;ex Sancti/12-25
+In Circumcisione et Octava Nativitatis Domini;;Serm. min.;;6;;ex SanctiCist/12-25
 
 [Rule]
 12 lectiones
-no Commemoratio
 
 [Capitulum Vespera]
 @Sancti/01-01
 _
-@Sancti/12-25:Responsory Tertia:1-6
+<FONT COLOR=RED>Responsorium</FONT> Propter nímiam charitátem suam, qua diléxit nos Deus Pater, Fílium suum misit * In similitúdinem carnis peccáti, ut omnes salváret.
+V. Ecce jam venit plenitúdo témporis, in quo misit Deus Fílium suum in terras, natum de Vírgine, factum sub lege.
+R. In similitúdinem carnis peccáti, ut omnes salváret.
 
 [Versum 1]
-@Sancti/12-25:Versum 2
+@SanctiCist/12-25:Versum 2
+
+[Versum 2]
+@SanctiCist/12-25:Versum 2
+
+[Versum 3]
+@SanctiCist/12-25:Versum 2
+
+[Capitulum Vespera 3]
+@Sancti/01-01:Capitulum Vespera
+_
+@SanctiCist/12-25::3-6
+
+[Ant 1]
+Qui de terra est, * de terra lóquitur; qui de cœlo venit, super omnes est: et quod vidit, et audívit, hoc testátur, et testimónium ejus nemo áccipit; qui autem accéperit ejus testimónium, signávit quia Deus verax est.
+
+[Commemoratio]
+
+[Ant 2]
+Mirábile mystérium * declarátur hódie: innovántur natúræ, Deus homo factus est: id quod fuit permánsit, et quod non erat assúmpsit, non commixtiónem passus, neque divisiónem.
+
+[Capitulum Laudes]
+@Sancti/01-01:Capitulum Vespera
+_
+@SanctiCist/12-25::3-6
 
 [Ant Matutinum]
 Dóminus dixit * ad me: Fílius meus es tu, ego hódie génui te.;;2
@@ -110,11 +135,6 @@ R. Et vocábitur Admirábilis, Deus Fortis.
 
 [Responsory12]
 @Tempora/Nat1-0:Responsory8
-
-[Capitulum Laudes]
-@Sancti/01-01
-_
-@Sancti/12-25:Responsory Sexta:1-6
 
 [Responsory Tertia]
 @Sancti/12-25:Responsory Nona:8-9

@@ -14,7 +14,7 @@ Thou good and faithful servant, * enter thou into the joy of thy Lord.;;116
 
 [Capitulum Vespera]
 !Sir 31:8-9
-v. Blessed is the rich man that is found without blemish: and that hath not gone after gold, nor put his trust in money nor in treasures. Who is he, and we will praise him? for he hath done wonderful things in his life.
+v. Blažen je muž, který byl shledán bez poskvrny, a za zlatem se nepachtí, ani jeho naděje neleží v penězích a bohatství. Kdo je takovým? Pochvalme jej, činil totiž ve svém životě podivuhodné věci.
 $Deo gratias
 
 [Ant 1]
@@ -140,56 +140,59 @@ Blessed is that servant * whom his Lord, when He cometh and knocketh at the door
 Thou good and faithful servant, * enter thou into the joy of thy Lord.
 
 [Hymnus Laudes]
-v. Jesu, eternal truth sublime,
-Through endless years the same!
-Thou crown of those who through all time
-Confess thy holy name:
+v. Jezu, koruno přeslavná 
+a pravdo velmi vznešená, 
+jenž svému Vyznavačovi 
+trvalou dáváš odměnu:
 _
-Thy suppliant people, through the prayer
-Of thy blest saint, forgive;
-For his dear sake, thy wrath forbear,
-And bid our spirits live.
+Dej prosícímu zástupu 
+na jeho mocnou přímluvu, 
+odpuštění jeho hříchů, 
+a strhni z něj pout okovy.
 _
-Again returns the sacred day,
-With heavenly glory bright,
-Which saw him go upon his way
-Into the realms of light.
+Za rok se vrátil znova čas, 
+zazářil světlým jasem den, 
+když tento světec z těla již 
+odtud odešel v hvězdnou výš.
 _
-All objects of our vain desire,
-All earthly joys and gains,
-To him were but as filthy mire;
-And now with thee he reigns.
+Za marnost slasti země měl, 
+i převeliké poklady 
+jen za nečisté pokládal, 
+však s radostí nebe dostal.
 _
-Thee, Jesu, his all-gracious Lord,
-Confessing to the last,
-He trod beneath him Satan's fraud,
-And stood forever fast.
+Tě, Jezu, Králi předobrý 
+On vždycky řádně vyznával 
+a svody ďábla pošlapal, 
+pyšného svého průvodce.
 _
-In holy deeds of faith and love,
-In fastings and in prayers,
-His days were spent; and now above
-Thy heavenly feast he shares.
+Přeslavný v ctnosti, ve víře 
+byl tento pilný Vyznavač, 
+posty své tělo trýzníval, 
+za to teď v nebi hoduje.
 _
-Then, for his sake thy wrath lay by,
-And hear us while we pray;
-And pardon us, O thou most high,
-On this his festal day.
+A proto vroucně, Laskavý, 
+ti svoje prosby vzdáváme, 
+pro jeho velké zásluhy 
+odpusť nám hříchů pokuty.
 _
-* All glory to the Father be;
-And sole Incarnate Son;
-Praise, holy Paraclete, to thee;
-While endless ages run.
+* Buď Otci i Pánu sláva,
+též Jedinému Synovi
+i Duchu Utěšiteli
+vždy a na věčné věky.
 Amen.
+
+[HymnusM Laudes]
+@:Hymnus Laudes
 
 [Ant 2]
 Well done, thou good and faithful servant; * thou hast been faithful over a few things, I will make thee ruler over many things; enter thou into the joy of thy Lord.
 
 [Oratio]
-O God, Who, year by year, dost gladden us by the solemn feast-day of thy blessed confessor N., mercifully grant unto all who keep his birthday, grace to follow after the pattern of his godly conversation.
+Bože, jenž nás oblažuješ výroční slavností svatého N. svého Vyznavače, popřej milostivě, abychom, jehožto narozeniny slavíme, také skutky napodobovali.
 $Per Dominum.
 
 [Oratio1]
-Let the intercession of the blessed Abbot N., we beseech thee, O Lord, commend us unto thee, that what by our own merits we are unworthy to receive, we may obtain by his patronage.
+Přímluva svatého N., opata, prosíme, Pane, nechť nás doporoučí, abychom to, čeho svými zásluhami nejsme schopni, s jeho pomocí dosáhli.
 $Per Dominum
 
 [Lectio Prima]

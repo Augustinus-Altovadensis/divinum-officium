@@ -15,15 +15,15 @@ Antiphonas Horas
 no commemoratio
 
 [Ant Vespera]
-O wondrous interchange! * the Creator of mankind, taking upon him a living body, vouchsafed to be born of a pure Virgin: and by his Humanity, which was begotten in no earthly wise, hath made us partakers of his Divinity.;;109
-When thou wast born * all ineffably of a Virgin, then were the Scriptures fulfilled; thou camest down like the dew upon the fleece of wool, to bring salvation unto all mankind; we praise thee, O our God.;;112
-In the bush which Moses saw * unconsumed, we recognize the preservation of thy glorious virginity: holy Mother of God, intercede for us.;;121
-The Root of Jesse hath budded, * the Star hath come out of Jacob, the Virgin hath borne the Saviour: we praise thee, O our God.;;126
-Lo, Mary hath brought forth * the Saviour of whom when John saw him, he did proclaim: Behold the Lamb of God that taketh away the sins of the world, alleluia.;;147
+Jak podivuhodná směna! * Stvořitel lidského rodu přijal oduševnělé tělo a ráčil se naroditi z Panny; a tím, že se bez mužského semene stal člověkem, štědře nám nadělil své Božství.;;109
+Když ses narodil, * to snad ani nelze říci: z Panny! Tehdy se naplnila Písma. Jako déšť do údolí jsi sestoupil, abys spasil lidský rod. V tebe doufáme, náš Bože.;;112
+V keři, který uzřel Mojžíš * ohněm nestrávený, poznáváme tvé neporušené a chvályhodné panenství. Boží Rodičko, přimlouvej se za nás.;;121
+Vykvetl kořen Jesse, * vyšla hvězda z Jakuba. Panna porodila Spasitele, a my tě chválíme, Bože náš.;;126
+Hle, Maria * nám zrodila Spasitele. Když jej Jan uviděl, zvolal a řekl: „Hle, Beránek Boží, hle ten, který na sebe vzal hříchy světa, alleluja.“;;147
 
 [Capitulum Vespera]
 !Titus 2:11-12
-v. The grace of God that bringeth salvation hath appeared to all men, teaching us that, denying ungodliness and worldly lusts, we should live soberly, righteously, and godly in this present world.
+v. Zjevila se milost Boha, našeho Spasitele, všem lidem, který nás naučila zavrhnout bezbožnost a světské touhy, a střízlivě, spravedlivě a zbožně žít v tomto světě.
 $Deo gratias
 
 [Ant 1]
@@ -31,10 +31,10 @@ God, for His great love * wherewith He loved us, sent His Own Son in the~
 likeness of sinful flesh. Alleluia.
 
 [Oratio]
-O God, Who, by the fruitful virginity of the Blessed Mary, hast given unto~
-mankind the rewards of everlasting life; grant, we beseech thee, that we may~
-continually feel the might of her intercession, through whom we have worthily~
-received the Author of our life, our Lord Jesus Christ, thy Son:
+Bože, jenž jsi plodné panenství blahoslavené Panny Marie požehnal a tak lidstvu~ 
+udělil milost věčně spásy, dej, prosíme, aby­chom se přesvědčovali, že se za nás~ 
+přimlouvá ta, jejímž prostřednictvím jsme obdrželi původce života, našeho Pána,~ 
+Ježíše Krista, tvého Syna.
 $Qui tecum
 
 [Ant Matutinum]
@@ -253,6 +253,6 @@ the earth: God is made man. That which He was, He remaineth; and that which He w
 not, He taketh; suffering therein neither confusion nor division.
 
 [Ant 3]
-Herein is a great mystery * of heirship; the womb of her that knew not a man is~
-become the temple of God; in taking of her flesh, He was not defiled; all~
-nations shall come and say: Glory be to thee, O Lord!
+Veliké * tajemství dědičnosti; chrámem Božím stalo se lůno, které nepoznalo muže~
+a nebyl od ní poskvrněn tím, že přijal tělo, všechny Národy přišly a pravily:~
+Sláva tobě, Pane!
