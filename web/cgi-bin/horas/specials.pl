@@ -1743,7 +1743,7 @@ sub major_getname {
   }
   if ($version =~ /Cistercien/i && $flag) { 
     $name .= 'C';
-    $name =~ s/Day[1-5]M/DayCM/i; 
+    $name =~ s/Day[1-5]C/DayCM/i; 
   }
   $name .= " $hora";
   return $name;
@@ -1867,6 +1867,9 @@ sub hymnusmajor {
                                  || $winner{Rank} =~ /(Octobris|Novembris)/i)
                              );
   }
+  if ( $version =~ /Cistercien/i && $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
+  if ( $version =~ /Cistercien/i && $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
+  if ( $version =~ /Cistercien/i && ( $dayname[0] =~ /Epi/ || $month >= 11 ) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i ) { $name .= "2" }
   ($hymn, $name);
 }
 

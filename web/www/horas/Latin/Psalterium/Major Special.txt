@@ -9,7 +9,6 @@ $Deo gratias
 [HymnusC Day1 Laudes]
 @:HymnusC Day0 Laudes
 
-
 [HymnusC Day0 Laudes2]
 @:HymnusM Day1 Laudes
 
