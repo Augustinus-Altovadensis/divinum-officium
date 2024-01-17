@@ -236,7 +236,7 @@ sub specials {
         if ($wr) { $w .= "\n_\n$wr"; }
       }
 
-      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic/i && $w =~ /\_\nV\. /)) {
+      if ($w && $w !~ /\_\nR\.br/i && !($version =~ /monastic|Cistercien/i && $w =~ /\_\nV\. /)) {
         $w =~ s/\s*//;
         $w .= "\n_\n$resp";
       }
@@ -1867,9 +1867,12 @@ sub hymnusmajor {
                                  || $winner{Rank} =~ /(Octobris|Novembris)/i)
                              );
   }
-  if ( $version =~ /Cistercien/i && $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
-  if ( $version =~ /Cistercien/i && $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
-  if ( $version =~ /Cistercien/i && ( $dayname[0] =~ /Epi/ || $month >= 11 ) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i ) { $name .= "2" }
+  if ( $version =~ /Cistercien/i )
+    { # Cistercian rite has only one hymn for ferial Lauds and Vespers
+    if ( $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
+    if ( $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
+    if ( ( $dayname[0] =~ /Epi/ || $month >= 11 ) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i ) { $name .= "2" } 
+    } # actually two for each, switching based on time of the year
   ($hymn, $name);
 }
 

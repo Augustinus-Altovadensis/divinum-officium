@@ -2029,6 +2029,9 @@ R. Et magna virtus ejus.
 &Gloria
 R. Magnus Dóminus noster, * et magna virtus ejus.
 
+[Day6C Vespera]
+@:Day6M Vespera
+
 [AdvM Laudes]
 @:Adv Laudes
 _
