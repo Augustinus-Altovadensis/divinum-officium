@@ -725,7 +725,7 @@ sub psalmi_minor {
     #if ($winner =~ /tempora/i && $dayofweek > 0 && $winner{Rank} =~ /Dominica/i && $rank < 6
     #  && $dayname[0] !~ /Nat/i) {$i = 2 * $dayofweek;}  #anticipated Sunday
     if ( $version =~ /19(?:55|60)/
-      && $winner =~ /sancti/i
+      && ($winner =~ /sancti/i || $winner =~ /Nat[23]/i)
       && $rank < 6
       && $hora !~ /completorium/i)
     {
@@ -959,14 +959,18 @@ sub psalmi_major {
   my @antiphones;
   if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic|Cistercien/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
-    if ($dayofweek == 6 && $version =~ /trident/i) { # take ants from feria occuring Dec 21st
-      my $expectetur = $p1[3]; # save Expectetur
-      @p1 = split("\n", $psalmi{"Day" . get_stThomas_feria($year) . " Laudes3"});
-      if ($day == 23) { # use Sundays ants
-        my %w = %{setupstring($lang, subdirname('Tempora', $version) . "Adv4-0.txt")};
-        @p1 = split("\n", $w{"Ant Laudes"});
+    if ($dayofweek == 6) {
+      if ($version =~ /trident/i) { # take ants from feria occuring Dec 21st
+        my $expectetur = $p1[3]; # save Expectetur
+        @p1 = split("\n", $psalmi{"Day" . get_stThomas_feria($year) . " Laudes3"});
+        if ($day == 23) { # use Sundays ants
+          my %w = %{setupstring($lang, subdirname('Tempora', $version) . "Adv4-0.txt")};
+          @p1 = split("\n", $w{"Ant Laudes"});
+        }
+        $p1[3] = $expectetur;
+      } elsif ($version =~ /monastic/i) {
+        ($p1[2],$p1[3]) = ($p1[3], ''); # both Canticle parts under Expectetur
       }
-      $p1[3] = $expectetur;
     }
     for (my $i = 0; $i < @p1; $i++) {
       my @p2 = split(';;', $psalmi[$i]);
@@ -1179,8 +1183,8 @@ sub oratio {
   }
 
   if ( ($rule =~ /Oratio Dominica/i && (!exists($w{Oratio}) || $hora =~ /Vespera/i))
-    || ($winner{Rank} =~ /Quattuor/i && $version !~ /196/ && $hora =~ /Vespera/i))
-  {
+    || ($winner{Rank} =~ /Quattuor/i && $dayname[0] !~ /Pasc7/i && $version !~ /196/ && $hora =~ /Vespera/i))
+	{
     my $name = "$dayname[0]-0";
     if ($name =~ /(Epi1|Nat)/i && $version !~ /monastic/i) { $name = 'Epi1-0a'; }
     %w = %{setupstring($lang, subdirname('Tempora', $version) . "$name.txt")};
@@ -1400,7 +1404,7 @@ sub oratio {
 				}
 				
 				# add commemorated from cwinner
-				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]/)
+				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/)
 				|| $rule =~ /no commemoratio/i
 				|| ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i)) {
 					if (exists($c{"Commemoratio $cvespera"})) {
@@ -1432,8 +1436,7 @@ sub oratio {
 					foreach my $ic (@ic) {
 						if (!$ic || $ic =~ /^\s*$/
 							|| ($ic =~ /$octavestring|!.*?$sundaystring/i && nooctnat())
-							|| ($version =~ /19(?:55|6)/ && $ic =~ /!.*?Vigil/i && $cwinner =~ /Sancti/i && $cwinner !~ /08\-14|06\-23|06\-28|08\-09/)) { next;
-							}
+							|| ($version =~ /19(?:55|6)/ && $ic =~ /!.*?Vigil/i && $cwinner =~ /Sancti/i && $cwinner !~ /08\-14|06\-23|06\-28|08\-09/)) { next; }
 						if ($ic !~ /^!/) { $ic = "!$ic"; }
 						$ccind++;
 						$key = ($ic =~ /$sundaystring/i) ? ($version !~ /trident/i ? 3000 : 7100) : $ccind + 9900; # Sundays are all privilegde commemorations under DA
@@ -1594,7 +1597,7 @@ sub getcommemoratio {
     if ($file =~ /^C/) { 
       if ( $version =~ /Cistercien/i && -e "$datafolder/$lang/CommuneCist/$file" ) { $file = "CommuneCist/$file"; }
       else { $file = "Commune/$file"; }} #Cistercian version has its own commune
-    %c = %{setupstring($datafolder, $lang, $file)};
+    %c = %{setupstring($lang, $file)};
   } else {
     %$c = {};
   }
@@ -1868,7 +1871,7 @@ sub hymnusmajor {
                              );
   }
   if ( $version =~ /Cistercien/i )
-    { # Cistercian rite has only one hymn for ferial Lauds and Vespers
+    { # Cistercian rite has only one hymn for ferial Lauds and Vespers during the week
     if ( $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
     if ( $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
     if ( ( $dayname[0] =~ /Epi/ || $month >= 11 ) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i ) { $name .= "2" } 

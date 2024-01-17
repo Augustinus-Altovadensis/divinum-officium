@@ -239,6 +239,9 @@ sub resolve_refs {
       $line = $prev . setfont($initiale, substr($line, 0, 1)) . substr($line, 1);
     }
 
+    # rubrics - small red
+    $line =~ s{/:(.*?):/}{setfont($smallfont, $1)}eg;
+
     # italic for mute vovels in hymns
     $line =~ s/\[([aeiou])\]/setfont('italic', $1)/eg;
 
@@ -432,19 +435,21 @@ sub antiphona_finalis : ScriptFunc {
 # returns the visible form
 sub psalm : ScriptFunc {
   my @a = @_;
-  my ($num, $lang, $antline);
+  my ($num, $lang, $antline, $nogloria);
 
   if (@a < 4) {
-    $num = $a[0];
-    $lang = $a[1];
-    $antline = $a[2];
+    $num = shift @a;
+    if ($a[0] =~ /^1$/) {
+      $nogloria = shift @a;
+    } 
+    $lang = $a[0];
+    $antline = $a[1];
   } else {
     $num = "$a[0]($a[1]-$a[2])";
     $lang = $a[3];
     $antline = $a[4];
   }
 
-  my $nogloria = 0;
   my $canticlef = 230 < $num && $num < 234;
 
   if ($num =~ /^-(.*)/) {
