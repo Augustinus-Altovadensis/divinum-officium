@@ -1,5 +1,5 @@
 [Name]
-Officium parvum Beatae Mariae Virginis
+Officium parvum Beatae Mariae Virginis, Versio Cisterciensis Bohemica
 
 [Rank]
 Officium parvum Beatae Mariae Virginis;;Simplex;;1;;ex C11

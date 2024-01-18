@@ -1,5 +1,5 @@
 [Rank]
-Cathedræ S. Petri;;Duplex majus;;5;;ex C4
+Cathedræ S. Petri;;MM. maj.;;5;;ex C4
 
 [Rule]
 ex C4;
@@ -20,7 +20,7 @@ Sub unica concl
 
 [Commemoratio]
 !Commemoratio S. Priscæ Virginis
-@Commune/C6:Oratio proper
+@CommuneCist/C6:Oratio proper
 $Oremus
 v. Da, quǽsumus, omnípotens Deus: ut, qui beátæ Priscæ Vírginis et Mártyris tuæ natalícia cólimus; et ánnua sollemnitáte lætémur, et tantae fídei proficiámus exémplo.
 $Per Dominum
@@ -80,8 +80,14 @@ Prisca, nobilis virgo Romana, trédecim annos nata, Cláudio imperatóre, christ
 [Hymnus Laudes]
 @Sancti/02-22:Hymnus Laudes
 
+[Versum 2]
+@Sancti/02-22
+
 [Ant 2]
 @Sancti/02-22:Ant 2
 
+[Versum 3]
+@Sancti/02-22:Versum 1
+
 [Ant 3]
-@Sancti/02-22:Ant 3
+@Commune/C4:Ant 3 summi Pontificis

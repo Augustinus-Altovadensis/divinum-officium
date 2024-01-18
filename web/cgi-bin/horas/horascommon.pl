@@ -230,6 +230,7 @@ sub occurrence {
 						|| ($srank =~ /vigilia/i && ($version !~ /196/ || $sname !~ /08\-09/)) # Vigils with the ackward exception of S. Lawrence in 1960 rules
 						|| ($version !~ /1960|Trident/ && $hora =~ /Completorium/i && $month == 11 && $day == 1 && $dayofweek != 6) # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
 						|| ($srank[2] < 2 && $trank && !($month == 1 && $day > 6 && $day < 13)) # Simplex end after None.
+            || ( $version =~ /Cistercien/i && $srank[2] < 2.51 && $trank && !($month == 1 && $day > 6 && $day < 13) ) # Festum iij. Lect. in Cist. ends after None.
 					) {
 					$srank = '';
 					%saint = undef;
@@ -247,8 +248,8 @@ sub occurrence {
 			}
 		
 			if (($trank[2] >= (($version =~ /19(?:55|6)/i) ? 6 : 7) && $srank[2] < 6)
-					|| ($trank !~ /Dominica|Feria|Sabbato/i && (($trank[2] >= 6 && $srank[2] < 2.1)			# on Duplex I. cl nothing of Simplex and common octaves
-					|| ($trank[2] >= 5 && $srank[2] == 2 && $srank[2] =~ /infra octavam/i)))					# on Duplex II. cl nothing of common octaves
+					|| ($trank !~ /Dominica|Feria|Sabbato/i && (($trank[2] >= 6 && $srank[2] < 2.1 )			# on Duplex I. cl nothing of Simplex and common octaves
+					|| ($trank[2] >= 5 && $srank[2] == 2 && $srank[2] =~ /infra octavam/i)) && $version !~ /Cistercien/i )					# on Duplex II. cl nothing of common octaves
 					|| ($version =~ /19(?:55|6)/i && (($srank =~ /vigil/i && $sday !~ /(06\-23|06\-28|08\-09|08\-14|12\-24)/) || ($srank =~ /(infra octavam|in octava)/i && nooctnat()))) # TODO: to be made obsolte s.a.
 					|| ($version =~ /1960/ && $dayofweek == 0 && (($trank[2] >= 6 && $srank[2] < 6) || ($trank[2] >= 5 && $srank[2] < 5)))) {
 				$srank = '';
@@ -275,13 +276,14 @@ sub occurrence {
 		}
 		
 		# In Festo Sanctae Mariae Sabbato according to the rubrics.
-		if ($dayname[0] !~ /(Adv|Quad[0-6]|Quadp3)/i && $testmode !~ /^season$/i && $BMVSabbato
-				&& $srank !~ /(Vigil|in Octav)/i && $trank[2] < 2 && $srank[2] < 2 && !$transfervigil) {
+		if ( ($dayname[0] !~ /(Adv|Quad[0-6]|Quadp3)/i || ( $version =~ /Cistercien/i && $dayname[0] !~ /(Quad[0-6]|Quadp3)/i) ) && $testmode !~ /^season$/i && $BMVSabbato
+				&& $srank !~ /(Vigil|in Octav)/i && (( $trank[2] < 2 && $srank[2] < 2 ) || ( $version =~ /Cistercien/i && ( $trank[2] <= 2 && $srank[2] <= 2 ))) && !$transfervigil) {
 			unless($tomorrow) {
 				$scriptura = $tname =~ /Epi0/i ? $sname : $tname;
 			}
 			$tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Feria;;1.2;;vide $C10";
-			$tname = subdirname('Commune', $version) . "$C10.txt";
+      if ($version =~ /Cistercien/i) { $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Feria;;2.1;;vide $C10"; }
+      $tname = subdirname('Commune', $version) . "$C10.txt";
 			@trank = split(";;", $trank);
 		}
 	}
@@ -641,7 +643,7 @@ sub concurrence {
 			|| ($cwinner{Rank} =~ /C10/i && $winner{Rank} =~ /C1[01]/i)		# sort out BVM concurrent with BMV
 			|| ($version =~ /19(?:55|6)/ && $cwinner{Rank} =~ /Dominica Resurrectionis|Patrocinii S. Joseph/i) # no 1st Vespers of Easter after 1955
 			|| ($version =~ /19(?:55|6)/ && ($cwinner{Rank} =~ /octav/i && $cwinner{Rank} !~ /dominica|cum Octava/i && $cwrank[2] < 6))) {		# TODO: last condition should be made obsolete and handled via database
-		if ($ccomrank >= ($rank >= ($version =~ /trident/i ? 6 : 5) && $wrank[0] !~ /feria|octava/i ? 2.1 : 1.1) && $version !~ /1955|196/) {
+		if ($ccomrank >= ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $wrank[0] !~ /feria|octava/i ? 2.1 : 1.1) && $version !~ /1955|196/) {
 			$vespera = 3;
 			$dayname[2] = $tomorrowname[2] . "<br>Vespera de Officium occurente, Commemoratio Sanctorum tantum";
 			$cwrank = '';
@@ -715,9 +717,9 @@ sub concurrence {
 		if($version =~ /1906/ && $winner{Rank} =~ /infra Octavam/i && $crank == 2.2) { $flcrank = 2.2; }
 		elsif ($version =~ /1906/ && $cwinner{Rank} =~ /infra Octavam/i && $rank == 2.2) { $flrank = 2.2; }
 		
-		if (($rank >= (($version =~ /19(?:55|6)/) ? 6 : 7) && $crank < 6) # e.g. 05-26-2022
+		if (($rank >= (($version =~ /19(?:55|6)|Cistercien/) ? 6 : 7) && $crank < 6) # e.g. 05-26-2022
 			|| ($version =~ /196/ && ($cwinner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat1/i && $crank <= 5) && ($rank >= 5 && $winner{Rule} =~ /Festum Domini/i)) #on a II. cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
-			|| ($rank >= ($version =~ /trident/i ? 6 : 5) && $winner !~ /feria|in.*octava/i && $crank < 2.1)) {		# on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
+			|| ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $winner !~ /feria|in.*octava/i && $crank < 2.1)) {		# on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
 				$dayname[2] .= "<br>Vespera de præcedenti; nihil de sequenti";
 				$cwinner = '';
 				%cwinner = ();

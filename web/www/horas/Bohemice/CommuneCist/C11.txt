@@ -1,4 +1,6 @@
 @Commune/C11
+[Name]
+In Festis Beatae Mariae Virginis, Versio Cisterciensis Bohemica.
 
 [Ant Matutinum]
 Blessed art thou among women, * and blessed is the fruit of thy womb;;8

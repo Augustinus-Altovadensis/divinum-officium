@@ -10,6 +10,9 @@ R. Dóminus tecum.
 &Gloria
 R. Ave María, grátia plena, * Dóminus tecum.
 
+[Ant 2]
+@CommuneCist/C11::s/,\ allelúja//
+
 [Lectio11]
 !from tempora
 

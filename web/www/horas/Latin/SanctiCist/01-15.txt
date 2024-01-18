@@ -3,7 +3,6 @@ S. Mauri Abbatis;;iij. Lect. et M.;;2;;vide C5
 
 [Rule]
 vide C5;
-no secunda vespera
 
 [Oratio] 
 @CommuneCist/C5:Oratio1:s/N./Mauri/

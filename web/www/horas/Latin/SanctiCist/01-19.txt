@@ -1,1 +1,5 @@
-@Sancti/01-19
+[Rank]
+S. Gulielmi, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+
+[Oratio]
+@Commune/C4:Oratio1:s/N./Gulielmi/

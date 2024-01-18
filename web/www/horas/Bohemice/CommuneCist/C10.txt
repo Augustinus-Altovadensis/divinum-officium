@@ -1,3 +1,9 @@
+[Name]
+Officium Beatæ Mariæ Virginis in Sabbato. Versio Cisterciensis Bohemica.
+
+[Ant 2]
+@CommuneCist/C11::s/,\ alleluja//
+
 [Responsory3]
 R. O holy Virgin Mary, happy indeed are you, and right worthy of all praise
 * For out of you rose the Sun of righteousness, even Christ our God. (Alleluia.)

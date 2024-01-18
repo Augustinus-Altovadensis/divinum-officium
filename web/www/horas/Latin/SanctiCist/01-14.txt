@@ -1,4 +1,16 @@
 @Sancti/01-14
 
 [Rank]
-S. Hilarii Episcopi Confessoris Ecclesiæ Doctoris;;Simplex;;1.1;;vide C4
+S. Hilarii Episcopi Confessoris Ecclesiæ Doctoris;;Simplex;;2;;vide C4
+
+[Commemoratio]
+!Commemoratio S. Felicis, Presbyteri et Martyris
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Concede, quǽsumus, omnípotens Deus: ut ad meliórem vitam Sanctórum tuórum exémpla nos próvocent; quátenus, quorum solémnia ágimus, étiam actus imitémur.
+
+!Commemoratio S. Guarini, Episcopi et Confessoris
+@CommuneCist/C4:Oratio proper
+$Oremus
+v. Deus, qui Ecclésiam tuam dispositióne mirábili, novis semper illústras Sanctórum splendóribus: tríbue, quǽsumus; ut, qui beáti Guaríni, Confessóris tui atque Pontíficis, solémniis gratulámur, ad ejus consórtium felíciter perducámur.
+$Per Dominum

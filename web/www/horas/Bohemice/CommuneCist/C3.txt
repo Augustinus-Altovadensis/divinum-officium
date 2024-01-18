@@ -1,4 +1,6 @@
 @Commune/C3
+[Name]
+Commune Plurimorum Martyrum, Versio Cisterciensis et Bohemica
 
 [Responsory Vespera]
 R.br. Svatí tvoji, Hospodine, * budou ti dobrořečit.

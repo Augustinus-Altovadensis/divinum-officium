@@ -1,4 +1,16 @@
 @Commune/C6
+[Name]
+Commune Virginum. Versio Cisterciensis Bohemica
+
+[Ant Vespera]
+Tato je Panna moudrá, * a jedna z těch moudrých.;;109
+Tato je Panna moudrá, * kterou Pán nalezl bdící.;;112
+Když nalezla dobrou perlu, * dala vše, co má, a koupila ji.;;121
+Tehdy vstaly všechny * ony Panny, a připravily své svítilny.;;126
+Uprostřed noci * se strhl křik: Hle, ženich přichází! Vyjděte mu naproti!;;147
+
+[Ant 2]
+Podobné jest * království nebeské síti vhozené do moře, která zachycuje všechny druhy ryb; a když je naplněna, rybáři ji vytáhnou, sedí u břehu, a ty dobré ryby vyberou do svých nádob, ty špatné však vyhodí ven.
 
 [Ant Matutinum]
 O how lovely and glorious * is the generation of the chaste.;;8

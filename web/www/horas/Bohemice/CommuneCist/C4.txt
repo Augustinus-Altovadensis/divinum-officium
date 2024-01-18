@@ -1,3 +1,26 @@
+[Name]
+Commune Confessoris Pontificis: versio Cisterciensis Bohemica.
+
+[Ant Vespera]
+Ejhle kněz veliký, * jenž za svých dnů zalíbil se Bohu, a shledán byl spravedlivým.
+Hle, služebníku dobrý, * a v málu věrný, vstup do radosti svého Pána.
+Hle, služebníku dobrý, * a v málu věrný, vstup do radosti svého Pána.
+Hle, pravý * Israelita, v němž není lsti.
+
+[Capitulum Vespera]
+!Sir 44:25
+v. Požehnání všech Národů dal mu Hospodin, * a svůj zákon potvrdil nad jeho hlavou.
+$Deo gratias
+_
+@Commune/C4:Responsory Sexta:1-6
+
+[Capitulum Laudes]
+!Sir 44:25
+v. Požehnání všech Národů dal mu Hospodin, * a svůj zákon potvrdil nad jeho hlavou.
+$Deo gratias
+_
+@Commune/C4:Responsory Tertia:1-6
+
 [Lectio2]
 @Commune/C4:Lectio1:s/.*5 /!1 Tim 3:5-9\n5 /s
 8 Deacons in like manner chaste, not double tongued, not given to much wine, not greedy of filthy lucre: 

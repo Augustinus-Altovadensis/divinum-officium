@@ -1,0 +1,5 @@
+[Name]
+Officium Beatæ Mariæ Virginis in Sabbato post Nativitatem. Versio Cisterciensis Bohemica.
+
+[Ant 2]
+@CommuneCist/C11::s/,\ alleluja//

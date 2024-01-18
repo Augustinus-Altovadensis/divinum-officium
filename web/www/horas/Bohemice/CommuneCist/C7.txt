@@ -1,4 +1,6 @@
 @Commune/C7
+[Name]
+Commune non Virginum Martyrum. Versio Cisterciensis Bohemica.
 
 [Ant Matutinum]
 O how lovely and glorious is the generation * of the chaste;;8

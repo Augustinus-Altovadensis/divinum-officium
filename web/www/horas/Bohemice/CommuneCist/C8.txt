@@ -1,3 +1,5 @@
+[Name]
+Officium Dedicationis Ecclesiae. Versio Cisterciensis Bohemica
 
 [Ant Matutinum]
 I will come into thy house; I will worship towards thy holy temple.;;5

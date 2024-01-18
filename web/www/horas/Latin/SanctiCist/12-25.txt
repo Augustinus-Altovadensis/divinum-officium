@@ -1,6 +1,6 @@
 @Sancti/12-25
 [Rank]
-In Nativitate Domini;;Duplex I Classis;;8
+In Nativitate Domini;;Duplex I Classis;;7
 
 [Rule]
 12 lectiones

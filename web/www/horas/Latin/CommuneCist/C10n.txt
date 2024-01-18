@@ -7,7 +7,13 @@
 @Sancti/01-01:Ant 3
 
 [Ant 2]
-@Sancti/01-01:Ant 2
+@CommuneCist/C11::s/,\ allelúja//
+
+[Versum 1]
+@CommuneCist/C11:Versum 1
+
+[Versum 2]
+@CommuneCist/C11:Versum 1
 
 [Oratio]
 @Sancti/01-01

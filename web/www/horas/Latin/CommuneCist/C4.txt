@@ -1,6 +1,7 @@
 @Commune/C4
 
 [Capitulum Vespera]
+!Sir 44:25
 v. Benedictiónem ómnium Géntium dedit illi Dóminus, * et testaméntum suum confirmávit super caput ejus.
 $Deo gratias
 _
@@ -100,6 +101,7 @@ V. Immola Deo sacrificium laudis, et redde Altissimo vota tua.
 R. Ad sacrificándum ei hóstiam laudis.
 
 [Capitulum Laudes]
+!Sir 44:25
 v. Benedictiónem ómnium Géntium dedit illi Dóminus, * et testaméntum suum confirmávit super caput ejus.
 $Deo gratias
 _

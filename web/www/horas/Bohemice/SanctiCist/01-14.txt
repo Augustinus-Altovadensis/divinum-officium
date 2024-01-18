@@ -1,0 +1,14 @@
+[Oratio]
+@Commune/C4:Oratio2:s/N\./Hilária/
+
+[Commemoratio]
+!Připomínka sv. Felixe, Kněze a Mučedníka
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Uděl, prosíme, všemohoucí Bože: aby nás k lepšímu životu podněcovaly příklady tvých Svatých; a abychom u těch, jejichž slavnosti slavíme, napodobovali také jejich skutky.
+
+!Commemoratio S. Guarini, Episcopi et Confessoris
+@CommuneCist/C4:Oratio proper
+$Oremus
+v. Bože, jenž svou Církev ve svém podivuhodném vedení osvěcuješ vždy novým leskem Svatých: uděl, prosíme, abychom pro oslavu svátku svatého Guarina, tvého Vyzvavače a Biskupa, byli do jeho společnosti štastně přivedeni.
+$Per Dominum

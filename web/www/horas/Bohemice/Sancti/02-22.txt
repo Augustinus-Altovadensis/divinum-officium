@@ -22,50 +22,49 @@ O all ye Priests of God, * bless ye the Lord; O all ye servants of the Lord, sin
 Good and faithful servant, * enter thou into the joy of thy Lord.
 
 [Hymnus Vespera]
-v. Peter, whatever thou shalt bind on earth,
-The same is bound above the starry sky;
-What here thy delegated power doth loose,
-Is loosed in heaven's supremest court on high:
-To judgement shalt thou come, when the world's end is nigh.
+v. Petře, všechno, co ty na zemi svážeš vždy,
+to svázáno je rovněž v říši věčných hvězd.
+Co rozhodnutím svým však rozváže zde zas,
+to v jasném nebi také rozvázáno jest,
+na konci věků bude soudit všechny nás.
 _
-Praise to the Father, through all ages be;
-Praise to the consubstantial sovereign Son,
-And Holy Ghost, one glorious Trinity;
-To whom all majesty and might belong;
-So sing we now, and such be our eternal song.
+Buď Otci sláva na věky věčnosti,
+i tobě, Synu, buď na věky moc i čest.
+Ať také všemocného Ducha všichni ctí.
+Na věčné věky ať vzdávána stále jest
+zvlášť vroucí úcta celé svaté Trojici.
 Amen.
 
 [Versum 1]
-V. The Lord loved him and beautified him.
-R. He clothed him with a robe of glory.
+V. Ty jsi Petr, <i>Skála</i>.
+R. A na této skále vybuduji svou Církev.
 
 [Ant 1]
-Thou art the Shepherd * of the sheep, and the Prince of the Apostles, and unto~
-thee are given the keys of the kingdom of heaven.
+Ty jsi pastýř ovcí * a Kníže Apoštolů, tobě svěřeny~
+byly klíče od království nebeského.
 
 [Oratio]
-v. O God, Who hast given unto thy Blessed Apostle Peter the keys of the kingdom~
-of heaven, and the power to bind and to loose, loose us, we beseech thee, at his~
-mighty intercession, from all the bands of our sins.
+v. Bože, jenž jsi svatému Petru, tvému Apoštolu, udělil klíče od království nebeského~
+a spolu s tím mu předal i moc svazovat i rozvazovat; uděl nám, ať pomocí jeho přímluvy~
+i my jsme osvobozeni od pout našich hříchů.
 $Qui vivis
 _
 @Sancti/02-22:Commemoratio4
 
 [Commemoratio4]
-!Commemoration of St. Paul the Apostle
+!Připomínka svatého Pavla Apoštola
 (deinde dicuntur)
-Ant. O Holy Apostle Paul, Preacher of the truth, and Teacher of the Gentiles,~
-pray for us to God Who hath chosen thee.
+Ant. Svatý Pavle Apoštole, kazateli pravdy a učiteli Národů,~
+přimlouvej se za nás u Boha, který si tě vyvolil.
 _
-V. O Holy Apostle Paul, thou art a chosen vessel unto God.
-R. To preach the Gospel throughout the whole world.
+V. Ty jsi nádoba vyvolená, svatý Pavle Apoštole.
+R. Kazatel pravdy po celém světě.
 _
 $Oremus
 (sed rubrica 1960 aut rubrica monastica hæc versus omittuntur)
-v. O God, Who, through the preaching of the Blessed Apostle Paul, hast~
-caused the light of the Gospel to shine throughout the world, grant, we beseech~
-thee, that we, who do keep his memorial, may continually be helped by his~
-intercession with thee.
+v. Bože, který jsi veliké množství národů vyučil kázáním svatého Pavla Apoštola~
+dej nám, prosíme, abychom slavením jeho památky pocítili také jeho přímluvu~
+u tebe.
 $Per Dominum
 
 [Invit]
@@ -263,25 +262,24 @@ loosed, save when Peter bindeth or looseth.
 &teDeum
 
 [Hymnus Laudes]
-v. Peter, blest shepherd, hearken to our cry,
-And with a word unloose our guilty chain;
-Thou! who hast power to open the gates on high
-To men below, and power to shut them fast again.
+v. Pastýři dobrý, Petře, rač teď přijmouti 
+Hlasy prosících, a pouta našich hříchů
+Rozvaž nyní, svou mocí, již ti svěřil Pán,
+Kterou též nám všem nebe slovem otvíráš.
 _
-Praise, blessing, majesty, through endless days,
-Be to the Trinity immortal given;
-Who in pure unity profoundly sways
-Eternally alike all things in earth and heaven.
+Buď Trojici již věčná sláva bez konce,
+Úcta a mocnost, také veliký jásot;
+V jednotě, v níž zůstává všechna vláda,
+Od věčnosti, teď, i na veškeré věky.
 Amen.
 
 [Versum 2]
-V. Let them exalt Him in the congregation of the people.
-R. And praise Him in the assembly of the elders.
+V. Vyvyšujte jej ve Shromáždění lidu.
+R. A na trůnu starších jej chvalte.
 
 [Ant 2]
-Thus saith the Lord * unto Simon Peter: Whatsoever thou shalt bind on earth,~
-shall be bound in heaven; and whatsoever thou shalt loose on earth, shall be~
-loosed in heaven.
+Cokoliv * svážeš na zemi, bude svázáno i v nebesích, a cokoliv rozvážeš na zemi,~
+bude rozvázáno i v nebesích, řekl Pán Šimonu Petrovi.
 
 [Versum 3]
 V. The Lord chose him as a priest unto himself.

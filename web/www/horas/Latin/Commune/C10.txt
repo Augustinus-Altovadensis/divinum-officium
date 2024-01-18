@@ -2,7 +2,7 @@
 Officium Beatæ Mariæ Virginis in Sabbato
 
 [Rank]
-Sanctæ Mariæ Sabbato;;Simplex;;2;;vide C10
+Sanctæ Mariæ Sabbato;;iij. Lect. et M.;;2.1;;vide C10
 
 [Rule]
 vide C10

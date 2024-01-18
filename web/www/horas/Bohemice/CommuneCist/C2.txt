@@ -1,4 +1,6 @@
 @Commune/C2
+[Name]
+Commune Unius Martyris, Versio Cisterciensis et Bohemica
 
 [Ant Vespera]
 Kdo se ke mě přizná * před lidmi, k němu se také přiznám já před svým Otcem.
