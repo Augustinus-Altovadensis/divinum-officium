@@ -1,5 +1,5 @@
 [Name]
-Commune Unius Martyris
+Commune Unius Martyris, Versio Bohemica
 
 [Rule]
 Psalmi Dominica
@@ -16,7 +16,7 @@ Father, I will * that where I am, there shall also My servant be.;;116
 
 [Capitulum Vespera]
 !Jas 1:12
-v. Blessed is the man that endureth temptation; for when he hath been proved, he shall receive a crown of life, which God hath promised to them that love him.
+v. Blaze muži, který trpí pokušení, neboť až bude vyzkoušen, přijme korunu života, kterou zaslíbil Bůh těm, kteří jej milují. 
 $Deo gratias
 
 [Hymnus Vespera]
@@ -227,24 +227,22 @@ bud chvála všechen věků věk.
 Amen.
 
 [Versum 2]
-V. The righteous shall flourish like the palm-tree.
-R. He shall grow like a cedar in Lebanon.
+V. Spravedlivý pokvete jako palma.
+R. Vyroste jako libanonský cedr.
 
 [Ant 2]
 He that hateth his life * in this world, shall keep it unto life eternal.
 
 [Oratio]
-Mercifully consider our weakness, O Almighty God, and whereas by the burden of our sins we are sore, let N. your Martyr be mercifully pleased to deliver us from all things which may hurt our bodies, and from all evil thoughts which may defile our souls.
+Shlédni na naši slabost, všemohoucí Bože, a protože břímě našich skutků nás tíží, nechť nás chrání slavná přímluva svatého N., tvého Mučedníka a Biskupa.
 $Per Dominum
 
 [Oratio1]
-O God, who year by year dost gladden us by the solemn feast day of thy Blessed~
-Martyr and Bishop N., mercifully grant that we who keep his birthday, may~
-ever feel the joyful effects of his protection.
+Bože, jenž nás svatého N., Mučedníka svého a Biskupa, výroční slavností oblažuješ, popřej milostivě, abychom též požívali ochrany toho, jehožto narozeniny slavíme.
 $Per Dominum
 
 [Oratio2]
-Grant, we beseech thee, almighty God, that we who celebrate the martyrdom of blessed N., through his intercession be strengtened in your love.
+Uděl, prosíme, všemohoucí Bože, abychom slavíce narozeniny svatého N., mučedníka tvého, na jeho přímluvu v lásce k jménu tvému posilněni byli.
 $Per Dominum
 
 [Oratio3]

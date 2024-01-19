@@ -9,10 +9,7 @@ vide C3;
 9 lectiones
 
 [Oratio]
-Be mindful of our weakness, almighty God, and since the burden of our sins~
-weighs heavily upon us, may the glorious intercession of thy holy Martyrs~
-Fabian and Sebastian sustain us.
-$Per Dominum
+@Commune/C2::s/svatého N., tvého Mučedníka a Biskupa/svatých Fabiána a Šebestiána, tvých Mučedníků a Biskupů/
 
 [Lectio4]
 Fabian was a Roman, and sat as Pope from (the year of our Lord 236, in) the~

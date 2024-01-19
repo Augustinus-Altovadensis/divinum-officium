@@ -1,4 +1,16 @@
 @Commune/C3
+[Name]
+Commune Plurimorum Martyrum, Versio Cisterciensis Latina
+
+[Ant Vespera]
+Sancti Mártyres, * quanta passi sunt torménta, ut secúri pervenírent ad palmam martýrii.
+Cum palma * ad regna pervenérunt Sancti, corónas decóris meruérunt de manu Dei.
+Córpora Sanctórum * in pace sepúlta sunt: et vivent nómina eórum in ætérnum.
+Mártyres Dómini * Dóminum benedícite in ætérnum.
+Mártyrum chorus * laudáte Dóminum de cælis, allelúja.
+
+[Ant Laudes]
+@:Ant Vespera
 
 [Capitulum Vespera]
 @Commune/C3
@@ -14,6 +26,12 @@ R. Benedícent te.
 [Versum 1]
 ℣. Justi in perpétuum vivent.
 ℟. Et apud Dóminum est merces eórum.
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
 
 [Ant 1]
 Isti sunt sancti * qui pro testaménto Dei sua córpora tradidérunt, et in sánguine Agni lavérunt stolas suas.
@@ -51,7 +69,7 @@ R. Illi autem sunt in pace
 [Capitulum Laudes]
 @Commune/C3
 _
-@Commune/C3:Responsory Tertia:1-6
+@Commune/C3:Responsory Sexta:1-6
 
 [Responsory Tertia]
 @Commune/C3:Versum 1
@@ -64,6 +82,15 @@ _
 
 [Ant 2]
 Fulgébunt justi: * et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et regnábunt in ætérnum.
+
+[Ant Vespera 3]
+Si coram homínibus * torménta passi sunt, spes electórum est immortális in ætérnum.
+Tamquam aurum in fornáce * probávit eléctos Dóminus, et quasi holocáusti hóstiam accépit illos.
+Istórum est enim * regnum coelórum, qui contempsérunt vitam mundi, et pervenérunt ad præmia regni, et lavérunt stolas suas in sánguine Agni.
+Via Justórum * recta facta est, et iter Sanctórum præparátum est.
+
+[Ant 3]
+Tradidérunt * córpora sua ad supplícia: ídeo coronántur, et accípiunt palmas.
 
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Lucam

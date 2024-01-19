@@ -1,4 +1,6 @@
 @Sancti/01-20
+[Rank]
+Ss. Fabiani et Sebastiani Martyrum;;MM. min.;;4;;ex C3
 
 [Responsory3]
 @Commune/C3:Responsory1

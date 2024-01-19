@@ -2,6 +2,16 @@
 [Name]
 Commune Plurimorum Martyrum, Versio Cisterciensis et Bohemica
 
+[Ant Vespera]
+Svatí Mučedníci, * jaké jen utrpěli muky, aby bezpečně došli až k palmě mučednictví.
+S palmou * došli Svatí do nebeského království, krásné koruny si vysloužili z ruky Boží.
+Těla Svatých * byla v pokoji pohřbena; a jejich jména budou žít navěky.
+Mučedníci Páně, * dobrořečte Pánu navěky.
+Sbore Mučedníků, * chvalte Pána z nebes, alleluja.
+
+[Ant Laudes]
+@:Ant Vespera
+
 [Responsory Vespera]
 R.br. Svatí tvoji, Hospodine, * budou ti dobrořečit.
 R. Svatí tvoji, Hospodine, * budou ti dobrořečit
@@ -17,6 +27,15 @@ Tito jsou Svatí, * kteří pro svědectí Boží vydali svá těla, a v krvi Be
 
 [Ant 2]
 Zazářili spravedliví: * a jako jiskry v rákosí se rozběhli. Budou soudit národy, a vládnout navěky.
+
+[Ant Vespera 3]
+Pokud před lidmi * vytrpěli svá muka, naděje vyvolených je nesmrtelná navěky. 
+Jako zlato ve výhni * vyzkoušel své vyvolené Hospodin, a jako oběť k celopalu je přijal. 
+Těmto totiž patří * království nebeské, neboť pohrdli světským životem, a došli odměny nebeského království, a vyprali si svá roucha v krvi beránčí. 
+Cesta Spravedlivých * byla napřímena, a stezka Svatých byla připravena.
+
+[Ant 3]
+Vydali * svá těla k potrestání; a proto byli korunováni, a přijali vítězné palmy.
 
 [Ant Matutinum]
 By the rivers of water * hath the Lord planted the vineyard of the righteous, and in His Law do they meditate day and night;;1

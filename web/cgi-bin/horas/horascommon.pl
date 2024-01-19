@@ -146,7 +146,7 @@ sub occurrence {
 				$initia = ($tempora{Lectio1} =~ /!.*? 1\:1\-/) ? 1 : 0;
 			}
 			@trank = split(";;", $trank);
-
+      
 		} else { #if there is no Temporal file and we're not in Epiphany tide and there is no transfered temporal for the following day by day of Easter
 			$trank = '';
 			%tempora = undef;
@@ -287,8 +287,8 @@ sub occurrence {
 			@trank = split(";;", $trank);
 		}
 	}
-		
-	if ($version =~ /Trid/i && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i) || $trank[0] =~ /infra octavam Corp/i)) { $trank[2] = 2.9; } # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
+	
+	if ($version =~ /Trid|Cistercien/i && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i) || $trank[0] =~ /infra octavam Corp/i)) { $trank[2] = 2.9; $trank[2] = 3.9 if ($version =~ /Cistercien/i);} # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
 	elsif ($version =~ /divino/i && ($trank[2] < 5.1 && $trank[0] =~ /Dominica/i)) { $trank[2] = 4.9; }
 	elsif ($version =~ /196/ && $tname =~ /Nat1/i && $day > 28) {	# commemoration of the Christmas Octave according to the rubrics
 		$sname = subdirname('Tempora', $version) . "Nat$day";
@@ -296,6 +296,7 @@ sub occurrence {
 		$srank = $saint{Rank};
 		@srank = split(";;", $srank);
 	}
+
 	if ($tname =~/Epi1\-0/i && $srank[2] == 5.6) { $srank[2] = 2.9; } # Ensure that the infra Octavam Epi does not outrank the Sunday infra Octavam or the Feast of the Holy Family
 	if ($testmode =~ /seasonal/i && $version =~ /196/ && $srank[2] < 5 && $dayname[0] =~ /Adv/i) { $srank[2] = 1; }
 	

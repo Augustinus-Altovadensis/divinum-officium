@@ -5,27 +5,17 @@ S. Agnetis Virginis et Martyris;;Duplex;;3.1;;vide C6b
 vide C6b;
 9 lectiones
 
-[Capitulum Vespera]
-!Sir 51:1-3
-v. I will give glory to thee, O Lord, O King, and I will praise thee, O God my~
-Saviour. I will give glory to thy name: for thou hast been a helper and protector~
-to me, and hast preserved my body from destruction.
-$Deo gratias
-
 [Ant 1]
-The blessed Agnes * stood in the midst of the fire, and stretched forth her~
-hands, and prayed, saying O Father! Who Alone art Almighty! Who Alone art to be~
-adored! Who Alone art to be worshipped! Who Alone art to be feared! I thank thee~
-because that through thy Holy Son Thou hast delivered me from the threatenings~
-of the godless tyrant, and hast made me to walk with clean feet over the filthy~
-slough of fleshly sin and now, behold, I come unto thee, unto thee Whom I have~
-loved, Whom I have sought, Whom I have ever desired.
+Blažená Anežka * se uprostřed plamenů modlila s rozepjatýma rukama:~
+Tebe prosím, všemohoucí, klaněníhodný, úctyhodný Otče, jenž vzbuzuješ bázeň,~
+neboť skrze tvého svatého Syna jsem unikla hrozbám svatokrádežného tyrana,~
+a nečistotu těla jsem přešla po neposkvrněné cestě; a hle, nyní přicházím k tobě,~
+jehož miluji, hledám a vždy jsem si přála.
 
 [Oratio]
-O Almighty and everlasting God, Who hast chosen the weak things of the world to~
-confound the things which are mighty, mercifully grant unto us that we who keep~
-the solemn feast of thy blessed Virgin and Martyr Agnes, may feel the power of~
-her intercession with thee.
+Všemohoucí věčný Bože, ty si vyvoluješ ty nejslabší na světě, abys i ty silné znejistěl;~
+uděl nám prosím; abychom po oslavě svátku svaté Anežky, tvé Panny a Mučednice,~
+pocítili její přímluvy u tebe.
 $Per Dominum
 
 [Ant Matutinum]
@@ -193,17 +183,15 @@ wait for thee, O Lord, and savest them out of the hands of the nations.
 $Deo gratias
 
 [Ant 3]
-The blessed Agnes stood in the midst of the fire * and stretched forth her hands~
-unto the Lord, and prayed, saying: O Thou Who Alone art Almighty! Who Alone art~
-to be adored! Who Alone art to be worshipped! Who Alone art to be feared! I~
-bless thee, and glorify thy Name for ever and ever!
+Blažená Anežka stála * uprostřed plamenů, a modlila s rozepjatýma rukama k Pánu:~
+Všemohoucí, klaněníhodný, úctyhodný a strašlivý Bože, dobrořečím ti a oslavuji tvé jméno navěky.
 
 [Ant Vespera 3]
-Agnes entered * the place of shame, and found the Angel of the Lord ready.;;109
-For I have with me * an Angel of the Lord to keep my body.;;110
-My Lord Jesus Christ hath espoused me with His ring, * and hath set on my head a crown as the crown of a bride.;;111
-I bless thee, O Father of my Lord Jesus Christ, because through thy Son the fire is quenched around me.;;112
-Rejoice with me * and make merry, because I also have received a throne in light among all these.;;147
+Když Anežka vstoupila * do místa nepravosti, nalezla tam připraveného Anděla Páně.;;109
+Mám totiž s sebou * strážce mého těla, Anděla Páně.;;110
+Svým prstenem mě přijal za svou * můj Pán Ježíš Kristus, a jako nevěstu mě ozdobil korunou.;;111
+Dobročeřím ti, * Otče mého Pána Ježíše Krista, neboť skrze tvého Syna byl uhašen oheň po mém boku.;;112
+Radujte se spolu se mnou * a jásejte, neboť se všemi těmito jsem přijala trůn světla.;;144
 
 [Lectio94]
 From the book of St. Ambrose, Bishop, on Virgins

@@ -1,4 +1,6 @@
 @Tempora/Epi3-0
+[Rank]
+Dominica III Post Epiphaniam;;Semiduplex;;5
 
 [Rule]
 12 lectiones
