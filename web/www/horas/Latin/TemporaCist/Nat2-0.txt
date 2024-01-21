@@ -1,15 +1,25 @@
+@Tempora/Nat2-0
 [Rank]
-Dominica Secunda Nativitatis;;Semiduplex;;5;;vide TemporaM/Nat1-0
+Sanctissimi Nominis Jesu;;MM. maj.;;5;;
 
 [Rule]
 12 lectiones
 Psalmi Dominica
 
-[Hymnus Vespera]
-@Sancti/12-25:HymnusM Vespera
+[Ant Vespera]
+@Tempora/Nat2-0::s/nomen/Nomen/g s/Sacrificábo.*//
 
 [Capitulum Vespera]
-@:Capitulum Laudes
+@Tempora/Nat2-0
+_
+R.br. Confitémini Dómino, * Et invocáte Nomen ejus.
+R. Confitémini Dómino, * Et invocáte Nomen ejus.
+V. Annuntiáte inter Gentes ópera ejus.
+R. Et invocáte Nomen ejus.
+
+[Versum 1]
+V. Sit Nomen Dómini benedíctum.
+R. Ex hoc nunc et usque in sǽculum.
 
 [Invit]
 @Sancti/12-25
