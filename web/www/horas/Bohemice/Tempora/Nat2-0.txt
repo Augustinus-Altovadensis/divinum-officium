@@ -9,53 +9,53 @@ Psalm5 Vespera=115
 Doxology=Nat
 
 [Ant Vespera]
-Whosoever shall call * on the name of the Lord shall be saved.
-Holy and terrible * is His Name; the fear of the Lord is the beginning of wisdom.
-Yet will I rejoice * in the Lord I will joy in the God of my salvation.
-From the rising of the sun * unto the going down of the same the Lord's Name is to be praised.
-I will offer * the sacrifice of thanksgiving, and will call upon the Name of the Lord.
+Každý, * kdo bude vzývat jméno Páně, bude spasen.
+Svaté a hrozné * je jeho Jméno; bázeň před Bohem je počátek moudrosti.
+Já však * se budu radovat v Pánu, a zajásám v Bohu mém Spasiteli.
+Od východu slunce * až na jeho západ je třeba chválit jméno Páně.
+Přinesu * oběť chvály, a jméno Páně budu vzývat.
 
 [Capitulum Vespera]
 !Phil 2:8-10
-v. He humbled himself, becoming obedient unto death, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names: That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth.
+v. Bratři, Kristus ponížil sám sebe a stal se poslušným až k smrti, a to smrti křížem. Proto jej také Bůh povýšil a dal mu jméno, které jest nad každé jiné jméno, aby ve jménu Ježíšově pokleklo každé koleno.
 $Deo gratias
 
 [Hymnus Vespera]
-v. Jesu, the very thought of thee
-With sweetness fills my breast;
-But sweeter far thy face to see,
-And in thy presence rest.
+v. Vzpomínko sladká, Ježíši,
+radosti srdci nejvyšší, 
+med však a všechno převýší
+tvá blízkost, lásko nejčistší.
 _
-Nor voice can sing, nor heart can frame,
-Nor can the memory find,
-A sweeter sound than thy blest Name,
-O Saviour of mankind!
+Nic vroucnějšího nelze pět,
+nic milejšího uslyšet,
+nic vřelejšího pomyslet
+než Ježíš, jenž je božství květ.
 _
-O Hope of every contrite heart,
-O Joy of all the meek,
-To those who fall, how kind Thou art!
-How good to those who seek!
+Ježíši, srdci sladkosti,
+zdroj pravdy, duší světlo jsi,
+ty nade všechny radosti,
+nad vroucí sny všech bytostí.
 _
-But what to those who find? Ah! this
-Nor tongue nor pen can show:
-The love of Jesus, what it is
-None but his loved ones know.
+Když v našem srdci přebýváš,
+je světlem pravdy pronikáš,
+pomíjí kouzlo klamných krás
+a pravá láska plane z nás.
 _
-Jesu, our only joy be Thou,
-As Thou our prize wilt be;
-Jesu, be Thou our glory now,
-And through eternity.
+Pějem ti chvály s nadšením,
+vždyť tys ten milý Boží Syn,
+jejž Otec s Duchem vznešeným 
+ve slávě zjevil věrným svým.
 Amen.
 
 [Versum 1]
-V. Blessed be the Name of the Lord, alleluia.
-R. From this time forth, and for evermore, alleluia.
+V. Buď Jméno Páně požehnáno, alleluia.
+R. Nyní i navěky, alleluia.
 
 [Ant 1]
-He That is mighty * hath done to me great things, and holy is His Name, alleluia.
+Učinil mi * veliké věci ten, který je mocný, a svaté je jeho Jméno, alleluja.
 
 [Oratio]
-O God, Who hast appointed thine Only-begotten Son to be the Saviour of mankind, and hast commanded that His Name should be called Jesus, mercifully grant that we who here on earth do worship that most Holy Name may be made glad in heaven by His Presence.
+Bože, jenž jsi svého jednorozeného Syna ustanovil Spasitelem lidského rodu, a přikázal jsi jej nazvati Ježíš; uděl laskavě, abychom, když jeho jméno uctíváme na zemi, z pohledu na něj se mohli radovati v nebi.
 $Per eumdem
 
 [Invit]

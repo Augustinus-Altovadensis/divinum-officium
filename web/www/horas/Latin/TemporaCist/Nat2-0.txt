@@ -21,6 +21,9 @@ R. Et invocáte Nomen ejus.
 V. Sit Nomen Dómini benedíctum.
 R. Ex hoc nunc et usque in sǽculum.
 
+[Ant 1]
+@Tempora/Nat2-0::s/Fecit \* mihi/Fecit mihi \*/
+
 [Invit]
 @Sancti/12-25
 
