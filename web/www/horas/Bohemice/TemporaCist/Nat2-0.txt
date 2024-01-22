@@ -11,3 +11,43 @@ R. A vzývejte jeho Jméno.
 [Versum 1]
 V. Buď Jméno Páně požehnáno.
 R. Nyní i navěky.
+
+[Ant Laudes]
+Jméno tvé, Pane, * je hodno svatosti po všechny časy.
+
+[Capitulum Laudes]
+@Tempora/Nat2-0
+_
+R.br. Přineste Pánu * slávu a čest.
+R. Přineste Pánu * slávu a čest.
+V. Přineste Pánu slávu jeho jménu.
+R. Slávu a čest.
+
+[Ant 2]
+Dáno mu bylo * Jméno Ježíš, jak nazval jej Anděl ještě předtím, než byl počat v lůně.
+
+[Ant 3]
+Nechť velebí * každá duše tvé Jméno, Pane, a duch každého ať v něm jásá, neboť je svaté, a má moc srazit mocné z trůnu, a pokorné povýšit, alleluja.
+
+[Ant Prima]
+Vylitý olej * je tvé Jméno, a proto si tě mladičké dívky zamilovaly.
+
+[Ant Tertia]
+Veliké je * tvé Jméno, a úctyhodné mezi Národy, praví Pán.
+
+[Ant Sexta]
+Ježíš Nazaretský * Král Židů, Vládce nebes, a Pán všech vládců.
+
+[Ant Nona]
+Vítězi dám * skrytou mannu, a napíšu mu nové Jméno, jež nikdo nezná, pouze ten, kdo je přijímá.
+
+[Responsory Tertia]
+@Tempora/Nat2-0::s/.*_.//s s/, alleluja//g
+
+[Responsory Sexta]
+V. Dobré je dobrořečit Pánu.
+R. A opěvovat tvé Jméno, Nejvyšší.
+
+[Responsory Nona]
+V. Velebte Hospodina, a vzývejte jeho Jméno.
+R. Oznamujte mezi Národy jeho díla.

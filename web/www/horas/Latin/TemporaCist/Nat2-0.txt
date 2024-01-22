@@ -24,11 +24,57 @@ R. Ex hoc nunc et usque in sǽculum.
 [Ant 1]
 @Tempora/Nat2-0::s/Fecit \* mihi/Fecit mihi \*/
 
+[Ant Laudes]
+Nomen tuum, Dómine, * decet sanctitudo in longitúdinem diérum.
+
+[Capitulum Laudes]
+@Tempora/Nat2-0
+_
+R.br. Afférte Dómino * glóriam et honórem.
+R. Afférte Dómino * glóriam et honórem.
+V. Afférte Dómino glóriam nómini ejus.
+R. Glóriam et honórem.
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Ant 2]
+Vocátum est * Nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur.
+
+[Ant 3]
+Magníficet * omnis ánima Nomen tuum, Dómine, et cunctórum in eo spíritus exúltet, quóniam sanctum est, et potens depónere poténtes de sede, et exaltáre húmiles, allelúia.
+
+[Ant Prima]
+Oleum effúsum * Nomen tuum, ídeo adolescéntulæ dilexérunt te.
+
+[Ant Tertia]
+Magnum est * Nomen meum, et honorábile in Géntibus, dicit Dóminus.
+
+[Ant Sexta]
+Jesus Nazarénus * Rex Judæórum, Imperátor cœli, et Dóminus dominántium.
+
+[Ant Nona]
+Vincénti dabo * manna abscónditum, et Nomen novum scriptum, quod nemo scit, nisi qui áccipit.
+
+[Capitulum Tertia]
+@Tempora/Nat2-0:Capitulum Vespera
+
+[Responsory Tertia]
+@Tempora/Nat2-0::s/.*_.//s s/, allelúja//g
+
+[Responsory Sexta]
+V. Bonum est confitéri Dómino.
+R. Et psallere Nómini tuo, Altíssime.
+
+[Responsory Nona]
+V. Confitémini Dómino, et invocáte Nomen ejus.
+R. Annuntiáte inter Gentes ópera ejus.
+
 [Invit]
 @Sancti/12-25
-
-[Hymnus Matutinum]
-@Sancti/12-25:HymnusM Matutinum
 
 [Responsory1]
 @Sancti/01-01
@@ -104,22 +150,3 @@ somnis, secéssit in partes Galilææ. Et véniens habitávit in civitáte, quæ
 vocátur Názareth: ut adimplére tur quod dictum est per Prophétas: Quóniam~
 Nazaræus vocábitur.
 
-[Hymnus Laudes]
-@Sancti/12-25:HymnusM Laudes
-
-[Capitulum Laudes]
-@:Capitulum Tertia
-_
-@Sancti/12-25:Responsory Sexta:s/._.*//s
-
-[Capitulum Tertia]
-@Tempora/Nat1-0:Capitulum Vespera
-
-[Responsory Tertia]
-@Sancti/12-25:Responsory Nona:s/.*_.//s
-
-[Responsory Sexta]
-@Sancti/12-25:Versum 2
-
-[Responsory Nona]
-@TemporaM/Nat1-0:Versum 1

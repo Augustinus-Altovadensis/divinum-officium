@@ -22,30 +22,59 @@ $Deo gratias
 
 [Hymnus Vespera]
 v. Vzpomínko sladká, Ježíši,
-radosti srdci nejvyšší, 
-med však a všechno převýší
-tvá blízkost, lásko nejčistší.
+Radosti srdci nejvyšší, 
+Med však a všechno převýší
+Tvá blízkost, lásko nejčistší.
 _
 Nic vroucnějšího nelze pět,
-nic milejšího uslyšet,
-nic vřelejšího pomyslet
-než Ježíš, jenž je božství květ.
+Nic milejšího uslyšet,
+Nic vřelejšího pomyslet
+Než Ježíš, jenž je božství květ.
 _
-Ježíši, srdci sladkosti,
-zdroj pravdy, duší světlo jsi,
-ty nade všechny radosti,
-nad vroucí sny všech bytostí.
+Jezu, naděje kajícím,
+Jak milý jsi k všem prosícím,
+Jak dobrý k tě hledajícím,
+Však co k tě nalézajím?
 _
-Když v našem srdci přebýváš,
-je světlem pravdy pronikáš,
-pomíjí kouzlo klamných krás
-a pravá láska plane z nás.
+Jazyk nemůže vyslovit, 
+Ani písmo snad vyjádřit;
+Kdo zažil, může uvěřit,
+Co jest k Ježíši lásku mít.
 _
-Pějem ti chvály s nadšením,
-vždyť tys ten milý Boží Syn,
-jejž Otec s Duchem vznešeným 
-ve slávě zjevil věrným svým.
+Buď, Jezu, naší radostí,
+Staň se i odměnou naší;
+Buď naše v tobě sláva vždy,
+Po nesmírné všechny věky.
 Amen.
+!Překlad: Kancionál č. 786, úprava JE.
+
+[Hymnus Vespera alternative]
+v. Vzpomínko sladká, Ježíši,
+slast srdcím skýtáš nejvyšší,
+však med a všecko převýší
+tvůj příchod v nitra zátiší.
+_
+Nic nelze zapět sladčeji,
+nic nezní uchu mileji,
+nic nelze myslit vroucněji
+než „Ježíš", jenž mou nadějí.
+_
+Kajícím snímáš s duše tíž,
+prosící vždy rád potěšíš,
+k chtějícím k tobě s něhou zříš;
+jak šťastni, kdož tě našli již!
+_
+Nelze to ústy vyslovit,
+ba ani písmem vyjevit,
+kdo zkusil jen, chce uvěřit,
+co Ježíše jest v lásce mít.
+_
+Buď naší slastí, Ježíši,
+odměno srdcí nejvyšší,
+buď naší chloubou jedině
+v života každé hodině.
+Amen.
+!Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 (vydává Opatství Emauzské v Praze)
 
 [Versum 1]
 V. Buď Jméno Páně požehnáno, alleluia.
@@ -55,38 +84,39 @@ R. Nyní i navěky, alleluia.
 Učinil mi * veliké věci ten, který je mocný, a svaté je jeho Jméno, alleluja.
 
 [Oratio]
-Bože, jenž jsi svého jednorozeného Syna ustanovil Spasitelem lidského rodu, a přikázal jsi jej nazvati Ježíš; uděl laskavě, abychom, když jeho jméno uctíváme na zemi, z pohledu na něj se mohli radovati v nebi.
+Bože, jenž jsi svého jednorozeného Syna ustanovil Spasitelem lidského rodu, a přikázal jsi nazvati jej Ježíš; uděl laskavě, abychom, když uctíváme jeho jméno na zemi, mohli se z pohledu na něj radovati v nebi.
 $Per eumdem
 
 [Invit]
 The Name which shall be called Wonderful, the Name of Jesus is the Name which is above every name. * O come, let us worship Him.
 
 [Hymnus Matutinum]
-v. O Jesu, King most wonderful
-Thou conqueror renowned,
-Thou sweetness most ineffable,
-In whom all joys are found!
+v. Předivný Králi, Ježíši,
+ó reku slávy nejvyšší,
+tys sladkost, jež vše převýší,
+jež všechny tužby utiší.
 _
-When once Thou visitest the heart,
-Then truth begins to shine;
-Then earthly vanities depart;
-Then kindles love divine.
+A když mé srdce navštívíš
+a pravdy jas v něm zanítíš,
+mu rozkoše se zhnusí číš
+a srdce změníš v lásky říš.
 _
-O Jesu, light of all below,
-Thou fount of life and fire,
-Surpassing all the joys we know,
-And all we can desire:
+Ó Jezu, srdcí sladkosti,
+pravd zdroji, duší jasnosti,
+tys nade všecky radosti, 
+nad nejvřelejší žádosti.
 _
-May every heart confess thy Name,
-And ever thee adore;
-And, seeking thee, itself inflame
-To seek thee more and more.
+Kéž by tě všichni poznali,
+tvé lásky jen si žádali,
+tě vroucněji vždy hledali,
+až láska hruď jich rozpálí.
 _
-Thee may our tongues forever bless;
-Thee may we love alone;
-And ever in our lives express
-The image of thine own.
+Ret náš tě, Jezu, oslavuj,
+ty z našich mravů vyzařuj,
+kéž láskou k tobě každý z nás
+lne celým srdcem v každý čas!
 Amen.
+!Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 (vydává Opatství Emauzské v Praze)
 
 [Ant Matutinum]
 O Lord our Lord, * how admirable is thy name in the whole earth!;;8
@@ -229,31 +259,32 @@ Blessed * is the Holy Name of thy glory, and worthy to be praised, and exalted a
 Young men and maidens, * old men and children, praise the Name of the Lord, for His Name alone is exalted.
 
 [Hymnus Laudes]
-v. O Jesu, Thou the Beauty art
-Of Angel worlds above;
-Thy name is music to the heart,
-Enchanting it with love.
+v. Květ Andělů jsi, Jezu, všech,
+tys uchu sladké písně dech,
+tys zázračný med na mých rtech
+tys božský nektar v bolestech.
 _
-Celestial Sweetness unalloyed!
-Who eat thee hunger still;
-Who drink of thee still feel a void,
-Which naught but Thou can fill.
+Kdo okusí tě, lačněji,
+kdo pijí, žízní mocněji,
+nic milovat si nepřejí
+než Ježíše, svou naději.
 _
-O my sweet Jesu! hear the sigh,
-Which unto thee I send;
-To thee mine inmost spirit cries
-My being's hope and end!
+Ó Jezu, slasti převroucí,
+tys naděj' duše prahnoucí,
+tě hledá slza horoucí,
+výkřik se z nitra deroucí.
 _
-Stay with us, Lord, and with thy light
-Illume the soul's abyss;
-Scatter the darkness of our night,
-And fill the world with bliss.
+Buď s námi, Pane, v úzkosti,
+nám naplň hruď svou milostí,
+vzdal od nás tmy a hořkosti,
+svět naplň lásky sladkostí.
 _
-O Jesu, spotless Virgin flower,
-Our life and joy: to thee
-Be praise, beatitude, and power,
-Through all eternity.
+Výkvěte Panny Nejčistší,
+má sladká lásko, Ježíši,
+buď tobě sláva nejvyšší
+a vláda v rajském zátiší.
 Amen.
+!Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 (vydává Opatství Emauzské v Praze)
 
 [Versum 2]
 V. Our help is in the Name of the Lord.
@@ -264,45 +295,45 @@ He gave Himself * to deliver His people, and to get Himself an everlasting Name.
 
 [Lectio Prima]
 !Col 3:17
-v. All whatsoever you do in word or in work, do all in the name of the Lord Jesus Christ, giving thanks to God and the Father by him.
+v. Cokoliv budete dělat ve slově či ve skutku; všechno dělejte ve jménu Pána Ježíše Krista, a vzdávejte díky Bohu a Otci skrze něho.
 
 [Responsory Tertia]
-R.br. Blessed be the Name of the Lord, * Alleluia, alleluia.
-R. Blessed be the Name of the Lord, * Alleluia, alleluia.
-V. From this time forth, and for evermore.
-R. Alleluia, alleluia.
+R.br. Buď Jméno Páně velebeno, * Alleluja, alleluja.
+R. Buď Jméno Páně velebeno, * Alleluja, alleluja.
+V. Od této chvíli až navěky.
+R. Alleluja, alleluja.
 &Gloria
-R. Blessed be the Name of the Lord, * Alleluia, alleluia.
+R. Buď Jméno Páně velebeno, * Alleluja, alleluja.
 _
-V. Give unto the Lord glory and honour, alleluia.
-R. Give unto the Lord the glory due unto His Name, alleluia.
+V. Vzdejte Hospodinu slávu a čest, alleluja.
+R. Vzdejte Hospodivu slávu jeho jménu, alleluja.
 
 [Capitulum Sexta]
 !Phil 2:10-11
-v. That in the name of Jesus every knee should bow, of those that are in heaven, on earth, and under the earth: And that every tongue should confess that the Lord Jesus Christ is in the glory of God the Father.
+v. Ve jménu Ježíšově poklekne každé koleno na nebi, na zemi i v podsvětí; a každý jazyk musí vyznat, že Pán Ježíš Kristus je ve slávě Boha Otce.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Give unto the Lord glory and honour, * Alleluia, alleluia.
-R. Give unto the Lord glory and honour, * Alleluia, alleluia.
-V. Give unto the Lord the glory due unto His Name.
-R. Alleluia, alleluia.
+R.br. Vzdejte Hospodinu slávu a čest, * Alleluja, alleluja.
+R. Vzdejte Hospodinu slávu a čest, * Alleluja, alleluja.
+V. Vzdejte Hospodivu slávu jeho jménu.
+R. Alleluja, alleluja.
 &Gloria
-R. Give unto the Lord glory and honour, * Alleluia, alleluia.
+R. Vzdejte Hospodinu slávu a čest, * Alleluja, alleluja.
 _
-V. O magnify the Lord with me, alleluia.
-R. And let us exalt His Name together, alleluia.
+V. Velebte Hospodina se mnou, alleluia.
+R. A vyvyšujme spolu jeho Jméno, alleluia.
 
 [Responsory Nona]
-R.br. O magnify the Lord with me, * Alleluia, alleluia.
-R. O magnify the Lord with me, * Alleluia, alleluia.
-V. And let us exalt His Name together.
-R. Alleluia, alleluia.
+R.br. Velebte Hospodina se mnou, * Alleluja, alleluja.
+R. Velebte Hospodina se mnou, * Alleluja, alleluja.
+V. A vyvyšujme spolu jeho Jméno.
+R. Alleluja, alleluja.
 &Gloria
-R. O magnify the Lord with me, * Alleluia, alleluia.
+R. Velebte Hospodina se mnou, * Alleluja, alleluja.
 _
-V. Our help is in the Name of the Lord, alleluia.
-R. Who made heaven and earth, alleluia.
+V. Pomoc naše ve jménu Páně, alleluja.
+R. Který stvořil nebe a zemi, alleluja.
 
 [Ant 3]
 Thou shalt call His Name Jesus, * for He shall save His people from their sins, alleluia.

@@ -1810,7 +1810,7 @@ sub getproprium {
 }
 
 #*** tryoldhymn(\%source, $name)
-# search for HymnusM $name in the source
+# search for HymnusM or HymnusC $name in the source
 sub tryoldhymn {
   my $source = shift;
   my %source = %$source;
@@ -1874,7 +1874,7 @@ sub hymnusmajor {
     { # Cistercian rite has only one hymn for ferial Lauds and Vespers during the week
     if ( $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
     if ( $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
-    if ( ( $dayname[0] =~ /Epi/ || $month >= 11 ) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i ) { $name .= "2" } 
+    if ( ( $dayname[0] =~ /Epi/ || ( $month >= 11 && $month <= 3 )) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i && $dayname[0] !~ /Adv/i ) { $name .= "2" } 
     } # actually two for each, switching based on time of the year
   ($hymn, $name);
 }
@@ -1941,7 +1941,7 @@ sub getantvers {
     }
   }
 
-  if ($item =~ /Versum/i && $version =~ /Cistercien/i && $winner =~ /Tempora/i ) {
+  if (!$w && $item =~ /Versum/i && $version =~ /Cistercien/i && $winner =~ /Tempora/i ) {
     $item2 = $item;
     $item2 =~ s/Versum/VersumC/i;
     $w = getfrompsalterium($item2, $ind, $lang);
@@ -2132,7 +2132,7 @@ sub doxology {
 sub checksuffragium {
   if ($rule =~ /no suffragium/i) { return 0; }
   if ( ($winner =~ /C1[0-2]/ || $dayname[1] =~ /Dominica/i ) && $version =~ /Cistercien/i ) { return 0; }
-  if ( $winner{Rank} !~ /octav/i && $rank <= 4 && $version =~ /Cistercien/i ) { return 1; }
+  if ( $winner{Rank} !~ /octav/i && $rank <= 3.5 && $version =~ /Cistercien/i ) { return 1; }
   if (!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) { return 0; }    #christmas, adv, passiontime omit
   if ($dayname[0] =~ /Pasc[07]/i) { return 0; }
   if ($winner =~ /sancti/i && $rank >= 3 && $seasonalflag) { return 0; }
