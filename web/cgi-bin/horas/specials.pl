@@ -2371,7 +2371,7 @@ sub replaceNdot {
 
   if ($name) {
     $name =~ s/[\r\n]//g;
-    $s =~ s/N\. (et|and|und|és) N\./$name/;
+    $s =~ s/N\. (et|and|und|és|a) N\./$name/;
     $s =~ s/N\./$name/;
   }
   return $s;

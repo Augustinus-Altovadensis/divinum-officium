@@ -644,7 +644,7 @@ sub concurrence {
 			|| ($cwinner{Rank} =~ /C10/i && $winner{Rank} =~ /C1[01]/i)		# sort out BVM concurrent with BMV
 			|| ($version =~ /19(?:55|6)/ && $cwinner{Rank} =~ /Dominica Resurrectionis|Patrocinii S. Joseph/i) # no 1st Vespers of Easter after 1955
 			|| ($version =~ /19(?:55|6)/ && ($cwinner{Rank} =~ /octav/i && $cwinner{Rank} !~ /dominica|cum Octava/i && $cwrank[2] < 6))) {		# TODO: last condition should be made obsolete and handled via database
-		if ($ccomrank >= ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $wrank[0] !~ /feria|octava/i ? 2.1 : 1.1) && $version !~ /1955|196/) {
+		if ($ccomrank >= ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $wrank[0] !~ /feria|octava/i ? 2.1 : 1.1 && $version !~ /Cistercien/ ) && $version !~ /1955|196/) {
 			$vespera = 3;
 			$dayname[2] = $tomorrowname[2] . "<br>Vespera de Officium occurente, Commemoratio Sanctorum tantum";
 			$cwrank = '';
@@ -710,17 +710,17 @@ sub concurrence {
 		}
 	} else {
 		#	before DA, more Semiduplex and Duplex where treated as "A capitulo"
-		my $flrank = $version =~ /trident/i ? (($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2 : ($rank >= 3 && $rank < 4.9 && $rank != 4 && $rank != 3.2) ? 3 : $rank) : $rank;
-		my $flcrank = $version =~ /trident/i ? ($crank < 2.91  ? 2 : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank))
+		my $flrank = $version =~ /trident|Cistercien/i ? (($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2 : ($rank >= 3 && $rank < 4.9 && $rank != 4 && $rank != 3.2) ? 3 : $rank) : $rank;
+		my $flcrank = $version =~ /trident|Cistercien/i ? ($crank < 2.91  ? 2 : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank))
 			: ($version =~ /divino/i && $cwinner{Rank} =~ /Dominica/i) ? 4.9 : $crank;
 		
 		# in 1906, infra 8vam is no longer equal to Semiduplex but still to Sunday in precedence but not sequence
 		if($version =~ /1906/ && $winner{Rank} =~ /infra Octavam/i && $crank == 2.2) { $flcrank = 2.2; }
 		elsif ($version =~ /1906/ && $cwinner{Rank} =~ /infra Octavam/i && $rank == 2.2) { $flrank = 2.2; }
 		
-		if (($rank >= (($version =~ /19(?:55|6)|Cistercien/) ? 6 : 7) && $crank < 6) # e.g. 05-26-2022
+		if (($rank >= (($version =~ /19(?:55|6)/) ? 6 : 7) && $crank < 6) # e.g. 05-26-2022
 			|| ($version =~ /196/ && ($cwinner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat1/i && $crank <= 5) && ($rank >= 5 && $winner{Rule} =~ /Festum Domini/i)) #on a II. cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
-			|| ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $winner !~ /feria|in.*octava/i && $crank < 2.1)) {		# on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
+			|| ($rank >= ($version =~ /trident/i ? 6 : 5) && $winner !~ /feria|in.*octava/i && $version !~ /Cistercien/i && $crank < 2.1)) {		# on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
 				$dayname[2] .= "<br>Vespera de præcedenti; nihil de sequenti";
 				$cwinner = '';
 				%cwinner = ();
@@ -748,7 +748,7 @@ sub concurrence {
 			$winner = $cwinner;
 			$cwinner = '';
 			%cwinner = ();
-		} elsif ($version !~ /196/
+		} elsif ($version !~ /196|Cistercien/
 				&& ($winner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat1/i && (($rank <= 5 && $crank > 2.1 && $cwinner{Rule} =~ /Festum Domini/i)))) {
 			# Pre-1960, feasts of the Lord of nine lessons take precedence over a lesser Sunday.
 			# and doubles of at least the II. cl. beat all Sundays in concurrence.
@@ -763,8 +763,8 @@ sub concurrence {
 			$rank = $crank;
 			$commune = $ccommune;
 			$communetype = $ccommunetype;
-		} elsif (($version !~ /196/ && ($cwinner{Rank} =~ /Dominica/i  && $dayname[0] !~ /Nat1/i && (($crank <= 5 && $rank > 2.1 && $winner{Rule} =~ /Festum Domini/i)))) # Pre-1960, The other way round then above
-			|| ($version =~ /196/ && $rank >= $crank))	{ # In 1960, in concurrence of days of equal rank, the preceding takes precedence
+		} elsif (($version !~ /196|Cistercien/ && ($cwinner{Rank} =~ /Dominica/i  && $dayname[0] !~ /Nat1/i && (($crank <= 5 && $rank > 2.1 && $winner{Rule} =~ /Festum Domini/i)))) # Pre-1960, The other way round then above
+			|| ($version =~ /196|Cistercien/ && $rank >= $crank))	{ # In 1960, in concurrence of days of equal rank, the preceding takes precedence
 			$vespera = 3;
 			$cvespera = 1;
 			$commemoratio = $cwinner;
@@ -772,7 +772,7 @@ sub concurrence {
 			$dayname[2] .= "<br>Vespera de præcedenti; commemoratio de sequenti Dominica";
 		} elsif ($flcrank == $flrank) {			# "flattend ranks" are equal => a capitulo
 			$commemoratio = $winner;
-			%commune = ($version =~ /trident/i || $flrank >= 5) ? %{officestring($lang1, $commune, 0)} : ();	#	Commune psalms only in Trident or Dpx I./II.cl
+			%commune = ($version =~ /trident|Cistercien/i || $flrank >= 5) ? %{officestring($lang1, $commune, 0)} : ();	#	Commune psalms only in Trident or Dpx I./II.cl
 			$tomorrowname[2] = "Commemoratio: $wrank[0]";
 			$antecapitulum = (exists($winner{'Ant Vespera 3'})) ? $winner{'Ant Vespera 3'}
 			: (exists($winner{'Ant Vespera'})) ? $winner{'Ant Vespera'}

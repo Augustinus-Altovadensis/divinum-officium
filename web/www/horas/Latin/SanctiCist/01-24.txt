@@ -2,3 +2,9 @@
 
 [Rank]
 S. Timothei Episcopi et Martyris;;Simplex;;1.1;;vide C2
+
+[Ant 1]
+@Commune/C2
+
+[Ant 2]
+@Commune/C2
