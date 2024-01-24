@@ -22,6 +22,22 @@ Kdo chce jít za mnou, * ať zapře sám sebe; a vezme svůj kříž, a následu
 [Ant 3]
 On je pravý Svědek, * jenž pro Kristovo jméno prolil svou krev, který se nebál hrozeb soudců, ani nehledal slávu pozemské důstojnosti, ale šťastně došel do nebeského království.
 
+[Oratio]
+Shlédni na naši slabost, všemohoucí Bože, a protože břímě našich skutků nás tíží, nechť nás chrání slavná přímluva svatého N., tvého Mučedníka a Biskupa.
+$Per Dominum
+
+[Oratio1]
+Bože, jenž nás svatého N., Mučedníka svého a Biskupa, výroční slavností oblažuješ, popřej milostivě, abychom též požívali ochrany toho, jehožto narozeniny slavíme.
+$Per Dominum
+
+[Oratio2]
+Uděl, prosíme, všemohoucí Bože, abychom slavíce narozeniny svatého N., mučedníka tvého, na jeho přímluvu v lásce k jménu tvému posilněni byli.
+$Per Dominum
+
+[Oratio3]
+Uděl, prosíme, všemohoucí Bože, abychom na přímluvu svatého N., tvého Mučedníka, od všech protivenství osvobozeni byli na těle, i od špatných myšlenek očištěni byli na mysli.
+$Per Dominum
+
 [Ant Matutinum]
 His delight * was in the law of the Lord day and night;;1
 The Lord hath set him * upon His holy hill, to declare His decree;;2

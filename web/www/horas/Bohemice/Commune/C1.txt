@@ -6,55 +6,55 @@ Psalmi Dominica
 Antiphonas horas
 
 [Ant Vespera]
-This is my commandment * that you love one another, as I have loved you.;;109
-Greater love than this no man hath, * that a man lay down his life for his friends.;;110
-You are my friends * if you do the things that I command you, said the Lord.;;111
-Blessed are the peacemakers * the clean of heart, they shall see God.;;112
-In your patience * you shall possess your souls.;;116
+Toto je mé přikázání, * abyste se milovali navzájem, jako jsem já miloval vás.;;109
+Nikdo nemá větší lásku * než ten, kdo položí život za své přátele.;;110
+Vy jste mí přátelé, * pokud děláte to, co vám přikazuji, praví Pán.;;111
+Blažení mírumilovní, * blažení lidé čistého srdce; neboť oni uvidí Boha.;;112
+Ve své trpělivosti * budete vlastnit své životy.;;116
 
 [Capitulum Vespera]
 !Eph 2:19-20
-v. Brothers: Now therefore you are no more strangers and foreigners; but you are fellow citizens with the saints, and the domestics of God, built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone.
+v. Bratři: Již nejste cizinci a přistěhovalci, ale spoluobčané Svatých a členové Boží rodiny; jste postaveni na základech Apoštolů a Proroků, a Kristus Ježíš je ten největší nárožní kvádr.
 $Deo gratias.
 
 [Hymnus Vespera]
-v. Now let the earth with joy resound,
-And heaven the chant re-echo round;
-Nor heaven nor earth too high can raise
-The great Apostles' glorious praise.
+v. Nebe chválami zajásej,
+země radostí zaplesej,
+posvátné slavnosti slávu
+opěvují Apoštolů.
 _
-O ye who, throned in glory dread,
-Shall judge the living and the dead,
-Lights of the world forevermore!
-To you the suppliant prayer we pour.
+Na vás, soudci spravedliví,
+proudy světla pro svět praví, 
+upřímně se obracíme:
+na prosby lkajících slyšte.
 _
-Ye close the sacred gates on high;
-At your command apart they fly:
-Oh! loose for us the guilty chain
-We strive to break, and strive in vain.
+Nebe slovem zavíráte,
+a také jej otvíráte,
+vás prosíme: zasáhněte,
+ať od všech hříchů čisti jsme.
 _
-Sickness and health your voice obey;
-At your command they go or stay:
-From sin's disease our souls restore;
-In good confirm us more and more.
+Vy, kterým tedy podléhá 
+všech zavržení i spása,
+nás, mravy choré, uzdravte
+když nás ctnosti navrátíte.
 _
-So when the world is at its end,
-And Christ to judgement shall descend,
-May we be called those joys to see
-Prepared from all eternity.
+Aby Kristus jako soudce,
+až na konci časů přijde,
+nás učinil účastnými
+na radosti bez ustání.
 _
-* Praise to the Father, with the Son,
-And Holy Spirit, Three in One;
-As ever was in ages past,
-And so shall be while ages last.
+Buď Bohu Otci sláva, čest
+i Synu, který z mrtvých vstal,
+i Duchu Utěšiteli
+bud chvála všechen věků věk.
 Amen.
 
 [HymnusM Vespera]
 @:Hymnus Vespera
 
 [Versum 1]
-V. Their sound hath gone forth into all the earth:
-R. And their words unto the ends of the world.
+V. Do celé země vyšel zvuk jejich učení.
+R. A do všech končin okrsku zemského jejich slova.
 
 [Ant 1]
 For they shall deliver you * up to councils: and in the synagogues you shall be beaten: and you shall stand before governors and kings for my sake, for a testimony unto them.
@@ -215,11 +215,11 @@ By reason of these words, an hundredfold, some will have that there shall be a t
 &teDeum
 
 [Ant Laudes]
-This is my commandment * that you love one another, as I have loved you.
-Greater love than this no man hath, * that a man lay down his life for his friends.
-You are my friends, * if you do the things that I command you, said the Lord.
-Blessed are the peacemakers * the clean of heart, they shall see God.
-In your patience * you shall possess your souls.
+Toto je mé přikázání, * abyste se milovali navzájem, jako jsem já miloval vás.
+Nikdo nemá větší lásku * než ten, kdo položí život za své přátele.
+Vy jste mí přátelé, * pokud děláte to, co vám přikazuji, praví Pán.
+Blažení mírumilovní, * blažení lidé čistého srdce; neboť oni uvidí Boha.
+Ve své trpělivosti * budete vlastnit své životy.
 
 [Capitulum Laudes]
 !Eph. 2:19-20
@@ -250,15 +250,15 @@ v. Brothers: Now therefore you are no more strangers and foreigners; but you are
 $Deo gratias.
 
 [Responsory Tertia]
-R.br. Their sound hath gone * forth into all the earth.
-R. Their sound hath gone * forth into all the earth.
-V. And their words unto the ends of the world.
-R. Forth into all the earth.
+R.br. Do celé země * vyšel zvuk jejich učení.
+R. Do celé země * vyšel zvuk jejich učení.
+V. A do všech končin okrsku zemského jejich slova.
+R. Vyšel zvuk jejich učení.
 &Gloria
-R. Their sound hath gone * forth into all the earth.
+R. Do celé země * vyšel zvuk jejich učení.
 _
-V. Thou shalt make them princes over all the earth.
-R. They shall remember thy name, O Lord.
+V. Ustanovíš je knížaty po celé zemi.
+R. Pamětlivi budou tvého jména, Pane.
 
 [Capitulum Sexta]
 !Acts 5:12
@@ -266,12 +266,12 @@ v. And by the hands of the apostles were many signs and wonders wrought among th
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Thou shalt make them princes * over all the earth.
-R. Thou shalt make them princes * over all the earth.
-V. They shall remember thy name, O Lord.
-R. All over the earth.
+R.br. Ustanovíš je knížaty * po celé zemi.
+R. Ustanovíš je knížaty * po celé zemi.
+V. Pamětlivi budou tvého jména, Pane.
+R. Po celé zemi.
 &Gloria
-R. Thou shalt make them princes * over all the earth.
+R. Ustanovíš je knížaty * po celé zemi.
 _
 V. Thy friends, O God, are made exceedingly honourable.
 R. Their principality is exceedingly strengthened.

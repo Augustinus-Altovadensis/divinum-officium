@@ -1,4 +1,6 @@
 @Sancti/02-02
+[Rank]
+In Purificatione Beatæ Mariæ Virginis;;Serm. min;;6;;ex C11
 
 [Rule]
 12 lectiones
@@ -8,7 +10,32 @@ Festum Domini
 [Capitulum Vespera]
 @Sancti/02-02
 _
-@CommuneM/C10:Capitulum Vespera:s/.*_//s
+<FONT COLOR=RED>Responsorium</FONT> Vidéte miráculum Matris Dómini, concépit virgo, virílis ignára consórtii, stat oneráta nóbili ónere María, et Matrem se læta cognóscit. * Quæ se nescit uxórem.
+V. Virgo concépit, et post partum virgo permánsit.
+R. Quæ se nescit uxórem.
+
+[Versum 1]
+@CommuneCist/C6:Versum 1
+
+[Versum 2]
+@CommuneCist/C6:Versum 1
+
+[Versum 3]
+@CommuneCist/C6:Versum 1
+
+[Capitulum Vespera 3]
+@Sancti/02-02:Capitulum Vespera
+_
+@CommuneCist/C10n:Capitulum Vespera:s/.*_//s
+
+[Ant Vespera 3]
+Símeon justus * et timorátus exspectábat redemptiónem Israël, et Spíritus Sanctus erat in eo.;;109
+Senex * Púerum portábat, puer autem senem regébat: quem virgo péperit, et post partum virgo permánsit: ipsum quem génuit, adorávit.;;112
+Respónsum accépit Símeon * a Spíritu Sancto, non visúrum se mortem, nisi vidéret Dóminum.;;121
+Obtulérunt * pro eo Dómino par túrturum aut duos pullos columbárum.;;126
+
+[Ant 3]
+@Sancti/02-02:Ant 3:s/ in ætérnum/, et dixit: Nunc dimíttis Dómine, servum tuum in pace/
 
 [Lectio1]
 @Sancti/02-02:Lectio1
@@ -92,7 +119,7 @@ R. Et Anna vídua Christum agnóvit advenísse in terris.
 [Capitulum Laudes]
 @Sancti/02-02
 _
-@CommuneM/C10:Capitulum Vespera:s/.*_//s
+@CommuneCist/C10:Capitulum Vespera:s/.*_//s
 
 [Responsory Tertia]
 @Commune/C6:Versum 1

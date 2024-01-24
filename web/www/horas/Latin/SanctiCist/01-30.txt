@@ -1,0 +1,9 @@
+[Rank]
+B. Gerardi, Confessoris;;iij. Lect. et M.;;2;;vide C5
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[Oratio]
+Deus, qui ánimam beáti Gerárdi ánimæ sancti Bernárdi, fratris ejus, in religióne et sanctitáte ita conglutinásti, ut una et eadem in Christo esse viderétur: quæsumus, utriúsque intervéntu, mentes nostras tibi in charitáte conjúnge; ut omnes simul in spíritus unitáte tibi inserviéntes in terris, te uno pérfrui mereámus in cœlis.
+$Per Dominum

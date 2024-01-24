@@ -8,7 +8,7 @@ Psalm5 Vespera=116
 Psalm5 Vespera3=131
 
 [Ant 1]
-O right excellent Teacher * Light of the Holy Church, N., blessed lover of the Divine Law, pray for us to the Son of God.
+Ó, nejlepší Učiteli, * světlo svaté Církve, svatý N., milovníku Božího zákona, pros za nás Syna Božího.
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus

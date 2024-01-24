@@ -1,0 +1,6 @@
+[Hymnus Vespera]
+@Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
+
+[Oratio]
+Bože, jenž jsi duši blahoslaveného Gerarda s duší svatého Bernarda, jeho bratra, v řeholním životě i svatosti natolik spojil, že se zdály jedna a tatáž v Kristu; prosíme, na přímluvu obou, spoj naše mysli s tebou v lásce, abychom všichni, kteří ti společně v jednotě ducha sloužíme na zemi, z tebe jediného si zasloužili těšiti se v nebi.
+$Per Dominum

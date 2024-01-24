@@ -1,0 +1,6 @@
+[Ant 3]
+@Commune/C4a:Ant 1:s/N\./Jane Zlatoústý/
+
+[Commemoratio]
+!Připomínka sv. Juliána, Biskupa a Vyznavače
+@CommuneCist/C4:Oratio:s/N./Juliána/

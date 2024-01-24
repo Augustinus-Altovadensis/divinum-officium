@@ -1,4 +1,5 @@
-@Sancti/01-26
-
 [Rank]
-S. Polycarpi Episcopi et Martyris;;Simplex;;1.1;;vide C2
+S. Alberici, ij. Abbatis Cistercii;;MM. maj.;;5;;ex C5
+
+[Oratio]
+@Commune/C5:Oratio1:s/N\./Alberici/

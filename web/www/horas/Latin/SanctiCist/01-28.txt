@@ -1,5 +1,31 @@
 [Rank]
-S. Cyrilli Episc. Alexandrini Confessoris et Ecclesiæ Doctoris;;Simplex;;1.1;;vide C4
+B. Amedei, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
 
 [Oratio]
-@Sancti/02-09
+Excita, Dómine, intercedénte beáto Amedéo, Pontífice et Confessóre, tuórum corda fidélium: ut sacris inténta doctrinis, et intélligant quod sequátur; et sequéndo fidéliter apprehéndant.
+$Per Dominum
+
+[Commemoratio 1]
+!Commemoratio S. Agnetis secundo
+Ant. Stans a dextris ejus * Agnus nive candídior, Christus sibi sponsam et Mártyrem consecrávit.
+_
+V. Diffúsa est grátia in lábiis tuis.
+R. Proptérea benedíxit te Deus in ætérnum.
+_
+$Oremus
+v. Deus, qui nos ánnua beátæ Agnétis Vírginis et Mártyris tuæ solemnitáte lætíficas: da, quǽsumus; ut, quam venerámur offício, étiam piæ conversatiónis sequámur exémplo.
+$Per Dominum
+
+[Commemoratio 2]
+!Commemoratio S. Agnetis secundo
+Ant. Ecce quod concupívi, * jam vídeo; quod sperávi, jam téneo; ipsi sum juncta in coelis, quem in terris pósita tota devotióne diléxi.
+_
+V. Diffúsa est grátia in lábiis tuis.
+R. Proptérea benedíxit te Deus in ætérnum.
+_
+$Oremus
+v. Deus, qui nos ánnua beátæ Agnétis Vírginis et Mártyris tuæ solemnitáte lætíficas: da, quǽsumus; ut, quam venerámur offício, étiam piæ conversatiónis sequámur exémplo.
+$Per Dominum

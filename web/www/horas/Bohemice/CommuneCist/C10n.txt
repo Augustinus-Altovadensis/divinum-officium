@@ -1,5 +1,13 @@
 [Name]
 Officium Beatæ Mariæ Virginis in Sabbato post Nativitatem. Versio Cisterciensis Bohemica.
 
+[Capitulum Vespera]
+@Commune/C10:Capitulum Vespera
+_
+R.br. Po porodu jsi zůstala * neporušenou Pannou.
+R. Po porodu jsi zůstala * neporušenou Pannou.
+V. Boží Rodičko, přimlouvej se za nás.
+R. Meporušenou Pannou.
+
 [Ant 2]
 @CommuneCist/C11::s/,\ alleluja//

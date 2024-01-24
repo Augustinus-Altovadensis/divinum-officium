@@ -12,7 +12,7 @@ Psalm5 Vespera=116
 
 [Capitulum Vespera]
 !Acts 9:1-2
-v. And Saul, as yet breathing out threatenings and slaughter against the disciples of the Lord, went to the high priest, and asked of him letters to Damascus, to the synagogues: that if he found any men and women of this way, he might bring them bound to Jerusalem.
+v. Šavel ještě soptil hrozbami a hořel touhou zabíjet učedníky Páně. Přišel k veleknězi a vyžádal si od něho pověřující listy na synagógy v Damašku: najde-li tam některé stoupence toho vyznání, muže i ženy, aby je mohl přivést v poutech do Jeruzaléma.
 $Deo gratias
 
 [Ant 1]
@@ -75,25 +75,25 @@ Moreover, then, were Paul, who is the thirteenth Apostle, deprived of all part i
 &teDeum
 
 [Oratio]
-O God, Who, through the teaching of the Blessed Apostle Paul, hast caused the light of the Gospel to shine throughout the world, grant, we beseech thee, that we, having his wonderful conversion as on this day in remembrance, may show forth our thankfulness unto thee for the same, by following the holy example which he hath set.
+Bože, jenž jsi veškerý svět poučil kázáním svatého Pavla Apoštola, dej nám, prosime, abychom my, kteří dnes slavíme jeho Obrácení, také dle jeho příkladu kráčeli k tobě.
 $Per Dominum
 _
 @Sancti/01-25:Commemoratio4
 
 [Commemoratio4]
-!Commemoration of St. Peter the Apostle
+!Připomínka svatého Petra Apoštola
 (deinde dicuntur)
-Ant. Thou art the Shepherd of the sheep, and the Prince of the Apostles,~
-and unto thee hath God given the keys of the kingdom of heaven.
+Ant. Ty jsi pastýř ovcí * a Kníže Apoštolů, tobě svěřeny~
+byly klíče od království nebeského.
 _
-V. Thou art Peter.
-R. And upon this rock I will build My Church.
+V. Ty jsi Petr, <i>Skála</i>.
+R. A na této skále vybuduji svou Církev.
 _
 $Oremus
 (sed rubrica 1960 aut rubrica monastica hæc versus omittuntur)
-O God, Who hast given unto thy Blessed Apostle Peter the keys of the kingdom of~
-heaven, and the power to bind and to loose, loose us, we beseech thee, at his~
-mighty intercession, from all the bands of our sins.
+v. Bože, jenž jsi svatému Petru, tvému Apoštolu, udělil klíče od království nebeského~
+a spolu s tím mu předal i moc svazovat i rozvazovat; uděl nám, ať pomocí jeho přímluvy~
+i my jsme osvobozeni od pout našich hříchů.
 $Qui vivis
 
 [Ant Laudes]

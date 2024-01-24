@@ -1,0 +1,28 @@
+[Hymnus Vespera]
+@Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
+
+[Oratio] 
+Povzbuď, Pane, na přímluvu blahoslaveného Amedea, Biskupa a Vyznavače, srdce svých věřících: aby pochopili, že je třeba následovat úmysly svatých učení; a jejich následováním je správně pochopili.
+$Per Dominum
+
+[Commemoratio 1]
+!Připomínka sv. Anežky podruhé
+Ant. Po jejím pravém boku stál * Beránek bělejší než sníh, Kristus ji pro sebe zasvětil jako nevěstu a Mučednici.
+_
+℣. Milost se rozlila na tvých rtech.
+℟. Proto ti Bůh požehnal navěky.
+_
+$Oremus
+v. Bože, jenž nás rozradostňuješ každoroční slavností svaté Anežky, své Panny a Mučednice: dej, prosíme; abychom, když ji ctíme tímto Officiem, následovali také příklad jejího zbožného života.
+$Per Dominum
+
+[Commemoratio 2]
+!Připomínka sv. Anežky podruhé
+Ant. Hle, po čem jsem toužila, * to již vidím; v co jsem doufala, již mám; a v nebesích jsem spojena s tím, kterého jsem za života na zemi s veškerou oddaností milovala.
+_
+℣. Milost se rozlila na tvých rtech.
+℟. Proto ti Bůh požehnal navěky.
+_
+$Oremus
+v. Bože, jenž nás rozradostňuješ každoroční slavností svaté Anežky, své Panny a Mučednice: dej, prosíme; abychom, když ji ctíme tímto Officiem, následovali také příklad jejího zbožného života.
+$Per Dominum

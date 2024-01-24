@@ -15,11 +15,11 @@ Sub unica concl
 No prima vespera
 
 [Ant Vespera]
-I have planted, * Apollos watered, but God gave the increase, alleluia.
-Most gladly therefore will I rather glory * in my infirmities, that the power of Christ may rest upon me.
-The grace of God which was bestowed upon me was not in vain, * but His grace abideth ever in me.
-In Damascus the governor * under Aretas the king was desirous to apprehend me; by the brethren in a basket was I let down by the wall, and so escaped I his hands, in the name of the Lord.
-Thrice was I beaten with rods, * once was I stoned, thrice I suffered shipwreck, for Christ's name's sake.
+Já jsem zasadil, * Apollo zaléval, Bůh však dával vzrůst, alleluja.
+Rád se budu chlubit * ve svých slabostech, aby ve mě přebývala síla Kristova.
+Milost Boží * ve mě nepřebývala zbytečně, avšak jeho milost ve mě navždy zůstane.
+V Damašku, * místodržitel lidu u krále Arety mě chtěl zajmout; bratři mě však přes zeď spustili v koši, a tak jsem unikl jeho rukám ve jménu Páně.
+Třikrát jsem byl bit holemi, * jednou kamenován, a třikrát jsem přežil ztroskotání lodi pro jméno Kristovo.
 
 [Capitulum Vespera]
 !2 Tim 4:7-8
@@ -27,23 +27,26 @@ v. I have fought a good fight, I have finished my course, I have kept the faith.
 $Deo gratias
 
 [Versum 1]
-V. O Holy Apostle Paul, thou art a chosen vessel unto God.
-R. To preach the Gospel throughout the whole world.
+V. Ty jsi nádoba vyvolená, svatý Pavle Apoštole.
+R. Abys kázal pravdu po celém světě.
 
 [Ant 1]
-O Holy Apostle Paul, * Preacher of the truth, and Teacher of the Gentiles, pray for us to God Who hath chosen thee.
+Svatý Pavle Apoštole, * kazateli pravdy a učiteli Národů, přimlouvej se za nás u Boha, který si tě vyvolil.
 
 [Hymnus Matutinum]
-v. Our souls' great teacher, Paul, our guide in wisdom's ways,
-Teach us, our fainting hearts, to heaven's glad clime to raise,
-Till faith in clearest light her bright meridian gains,
-And love with sun-like fire within each bosom reigns.
+v. Náš učiteli, Pavle, mravy nauč nás,
+A mysl naši do nebes rač povznésti,
+Dokud plnou nedostanem' dokonalost,
+Tím, že se zbavíme toho, co nás vede pryč.
 _
-All honour, might, and power, and hymns of joy we bring,
-While to the Trinity eternal praise we sing;
-He rules the universe in wondrous Unity,
-And shall, throughout the days of all eternity.
+Budiž Trojici věkověčná oslava,
+Čest, moc a sláva, také veselý jásot;
+V jednotě, v níž zůstává všechna vláda,
+Od této chvíle, až na veškeré věky.
 Amen.
+
+[HymnusM Matutinum]
+@:Hymnus Matutinum
 
 [Ant Matutinum]
 He That wrought effectually * in Peter to the Apostleship, the Same was mighty in me toward the Gentiles, and they perceived the grace that was given unto me of the Lord Christ.;;18

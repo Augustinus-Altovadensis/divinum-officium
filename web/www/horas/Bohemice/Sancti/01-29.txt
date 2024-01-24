@@ -9,11 +9,10 @@ vide C4a;mtv
 9 lectiones
 
 [Oratio]
-O God, Who didst will that thy Blessed Confessor and Bishop Francis should~
-become all things to all men, mercifully grant unto us, that we being filled~
-with the sweetness of thy heavenly love, may so take to ourselves his~
-admonitions and be succoured by his prayers, that in the end we may with him~
-attain unto thine everlasting joy.
+Bože, jenž jsi pro spásu duší chtěl, aby se svatý František, Vyznavač tvůj~
+a Biskup, stal všem vším, uděl milostivě, abychom, prodchnuti sladkostí~
+tvé lásky, jeho vedoucím napomínáním a přímluvnými zásluhami~ 
+dosáhli radostí věčných.
 $Per Dominum
 
 [Lectio4]

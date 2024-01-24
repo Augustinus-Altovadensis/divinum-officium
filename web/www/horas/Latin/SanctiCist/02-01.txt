@@ -1,4 +1,12 @@
 @Sancti/02-01
+[Rank]
+S. Ignatii Episcopi et Martyris;;iij. Lect. et M.;;2;;vide C2
+
+[Ant 1]
+@Commune/C2
+
+[Ant 2]
+@Commune/C2
 
 [Responsory3]
 @Commune/C2:Responsory1

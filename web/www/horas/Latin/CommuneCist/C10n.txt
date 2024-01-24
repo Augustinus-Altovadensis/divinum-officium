@@ -1,7 +1,12 @@
 @Commune/C10
 
 [Capitulum Vespera]
-@CommuneM/C10
+@Commune/C10:Capitulum Vespera
+_
+R.br. Post partum Virgo, * Invioláta permansísti.
+R. Post partum Virgo, * Invioláta permansísti.
+V. Dei Génitrix intercéde pro nobis.
+R. Invioláta permansísti.
 
 [Ant 1]
 @Sancti/01-01:Ant 3

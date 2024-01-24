@@ -12,9 +12,7 @@ Festum Domini
 
 [Capitulum Vespera]
 !Mal 3:1
-v. Behold I send my angel, and he shall prepare the way before my face. And~
-presently the Lord, whom you seek, and the angel of the testament, whom you~
-desire, shall come to his temple.
+v. Hle, posílám svého Anděla, a on připraví cestu před mou tváří. A ihned přijde do svého svatého chrámu Panovník, kterého vy hledáte, a Anděl Smlouvy, kterého vy chcete
 $Deo gratias
 
 [Versum 1]
@@ -22,14 +20,12 @@ V. It was revealed unto Simeon by the Holy Ghost.
 R. That he should not see death before he had seen the Lord's Christ.
 
 [Ant 1]
-The old man held his Lord * in his arms in the form of a little child, but the~
-Child was the old man's King even that Child whom a virgin bore, and remained a~
-virgin as before the fruit of her womb, and the God of her soul.
+Stařec * chlapce nesl na rukou, chlapec byl ovšem starcovým vládcem;~
+jehož panna porodila, a po porodu zůstala pannou: a tomu, kterého porodila,~
+se poklonil.
 
 [Oratio]
-Almighty and everliving God, we humbly beseech thy Majesty, that as thy~
-Only-begotten Son was this day presented in the temple in substance of our flesh,~
-so we may be presented unto thee with pure and clean hearts.
+Všemohoucí věčný Bože, pokorně vzýváme tvou velebnost, abys tak, jako tvůj jednorozený Syn dnešního dne s podstatou našeho těla byl v chrámě tobě představen, i nás s očištěnou mysli sobě představil.
 $Per eumdem
 
 [Invit]
@@ -228,15 +224,15 @@ command us to be punished or rewarded.
 &teDeum
 
 [Ant Laudes]
-Simeon was just * and devout, waiting for the consolation of Israel, and the Holy Ghost was upon him.
-It was revealed unto Simeon * by the Holy Ghost that he should not see death before he had seen the Lord.
-Simeon took * the Child up in his arms, and gave thanks, and blessed the Lord.
-A light to lighten the Gentiles, and the glory of thy people Israel.
-They offered for Him * unto the Lord, a pair of turtle doves, or two young pigeons.
+Simeon, muž spravedlivý * a bohabojný, očekával vykoupení Israele, a Duch svatý byl v něm.
+Odpověď obdržel Simeon * od Ducha svatého, že nespatří smrt, dokud neuzří Pána.
+Simeon přijal * chlapce do náručí, vzdal díky a dobrořečil Pánu.
+Světlo * k osvícení Národů, a sláva tvého lidu, Israeli.
+Obětovali * za něj Hospodinu pár hrdliček, nebo dvě holoubata.
 
 [Ant 2]
-When His parents * brought in the Child Jesus, then took Simeon Him up in his~
-arms, and blessed God, and said: Now lettest Thou thy servant depart in peace.
+Když přivedli * chlapce Ježíše jeho rodiče, přijal jej Simeon do svého náručí,~
+a dobrořečil Bohu těmito slovy: Nyní můžeš, Pane, propustit svého služebníka v pokoji.
 
 [Lectio Prima]
 !Mal 3:4
@@ -251,13 +247,13 @@ stand to see him? For he is like a refining fire, and like the fuller's herb.
 $Deo gratias
 
 [Ant Vespera 3]
-Simeon was just * and devout, waiting for the consolation of Israel, and the Holy Ghost was upon him.;;109
-It was revealed unto Simeon * by the Holy Ghost that he should not see death before he had seen the Lord.;;112
-Simeon took * the Child up in his arms, and gave thanks, and blessed the Lord.;;121
-A light to lighten the Gentiles, and the glory of thy people Israel.;;126
-They offered for Him * unto the Lord, a pair of turtle doves, or two young pigeons.;;147
+Simeon, muž spravedlivý * a bohabojný, očekával vykoupení Israele, a Duch svatý byl v něm.;;109
+Odpověď obdržel Simeon * od Ducha svatého, že nespatří smrt, dokud neuzří Pána.;;112
+Simeon přijal * chlapce do náručí, vzdal díky a dobrořečil Pánu.;;121
+Světlo * k osvícení Národů, a sláva tvého lidu, Israeli.;;126
+Obětovali * za něj Hospodinu pár hrdliček, nebo dvě holoubata.;;147
 
 [Ant 3]
-This day did the Blessed Virgin Mary * present the Child Jesus in the temple;~
-and Simeon, filled with the Holy Ghost, took Him up in his arms, and blessed God~
-for ever and ever.
+Dnes * blahoslavená Panna Maria obětovala chlapce Ježíše v chrámě,~
+a Simeon, naplněný Duchem svatým, jej přijal do svého náručí,~
+a dobrořečil Bohu navěky.
