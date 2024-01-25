@@ -1,1 +1,15 @@
-@Sancti/02-14
+[Rank]
+B. Conradi, Eremitæ et Confessoris;;iij. Lect. et M.;;2;;vide C5
+
+[Rule]
+vide C5;
+Hac die
+
+[Oratio]
+Deus, qui beátum Conrádum, Confessórem tuum eremíque cultórem, cœléstis pátriæ civem effícere voluísti: concéde propítius; ut ejus festivitátem venerántes, calcátis terrenórum afféctibus, supérnis desidériis accendámur.
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio S. Valentini Presbyteri et Martyris
+@CommuneCist/C2:Oratio2:s/N./Valentini/ s/intercessióne ejus in tui nóminis amóre roborémur/a cunctis malis imminéntibus, ejus intercessióne, liberémur/
+

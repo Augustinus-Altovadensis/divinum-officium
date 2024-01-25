@@ -7,6 +7,9 @@ Poznal jej Hospodin * ve svých požehnáních, a nalezl molist v očích Hospod
 Spravedlivého vedl Hospodin * po přímých cestách, a ukázal mu království Boží, a dal mu poznat to, co znají Svatí: poctil ho útrapami, a jeho dílo dokončil.
 Služebníku dobrý * a věrný, protože jsi byl věrný nad málem, ustanovím tě nad mnohými věcmi, vejdi to radosti svého Pána.
 
+[Hymnus Vespera Hac die]
+@Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
+
 [Versum 1]
 V. Zamiloval si jej Hospodin a ozdobil jej.
 R. Štolu slávy mu oblékl.

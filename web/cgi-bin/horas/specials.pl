@@ -1861,6 +1861,7 @@ sub hymnusmajor {
   if ($hora =~ /Vespera/i && $vespera == 3) {
     ($hymn, $cr) = getproprium("$name 3", $lang, $seasonalflag, 1);
   }
+  if ($version =~ /Cistercien/i && $hora =~ /Vespera/i && $winner{Rule} =~ /C[45]/ && $winner{Rule} =~ /Hac die/i ) { $name = "Hymnus Vespera Hac die"; }
   if (!$hymn) { ($hymn, $cr) = getproprium("$name", $lang, $seasonalflag, 1); }
   if (!$hymn) {
     $name = major_getname();
@@ -1874,7 +1875,7 @@ sub hymnusmajor {
     { # Cistercian rite has only one hymn for ferial Lauds and Vespers during the week
     if ( $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
     if ( $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
-    if ( ( $dayname[0] =~ /Epi/ || ( $month >= 11 && $month <= 3 )) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i && $dayname[0] !~ /Adv/i ) { $name .= "2" } 
+    if ( ( $dayname[0] =~ /Epi/ || ( $month >= 11 || $month <= 3 )) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i && $dayname[0] !~ /Adv/i ) { $name .= "2" } 
     } # actually two for each, switching based on time of the year
   ($hymn, $name);
 }

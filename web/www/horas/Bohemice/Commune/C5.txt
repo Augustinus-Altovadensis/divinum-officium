@@ -192,7 +192,7 @@ Bože, jenž nás oblažuješ výroční slavností svatého N. svého Vyznavač
 $Per Dominum.
 
 [Oratio1]
-Přímluva svatého N., opata, prosíme, Pane, nechť nás doporoučí, abychom to, čeho svými zásluhami nejsme schopni, s jeho pomocí dosáhli.
+Přímluva svatého N., Opata, prosíme, Pane, nechť nás doporoučí, abychom toho, čeho svými zásluhami nejsme schopni, s jeho pomocí dosáhli.
 $Per Dominum
 
 [Lectio Prima]
@@ -200,12 +200,12 @@ $Per Dominum
 v. She conducted the just, when he fled from his brother's wrath, through the right ways, and showed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours.
 
 [Responsory Tertia]
-R.br. The Lord loved him, * and beautified him.
-R. The Lord loved him, * and beautified him.
-V. He clothed him with a robe of glory.
-R. And beautified him.
+R.br. Pán jej miloval, * a ozdobil jej.
+R. Pán jej miloval, * a ozdobil jej.
+V. Štolou slávy jej oděl.
+R. A ozdobil jej.
 &Gloria
-R. The Lord loved him, * and beautified him.
+R. Pán jej miloval, * a ozdobil jej.
 _
 V. The mouth of the righteous speaketh wisdom.
 R. And his tongue talketh judgment.
@@ -216,12 +216,12 @@ v. The righteous will give his heart to resort early to the Lord that made him, 
 $Deo gratias
 
 [Responsory Sexta]
-R.br. The mouth of the righteous * speaketh wisdom.
-R. The mouth of the righteous * speaketh wisdom.
-V. And his tongue talketh judgment.
-R. The righteous speaketh wisdom.
+R.br. Ústa spravedlivého * rozmlouvají o moudrosti.
+R. Ústa spravedlivého * rozmlouvají o moudrosti.
+V. A jeho jazyk mluví věci spravedlivé.
+R. Rozmlouvají o moudrosti.
 &Gloria
-R. The mouth of the righteous * speaketh wisdom.
+R. Ústa spravedlivého * rozmlouvají o moudrosti.
 _
 V. The law of his God is in his heart.
 R. None of his steps shall slide.

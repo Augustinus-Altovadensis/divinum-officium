@@ -244,7 +244,11 @@ R. Proto ti Bůh požehnal navěky.
 The kingdom of heaven is like unto a merchantman * seeking goodly pearls, who, when he had found one pearl of great price, went and sold all that he had, and bought it.
 
 [Oratio]
-Bože, jenž jsi mezi ostatními zázraky své moci také slabému pohlaví propůjčil vítězství mučedníků, popřej milostivě, abychom, když slavíme narozeniny pro nebe svaté N., tvé Panny a Mučednice, podle jejího příkladu k tobě spěli. 
+Bože, jenž jsi mezi ostatními zázraky své moci také slabému pohlaví propůjčil vítězství Mučedníků, popřej milostivě, abychom, když slavíme narozeniny pro nebe svaté N., tvé Panny a Mučednice, podle jejího příkladu k tobě spěli. 
+$Per Dominum
+
+[Oratio1]
+Prosíme tě, Pane, nechť nám svatá N., Panna a Mučednice, vyžádá odpuštění, neboť tobě byla vždycky milá pro zásluhu čistoty i vyznání tvé moci.
 $Per Dominum
 
 [Lectio Prima]

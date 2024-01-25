@@ -3,13 +3,19 @@
 [Rank]
 S. Agathae Virginis et Martyris;;xij. Lect. et M.;;3;;ex C6
 
-[Ant Vespera 3]
-@Sancti/02-05:Ant Vespera:s/\./_/gs s/_/.;;109/ s/_/.;;111/ s/_/.;;112/ s/_/.;;126/ s/_//
+[Ant Vespera]
+@Sancti/02-05:Ant Vespera:s/\./_/gs s/_/.;;109/ s/_/.;;112/ s/_/.;;121/ s/_/.;;126/ s/_//
 
 [Capitulum Vespera]
 @Sancti/02-05:Capitulum Vespera
 _
-@Commune/C6:Responsory Sexta:1-6
+@Commune/C6:Responsory Tertia:1-6
+
+[Ant 1]
+Mentem sanctam, * spontáneum honórem Deo, et pátriæ liberatiónem.
+
+[Ant 3]
+@Sancti/02-05:Ant 2
 
 [Ant Matutinum]
 Ingénua sum, * et ex spectábili génere, ut omnis parentéla mea testátur.;;1
@@ -44,5 +50,5 @@ R. Impie, crudélis, et dire tyránne, non es confúsus amputáre in fémina, qu
 [Capitulum Laudes]
 @Sancti/02-05:Capitulum Vespera
 _
-@Commune/C6:Responsory Tertia:1-6
+@Commune/C6:Responsory Sexta:1-6
 

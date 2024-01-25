@@ -1,0 +1,5 @@
+[Rank]
+bl. Bonifáce, Biskupa a Vyznavače;;iij. Lect. et M.;;2;;vide C4
+
+[Oratio]
+@Commune/C1:Oratio:s/N\./Bonifác/ s/Apoštol/tvůj Biskup a Vyznavač/ s/zítra/dnes/

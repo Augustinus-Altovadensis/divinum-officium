@@ -1,0 +1,13 @@
+[Rank]
+Bl. Raymunda, Opata;;iij. Lect. et M.;;2;;vide C5
+
+[Hymnus Vespera]
+@Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
+
+[Oratio] 
+Bože, jenž jsi blahoslavenému Raymundu, Opatovi, dal bojovati tvé bitvy, a přemáhat nepřátele víry; uděl, ať posíleni jeho přímluvou jsme osvobozeni od nepřátel mysli i těla.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Doroty, Panny a Mučednice
+@CommuneCist/C6:Oratio1:s/N./Doróthea/

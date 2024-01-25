@@ -2,11 +2,11 @@
 S. Agathae Virginis Martyris;;Duplex;;3;;vide C6b
 
 [Ant Vespera]
-Who art thou * who comest to heal my wounds? I am an Apostle of Christ, have no fear of me, my daughter.
-I have used no earthly medicine * for my body, but I have for a Master Christ Jesus, by Whose Word alone all things were made.
-O my Lord Jesus Christ, I thank thee, * because Thou hast been mindful of me, and hast sent unto me thine Apostle, to heal my wounds.
-I bless thee, O Father of my Lord Jesus Christ, because by thine Apostle Thou hast put new paps on my breasts.
-Upon Him Who hath vouchsafed * to heal me of all my wounds, and to put new paps on my breasts, upon Him will I call, even upon the Living God.
+Kdy jsi ty, * který jsi přišel uzdravit mé rány? Jsem Apoštol Kristův; nemusíš mít obavy, dcero.
+Tělesnému lékařství * jsem své tělo nikdy nevystavila, ale mám Pána Ježíše Krista, který pouhým slovem všechno obnoví.
+Díky tobě vzdávám, Pane, * neboť jsi na mě pamatoval, a poslal jsi ke mně svého Apoštola, aby vyléčil mé rány.
+Dobrořečím ti, * Otče mého Pána Ježíše Krista, neboť skrze svého Apoštola jsi navrátil můj prs na mou hruď.
+Protože mě ráčil * uzdravit od každé rány, a můj prs navrátit na mou hruď, vzývám jej, živého Boha.
 
 [Ant 1]
 The blessed Agatha * stood in the midst of the prison, and stretched forth her~
@@ -187,16 +187,12 @@ increase the desire of freely choosing it.
 &teDeum
 
 [Ant 2]
-The heathen multitude made haste * and came to the grave of the virgin, and took~
-therefrom her veil wherewith to stem the fire; that the Lord might show Himself~
-to be a Deliverer from the burning, for the sake of Agatha, His blessed Martyr.
+Zástup pohanů * se utíkal k hrobu Panny a vzali její roušku proti ohni;~
+aby Pán potvrdil, že je osvobodí od nebezpečí požáru pro zásluhy~
+svaté Agáty, své Mučednice.
 
 [Oratio]
-O God, Who, amidst the wondrous work of thy Divine power, dost make even weak~
-women to be more than conquerors in the uplifting of their testimony, mercifully~
-grant unto all us who do keep the Birthday of thy blessed handmaiden and~
-witness Agatha, grace to follow her steps to thee.
-$Per Dominum
+@Commune/C6:Oratio:s/N./Agáty/
 
 [Lectio Prima]
 !Sir 51:8; 51:12

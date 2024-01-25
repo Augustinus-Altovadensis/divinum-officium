@@ -13,6 +13,9 @@ Euge serve bone, * in módico fidélis, intra in gáudium Dómini tui.
 Fidélis servus, et prudens, * quem constítuit Dóminus super famíliam suam.
 Ecce vere * Israëlita, in quo dolus non est.
 
+[Hymnus Vespera Hac die]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
 [Versum 1]
 @Commune/C4:Versum 2
 

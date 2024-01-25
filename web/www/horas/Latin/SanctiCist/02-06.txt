@@ -1,0 +1,13 @@
+[Rank]
+B. Raymundi, Abbatis;;iij. Lect. et M.;;2;;vide C5
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[Oratio]
+Deus, qui beáto Raymúndo, Abbáti, præliári prælia tua, et fídei inimícos superáre dedísti: concéde, ut ejus nos intercessióne muníti, ab hóstibus mentis et córporis liberémur.
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio S. Dorotheæ, Virginis et Martyris
+@CommuneCist/C6:Oratio1:s/N./Doróthea/

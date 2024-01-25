@@ -14,6 +14,9 @@ $Deo gratias
 _
 @Commune/C4:Responsory Sexta:1-6
 
+[Hymnus Vespera Hac die]
+@Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
+
 [Versum 1 alt]
 Ejhle kněz veliký.
 Jenž za svých dnů zalíbil se Bohu a byl shledán spravedlivým.
