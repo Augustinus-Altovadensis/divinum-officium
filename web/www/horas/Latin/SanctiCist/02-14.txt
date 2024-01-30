@@ -2,7 +2,7 @@
 B. Conradi, Eremitæ et Confessoris;;iij. Lect. et M.;;2;;vide C5
 
 [Rule]
-vide C5;
+vide C5;mtv
 Hac die
 
 [Oratio]

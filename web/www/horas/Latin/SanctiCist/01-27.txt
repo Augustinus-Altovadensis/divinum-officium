@@ -3,6 +3,9 @@
 [Rank]
 S. Joannis Chrysostomi Episcopi Confessoris et Ecclesiæ Doctoris;;Duplex;;2;;vide C4
 
+[Rule]
+vide C4;mtv
+
 [Responsory3]
 @Commune/C4a:Responsory8
 

@@ -4,11 +4,8 @@
 S. Francisci Salesii Episcopi Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;2;;vide C4
 
 [Rule]
-vide C4a;
+vide C4a;mtv
 3 lectiones
-
-[Hymnus Vespera]
-@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
 
 [Ant 1]
 @Commune/C4a:Ant 1:s/N\./Francisce/

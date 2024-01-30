@@ -1,8 +1,8 @@
 [Rank]
 B. Amedei, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
 
-[Hymnus Vespera]
-@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+[Rule]
+vide C4;mtv
 
 [Oratio]
 Excita, Dómine, intercedénte beáto Amedéo, Pontífice et Confessóre, tuórum corda fidélium: ut sacris inténta doctrinis, et intélligant quod sequátur; et sequéndo fidéliter apprehéndant.

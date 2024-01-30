@@ -10,6 +10,13 @@ Služebníku dobrý * a věrný, protože jsi byl věrný nad málem, ustanovím
 [Hymnus Vespera Hac die]
 @Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
 
+[Hymnus1M Vespera]
+@:Hymnus Vespera Hac die
+
+[Hymnus1C Vespera]
+@:Hymnus Vespera Hac die
+
+
 [Versum 1]
 V. Zamiloval si jej Hospodin a ozdobil jej.
 R. Štolu slávy mu oblékl.

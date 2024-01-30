@@ -17,6 +17,12 @@ _
 [Hymnus Vespera Hac die]
 @Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
 
+[Hymnus1M Vespera]
+@:Hymnus Vespera Hac die
+
+[Hymnus1C Vespera]
+@:Hymnus Vespera Hac die
+
 [Versum 1 alt]
 Ejhle kněz veliký.
 Jenž za svých dnů zalíbil se Bohu a byl shledán spravedlivým.

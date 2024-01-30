@@ -14,6 +14,9 @@ _
 [Hymnus Vespera Hac die]
 @Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
 
+[Hymnus1C Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
 [Versum 1]
 V. Amávit eum Dóminus, et ornávit eum.
 R. Stolam glóriæ induit eum.
