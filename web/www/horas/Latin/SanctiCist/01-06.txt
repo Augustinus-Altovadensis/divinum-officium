@@ -2,6 +2,7 @@
 
 [Rule]
 12 lectiones
+Antiphonas horas
 Psalmi Dominica
 Doxology=Epi
 
