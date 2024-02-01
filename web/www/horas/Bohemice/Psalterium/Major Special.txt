@@ -1548,40 +1548,40 @@ R. Show us, O Lord, * thy mercy;
 [QuadM Laudes]
 @:Quad Laudes
 _
-R.br. For he hath delivered me * from the snare of the hunters.
-R. For he hath delivered me * from the snare of the hunters.
-V. And from the sharp word.
-R. from the snare of the hunters.
+R.br. On sám mě vysvobodil * z léčky lovců.
+R. On sám mě vysvobodil * z léčky lovců.
+V. I od tvrdého slova.
+R. Z léčky lovců.
 &Gloria
-R. For he hath delivered me * from the snare of the hunters.
+R. On sám mě vysvobodil * z léčky lovců.
 
 [QuadM Vespera]
 @:Quad Vespera
 _
-R.br He will overshadow * thee with his shoulders.
-R. He will overshadow * thee with his shoulders.
-V. And under his wings thou shalt trust.
-R. Thee with his shoulders.
+R.br. Svými rameny * tě zastíní. 
+R. Svými rameny * tě zastíní.
+V. A pod jeho perutěmi nalezneš naději.
+R. Tě zastíní.
 &Gloria
-R. He will overshadow * thee with his shoulders.
+R. Svými rameny * tě zastíní.
 
 [Quad5M Laudes]
 @:Quad5 Laudes
 _
-R.br. Deliver, * O God, my soul from the sword.
-R. Deliver, * O God, my soul from the sword.
-V. My only one from the hand of the dog.
-R. O God, my soul from the sword.
-R. Deliver, * O God, my soul from the sword.
+R.br. Vysvoboď od meče, * Bože, mou duši.
+R. Vysvoboď od meče, * Bože, mou duši.
+V. A z moci psů můj život.
+R. Bože, mou duši.
+R. Vysvoboď od meče, * Bože, mou duši.
 
 [Quad5M Vespera]
 @:Quad5 Vespera
 _
-R.br. From the lion's mouth, * O Lord, Save me.
-R. From the lion's mouth, * O Lord, Save me.
-V. And my lowness from the horns of the unicorns. 
-R. O Lord. save me.
-R. From the lion's mouth, * O Lord, Save me.
+R.br. Ze lví tlamy * vysvoboď mě, Pane.
+R. Ze lví tlamy * vysvoboď mě, Pane.
+V. A z rohů jednorožců mou pokoru.
+R. Vysvoboď mě, Pane.
+R. Ze lví tlamy * vysvoboď mě, Pane.
 
 [AdvC Laudes]
 !Phil 3, 20-21.

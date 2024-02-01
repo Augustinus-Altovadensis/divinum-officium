@@ -3,6 +3,9 @@
 [Rule]
 12 lectiones
 
+[Versum 2]
+@Psalterium/Major Special:Quad VersumC 2
+
 [Lectio3]
 @Tempora/Quad1-0:Lectio3:s/-9/-6/ s/7 .*//s
 
@@ -80,4 +83,16 @@ _
 @Tempora/Quad1-0:Capitulum Vespera
 _
 @Psalterium/Major Special:QuadM Vespera:3-8
+
+[Ant Tertia]
+In spíritu humilitátis, * et in ánimo contríto suscipiámur, Dómine, a te, et sic fiat sacrifícium nostrum, ut a te suscupiátur hódie, et pláceat tibi, Dómine Deus.
+
+[Ant Sexta]
+Dóminum * Deum tuum adorábis, et illi soli sérvies.
+
+[Ant Nona]
+Vade Sátana, * non tentábis Dóminum Deum tuum.
+
+[Ant 3]
+Relíquit eum tentátor, * et accessérunt Angeli, et ministrábant ei.
 

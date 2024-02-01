@@ -8,7 +8,7 @@ v. Bratři, buďte střízliví a bděte, neboť váš protivník, ďábel,~
 obchází jako lev řvoucí a hledá, koho by pohltil.~
 Jemu se braňte, jsouce silní ve víře!
 $Tu autem
-
+_
 ℣. Naše pomoc ve jménu Páně.
 ℟. Který stvořil nebe a zemi.
 _
@@ -22,22 +22,7 @@ $Deus in adjutorium Cist Compl
 
 &psalm(133)
 
-#Hymnus {:H-Completorium:}
-v. Na konci dne tě prosíme,
-ty, jenž vše tvoříš, laskavý,
-ať i dnes, jako obvykle,
-nás tvoje ruka ochrání.
-_
-Ať daleko sny ustoupí
-i hrozné noci přeludy,
-když nepřítele zaženeš,
-aby těla neposkvrnil.
-_
-* Dopřej nám, oč tě žádáme,
-Bože, Otče všemohoucí,
-jenž s Kristem i Duchem svatým
-vládneš vždy, na věčné věky.  
-Amen.
+#Hymnus
 
 #Capitulum Responsory Versus
 !Jer 14:9

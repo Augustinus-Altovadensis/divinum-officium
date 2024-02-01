@@ -210,7 +210,7 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /(Tertia|Sexta|Nona)/i) {
       my %capit = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
-      $name .= 'M' if ($version =~ /monastic/i);
+      $name .= 'M' if ($version =~ /monastic|Cistercien/i);
       #$name .= 'C' if ($version =~ /Cistercien/i); Preparation for minor hours
       my $capit = $capit{$name};
       my $resp = '';
@@ -227,7 +227,7 @@ sub specials {
       $comment = ($name =~ /(Dominica|Feria)/i) ? 5 : 1;
       setbuild('Psalterium/Minor Special', $name, 'Capitulum ord');
 
-      #look for special from prorium the tempore of sancti
+      #look for special from proprium the tempore of sancti
       my ($w, $c) = getproprium("Capitulum $hora", $lang, $seasonalflag, 1);
 
       if ($w !~ /\_\nR\.br/i) {
@@ -272,7 +272,7 @@ sub specials {
 
       if ($version =~ /Cistercien/) { $capit =~ s/&Gloria.*//s; }
       
-      if ($version =~ /monastic/i) {
+      if ($version =~ /monastic|Cistercien/i) {
         (@capit) = split(/\n/, $capit);
         postprocess_short_resp(@capit, $lang);
         $capit = join("\n", @capit);
@@ -840,7 +840,7 @@ sub psalmi_minor {
 
   # The rules for determining the psalmody at Prime in the Tridentine
   # rubrics are somewhat simpler.
-  unless ($version =~ /Trident|monastic/i) {
+  unless ($version =~ /Trident|monastic|Cistercien/i) {
 
     #prima psalm set for feasts
     if ($hora =~ /prima/i && $feastflag) {

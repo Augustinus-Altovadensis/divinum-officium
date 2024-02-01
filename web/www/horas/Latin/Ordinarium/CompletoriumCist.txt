@@ -6,7 +6,7 @@ Benedictio. Noctem quiétam et finem perféctum concédat nobis Dóminus omnípo
 !1 Pet 5:8-9
 v. Fratres: Sóbrii estóte, et vigiláte: quia adversárius vester diábolus tamquam leo rúgiens círcuit, quærens quem dévoret: cui resístite fortes in fide.
 $Tu autem
-
+_
 ℣. Adjutórium nóstrum in nómine Dómini.
 ℟. Qui fecit cælum et terram.
 _
@@ -20,22 +20,7 @@ $Deus in adjutorium Cist Compl
 
 &psalm(133)
 
-#Hymnus {:H-Completorium:}
-v. Te lucis ante términum,
-Rerum Creátor, póscimus,
-Ut sólita cleméntia,
-Sis præsul ad custódiam.
-_
-Procul recédant sómnia,
-Et nóctium phantásmata:
-Hostémque nóstrum cómprime,
-Ne polluántur córpora.
-_
-* Præsta, Pater omnípotens,
-Per Jesum Christum Dóminum,
-Qui tecum in perpétuum
-Regnat cum Sancto Spíritu.
-Amen.
+#Hymnus
 
 #Capitulum Responsorium Versus
 !Jer 14:9
