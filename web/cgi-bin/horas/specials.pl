@@ -928,7 +928,7 @@ sub psalmi_major {
                || (($dayname[0] =~ /Pent/) && ($dayname[1] =~ /Vigil/)))
       {
         my @canticles = split("\n", $psalmi{'DaycF Canticles'});
-        if ($dayofweek == 6) { $psalmi[1] .= '(1-7)'; $psalmi[2] = ';;142(8-12)'; }
+        #if ($dayofweek == 6) { $psalmi[1] .= '(1-7)'; $psalmi[2] = ';;142(8-12)'; }
         $psalmi[3] = $canticles[$dayofweek];
       }
     }
