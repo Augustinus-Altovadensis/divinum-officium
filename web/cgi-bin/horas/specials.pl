@@ -210,8 +210,8 @@ sub specials {
     if ($item =~ /Capitulum/i && $hora =~ /(Tertia|Sexta|Nona)/i) {
       my %capit = %{setupstring($lang, 'Psalterium/Minor Special.txt')};
       my $name = minor_getname();
-      $name .= 'M' if ($version =~ /monastic|Cistercien/i);
-      #$name .= 'C' if ($version =~ /Cistercien/i); Preparation for minor hours
+      $name .= 'M' if ($version =~ /monastic/i);
+      $name .= 'C' if ($version =~ /Cistercien/i); 
       my $capit = $capit{$name};
       my $resp = '';
 
@@ -1875,7 +1875,7 @@ sub hymnusmajor {
     { # Cistercian rite has only one hymn for ferial Lauds and Vespers during the week
     if ( $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
     if ( $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
-    if ( ( $dayname[0] =~ /Epi/ || ( $month >= 11 || $month <= 3 )) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i && $dayname[0] !~ /Adv|Quad/i ) { $name .= "2" } 
+    if ( ( $dayname[0] =~ /Epi/ || ( $month >= 11 || $month <= 3 )) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i && $dayname[0] !~ /Adv|Quad|Pasc/i ) { $name .= "2" } 
     } # actually two for each, switching based on time of the year
   ($hymn, $name);
 }

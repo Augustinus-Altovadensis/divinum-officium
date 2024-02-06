@@ -532,3 +532,109 @@ Amen.
 [HymnusM Prima]
 @:Hymnus Prima:s/Nunc et per omne sǽculum/Et nunc et in perpétuum/
 
+# Cistercian part
+
+[Dominica TertiaC]
+@:Dominica Tertia:s/_.*//s
+_
+@:Dominica Tertia:s/.*_.//s
+
+[Dominica SextaC]
+@:Dominica Sexta:s/_.*//s
+_
+@:Dominica Sexta:s/.*_.//s
+
+[Dominica NonaC]
+@:Dominica Nona:s/_.*//s
+_
+@:Dominica Nona:s/.*_.//s
+
+[Feria TertiaC]
+@:Feria Tertia:s/_.*//s
+_
+@:Feria Tertia:s/.*_.//s
+
+[Feria SextaC]
+@:Dominica SextaM
+
+[Feria NonaC]
+@:Dominica NonaM
+
+[Adv TertiaC]
+@:Adv Tertia
+
+[Responsory Adv TertiaC]
+V. Veni ad liberándum nos, Dómine, Deus virtútum.
+R. Osténde fáciem tuam, et salvi érimus.
+
+[Adv SextaC]
+@:Adv Sexta
+
+[Responsory Adv SextaC]
+V. Osténde nobis, Dómine, misericórdiam tuam.
+R. Et salutáre tuum da nobis.
+
+[Adv NonaC]
+@:Adv Nona
+
+[Responsory Adv NonaC]
+V. Super te, Jerúsalem, oriétur Dóminus.
+R. Et glória ejus in te vidébitur.
+
+[Quad TertiaM]
+@:Quad Tertia
+
+[Responsory Quad TertiaC]
+V. Dicet Dómino: Suscéptor meus es tu, et refúgium meum.
+R. Deus meus, sperábo in eum.
+
+[Quad SextaC]
+@:Quad Sexta
+
+[Responsory Quad SextaC]
+@:Responsory Quad TertiaM
+
+[Quad NonaC]
+@:Quad Nona
+
+[Responsory Quad NonaC]
+@:Responsory Quad Tertia:s/.*_.//s
+
+[Quad5 TertiaC]
+@:Quad5 Tertia
+
+[Responsory Quad5 TertiaC]
+V. Divisérunt sibi vestiménta mea.
+R. Et super vestem meam misérunt sortem.
+
+[Quad5 SextaC]
+@:Quad5 Sexta
+
+[Responsory Quad5 SextaC]
+V. Insurrexérunt in me testes iníqui.
+R. Et mentíta est iníquitas sibi.
+
+[Quad5 NonaC]
+@:Quad5 Nona
+
+[Responsory Quad5 NonaC]
+@:Responsory Quad5 Sexta:s/.*_.//s
+
+[Pasch TertiaC]
+@:Pasch Tertia
+
+[Responsory Pasch TertiaC]
+V. Surréxit Dóminus de sepúlcro, allelúja.
+R. Qui pro nobis pepéndit in ligno, allelúja.
+
+[Pasch SextaC]
+@:Pasch Sexta
+
+[Responsory Pasch SextaC]
+@:Responsory Pasch Tertia:s/.*_.//s
+
+[Pasch NonaC]
+@:Pasch Nona
+
+[Responsory Pasch NonaC]
+@:Responsory Pasch Sexta:s/.*_.//s

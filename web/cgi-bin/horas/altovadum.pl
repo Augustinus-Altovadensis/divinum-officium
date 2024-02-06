@@ -197,7 +197,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Winterberg/Vimperk/gi;
 	$line =~ s/de Novo Castro/z Jindřichova Hradce/gi;
 	$line =~ s/Lzin/Lžín/gi;
-	$line =~ s/Cerhonic/Cerhonice/gi;
+	$line =~ s/Cerhonic./Cerhonice/gi;
 	$line =~ s/Litomerzic/Litoměřice/gi;
 	$line =~ s/Bilin/Bílina/gi;
 	$line =~ s/Myliczyn/Miličín/gi;
@@ -479,6 +479,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Pauli/Pavla/ig;
 	$line =~ s/Jacobi/Jakuba/ig;
 	$line =~ s/Lauren[t|c]ius/Vavřinec/ig;
+	$line =~ s/Carolus/Karel/ig;
+	$line =~ s/Jacobus/Jakub/ig;
 
 
 	$line =~ s/canoniae/kanonie/ig;

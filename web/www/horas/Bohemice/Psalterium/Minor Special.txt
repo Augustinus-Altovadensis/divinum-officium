@@ -142,15 +142,15 @@ v. Be converted to me with all your heart, in fasting, and in weeping, and in mo
 $Deo gratias
 
 [Responsory Quad Tertia]
-R.br. For he hath delivered me * from the snare of the hunters.
-R. For he hath delivered me * from the snare of the hunters.
-V. And from the sharp word.
-R. from the snare of the hunters.
+R.br. On mě vysvobodil * z léčky lovců.
+R. On mě vysvobodil * z léčky lovců.
+V. A od přísného slova.
+R. Z léčky lovců.
 &Gloria
-R. For he hath delivered me * from the snare of the hunters.
+R. On mě vysvobodil * z léčky lovců.
 _
-V. He will overshadow thee with his shoulders.
-R. And under his wings thou shalt trust.
+V. Svými rameny tě zastíní.
+R. A pod jeho perutěmi nalezneš naději.
 
 [Quad Sexta]
 !Isa 55:7
@@ -158,15 +158,15 @@ v. Let the wicked forsake his way, and the unjust man his thoughts, and let him 
 $Deo gratias
 
 [Responsory Quad Sexta]
-R.br. He will overshadow * thee with his shoulders.
-R. He will overshadow * thee with his shoulders.
-V. And under his wings thou shalt trust.
-R. Thee with his shoulders.
+R.br. Svými rameny * tě zastíní.
+R. Svými rameny * tě zastíní.
+V. pod jeho perutěmi nalezneš naději.
+R. Te zastíní.
 &Gloria
-R. He will overshadow * thee with his shoulders.
+R. Svými rameny * tě zastíní.
 _
-V. His truth shall compass thee with a shield.
-R. Thou shalt not be afraid of the terror of the night.
+V. Jako štít tě obklopí jeho pravda.
+R. Nebudeš se bát zlých snů.
 
 [Quad Nona]
 !Isa 58:7
@@ -213,8 +213,8 @@ R. O Lord, save me.
 &Gloria
 R. From the lion's mouth, * O Lord, save me.
 _
-V. Take not away my soul, O God, with the wicked.
-R. Nor my life with bloody men.
+V. Nezatracuj spolu s bezbožníky, Bože, mou duši.
+R. Ani s muži krvelačnými můj život.
 
 [Quad5 Nona]
 !Jer 18:20
@@ -293,8 +293,8 @@ V. The Lord shall arise upon thee, Jerusalem.
 R. And his glory shall be seen upon thee. 
 
 [Responsory Quad TertiaM]
-V. For he hath delivered me from the snare of the hunters.
-R. And from the sharp word.
+V. On sám mě vysvobodil z léčky lovců.
+R. I od přísného slova. 
 
 [Responsory Quad5 TertiaM]
 V. Deliver, O God, my soul from the sword.
@@ -436,3 +436,33 @@ Bože, Otče všemohoucí,
 jenž s Kristem i Duchem svatým
 vládneš vždy, na věčné věky.  
 Amen.
+
+# Cistercian part
+
+[Responsory Adv TertiaC]
+V. Come to my rescue, O God, Lord of hosts.
+R. Show us thy face, and we shall be saved. 
+
+[Responsory Adv SextaC]
+V. Show us, O Lord, thy mercy.
+R. And grant us thy salvation.
+
+[Responsory Adv NonaC]
+V. The Lord shall arise upon thee, Jerusalem.
+R. And his glory shall be seen upon thee. 
+
+[Responsory Quad TertiaC]
+V. Říká Pánu: Ty mě vždy přijmeš a jsi mé útočiště.
+R. Jsi můj Bůh, v nějž doufám.
+
+[Responsory Quad5 TertiaC]
+V. Rozdělili sobě můj šat.
+R. A o můj oděv metali los.
+
+[Responsory Quad5 SextaC]
+V. Povstali proti mě falešní svědkové.
+R. A nepravost obelhala sama sebe.
+
+[Responsory Pasch TertiaC]
+V. The Lord is risen from the sepulchre, alleluia.
+R. Who for us was hanged on the tree, alleluia.
