@@ -855,6 +855,14 @@ sub psalmi_minor {
       setbuild2("First psalms #99 and  #92");
     }
   }
+
+  # Add punctuation at the end of Ant. incipit for minor Hours (Cistercian)
+  if ($version =~ /Cistercien/i) {
+      $ant1 =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
+      $ant1 =~ s/[\,|\.|\;|\:]\./\./; #  (looks better) Trim all the double punctuation.
+      $ant1 =~ s/\!\./\!/; #  ( !. -> ! ).
+    }
+
   push(@s, $ant1);
 
   foreach $p (@psalm) {
@@ -1130,6 +1138,12 @@ sub antetpsalm {
   if ($ant1) { push(@s, "Ant. $ant1"); }
   my $p = $line[1];
   my @p = split(';', $p);
+
+  if ($version =~ /Cistercien/i) {
+      $ant1 =~ s/\s+$// ; $ant1 .= "." ; # Trim all the spaces, add the dot to verse incipit 
+      $ant1 =~ s/[\,|\.|\;|\:]\./\./; #  (looks better) Trim all the double punctuation.
+      $ant1 =~ s/\!\./\!/; #  ( !. -> ! ).
+      }
 
   for (my $i = 0; $i < @p; $i++) {
     if ($expand =~ /(psalms|all)/i && $i > 0) { push(@s, "\_"); }
@@ -1875,7 +1889,7 @@ sub hymnusmajor {
     { # Cistercian rite has only one hymn for ferial Lauds and Vespers during the week
     if ( $name =~ /Day[0-6] Laudes/i ) { $name =~ s/Day[0-6]/Day0/i }
     if ( $name =~ /Day[0-5] Vespera/i ) { $name =~ s/Day[0-5]/Day0/i }
-    if ( ( $dayname[0] =~ /Epi/ || ( $month >= 11 || $month <= 3 )) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i && $dayname[0] !~ /Adv|Quad|Pasc/i ) { $name .= "2" } 
+    if ( ( $dayname[0] =~ /Epi/ || ( $month >= 11 || $month <= 3 )) && $name !~ /(Laudes2|Vespera2)/i && $name !~ /Day6 Vespera/i && $dayname[0] !~ /Adv|Quad[1-6]|Pasc/i ) { $name .= "2" } 
     } # actually two for each, switching based on time of the year
   ($hymn, $name);
 }
@@ -1905,6 +1919,15 @@ sub getanthoras {
     : ($hora =~ /tertia/i) ? 1
     : ($hora =~ /Sexta/i) ? 2
     : 4;
+  
+  if ($version == /Cistercien/i)
+    {
+       $ind =
+      ($hora =~ /prima/i) ? 1
+    : ($hora =~ /tertia/i) ? 2
+    : ($hora =~ /Sexta/i) ? 3
+    : 4;
+      }
   if (@ant > 3) { $ant = $ant[$ind]; }
   return ($ant, $c);
 }

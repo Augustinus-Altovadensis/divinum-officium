@@ -9,10 +9,54 @@ Antiphonas horas
 12 lectiones
 Doxology=Asc
 
+[Ant Vespera]
+Vado * paráre vobis locum, et íterum véniam ad vos, allelúia, et gaudébit cor vestrum, allelúia, allelúia.
+Non vos relínquam * órphanos, allelúia: vado et vénio ad vos, allelúia, et gaudébit cor vestrum, allelúia.
+Pacem meam do vobis, * allelúia: pacem relínquo vobis, allelúia.
+Viri Galilǽi, * quid aspícitis in cœlum? hic Jesus qui assúmptus est a vobis in cœlum, sic véniet, allelúia.
+Sic véniet * quemadmodum vidístis eum eúntem in cœlum, allelúia.
+
 [Capitulum Vespera]
 @Tempora/Pasc5-4
 _
-@Tempora/Pasc5-4:Responsory Sexta:1-6
+Responsorium. Omnis pulchritúdo Dómini exaltáta est super sídera: spécies ejus in núbibus cœli: * Et nomen ejus in ætérnum pérmanet, allelúia.
+V. A summo cœlo egréssio ejus, et occúrsus ejus usque ad summum ejus:
+R. Et nomen ejus in ætérnum pérmanet, allelúia.
+
+[Versum 1]
+V. Ascéndens Christus in altum, allelúja.
+R. Captívam duxit captivitátem, allelúja.
+
+[Versum 2]
+@Tempora/Pasc5-4:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@Tempora/Pasc5-4
+_
+@Tempora/Pasc5-4:Responsory Nona:1-4
+
+[Responsory Tertia]
+V. Exaltáre, Dómine, in virtúte tua, allelúia.
+R. Cantábimus et psallémus virtútes tuas, allelúia.
+
+[Responsory Sexta]
+V. A summo cœlo egréssio ejus, allelúia.
+R. Et occúrsus ejus usque ad summum ejus, allelúia.
+
+[Responsory Nona]
+V. Non vos relínquam órphanos, allelúia.
+R. Véniam ad vos, et gaudébit cor vestrum, allelúia.
+
+[Capitulum Vespera 3]
+@Tempora/Pasc5-4:Capitulum Vespera
+_
+@Tempora/Pasc5-4:Responsory Tertia:1-6
 
 [Ant Matutinum]
 @Tempora/Pasc5-4::1-3
@@ -126,16 +170,3 @@ _
 V. Exaltáre, Dómine, allelúja, in virtúte tua, allelúja.
 R. Cantábimus et psallémus virtútes tuas, allelúja.
 
-[Capitulum Laudes]
-@Tempora/Pasc5-4
-_
-@Tempora/Pasc5-4:Responsory Tertia:1-6
-
-[Responsory Tertia]
-@:Versum 1
-
-[Responsory Sexta]
-@Tempora/Pasc5-4:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Tempora/Pasc5-4:Responsory Sexta:8-9

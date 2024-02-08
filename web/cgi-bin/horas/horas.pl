@@ -187,7 +187,7 @@ sub resolve_refs {
     $line =~ s/(\w)$/$&./ if ($line =~ /^\s*Ant\./);
 
     #red prefix
-    if ($line =~ /^\s*(R\.br\.|R\.|V\.|℟\.|℣\.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
+    if ($line =~ /^\s*(R\.br\.|R\.|Responsorium\.|V\.|℟\.|℣\.|Ant\.|Benedictio\.* |Absolutio\.* )(.*)/) {
       my $h = setvrbar($1);
       my $l = $2;
 
@@ -1375,7 +1375,8 @@ sub postprocess_short_resp(\@$) {
   my ($capit, $lang) = @_;
   s/&Gloria1?/&Gloria1/ for (@$capit);
 
-  if ($dayname[0] =~ /Pasc/i) {
+  # To filter out automatically added Alleluia's in proper Offices.
+  if ( ( $dayname[0] =~ /Pasc/i && $version !~ /Cistercien/i ) || (  $dayname[0] =~ /Pasc/i && $version =~ /Cistercien/i && $rank < 6 )) {
     my $rlines = 0;
 
     for (@$capit) {

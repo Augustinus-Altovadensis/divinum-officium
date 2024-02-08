@@ -22,45 +22,48 @@ While they beheld, * He was taken up, and a cloud received Him in heaven, allelu
 
 [Capitulum Vespera]
 !Act. 1:1-2
-v. The former treatise I made, O Theophilus, of all things which Jesus began to do and to teach, Until the day on which, giving commandments by the Holy Ghost to the apostles whom he had chosen, he was taken up.
+v. Ve své dřívější knize jsem pojednal, milý Theofile, o všem, co Ježíš konal a čemu učil až do dne, kdy poté, co dal Apoštolům příkazy skrze Ducha svatého, byl vzat do nebe.
 $Deo gratias
 
+[HymnusM Vespera]
+@:Hymnus Vespera
+
 [Hymnus Vespera]
-v. Hail, thou who man's Redeemer art,
-Jesu, the joy of every heart;
-Great Maker of the world's wide frame,
-And purest love's delight and flame:
+v. Výkupné naše, Ježíši,
+lásko a tužbo nejčistší,
+tys Tvůrce věcí stvořených
+a člověk věků posledních.
 _
-What nameless mercy thee o'ercame,
-To bear our load of sin and shame?
-For guiltless, thou thy life didst give,
-That sinful erring man might live.
+Jaký tě musil soucit vést,
+žes naše hříchy za své vzal,
+že chtěl jsi muky smrti nést,
+bys kletbu smrti z lidí sňal.
 _
-The realms of woe are forced by thee,
-Its captives from their chains set free;
-And thou, amid thy ransomed train,
-At God's right hand dost victor reign.
+Pronikáš v žalář pekelný,
+propouštíš z něho zajatce.
+Vítězi, slávou oděný,
+po boku trůníš u Otce.
 _
-Let mercy sweet with thee prevail,
-To cure the wounds we now bewail;
-Oh, bless us with thy holy sight,
-And fill us with eternal light.
+Kéž donutí tě soucit týž,
+že rány vin v nás zacelíš,
+nás podle slibu ušetříš
+a vlídnou tváří potěšíš.
 _
-Our guide, our way to heavenly rest,
-Be thou the aim of every breast;
-Be thou the soother of our tears,
-Our sweet reward above the spheres.
+Ty budiž naší radostí,
+odměnou ve tvé věčnosti,
+kéž naše sláva veškerá
+jen z tebe věčně vyvěrá.
 Amen.
 
 [Versum 1]
-V. God is ascended with jubilee, alleluia.
-R. And the Lord with the sound of trumpet, alleluia.
+V. Bůh vystupuje v jásotu, alleluja.
+R. A Pán za zvuku trumpet, alleluja.
 
 [Ant 1]
-Father, * I have manifested thy Name unto the men which Thou gavest Me but now I pray for them, not for the world, because I come to thee, alleluia.
+Otče, * zjevným jsem učinil tvé jméno lidem, které jsi mi dal: nyní však za ně prosím, ne za svět, neboť jdu k tobě, alleluja.
 
 [Oratio]
-Grant, we beseech thee, Almighty God, that just as we do believe thine Only-Begotten Son, our Saviour, to have this day ascended into the heavens, so we may also in heart and mind thither ascend, and with Him continually dwell.
+Popřej, prosíme, všemohoucí Bože, abychom my, jež věříme, že dnešního dne tvůj Jednorozený, Vykupitel náš, na nebesa vystoupil, sami také myslí v nebesích dleli. 
 $Per eumdem
 
 [Invit]
@@ -237,7 +240,7 @@ V. The Lord in heaven, alleluia.
 R. Hath prepared his throne, alleluia.
 
 [Ant 2]
-I ascend to my Father * and to your Father: to my God and your God, alleluia.
+Vystupuji * ke svému Otci, i vašemu Otci, k mému Bohu, i k vašemu Bohu, alleluja.
 
 [Octava 2]
 Ant. I ascend to my Father * and to your Father: to my God and your God, alleluia.
@@ -250,22 +253,22 @@ $Per eumdem
 
 [Lectio Prima]
 !Acts 1:11
-v. Ye men of Galilee, why stand you looking up to heaven? This Jesus who is taken up from you into heaven, shall so come, as you have seen him going into heaven.
+v. Muži galilejští, proč tak stojíte a hledíte k nebi? Tento Ježíš, který byl vzat od vás do nebe, přijde zase právě tak, jak jste ho viděli odcházet do nebe.
 
 [Responsory Tertia]
-R.br. God is gone up with jubilation. * Alleluia, alleluia.
-R. God is gone up with jubilation. * Alleluia, alleluia.
-V. And the Lord with the sound of trumpet.
-R. Alleluia, alleluia.
+R.br. Vystoupil Bůh za jásotu. * Alleluja, alleluja.
+R. Vystoupil Bůh za jásotu. * Alleluja, alleluja.
+V. A Pán za zvuku trumpet.
+R. Alleluja, alleluja.
 &Gloria
-R. God is gone up with jubilation. * Alleluia, alleluia.
+R. God is gone up with jubilation. * Alleluja, alleluja.
 _
 V. When Christ ascended up on high, alleluia.
 R. He led captivity captive, alleluia.
 
 [Capitulum Sexta]
 !Acts 1:4-5
-v. And eating together with them, he commanded them, that they should not depart from Jerusalem, but should wait for the promise of the Father, which you have heard (saith he) by my mouth. For John indeed baptized with water, but you shall be baptized with the Holy Ghost, not many days hence.
+v. Když s nimi jedl, přikázal jim, aby neodcházeli z Jerusaléma, ale čekali na Otcovo zaslíbení: „Vždyť jste přece o tom ode mne slyšeli: Jan křtil vodou, ale vy budete pokřtěni Duchem svatým za několik málo dní.“
 $Deo gratias
 
 [Responsory Sexta]
@@ -280,18 +283,18 @@ V. I ascend to my Father and to your Father, alleluia.
 R. To my God and your God, alleluia.
 
 [Responsory Nona]
-R.br. I ascend to my Father and to your Father. * Alleluia, alleluia.
-R. I ascend to my Father and to your Father. * Alleluia, alleluia.
-V. To my God and your God.
-R. Alleluia, alleluia.
+R.br. Vystupuji ke svému Otci, i vašemu Otci. * Alleluja, alleluja.
+R. Vystupuji ke svému Otci, i vašemu Otci. * Alleluja, alleluja.
+V. K mému Bohu, i k vašemu Bohu.
+R. Alleluja, alleluja.
 &Gloria
-R. I ascend to my Father and to your Father. * Alleluia, alleluia.
+R. Vystupuji ke svému Otci, i vašemu Otci. * Alleluia, alleluia.
 _
 V. The Lord in heaven, alleluia.
 R. Hath prepared his throne, alleluia.
 
 [Ant 3]
-O King of glory, Lord of hosts, * Who hast this day exalted thine Own Self, with great triumph, above all the heavens, leave us not orphans but send unto us the Promise of the Father, even the Spirit of truth, alleluia.
+O Králi slávy, * Hospodine zástupů, jenž jsi jako vítěz dnes vystoupil nad nebesa, nezanechávej nás sirotky; ale pošli příslib Otce mezi nás, Ducha pravdy, alleluja.
 
 [Octava 3]
 Ant. O King of glory, Lord of hosts, * Who hast this day exalted thine Own Self, with great triumph, above all the heavens, leave us not orphans but send unto us the Promise of the Father, even the Spirit of truth, alleluia.

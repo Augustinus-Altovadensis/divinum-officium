@@ -9,48 +9,51 @@ Hymnus Tertia
 Prima=53
 
 [Ant Vespera]
-Když se naplnilo * Padesát dnů, byli všichni spolu na jednom místě, alleluia.
-Duch Hospodinův * naplnil okrsek světa, alleluia.
-Všichni byli naplněni * Duchem Svatým, a začali mluvit, alleluia, alleluia.
-Hleďte prameny, * a vše, co se hýbe ve vodách, vzdejte chválu Bohu, alleluia.
-Apoštolové mluvili * různými jazyky o velikosti Boží, alleluia, alleluia, alleluia.;;116
+Když se završilo * Padesát dnů, byli všichni spolu na jednom místě, alleluja.
+Duch Hospodinův * naplnil okrsek světa, alleluja.
+Všichni byli naplněni * Duchem Svatým, a začali mluvit, alleluja, alleluja.
+Prameny, * a vše, co se hýbe ve vodách, vzdejte chválu Bohu, alleluja.
+Apoštolové mluvili * různými jazyky o velikosti Boží, alleluja, alleluja, alleluja.;;116
 
 [Capitulum Vespera]
 !Acts 2:1-2
 v. Když nastal den Letnic, byli všichni shromážděni na jednom místě. Náhle se strhl hukot z nebe, jako když se žene prudký vichr, a naplnil celý dům, kde byli.
 $Deo gratias
 
+[HymnusM Vespera]
+@:Hymnus Vespera
+
 [Hymnus Vespera]
 !První sloku říkáme vkleče.
-v. Přijď, Tvůrce, Duchu svatý, k nám,
-a navštiv myslí našich chrám,
-z výsosti nebes zavítej,
-do duší nám svou milost vlej.
+v. Přijď, Stvořiteli Duchu, k nám
+A navštiv našich myslí chrám,
+A vylej milost vznešenou
+V hruď naši tebou stvořenou.
 _
-Tys Utěšitel právem zván,
-tys dar, jenž Bohem věčným dán,
-zdroj živý, láskyplný dech,
-tys posvěcení myslí všech.
+Ty Těšitel jsi nazýván,
+Dar udělený Otcem nám,
+Zdroj živý, oheň, lásky dech
+A pomazání duší všech.
 _
-Tys sedmi darů studnice,
-prst Otcovy jsi pravice,
-tys Bohem přislíbený host,
-ty dáváš ústům výmluvnost.
+Jsi sedmitvámý v darech svých,
+Prst mocný rukou Otcových,
+Tys přislíbený Otcem Host,
+Jenž udílí rtům výmluvnost.
 _
-Rač světlo v mysli rozžehnout,
-vlij do srdcí nám lásky proud,
-našeho těla slabosti
-zhoj silou svojí milosti.
+Rač světlo v duších zažehnout,
+Vlít v srdce žhavý lásky proud,
+A těla mdlého slabosti
+Svou posilovat milostí.
 _
-Dál nepřítele zapuzuj
-a duši pokoj uděluj,
-ať vždycky pod vedením tvým
-vyhnem se vlivům škodlivým.
+Rač vraha od nás zapudit,
+Dát našim srdcím pravý klid,
+Ať všichni pod tvým vůdcovstvím
+Se vyhneme všem svodům zlým.
 _
-Nauč nás Boha Otce znát
-a Syna jeho milovat
-a v tebe, Duchu svatý, zas
-důvěřovati v každý čas. 
+Nás Boha Otce nauč znát,
+nás nauč Syna milovat,
+a v tebe, Duchu přemilý,
+dej, abychom vždy věřili.
 _
 Bohu Otci nechť sláva zní,
 Též Synu jeho, jenž z mrtvých
@@ -66,7 +69,7 @@ R. A začali mluvit, alleluja.
 Nezanechám vás sirotky, * alleluja; Odejdu, ale znovu k vám přijdu, alleluja, a vaše srdce zajásají, alleluja.
 
 [Oratio]
-Bože, jenž jsi srdce svých věřících osvítil a poučil, dej nám, ať v tvém Duchu správně smýšlíme a vždy se radujeme z jeho útěchy. 
+Bože, jenž jsi dnešního dne srdce věřících osvícením Ducha Svatého poučil, dej nám, ať v témž Duchu správně smýšlíme a vždy se radujeme z jeho útěchy. 
 $Per Dominum eiusdem
 
 [Invit]
@@ -76,51 +79,52 @@ Alleluja, Duch Hospodinův naplnil okrsek světa: * Pojďme a klanějme se mu, a
 @:Hymnus Matutinum
 
 [Hymnus Matutinum]
-v. Now Christ, ascending whence he came,
-Had mounted o'er the starry frame,
-The Holy Ghost on man below,
-The Father's promise, to bestow.
+v. Již vstoupil Kristus k výšinám
+V svůj nadhvězdný se vrátiv stan
+By spolu s Otcem nebeským
+Dal svého Ducha věrným svým.
 _
-The solemn time was drawing nigh,
-Replete with heav'nly mystery,
-On seven days' sevenfold circles borne,
-That first and blessèd Whitsun-morn.
+Stál ve dveřích den slavnostní,
+Jenž, tajemný kruh sedmi dní
+Když sedmkráte prošla zem,
+Čas milostivý hlásá všem.
 _
-When the third hour shone all around,
-There came a rushing mighty sound,
-And told the Apostles, while in prayer,
-That, as was promised, God was there.
+Dne třetí byla hodina,
+Když tu svět náhle zahřímá,
+A Apoštolům zvěstuje,
+Že Svatý Duch k nim sstupuje.
 _
-Forth from the Father's light it came,
-That beautiful and kindly flame:
-To fill with fervour of his word
-The spirits faithful to their Lord.
+To z mocné záře Otcovy
+Se lije oheň zlatový,
+Jenž v duších, které k Pánu lnou
+Řeč zážehuje plamennou.
 _
-With joy the Apostles' breasts are fired,
-By God the Holy Ghost inspired:
-And straight, in diverse kinds of speech,
-The wondrous works of God they preach.
+Hruď plní radost veliká,
+Když Svatý Duch v ni proniká,
+Kiž mluví v svátém nadšení
+O divech Božích na zemi.
 _
-To men of every race they speak,
-Alike barbarian, Roman, Greek:
-From the same lips, with awe and fear,
-All men their native accents hear.
+I rozumí jim všechen lid:
+Řek, Arab, Latin, Barbar, Žid;
+Je jímá úžas veliký,
+Že mluví všemi jazyky.
 _
-But Juda's sons, e'en faithless yet,
-With mad infuriate rage beset,
-To mock Christ's followers combine,
-As drunken all with new-made wine.
+Tu nevěřící Židé jen,
+Vždy zarputilí v hněvu svém,
+Kristovy žáky vinili,
+Že vínem se tak opili.
 _
-When lo! with signs and mighty deeds,
-Stands Peter in the midst, and pleads;
-Confounding their malignant lie
-By Joel's ancient prophecy.
+Než Petr slovy, zázraky
+Lež jejich staví před zraky,
+A Joelem hned v zápětí
+Své tvrzení zas pečetí.
 _
-To God the Father let us sing,
-To God the Son, our risen King,
-And equally let us adore
-The Spirit, God forevermore.
+Zněj Bohu Otci píseň chval,
+I Synu, který z mrtvých vstal,
+I Duchu, který těší nás,
+Ať ozývá se v každý čas.
 Amen.
+!Překlad: P. Josef Škrášek, Kroměříž
 
 [Ant Matutinum]
 Suddenly there came a sound from heaven * as of a rushing mighty wind, alleluia, alleluia.;;47
@@ -204,19 +208,19 @@ Přijměte Ducha Svatého; * komu hříchy odpustíte, tomu budou odpuštěny, a
 v. Tedy my, Židé a Proselyté, Kréťané a Arabové, je slyšíme mluvit v našich jazycích o velkých dílech Božích.
 
 [Responsory Tertia]
-R.br. The Spirit of the Lord filleth the world. * Alleluia, Alleluia.
-R. The Spirit of the Lord filleth the world. * Alleluia, Alleluia.
-V. And That Which containeth all things hath knowledge of the voice.
-R. Alleluia, Alleluia.
+R.br. Duch Páně naplnil okrsek zemský. * Alleluja, alleluja.
+R. Duch Páně naplnil okrsek zemský. * Alleluja, alleluja.
+V. A to, co obsáhne všechno, mělo schopnost mluvit.
+R. Alleluja, alleluja.
 &Gloria
-R. The Spirit of the Lord filleth the world. * Alleluia, Alleluia.
+R. Duch Páně naplnil okrsek zemský. * Alleluja, alleluja.
 _
-V. The Comforter, Which is the Holy Ghost, alleluia.
-R. He shall teach you all things, alleluia.
+V. Svatý Duch, Utěšitel, alleluka.
+R. Naučí vás vše, alleluja.
 
 [Capitulum Sexta]
 !Acts 2:6
-v. When this was noised abroad, the multitude came together, and were confounded, because that every man heard them speak in his own language.
+v. Když se však ten zvuk ozval, hodně lidí se sběhlo a byli ohromeni, protože každý z nich je slyšel, jak mluví jeho vlastní řečí.
 $Deo gratias
 
 [Responsory Sexta]
@@ -227,23 +231,23 @@ R. Alleluia, Alleluia.
 &Gloria
 R. The Comforter, Which is the Holy Ghost. * Alleluia, Alleluia.
 _
-V. They were all filled with the Holy Ghost, alleluia.
-R. And began to speak, alleluia.
+V. Všichni byli naplněni Duchem Svatým, alleluja.
+R. A počali mluviti, alleluja.
 
 [Responsory Nona]
-R.br. They were all filled with the Holy Ghost. * Alleluia, Alleluia.
-R. They were all filled with the Holy Ghost. * Alleluia, Alleluia.
-V. And began to speak.
-R. Alleluia, Alleluia.
+R.br. Všichni byli naplněni Duchem Svatým. * Alleluja, alleluja.
+R. Všichni byli naplněni Duchem Svatým. * Alleluja, alleluja.
+V. A počali mluviti.
+R. Alleluja, alleluja.
 &Gloria
-R. They were all filled with the Holy Ghost. * Alleluia, Alleluia.
+R. Všichni byli naplněni Duchem Svatým. * Alleluja, alleluja.
 _
-V. The Apostles spoke in diverse tongues, alleluia.
-R. The wonderful works of God, alleluia.
+V. Apoštolové mluvili různými jazyky, alleluja.
+R. O velikých dílech Božích, alleluja.
 
 [Versum 3]
 V. The Apostles spoke in diverse tongues, alleluia.
 R. The wonderful works of God, alleluia.
 
 [Ant 3]
-This day * the day of Pentecost is fully come, alleluia. This day the Holy Ghost appeared in fire unto the disciples, and gave unto them gifts of grace. He sent them into all the world, to preach and to testify that he who believeth, and is baptized, shall be saved, alleluia.
+Dnes se završilo * Padesát dnů, alleluja: dnes se Duch svatý v ohni zjevil učedníkům, a udělil jim duchovní dary; poslal je do celého světa kázat a svědčit: Kdo uvěří a bude pokřtěn, bude též spasen, alleluja.

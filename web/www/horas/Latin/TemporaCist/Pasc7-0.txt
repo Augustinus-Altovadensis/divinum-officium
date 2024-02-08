@@ -11,7 +11,50 @@ Antiphonas horas
 [Capitulum Vespera]
 @Tempora/Pasc7-0
 _
-@Tempora/Pasc7-0:Responsory Sexta:1-6
+Responsorium. Repléti sunt omnes Spíritu sancto, et cœpérunt loqui, prout Spíritus sanctus dabat éloqui illos: * Et convénit multitúdo dicéntium, allelúia.
+V. Loquebántur váriis linguis Apóstoli magnália Dei:
+R. Et convénit multitúdo dicéntium, allelúia.
+
+[HymnusC Vespera]
+@Tempora/Pasc7-0:HymnusM Laudes
+
+[Versum 1]
+V. Emítte spíritum tuum, et creabúntur, allelúia.
+R. Et renovábis fáciem terræ, allelúia.
+
+[Ant 1]
+Si dilígitis me, * mandáta mea serváte, allelúia, allelúia, allelúia.
+
+[Capitulum Vespera 3]
+@Tempora/Pasc7-0:Capitulum Vespera
+_
+@Tempora/Pasc7-0:Responsory Tertia:1-6
+
+[Ant Laudes]
+@Tempora/Pasc7-0:Ant Vespera:s/;;.*//
+
+[Capitulum Laudes]
+@Tempora/Pasc7-0
+_
+@Tempora/Pasc7-0:Responsory Nona:1-6
+
+[HymnusC Laudes]
+@Tempora/Pasc7-0:HymnusM Matutinum:21-46
+
+[Versum 2]
+@Tempora/Pasc7-0:Responsory Nona:8-9
+
+[Versum 3]
+@:Versum 1
+
+[Responsory Tertia]
+@Tempora/Pasc7-0:Ant Matutinum:4-5
+
+[Responsory Sexta]
+@Tempora/Pasc7-0:Responsory Sexta:8-9
+
+[Responsory Nona]
+@Tempora/Pasc7-0:Responsory Tertia:8-9
 
 [Ant Matutinum]
 @Tempora/Pasc7-0::1 s/47/1/
@@ -115,19 +158,4 @@ $Deo gratias
 _
 @Tempora/Pasc7-0:Versum 3
 
-[Ant Laudes]
-@Tempora/Pasc7-0:Ant Vespera:s/;;.*//
 
-[Capitulum Laudes]
-@Tempora/Pasc7-0
-_
-@Tempora/Pasc7-0:Responsory Tertia:1-6
-
-[Responsory Tertia]
-@Tempora/Pasc7-0:Ant Matutinum:4-5
-
-[Responsory Sexta]
-@Tempora/Pasc7-0:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Tempora/Pasc7-0:Versum 1

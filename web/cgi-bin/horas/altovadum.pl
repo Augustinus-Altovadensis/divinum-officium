@@ -44,6 +44,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in Lambach/v Lambachu/ig;
 	$line =~ s/in Schlüchtern/v klášteře Schlüchtern/ig;
 	$line =~ s/Plagensis/ze Schläglu/ig;
+	$line =~ s/, Aulae.Regiae/, na Zbraslavi/ig;
 	$line =~ s/Aulae.Regiae/zbraslavský/ig;
 	$line =~ s/in Aula.Regia/na Zbraslavi/ig;
 	$line =~ s/Sanctae.Coronae|Sacrae Spinae Coronae/zlatokorunský/ig;
@@ -117,7 +118,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Rosenthalii/v Rožmitálu/ig;
 	$line =~ s/Rosenthal/Rožmitál/ig;
 	$line =~ s/Priethalium|Priethal/Přídolí/ig;
-	$line =~ s/Cajoviae/v Kájově/ig;
+	$line =~ s/Cajoviae|in Cajow/v Kájově/ig;
 	$line =~ s/Gratzen/Nové Hrady/ig;
 	$line =~ s/praedii Komařiciensis|Komarzitzii|Komarzitii/statku v Komařicích/ig;
 	$line =~ s/Stritzitzii/ve Strýčicích/ig;
@@ -150,7 +151,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Rosensis/z Rožmberků/ig;
 	$line =~ s/Crumlovii/v Krumlově/ig;
 	$line =~ s/Crumlovium/do Krumlova/gi;
-	$line =~ s/Crumlovia|Crumlov|Crumbnaw/Krumlov/ig;
+	$line =~ s/Crumlovia|Crumlov|Crumbnaw|Crumpnaw|Crumpnau/Krumlov/ig;
 	$line =~ s/Sobieslavia/Soběslav/ig;
 	$line =~ s/Kozojedii|in Kozojed/v Kozojedech/ig;
 	$line =~ s/Sanctae Annae/Svaté Anny/ig;
@@ -170,6 +171,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in Antiqua Bruna|Vetero-Brunae/na Starém Brně/ig;
 	$line =~ s/Antiqua Bruna/Staré Brno/ig;
 	$line =~ s/Bruna/Brno/ig;
+	$line =~ s/Zaroschitzii|Zaroschicii|in Zarošice/v Žarošicích/ig;
+	$line =~ s/Zarošicensis|Zaroschicii/žarošický/ig;
 	$line =~ s/ad Sanctum Oswaldum/ve Svatém Osvaldu/ig;
 	$line =~ s/de Serin/ze Serynu/ig;
 	$line =~ s/Lincii/v Linci/ig;
@@ -318,6 +321,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/omnes libros suos/všechny své knihy/gi;
 	$line =~ s/praemonstratensis/premonstrátského/gi;
 	$line =~ s/anno (\w+) resignatus/který odstoupil $1/gi;
+	$line =~ s/annos/let/gi;
 	$line =~ s/resignatus/, který odstoupil/gi;
 	$line =~ s/iterum/poté/gi;
 	$line =~ s/(\w+) honoratus/ctěný $1/gi;
@@ -562,6 +566,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/capitaneus|capitanei/správce/ig;
 	$line =~ s/doleatoris/ranhojiče/ig;
 	$line =~ s/tumulatus est/je pohřben/ig;
+	$line =~ s/ tum / v té době /ig;
+	$line =~ s/ tum, / v té době, /ig;
 	$line =~ s/doctor decretorum|decretorum doctor/doktor církevního práva/ig;
 	$line =~ s/iuris utriusque(.*)doctor/doktor obojího práva$1/ig;
 	$line =~ s/philosophiae(.*)doctor/doktor filosofie$1/ig;
@@ -600,6 +606,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/scriniator/bednář/ig;
 	$line =~ s/eiusdem/jeho/ig;
 	$line =~ s/pistor/pekař/ig;
+	$line =~ s/piscator/rybář/ig;
+	$line =~ s/piscatrix/rybářka/ig;
 	$line =~ s/poculo lethifero infectus/otráven  jedem v číši/ig;
 	$line =~ s/sibi propinato/kterou mu podali/ig;
 
@@ -643,6 +651,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/mire/krásně/ig;
 	$line =~ s/decoravit/vyzdobil/ig;
 	$line =~ s/indefessa cura/neúnavnou péčí/ig;
+	$line =~ s/indefessus/nezdolný/ig;
 	$line =~ s/atque/a také/ig;
 	$line =~ s/tandem/později/ig;
 	
