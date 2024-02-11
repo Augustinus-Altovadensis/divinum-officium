@@ -9,6 +9,7 @@ $Deo gratias
 [HymnusC Day1 Laudes]
 @:HymnusC Day0 Laudes
 
+
 [HymnusC Day0 Laudes2]
 @:HymnusM Day1 Laudes
 
@@ -1978,6 +1979,9 @@ R. Sana ánimam meam, * quia peccávi tibi.
 [Day6M Laudes]
 @:DayFM Laudes
 
+[Day0C Vespera]
+@:Day0M Vespera
+
 [Day0M Vespera]
 @:Day0 Vespera
 _
@@ -2018,6 +2022,8 @@ R. In nómine Dómini.
 &Gloria
 R. Adjutórium nostrum * In nómine Dómini.
 
+[Day6C Vespera]
+@:Day6M Vespera
 
 [Day6M Vespera]
 @:Day6 Vespera
@@ -2028,9 +2034,6 @@ V. Et sapiéntiæ ejus non est númerus.
 R. Et magna virtus ejus.
 &Gloria
 R. Magnus Dóminus noster, * et magna virtus ejus.
-
-[Day6C Vespera]
-@:Day6M Vespera
 
 [AdvM Laudes]
 @:Adv Laudes
@@ -2137,7 +2140,6 @@ R.br. Scápulis suis * obumbrábit tibi.
 R. Scápulis suis * obumbrábit tibi.
 V. Et sub pennis ejus sperábis.
 R. Obumbrábit tibi.
-
 
 [Quad5C Laudes]
 !Heb 9:28

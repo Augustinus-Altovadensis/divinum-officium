@@ -6,7 +6,7 @@ Dominica III Post Epiphaniam;;Semiduplex;;5
 Symbolum Athanasium
 
 [Oratio]
-Almighty and everlasting God, mercifully look upon our infirmities, and in all our dangers and necessities stretch forth the right hand of thy Majesty to help and defend us.
+Všemohoucí, věčný Bože, shlédni milostivě na naši bezmocnost a vztáhni pravici své velebnosti k naší ochraně.
 $Per Dominum
 
 [Lectio1]
@@ -61,7 +61,7 @@ And Jesus saith unto him: See thou tell no man. What need was there to tell what
 &teDeum
 
 [Ant 2]
-When Jesus was come down from the mountain, * behold, there came a leper, and worshipped Him, saying: Lord, if Thou wilt, Thou canst make me clean. And Jesus put forth His Hand, and touched him, saying: I will; be thou clean.
+Když pak sestupoval * Ježíš z hory, hle, přišel jeden malomocný, klaněl se mu a řekl: Pane, chceš-li, můžeš mne očistit; a <i>Ježíš</i> natáhl ruku, dotkl se jej, a řekl: Chci, buď očištěn.
 
 [Ant 3]
 Lord, if Thou wilt, * Thou canst make me clean; and Jesus saith to him: I will; be thou clean.

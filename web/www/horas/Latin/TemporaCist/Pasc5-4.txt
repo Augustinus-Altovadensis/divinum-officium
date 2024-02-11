@@ -24,11 +24,11 @@ V. A summo cœlo egréssio ejus, et occúrsus ejus usque ad summum ejus:
 R. Et nomen ejus in ætérnum pérmanet, allelúia.
 
 [Versum 1]
-V. Ascéndens Christus in altum, allelúja.
-R. Captívam duxit captivitátem, allelúja.
+V. Ascéndens Christus in altum, allelúia.
+R. Captívam duxit captivitátem, allelúia.
 
 [Versum 2]
-@Tempora/Pasc5-4:Versum 1
+@Tempora/Pasc5-4:Versum 1:s/allelú[ij]a/allelúia/g
 
 [Versum 3]
 @:Versum 1
@@ -40,6 +40,33 @@ R. Captívam duxit captivitátem, allelúja.
 @Tempora/Pasc5-4
 _
 @Tempora/Pasc5-4:Responsory Nona:1-4
+
+[HymnusC Laudes]
+v. O grande cunctis gáudium,
+Quod partus nostræ Vírginis,
+Post sputa, flagra, post crucem
+Patérnæ sedi júngitur.
+_
+Agámus ergo grátias
+Nostræ salútis víndici,
+Nostrum quod corpus véxerit
+Sublím<i>em</i> ad cœli régiam.
+_
+Sit nobis cum cœléstibus
+Commúne manens gáudium:
+Illis, quod se præsentávit,
+Nobis, quod se non ábstulit.
+_
+Nunc provocátis áctibus
+Christ<i>um</i> expectáre nos decet:
+Vitáque tali vívere,
+Quæ possit cœlos scándere.
+_
+Glória tibi Dómine,
+Qui scandis super sídera,
+Cum Patr<i>e</i> et Sancto Spíritu,
+In sempitérna sǽcula. 
+Amen.
 
 [Responsory Tertia]
 V. Exaltáre, Dómine, in virtúte tua, allelúia.
