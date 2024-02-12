@@ -1908,7 +1908,7 @@ sub getanthoras {
   my $w = $w{'Ant Laudes'};
   my $c = ($winner =~ /sancti/i) ? 3 : 2;
 
-  if (!$w && ($communetype =~ /ex\s*/i || $version =~ /Trident|Monastic/i)) {
+  if (!$w && ($communetype =~ /ex\s*/i || $version =~ /Trident|Monastic|Cistercien/i)) {
     my %com = (columnsel($lang)) ? %commune : %commune2;
     $w = $com{'Ant Laudes'};
     $c = 4;
