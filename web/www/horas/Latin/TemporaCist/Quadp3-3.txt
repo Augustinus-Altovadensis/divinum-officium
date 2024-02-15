@@ -2,3 +2,6 @@
 
 [Responsory3]
 @Tempora/Quadp3-1:Responsory2
+
+[Versum 3]
+@Tempora/Quadp1-0:Versum 3

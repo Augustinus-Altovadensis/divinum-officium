@@ -3,6 +3,12 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+Scitis, fratres, * quia templum Dei estis, et Spíritus Dei hábitat in vobis: si quis autem violáverit templum hoc, despérdet illum Dóminus: templum enim Dei sanctum est, quod estis vos, allelúia.
+
+[Ant 3]
+Surgens Jesus * imperávit ventis et mari, et facta est tranquíllitas magna, et miráti sunt univérsi.
+
 [Lectio1]
 @Tempora/Epi4-0:Lectio1:
 

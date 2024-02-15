@@ -1,0 +1,16 @@
+[Ant 1]
+Bratři, * myslím si totiž, že utrpení tohoto času se nedají srovnat s budoucí slávou, která v nás bude zjevena, alleluja.
+
+[Ant Laudes]
+Srdcem zkroušeným * a pokořeným, Bože, nepohrdej.
+
+[Capitulum Laudes]
+@Tempora/Quadp1-0
+_
+@:Responsory Laudes
+
+[Responsory Laudes]
+℟.br. Pomocníkem mým budiž, Bože, * Neopouštěj mě.
+℟. Pomocníkem mým budiž, Bože, * Neopouštěj mě.
+℣. Ani na mě pohrdlivě neshlížej, Bože, můj zachránče.
+℟. Neopouštěj mě.

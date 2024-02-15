@@ -3,6 +3,9 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+@TemporaCist/Epi4-0
+
 [Lectio2]
 @Tempora/Epi6-0:Lectio2:s/-9/-6/ s/7 .*//s
 

@@ -3,6 +3,9 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+Ecce nunc * tempus acceptábile, ecce nunc dies salútis; in his ergo diébus exhibeámus nos sicut Dei ministros, in multa patiéntia, in vigíliis, in jejúniis, et in charitáte non ficta.
+
 [Versum 2]
 @Psalterium/Major Special:Quad VersumC 2
 
@@ -72,7 +75,9 @@ Non in solo pane vivit homo, † sed in omni verbo quod procédit de ore Dei.;;2
 [Capitulum Vespera]
 @Tempora/Quad1-0
 _
-@Psalterium/Major Special:QuadM Vespera:3-8
+Responsorium. Paradísi portas apériet nobis jejúnii tempus: suscipiámus illud orántes, et deprecántes: * Ut in die resurrectiónis cum Dómino gloriémur. 
+V. Per arma justítiæ virtútis Dei commendémus nosmetípsos in multa patiéntia. 
+R. Ut in die resurrectiónis cum Dómino gloriémur. 
 
 [Capitulum Laudes]
 @Tempora/Quad1-0

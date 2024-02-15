@@ -83,6 +83,9 @@ Amen.
 V. Dóminus regnávit, decórem índuit.
 R. Índuit Dóminus fortitúdinem, et præcínxit se virtúte.
 
+[Day0C Laudes2]
+@:Day0 Laudes2
+
 [Day0 Laudes2]
 !1 Cor 9:24
 v. Fratres: Nescítis, quod ii, qui in stádio currunt, omnes quidem currunt, sed unus áccipit bravíum? Sic cúrrite, ut comprehendátis.

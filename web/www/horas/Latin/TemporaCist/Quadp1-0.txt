@@ -9,19 +9,42 @@ Invit2
 _
 @Psalterium/Major Special:Day6M Vespera:3-8
 
+[Ant 1]
+Fratres, * exístimo enim quod non sunt condígnæ passiónes hujus témporis ad futúram glóriam, quæ revelábitur in nobis, allelúia.
+
+[Ant Laudes]
+Cor contrítum * et humiliátum, Deus, non despícies.
+
 [Capitulum Laudes]
 @Tempora/Quadp1-0
 _
-@Psalterium/Major Special:Day0M Laudes:3-8
+@:Responsory Laudes
+
+[Responsory Laudes]
+℟.br. Adjútor meus esto, Deus, * Ne derelínquas me.
+℟. Adjútor meus esto, Deus, * Ne derelínquas me.
+℣. Neque despícias me, Deus, salutáris meus.
+℟. Ne derelínquas me.
+
+[Versum 2]
+@Psalterium/Major Special:Day0 Versum 2
+
+[Ant Tertia]
+@Tempora/Quadp1-0:Ant Sexta
 
 [Responsory Tertia]
 @Psalterium/Minor Special:Dominica Tertia:s/.*_.//s
+
+[Ant Sexta]
+@Tempora/Quadp1-0:Ant Tertia
 
 [Responsory Sexta]
 @Psalterium/Minor Special:Dominica Sexta:s/.*_.//s
 
 [Responsory Nona]
 @Psalterium/Minor Special:Dominica Nona:s/.*_.//s
+
+
 
 [Capitulum Vespera 3]
 @Tempora/Quadp1-0:Capitulum Vespera

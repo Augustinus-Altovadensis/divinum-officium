@@ -9,10 +9,31 @@ Invit2
 _
 @Psalterium/Major Special:Day6M Vespera:3-8
 
+[Ant 1]
+@Tempora/Quadp1-0:Ant 3
+
+[Ant Laudes]
+Fortitúdo mea, * et laus mea Dóminus, exaudívit vocem meam, et factus est mihi in salútem.
+
+[Versum 2]
+@Psalterium/Major Special:Day0 Versum 2
+
 [Capitulum Laudes]
 @Tempora/Quadp2-0
 _
-@Psalterium/Major Special:Day0M Laudes:3-8
+@TemporaCist/Quadp1-0:Responsory Laudes
+
+[Ant Prima]
+Si culmen * veri honóris quæritis, ad cœléstem pátriam quantócius properáte.
+
+[Ant Tertia]
+Semen est * Verbum Dei, sator autem Christus: omnis qui audit eum, manébit in ætérnum.
+
+[Ant Sexta]
+Qui verbum Dei rétinent * corde perfécto et óptimo, fructum áfferunt in patiéntia.
+
+[Ant 3]
+Jesus hæc dicens, clamábat: * Qui habet aures audiéndi, áudiat.
 
 [Responsory Tertia]
 @Psalterium/Minor Special:Dominica Tertia:s/.*_.//s

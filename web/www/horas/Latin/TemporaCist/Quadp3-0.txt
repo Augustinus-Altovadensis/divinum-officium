@@ -9,10 +9,31 @@ Invit2
 _
 @Psalterium/Major Special:Day6M Vespera:3-8
 
+[Ant 1]
+Vobis datum est * nosse mystérium regni Dei: céteris autem in parábolis, dixit Jesus descípulis suis.
+
+[Ant Laudes]
+Déxtera Dómini * virtútem fáciat, ut cum impúlsus fúero, cadéntem me suscípiat.
+
 [Capitulum Laudes]
 @Tempora/Quadp3-0
 _
-@Psalterium/Major Special:Day0M Laudes:3-8
+@TemporaCist/Quadp1-0:Responsory Laudes
+
+[Versum 2]
+@Psalterium/Major Special:Day0 Versum 2
+
+[Ant 2]
+Cæcus sedébat * secus viam, et clamábat: Miserére mei, fili David.
+
+[Ant Prima]
+Tradétur Géntibus * ad illudéndum, et flagellándum, et crucifigéndum.
+
+[Ant Tertia]
+Ecce ascéndimus * Jerosólymam, et consummabúntur ómnia, quæ scripta sunt per Prophétas de Fílio hóminis.
+
+[Ant Sexta]
+@Tempora/Quadp3-0:Ant Prima
 
 [Responsory Tertia]
 @Psalterium/Minor Special:Dominica Tertia:s/.*_.//s

@@ -532,7 +532,7 @@ Amen.
 [HymnusM Prima]
 @:Hymnus Prima:s/Nunc et per omne sǽculum/Et nunc et in perpétuum/
 
-# Cistercian part
+[### Cistercian part ###]
 
 [Dominica TertiaC]
 @:Dominica Tertia:s/_.*//s
@@ -582,6 +582,9 @@ V. Super te, Jerúsalem, oriétur Dóminus.
 R. Et glória ejus in te vidébitur.
 
 [Quad TertiaM]
+@:Quad Tertia
+
+[Quad TertiaC]
 @:Quad Tertia
 
 [Responsory Quad TertiaC]

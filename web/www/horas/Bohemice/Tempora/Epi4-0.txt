@@ -6,7 +6,7 @@ Dominica IV Post Epiphaniam;;Semiduplex;;5
 Symbolum Athanasium
 
 [Oratio]
-O God, Who knowest us to be set in the midst of so many and great dangers, that, by reason of the frailty of our nature, we cannot always stand upright; grant to us such health of mind and body, that by thy strength and protection we may overcome all evils, whereby for our sins we are justly afflicted.
+Bože, jenž víš, že my, tak velkým nebezpečím vystaveni, nemůžeme pro lidskou křehkost sami obstáti, uděl nám zdraví duše a těla, abychom to, co pro hříchy své zakoušíme, překonali tvou pomocí. 
 $Per Dominum
 
 [Lectio1]
@@ -65,7 +65,7 @@ But the men marvelled, saying What manner of man is this, that even the winds an
 &teDeum
 
 [Ant 2]
-When Jesus was entered into a ship, * there arose a great tempest in the sea and His disciples awoke Him, saying: Lord, save us; we perish.
+Když Ježíš nastoupil * na loď, hle moře se vzbouřilo, a jeho učedníci jej probudili se slovy: Pane, zachraň nás, hyneme.
 
 [Ant 3]
 Lord, save us: * we perish; give the word, O God, and let there be a great calm!

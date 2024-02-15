@@ -155,6 +155,13 @@ Sabbato = May my request * come before thee, O Lord.
 4 = missing
 5 = With the armour of justice * and in the power of God, let us prove ourselves in much patience.
 
+[QuadC]
+1 = Shromažďujte si * poklady v nebi, kde neničí rez ani mol.
+2 = Nejen chlebem * živ je člověk, ale každým slovem, které vychází z Božích úst.
+3 = Odevzdejme sami sebe * ve veliké trpělivosti, v mnohých postech, a pomocí zbraní spravedlnosti.
+4 = 
+5 = Zbraněmi spravedlnosti * se svěřme moci Boží ve veliké trpělivosti.
+
 [Quad5]
 1 = Deliver me, O Lord, * and set me beside thee, and any man's hand may fight against me.
 2 = O Lord, thou hast judged * the cause of my soul, thou the Redeemer of my life.

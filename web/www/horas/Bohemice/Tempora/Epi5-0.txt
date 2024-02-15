@@ -6,7 +6,7 @@ Dominica V Post Epiphaniam;;Semiduplex;;5
 Symbolum Athanasium
 
 [Oratio]
-O Lord, we beseech thee to keep thy family continually in godliness, that they who do lean only upon the hope of thine heavenly grace, may evermore be defended by thy mighty power.
+Rodinu svou, prosíme, Pane, ustavičnou dobrotivostí opatruj, aby, když v jediné naději spoléhá na milost nebeskou, tvou záštitou vždy chráněna byla. 
 $Per Dominum
 
 [Lectio1]
@@ -63,7 +63,7 @@ However, as touching the net cast into the sea, and enclosing a great multitude 
 &teDeum
 
 [Ant 2]
-Sir, didst not thou sow good seed in thy field? * From whence then hath it tares? And he saith unto them: An enemy hath done this.
+Pane, * nezasel-li jsi dobrého semene na svém poli? Odkud se tedy vzal koukol? A on jim pravil: Člověk nepřítel to učinil. 
 
 [Ant 3]
-The master saith: Gather ye together first the tares, * and bind them in bundles to burn them; but gather the wheat into my barn.
+Seberte * nejprve koukol a svažte jej do snopků ke spálení; pšenici však shromážděte do mé stodoly, praví Pán.

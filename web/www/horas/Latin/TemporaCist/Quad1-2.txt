@@ -3,3 +3,5 @@
 [Rank]
 Feria Tertia infra Hebdomadam I in Quadragesima;;Feria major;;3
 
+[Ant 3]
+Abiit * Jesus foras extra civitátem in Bethániam: ibíque docébat eos de regno Dei.

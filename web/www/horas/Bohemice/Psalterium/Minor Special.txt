@@ -1,6 +1,6 @@
 [Dominica Tertia]
 !1 John. 4:16
-v. God is charity: and he that abideth in charity, abideth in God, and God in him.
+v. Bůh je láska; a kdo přebývá v lásce, ten přebývá v Bohu, a Bůh přebývá v něm.
 $Deo gratias
 _
 R.br. Incline my heart * into thy testimonies.
@@ -10,12 +10,12 @@ R. Into thy testimonies.
 &Gloria
 R. Incline my heart * into thy testimonies.
 _
-V. I said: O Lord, be thou merciful to me.
-R. Heal my soul, for I have sinned against thee.
+V. Řekl jsem: Pane, smiluj se nade mnou.
+R. Uzdrav mou duši, neboť jsem zhřešil proti tobě.
 
 [Dominica Sexta]
 !Gal 6:2
-v. Bear ye one another's burdens; and so you shall fulfill the law of Christ.
+v. Noste si navzájem svá břemena; a tak naplníte zákon Kristův.
 $Deo gratias
 _
 R.br. For ever, O Lord, * thy word standeth firm in heaven.
@@ -25,12 +25,12 @@ R. Thy word standeth firm in heaven.
 &Gloria
 R. For ever, O Lord, * thy word standeth firm in heaven.
 _
-V. The Lord ruleth me: and I shall want nothing. 
-R. He hath set me in a place of pasture.
+V. Hospodin je můj pastýř, nic nebudu postrádat. 
+R. Dává mi prodlévat na štědrých pastvinách.
 
 [Dominica Nona]
 !1 Cor 6:20
-v. For you are bought with a great price. Glorify and bear God in your body.
+v. Vykoupeni jste totiž za vysokou cenu. Oslavujte a noste Boha na svém těle.
 $Deo gratias
 _
 R.br. I cried with my whole heart, * hear me, O Lord.
@@ -40,12 +40,12 @@ R. Hear me, O Lord.
 &Gloria
 R. I cried with my whole heart, * hear me, O Lord.
 _
-V. From my secret ones cleanse me, O Lord.
-R. And from those of others spare thy servant. 
+V. Od mých skrytých vad očisti mě, Hospodine.
+R. A od těch u ostatních ušetři svého služebníka. 
 
 [Feria Tertia]
 !Jer 17:14
-v. Heal me, O Lord, and I shall be healed: save me, and I shall be saved, for thou art my praise.
+v. Očisti mě, Pane, a budu očištěn, uzdrav mě, a budu uzdraven; neboť ty jsi má chvála.
 $Deo gratias
 _
 R.br. Heal my soul, * for I have sinned against thee.
@@ -55,8 +55,8 @@ R. For I have sinned against thee.
 &Gloria 
 R. Heal my soul, * for I have sinned against thee.
 _
-V. Be thou my helper, forsake me not.
-R. Do not thou despise me, O God my Saviour. 
+V. Budiž mým pomocníkem, neopouštěj mě.
+R. Ani na mě v pohaně neshlížej, Bože, můj zachránče. 
 
 [Feria Sexta]
 !Rom 13:8
@@ -138,7 +138,7 @@ R. Forgive the misdeeds of your people.
 
 [Quad Tertia]
 !Joel 2:12-13
-v. Be converted to me with all your heart, in fasting, and in weeping, and in mourning. And rend your hearts, and not your garments, said the almighty Lord.
+v. Obraťte se ke mě celým svým srdcem, v postu, a pláči, a nářku. A roztrhněte své srdce, a nejen svůj oděv, praví Hospodin všemohoucí.
 $Deo gratias
 
 [Responsory Quad Tertia]
@@ -154,7 +154,7 @@ R. A pod jeho perutěmi nalezneš naději.
 
 [Quad Sexta]
 !Isa 55:7
-v. Let the wicked forsake his way, and the unjust man his thoughts, and let him return to the Lord, and he will have mercy on him, and to our God: for he is bountiful to forgive.
+v. Bezbožník ať opustí svou cestu, a křivý muž své smýšlení, a obrátí se opět k Hospodinu, a on se nad ním smiluje, a k našemu Bohu, neboť hojné je u něho odpuštění.
 $Deo gratias
 
 [Responsory Quad Sexta]
@@ -170,7 +170,7 @@ R. Nebudeš se bát zlých snů.
 
 [Quad Nona]
 !Isa 58:7
-v. Deal thy bread to the hungry, and bring the needy and the harbourless into thy house: when thou shalt see one naked, cover him, and despise not thy own flesh.
+v. Ulom hladovému svůj chléb, a chudáky a tuláky přiváděj do svého domu; když uvidíš nahého, obleč jej, a nepohrdej svým tělem.
 $Deo gratias
 
 [Responsory Quad Nona]

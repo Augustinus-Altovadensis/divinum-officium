@@ -667,8 +667,25 @@ sub psalmi_minor {
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms);
 
-  if ($version =~ /monastic|Cistercien/i) {
+  if ($version =~ /monastic/i) {
     @psalmi = split("\n", $psalmi{Monastic});
+    my $i =
+        ($hora =~ /prima/i) ? $dayofweek
+      : ($hora =~ /tertia/i) ? 8
+      : ($hora =~ /sexta/i) ? 11
+      : ($hora =~ /nona/i) ? 14
+      : 17;
+
+    if ($hora !~ /(prima|completorium)/i) {
+      if ($dayofweek > 0) { $i++; }
+      if ($dayofweek > 1) { $i++; }
+    }
+    $psalmi[$i] =~ s/\=/\;\;/;
+    my @a = split(';;', $psalmi[$i]);
+    $ant = chompd($a[1]);
+    $psalms = chompd($a[2]);
+  } if ($version =~ /Cistercien/i) {
+    @psalmi = split("\n", $psalmi{Cistercian});
     my $i =
         ($hora =~ /prima/i) ? $dayofweek
       : ($hora =~ /tertia/i) ? 8
@@ -770,8 +787,22 @@ sub psalmi_minor {
       : ($dayname[0] =~ /Adv4/i) ? 'Adv4'
       : ($dayname[0] =~ /(Quad5|Quad6)/i) ? 'Quad5'
       : ($dayname[0] =~ /Quad/i && $dayname[0] !~ /Quadp/i) ? 'Quad'
+      : ($dayname[0] =~ /Quad[1-6]/i && $version =~ /Cistercien/i) ? 'QuadC'
       : ($dayname[0] =~ /Pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) ? 'Pasch'
       : '';
+
+    if ( $version =~ /Cistercien/i )
+      {
+        $name =
+        ($dayname[0] =~ /Adv1/i) ? 'Adv1'
+      : ($dayname[0] =~ /Adv2/i) ? 'Adv2'
+      : ($dayname[0] =~ /Adv3/i) ? 'Adv3'
+      : ($dayname[0] =~ /Adv4/i) ? 'Adv4'
+      : ($dayname[0] =~ /(Quad5|Quad6)/i) ? 'Quad5'
+      : ($dayname[0] =~ /Quad[1-6]/i) ? 'QuadC'
+      : ($dayname[0] =~ /Pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) ? 'Pasch'
+      : '';
+      }
 
     if ($month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
       my $i = $dayofweek + 1;
@@ -1760,7 +1791,7 @@ sub major_getname {
   }
   if ($version =~ /Cistercien/i && $flag) { 
     $name .= 'C';
-    $name =~ s/Day[1-5]C/DayCM/i; 
+    $name =~ s/Day[1-6]C/DayCM/i; 
   }
   $name .= " $hora";
   return $name;

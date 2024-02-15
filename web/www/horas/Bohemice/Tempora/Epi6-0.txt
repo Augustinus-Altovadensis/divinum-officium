@@ -6,7 +6,7 @@ Dominica VI Post Epiphaniam;;Semiduplex;;5
 Symbolum Athanasium
 
 [Oratio]
-Grant us, we beseech thee, O Almighty God, ever to think such things as be reasonable, and in every word and work of ours, to do always that is well pleasing in thy sight.
+Uděl, prosíme, všemohoucí Bože, abychom vždy rozumné věci uvažujíce, co tobě se líbí i plnili slovy i skutky.
 $Per Dominum
 
 [Lectio1]
@@ -61,7 +61,7 @@ But when the doctrines of men grow up, there is therein nothing piercing, nothin
 &teDeum
 
 [Ant 2]
-The kingdom of heaven * is like to a grain of mustard-seed, which is the least of all seeds, but, when it is grown, it is the greatest among herbs.
+Podobné jest * království nebeské hořčičnému zrnu, které je nejmenší mezni všemi semeny; když však vyroste, je větší než všechny ostatní byliny.
 
 [Ant 3]
-The kingdom of heaven * is like unto leaven, which a woman took and hid in three measures of meal till the whole was leavened.
+Podobné jest * království nebeské kvasu, které žena vzala a ukryla do třech měřic mouky, dokud se vše neprokvasilo.

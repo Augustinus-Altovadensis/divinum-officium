@@ -155,6 +155,13 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.
 4 = 
 5 = Per arma justítiæ * virtútis Dei commendémus nosmetípsos in multa patiéntia.
 
+[QuadC]
+1 = Thesaurizáte * vobis thesáuros in cœlo, ubi nec ærúgo, nec tínea demolítur.
+2 = Non in solo pane * vivit homo, sed in omni verbo, quod procédit de ore Dei.
+3 = Commendémus nosmetípsos * in multa patiéntia, in jejúniis multis, per arma justítiæ.
+4 = 
+5 = Per arma justítiæ * virtútis Dei commendémus nosmetípsos in multa patiéntia.
+
 [Quad5]
 1 = Líbera me, Dómine, * et pone me juxta te: et cujúsvis manus pugnet contra me.
 2 = Judicásti, Dómine, * causam ánimæ meæ, defénsor vitæ meæ, Dómine, Deus meus.
