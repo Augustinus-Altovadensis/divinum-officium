@@ -1,7 +1,7 @@
 @Sancti/11-30
 
 [Rank]
-S. Andreæ Apostoli;;MM. maj.;;6;;ex C1
+S. Andreæ Apostoli;;MM. maj.;;5;;ex C1
 
 [Rule]
 12 lectiones

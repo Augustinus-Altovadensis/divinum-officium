@@ -1,6 +1,6 @@
 @Sancti/11-23t
 [Rank]
-S. Clementis I Papæ et Martyris;;Duplex;;4;;vide C2
+S. Clementis I Papæ et Martyris;;Duplex;;3;;vide C2
 
 [Ant Vespera]
 Cantántibus orgánis, * Cæcília Dómino decantábat, dicens: Fiat cor meum immaculátum, ut non confúndar.;;109

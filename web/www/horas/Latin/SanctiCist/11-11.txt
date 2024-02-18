@@ -1,7 +1,7 @@
 @Sancti/11-11
 
 [Rank]
-S. Martini Episcopi et Confessoris;;Duplex;;6;;vide C4
+S. Martini Episcopi et Confessoris;;Duplex;;5;;vide C4
 
 [Rule]
 12 lectiones
