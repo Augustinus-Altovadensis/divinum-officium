@@ -5,10 +5,10 @@ Dominica II in Quadragesima;;I classis Semiduplex;;6
 9 lectiones
 
 [Ant 1]
-Tell the vision that ye have seen to no man, * until the Son of man be risen again from the dead.
+To, co jste právě viděli, * nikomu nevyprávějte, dokud z mrtvých nevstane Syn člověka.
 
 [Oratio]
-O God, Who seest that we have no power of ourselves to help ourselves, keep us both outwardly in our bodies, and inwardly in our souls, that we may be defended from all adversities which may happen to the body, and from all evil thoughts which may assault and hurt the soul.
+Bože, jenž vidíš, že jsme veškeré síly zbaveni, opatruj nás vnitř i zevně, abychom byli ode všech protivenství chráněni na těle a od zvrácených myšlenek očištěni na duši.
 $Per Dominum
 
 [Lectio1]
@@ -151,7 +151,7 @@ R. Deliver me, O Lord, Who saidst unto me:
 R. I will multiply thy seed as the stars of heaven, and as the sand of the sea, which cannot be numbered for multitude.
 
 [Ant Laudes]
-O Lord, open Thou my lips, * and my mouth shall show forth thy praise.
+Pane, * rty mé otevři, a má ústa budou zvěstovat tvou chválu.
 The right hand of the Lord * hath done valiantly, the right hand of the Lord hath exalted me.
 My God * hath been my help.
 Let us sing the Song of the Three Children, * even the Song that they sang when they blessed the Lord in the burning fiery furnace.
@@ -159,11 +159,11 @@ He hath established them * for ever and ever He hath made a decree which shall n
 
 [Capitulum Laudes]
 !1 Thess 4:1
-v. For the rest therefore, brethren, we pray and beseech you in the Lord Jesus, that as you have received from us, how you ought to walk, and to please God, so also you would walk, that you may abound the more.
+v. Bratři, prosíme vás a napomínáme v Pánu Ježíši: cokoliv jste se od nás naučili, jak máte žít, a líbit se Bohu, abyste tak i žili, a vynikali v tom ještě více.
 $Deo gratias
 
 [Ant 2]
-Jesus took His disciples, * and went up into a mountain, and was transfigured before them.
+Vzal Ježíš * své učedníky, vystoupil na horu, a byl před nimi proměněn.
 
 [Ant Prima]
 Lord, it is good for us to be here; * if Thou wilt, let us make here three tabernacles, one for thee, and one for Moses, and one for Elias.
@@ -173,10 +173,10 @@ Let us make here three tabernacles, * one for thee, and one for Moses, and one f
 
 [Capitulum Sexta]
 !1 Thess 4:3-4
-v. For this is the will of God, your sanctification; that you should abstain from fornication, that every one of you should know how to possess his vessel in sanctification and honour.
+v. Neboť to je vůle Boží: vaše posvěcení! Zdržujte se smilství, naučte se každý držet svoje tělo ve svaté kázni a počestnosti.
 $Deo gratias
 
 [Capitulum Nona]
 !1 Thess 4:7
-v. For God hath not called us unto uncleanness, but unto sanctification in Christ Jesus our Lord.
+v. Bůh nás přece nepovolal k nečistotě, ale k posvěcení, v Kristu Ježíši našem Pánu.
 $Deo gratias

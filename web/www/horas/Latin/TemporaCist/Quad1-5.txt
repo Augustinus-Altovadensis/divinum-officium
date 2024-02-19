@@ -3,3 +3,5 @@
 [Rank]
 Feria Sexta Quattuor Temporum Quadragesimæ;;Feria major;;4
 
+[Ant 3]
+Dómine, * non hábeo hóminem, ut, cum mota fúerit aqua, mittat me in piscínam.
