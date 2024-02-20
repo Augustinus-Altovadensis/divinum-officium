@@ -1,3 +1,39 @@
+[Ant Vespera]
+Maria byla vzata do nebe; * radují se Andělé, chválí a dobrořečí Pána.;;109
+Dnes * Panna Maria vystoupila do nebe; radujte se, neboť spolu s Kristem kraluje navěky.;;112
+Panna Maria byla vzata * do vzdušné svatební komůrky, v niž sedí Král králů na hvězdném trůnu.;;121
+Vyvýšena byla * svatá Boží Rodička nad kůry Andělů do nebeské říše.;;126
+Brány ráje * jsou nám skrze tebe otevřeny, jež se dnes ve slávě raduješ s Anděly.;;147
+
+[Capitulum Vespera]
+!Eccl. 24,11
+v.  Ve všem jsem hledala spočinutí, a v Pánově dědictví budu přebývat. Tehdy mi přikázal a řekl Stvořitel veškerenstva; a ten, který mě stvořil, spočinul v mém stanu.
+$Deo gratias
+_
+Responsorium. Blahoslavená jsi, Panno Maria, Boží Rodičko, jež jsi uvěřila Pánu; dokonáno v tobě jest, co tobě bylo řečeno: hle, vyvýšena jsi nad chóry Andělů: * Přimlouvej se za nás u Pána našeho Boha.
+V. Zdrávas Maria, milosti plná; Pán s tebou.
+R. Přimlouvej se za nás u Pána našeho Boha.
+
+[HymnusM Vespera]
+@:Hymnus Vespera:s/Jesu, tibi sit glória/Glória tibi, Dómine/
+
+[Ant Laudes]
+@Sancti/08-15t:Ant Vespera:s/;;.*//g
+
+[Capitulum Laudes]
+!Eccl. 24,11
+v.  Ve všem jsem hledala spočinutí, a v Pánově dědictví budu přebývat. Tehdy mi přikázal a řekl Stvořitel veškerenstva; a ten, který mě stvořil, spočinul v mém stanu.
+$Deo gratias
+_
+@Sancti/08-15t:Responsory Nona:s/._.*//s
+
+[Capitulum Vespera 3]
+!Eccl. 24,11
+v.  Ve všem jsem hledala spočinutí, a v Pánově dědictví budu přebývat. Tehdy mi přikázal a řekl Stvořitel veškerenstva; a ten, který mě stvořil, spočinul v mém stanu.
+$Deo gratias
+_
+@Sancti/08-15:Responsory Sexta:1-6
+
 [Ant Matutinum]
 The holy Mother of God is exalted over choirs of Angels into the heavenly kingdom.;;8
 Through you the gates of Paradise have been thrown open to us, O you who this day triumphs so gloriously among the Angels.;;18
