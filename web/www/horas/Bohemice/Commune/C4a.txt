@@ -60,11 +60,11 @@ But the nature of salt is to be ever the same, and unchanging, and, on the other
 &teDeum
 
 [Oratio]
-Grant, we beseech thee, O Almighty God, that the worshipful Feast of thy blessed confessor and bishop N., may avail us to the increase both of godliness toward thee, and healthfulness to our own souls.
+Dej nám, prosíme, všemohoucí Bože, abychom následovali poučení i příklady svatého N., tvého Vyznavače a Biskupa; abychom skrze pohrdání věcmi pozemskými dosáhli věčných radostí.
 $Per Dominum
 
 [Oratio3]
-Hear, O Lord, we beseech thee, the prayers which we offer thee on this the solemn feast-day of thy blessed Confessor and bishop N., and, for the sake of him who so nobly served thee, forgive us our trespasses.
+Dej, prosíme, všemohoucí Bože, aby úctyhodná slavnost svatého N., tvého Vyznavače a Biskupa, rozmnožila naši zbožnost i spásu.
 $Per Dominum.
 
 [Lectio72]

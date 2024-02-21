@@ -1,7 +1,7 @@
 @Tempora/Quad1-5
 
 [Rank]
-Feria Sexta Quattuor Temporum Quadragesimæ;;Feria major;;4
+Feria Sexta Quattuor Temporum Quadragesimæ;;Feria;;2.1
 
 [Ant 3]
 Dómine, * non hábeo hóminem, ut, cum mota fúerit aqua, mittat me in piscínam.

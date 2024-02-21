@@ -181,11 +181,11 @@ Exáudi nos, Deus, salutáris noster: ut sicut de beátæ N. festivitáte gaudé
 $Per Dominum
 
 [Oratio1]
-Deus, qui inter cetera potentiae tuae miracula, étiam in sexu fragili victoriam martyrii contulisti: concede propitius; ut qui beatae N. Martyris tuae natalitia colimus, per ejus ad te exempla gradiamur.
+Deus, qui inter cétera poténtiæ tuæ mirácula, étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut qui beátæ N. Mártyris tuæ natalítia cólimus, per ejus ad te exémpla gradiámur.
 $Per Dominum.
 
 [Oratio2]
-Da nobis, quaesumus, Domine Deus noster, sanctarum Martyrum tuarum N. et N. palmas incessabili devotione venerari: ut quas digna mente non possumus celebrare, humilibus saltem frequentemus obsequiis.
+Da nobis, quǽsumus, Dómine Deus noster, sanctárum Mártyrum tuárum N. et N. palmas incessábili devotióne venerári: ut quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.
 $Per Dominum
 
 [Lectio Prima]

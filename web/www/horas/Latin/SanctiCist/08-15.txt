@@ -23,8 +23,27 @@ Responsorium. Beáta es, Virgo María, Dei Génitrix, quæ credidísti Dómino: 
 V. Ave María, grátia plena: Dóminus tecum.
 R. Intercéde pro nobis ad Dóminum Deum nostrum.
 
-[HymnusM Vespera]
-@:Hymnus Vespera:s/Jesu, tibi sit glória/Glória tibi, Dómine/
+[HymnusC Vespera]
+O quam glorífica luce corúscas,
+Stirpis Davídicæ régia proles,
+Sublímis résidens virgo María,
+Supra cælígenas ǽtheris omnes!
+_
+Tu cum virgíneo, Mater, honóre
+Angelórum Dómino péctoris aulam
+Sacris viscéribus casta parásti;
+Natus hinc Deus est córpore Christus.
+_
+Quem cunctus vénerans orbis adórat,
+Cui nunc rite genu fléctitur omne,
+A quo nos pétimus te veniénte
+Abiéctis ténebris gáudia lucis.
+_
+Hoc largíre, Pater lúminis omnis,
+Natum per próprium Flámine sancto,
+Qui tecum nítida vivit in æthra
+Regnans et móderans sǽcula cuncta.
+Amen.
 
 [Versum 1]
 @CommuneM/C12

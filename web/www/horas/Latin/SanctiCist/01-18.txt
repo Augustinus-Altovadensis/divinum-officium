@@ -78,7 +78,7 @@ Prisca, nobilis virgo Romana, trédecim annos nata, Cláudio imperatóre, christ
 &teDeum
 
 [Hymnus Laudes]
-@Sancti/02-22:Hymnus Laudes
+@Sancti/02-22:HymnusM Laudes
 
 [Versum 2]
 @Sancti/02-22

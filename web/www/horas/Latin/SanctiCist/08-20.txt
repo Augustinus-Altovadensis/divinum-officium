@@ -1,7 +1,111 @@
 @Sancti/08-20
 
 [Rank]
-S. Bernardi Abbatis et Ecclesiæ Doctoris;;Duplex;;3;;vide C5
+S. Bernardi, Abbatis, et Ecclesiæ Doctoris;;Serm. maj.;;7;;ex C5
+
+[Ant Vespera]
+Beátus Bernárdus ab infántia spíritum sortítus est bonum, per quem erat puer docílis, et amábilis valde. 
+In disciplína morum profectúque virtútum super docéntes se in brevi enítuit unctióne magístra. 
+Crescénte ætáte crescébat simul sapiéntia, et grátia apud Deum, et hómines. 
+Hódie, pósito córpore, Pater sanctus, dives méritis penetrávit in sancta, símilis factus in glória Sanctórum.
+
+[HymnusC Vespera]
+Bernárdus Doctor ínclytus
+Cælos conscéndit hodie:
+Quem attráxit divinitus 
+Splendor paternæ glóriæ.
+_
+Exúltet cælum laudibus 
+De Bernárdi consórtio: 
+Quem conjúngis cæléstibus, 
+Jesu nostra redémptio. 
+_
+Rufum dorso per cátulum 
+Præfigurásti púerum 
+Fore Doctórem sédulum, 
+Cónditor alme síderum. 
+_
+Nascéntis ei cláruit 
+Clara Christi natívitas 
+Hoc a te donum hábuit, 
+O lux beáta Trínitas! 
+_
+Arcána sacræ páginæ 
+Declárat, et mystérium 
+Quod effécit in Vírgine 
+Deus Creátor ómnium. 
+_
+Rore perfúsum grátiæ 
+Monstrat dulcor elóquii: 
+Per te fons sapiéntiæ, 
+Summi largítor præmii. 
+_
+Deténtos a dæmónibus 
+Sanat, morbos languéntium 
+Curat, confert doléntibus 
+Magnum salútis gaudium. 
+_
+Vita vivit felíciter 
+Cum María Christífera, 
+Cum qua degustat dúlciter 
+Ætérna Christi múnera. 
+_
+Summæ Deus potentiæ, 
+Tibi sit laus at glória: 
+Da post cursum misériæ 
+Beáta nobis gáudia. 
+Amen. 
+
+[Versum 1]
+V.Ora pro nobis beáte Bernárde.
+R. Ut digni efficiámur promissiónibus Christi.
+
+[Ant 1]
+Sanctum suum magnificávit Dóminus, et dedit illi scientiam Sanctórum, ut consummaréntur in bonum ópera ejus, et pax Dei super eum in ætérnum.
+
+[Oratio] 
+Pérfice, quæsumus Dómine, pium in nobis sanctæ religiónis afféctum: et ad obtinéndam tuæ grátiæ largitátem, beátus Bernárdus Abbas, et Doctor egrégius suis apud te semper pro nobis méritis et précibus intercédat.
+$Per Dominum
+
+[Ant Laudes]
+De omni corde suo laudávit Dóminum: et lex veritátis semper in ore ejus. 
+
+[HymnusC Laudes]
+Intrat Cistércium cum tricenário, 
+Fratris connúbium solvit relígio: 
+Gerárdus hóstium perfóssus gládio 
+Liber exit cum vínculo. 
+_
+Jussu Pontíficis óbedit rústico: 
+Oleum cálicis bibit prothético: 
+Stat in verídicis corde prophético, 
+Rastrum coæquat ánnulo. 
+_
+Scribit epistolam in imbris médio, 
+Muscæ parábolam affert extínctio: 
+Fœminam díscolam plenam dæmónio 
+Curat crucis signáculo. 
+_
+Maríæ cíthara, Scriptúras éxplicat, 
+Spóliat tártara, functos vivíficat: 
+Necnon gens bárbara hunc sanctum prædicat 
+Ore stylo miráculo.
+_
+Sit laus Ingénito, decus et glória, 
+Ab Unigénito sit reis vénia: 
+Nobis Paráclito, præstánte gáudia, 
+In infiníto sæculo. 
+Amen. 
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+Dóminus Deus Patris nostri sit benedíctus, qui ejus doctrína, et exémplo ædificávit Ecclésiam suam, ejus felíci assumptióne supérnam lætificávit civitátem: ejus solémni recordatióne præséntem hódie consolátur famíliam. 
+
+[Capitulum Sexta]
+Dedit confessiónem Sancto, et Excélso in verbo glóriæ. De omni corde suo laudávit Dóminum, et diléxit Deum qui fecit illum.
+
 
 [Responsory1]
 @Commune/C4a:Responsory8

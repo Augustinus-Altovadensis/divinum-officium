@@ -1,0 +1,18 @@
+@Sancti/03-07
+[Rank]
+S. Tomáše Akvinského, Vyznavače a Učitele Církve;;Duplex;;4;;ex C5
+
+[Name]
+Tomáš
+
+[Rule]
+ex C5;
+9 lectiones
+
+[Ant 1]
+@Commune/C4a:Ant 1:s/N./Tomáši/
+
+[Commemoratio]
+!Připomínka svatých Mučednic Perpetuy et Felicity
+@CommuneCist/C7b:Oratio:s/N. a N./Perpetuy et Felicity/
+

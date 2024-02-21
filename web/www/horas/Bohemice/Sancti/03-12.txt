@@ -9,9 +9,7 @@ vide C4a;
 Gregory
 
 [Oratio]
-O God, who hast blessed the soul of thy servant Gregory with an everlasting~
-blessing, mercifully grant that we, who groan under the burden of our sins, may~
-by his prayers be relieved.
+Bože, jenž jsi dal duši svého služebníka Řehoře odměnu věčné bláženosti, uděl milostivě, abychom my, kteří jsme tisknuti vahou svých hříchů, jeho přímluvami u tebe byli pozvedáni.
 $Per Dominum
 
 [Lectio4]

@@ -12,16 +12,15 @@ Antiphonas horas
 Psalm5 Vespera=116
 
 [Ant Vespera]
-And Jacob begat Joseph * the husband of Mary, of whom was born Jesus, Who is called Christ.;;109
-The Angel Gabriel * was sent from God, unto a city of Galilee, named Nazareth, to a virgin espoused to a man whose name was Joseph, of the house of David, and the virgin's name was Mary.;;110
-When as Mary * the mother of Jesus, was espoused to Joseph, before they came together, she was found with child, of the Holy Ghost.;;111
-Then Joseph her husband * being a just man, and not willing to make her a public example, was minded to put her away privily.;;112
+Jakub pak * zplodil Josefa, muže Mariina, z níž narodil se Ježíš, nazvaný Kristus.;;109
+Poslán byl * Anděl Gabriel od Boha k Panně zasnoubené muži, který se jmenoval Josef, z domu Davidova, a jméno Panny bylo Maria.;;110
+Když byla zasnoubena * Matka Ježíšova, Maria, s Josefem, ještě než spolu začali bydlet, shledala, že je čeká dítě z Ducha svatého.;;111
+Josef, její muž, * protože byl spravedlivý, a nechtěl ji předvést <i>před lidi</i>, chtěl ji potají propustit.;;112
 But while he thought on these things, behold, the angel of the Lord * appeared unto him in a dream, saying: Joseph, thou son of David, fear not to take unto thee, Mary, thy wife; for that which is conceived in her is of the Holy Ghost: and she shall bring forth a son, and thou shalt call His name Jesus.;;116
 
 [Capitulum Vespera]
-!Prov 28:20; 27:18
-v. A faithful man shall be much praised: and he that is the keeper of his master,~
-shall be glorified.
+!Přísloví 28:20; 27:18
+v. Věrný muž bude velmi chválen. A ten, kdo je strážcem svého Pána, bude oslaven.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -52,17 +51,14 @@ And sing our glad eternal strain.
 Amen.
 
 [Versum 1]
-V. He made him lord of His house. Alleluia.
-R. And ruler of all His substance. Alleluia.
+V. Ustanovil jej správcem svého domu. Alleluja.
+R. A vládcem veškerého svého majetku. Alleluja.
 
 [Ant 1]
-Joseph, being raised * from sleep, did as the Angel of the Lord had bidden him,~
-and took unto him his wife.
+Když se Josef probudil ze snu, * učinil, co mu přikázal Anděl Páně, a přijal k sobě svou snoubenku.
 
 [Oratio]
-Help us, we beseech thee, O Lord, for the sake of the Husband of thy most holy~
-Mother, that what we cannot for ourselves obtain, Thou mayest grant us at his~
-petition.
+Prosíme tě, Pane, ať nám zásluhy Snoubence tvé přesvaté Rodičky pomohou, aby, čeho naše síly dosáhnouti nemohou, jeho přímluvou nám bylo uděleno. 
 $Qui vivis
 
 [Invit]
@@ -247,16 +243,15 @@ R. And was subject unto them.
 R. And was subject unto them.
 
 [Ant Laudes]
-The parents of Jesus * went to Jerusalem every year, at the feast of the Passover.
-When they returned * the Child Jesus tarried behind in Jerusalem, and His parents knew not of it.
-When they found not Jesus, * they turned back again to Jerusalem, seeking Him; and after three days they found Him in the Temple, sitting in the midst of the Doctors, both hearing them and asking them questions.
-His mother said unto Him: * Son, why hast Thou thus dealt with us? Behold, thy father and I have sought thee sorrowing.
-Jesus went down with them, * and came to Nazareth, and was subject unto them.
+Ježíšovi rodiče chodívali * každý rok do Jerusaléma, na slavný den Paschy.
+Když se vraceli, * chlapec Ježíš zůstal v Jerusalémě, ale jeho rodiče o tom nevěděli.
+Když nemohli najít Ježíše, * vrátili se do Jerusaléma, a hledali jej; a po třech dnech jej nalezli v chrámě, jak seděl uprostřed Učenců, naslouchal, a tázal se jich.
+Řekla mu jeho Matka: * Synu, proč jsi nám to učinil? Hle, tvůj otec a já jsme tě v obavách hledali.
+Ježíš šel zpátky s nimi, * a přišel do Nazareta, a byl jim podřízen.
 
 [Capitulum Laudes]
-!Prov 28:20; 27:18
-v. A faithful man shall be much praised: and he that is the keeper of his master,~
-shall be glorified.
+!Přísloví 28:20; 27:18
+v. Věrný muž bude velmi chválen. A ten, kdo je strážcem svého Pána, bude oslaven.
 $Deo gratias
 
 [Hymnus Laudes]
@@ -287,76 +282,71 @@ Their aureoles dost award.
 Amen.
 
 [Versum 2]
-V. The mouth of the righteous speaketh wisdom.
-R. And his tongue talketh judgment.
+V. Ústa spravedlivého rozmlouvají moudrá slova.
+R. A jeho jazyk pronáší spravedlivé soudy.
 
 [Ant 2]
-Jesus Himself * began to be about thirty years of age, being, as was supposed, the son of Joseph.
+Sám Ježíš, * když mu bylo asi třicet let, když byl považován za syna Josefova.
 
 [Lectio Prima]
 !Wis 10:10
 v. She conducted the just, and showed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours.
 
 [Capitulum Tertia]
-!Prov 28:20; 27:18
+!Přísloví 28:20; 27:18
 v. A faithful man shall be much praised: and he that is the keeper of his master,~
 shall be glorified.
 $Deo gratias
 
 [Responsory Tertia]
-R.br. He made him * lord of His house.
-R. He made him * lord of His house.
-V. And ruler of all His substance.
-R. Lord of His house.
+R.br. Ustanovil jej * Pánem svého domu.
+R. Ustanovil jej * Pánem svého domu.
+V. A vládcem na veškerým svým majetkem.
+R. Pánem svého domu.
 &Gloria
-R. He made him * lord of His house.
+R. Ustanovil jej * Pánem svého domu.
 _
-V. His glory is great in thy salvation.
-R. Honour and great majesty shalt Thou lay upon him.
+V. Veliká je jeho sláva ve tvé spáse.
+R. Slávu a velikou vznešenost mu udělíš.
 
 [Capitulum Sexta]
 !Sir 45:1; 45:4
-v. Beloved of God, and men: whose memory is in benediction. He sanctified him in his faith, and meekness, and chose him out of all flesh.
+v. Byl drahý Bohu i lidem – požehnaná buď památka na něj! Posvětil ho pro jeho věrnost a oddanost a vyvolil ho ze všech lidí.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. His glory is great * in thy salvation.
-R. His glory is great * in thy salvation.
-V. Honour and great majesty shalt Thou lay upon him.
-R. In thy salvation.
+R.br. Veliká je jeho sláva * ve tvé spáse.
+R. Veliká je jeho sláva * ve tvé spáse.
+V. Slávu a velikou vznešenost mu udělíš.
+R. Ve tvé spáse.
 &Gloria
-R. His glory is great * in thy salvation.
+R. Veliká je jeho sláva * ve tvé spáse.
 _
-V. The righteous shall grow as the lily.
-R. Yea, he shall flourish for ever in the presence of the Lord.
+V. Spravedlivý vyroste jako lilie.
+R. A kvést bude navěky před Hospodinem.
 
 [Capitulum Nona]
-!Wis 10:10
-v. She conducted the just, and showed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours.
+!Moudrost 10:10
+v. Ona vedla spravedlivého po přímých stezkách, když utíkal před rozhněvaným bratrem. Ukázala mu Boží království a dala mu poznat svaté věci. V trápeních mu darovala úspěch, jeho námahy ověnčila zdarem.
 $Deo gratias
 
 [Responsory Nona]
-R.br. The righteous shall grow * as the lily.
-R. The righteous shall grow * as the lily.
-V. Yea, he shall flourish for ever in the presence of the Lord.
-R. As the lily.
+R.br. Spravedlivý vyroste * Jako lilie.
+R. Spravedlivý vyroste * Jako lilie.
+V. A kvést bude navěky před Hospodinem.
+R. Jako lilie.
 &Gloria
-R. The righteous shall grow * as the lily.
+R. Spravedlivý vyroste * Jako lilie.
 _
-V. Planted in the house of the Lord
-R. In the courts of the house of our God.
+V. Zasazeni v domě Hospodinově.
+R. V nádvořích domu našeho Boha.
 
 [Ant Vespera 3]
-The parents of Jesus * went to Jerusalem every year, at the feast of the Passover.
-When they returned * the Child Jesus tarried behind in Jerusalem, and His parents knew not of it.
-When they found not Jesus, * they turned back again to Jerusalem, seeking Him; and after three days they found Him in the Temple, sitting in the midst of the Doctors, both hearing them and asking them questions.
-His mother said unto Him: * Son, why hast Thou thus dealt with us? Behold, thy father and I have sought thee sorrowing.
-Jesus went down with them, * and came to Nazareth, and was subject unto them.
+@:Ant Laudes
 
 [Versum 3]
-V. Glory and riches shall be in his house.
-R. And his righteousness endureth for ever.
+V. Sláva a bohatství budou v jeho domě.
+R. A jeho spravedlnost zůstane na věky věkův.
 
 [Ant 3]
-Behold a faithful * and wise servant, whom his Lord hath made ruler over His~
-household.
+Hle věrný služebník, * a moudrý, jejž ustanovil Hospodin nad svou rodinou.

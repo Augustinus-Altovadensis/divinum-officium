@@ -9,10 +9,7 @@ vide C5a;
 9 lectiones
 
 [Oratio]
-O God, Who dost enlighten thy Church by the wonderful learning of thy blessed~
-Confessor Thomas, and quickenest her through his godly labours, grant unto thy~
-people, we humbly beseech thee, ever to apprehend by their understanding what he~
-teacheth, and in their life faithfully to practice the same.
+Bože, jenž svou Církev oslavuješ podivuhodnou učeností svého svatého Vyznavače Tomáše a svatou činností oplodňuješ; dej nám, prosíme, rozumem chápati, co učil, i následováním plnit, co činil.
 $Per Dominum
 
 [Lectio4]

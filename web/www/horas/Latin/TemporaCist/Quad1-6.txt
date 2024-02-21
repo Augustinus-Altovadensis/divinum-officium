@@ -1,5 +1,5 @@
 @Tempora/Quad1-6
 
 [Rank]
-Sabbato Quattuor Temporum Quadragesimæ;;Feria major;;4
+Sabbato Quattuor Temporum Quadragesimæ;;Feria major;;2.1
 

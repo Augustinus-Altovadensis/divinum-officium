@@ -1,3 +1,84 @@
+[Capitulum Vespera]
+@Sancti/03-19:Capitulum Laudes
+_
+Responsorium. Hospodin mě učinil jako králova otce, a Pánem celého jeho donu: nebojte se: * Pro vaši spásu mě totiž Bůh poslal před vámi do Egypta. Alleluja.
+V. Přijďte ke mně, a já vám dám všechna dobra Egypta, a pojíte z plodů země.
+R. Pro vaši spásu mě totiž Bůh poslal před vámi do Egypta. Alleluja.
+
+[Capitulum Vespera 3]
+@Sancti/03-19:Capitulum Laudes
+_
+R.br. Vzýval jsem Hospodina, * Otce mého Pána.
+R. Vzýval jsem Hospodina, * Otce mého Pána.
+V. Aby mě neopouštěl v den mého soužení.
+R. Otce mého Pána.
+&Gloria
+R. Vzýval jsem Hospodina, * Otce mého Pána.
+
+[HymnusC Vespera]
+v. Tento den celá země raduje se 
+Ženicha Panny oslavujme všichni. 
+Zástup nebeský jako jeden Svatý 
+Zpívá mu chválu. 
+_
+Stvořitel světa milý náš Spasitel, 
+Manžela Matce určil tak čistého: 
+Aby se jeho strážcem stal i svědkem 
+Panenství Matky. 
+_
+Když naplnil se spásy čas příhodný, 
+Za muže Josef dán byl své Marii, 
+Z kmene Judova pocházel i z krve 
+Vznešené Králů. 
+_
+Když přiblížil se čas svatého zrodu, 
+Tóho, po němž Otcové dávno lkali,
+Josef první Původce naší spásy 
+Přešťastně spatřil. 
+_
+Jemuž pastýři bdíce se klaněli, 
+Ovil plenkami, v jesle jej položil, 
+Zatím však šťastně v zemi pokoj pěly
+Zástupy nebe. 
+_
+Viděl též hvězdu planout na východě, 
+Podle níž k jeslím zamířili dáti
+Novému králi, dnes narozenému,
+Králové dary. 
+_
+Buď chvála Otci, vždy i jeho Synu, 
+Svatému větru Ducha, také mocnost: 
+Neboť jeden Bůh, i v moci jediný,
+Všechno ovládá. 
+Amen.
+
+[HymnusC Laudes] 
+v. Temonty noci z nebe když zmizely, 
+Odtáhly stíny nezvednosti mysli: 
+Aby vítězství, které dobyl Josef, 
+Věčně chválily. 
+_
+Jamque longævus agitátus annis, 
+Vínculo mortis véteri solútus: 
+Victor et virgo spoliátur ævo, 
+Corpus onústum. 
+_
+Mortis ut victor superávit orcum, 
+Scandit hic vitam simul ad beátam: 
+Summa pro magnis méritis adéptus 
+Præmia palmæ. 
+_
+Ergo regnántem flagitémus ipsum, 
+Cum sua Sponsa véniam precétur, 
+Supplices ut nos capiámus alta 
+Præmia coeli. 
+_
+Laus Patri summo Genitóque semper, 
+Flámini sacro simul et potéstas: 
+Qui Deus simplex ditióne solus 
+Cuncta gubérnat. 
+Amen.
+
 [Ant Matutinum]
 Joseph went up from Galilee, out of the city of Nazareth, into Judea, unto the city of David, which is called Bethlehem, to be enrolled with Mary.;;1
 The shepherds came with haste, and found Mary and Joseph, and the Babe lying in a manger.;;2

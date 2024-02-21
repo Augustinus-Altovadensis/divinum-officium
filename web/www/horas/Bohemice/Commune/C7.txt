@@ -172,11 +172,11 @@ Vyslyš nás, Bože, náš Spasiteli, abychom tak, jako se radujeme ze slavnosti
 $Per Dominum
 
 [Oratio1]
-O God, Who, amidst the wondrous work of thy divine power, dost make even weak women to be more than conquerors in the uplifting of their testimony, mercifully grant unto all us which do keep the birthday of thy blessed handmaiden and witness N. grace to follow her steps toward thee.
+Bože, jenž jsi mezi ostatními zázraky své moci také slabému pohlaví propůjčil vítězství Mučedníků, popřej milostivě, abychom Svaté N., tvé Panny a Mučednice, narozeniny slavíce, podle jejího příkladu k tobě spěli. 
 $Per Dominum.
 
 [Oratio2]
-Grant unto us, we beseech thee, O Lord, our God, that we may ever call to mind, with all worship and thanksgiving, the victory of thy holy virgin martyrs N. and N., and although we know that our mind cannot comprehend thee Who art this day their exceeding great reward, give us always the grace humbly to worship thee.
+Dej nám, prosíme, Pane náš Bože, uctít palmy tvých svatých Mučednic N. a N. neutuchající oddaností; aby když je náležitou myslí oslavit nedokážeme, pokornými snad kroky mohli následovati.
 $Per Dominum
 
 [Lectio Prima]

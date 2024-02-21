@@ -1,1 +1,21 @@
 @Sancti/03-07
+[Rank]
+S. Thomæ de Aquino Confessoris et Ecclesiæ Doctoris;;Duplex;;4;;ex C5
+
+[Name]
+Thoma
+
+[Rule]
+ex C5;
+9 lectiones
+
+[Ant 1]
+@Commune/C4a:Ant 1:s/N./Thoma/
+
+[Ant 3]
+@:Ant 1
+
+[Commemoratio]
+!Commemoratio SS. Martyrum Perpetuæ et Felicitatis
+@CommuneCist/C7b:Oratio:s/N. et N./Perpetuæ et Felicitatis/
+

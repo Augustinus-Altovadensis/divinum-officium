@@ -42,7 +42,7 @@
 02-10=02-10=S. Scholasticæ Virginis=2=
 02-12=02-12=B. Humbelinæ, Viduæ=2=
 02-13=02-13=S. Stephani Abbatis=2=
-02-14=02-14=B. Conradi, Eremitæ et Confessoris=2=S. Valentini, Presbyteri et Martyris=1=
+02-14=02-14=B. Conradi, Eremitæ et Confessoris=2=S. Valentini, Presbyteri et Martyris=1.2=
 02-16=02-16=S. Julianæ, Virginis et Martyris=1=
 02-18=02-18=S. Simeonis, Episcopi et Martyris=1=
 02-19=02-19=B. Bonifacii, Episcopi et Confessoris=2=
@@ -50,14 +50,14 @@
 02-23=02-23=S. Petri Damiani=2=
 02-24=02-24=S. Matthiae Apostoli=5=
 *March*
-03-06=03-06=Ss. Perpetuae et Felicitatis Martyrum=3=
-03-07=03-07=S. Thomae de Aquino Confessoris Ecclesiae Doctoris=3=
-03-09=03-09=S. Franciscae Viduae Romanae=3=
-03-10=03-10=Ss. Quadraginta Martyrum=2=
-03-12=03-12=S. Gregorii Papae Confessoris et Eccl Doct=3=
-03-18=03-18=S. Cyrilli Episc Hierosolymitani Eccl Doct=3=
-03-19=03-19=S. Joseph Sponsi BMV Confessoris=6=
-03-21=03-21=S. Benedicti Abbatis=4=
+03-04=03-04=S. Lucii, Papæ et Martyris=1=
+03-05=03-05=B. Petri de Castronovo, Martyris=2=
+03-07=03-07=S. Thomae de Aquino Confessoris Ecclesiae Doctoris=5=SS. Perpetuae et Felicitatis Martyrum=3=
+03-09=03-09=SS. Quadraginta Martyrum=2=
+03-11=03-11=S. Stephani Obazinensis, Abbatis=2=
+03-12=03-12=S. Gregorii, Papae, Confessoris et Eccl. Doct.=5=
+03-19=03-19=S. Joseph Sponsi BMV Confessoris=7=
+03-21=03-21=S. Benedicti Abbatis=6=
 03-25=03-25=In Annuntiatione Beatae Mariae Virginis=6=
 03-27=03-27=S. John Damascene Confessoris=3=
 *April*

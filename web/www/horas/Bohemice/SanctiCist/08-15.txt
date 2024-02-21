@@ -14,8 +14,27 @@ Responsorium. Blahoslavená jsi, Panno Maria, Boží Rodičko, jež jsi uvěřil
 V. Zdrávas Maria, milosti plná; Pán s tebou.
 R. Přimlouvej se za nás u Pána našeho Boha.
 
-[HymnusM Vespera]
-@:Hymnus Vespera:s/Jesu, tibi sit glória/Glória tibi, Dómine/
+[HymnusC Vespera]
+O welch herrliches licht strahlst du hernieder,
+Kind, dem königsgeschlecht Davids entsprossen,
+Die erhaben du thronst, Jungfrau Maria,
+Über dunkel und dunst hoch in den himmeln.
+_
+Du hast, Mutter, dem Herrn englischer heerschar
+Mit jungfräulicher scham, keusche, die stätte
+Deiner heiligen brust freundlich bereitet:
+Und im fleische ward Gott, Christus geboren,
+_
+Dem anbetung und preis bringen die welten,
+Dem die kniee sich hier demütig beugen,
+Von dem unser gebet, hilfst du uns bitten,
+Fleht um schwinden der nacht, freuden des lichtes.
+_
+Vater strahlenden lichts, dieses vergönne
+Mit dem eigenen Sohn, Heiligem Geiste,
+Der im glanze mit dir lebt in den himmeln
+Und beherrschend erhält alle welten.
+Amen.
 
 [Ant Laudes]
 @Sancti/08-15t:Ant Vespera:s/;;.*//g

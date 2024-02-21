@@ -190,7 +190,7 @@ sub occurrence {
 		}
 
 		# prevent duplicate vigil of St. Mathias in leap years
-		if($day == 23 && $month == 2 && leapyear($year)) {
+		if($day == 23 && $month == 2 && leapyear($year) && $version !~ /Cistercien/i ) {
 			$sfile = subdirname('Sancti', $version) . (($sfile =~ /02-23o/) ? ''	: ($sfile =~ /02-23/) ? '02-23r' : '');
 		}
 		
@@ -353,7 +353,7 @@ sub occurrence {
 			$commemoratio = 'Sancti/01-06.txt';
 			$comrank = 5.6;
 		}
-		elsif(($srank[2] < 7 && $sname !~ /01-01/) && $trank[2] >= ($srank[2] >= 5 ? 2.1 : 2) && !($srank[0] =~ /Sangu/i && $trank[0] =~ /Cord/i)) { # incl. github #2950
+		elsif((($srank[2] < 7 && $sname !~ /01-01/) || ($srank[2] < 8 && $version =~ /Cistercien/i )) && $trank[2] >= ($srank[2] >= 5 ? 2.1 : 2) && !($srank[0] =~ /Sangu/i && $trank[0] =~ /Cord/i)) { # incl. github #2950
 			unshift(@commemoentries, $tname);
 			$commemoratio = $tname;
 			$comrank = $trank[2];
@@ -646,7 +646,7 @@ sub concurrence {
 			|| ($version =~ /19(?:55|6)/ && ($cwinner{Rank} =~ /octav/i && $cwinner{Rank} !~ /dominica|cum Octava/i && $cwrank[2] < 6))) {		# TODO: last condition should be made obsolete and handled via database
 		if ($ccomrank >= ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $wrank[0] !~ /feria|octava/i ? 2.1 : 1.1 && $version !~ /Cistercien/ ) && $version !~ /1955|196/) {
 			$vespera = 3;
-			$dayname[2] = $tomorrowname[2] . "<br>Vespera de Officium occurente, Commemoratio Sanctorum tantum";
+			$dayname[2] = $tomorrowname[2] . "<br>Vespera de Officio occurente, Commemoratio Sanctorum tantum";
 			$cwrank = '';
 			$ctname = '';
 			%cwinner = undef;
@@ -656,7 +656,7 @@ sub concurrence {
 			$cvespera = 0;
 		} elsif (($csanctoraloffice && $cwrank[0] !~ /infra octavam Epi/i || $cwinner =~ /Nat2-0/i) && $version !~ /1955|196/) {
 			$vespera = 3;
-			$dayname[2] .= "<br>Vespera de Officium occurente; nihil de sequenti";
+			$dayname[2] .= "<br>Vespera de Officio occurente; nihil de sequenti";
 			$cwrank = '';
 			$csname = '';
 			%cwinner = undef;
@@ -667,8 +667,8 @@ sub concurrence {
 			@ccommemoentries = ();
 		} else {
 			$vespera = 3;
-			$dayname[2] = '' unless $dayname[2] =~ /Dominica|Advent|Quadr|Pass/i;
-			$dayname[2] .= "<br>Vespera de Officium occurente " unless $version =~ /1955|196/;
+      $dayname[2] = '' unless $dayname[2] =~ /Dominica|Advent|Quadr|Pass/i;
+			$dayname[2] .= "<br>Vespera de Officio occurente " unless $version =~ /1955|196/;
 			$cwrank = '';
 			$ctname = '';
 			%cwinner = undef;
@@ -676,7 +676,7 @@ sub concurrence {
 			$cwinner = '';
 			$crank = 0;
 			$cvespera = 0;
-			@ccommemoentries = ();
+			@ccommemoentries = () unless $version =~ /Cistercien/i; 
 		}
 	} elsif (!$sanctoraloffice && !$csanctoraloffice) {
 		# two "concurrent" Tempora
@@ -763,8 +763,8 @@ sub concurrence {
 			$rank = $crank;
 			$commune = $ccommune;
 			$communetype = $ccommunetype;
-		} elsif (($version !~ /196|Cistercien/ && ($cwinner{Rank} =~ /Dominica/i  && $dayname[0] !~ /Nat1/i && (($crank <= 5 && $rank > 2.1 && $winner{Rule} =~ /Festum Domini/i)))) # Pre-1960, The other way round then above
-			|| ($version =~ /196|Cistercien/ && $rank >= $crank))	{ # In 1960, in concurrence of days of equal rank, the preceding takes precedence
+		} elsif (($version !~ /196/ && ($cwinner{Rank} =~ /Dominica/i  && $dayname[0] !~ /Nat1/i && (($crank <= 5 && $rank > 2.1 && $winner{Rule} =~ /Festum Domini/i)))) # Pre-1960, The other way round then above
+			|| ($version =~ /196/ && $rank >= $crank))	{ # In 1960, in concurrence of days of equal rank, the preceding takes precedence
 			$vespera = 3;
 			$cvespera = 1;
 			$commemoratio = $cwinner;
@@ -1359,6 +1359,7 @@ sub officestring($$;$) {
 sub climit1960 {
 	my $c = shift;
 	if (!$c) { return 0; }
+  if ( $version =~ /Cistercien/i ) { return 1; }
 	
 	# read only globals
 	our ($version, $datafolder, $winner, $hora, $rank);

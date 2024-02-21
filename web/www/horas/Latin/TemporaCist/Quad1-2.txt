@@ -1,7 +1,7 @@
 @Tempora/Quad1-2
 
 [Rank]
-Feria Tertia infra Hebdomadam I in Quadragesima;;Feria major;;3
+Feria Tertia infra Hebdomadam I in Quadragesima;;Feria major;;2.1
 
 [Ant 3]
 Abiit * Jesus foras extra civitátem in Bethániam: ibíque docébat eos de regno Dei.

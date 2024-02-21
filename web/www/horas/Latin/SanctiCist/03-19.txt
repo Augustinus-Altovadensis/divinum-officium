@@ -1,13 +1,87 @@
 @Sancti/03-19
+[Rank]
+S. Joseph Sponsi B.M.V. Confessoris;;Duplex I classis;;7;;
 
 [Rule]
 12 lectiones
 Psalmi Dominica
+Antiphonas horas
 
 [Ant Vespera]
 @Sancti/03-19::s/112.*/112/s
 
 [Capitulum Vespera]
+@Sancti/03-19:Capitulum Laudes
+_
+Responsorium. Fecit me Dóminus quasi patrem regis, et Dóminum univérsæ domus ejus: nolíte pavére: * Pro salúte enim vestra misit me Deus ante vos in Ægyptum. Allelúia.
+V. Veníte ad me, et ego dabo vobis ómnia bona Ægypti, et comedétis medúllam terræ.
+R. Pro salúte enim vestra misit me Deus ante vos in Ægyptum. Allelúia.
+
+[HymnusC Vespera]
+v. Hunc diem totum célebrem per orbem 
+Vírginis Sponsi venerémur omnes. 
+Turba coelórum simul et beáta 
+Cóncinat hymnos. 
+_
+Cónditor mundi pius, et Redémptor, 
+Cónjugem Matri státuit pudícum: 
+Ejus ut custos foret atque testis 
+Virginitátis. 
+_
+Tempus ut plenum fúerat salútis, 
+In virum Joseph datus est Maríæ 
+Ex tribu Juda véniens ab alto 
+Sánguine Regum. 
+_
+Ergo jam sacro properánte partu, 
+Tóties quondam Pátribus vocátum,
+Primus Auctórem méruit salútis 
+Cérnere felix. 
+_
+Quemque pastóres vígiles adórant, 
+Obsitum pannis stábulo repónit, 
+Læta dum terris cecinére pacem
+Agmina coeli. 
+_
+Vidit et sidus rádians ab ortu, 
+Cujus ad nutum petiére cunas
+Príncipis nati nóviter, feréntes
+Múnera Reges. 
+_
+Laus Patri summo, Genitóque semper, 
+Flámini sacro, simul et potestas: 
+Qui Deus simplex ditióne solus
+Cuncta gubérnat. 
+Amen.
+
+[HymnusC Laudes] 
+v. Noctis e coelo ténebris depúlsis, 
+Décidant mentis feritátis umbræ: 
+Hujus ut partos réferat triúmphos 
+Laude perénni. 
+_
+Jamque longævus agitátus annis, 
+Vínculo mortis véteri solútus: 
+Victor et virgo spoliátur ævo, 
+Corpus onústum. 
+_
+Mortis ut victor superávit orcum, 
+Scandit hic vitam simul ad beátam: 
+Summa pro magnis méritis adéptus 
+Præmia palmæ. 
+_
+Ergo regnántem flagitémus ipsum, 
+Cum sua Sponsa véniam precétur, 
+Supplices ut nos capiámus alta 
+Præmia coeli. 
+_
+Laus Patri summo Genitóque semper, 
+Flámini sacro simul et potéstas: 
+Qui Deus simplex ditióne solus 
+Cuncta gubérnat. 
+Amen.
+
+[Capitulum Vespera 3]
 @Sancti/03-19:Capitulum Laudes
 _
 R.br. Invocávi Dóminum, * Patrem Dómini mei.
@@ -37,6 +111,65 @@ R. Glóriam et magnum decórem impónes super eum.
 Invénit Philíppus * Nathánæl, et dicit ei: † Quem scripsit Móyses in Lege, et Prophétæ, invénimus Jesum, fílium Joseph, a Názareth.;;256;257;258
 V. Justus germinábit sicut lílium.
 R. Et florébit in ætérnum ante Dóminum.
+
+[HymnusC Vigilia]
+v. O nimis felix Pater et nutrítor 
+Regis ætérni méritus vocári! 
+Nam tibi gestans útero tonántem, 
+Júngitur Uxor. 
+_
+Tu minas sævi fúgiens Heródis, 
+Quæris Egyptum mónitu supérno: 
+Prorsus Infántem révocas ab atra
+Cæde Tyránni. 
+_
+Inter ignótos hábitas colónos, 
+Perque septénos cooperátus annos, 
+Matris, ac Nati petis ipse victum, 
+Arte fabríli. 
+_
+Tristis amissum Púerum requíris, 
+Intra mirántes prócerum catérvas: 
+Cómperis tandem, pátrios redúcis 
+Rursus in agros.
+_
+Astra qui coelos regit, atque terras, 
+Cujus ad jussum súperi veréntur, 
+Inferi cujus tremuére numen, 
+Se tibi subdit. 
+_
+Laus Patri summo, Genitóque semper, 
+Flámini sacro simul et potéstas: 
+Qui Deus simplex ditióne solus 
+Cuncta gubérnat. 
+Amen. 
+
+[HymnusC Laudes] 
+v. Noctis e coelo ténebris depúlsis, 
+Décidant mentis feritátis umbræ: 
+Hujus ut partos réferat triúmphos 
+Laude perénni. 
+_
+Jamque longævus agitátus annis, 
+Vínculo mortis véteri solútus: 
+Victor et virgo spoliátur ævo, 
+Corpus onústum. 
+_
+Mortis ut victor superávit orcum, 
+Scandit hic vitam simul ad beátam: 
+Summa pro magnis méritis adéptus 
+Præmia palmæ. 
+_
+Ergo regnántem flagitémus ipsum, 
+Cum sua Sponsa véniam precétur, 
+Supplices ut nos capiámus alta 
+Præmia coeli. 
+_
+Laus Patri summo Genitóque semper, 
+Flámini sacro simul et potéstas: 
+Qui Deus simplex ditióne solus 
+Cuncta gubérnat. 
+Amen.
 
 [Lectio1]
 @Sancti/03-19:Lectio1:s/-5/-3/ s/4.*//s

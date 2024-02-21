@@ -1,7 +1,7 @@
 @Tempora/Quad5-2
 
 [Rank]
-Feria Tertia infra Hebdomadam Passionis;;Feria major;;3
+Feria Tertia infra Hebdomadam Passionis;;Feria major;;2.1
 
 [Ant 2]
 Vos ascéndite * ad diem festum hunc: ego autem non ascéndam, quia tempus meum nondum advénit.
