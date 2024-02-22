@@ -197,7 +197,8 @@ $Per Dominum
 
 [Lectio Prima]
 !Wis 10:10
-v. She conducted the just, when he fled from his brother's wrath, through the right ways, and showed him the kingdom of God, and gave him the knowledge of the holy things, made him honourable in his labours, and accomplished his labours.
+v. 10,10 Moudrost vedla spravedlivého po přímých stezkách, když utíkal před rozhněvaným bratrem. Ukázala mu Boží království a dala mu poznat svaté věci. V trápeních mu darovala úspěch, jeho námahy ověnčila zdarem.
+$Deo gratias
 
 [Responsory Tertia]
 R.br. Pán jej miloval, * a ozdobil jej.
@@ -207,12 +208,12 @@ R. A ozdobil jej.
 &Gloria
 R. Pán jej miloval, * a ozdobil jej.
 _
-V. The mouth of the righteous speaketh wisdom.
-R. And his tongue talketh judgment.
+V. Ústa spravedlivého pronášejí moudrost.
+R. A jeho jazyk vynáší soud.
 
 [Capitulum Sexta]
 !Sir 39:6
-v. The righteous will give his heart to resort early to the Lord that made him, and he will pray in the sight of the most High.
+v. Spravedlivý se od úsvitu celým svým srdcem obrací k Pánu, svému stvořiteli, k Nejvyššímu zdvihá svoji duši.
 $Deo gratias
 
 [Responsory Sexta]
@@ -223,8 +224,8 @@ R. Rozmlouvají o moudrosti.
 &Gloria
 R. Ústa spravedlivého * rozmlouvají o moudrosti.
 _
-V. The law of his God is in his heart.
-R. None of his steps shall slide.
+V. Zákon jeho Boha je v jeho srdci.
+R. A jeho kroky nezavrávorají.
 
 [Responsory Nona]
 R.br. The law of his God * is in his heart.

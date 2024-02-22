@@ -5,22 +5,22 @@ Transitus SS. P. N. Benedicti Abbatis;;I class;;6;;vide C5
 12 lectiones
 
 [Ant Vespera]
-@:Ant Laudes
-
-[Capitulum Tertia]
-!Eccl 50:6-7
-v. Ecce Conféssor magnus, quasi stella matutína in médio nébulæ, et quasi luna plena, in diébus suis lucet. Et quasi sol refúlgens, sic ille effúlsit in templo Dei.
-$Deo gratias
+Iste Sanctus * digne in memóriam vértitur hóminum, qui ad gáudium tránsiit Angelórum; quia in hac peregrinatióne solo córpore constitútus, cogitatióne et aviditáte in illa aetérna patria, conversátus est.
+Justum dedúxit Dóminus * per vias rectas, et osténdit illi regnum Dei, et dedit illi sciéntiam Sanctórum: honestávit illum in labóribus, et complévit labóres illíus.
+Amávit eum Dóminus, * et ornávit eum: Stolam glóriæ induit eum, et ad portas paradísi coronávit eum.
+Iste cognóvit * justítiam, et vidit mirabília magna, et exorávit Altíssimum, et invéntus est in número Sanctórum.
 
 [Capitulum Vespera]
 @:Capitulum Tertia
 _
-R.br. Sancte Pater Benedícte, * Intercéde pro nobis.
-R. Sancte Pater Benedícte, * Intercéde pro nobis.
-V. Ut digni efficiámur promissiónibus Christi.
-R. Intercéde pro nobis.
-&Gloria
-R. Sancte Pater Benedícte, * Intercéde pro nobis.
+Responsorium. Sanctus Benedíctus plus appétiit mala mundi pérpeti, quam laudes, * Malens pro Deo labóribus fatigári, quam vitæ hujus favóribus extólli. Allelúia.
+V. Divína namque prævéntus grátia, magis ac magis ad supérna ánimo suspirábat:
+R. Malens pro Deo labóribus fatigári, quam vitæ hujus favóribus extólli. Allelúia.
+
+[Capitulum Tertia]
+!Eccl 45
+v. Diléctus Deo et homínibus, cujus memória in benedictióne est. Símilem illum fecit in glória Sanctórum.
+$Deo gratias
 
 [Hymnus Vespera]
 v. Láudibus cives résonent canóris,
@@ -43,8 +43,8 @@ Et nemus stravit Véneri dicátum,
 Atque Baptístæ pósuit sacráto
 Monte sacéllum.
 _
-Jam que felíci résidens olympo,
-Inter ardéntes Séraphim catévas
+Jamque felíci résidens olympo,
+Inter ardéntes Séraphim catérvas
 Spectat, et dulci réficit cliéntum
 Corda liquóre.
 _
@@ -55,11 +55,75 @@ Témpore sæcli.
 Amen.
 
 [Ant 1]
-Exsúltet ómnium * turba fidélium pro glória almi Patris Benedícti; læténtur præcípue catérvæ monachórum, celebrántes ejus festa in terris, de cujus societáte sancti congáudent in cælis.
+Sanctíssime * Conféssor Dómini, Monachórum páter et dux, Benedícte, intercéde pro nostra omniúmque salúte.
 
 [Oratio]
-Omnípotens sempitérne Deus, qui hodiérna die carnis edúctum ergástulo sanctíssimum Confessórem tuum Benedíctum sublevásti ad cælum: † concéde, quǽsumus, hæc festa tuis fámulis celebrántibus cunctórum véniam delictórum; * ut, qui exsultántibus ánimis ejus claritáti congáudent, ipso apud te interveniénte, consociéntur et méritis.
+Excita, Dómine, in Ecclésia tua Spíritum, cui beátus Benedíctus, Abbas, servívit: ut, eódem nos repléti, studeámus amáre quod amávit, et ópere exercére quod dócuit.
 $Per Dominum
+
+[Ant Laudes]
+Eléctus * a frátribus invítus obtínuit, quod sciénter scivit se illórum móribus conveníre non posse.
+
+[Capitulum Laudes]
+@:Capitulum Tertia
+_
+@Commune/C4:Responsory Tertia:1-6
+
+[Hymnus Laudes]
+v. Inter ætérnas súperum corónas,
+Quas sacro partas rétinent agóne,
+Emicas celsis méritis corúscus,
+O Benedícte!
+_
+Sancta te compsit púerum senéctus,
+Nil sibi de te rápuit volúptas,
+Aruit mundi tibi flos, ad alta
+Mente leváto.
+_
+Hinc fuga lapsus, pátriam, paréntes
+Déseris, fervens némorum colónus;
+Edomas carnem, subigísque Christo
+Tortor acérbus.
+_
+Ne diu tutus látebras fovéres,
+Digna te produnt óperum piórum;
+Spárgitur felix céleri per orbem
+Fama volátu.
+_
+Glória Patri genitǽque Proli,
+Et tibi compar utriúsque semper,
+Spíritus alme, Deus unus, omni
+Témpore sæcli.
+Amen.
+
+[Ant 2]
+Pater sanctus * dum inténtam oculórum áciem in splendóre corúscæ lucis habére, viderétur, vidit Germáni ánimam Capuáni Epíscopi, in sphæra ígnea ab Angelis in cælum deférri. Allelúia.
+
+[Ant Prima]
+Cumque sibi conspícerent * illícita non licére, assuéta relínquere, conáti sunt de ejus morte tractáre.
+
+[Ant Tertia]
+Inito consílio, * venénum vino miscuére, quo obláto, signávit vas, sicque confráctum est, ac si pro signo lápidem dedísset.
+
+[Ant Sexta]
+Puer quidam párvulus * elephantíno morbo percússus, ad Dei hóminem est addúctus, prístina sanitáte recépta, incólumis remeávit ad própria.
+
+[Capitulum Sexta]
+!Eccli. 47:8
+Dedit confessiónem Sancto, et Excélso in verbo glóriæ. De omni corde suo laudávit Dóminum, et diléxit Deum qui fecit illum.
+$Deo gratias
+
+[Ant Nona]
+Tantam grátiam * ei virtus divína contúlerat, ut sub uno solis rádio omnem mundum colléctum conspíceret.
+
+[Ant Vespera 3]
+Fuit vir * vitæ venerábilis, grátia Benedíctus et nómine.
+Núrsiæ * província ortus, Romæ liberálibus litterárum stúdiis tráditus a paréntibus fúerat.
+Relícta domo * rebúsque patris, soli Deo placére cúpiens, sanctæ conversatiónis hábitum quæsívit.
+Recéssit ígitur * sciénter nésciens, et sapiénter indóctus.
+
+[Ant 3]
+Orábat sanctus Benedíctus: * Dómine, non aspícias peccáta mea, sed fidem hujus hóminis, qui rogat resuscitári fílium suum, et sub óculis ómnium vivéntem púerum réddidit patri suo. Allelúia.
 
 [Hymnus Matutinum]
 Quidquid antíqui cecinére vates,
@@ -223,57 +287,3 @@ R. Illi autem se nescíre proféssi sunt.
 [LectioE]
 @CommuneM/C1
 
-[Ant Laudes]
-Fuit vir * vitæ venerábilis, grátia Benedíctus et nómine, qui ab ipso puerítiæ suæ témpore cor gerens seníle, ætátem móribus tránsiens, nulli ánimum voluptáti dedit.
-Beátus vir Benedíctus * plus appétiit mala mundi pérpeti, quam laudes; pro Deo labóribus fatigári, quam vitæ hujus favóribus extólli.
-Gloriósus * Confessor Dómini Benedíctus vitam angélicam gerens in terris, spéculum bonórum opérum factus est mundo: et ídeo cum Christo jam sine fine gaudet in cælis.
-Erat* vir Dómini Benedíctus vultu plácido, móribus decorátus angélicis, tantáque circa eum cláritas excréverat, ut in terris pósitus in cæléstibus habitáret.
-Vir Dómini Benedíctus * ómnium justórum spíritu plenus fuit: ipse intercédat pro cunctis monásticæ professiónis.
-
-[Capitulum Laudes]
-@:Capitulum Tertia
-_
-@Commune/C4:Responsory Tertia:1-6
-
-[Hymnus Laudes]
-v. Inter ætérnas súperum corónas,
-Quas sacro partas rétinent agóne,
-Emicas celsis méritis corúscus,
-O Benedícte!
-_
-Sancta te compsit púerum senéctus,
-Nil sibi de te rápuit volúptas,
-Aruit mundi tibi flos, ad alta
-Mente leváto.
-_
-Hinc fuga lapsus, pátriam, paréntes
-Déseris, fervens némorum colónus;
-Edomas carnem, subigísque Christo
-Tortor acérbus.
-_
-Ne diu tutus látebras fovéres,
-Digna te produnt óperum piórum;
-Spárgitur felix céleri per orbem
-Fama volátu.
-_
-Glória Patri genitǽque Proli,
-Et tibi compar utriúsque semper,
-Spíritus alme, Deus unus, omni
-Témpore sæcli.
-Amen.
-
-[Ant 2]
-Sanctíssime * Conféssor Dómini, Monachórum páter et dux, Benedícte, intercéde pro nostra omniúmque salúte.
-
-[Capitulum Sexta]
-!Eccl 50:3-4
-v. In diébus ipsíus emanavérunt pútei aquárum, et quasi mare adimpléti sunt supra modum. Qui curávit gentem suam, et liberávit eam a perditióne.
-$Deo gratias
-
-[Capitulum Nona]
-!Eccl 50:10-11,13-14
-v. Quasi vas auri sólidum, ornátum omni lápide pretióso. Quasi olíva púllulans, et cypréssus in altitúdinem se extóllens. Et circa illum coróna fratrum: quasi plantátio cedri in monte Líbano, sic circa illum stetérunt quasi rami palmæ: et omnes fílii Aaron in glória sua.
-$Deo gratias
-
-[Ant 3]
-Hodie * sanctus Benedíctus per viam Oriéntis recto trámite vidéntibus discípulis cælum ascéndit: hódie eréctis mánibus inter verba oratiónis exspirávit hódie in glória ab Angelis suscéptus est.

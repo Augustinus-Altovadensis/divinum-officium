@@ -54,13 +54,19 @@ Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
 @Commune/C5
 
 [Responsory Tertia]
-@Commune/C5:Versum 1
-
-[Responsory Sexta]
 @Commune/C5:Responsory Tertia:8-9
 
-[Responsory Nona]
+[Capitulum Sexta]
+@Commune/C5:Lectio Prima
+
+[Responsory Sexta]
 @Commune/C5:Responsory Sexta:8-9
+
+[Capitulum Nona]
+@Commune/C5:Capitulum Sexta
+
+[Responsory Nona]
+@Commune/C2:Versum 2
 
 [Ant 3]
 Iste Sanctus * digne in memóriam vértitur hóminum, qui ad gáudium tránsiit Angelórum; quia in hac peregrinatióne solo córpore constitútus, cogitatióne et aviditáte in illa aetérna patria, conversátus est.

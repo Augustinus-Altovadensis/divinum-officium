@@ -1,26 +1,22 @@
 [Rank]
-S. Joachim Confessoris, Patris B. M. V.;;Duplex II classis;;5.1;;ex C5
+Sv. Jáchyma, Otce Nejblahoslavenejší Panny Marie;;Duplex II classis;;5.1;;ex C5
 
 [Rank1960]
-S. Joachim Confessoris, Patris B. M. V.;;Duplex II classis;;5;;ex C5
+Sv. Jáchyma, Otce Nejblahoslavenejší Panny Marie;;Duplex II classis;;5;;ex C5
 
 [Rule]
 ex C5;mtv
 9 lectiones
 
 [Versum 1]
-V. His seed shall be mighty upon earth.
-R. The generation of the upright shall be blessed.
+V. Mocné bude na zemi jeho pokolení.
+R. Pokolení správných mužů bude požehnáno.
 
 [Ant 1]
-Let us praise a man * famous in his generation, with whom the Lord didst~
-establish the blessing of all nations, and on whose head He made His covenant to~
-rest.
+Chvalme * slavnémo muže ve svém pokolení, neboť požehnání všech Národů dal mu Hospodin, a svou smlouvu stvrdil nad jeho hlavou.
 
 [Oratio]
-O God, Who, out of all thy Saints, didst choose blessed Joachim to be the father~
-of the mother of thy Son, mercifully grant that as we hold his Festival in~
-honour, we may ever feel his protection.
+Bože, jenž jsi mezi všemi svými Svatými chtěl, aby se právě svatý Jáchym stal otcem Rodičky tvého Syna: uděl nám, prosíme, abychom, když slavíme jeho svátek, také poznali jeho neustálé přímluvy.
 $Per eumdem
 
 [Lectio4]
