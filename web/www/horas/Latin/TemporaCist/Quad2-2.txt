@@ -3,3 +3,5 @@
 [Rank]
 Feria Tertia infra Hebdomadam II in Quadragesima;;Feria major;;2.1
 
+[Ant 3]
+Qui major est vestrum, * erit miníster vester: quia omnis qui se exáltat, humiliábitur, dicit Dóminus.
