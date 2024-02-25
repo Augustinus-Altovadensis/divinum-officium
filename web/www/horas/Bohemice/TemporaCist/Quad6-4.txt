@@ -13,17 +13,17 @@ R. Neboť jedl můj chléb, a přesto udělal svou zradu proti mě ještě vět�
 Zrádce pak * dal jim znamení, řka: Ten, kterého políbím, to je on, zadržte jej.
 
 [Oratio]
-v. Kristus se stal pro nás poslušným až k smrti.
+v. Kristus se pro nás stal poslušným až k smrti.
 !Zcela v tichosti se řekne
 $Pater noster
+!Poněkud hlasitěji
 _
-!Poněkud hlasitěji 
 &psalm(50)
 @:Oratio Matutinum
 
 [Oratio Matutinum]
-v. Shlédni, prosíme, Pane, na tuto svou rodinu, pro niž se náš Pán Ježíš Kristus neváhal vydat v ruce zlých, a podstoupit mučení kříže:
-!A v tichosti se dokončí:
+v. Shlédni, prosíme, Pane, na tuto svou rodinu, pro niž se náš Pán Ježíš Kristus neváhal vydat v ruce hříšných, a podstoupit mučení kříže:
+!A v tichosti všichni dokončí:
 $Qui tecum
 
 [Ant Vespera]

@@ -183,6 +183,11 @@ v. Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus nos
 !Et sub silentio concluditur
 $Qui tecum
 
+[Oratio Matutinum] (rubrica cisterciensis)
+v. Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
+!Et dicitur sub silentio ab omnibus:
+$Qui tecum
+
 [Prelude Vespera] (rubrica 1955 aut rubrica 1960)
 !Vesperæ ab iis qui Missæ vespertinæ in Cena Domini intersunt, hodie non dicuntur.
 
@@ -202,10 +207,13 @@ _
 $Confiteor
 $Misereatur
 $Indulgentiam
+(sed rubrica cisterciensis omittitur)
+(rubrica cisterciensis) $Pater noster
+(rubrica cisterciensis) $Ave Maria
 
 &psalm(4)
 
-(rubrica tridentina) &psalm(30,1,6)
+(rubrica tridentina aut rubrica cisterciensis) &psalm(30,1,6)
 
 &psalm(90)
 

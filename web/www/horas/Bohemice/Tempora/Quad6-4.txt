@@ -169,18 +169,23 @@ R. Which did eat of my bread, hath lifted up his heel against me.
 Now he that betrayed Him * gave them a sign, saying: Whomsoever I shall kiss, That Same is He: hold Him fast.
 
 [Oratio]
-v. Christ became obedient for us unto death.
-!in secret
+v. Kristus se pro nás stal poslušným až k smrti.
+!v tichosti
 $Pater noster
-!lower voice
+!o něco hlasitěji
 _
 &psalm(50)
 (sed rubrica 1955 aut rubrica 1960 aut rubrica monastica omittitur)
 @:Oratio Matutinum
 
 [Oratio Matutinum]
-v. Look down, we beseech thee, O Lord, on this thy family, for which our Lord Jesus Christ did not hesitate to be delivered up into the hands of wicked men, and to suffer the torment of the Cross.
-!Finish silently
+v. Shlédni, prosíme, Pane, na tuto svou rodinu, pro niž náš Pán Ježíš Kristus neváhal vydat se v ruce zlých, a podstoupit kruté muky kříže.
+!V tichosti se dokončí
+$Qui tecum
+
+[Oratio Matutinum] (rubrica cisterciensis)
+v. Shlédni, prosíme, Pane, na tuto svou rodinu, pro niž náš Pán Ježíš Kristus neváhal vydat se v ruce zlých, a podstoupit kruté muky kříže.
+!A v tichosti všichni dokončí 
 $Qui tecum
 
 [Prelude Vespera] (rubrica 1955 aut rubrica 1960)
@@ -199,13 +204,16 @@ And, as they were eating * Jesus took bread, and blessed, and broke it, and gave
 [Special Completorium]
 !Special Completorium
 _
-$Confiteor
-$Misereatur
-$Indulgentiam
+$Confiteor 
+$Misereatur 
+$Indulgentiam 
+(sed rubrica cisterciensis omittitur)
+(rubrica cisterciensis) $Pater noster
+(rubrica cisterciensis) $Ave Maria
 
 &psalm(4)
 
-(rubrica tridentina) &psalm(30,1,6)
+(rubrica tridentina aut rubrica cisterciensis) &psalm(30,1,6)
 
 &psalm(90)
 

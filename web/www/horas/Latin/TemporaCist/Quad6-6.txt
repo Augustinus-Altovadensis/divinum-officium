@@ -3,25 +3,18 @@
 [Rank]
 Sabbato Sancto;;Feria privilegiata Duplex I classis;;7.1
 
-[Ant Matutinum]
-@Tempora/Quad6-6::s/15./15\n\n\n\n/s s/29./29\n\n\n\n/s
+[Rule]
+Matutinum Romanum
+Omit Incipit Invitatorium Hymnus Capitulum Lectio Commemoratio Preces Suffragium Conclusion
+Limit Benedictiones, Oratio
+9 lectiones 1960
+Capitulum Versum 2 ad Laudes tantum
 
 [Ant Laudes]
-@Tempora/Quad6-6::s/\n/_/smg s/_/;;50\n/ s/_/;;42\n/ s/_/;;62;66\n/ s/_/;;226\n/ s/$/;;148;149;150\n/s
+@Tempora/Quad6-6::s/\n/_/smg s/_/;;50\n/ s/_/;;91\n/ s/_/;;63\n/ s/_/;;226\n/ s/$/;;150\n/s
 
 [Oratio 2]
-v. Christus factus est pro nobis obédiens usque ad mortem, mortem autem crucis: propter quod et Deus exaltávit illum, et dedit illi nomen, quod est super omne nomen.
-!Totum sub silention dicitur
-$Pater noster
-_
-!Aliquantulum altius 
-&psalm(50)
-@:Oratio Matutinum
-
-[Oratio Matutinum]
-v. Réspice, quǽsumus, Dómine, super hanc famíliam tuam, pro qua Dóminus noster Jesus Christus non dubitávit mánibus tradi nocéntium, et crucis subíre torméntum:
-!Et sub silentio concluditur
-$Qui tecum
+@Tempora/Quad6-6r:Oratio 2
 
 [Special Prima]
 @TemporaM/Quad6-4::s/6-4/6-6r/ s/Oratio/Oratio 2/
