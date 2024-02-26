@@ -21,17 +21,36 @@ sub htmlHead {
 Content-type: text/html; charset=utf-8
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<HTML><HEAD>
+<HTML lang="la"><HEAD>
   <META NAME="Resource-type" CONTENT="Document">
   <META NAME="description" CONTENT="Divine Office">
   <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
   <META NAME="Copyright" CONTENT="Like GNU">
   <meta name="color-scheme" content="dark light">
+  <style>@font-face{font-family: "Libertine"; 
+      src: url("www/style/LinLibertineCist.otf");
+      font-weight: normal;}</style>
+    <style>@font-face{font-family: "Libertine"; 
+      src: url("www/style/LinLibertineCistB.otf");
+      font-weight: bold;}</style>
+    <style>@font-face{font-family: "Libertine"; 
+      src: url("www/style/LinLibertineCistI.ttf");
+      font-style: italic;}</style>
+    <style>@font-face{font-family: "Libertine"; 
+      src: url("www/style/LinLibertineCistBI.otf");
+      font-style: italic; font-weight: bold;}</style>
+    <style>@font-face{font-family: "Bookman"; 
+      src: url("www/style/BookmanBT-Cist-Roman.otf");
+      font-weight: normal;}</style>
+    <style>@font-face{font-family: "Bookman"; 
+      src: url("www/style/BookmanBT-Cist-Italic.otf");
+      font-style: italic;}</style>
   <STYLE>
     /* https://www.30secondsofcode.org/css/s/offscreen/ */
     .offscreen {
       border: 0;
       clip: rect(0 0 0 0);
+      font-family: Bookman;
       height: 1px;
       margin: -1px;
       overflow: hidden;
@@ -42,6 +61,7 @@ Content-type: text/html; charset=utf-8
     h1, h2 {
       text-align: center;
       font-weight: normal;
+      font-family: Bookman;
     }
     h2 {
       margin-top: 4ex;
@@ -52,13 +72,23 @@ Content-type: text/html; charset=utf-8
     }
     p {
       color: black;
+      font-family: Libertine;
+    }
+    table td + td { 
+      border-left:2px 
+      solid black; 
+      font-family: Bookman
+    }
+    table { 
+      font-family: Bookman
     }
     .contrastbg { background: white; }
     \@media (prefers-color-scheme: dark) {
-      table { color: black; }
+      table { color: black; font-family: Bookman; }
       .contrastbg {
         background: #121212;
         color: white;
+        font-family: Bookman;
       }
     }
   </STYLE>
@@ -535,7 +565,8 @@ sub table_start {
     ($textwidth && $textwidth =~ /^[0-9]+$/ && 0 < $textwidth && $textwidth <= 100)
     ? "$textwidth\%"
     : '80%';
-  print "<TABLE BORDER=$border ALIGN=CENTER CELLPADDING=8 WIDTH=$width$background>";
+  #print "<TABLE BORDER=$border ALIGN=CENTER CELLPADDING=8 WIDTH=$width$background>";
+  print "<TABLE border=0 ALIGN=CENTER CELLPADDING=16 WIDTH=$width$background>";
 }
 
 #antepost('$title')
