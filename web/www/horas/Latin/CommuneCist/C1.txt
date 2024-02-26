@@ -136,7 +136,13 @@ _
 @Commune/C1:Responsory Sexta:8-9
 
 [Ant Vespera 3]
-@Commune/C1::s/125/138/
+Jam non dicam * vos servos, sed amícos meos: quia ómnia quæcúmque audívi a Patre meo, nota feci vobis.;;109
+Tóllite * jugum meum super vos, quia mitis sum et húmilis corde:.;;112
+Jugum enim meum * suáve est, et onus meum leve, dicit Dóminus.;;115
+Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos: et ante reges et præsides ducémini proper me in testimónium illis, et Géntibus.;;125
 
 [Versum 3]
 @:Versum 1
+
+[Ant 3]
+Beáti éritis, * cum vos óderint hómines, et cum separáverint vos, et exprobráverint, et ejécerint nomen vestrum tamquam malum propter Fílium hóminis: gaudéte et exsultáte, ecce enim merces vestra multa est in cœlo.

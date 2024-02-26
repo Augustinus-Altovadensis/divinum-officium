@@ -2,6 +2,15 @@
 [Name]
 Commune Apostolorum, Versio Cisterciensis et Bohemica
 
+[Ant Vespera 3]
+Již vás nenazývám * služebníky, avšak svými přáteli: neboť vše, co jsem slyšel od svého Otce, s tím jsem vás seznámil.;;109
+Vezměte * na sebe mé jho, neboť jsem tichý a pokorný srdcem:.;;112
+Mé jho je totiž * sladké, a mé břemeno lehké, praví Pán.;;115
+Budou vás totiž vydávat * veleradám, a ve svých shromážděních vás budou bičovat; a předvádět vás před krále a místodržící kvůli mě na svědectví jim i Pohanům.;;125
+
+[Ant 3]
+Blahoslavení budete, * když vás budou lidé nenávidět, stranit se vás, pokořovat vás a zavrhovat vaše jméno jako špatné kvůli Synu člověka: radujte se a jásejte, neboť hle, veliká bude vaše odměna v nebi.
+
 [Ant Matutinum]
 Their sound * hath gone forth into all the earth: and their words unto the ends of the world;;18
 They just cried * and the Lord heard them:;;33
