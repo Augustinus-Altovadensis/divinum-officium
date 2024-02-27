@@ -29,8 +29,8 @@ body {
   text-align: justify;
   padding-top: 25px;
   padding-right: 10px;
-  padding-left: 10px;
-  padding-top: 10px;
+  padding-left: 100px;
+  padding-top: 100px;
   font-size: 1.2em;
   text-justify: auto;
 }
@@ -88,7 +88,7 @@ table td + td {
 
 table { 
   font-family: Libertine;
-  font-size: 80%;
+  font-size: 100%;
 }
 
 footer {
