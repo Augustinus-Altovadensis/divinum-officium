@@ -15,10 +15,11 @@ $a = 1;
 
 sub adhoram {
   my $hora = shift;
-  my $head = "Ad $hora";
+  my $head = $hora;
   $head =~ s/a$/am/;
-  $head = 'Ad Vesperas' if $hora =~ /vesper/i;
-  $head
+  my $hora_red = 'Ad <font color="red">' . substr($head,0,1) . '</font>' . substr($head,1);
+  $hora_red = 'Ad <font color="red">V</font>esperas' if $hora =~ /vesper/i;
+  $hora_red
 }
 
 #*** horas($hora)
