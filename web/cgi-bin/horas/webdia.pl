@@ -42,7 +42,8 @@ Content-type: text/html; charset=utf-8
   <meta name="viewport" content="width=device-width">
   <meta charset="utf-8" />
   <link rel="stylesheet" href="/www/style/main.css">
-
+  <link rel="stylesheet" href="/www/style/normalize.css">
+  <link rel="stylesheet" href="/www/style/landing.css">
   <STYLE>
     .offscreen { /* https://www.30secondsofcode.org/css/s/offscreen/ */
       border: 0;
