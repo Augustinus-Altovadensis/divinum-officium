@@ -26,7 +26,7 @@ sub headline {
     $vers = $version;
   }
   my $output = par_c($head);
-  $output .= "<H1><FONT COLOR=MAROON SIZE=+1><B><I>Divinum Officium</I></B></FONT>&nbsp;<FONT COLOR=RED SIZE=+1>$vers</FONT></H1>\n";
+  $output .= "<H1><FONT COLOR=MAROON SIZE=+2><B><I>Divinum Officium</I></B></FONT>&nbsp;<FONT COLOR=RED SIZE=+1>$vers</FONT></H1>\n";
   if ($variant eq 'P') {
     $output .= par_c(<< "PrintTag");
 <A HREF="Pofficium.pl?date1=$date1&command=prev&version=$version&testmode=$testmode&lang2=$lang2&votive=$votive">

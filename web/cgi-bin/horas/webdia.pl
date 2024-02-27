@@ -9,6 +9,18 @@ use utf8;
 #use strict "subs";
 my $a = 4;
 
+
+#*** lang_to_html()
+# returns the HTML tag of current language
+sub lang_to_html($) {
+  my $lang = shift;
+  if ( $lang =~ /Latin/i) {return "la";}
+  elsif ( $lang =~ /Bohemice/i) {return "cs";}
+  elsif ( $lang =~ /English/i) {return "en";}
+  else {return "en";}
+}
+
+
 #*** htmlHead($title, $onload)
 # generate html head
 sub htmlHead {
@@ -27,30 +39,16 @@ Content-type: text/html; charset=utf-8
   <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
   <META NAME="Copyright" CONTENT="Like GNU">
   <meta name="color-scheme" content="dark light">
-  <style>@font-face{font-family: "Libertine"; 
-      src: url("www/style/LinLibertineCist.otf");
-      font-weight: normal;}</style>
-    <style>@font-face{font-family: "Libertine"; 
-      src: url("www/style/LinLibertineCistB.otf");
-      font-weight: bold;}</style>
-    <style>@font-face{font-family: "Libertine"; 
-      src: url("www/style/LinLibertineCistI.ttf");
-      font-style: italic;}</style>
-    <style>@font-face{font-family: "Libertine"; 
-      src: url("www/style/LinLibertineCistBI.otf");
-      font-style: italic; font-weight: bold;}</style>
-    <style>@font-face{font-family: "Bookman"; 
-      src: url("www/style/BookmanBT-Cist-Roman.otf");
-      font-weight: normal;}</style>
-    <style>@font-face{font-family: "Bookman"; 
-      src: url("www/style/BookmanBT-Cist-Italic.otf");
-      font-style: italic;}</style>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="/www/style/main.css">
+  <link rel="stylesheet" href="/www/style/normalize.css">
+  <link rel="stylesheet" href="/www/style/landing.css">
   <STYLE>
-    /* https://www.30secondsofcode.org/css/s/offscreen/ */
-    .offscreen {
+    .offscreen { /* https://www.30secondsofcode.org/css/s/offscreen/ */
       border: 0;
       clip: rect(0 0 0 0);
-      font-family: Bookman;
+      font-family: BookmanCist;
       height: 1px;
       margin: -1px;
       overflow: hidden;
@@ -58,37 +56,16 @@ Content-type: text/html; charset=utf-8
       position: absolute;
       width: 1px;
     }
-    h1, h2 {
-      text-align: center;
-      font-weight: normal;
-      font-family: Bookman;
-    }
-    h2 {
-      margin-top: 4ex;
-      color: maroon;
-      font-size: 112%;
-      font-weight: bold;
-      font-style: italic;
-    }
-    p {
-      color: black;
-      font-family: Libertine;
-    }
-    table td + td { 
-      border-left:2px 
-      solid black; 
-      font-family: Bookman
-    }
-    table { 
-      font-family: Bookman
-    }
     .contrastbg { background: white; }
     \@media (prefers-color-scheme: dark) {
-      table { color: black; font-family: Bookman; }
+      table td + td { 
+         border-left:3px 
+         solid grey; 
+        }
+      table { color: black; }
       .contrastbg {
         background: #121212;
         color: white;
-        font-family: Bookman;
       }
     }
   </STYLE>
@@ -452,6 +429,10 @@ sub setcross {
     my $csubst = "<span style='color:red; font-size:1.1em'>†</span>";
     $line =~ s/†/ $csubst /g;
 
+    # Cistercian flexa in S.O.Cist. fonts
+    my $csubst = "<span style='color:red; font-size:1.1em'>§</span>";
+    $line =~ s/§/ $csubst /g;
+
     # cross type 0: Asteriscus
     #my $csubst = "<span style='color:red'>*</span>";
     #$line =~ s/\*/ $csubst /g;
@@ -519,7 +500,7 @@ sub setcell {
           . "<IMG SRC=\"$imgurl/$notefile.gif\" WIDTH=80%></TD></TR>\n";
       }
     }
-    print "<TD VALIGN=TOP WIDTH=$width%" . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID=$hora$searchind") . ">";
+    print "<TD lang=" . lang_to_html($lang) . " VALIGN=TOP WIDTH=$width%" . ($lang1 ne $lang || $text =~ /{omittitur}/ ? "" : " ID=$hora$searchind") . ">";
     topnext_cell($lang);
 
     if ($text =~ /%(.*?)%/) {
