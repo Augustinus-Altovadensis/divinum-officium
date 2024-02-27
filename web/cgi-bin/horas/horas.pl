@@ -260,6 +260,9 @@ sub resolve_refs {
   push @resolved_lines, '';
   my $resolved_block = join "<BR>\n", @resolved_lines;
 
+  # Added here because of the Appendix, so that it applied the version's ortographical pecculiarities
+  if ($lang =~ /Latin/i) { $resolved_block = spell_var($resolved_block); }
+
   #removes occasional double linebreaks
   $resolved_block =~ s/<BR>\s*<BR>/<BR>/g;
   $resolved_block =~ s/<\/P>\s*<BR>/<\/P>/g;

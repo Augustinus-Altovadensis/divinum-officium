@@ -25,12 +25,13 @@ html {
 
 body {
   margin: 8px;
+  font-family: "Libertine";
   color: black;
   text-align: justify;
   padding-top: 25px;
-  padding-right: 10px;
+  padding-right: 100px;
   padding-left: 100px;
-  padding-top: 100px;
+  padding-top: 10px;
   font-size: 1.2em;
   text-justify: auto;
 }
