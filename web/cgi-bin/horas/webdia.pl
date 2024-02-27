@@ -39,7 +39,6 @@ Content-type: text/html; charset=utf-8
   <META NAME="keywords" CONTENT="Divine Office, Breviarium, Liturgy, Traditional, Zsolozsma">
   <META NAME="Copyright" CONTENT="Like GNU">
   <meta name="color-scheme" content="dark light">
-  <meta name="viewport" content="width=device-width">
   <meta charset="utf-8" />
   <link rel="stylesheet" href="/www/style/main.css">
   <link rel="stylesheet" href="/www/style/normalize.css">
