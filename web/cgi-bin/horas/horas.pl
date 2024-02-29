@@ -17,9 +17,14 @@ sub adhoram {
   my $hora = shift;
   my $head = $hora;
   $head =~ s/a$/am/;
-  my $hora_red = 'Ad <font color="red">' . substr($head,0,1) . '</font>' . substr($head,1);
+  my $hora_cist = $head;
+  $head = "Ad " . $head;
+  if ($version =~ /Cistercien/i) {
+  my $hora_red = '<span class="h2cist">Ad <font color="red">' . substr($hora_cist,0,1) . '</font>' . substr($hora_cist,1) . "</span>";
   $hora_red = 'Ad <font color="red">V</font>esperas' if $hora =~ /vesper/i;
-  $hora_red
+  $hora_red }
+  else {  $head = 'Ad Vesperas' if $hora =~ /vesper/i;
+          $head }
 }
 
 #*** horas($hora)
@@ -1353,6 +1358,15 @@ sub postprocess_ant(\$$) {
   return unless $$ant;
   process_inline_alleluias($$ant);
   ensure_single_alleluia($$ant, $lang) if ($dayname[0] =~ /Pasc/i && !officium_defunctorum());
+}
+
+#*** alleluia_required
+# check if alleluia addition is required 
+# it is Paschaltide and not officium defunctorum or BMV Parv.
+sub alleluia_required {
+  my($dayname, $votive) = @_;
+
+  $dayname =~ /Pasc/i && $votive !~ /C(?:9|12)/;
 }
 
 #*** postprocess_vr($vr, $lang)

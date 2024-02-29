@@ -1675,8 +1675,13 @@ sub spell_var {
     $t =~ s/ iam/ jam/g;
     $t =~ s/ iud/ jud/g;
     $t =~ s/ Iam/ Jam/g;
-	$t =~ s/abic/abjic/g;
-	$t =~ s/Abic/Abjic/g;
+	  $t =~ s/abic/abjic/g;
+    $t =~ s/Abic/Abjic/g;
+    $t =~ s/p(ae|æ|ǽ)niten/pœniten/g;
+    $t =~ s/P(ae|æ|ǽ)niten/Pœniten/g;
+    $t =~ s/p(ae|æ|ǽ)nitén/pœnitén/g;
+    $t =~ s/P(ae|æ|ǽ)nitén/Pœnitén/g;
+    $t =~ s/ǽ/æ/g; # traditional Cistercian materials don't use it.
     #$t =~ s/V. /℣. /g;
     #$t =~ s/R. /℟. /g;
     }

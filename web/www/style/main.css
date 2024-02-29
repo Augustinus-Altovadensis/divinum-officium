@@ -21,7 +21,8 @@ html {
     src: url("/www/style/BookmanBT-Cist-Italic.otf");
     font-style: italic;}
   @font-face{font-family: "Cloister"; 
-    src: url("/www/style/CloisterBoldCE.ttf");}
+    src: url("/www/style/CloisterBoldCE.ttf");
+    font-weight: bold;}
 
 body {
   margin: 8px;
@@ -98,3 +99,4 @@ footer {
   justify-content: space-evenly;
   padding: 10px;
 }
+

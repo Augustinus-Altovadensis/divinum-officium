@@ -19,7 +19,15 @@ sub appendix {
     @script2 = split("\n", $a2{$appendix});
     @script2 = specials(\@script2, $lang2);
   }
-  print "<H2 ID='${appendix}top'>Appendix - $appendix</H2>\n";
+  if ( $version =~ /Cistercien/i ) {
+    my $appendix_red = "";
+    my @appendix_array = split /\s+/,$appendix;
+    for (my $i = 0; $i < scalar(@appendix_array); $i++) {
+      $appendix_red .= '<font color="red">' . substr(@appendix_array[$i],0,1) . '</font>' . substr(@appendix_array[$i],1) . " ";
+      }
+    print "<H2 ID='${appendix}top'>Appendix - $appendix_red</H2>\n";
+    }
+  else { print "<H2 ID='${appendix}top'>Appendix - $appendix</H2>\n"; }
 
   my($ind1, $ind2);
 
