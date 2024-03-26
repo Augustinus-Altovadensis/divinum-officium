@@ -1,4 +1,4 @@
 @Tempora/Quad6-3
 
-
-
+[Rule]
+no commemoratio
