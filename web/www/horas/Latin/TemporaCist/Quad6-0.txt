@@ -6,13 +6,9 @@
 [Capitulum Vespera]
 @Tempora/Quad6-0
 _
-R. Circumdedérunt me viri mendáces, sine causa flagéllis cecidérunt me: * Sed tu, Dómine, defénsor víndica me. 
+Responsorium. Circumdedérunt me viri mendáces, sine causa flagéllis cecidérunt me: * Sed tu, Dómine, defénsor víndica me. 
 V. Quóniam tribulátio próxima est, et non est qui ádjuvet. 
 R. Sed tu, Dómine, defénsor víndica me.
-
-[Versum 1]
-V. Dedérunt in escam meam fel.
-R. Et in siti mea potavérunt me acéto.
 
 [Ant 1]
 Clarífica me, Pater, * apud temetípsum claritáte, quam hábui, priúsquam mundus fíeret.
@@ -112,9 +108,6 @@ In illo témpore: Cum appropinquásset Jesus Jerosólymis, et venísset Béthpha
 _
 @Psalterium/Major Special:Quad5M Laudes:3-6
 
-[Versum 2]
-V. Homo pacis meæ in quo sperábam.
-R. Ampliávit advérsum me supplantatiónem.
 
 [Capitulum Vespera 3]
 @Tempora/Quad6-0:Capitulum Vespera

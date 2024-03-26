@@ -87,3 +87,12 @@ _
 _
 @Psalterium/Major Special:QuadM Vespera:3-8
 
+[Ant Prima]
+@Tempora/Quad4-0:Ant Sexta
+
+[Ant Sexta]
+@Psalterium/Psalmi minor:QuadC:3:s/3 = //
+
+[Ant Nona]
+@Psalterium/Psalmi minor:QuadC:5:s/5 = //
+

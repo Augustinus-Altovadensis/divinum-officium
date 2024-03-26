@@ -147,6 +147,9 @@ Púeri Hebræórum * vestiménta prosternébant in via, et clamábant, dicéntes
 [Ant Sexta]
 Tibi revelávi * causam meam, defénsor vitæ meæ, Dómine, Deus meus.
 
+[Ant Sexta] (rubrica cisterciensis)
+Invocábo * nomen tuum, Dómine: ne avértas fáciem tuam a clamóre meo.
+
 [Capitulum Sexta]
 !Phil 2:8-9
 v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen.
@@ -154,6 +157,9 @@ $Deo gratias
 
 [Ant Nona]
 Invocábo * nomen tuum, Dómine: ne avértas fáciem tuam a clamóre meo.
+
+[Ant Nona] (rubrica cisterciensis)
+Tibi revelávi * causam meam, defénsor vitæ meæ, Dómine, Deus meus.
 
 [Capitulum Nona]
 !Phil 2:10-11

@@ -3,10 +3,10 @@
 [Rule]
 12 lectiones
 
-[Capitulum Vespera]
+[Capitulum Vespera] (rubrica cisterciensis)
 @Tempora/Quad5-0
 _
-@Psalterium/Major Special:Quad5C Vespera:3-6
+@Psalterium/Major Special:Quad5C Vespera:5-8
 
 [Lectio3]
 @Tempora/Quad5-0:Lectio3:s/-19/-16/ s/17 .*//s
@@ -110,9 +110,6 @@ Pópule meus, * quid feci tibi, aut quid moléstus fui? Respónde mihi.
 
 [Ant Nona]
 Numquid rédditur * pro bono malum, quia fodérunt fóveam ánimæ meæ?
-
-[Capitulum Vespera]
-@:Capitulum Laudes
 
 [Ant 3]
 Tulérunt lápides * Judǽi, ut jácerent in Jesum: Jesus autem abscóndit se, et exívit de templo.

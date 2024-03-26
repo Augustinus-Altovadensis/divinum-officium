@@ -3,8 +3,4 @@
 [Rank]
 Feria Quinta infra Hebdomadam Passionis;;Feria major;;3
 
-[Ant 2]
-Quid molésti estis * huic mulíeri? opus enim bonum operáta est in me.
 
-[Ant 3]
-Mittens hæc múlier * in corpus meum hoc unguéntum, ad sepeliéndum me fecit.

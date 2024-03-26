@@ -174,6 +174,9 @@ Et cum ejecísset Jesus * dæmónium, locútus est mutus, et admirátæ sunt tur
 [Ant Tertia]
 Si in dígito Dei * eício dæmónia, profécto pervénit in vos regnum Dei.
 
+[Ant Tertia] (rubrica cisterciensis)
+Si in dígito Dei * ejício dæmónia, profécto pervénit in vos regnum Dei.
+
 [Capitulum Tertia]
 @:Capitulum Laudes
 

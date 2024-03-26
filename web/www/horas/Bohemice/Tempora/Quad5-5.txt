@@ -11,79 +11,79 @@ Antiphonas horas
 Gloria responsory
 
 [Ant Vespera]
-I will get me to the mountain of myrrh, * and to the hill of frankincense.;;115
-My beloved * is white and ruddy; the hair of his head is like kingly purple, bound in tresses.;;119
-Whither is thy beloved gone, * O thou fairest among women? Whither is thy beloved turned aside?;;139
-A bundle of myrrh is my well-beloved unto me; he shall lie betwixt my breasts.;;140
-Revive me with flowers, * stay me up with apples, for I am swooning with love.;;141
+Půjdu * k hoře myrhy, a k pahorku kadidla.;;115
+Můj milovaný * je bělostný a ruměnný; vlasy jeho hlavy jsou jako královský purpur, spletené do copů.;;119
+Kam odešel * tvůj milovaný, ó nejkrásnější mezi ženami? Kde tvůj milovaný spočinul?;;139
+Svazeček myrhy * je můj milovaný v mých očích; spočine mezi mými ňadry.;;140
+Zahrňte mě květy, * nakrmte jablky, neboť zmírám láskou.;;141
 
 [Capitulum Vespera]
 !Isa 53:1-2
-v. Who hath believed our report? and to whom is the arm of the Lord revealed? And he shall grow up as a tender plant before him, and as a root out of a thirsty ground.
+v. Kdo by uvěřil tomu, co jsme slyšeli? Komu se ukázala Hospodinova moc? Vyrašil před ním jako výhonek, jako kořen z vyprahlé země.
 $Deo gratias
 
 [Hymnus Vespera]
-v. At the cross her station keeping,
-Stood the mournful Mother weeping,
-Close to Jesus to the last:
+v. Stála Matka bolu plná
+vedle kříže uplakaná
+na němž visel její syn.
 _
-Through her heart, his sorrow sharing,
-All his bitter anguish bearing,
-Now at length the sword had passed.
+Duši bolem rozechvělou
+hořkým žalem naplněnou
+zranil meč až do hlubin.
 _
-Oh, how sad and sore distressed
-Was that Mother highly blest
-Of the sole-begotten One!
+Ó jak smutná, zarmoucená
+byla ona požehnaná
+Matka Syna Božího!
 _
-Christ above in torment hangs;
-She beneath beholds the pangs
-Of her dying glorious Son.
+Plakala, žalem se chvěla
+zbožná Matka, když viděla
+syna v mukách pnícího.
 _
-Is there one who would not weep,
-Whelmed in miseries so deep
-Christ's dear Mother to behold?
+Kdo by se za slzy styděl
+kdyby Matku Páně viděl
+bolestí tou sklíčenou.
 _
-Can the human heart refrain
-From partaking in her pain,
-In that Mother's pain untold?
+Kdo by mohl meze smutku
+vidět Páně svatou Matku
+přebolestně zraněnou.
 _
-Bruised, derided, cursed, defiled,
-She beheld her tender Child
-All with bloody scourges rent;
+Pro zlé činy lidu svého
+vidí Krista zmučeného
+snášet bolest, hanbu, žal.
 _
-For the sins of his own nation,
-Saw him hang in desolation,
-Till his Spirit forth he sent.
+Vidí sladkou radost svoji,
+kterak v přetěžkém svém boji
+ducha Otci odevzdal.
 _
-O thou Mother! fount of love!
-Touch my spirit from above,
-Make my heart with thine accord:
+Matko Páně, lásky zdroji,
+ať zakusím bolest tvoji,
+ať s tebou v zármutku dlím.
 _
-Make me feel as thou hast felt;
-Make my soul to glow and melt
-With the love of Christ my Lord.
+Dej, ať vroucí láskou vzplanu,
+k svému Bohu, Kristu Pánu,
+ať se jemu zalíbím.
 Amen.
 
 [Versum 1]
-V. Pray for us, O Virgin most sorrowful.
-R. That we may be made worthy of the promises of Christ.
+V. Oroduj za nás, Panno nanejvýš plná bolesti.
+R. Abychom hodni byli učinění zaslíbení Kristových.
 
 [Ant 1]
-Simeon said unto Mary: * Yea, a sword shall pierce through thine own soul also.
+Tvou samotnou duši * (řekl k Marii Simeon) pronikne meč.
 
 [Oratio]
-O God, at Whose Passion, according to the prophecy of Simeon, a sword of sorrow pierced through the gentle soul of the glorious Maiden and Mother Mary, mercifully grant to as many as do ever remember with awe how that her soul was pierced and Thou didst suffer, even for all such be Thou entreated, for the sake and by the prayers of all thy glorious and holy servants who stood so loyally by thy Cross, and grant unto the same, that for them thy life-giving Death may not have been in vain.
+Bože, při jehož umučení, podle proroctví Simeonova, nejsladší duši přeslavné Panny a Matky Marie pronikl meč bolesti, popřej milostivě, abychom, kdož jejího probodení i utrpení s úctou vzpomínáme, s pomocí slavných zásluh i proseb všech Svatých, kteří věrně stáli u kříže, došli šťastného účinku umučení tvého: 
 $Qui vivis
 
 [Commemoratio 1]
-!Commemoration of Thursday of Passion Week
-Ant. With desire I have desired * to eat this Passover with you before I suffer.
+!Připomínka Čtvrtku v Pašijovém týdnu
+Ant. Velmi jsem toužil * jísti tohoto Beránka s vám, ještě než budu trpět.
 _
-V. Deliver me, O Lord, from the evil man.
-R. Preserve me from the wicked man.
+V. Dali v můj pokrm žluč.
+R. A v mé žízni napájeli mě octem.
 _
 $Oremus
-O Lord, we beseech thee deal mercifully with thy people, and fill plentifully with the rich things of thy commandments all them who at this time do, to fulfill thy will, turn away from that which displeaseth thee.
+Budiž, prosíme, Pane, laskav tvému lidu; abychom pohrdali tím, co se tobě nelíbí, a byli spíše naplněni potěšením z tvých přikázání.
 $Per Dominum
 
 [Doxology]

@@ -5,10 +5,10 @@ Dominica IV in Quadragesima;;I classis Semiduplex;;6
 9 lectiones
 
 [Ant 1]
-Woman, hath no man condemned thee? * No man, Lord. Neither do I condemn thee; go, and sin no more.
+Nikdo * tě neodsoudil, ženo? Nikdo, Pane; Ani já tě neodsuzuji. od nynějška však už nehřeš.
 
 [Oratio]
-Grant, we beseech thee, Almighty God, that we who for our evil deeds are worthily punished, may, by the comfort of thy grace, mercifully be relieved.
+Popřej, prosíme, všemohoucí Bože, abychom, když po zásluze za své počínání trpíme, útěchou tvé milosti pookřáli. 
 $Per Dominum
 
 [Lectio1]
@@ -123,7 +123,7 @@ R. Incline your ears to the words of My mouth.
 R. Incline your ears to the words of My mouth.
 
 [Ant Laudes]
-Then shalt Thou be pleased * with the sacrifices of righteousness, when Thou hast hidden thy face from my sins.
+Tehdy prijmeš * oběť spravedlnosti, pokud odvrátíš, Hospodine, svou tvář od mých hříchů.
 It is better to trust * in the Lord, than to trust in princes.
 Thy right hand hath * received me, O Lord.
 (sed rubrica tridentina)
@@ -135,33 +135,36 @@ Kings of the earth, * and all people, praise God.
 
 [Capitulum Laudes]
 !Gal 4:22-24
-v. Brothers: For it is written that Abraham had two sons: the one by a bondwoman, and the other by a free woman. But he who was of the bondwoman, was born according to the flesh: but he of the free woman, was by promise, which things are said by an allegory. 
+v. Bratři: Je psáno, že Abrahám měl dva syny; jednoho z otrokyně, druhého z manželky svobodné. Syn z otrokyně se narodil způsobem přirozeným, syn z manželky svobodné však na základě zaslíbení. V tom se skrývá ještě jiný význam.
 $Deo gratias
 
 [Ant 2]
-When Jesus lifted up His Eyes, * and saw a great company come unto Him, He saith unto Philip: Whence shall we buy bread that these may eat? And this He said to prove him; for He Himself knew what He would do.
+Když Ježíš zvedl své oči, * a uviděl k sobě přicházet nesmírný zástup lidí, řekl Filipovi: "Odkud koupíme chleby, aby tito mohli jíst?" To ovšem řekl, aby jej pokoušel, sám totiž věděl, co udělá.
 
 [Ant Prima]
-And Jesus took the loaves, * and when He had given thanks, He distributed to them that were set down.
+Vzal tedy * Ježíš chleby, a když vzdal díky, rozdával těm, kteří seděli.
 
 [Ant Tertia]
-With five loaves and two fishes * did the Lord satisfy five thousand men.
+Z pěti chlebů * a dvou ryb nasytil Pán pět tisíc lidí.
 
 [Ant Sexta]
-With five loaves and two fishes * did the Lord satisfy five thousand men.
+Nasytil Pán * pět tisíc lidí z pěti chlebů a dvou ryb.
 
 [Capitulum Sexta]
 !Gal 4:27
-v. For it is written: Rejoice, thou barren, that bearest not: break forth and cry, thou that travailest not: for many are the children of the desolate, more than of her that hath a husband.
+v. Raduj se neplodná, kterás nerodila, v jásot propukni ty, kterás nepoznala porodní bolesti. Neboť mnoho dětí bude mít žena opuštěná, více než ta, která má muže.
 $Deo gratias
 
 [Ant Nona]
-Then those men, * when they had seen the miracle that Jesus did, said amongst themselves: This is of a truth that Prophet that should come into the world.
+Tedy tito * lidé, když viděli, jaké udělal Ježíš znamení, říkali si mezi sebou; že tento člověk je opravdu Prorok, který přišel na zem.
 
 [Capitulum Nona]
 !Gal 4:31
-v. So then, brethren, we are not the children of the bondwoman, but of the free: by the freedom wherewith Christ has made us free.
+v. Proto, bratři, nejsme dětmi otrokyně, ale manželky svobodné; a touto svobodou nás Kristus osvobodil.
 $Deo gratias
 
 [Ant 3]
 And Jesus went up into a mountain, * and there He sat with His disciples.
+
+[Ant 3] (rubrica cisterciensis)
+Když viděly zástupy * znamení, jaké udělal Ježíš, říkaly: "Vpravdě je tento člověk Prorok, který přišel na svět."

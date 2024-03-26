@@ -798,7 +798,7 @@ sub psalmi_minor {
       : ($dayname[0] =~ /Adv2/i) ? 'Adv2'
       : ($dayname[0] =~ /Adv3/i) ? 'Adv3'
       : ($dayname[0] =~ /Adv4/i) ? 'Adv4'
-      : ($dayname[0] =~ /(Quad5|Quad6)/i) ? 'Quad5'
+      : ($dayname[0] =~ /(Quad5|Quad6)/i) ? 'Quad5C'
       : ($dayname[0] =~ /Quad[1-6]/i) ? 'QuadC'
       : ($dayname[0] =~ /Pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) ? 'Pasch'
       : '';

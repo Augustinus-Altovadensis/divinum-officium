@@ -1,2 +1,24 @@
-@Tempora/Quad5-5Feria
+@Tempora/Quad5-5
+[Rank]
+Septem Dolorum Beatæ Mariæ Virginis;;Duplex majus;;5
 
+[Rule]
+Doxology=NatT
+
+[Commemoratio 1]
+!Commemoratio Feriæ Quintæ
+Ant. Mittens hæc múlier * in corpus meum hoc unguéntum, ad sepeliéndum me fecit.
+_
+V. Dedérunt in escam meam fel.
+R. Et in siti mea potavérunt me acéto.
+_
+$Oremus
+Esto, quǽsumus Dómine, propítius plebi tuæ: ut, quæ tibi non placent, respuéntes, tuórum pótius repleántur delectatiónibus mandatórum.
+$Per Dominum.
+
+[Doxology]
+Glória tibi, Dómine,
+Qui natus est de Vírgine,
+Cum Patr<i>e</i> et Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.

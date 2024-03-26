@@ -3,6 +3,4 @@
 [Rank]
 Sabbato infra Hebdomadam Passionis;;Feria major;;3
 
-[Ant 2]
-Pater juste, * mundus te non cognóvit, ego autem novi te, quia tu me misísti.
 
