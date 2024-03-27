@@ -1710,7 +1710,7 @@ sub getcommemoratio {
   if (!$v) { $v = getfrompsalterium('Versum', $ind, $lang); }
   if (!$v) { $v = 'versus missing'; }
 
-if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ /tempora/i )
+if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ /tempora/i && $rank[0] !~ /Septem Dolorum/i )
     { # search for Cistercian verse for commemorated Ferias
     $v = $w{"VersumC $ind"};
     if (!$v) { $v = getfrompsalterium('VersumC', $ind, $lang); }

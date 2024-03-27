@@ -4,6 +4,13 @@ Septem Dolorum Beatæ Mariæ Virginis;;Duplex majus;;5
 
 [Rule]
 Doxology=NatT
+Psalmi Dominica
+Antiphonas horas
+
+[Capitulum Vespera]
+@Tempora/Quad5-5:Capitulum Vespera
+_
+@Tempora/Quad5-5:Responsory Tertia:1-4
 
 [Commemoratio 1]
 !Commemoratio Feriæ Quintæ
@@ -17,8 +24,40 @@ Esto, quǽsumus Dómine, propítius plebi tuæ: ut, quæ tibi non placent, respu
 $Per Dominum.
 
 [Doxology]
-Glória tibi, Dómine,
-Qui natus est de Vírgine,
-Cum Patr<i>e</i> et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+@Psalterium/Doxologies:NatT
+
+[Capitulum Laudes]
+@Tempora/Quad5-5:Capitulum Vespera
+_
+@Tempora/Quad5-5:Responsory Nona:1-4
+
+[Commemoratio 2]
+!Commemoratio Feria Sexta
+Ant. Appropinquábat autem dies festus Judæórum: et quærébant príncipes sacerdótum quómodo Jesum interfícerent, sed timébant plebem.
+_
+V. Homo pacis meæ in quo sperábam.
+R. Ampliávit advérsum me supplantatiónem.
+_
+$Oremus
+Córdibus nostris, quǽsumus, Dómine, grátiam tuam benígnus infúnde: ut peccáta nostra castigatióne voluntária cohibéntes, temporáliter pótius macerémur, quam supplíciis deputémur ætérnis.
+$Per Dominum
+
+[Responsory Tertia]
+@Tempora/Quad5-5:Responsory Tertia:2-3:s/\* D/d/ s/\* Z/z/ s/V./R./ s/R./V./
+
+[Responsory Sexta]
+@Tempora/Quad5-5:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Tempora/Quad5-5:Responsory Sexta:8-9
+
+[Commemoratio 3]
+!Commemoratio Feriæ Sextæ
+Ant. Príncipes sacerdótum consílium fecérunt ut Jesum occíderent: dicébant autem: Non in die festo, ne forte tumúltus fíeret in pópulo.
+_
+V. Dedérunt in escam meam fel.
+R. Et in siti mea potavérunt me acéto.
+_
+$Oremus
+Concéde, quǽsumus, omnípotens Deus: ut qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus.
+$Per Dominum

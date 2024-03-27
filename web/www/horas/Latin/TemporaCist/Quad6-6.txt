@@ -14,7 +14,7 @@ Capitulum Versum 2 ad Laudes tantum
 @Tempora/Quad6-6::s/\n/_/smg s/_/;;50\n/ s/_/;;42\n/ s/_/;;62;66\n/ s/_/;;222\n/ s/$/;;148;149;150\n/s
 
 [Oratio 2]
-@Tempora/Quad6-6r:Oratio 2
+@Tempora/Quad6-6:Oratio 2
 
 [Special Prima]
 @TemporaM/Quad6-4::s/6-4/6-6r/ s/Oratio/Oratio 2/

@@ -59,9 +59,10 @@
 03-19=03-19=S. Joseph Sponsi BMV Confessoris=7=
 03-20=03-20=S. Joachim, Patris BMV=5=
 03-21=03-21=S. Benedicti Abbatis=6=
+03-24=03-24=S. Gabrielis Archangeli=3=
 03-25=03-25=In Annuntiatione Beatae Mariae Virginis=6=
-03-27=03-27=S. John Damascene Confessoris=3=
 *April*
+04-01=04-01=S. Hugoni, Abbatis=1=
 04-04=04-04=S. Isidori Episc Confessoris et Ecclesiae Doctoris=3=
 04-05=04-05=S. Julianæ Virginis=4=
 04-11=04-11=S. Leonis I Papae Confessoris et Ecclesiae Doctoris=3=

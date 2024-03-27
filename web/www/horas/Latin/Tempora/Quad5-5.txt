@@ -97,24 +97,24 @@ Amen.
 Qui passus es propter nostram salútem.
 
 [Invit]
-Dolores gloriosæ recolentes Virginis, Dominum pro nobis passum * Venite adoremus.
+Dolóres gloriósæ recoléntes Vírginis, Dóminum pro nobis passum * Veníte adorémus.
 
 [Hymnus Matutinum]
 v. Sancta Mater, istud agas,
-Crucifixi fige plagas
-Cordi meo valide:
+Crucifíxi fige plagas
+Cordi meo válide:
 _
-Tui nati vulnerati,
-Tam dignati pro me pati,
-Pœnas mecum divide.
+Tui nati vulneráti,
+Tam dignáti pro me pati,
+Pœnas mecum dívide.
 _
 Fac me tecum pie flere,
-Crucifixo condolere,
-Donec ego vixero:
+Crucifíxo condolére,
+Donec ego víxero:
 _
 Juxta crucem tecum stare,
-Et me tibi sociare
-In planctu desidero.
+Et me tibi sociáre
+In planctu desídero.
 Amen.
 
 [Ant Matutinum]
@@ -245,29 +245,29 @@ R. Et Dominicæ passionis fructum sentiamus.
 @:Capitulum Vespera
 
 [Hymnus Laudes]
-{:H-Stabatmater:}v. Virgo virginum præclara,
-Mihi jam non sis amara,
-Fac me tecum plangere.
+{:H-Stabatmater:}v. Virgo vírginum præclára,
+Mihi jam non sis amára,
+Fac me tecum plángere.
 _
 Fac ut portem Christi mortem,
-Passionis fac consortem,
-Et plagas recolere.
+Passiónis fac consórtem,
+Et plagas recólere.
 _
-Fac me plagis vulnerari,
-Fac me cruce inebriari,
-Et cruore Filii.
+Fac me plagis vulnerári,
+Fac me cruce inebriári,
+Et cruóre Fílii.
 _
-Flammis ne urar succensus,
-Per te Virgo sim defensus
-In die judicii.
+Flammis ne urar succénsus,
+Per te Virgo sim defénsus
+In die judícii.
 _
-Christe, cum sit hinc exire,
-Da per Matrem me venire
-Ad palmam victoriæ.
+Christe, cum sit hinc exíre,
+Da per Matrem me veníre
+Ad palmam victóriæ.
 _
-Quando corpus morietur,
-Fac ut animæ donetur
-Paradisi gloria.
+Quando corpus moriétur,
+Fac ut ánimæ donétur
+Paradísi glória.
 Amen.
 
 [Versum 2]
@@ -289,53 +289,53 @@ $Per Dominum
 
 [Lectio Prima]
 !Isa 53:8
-Generationem ejus quis enarrabit, quia abscissus est de terra viventium; propter scelus populi mei percussi eum.
+v. Generatiónem ejus quis enarrábit, quia abscíssus est de terra vivéntium; propter scelus pópuli mei percússi eum.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Responsory Tertia]
-R.br. Posuit me * Desolatam.
-R. Posuit me * Desolatam.
-V. Tota die mærore confectam.
-R. Desolatam.
+R.br. Pósuit me * Desolátam.
+R. Pósuit me * Desolátam.
+V. Tota die mæróre conféctam.
+R. Desolátam.
 &Gloria
-R. Posuit me * Desolatam.
+R. Pósuit me * Desolátam.
 _
-V. Facies mea intumuit a fletu.
-R. Et palpebræ meæ caligaverunt.
+V. Fácies mea intúmuit a fletu.
+R. Et pálpebræ meæ caligavérunt.
 
 [Capitulum Sexta]
 !Isa 53:5
-v. Ipse vulneratus est propter iniquitates nostras, attritus est propter scelera nostra: disciplina pacis nostræ super eum, et livore ejus sanati sumus.
+v. Ipse vulnerátus est propter iniquitátes nostras, attrítus est propter scélera nostra: disciplína pacis nostræ super eum, et livóre ejus sanáti sumus.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Facies mea * Intumuit a fletu.
-R. Facies mea * Intumuit a fletu.
-V. Et palpebræ meæ caligaverunt.
-R. Intumuit a fletu
+R.br. Fácies mea * Intúmuit a fletu.
+R. Fácies mea * Intúmuit a fletu.
+V. Et pálpebræ meæ caligavérunt.
+R. Intúmuit a fletu
 &Gloria
-R. Facies mea * Intumuit a fletu.
+R. Fácies mea * Intúmuit a fletu.
 _
-V. Deus vitam meam annuntiavi tibi.
-R. Posuisti lacrimas meas in conspectu tuo.
+V. Deus vitam meam annuntiávi tibi.
+R. Posuísti lácrimas meas in conspéctu tuo.
 
 [Capitulum Nona]
 !Isa 53:8
-v. Generationem ejus quis enarrabit, quia abscissus est de terra viventium; propter scelus populi mei percussi eum.
+v. Generatiónem ejus quis enarrábit, quia abscíssus est de terra vivéntium; propter scelus pópuli mei percússi eum.
 $Deo gratias
 
 [Responsory Nona]
-R.br. Deus vitam meam * Annuntiavi tibi.
-R. Deus vitam meam * Annuntiavi tibi.
-V. Posuisti lacrimas meas in conspectu tuo.
-R. Annuntiavi tibi
+R.br. Deus vitam meam * Annuntiávi tibi.
+R. Deus vitam meam * Annuntiávi tibi.
+V. Posuísti lácrimas meas in conspéctu tuo.
+R. Annuntiávi tibi
 &Gloria
-R. Deus vitam meam * Annuntiavi tibi.
+R. Deus vitam meam * Annuntiávi tibi.
 _
-V. Ora pro nobis Virgo dolorosissima.
-R. Ut digni efficiamur promissionibus Christi.
+V. Ora pro nobis Virgo dolorosíssima.
+R. Ut digni efficiámur promissiónibus Christi.
 
 [Versum 3]
 @:Versum 1
@@ -345,11 +345,11 @@ R. Ut digni efficiamur promissionibus Christi.
 
 [Commemoratio 3]
 !Commemoratio Feriæ Sextæ
-Ant. Principes sacerdotum * consilium fecerunt ut Jesum occiderent: dicebant autem: Non in die festo, ne forte tumultus fieret in populo.
+Ant. Príncipes sacerdótum * consílium fecérunt ut Jesum occíderent: dicébant autem: Non in die festo, ne forte tumúltus fíeret in pópulo.
 _
-V. Eripe me de inimicis meis Deus meus.
-R. Et ab insurgentibus in me libera me.
+V. Eripe me de inimícis meis Deus meus.
+R. Et ab insurgéntibus in me líbera me.
 _
 $Oremus
-Concede, quǽsumus, omnipotens Deus: ut qui protectionis tuæ gratiam quærimus, liberati a malis omnibus, secura tibi mente serviamus.
+Concéde, quǽsumus, omnípotens Deus: ut qui protectiónis tuæ grátiam quǽrimus, liberáti a malis ómnibus, secúra tibi mente serviámus.
 $Per Dominum
