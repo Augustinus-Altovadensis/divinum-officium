@@ -3,10 +3,15 @@
 [Rule]
 12 lectiones
 
-[Capitulum Vespera]
+[Capitulum Vespera] 
 @Tempora/Pasc1-0::s/Carís/Charís/s
 _
 @Psalterium/Major Special:PaschC Vespera:3-6
+
+[Capitulum Laudes]
+@Tempora/Pasc1-0:Capitulum Vespera
+_
+@Psalterium/Major Special:PaschC Laudes:3-6
 
 [Lectio1]
 @Tempora/Pasc1-0:Lectio1:s/-7/-4/ s/5 .*//s
@@ -80,20 +85,6 @@ Allelúja, * noli flere, María, allelúja: † resurréxit Dóminus, † allel�
 [Responsory12]
 @Tempora/Pasc0-5:Responsory2
 
-[Ant 2]
-Post dies octo * jánuis clausis ingréssus Dóminus dixit eis: Pax vobis. allelúia, allelúia.
 
-[Capitulum Laudes]
-@Tempora/Pasc1-0:Capitulum Vespera:s/Carís/Charís/s
-_
-@Psalterium/Major Special:PaschC Laudes:3-6
 
-[Oratio]
-@Tempora/Pasc1-0:Oratio:s/paschá/Paschá/s
 
-[Versum 2]
-V. Dícite in natiónibus, allelúja.
-R. Quia Dóminus regnávit a ligno, allelúja.
-
-[Ant 3]
-Multa quidem * et ália signa fecit Jesus in conspéctu discipulórum suórum, allelúia, quæ non sunt scripta in libro hoc, allelúia.

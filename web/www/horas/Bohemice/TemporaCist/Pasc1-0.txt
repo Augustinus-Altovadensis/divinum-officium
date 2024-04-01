@@ -21,13 +21,4 @@ Alleluia, * Do not weep, Maria, alleluia: the Lord is risen, alleluia, alleluia.
 [Lectio11]
 @Tempora/Pasc1-0:Lectio8:s/.* In this /In this /s
 
-[Versum 2]
-V. Rozhlašujte mezi národy, allelúja.
-R. Že Pán vládnul z dřeva kříže, allelúja.
 
-[Versum 3]
-V. Zůstaň s námi, Pane, allelúja.
-R. Neboť se připozdívá, allelúja.
-
-[Ant 3]
-Mnohá totiž * i další znamení učil Ježíš před zrakem svých učedníků, alleluja, ovšem ta nejsou v této knize zapsána, alleluja.

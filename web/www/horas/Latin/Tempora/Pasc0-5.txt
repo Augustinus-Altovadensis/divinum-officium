@@ -1,6 +1,9 @@
 [Rank]
 Die VI infra octavam Paschæ;;Semiduplex I class;;6.9;;ex Pasc0-0
 
+[Rank] (rubrica cisterciensis)
+Feria VI infra Octavam Paschæ;;MM. maj.;;6;;ex Pasc0-0
+
 [Rule]
 ex Pasc0-0;
 1 nocturn;

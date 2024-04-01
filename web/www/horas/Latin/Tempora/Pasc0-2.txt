@@ -1,6 +1,9 @@
 [Rank]
 Die III infra octavam Paschæ;;Duplex I classis;;7;;ex Pasc0-0
 
+[Rank] (rubrica cisterciensis)
+Feria III infra octavam Paschæ;;MM. maj.;;7;;ex Pasc0-0
+
 [Rule]
 ex Pasc0-0;
 1 nocturn;
@@ -54,3 +57,7 @@ $Per Dominum
 
 [Ant 3]
 Vidéte manus meas * et pedes meos, quia ego ipse sum, allelúja, allelúja.
+
+[Ant 3] (rubrica cisterciensis)
+Obtulérunt * discípuli Dómino partem piscis assi, et favum mellis, allelúia, allelúia.
+

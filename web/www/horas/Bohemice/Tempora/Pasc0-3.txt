@@ -46,11 +46,14 @@ It may likewise be asked why, when the disciples were toiling in the sea, the Lo
 &teDeum
 
 [Ant 2]
-Cast the net on the right side of the ship, * and ye shall find, alleluia.
+Nahoďte síť na pravý bok * loďky, a naleznete <i>úlovek</i>, alleluja.
 
 [Oratio]
-O God, Who dost every year fill us with holy gladness for the rising-again of the Lord, mercifully grant that these Feast-days which we are now keeping here in time, may be to us a mean whereby in the end we may worthily attain unto those pleasures which are at thy right hand for evermore.
+Bože, jenž nás každoroční slavností Zmrtvýchvstání oblažuješ; uděl laskavě, abychom skrze časné svátky, které slavíme, zasloužili si dojít k věčným radostem.
 $Per eumdem
 
 [Ant 3]
 Jesus saith * unto His disciples: Bring of the fish which ye have now caught. Simon Peter went up, and drew the net to land, full of great fishes, alleluia.
+
+[Ant 3] (rubrica cisterciensis)
+To bylo již potřetí, * co se Ježíš ukázal poté, co vstal z mrtvých, alleluja.

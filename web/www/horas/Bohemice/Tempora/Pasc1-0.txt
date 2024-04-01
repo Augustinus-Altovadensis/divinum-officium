@@ -9,14 +9,14 @@ Omit Commemoratio
 
 [Capitulum Vespera]
 !1 John 5:4
-v. My beloved: For whatsoever is born of God, overcometh the world: and this is the victory which overcometh the world, our faith.
+v. Milovaní: Vše, co je zrozeno z Boha, vítězí nad světem. A to je vítězství, které přemohlo svět: naše víra.
 $Deo gratias
 
 [Ant 1]
-Now when it was late * the same day, the first of the week, and the doors were shut, where the disciples were gathered together, for fear of the Jews, Jesus came and stood in the midst and said to them: Peace be to you, alleluia.
+Když již bylo pozdě * v onen první den v týdnu, a dveře byly zavřené tam, kde se učedníci shromáždili, postavil se Ježíš uprostřed nich, a řekl jim: „Pokoj vám,” alleluja.
 
 [Oratio]
-Grant, we beseech Thee, almighty God, that we who have celebrated the Paschal Feast, may, by Thy bounty, retain its fruits in our daily habits and behaviour.
+Uděl, prosíme, všemohoucí Bože; abychom, když slavíme velikonoční svátky, toto, s tvou štědrou pomocí, udržovali ve svých mravech i životech.
 $Per Dominum
 
 [Lectio1]
@@ -84,13 +84,21 @@ Then said Jesus to them again: Peace be unto you. As My Father hath sent Me, eve
 
 [Capitulum Sexta]
 !1 John 5:5-6
-v. Who is he that overcometh the world, but he that believeth that Jesus is the Son of God? This is he that came by water and blood, Jesus Christ: not by water only, but by water and blood.
+v. Kdo tedy vítězí nad světem, ne-li ten, kdo věří, že Ježíš je Syn Boží? Ježíš Kristus je ten, který přišel skrze vodu a krev; nejen skrze vodu, ale skrze vodu a krev. A to dosvědčuje Duch, protože Duch je pravda.
 $Deo gratias
 
 [Capitulum Nona]
 !1 John 5:9-10
-v. If we receive the testimony of men, the testimony of God is greater. For this is the testimony of God, which is greater, because he hath testified of his Son. He that believeth in the Son of God, hath the testimony of God in himself.
+v. Když přijímáme svědectví lidské, tím větší (platnost) má svědectví Boží. To je totiž svědectví Boží, které Bůh vydal o svém Synu: kdo věří v Božího Syna, má o tom svědectví sám v sobě. Kdo Bohu nevěří, dělá z něho lháře, protože nevěří svědectví, které Bůh vydává o svém Synu.
 $Deo gratias
+
+[Ant 2] (rubrica cisterciensis)
+Po osmi dnech * vešel Pán zavřenými dveřmi a řekl jim: „Pokoj vám,” alleluja, alleluja.
 
 [Ant 3]
 After eight days * came the Lord, the doors being shut, and said unto them: Peace be unto you, alleluia, alleluia.
+
+[Ant 3] (rubrica cisterciensis)
+Mnohá totiž * i další znamení učil Ježíš před zrakem svých učedníků, alleluja, ovšem ta nejsou v této knize zapsána, alleluja.
+
+
