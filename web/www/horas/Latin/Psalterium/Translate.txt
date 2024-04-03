@@ -25,6 +25,9 @@ Réquiem
 [Alleluia]
 Allelúja.
 
+[Alleluia] (rubrica cisterciensis)
+Allelúia.
+
 [Laus tibi]
 Laus tibi, Dómine, Rex ætérnæ glóriæ.
 
@@ -70,6 +73,9 @@ Benedicámus Dómino
 [Benedicamus Domino alleluja]
 Benedicámus Dómino, allelúja, allelúja
 
+[Benedicamus Domino alleluja] (rubrica cisterciensis)
+Benedicámus Dómino, allelúia, allelúia
+
 [Fidelium animae]
 Fidélium ánimæ
 
@@ -101,7 +107,7 @@ Qui vivis
 Qui tecum
 
 [Sacrosanctaea]
-Sacrosanctća
+Sacrosanctæa
 
 [Te Deum]
 Te Deum

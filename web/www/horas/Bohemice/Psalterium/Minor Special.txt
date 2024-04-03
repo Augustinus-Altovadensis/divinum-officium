@@ -238,15 +238,15 @@ v. Knowing that Christ rising again from the dead, dieth now no more, death shal
 $Deo gratias
 
 [Responsory Pasch Tertia]
-R.br. Pán vstal z hrobu, * alleluia, alleluia.
-R. Pán vstal z hrobu, * alleluia, alleluia.
+R.br. Pán vstal z hrobu, * alleluja, alleluja.
+R. Pán vstal z hrobu, * alleluja, alleluja.
 V. Jenž pro nás visel na dřevě kříže.
-R. Alleluia, alleluia.
+R. Alleluja, alleluja.
 &Gloria
-R. Pán vstal z hrobu, * alleluia, alleluia.
+R. Pán vstal z hrobu, * alleluja, alleluja.
 _
-V. Pán vpravdě zmrtvých vstal, alleluia.
-R. A ukázal se Šimonu Petrovi, alleluia.
+V. Pán vpravdě zmrtvých vstal, alleluja.
+R. A ukázal se Šimonu Petrovi, alleluja.
 
 [Pasch Sexta]
 !1 Cor 15:20-22
@@ -254,15 +254,15 @@ v. But now Christ is risen from the dead, the first-fruits of them that sleep: F
 $Deo gratias
 
 [Responsory Pasch Sexta]
-R.br. Pán vstal vpravdě z mrtvých, * alleluia, alleluia.
-R. Pán vstal vpravdě z mrtvých, * alleluia, alleluia.
+R.br. Pán vstal vpravdě z mrtvých, * alleluja, alleluja.
+R. Pán vstal vpravdě z mrtvých, * alleluja, alleluja.
 V. A ukázal se Šimonu Petrovi.
-R. Alleluia, alleluia.
+R. Alleluja, alleluja.
 &Gloria
-R. Pán vstal vpravdě z mrtvých, * alleluia, alleluia.
+R. Pán vstal vpravdě z mrtvých, * alleluja, alleluja.
 _
-V. Zaradovali se učedníci, alleluia.
-R. Když viděli Pána, alleluia.
+V. Zaradovali se učedníci, alleluja.
+R. Když viděli Pána, alleluja.
 
 [Pasch Nona]
 !1 Pet 3:18
@@ -464,5 +464,5 @@ V. Povstali proti mě falešní svědkové.
 R. A nepravost obelhala sama sebe.
 
 [Responsory Pasch TertiaC]
-V. The Lord is risen from the sepulchre, alleluia.
-R. Who for us was hanged on the tree, alleluia.
+V. Pán vstal z hrobu, alleluia.
+R. Který pro nás visel na dřevě, alleluia.

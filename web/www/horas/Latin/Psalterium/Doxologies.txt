@@ -8,7 +8,7 @@ Amen.
 [NatT]
 Glória tibi, Dómine,
 Qui natus es de Vírgine,
-Cum Patre, et Sancto Spíritu,
+Cum Patr<i>e,</i> et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
@@ -35,8 +35,8 @@ Amen.
 
 [PascT]
 Glória tibi Dómine,
-Qui surréxisti a mórtuis,
-Cum Patre et Sancto Spíritu,
+Qui surréxist<i>i</i> a mórtuis,
+Cum Patr<i>e</i> et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
@@ -50,7 +50,7 @@ Amen.
 [AscT]
 Glória tibi Dómine,
 Qui scandis super sídera,
-Cum Patre, et Sancto Spíritu,
+Cum Patr<i>e,</i> et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
@@ -78,7 +78,7 @@ Amen.
 [CorpT]
 Glória tibi, Dómine,
 Qui natus es de Vírgine,
-Cum Patre, et Sancto Spíritu,
+Cum Patr<i>e,</i> et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
@@ -92,6 +92,6 @@ Amen.
 [HeartT]
 Glória tibi Dómine,
 Qui Corde fundis grátiam,
-Cum Patre, et Sancto Spíritu,
+Cum Patr<i>e,</i> et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.

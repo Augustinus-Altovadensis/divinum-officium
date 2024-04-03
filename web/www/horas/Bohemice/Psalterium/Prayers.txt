@@ -303,4 +303,9 @@ v. Pane, smiluj se; Kriste, smiluj se; Pane, smiluj se
 [Alleluia Duplex]
 Alleluja, alleluja.
 
+[Alleluia Simplex] (rubrica cisterciensis)
+, alleluja.
+
+[Alleluia Duplex] (rubrica cisterciensis)
+Alleluja, alleluja.
 

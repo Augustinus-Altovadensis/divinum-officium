@@ -316,6 +316,8 @@ sub Alleluia_ant {
     $s .= ", * $s, $s.";
     $s =~ s/ ./\L$&/g unless $ucase;
   }
+  if ($version =~ /Cistercien/ && !$full ) { 
+    $s .= "."; }
   return $s;
 }
 
@@ -1394,7 +1396,7 @@ sub postprocess_short_resp(\@$) {
   s/&Gloria1?/&Gloria1/ for (@$capit);
 
   # To filter out automatically added Alleluia's in proper Offices.
-  if ( ( $dayname[0] =~ /Pasc/i && $version !~ /Cistercien/i ) || (  $dayname[0] =~ /Pasc/i && $version =~ /Cistercien/i && $rank < 6 )) {
+  if ( ( $dayname[0] =~ /Pasc/i && $version !~ /Cistercien/i ) || (  $dayname[0] =~ /Pasc/i && $version =~ /Cistercien/i && (($rank < 6 && $winner =~ /Sancti/i) || $winner =~ /Tempora/i ) )) {
     my $rlines = 0;
 
     for (@$capit) {

@@ -1,4 +1,8 @@
-@Sancti/04-04
-
 [Rank]
-S. Isidori Episcopi Confessoris et Ecclesiæ Doctoris;;Simplex;;1.1;;vide C4
+S. Ambrosii, Episcopi, Confessoris, et Ecclesiæ Doctoris;;MM. min.;;4;;ex C4
+
+[Ant 1]
+@Commune/C4a::s/N\./Ambrósi/
+
+[Oratio]
+@Commune/C4:Oratio2:s/N\./Ambrósium/

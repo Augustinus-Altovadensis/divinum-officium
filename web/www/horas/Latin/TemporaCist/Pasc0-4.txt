@@ -1,7 +1,7 @@
 @Tempora/Pasc0-4
 
 [Rule]
-ex Pasc0-0
+vide Pasc0-0
 Psalmi Feria
 Doxology=Pasc
 

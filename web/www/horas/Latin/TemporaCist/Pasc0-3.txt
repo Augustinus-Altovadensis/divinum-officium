@@ -1,8 +1,8 @@
 @Tempora/Pasc0-3
 
 [Rule]
-ex Pasc0-0
-Feria
+vide Pasc0-0
+Psalmi Feriales
 Doxology=Pasc
 
 [Responsory3]

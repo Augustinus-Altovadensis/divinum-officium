@@ -1,0 +1,5 @@
+[Ant 1]
+@Commune/C4a::s/N\./Ambroži/
+
+[Oratio]
+@Commune/C4:Oratio2:s/N\./Ambrože/

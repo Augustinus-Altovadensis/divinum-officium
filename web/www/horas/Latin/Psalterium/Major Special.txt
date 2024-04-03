@@ -2167,12 +2167,12 @@ R. Líbera me, Dómine.
 [PaschC Laudes]
 @:Pasch Laudes
 _
-@Psalterium/Minor Special:Responsory Pasch Sexta:s/._.*//s
+@Psalterium/Minor Special:Responsory Pasch Sexta:s/._.*//s s/llelúja/llelúia/g
 
 [PaschC Vespera]
 @:Pasch Laudes
 _
-@Psalterium/Minor Special:Responsory Pasch Tertia:s/._.*//s
+@Psalterium/Minor Special:Responsory Pasch Tertia:s/._.*//s s/llelúja/llelúia/g
 
 [LitaniaM]
 @:Litania

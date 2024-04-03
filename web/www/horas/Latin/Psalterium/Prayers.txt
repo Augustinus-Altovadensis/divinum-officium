@@ -97,6 +97,10 @@ v. Indulgéntiam, + absolutiónem et remissiónem peccatórum nostrórum tríbua
 ℣. Benedicámus Dómino, allelúja, allelúja.
 ℟. Deo grátias, allelúja, allelúja.
 
+[Benedicamus Domino1] (rubrica cisterciensis)
+℣. Benedicámus Dómino, allelúia, allelúia.
+℟. Deo grátias, allelúia, allelúia.
+
 [Divinum auxilium] (rubrica cisterciensis)
 Divínum auxílium máneat semper nobíscum.
 Et cum frátribus nostris abséntibus.
@@ -306,6 +310,12 @@ $Kyrie
 
 [Alleluia Duplex]
 Allelúja, allelúja.
+
+[Alleluia Simplex] (rubrica cisterciensis)
+, allelúia.
+
+[Alleluia Duplex] (rubrica cisterciensis)
+Allelúia, allelúia.
 
 [Lectio regulae]
 Lectio ex Regula S.P.N.Benedicti, Caput № 

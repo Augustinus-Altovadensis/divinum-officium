@@ -2,7 +2,7 @@
 Die V infra octavam Paschæ;;Semiduplex I classis;;6.9;;ex Pasc0-0
 
 [Rank] (rubrica cisterciensis)
-Feria V infra Octavam Paschæ;;MM. maj.;;6;;ex Pasc0-0
+Feria V infra Octavam Paschæ;;MM. maj.;;6;;vide Pasc0-0
 
 [Rule]
 ex Pasc0-0;
