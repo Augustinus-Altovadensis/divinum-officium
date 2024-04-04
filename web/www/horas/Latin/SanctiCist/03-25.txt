@@ -5,7 +5,10 @@
 Doxology=Nat
 
 [Ant Vespera] (tempore paschali)
-Allelúia, * allelúia, allelúia.
+Allelúia, * allelúia, allelúia.;;109
+;;112
+;;121
+;;126
 
 [Capitulum Vespera]
 @Sancti/03-25:Capitulum Laudes:1-3
