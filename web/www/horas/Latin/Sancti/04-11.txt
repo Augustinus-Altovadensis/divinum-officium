@@ -11,12 +11,12 @@ Leo
 vide C4a;mtv
 9 lectiones
 
-[Oratio] (rubrica tridentina)
-Exaudi, quǽsumus, Domine, preces nostras, quas in beati Leonis Confessóris tui atque Pontificis solemnitate deferimus: et qui tibi digne meruit famulari, ejus intercedentibus meritis ab omnibus nos absolve peccatis.
-$Per Dominum
-
 [Oratio]
 Gregem tuum, Pastor ætérne, placátus inténde: et per beátum Leónem Summum Pontíficem perpétua protectióne custódi; quem totíus Ecclésiæ præstitísti esse pastórem.
+$Per Dominum
+
+[Oratio] (rubrica tridentina aut rubrica cisterciensis)
+Exáudi, quǽsumus, Dómine, preces nostras, quas in beáti Leónis Confessóris tui atque Pontíficis solemnitáte deférimus: et qui tibi digne méruit famulári, ejus intercedéntibus méritis ab ómnibus nos absólve peccátis.
 $Per Dominum
 
 [Lectio1] (rubrica tridentina)

@@ -1,0 +1,11 @@
+@Sancti/04-11
+
+[Rank]
+S. Lva Velikého, Papeže, Vyznavače a Učitele Církve;;iij. Lect. et M.;;2;;vide C4
+
+[Ant 1]
+@Commune/C4a::s/N\./Lve/
+
+[Responsory1]
+@Commune/C4a:Responsory8
+

@@ -1,7 +1,12 @@
 @Commune/C10
 
 [Capitulum Vespera]
-@CommuneM/C10
+@Commune/C10:Capitulum Vespera
+_
+R.br. Ave María, grátia plena: Dóminus tecum, * Allelúia, allelúia.
+R. Ave María, grátia plena: Dóminus tecum, * Allelúia, allelúia.
+V. Benedícta tu in muliéribus.
+R. Allelúia, allelúia.
 
 [Ant 1]
 @Commune/C10p

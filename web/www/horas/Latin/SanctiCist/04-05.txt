@@ -1,7 +1,5 @@
-@Sancti/04-05
-
 [Rank]
-B. Julianæ Virginis;;II Class;;4;;ex C6
+B. Julianæ, (Sanctæ Nuncupatæ) Virginis;;xij. Lect. et M.;;3;;ex C6
 
 [Rule]
 12 lectiones

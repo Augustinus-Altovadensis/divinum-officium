@@ -1,0 +1,11 @@
+[Rank]
+S. Isidori, Episcopi, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;2;;vide C4
+
+[Rule]
+vide C4;mtv
+
+[Ant 1]
+@Commune/C4a::s/N\./Isidóre/
+
+[Oratio]
+@Commune/C4:Oratio2:s/N\./Isidórum/

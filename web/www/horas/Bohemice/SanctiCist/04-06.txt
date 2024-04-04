@@ -1,0 +1,8 @@
+[Rank]
+Sv. Isidora, Biskupa, Vyznavače a Učitele Církve;;iij. Lect. et M.;;4;;ex C4
+
+[Ant 1]
+@Commune/C4a::s/N\./Isidore/
+
+[Oratio]
+@Commune/C4:Oratio2:s/N\./Isidora/

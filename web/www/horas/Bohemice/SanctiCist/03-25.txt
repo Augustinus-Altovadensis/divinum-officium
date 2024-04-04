@@ -1,3 +1,41 @@
+[Ant Vespera] (tempore paschali)
+Alleluja, * alleluja, alleluja.
+
+[Capitulum Vespera]
+@Sancti/03-25:Capitulum Laudes:1-3
+_
+Responsorium. Zdrávas Maria, milostiplná, Pán s tebou: * Duch svatý na tebe sestoupí a moc Nejvyššího tě zastíní: a to Svaté, co se z tebe narodí, se bude nazývat Syn Boží. (Alleluja.)
+V. Jakpak se to stane, vždyť muže nepoznávám? I Anděl odpověděl a řekl jí: 
+R. Duch svatý na tebe sestoupí a moc Nejvyššího tě zastíní: a to Svaté, co se z tebe narodí, se bude nazývat Syn Boží. (Alleluja.)
+
+[Versum 1]
+V. Anděl Páně zvěstoval Marii. (Alleluja.)
+R. A ona počala z Ducha Svatého. (Alleluja.)
+
+[Ant 1]
+Hle, počneš ve svém lůně, a porodíš Syna, a dáš mu jméno Ježíš: on bude veliký, a bude se nazývat Syn Nejvyššího. (Alleluja.)
+
+[Ant Laudes] (tempore paschali)
+Alleluja, * alleluja, alleluja.
+
+[Ant 2]
+Vzdejde hůl * z kořene Jesse, a celá země bude naplněna slávou Páně, a každé tělo uzří spásu Boží. (Alleluja, alleluja.) 
+
+[Responsory Tertia]
+V. Zdrávas Maria, milostiplná. (Alleluja.) 
+R. Pán s tebou. (Alleluja.) 
+
+[Responsory Sexta]
+V. Požehnaná jsi mezi ženami. (Alleluja.) 
+R. A požehnaný plod života tvého. (Alleluja.) 
+
+[Responsory Nona]
+V. Vyvolil si ji Hospodin. (Alleluja.) 
+R. Za své dědictví. (Alleluja.) 
+
+[Ant 3]
+Duch svatý * v tebe sestoupí‚ Maria, neboj se, budeš mít v lůně Syna Božího. (Alleluja.)
+
 [Ant Matutinum]
 @CommuneM/C11::s/After thy.*/The Angel of the Lord announced unto Mary, and she conceived of the Holy Spirit.;;97/
 

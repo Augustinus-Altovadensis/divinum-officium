@@ -63,13 +63,13 @@
 03-25=03-25=In Annuntiatione Beatae Mariae Virginis=6=
 *April*
 04-01=04-01=S. Hugoni, Abbatis=1=
-04-04=04-04=S. Isidori Episc Confessoris et Ecclesiae Doctoris=3=
-04-05=04-05=S. Julianæ Virginis=4=
-04-11=04-11=S. Leonis I Papae Confessoris et Ecclesiae Doctoris=3=
-04-13=04-13=S. Justini Martyris=1=
-04-14=04-14=Ss. Tiburtii, Valeriani et Maximi=1=
+04-04=04-04=S. Ambrosii, Episc., Confessoris et Ecclesiae Doctoris=4=
+04-05=04-05=S. Julianæ Virginis=3=
+04-06=04-06=S. Isidori, Episc., Confessoris et Ecclesiae Doctoris=2=
+04-11=04-11=S. Leonis I Papae Confessoris et Ecclesiae Doctoris=2=
+04-14=04-14=Ss. Tiburtii, Valeriani et Maximi=2=
 04-17=04-17=S. Aniceti Papae et Martyris=1=
-04-21=04-21=S. Anselmi Episcopi Confessoris et Ecclesiae Doctoris=3=
+04-21=04-21=S. Anselmi Episcopi Confessoris et Ecclesiae Doctoris=2=
 04-23=04-23=S. Georgii Martyris=1=
 04-25=04-25=S. Marci Evangelistae=5=
 04-26=04-26=S. Cleti et Marcellini Pontif Martyrum=2=

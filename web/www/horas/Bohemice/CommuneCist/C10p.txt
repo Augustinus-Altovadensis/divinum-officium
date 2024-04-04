@@ -1,0 +1,10 @@
+[Name]
+Officium Beatæ Mariæ Virginis in Sabbato Tempore Paschali. Versio Cisterciensis Bohemica.
+
+[Capitulum Vespera]
+@Commune/C10:Capitulum Vespera
+_
+R.br. Zdrávas Maria, milostiplná: Pán s tebou, * Alleluja, alleluja.
+R. Zdrávas Maria, milostiplná: Pán s tebou, * Alleluja, alleluja.
+V. Požehnaná ty mezi ženami.
+R. Alleluja, alleluja.
