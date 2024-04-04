@@ -10,7 +10,7 @@ Allelúia, * allelúia, allelúia.
 [Capitulum Vespera]
 @Sancti/03-25:Capitulum Laudes:1-3
 _
-Responsorium. Áve María, grátia plena, Dóminus tecum: * Spíritus sanctus supervéniet in ten, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur Sanctum, vocábitur Fílius Dei. (Allelúia.)
+Responsorium. Ave María, grátia plena, Dóminus tecum: * Spíritus sanctus supervéniet in ten, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur Sanctum, vocábitur Fílius Dei. (Allelúia.)
 V. Quómodo fiet istud, quóniam virum non cognósco? Et respóndens Angelus, dixit ei: 
 R.  Spíritus sanctus supervéniet in ten, et virtus Altíssimi obumbrábit tibi: quod enim ex te nascétur Sanctum, vocábitur Fílius Dei. (Allelúia.)
 
@@ -19,7 +19,7 @@ V. Angelus Dómini nuntiávit Maríæ. (Allelúia.)
 R. Et concépit de Spíritu Sancto. (Allelúia.)
 
 [Ant 1]
-Ecce concípies in útero, et páries Fílium, et vocábis nomen ejus Jesum: hic erit magnus, et Fílius Altíssimi vocábitur. (Allelúia.)
+Ecce concípies * in útero, et páries Fílium, et vocábis nomen ejus Jesum: hic erit magnus, et Fílius Altíssimi vocábitur. (Allelúia.)
 
 [Oratio]
 @Sancti/03-25::s/Genetr/Genitr/
