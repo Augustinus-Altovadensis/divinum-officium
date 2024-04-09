@@ -7,14 +7,17 @@ Una Antiphona
 
 [Capitulum Vespera]
 !1 Pet 2:21-22
-v. My beloved: Christ also suffered for us, leaving you an example that you should follow his steps. Who did no sin, neither was guile found in his mouth.
+v. Milovaní, Kristus trpěl za nás, a zanechal vám tak příklad, abyste šli v jeho šlépějích. On nezhřešil a nikdo od něho neslyšel nic neupřímného.
 $Deo gratias
 
 [Ant 1]
-I am the Shepherd of the Sheep: * I am the Way, the Truth, and the Life: I am the Good Shepherd, and know My Sheep, and am known of Mine. Alleluia, Alleluia.
+Já jsem * pastýř ovcí; já jsem cesta a pravda; já jsem dobrý pastýř, a znám své ovce, a mé ovce znají mne, alleluja, alleluja.
+
+[Ant 1] (rubrica cisterciensis)
+Toto totiž bylo napsáno, * abyste uvěřili, že Ježíš je Kristus<i>, Boží Pomazaný</i>, Syn Boží, a abyste věříce měli život v jeho jménu, alleluja.
 
 [Oratio]
-O God, Whose Son hath humbled Himself, and Who hast through Him raised up the whole world, grant to thy faithful people everlasting joy; and as Thou hast delivered them from the bitter pains of eternal death, make them to be glad for ever in thy presence.
+Bože, jenž jsi v pokoře svého Syna pozvedl ležící svět; svým věřícím uděl radost, abys těm, které jsi vytrhl z pádů věčné smrti, dal radovati se v radostech věčných.
 $Per eumdem
 
 [Lectio1]
@@ -78,13 +81,16 @@ And some there be which love the things of this world better than they love the 
 
 [Capitulum Sexta]
 !1 Pet 2:23-24
-v. He delivered himself to him that judged him unjustly. Who his own self bore our sins in his body upon the tree: that we, being dead to sins, should live to justice: by whose stripes you were healed.
+v. Vydal se totiž tomu, který jej soudil nespravedlivě. On sám na svém těle vynesl naše hříchy na dřevo (kříže), abychom byli mrtví hříchům a žili spravedlivě. Jeho ranami jste uzdraveni.
 $Deo gratias
 
 [Capitulum Nona]
 !1 Pet 2:25
-v. For you were as sheep going astray; but you are now converted to the shepherd and bishop of your souls.
+v. Byli jste kdysi jako bludné ovce, ale nyní jste se vrátili k pastýři a střážci svých duší.
 $Deo gratias
 
 [Ant 3]
-I am the Good Shepherd, * Who feed My sheep: and I lay down My life for My sheep. Alleluia.
+Já jsem * dobrý pastýř, já pasu své ovce, a pro své ovce dávám svůj život, alleluja.
+
+[Ant 3] (rubrica cisterciensis)
+Já jsem * pastýř ovcí; já jsem cesta a pravda; já jsem dobrý pastýř, a znám své ovce, a mé ovce znají mne, alleluja, alleluja.

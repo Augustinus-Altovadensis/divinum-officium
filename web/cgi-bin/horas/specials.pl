@@ -906,11 +906,18 @@ sub psalmi_minor {
   }
 
   #quicumque
-  if ( ($version !~ /1955|196/ || $dayname[0] =~ /Pent01/i)
+  if ( ($version !~ /1955|196|Cistercien/ || $dayname[0] =~ /Pent01/i)
     && $hora =~ /prima/i
     && ($dayname[0] =~ /(Epi|Pent)/i || $version !~ /Divino/i)
     && $dayofweek == 0
-    && ($dayname[0] =~ /(Adv|Pent01)/i || checksuffragium()))
+    && ($dayname[0] =~ /(Adv|Pent01)/i || checksuffragium() ))
+  {
+    push(@s, "\&psalm(234)");
+    push(@s, "\n");
+    setbuild2('Quicumque');
+  }
+  if ( $version =~ /Cistercien/ && $hora =~ /prima/i && $dayofweek == 0
+    && $dayname[0] !~ /(Nat|Epi1|Pasc0|Pasc6|Pasc7|Pent02|12-23|05-01)/i )
   {
     push(@s, "\&psalm(234)");
     push(@s, "\n");

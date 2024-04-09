@@ -9,7 +9,7 @@ _
 @Psalterium/Major Special:PaschC Vespera:3-6
 
 [Capitulum Laudes]
-@Tempora/Pasc1-0:Capitulum Vespera
+@Tempora/Pasc1-0:Capitulum Vespera:s/Carís/Charís/s
 _
 @Psalterium/Major Special:PaschC Laudes:3-6
 

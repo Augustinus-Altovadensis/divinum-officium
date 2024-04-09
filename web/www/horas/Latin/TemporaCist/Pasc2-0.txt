@@ -4,9 +4,9 @@
 12 lectiones
 
 [Capitulum Vespera]
-@Tempora/Pasc2-0
+@Tempora/Pasc2-0::s/Carí/Charí/
 _
-@Psalterium/Major Special:PaschM Vespera:3-8
+@Psalterium/Major Special:PaschC Vespera:3-8
 
 [Lectio1]
 @Tempora/Pasc1-1
@@ -74,6 +74,6 @@ _
 @Tempora/Pasc0-0:Responsory2
 
 [Capitulum Laudes]
-@Tempora/Pasc2-0
+@Tempora/Pasc2-0:Capitulum Vespera:s/Carí/Charí/
 _
-@Psalterium/Major Special:PaschM Laudes:3-8
+@Psalterium/Major Special:PaschC Laudes:3-8

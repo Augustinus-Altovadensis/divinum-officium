@@ -13,6 +13,9 @@ $Deo gratias
 [Ant 1]
 Ego sum pastor óvium: * ego sum via, véritas, et vita: ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, allelúja, allelúja.
 
+[Ant 1] (rubrica cisterciensis)
+Hæc autem scripta sunt, * ut credátis quia Jesus est Christus Fílius Dei, et ut credéntes vitam habeátis in nómine ipsíus, allelúia.
+
 [Oratio]
 Deus, qui in Fílii tui humilitáte jacéntem mundum erexísti: fidélibus tuis perpétuam concéde lætítiam; ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis.
 $Per eumdem
@@ -105,6 +108,9 @@ Et sunt nonnúlli, qui dum plus terrénam substántiam quam oves díligunt, mér
 [Ant 2]
 @:Ant 1
 
+[Ant 2] (rubrica cisterciensis)
+@:Ant 3
+
 [Capitulum Tertia]
 @:Capitulum Vespera
 
@@ -120,3 +126,6 @@ $Deo gratias
 
 [Ant 3]
 Ego sum pastor bonus, * qui pasco oves meas, et pro óvibus meis pono ánimam meam, allelúja.
+
+[Ant 3] (rubrica cisterciensis)
+Ego sum * pastor óvium: ego sum via, véritas, et vita: ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, allelúja, allelúja.

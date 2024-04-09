@@ -702,6 +702,11 @@ sub horas_menu {
       $output .= '&nbsp;&nbsp;';
     }
   }
+  # For Cistercian version (not to complicate other versions) added the option to click on next day's Lauds
+  if ( $version =~ /Cistercien/i ) {
+    $output .= qq(\n<A HREF=# onclick="prevnext(1);hset('Laudes')"><FONT COLOR=$colour>Laudes crastinæ</FONT></A>\n) if ($0 !~ /Cofficium/); 
+      $output .= '&nbsp;&nbsp;'; }
+
   my $a = ($0 =~ /Pofficium/) ?
              qq(HREF="Pofficium.pl?date1=$date1&command=Appendix Index)
            . qq(&version=$version&testmode=$testmode&lang2=$lang2&votive=$votive") :
