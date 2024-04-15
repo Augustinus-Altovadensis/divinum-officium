@@ -51,3 +51,6 @@ Cognovérunt * Dóminum Jesum, allelúja, in fractióne panis, allelúja.
 
 [Ant 3] (rubrica 1960)
 Amen dico vobis, * quia plorábitis et flébitis vos: mundus autem gaudébit, vos vero contristabímini, sed tristítia vestra convertétur in gáudium, allelúja.
+
+[Ant 2] (rubrica cisterciensis)
+@Tempora/Pasc1-5

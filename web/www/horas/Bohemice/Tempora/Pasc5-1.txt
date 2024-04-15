@@ -30,3 +30,9 @@ $Per Dominum.
 
 [Ant 3]
 The Father Himself loveth you, * because ye have loved Me, and have believed in Me. Alleluia.
+
+[Ant 2] (rubrica cisterciensis)
+@Tempora/Pasc1-1
+
+[Ant 3] (rubrica cisterciensis)
+@Tempora/Pasc1-1

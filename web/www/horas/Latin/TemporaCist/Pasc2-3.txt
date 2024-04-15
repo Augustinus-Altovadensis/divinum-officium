@@ -1,1 +1,37 @@
-@Tempora/Pasc2-3Feria
+@Tempora/Pasc2-3
+[Rank]
+Solemnitas S. Joseph Sponsi B.M.V. Eccl. Univ. Patroni Confessoris;;Serm. maj.;;6.5;;
+
+[Rule]
+ex SanctiCist/03-19
+Psalmi Dominica
+
+[Ant Vespera]
+Allelúia, * allelúia, allelúia.
+
+[Capitulum Vespera]
+@Tempora/Pasc2-3
+_
+@SanctiCist/03-19::3-5
+
+[HymnusC Vespera]
+@SanctiCist/03-19
+
+[Ant Laudes]
+Allelúia, * allelúia, allelúia.
+
+[Capitulum Laudes]
+@Tempora/Pasc2-3
+_
+@SanctiCist/03-19::3-5
+
+[HymnusC Laudes]
+@SanctiCist/03-19
+
+[Capitulum Vespera 3]
+@Tempora/Pasc2-3:Capitulum Vespera
+_
+@Tempora/Pasc2-3:Responsory Sexta
+
+[Versum 3]
+@:Versum 1

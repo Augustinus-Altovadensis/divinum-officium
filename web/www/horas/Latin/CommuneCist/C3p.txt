@@ -16,6 +16,22 @@ Antiphonas horas
 [Hymnus Vespera]
 @Commune/C3:Hymnus Laudes:s/Inténde/Appóne/ s/inter Mártyres/in Martýribus,/ s/Parcísque/Parcéndo/ s/Largítor indulgéntiæ/Donándo indulgéntiam/ s/Nunc, et per omne sǽculum/Et nunc et in perpétuum/
 
+[Versum 1]
+V. Justi in perpétuum vivent, allelúia.
+R. Et apud Dóminum est merces eórum, allelúia.
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Ant 1]
+@Commune/C1p:Ant 2
+
+[Ant 2]
+@Commune/C1p:Ant 1
+
 [Invit]
 @Commune/C2p
 
@@ -193,6 +209,15 @@ R. Illi autem sunt in pace
 
 [HymnusM Laudes]
 @:Hymnus Vespera
+
+[Oratio]
+@Commune/C3
+
+[Oratio1]
+@Commune/C3
+
+[Oratio2]
+@Commune/C3
 
 [Responsory Tertia]
 @Commune/C1p:Versum 1

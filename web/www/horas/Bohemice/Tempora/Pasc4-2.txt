@@ -41,3 +41,9 @@ Peace be unto you, * it is I, alleluia; fear not, alleluia.
 
 [Ant 3]
 When the Comforter, the Spirit of truth, is come, * He will reprove the world of sin, and of righteousness, and of judgment. Alleluia. 
+
+[Ant 2] (rubrica cisterciensis)
+@Tempora/Pasc1-2
+
+[Ant 3] (rubrica cisterciensis)
+@Tempora/Pasc1-2

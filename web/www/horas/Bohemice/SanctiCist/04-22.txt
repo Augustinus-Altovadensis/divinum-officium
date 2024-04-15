@@ -1,0 +1,6 @@
+[Rank]
+Sv. Sotéra a Caji, Biskupů a Mučedníků;;Commemoratio;;1.0;;vide C3
+
+[Oratio]
+Slavnost svatých Mučedníků a spolu Biskupů Sotéra a Caja, prosíme, Pane, nechť nás ochrání a ctihodná modlitba jejich odporučí. 
+$Per Dominum

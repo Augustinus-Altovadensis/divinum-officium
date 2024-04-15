@@ -54,3 +54,9 @@ Christ ought to have suffered, * and to have risen again from the dead. Alleluia
 [Ant 3]
 I came forth from the Father, * and am come into the world; again I leave the~
 world, and go to the Father. Alleluia.
+
+[Ant 2] (rubrica cisterciensis)
+@Tempora/Pasc1-2
+
+[Ant 3] (rubrica cisterciensis)
+@Tempora/Pasc1-2

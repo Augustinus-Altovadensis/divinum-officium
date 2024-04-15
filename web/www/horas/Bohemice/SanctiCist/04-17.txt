@@ -1,0 +1,9 @@
+[Rank]
+Sv. Anicéta, Papeže a Mučedníka;;Commemoratio;;1.1;;vide C2
+
+[Rule]
+vide C2;
+
+[Oratio]
+@Commune/C2:Oratio1:s/N./Anicéta/
+
