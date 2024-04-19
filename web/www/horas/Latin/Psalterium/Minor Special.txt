@@ -640,4 +640,5 @@ R. Qui pro nobis pepéndit in ligno, allelúja.
 @:Pasch Nona
 
 [Responsory Pasch NonaC]
-@:Responsory Pasch Sexta:s/.*_.//s
+V. Cognovérunt Dóminum, allelúia.
+R. In fractióne panis, allelúia.

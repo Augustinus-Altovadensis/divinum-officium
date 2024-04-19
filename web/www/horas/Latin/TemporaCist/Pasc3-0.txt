@@ -3,10 +3,23 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+Alias oves hábeo, * quæ non sunt ex hoc ovíli: et illas opórtet me addúcere, et vocem meam áudient, et fiet unum ovíle, et unus pastor, allelúia.
+
 [Capitulum Vespera]
-@Tempora/Pasc3-0
+@Tempora/Pasc3-0::s/Carís/Charís/
 _
-@Psalterium/Major Special:PaschM Vespera:3-8
+@Psalterium/Major Special:PaschC Vespera:3-8
+
+[Capitulum Laudes]
+@Tempora/Pasc3-0:Capitulum Vespera:s/Carís/Charís/
+_
+@Psalterium/Major Special:PaschC Laudes:3-8
+
+[Versum 2]
+@Psalterium/Major Special:Pasch VersumC 2
+
+[Commemoratio]
 
 [Lectio3]
 @Tempora/Pasc3-0:Lectio3:1-5 s/-19/-15/
@@ -70,7 +83,4 @@ _
 [Responsory12]
 @Tempora/Pasc3-2:Responsory1
 
-[Capitulum Laudes]
-@Tempora/Pasc3-0
-_
-@Psalterium/Major Special:PaschM Laudes:3-8
+

@@ -466,3 +466,7 @@ R. A nepravost obelhala sama sebe.
 [Responsory Pasch TertiaC]
 V. Pán vstal z hrobu, alleluia.
 R. Který pro nás visel na dřevě, alleluia.
+
+[Responsory Pasch NonaC]
+V. Poznali Pána, alleluja.
+R. Při lámání chleba, alleluja.

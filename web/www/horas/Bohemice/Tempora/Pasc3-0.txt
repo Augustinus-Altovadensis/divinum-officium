@@ -8,14 +8,14 @@ Una Antiphona
 
 [Capitulum Vespera]
 !1 Pet 2:11
-v. Dearly beloved, I beseech you as strangers and pilgrims, to refrain yourselves from carnal desires which war against the soul.
+v. Milovaní, jako cizince a přistěhovalce vás napomínám: zdržujte se tělesných žádostí, protože ony bojují proti duši.
 $Deo gratias
 
 [Ant 1]
-A little while * and you shall not see me; and again a little while, and you shall see me, saith the Lord, because I go to the Father, alleluia, alleluia.
+Už jen krátký čas, * a neuvidíte mě, praví Pán; a opět krátký čas, a uvidíte mě, neboť odcházím k Otci, alleluja, alleluja.
 
 [Oratio]
-Almighty God, Who showest to them that be in error the light of thy truth, to the intent that they may return into the way of righteousness grant unto all them that are admitted into the fellowship of Christ's Religion, that they may eschew those things that are contrary to their profession, and follow all such things as are agreeable to the same.
+Bože, jenž bloudícím ukazuješ světlo své pravdy, aby se mohli vrátit na cestu spravedlnosti; dej všem, kteří se považují za Kristovy následovníky, aby zavrhli to, co je tomuto jménu nepřátelské, a následovali to, co je vhodné.
 $Per Dominum
 
 [Lectio1]
@@ -134,16 +134,16 @@ This little while seemeth a very long while to us now, while as it is still goin
 
 [Capitulum Sexta]
 !1 Pet 2:13-14
-v. Be ye subject therefore to every human creature for God's sake: whether it be to the king as excelling; Or to governors as sent by him for the punishment of evildoers, and for the praise of the good.
+v. Kvůli Pánu se podřizujte každému lidskému zřízení: ať už je to král jako svrchovaný vládce, nebo místodržitelé, kteří jsou od něho posíláni trestat zločince a vyznamenávat ty, kdo jednají správně.
 $Deo gratias
 
 [Capitulum Nona]
 !1 Pet 2:18-19
-v. Servants, be subject to your masters with all fear, not only to the good and gentle, but also to the froward. For this is thankworthy, if for conscience towards God, a man endure sorrows, suffering wrongfully.
+v. Vy, kdo sloužíte, poslouchejte s všemožnou (povinnou) úctou své pány, a to nejen dobré a mírné, ale i tvrdé. Neboť to je zásluha, jestliže někdo snáší špatné zacházení a trpí nezaslouženě s vědomím, že to od něho Bůh žádá.
 $Deo gratias
 
 [Ant 3]
-Amen, amen I say to you * that you shall lament and weep, but the world shall rejoice; and you shall be made sorrowful, but your sorrow shall be turned into joy.
+Amen, amen pravím vám, * že vy budete plakat a naříkat, zatímco svět se bude radovat, vy sice budete smutní, ale váš smutek se obrátí v jásot, alleluja.
 
 [Commemoratio]
 !Commemoratio for the Octave of St. Joseph
