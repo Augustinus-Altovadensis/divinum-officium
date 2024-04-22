@@ -2196,6 +2196,7 @@ sub checksuffragium {
   if ( $version =~ /Cistercien/i ) {
     if ($winner =~ /C1[0-2]/ || $dayname[1] =~ /Dominica/i )  { return 0; }
     if ( $winner{Rank} !~ /octav/i && $rank <= 3.5 ) { return 1; } 
+    if ( $winner{Rank} =~ /post octavam/i && $rank <= 3.5 ) { return 1; } 
     else {return 0;} }
   if (!$dayname[0] || $dayname[0] =~ /Adv|Nat|Quad5|Quad6/i) { return 0; }    #christmas, adv, passiontime omit
   if ($dayname[0] =~ /Pasc[07]/i) { return 0; }

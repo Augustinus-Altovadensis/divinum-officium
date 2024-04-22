@@ -288,7 +288,7 @@ $Deo gratias
 v. Orémus.
 
 [Oremus] (rubrica cisterciensis)
-<center><span style="color:red; font-size:1.25em">O</span>rémus.</center>
+<center><font color="red">O</font>rémus.</center>
 
 [Te decet]
 v. Te decet laus, + te decet hymnus: tibi glória Deo Patri, et Fílio, cum Spíritu Sancto in sǽcula sæculórum. Amen.

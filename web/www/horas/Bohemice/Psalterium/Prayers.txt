@@ -283,7 +283,7 @@ $Deo gratias.
 v. Modleme se.
 
 [Oremus] (rubrica cisterciensis)
-<center><span style="color:red; font-size:1.25em">M</span>odleme se.</center><span style="font-size:0em"> </span>
+<center><font color="red">M</font>odleme se.</center>
 
 [Te decet]
 v. Tobě patří chvála, tobě patří chvalozpěv, tobě patří sláva Boha Otce, a Syna, s Duchem Svatým na věky věkův. Amen.
