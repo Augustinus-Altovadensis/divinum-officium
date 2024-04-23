@@ -1,4 +1,4 @@
-@Commune/C1p
+@CommuneCist/C3
 
 [Name]
 Commune Plurimorum Martyrum Tempore Paschali
@@ -8,7 +8,7 @@ Psalmi Dominica
 Antiphonas horas
 
 [Ant Vespera]
-@Commune/C1p::s/112/115/
+@Commune/C1p
 
 [Capitulum Vespera]
 @CommuneM/C1p
@@ -19,6 +19,9 @@ Antiphonas horas
 [Versum 1]
 V. Justi in perpétuum vivent, allelúia.
 R. Et apud Dóminum est merces eórum, allelúia.
+
+[Versum 1 alt]
+@CommuneCist/C3::s/.\n/, allelúia.\n/g
 
 [Versum 2]
 @:Versum 1
@@ -229,7 +232,7 @@ R. Illi autem sunt in pace
 @Commune/C1p:Responsory Sexta:8-9
 
 [Ant Vespera 3]
-@Commune/C1p::s/112/111/ s/115/112/ s/125/115/
+@Commune/C1p::s/112/110/ s/115/111/ s/125/112/
 
 [Versum 3]
 @:Versum 2

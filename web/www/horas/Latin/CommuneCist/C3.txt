@@ -27,6 +27,10 @@ R. Benedícent te.
 V. Justi in perpétuum vivent.
 R. Et apud Dóminum est merces eórum.
 
+[Versum 1 alt]
+V. Exúltent justi in conspéctu Dei.
+R. Et delecténtur in lætítia.
+
 [Versum 2]
 @:Versum 1
 

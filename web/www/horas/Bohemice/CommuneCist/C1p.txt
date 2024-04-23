@@ -1,8 +1,35 @@
 [Name]
 Commune Apostolorum T.P., Versio Cisterciensis et Bohemica
 
+[Ant Vespera]
+Alleluja, * alleluja, alleluja.
+
+[Capitulum Vespera]
+@Commune/C1p
+_
+R.br. Do celé země vyšel zvuk jejich učení. * Alleluja, alleluja. 
+R. Do celé země vyšel zvuk jejich učení. * Alleluja, alleluja. 
+V. A do všech končin okrsku zemského jejich slova.
+R. Alleluja, alleluja.
+
+[Versum 1]
+V. Nesmírně poctěni jsou tví přátelé, Bože, alleluja.
+R. Nesmírně pevné je jejich vládnutí, alleluja.
+
+[Ant Laudes]
+Alleluja, * alleluja, alleluja.
+
 [Responsory4]
 R. And they indeed went from the presence of the council,
 * Rejoicing that they were accounted worthy to suffer reproach for the name of Jesus, alleluia, alleluia, alleluia.
 V. There are no speeches nor languages, where their voices are not heard.
 R. Rejoicing that they were accounted worthy to suffer reproach for the name of Jesus, alleluia, alleluia, alleluia.
+
+[Ant Vespera 3]
+Alleluja, * alleluja, alleluja;;109
+;;112
+;;115
+;;125
+
+[Ant 3]
+V nebeském království * je příbytek Svatých, alleluja, a jejich spočinutí navěky, alleluja.

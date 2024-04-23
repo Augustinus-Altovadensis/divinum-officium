@@ -1,4 +1,4 @@
-@Commune/C1p
+@CommuneCist/C3
 
 [Name]
 Commune Martyrum Tempore Paschali, Versio Cisterciensis et Bohemica
@@ -6,6 +6,9 @@ Commune Martyrum Tempore Paschali, Versio Cisterciensis et Bohemica
 [Versum 1]
 V. Spravedliví budou žít navěky, alleluja.
 R. A u Hospodina bude jejich odplata, alleluja.
+
+[Versum 1 alt]
+@CommuneCist/C3::s/.\n/, alleluja.\n/g
 
 [Ant Matutinum]
 Then shall the just stand * with great constancy against those that have afflicted them, alleluia;;1

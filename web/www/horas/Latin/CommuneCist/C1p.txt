@@ -89,13 +89,16 @@ R. Allelúia, allelúia.
 @Commune/C1p:Responsory Sexta:8-9
 
 [Ant Vespera 3]
-Allelúja, * allelúja, allelúja;;109
+Allelúia, * allelúia, allelúia;;109
 ;;112
 ;;115
 ;;125
 
 [Versum 3]
 @:Versum 1
+
+[Ant 3]
+In coeléstibus regnis * Sanctórum habitátio est, allelúia, et in aetérnum réquies eórum, allelúia.
 
 [LectioE]
 @CommuneM/C1

@@ -1,4 +1,14 @@
-@Sancti/04-26
-
 [Rank]
-SS. Cleti et Marcellini Summorum Pontificum et Martyrum;;Simplex;;1.1;;vide C3
+S. Franchæ, Virginis;;iij. Lect. et M.;;2;;vide C6
+
+[Oratio]
+Exáudi nos, Deus salutáris noster: * ut, sicut de beátæ Franchæ, Virginis tuæ, festivitáte gaudémus: § ita piæ devotiónis erudiámus afféctu.
+$Per Dominum
+
+[Commemoratio]
+[Commemoratio]
+!Commemoratio SS. Cleti et Marcellini Summorum Pontificum et Martyrum
+@CommuneCist/C3:Oratio proper 
+$Oremus
+v. Beatórum Mártyrum, paritérque Pontíficum Cleti et Marcellíni nos Dómine fóveat pretiósa conféssio: et pia júgiter intercéssio tueátur.
+$Per Dominum

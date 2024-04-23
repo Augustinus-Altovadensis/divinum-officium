@@ -5,7 +5,7 @@ S. Marci Evangelistæ;;Duplex II classis;;5;;ex C1p
 12 lectiones
 
 [Ant Vespera]
-@Commune/C1p
+@CommuneCist/C1p
 
 [Oratio]
 @Sancti/04-25
@@ -45,7 +45,7 @@ S. Marci Evangelistæ;;Duplex II classis;;5;;ex C1p
 @Commune/C1a:Lectio9
 
 [Ant Laudes]
-@Commune/C1p
+@CommuneCist/C1p
 
 [Ant Vespera 3]
-@Commune/C1p::s/125/138/
+@CommuneCist/C1p

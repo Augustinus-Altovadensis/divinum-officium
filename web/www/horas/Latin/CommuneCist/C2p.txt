@@ -1,4 +1,4 @@
-@Commune/C1p
+@Commune/C2
 
 [Name]
 Commune unius Martyris Tempore Paschali
@@ -8,13 +8,16 @@ Psalmi Dominica
 Antiphonas horas
 
 [Ant Vespera]
-@Commune/C1p::s/112/115/
+@CommuneCist/C1p
 
 [Capitulum Vespera]
 @CommuneM/C1p
 
 [Hymnus Vespera]
 @CommuneM/C2
+
+[HymnusC Vespera]
+@Commune/C2:Hymnus Vespera
 
 [Invit]
 @Commune/C2p
@@ -89,7 +92,7 @@ R. Gáudium et exsultatiónem obtinébunt, allelúja.
 @CommuneM/C1p
 
 [HymnusM Laudes]
-@CommuneM/C2:Hymnus Laudes
+@CommuneCist/C2:HymnusM Laudes
 
 [Responsory Tertia]
 @Commune/C1p:Versum 1
@@ -117,7 +120,7 @@ R. Et apud Dóminum est merces eórum, allelúia.
 @:Versum 1
 
 [Ant Vespera 3]
-@Commune/C1p::s/112/111/ s/115/112/ s/125/115/
+@Commune/C1p::s/112/110/ s/115/111/ s/125/112/
 
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Joánnem

@@ -15,40 +15,43 @@ The just shine * like the sun at the face of God, alleluia.;;116
 
 [Capitulum Vespera]
 !Wis 5:1
-v. Then shall the just stand with great constancy against those that have afflicted them, and taken away their labours.
+v. Tehdy spravedlivý stane ve velké důvěře před těmi, kteří ho sužovali, jeho trápením jen pohrdali.
 $Deo gratias
 
 [Hymnus Vespera]
-v. While Christ's disciples, grieving, sad,
-Their master's painful death deplore,
-Whom faithless servants' cruel hands,
-Had bathed in his own crimson gore;
+v. Smutní byli Apoštolé
+Ze zabití svého Pána,
+Jemuž smrt tak přeukrutnou
+Připravili zlí sluhové.
 _
-Quick from the happy realms above,
-An angel comes on joyful wing,
-And to the women tells the joy
-That to his flock their Lord will bring.
+Utěšenou řečí však Anděl,
+Předpověděl dobrým ženám, 
+Že v Galileji Kristus Pán:
+Je co nejdřív uvidí rád.
 _
-As they with eager steps make haste,
-Their joyous message to repeat,
-Their master's glorious form they see,
-And falling clasp his sacred feet.
+Ony když to vzrušené,
+Apoštolům hned vyšly říct,
+Uzřely jej náhle živého,
+I v Kristových stopách se vydaly.
 _
-Cheered by this tale, his faithful flock
-The Galilean mount ascend,
-And there with loving awe behold
-Their heart's sole wish, their truest friend.
+Když to zvěděli učedníci, 
+Do Galileje se hned spěšně
+Vydali, by hned uzřeli 
+Tvář Páně tak vytouženou.
 _
-That thou mayst be our Paschal joy
-Through happy, never-ending years,
-thine own poor children, Jesu, free
-From sin's sad death with all its fears.
+Prosíme, Tvůrce všemíra,
+V té velikonoční radosti,
+Od věčné smrti zásahu
+Svůj lid rač osvoboditi.
 _
-* To God the Father, and the Son,
-Who rose from death, glad praise repeat;
-Let equal praise be ever sung
-To God the Holy Paraclete.
+Bohu Otci nechť sláva zní,
+Též Synu jeho, jenž z mrtvých
+dnes vstal, i Duchu svatému,
+s nímž vládneš vždy věku všemu.
 Amen. 
+
+[HymnusM Vespera]
+@:Hymnus Vespera
 
 [Versum 1]
 V. Saints and just, rejoice in the Lord, alleluia.
@@ -168,30 +171,30 @@ Henceforth to all eternity.
 Amen. 
 
 [HymnusM Laudes]
-v. In this our bright and Paschal day
-The sun shines out  with purer ray,
-When Christ, to earthly sight made plain,
-The glad Apostles see again.
+v. V slavné radosti Vzkříšení
+Dnes Slunce světu zazáří,
+Když Krista již Apoštolé
+Tělesným zrakem uzřeli.
 _
-The wounds, the riven wounds He shows
-In that His flesh with light that glows,
-In loud accord both far and nigh
-The Lord's arising testify.
+Ukázal jim své zranění,
+Z Kristova těla zářící, 
+Že z mrtvých vstal slavně jejich Pán
+Zvučným hlasem všem zvěstují.
 _
-O Christ, the King Who lovest to bless,
-Do Thou our hearts and souls possess;
-To Thee our praise that we may pay,
-To Whom our praise is due for aye.
+Kriste Králi přelaskavý,
+Ty naše srdce převezmi,
+Abychom ti chvály vhodné,
+Vzdávali po všechny časy.
 _
-We pray Thee, King with glory decked,
-In this our Paschal joy, protect
-From all that death would fain effect
-Thy ransomed flock, Thine own elect.
+Prosíme, Tvůrce vesmírný,
+V té velkonoční radosti,
+Od věčné smrti zásahu
+Svůj lid rač osvoboditi.
 _
-To Thee Who, dead, again dost live,
-All glory, Lord, Thy people give;
-All glory, as is ever meet,
-To Father and to Paraclete.
+Buď sláva tobě,Pane náš,
+který slavně z mrtvých vstáváš,
+S Otcem i svatým Duchem
+Na tento věk i věkům všem.
 Amen.
 
 [Versum 2]
@@ -199,11 +202,11 @@ V. Precious in the sight of the Lord, alleluia.
 R. Is the death of his saints, alleluia.
 
 [Ant 2]
-Dcera Jerusalémské, * pojďte a pohleďte na korunované Mučedníky, Pán je korunoval ve své slávě a potěšení, alleluja, alleluja.
+Dcery Jerusalémské, * pojďte a pohleďte na korunované Mučedníky, které Pán korunoval ve den své slávy a radosti, alleluja, alleluja.
 
 [Lectio Prima]
 !Rom 8:28
-v. And we know that to them that love God, all things work together unto good, to such as, according to his purpose, are called to be saints.
+v. Víme, že těm, kteří milují Boha, všecko napomáhá k dobrému, těm, kdo jsou z Boží vůle povoláni být svatými.
 
 [Responsory Tertia]
 R.br. Saints and just, rejoice in the Lord. * Alleluia, alleluia.
@@ -218,7 +221,7 @@ R. And the eternity of the times, alleluia.
 
 [Capitulum Sexta]
 !Sap. 5.5
-v. Behold how they are numbered among the children of God, and their lot is among the saints.
+v. Pohleďte, jak byl připočítán k Božím synům, se svatými sdílí jejich osud!
 $Deo gratias
 
 [Responsory Sexta]

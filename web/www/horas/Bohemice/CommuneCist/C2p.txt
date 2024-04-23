@@ -1,6 +1,16 @@
-@Commune/C1p
+@CommuneCist/C2
 [Name]
 Commune Martyrum Tempore Paschali, Versio Cisterciensis et Bohemica
+
+[HymnusC Vespera]
+@Commune/C2:Hymnus Vespera
+
+[HymnusC Laudes]
+@Commune/C2:Hymnus Laudes
+
+[Versum 1]
+V. Spravedliví žijí navěky, alleluja.
+R. A u Pána je jejich odměna, alleluja.
 
 [Ant Matutinum]
 Then shall the just stand * with great constancy against those that have afflicted them, alleluia;;1
@@ -43,6 +53,4 @@ Continuation of the Holy Gospel according to John
 7 If you abide in me, and my words abide in you, you shall ask whatever you will, and it shall be done unto you. 
 $Te decet
 
-[Versum 1]
-V. Spravedliví žijí navěky, alleluja.
-R. A u Pána je jejich odměna, alleluja.
+

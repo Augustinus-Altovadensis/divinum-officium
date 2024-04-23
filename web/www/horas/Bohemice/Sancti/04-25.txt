@@ -13,9 +13,7 @@ Antiphonas horas
 Psalm5 Vespera=138
 
 [Oratio]
-O God, Who didst exalt thy blessed Evangelist Mark, by giving him grace to~
-preach thine Evangel, grant unto us, we beseech thee, ever to follow more and~
-more what he teacheth, and ever to be shielded from all evil by his prayers.
+Bože, jenž jsi svatého Marka, svého Evangelistu, pozvedl milostí hlásání tvého Evangelia; uděl, prosíme, abychom z jeho vzdělanosti vždy prospívali, a jeho modlitbou byli chráněni.
 $Per Dominum
 
 [Lectio4]
