@@ -1,5 +1,5 @@
 [Rank]
-Dominica IV Post Pascha;;Semiduplex;;5;;
+Neděle 4. po Velikonocích;;Semiduplex;;5;;
 
 [Rule]
 9 Lectiones
@@ -7,15 +7,15 @@ Una Antiphona
 StJamesRule=Jas
 
 [Capitulum Vespera]
-!Jas 1:17
-v. Beloved: Every best gift, and every perfect gift, is from above, coming down from the Father of lights, with whom there is no change, nor shadow of alteration.
+!Jac 1:17
+v. Milovaní, každý dobrý úděl, každý dokonalý dar přichází shora, sestupuje od Otce světel, u něhož není změna ani ztemnění, (jaké je působeno u hvězd) otáčením.
 $Deo gratias
 
 [Ant 1]
-I go My way to Him That sent Me, * and none of you asketh Me: Whither goest Thou? Alleluia, Alleluia.
+Odcházím k tomu, * který mě poslal; a nikdo z vás se mě neptá: Kam jdeš? Alleluja, Alleluja.
 
 [Oratio]
-O God, of Whom it cometh that the minds of thy faithful people be all of one will, grant unto the same thy people that they may love the thing which Thou commandest, and desire that which Thou dost promise, that so, amid the sundry and manifold changes of the world, our hearts may surely there be fixed, where true joys are to be found.
+Bože, jenž mysli svých věřících podmaňuješ jedné vůli; dej svým národům milovat to, co přikazuješ, a toužit po tom, co slibuješ; aby uprostřed nestálostí světa byla naše srdce upřena tam, kde jsou pravé radosti.
 $Per Dominum
 
 [Lectio1]
@@ -128,15 +128,14 @@ It would seem then that when He said: "These things I said not unto you at the b
 &teDeum
 
 [Capitulum Sexta]
-!Jas 1:19-20
-v. You know, my dearest brethren. And let every man be swift to hear, but slow~
-to speak, and slow to anger. For the anger of man worketh not the justice of God.
+!Jakub 1:19-20
+v. Pamatujte si toto, moji milovaní bratři: člověk má být čilý, když něčemu naslouchá, ale váhavý než začne mluvit nebo než se rozzlobí. Když se totiž člověk rozzlobí, nedělá, co je před Bohem spravedlivé.
 $Deo gratias
 
 [Capitulum Nona]
-!Jas 1:21
-v. Wherefore casting away all uncleanness, and abundance of naughtiness, with meekness receive the ingrafted word, which is able to save your souls.
+!Jakub 1:21
+v. Proto odložte všechno, co je špatné, všechno, v čem se zlo dere dopředu, a v tichosti buďte vnímaví pro slovo, které do vás bylo vloženo jako semeno a může zachránit vaši duši.
 $Deo gratias
 
 [Ant 3]
-I go My way to Him That sent Me, * but because I have said this to you, sadness has filled your hearts, alleluia.
+Odcházím k tomu, * který mě poslal; ale protože jsem vám to řekl, smutek naplnil vaše srdce, alleluja.

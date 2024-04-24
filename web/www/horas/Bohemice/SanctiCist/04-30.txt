@@ -1,0 +1,15 @@
+@Sancti/4-29
+[Rank]
+Sv. Petra, Mučedníka;;iij. Lect. et M.;;2;;vide C2
+
+[Oratio]
+Dej, prosíme, všemohoucí Bože; abychom víru svatého Petra, tvého Mučedníka, následovali s náležitou oddanosti; když on si rozšířením své víry zasloužil obdržet palmu mučednictví.
+$Per Dominum
+
+[Commemoratio]
+!S. Catharinæ Senensis, Virginis
+@CommuneCist/C6:Oratio proper 
+$Oremus
+v. Dej, prosíme, všemohoucí Bože; abychom, když slavíme narození pro nebe svaté Kateřiny, Panny, se radovali z její každoroční slavnosti, i prospívali z příkladu tak veliké ctnosti.
+$Per Dominum
+

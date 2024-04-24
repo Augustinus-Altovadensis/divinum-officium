@@ -6,10 +6,21 @@ Cognóvit eum Dóminus * in benedictiónibus suis, et invénit grátiam coram ó
 Justum dedúxit Dóminus * per vias rectas, et osténdit illi regnum Dei, et dedit illi sciéntiam Sanctórum: honestávit illum in labóribus, et complévit labóres illíus.
 Serve bone, * et fidélis, quia super pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.
 
+[Ant Vespera] (tempore paschali)
+Allelúia, * allelúia, allelúia.
+
 [Capitulum Vespera]
 @Commune/C5
 _
 @Commune/C5:Responsory Sexta:1-6
+
+[Capitulum Vespera] (tempore paschali)
+@Commune/C5
+_
+R.br. Os justi meditábitur sapiéntiam. * Allelúia, allelúia.
+R. Os justi meditábitur sapiéntiam. * Allelúia, allelúia.
+R. Et lingua ejus loquétur judícium.
+R. Allelúia, allelúia.
 
 [Hymnus Vespera Hac die]
 @Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
@@ -40,6 +51,14 @@ R.br. Justum dedúxit Dóminus * Per vias rectas.
 R. Justum dedúxit Dóminus * Per vias rectas.
 V. Et osténdit illi regnum Dei.
 R. Per vias rectas.
+
+[Capitulum Laudes] (tempore paschali)
+@Commune/C5
+_
+R.br. Justum dedúxit Dóminus per vias rectas. * Allelúia, allelúia.
+R. Justum dedúxit Dóminus per vias rectas. * Allelúia, allelúia.
+R. Et osténdit illi regnum Dei.
+R. Allelúia, allelúia.
 
 [Ant 2]
 Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.

@@ -7,6 +7,17 @@ Poznal jej Hospodin * ve svých požehnáních, a nalezl molist v očích Hospod
 Spravedlivého vedl Hospodin * po přímých cestách, a ukázal mu království Boží, a dal mu poznat to, co znají Svatí: poctil ho útrapami, a jeho dílo dokončil.
 Služebníku dobrý * a věrný, protože jsi byl věrný nad málem, ustanovím tě nad mnohými věcmi, vejdi to radosti svého Pána.
 
+[Ant Vespera] (tempore paschali)
+Alleluja, * alleluja, alleluja.
+
+[Capitulum Vespera] (tempore paschali)
+@Commune/C5
+_
+R.br. Ústa spravedlivého rozmlouvají o moudrosti. Alleluja, alleluja.
+R. Ústa spravedlivého rozmlouvají o moudrosti. Alleluja, alleluja.
+V. A jeho jazyk mluví věci spravedlivé.
+R. Alleluja, alleluja.
+
 [Hymnus Vespera Hac die]
 @Commune/C4:Hymnus Vespera:s/tento/onen/ s/vkročit/získat/ s/V blažený stánek/Chválu a pocty/
 
@@ -15,7 +26,6 @@ Služebníku dobrý * a věrný, protože jsi byl věrný nad málem, ustanovím
 
 [Hymnus1C Vespera]
 @:Hymnus Vespera Hac die
-
 
 [Versum 1]
 V. Zamiloval si jej Hospodin a ozdobil jej.
@@ -31,6 +41,14 @@ R.br. Spravedlivého vedl Hospodin * Po přímých cestách.
 R. Spravedlivého vedl Hospodin * Po přímých cestách
 V. A ukázal mu království Boží.
 R. Po přímých cestách.
+
+[Capitulum Laudes] (tempore paschali)
+@Commune/C5
+_
+R.br. Spravedlivého vedl Hospodin po přímých cestách. Alleluja, alleluja.
+R. Spravedlivého vedl Hospodin po přímých cestách. Alleluja, alleluja.
+V. A ukázal mu království Boží.
+R. Alleluja, alleluja.
 
 [Ant 2]
 Učiním jej podobným * moudrému muži, který vystavěl svůj dům na skále.

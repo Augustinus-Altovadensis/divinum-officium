@@ -416,11 +416,11 @@ Surréxit Christus * de sepúlcro, qui liberávit tres púeros de camino ignis a
 Allelúja, * allelúja, allelúja.;;148;149;150
 
 [Dayc0 Laudes]
-Allelúja, * allelúja;;50
+Allelúia, * allelúia, allelúia.;;50
 ;;117
 ;;62
 ;;210
-Allelúja, * allelúja, allelúja;;148;149;150
+;;148;149;150
 
 [DaycF Laudes]
 @:Dayc0 Laudes:s/50/92/ s/117/99/
@@ -519,6 +519,8 @@ Deo nostro * jucúnda sit laudátio.;;146
 Lauda, * Jerúsalem Dóminum.;;147
 
 [DaycP Laudes]
-Allelúja, * allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja.;;92;99;62
+Allelúja, * allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja.;;92
+;;99
+;;62
 ;;210
 ;;148;149;150

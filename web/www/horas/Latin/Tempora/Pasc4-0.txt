@@ -7,7 +7,7 @@ Una Antiphona
 StJamesRule=Jas
 
 [Capitulum Vespera]
-!Jas 1:17
+!Jac 1:17
 v. Caríssimi: Omne datum óptimum, et omne donum perféctum desúrsum est, descéndens a Patre lúminum, apud quem non est transmutátio, nec vicissitúdinis obumbrátio.
 $Deo gratias
 

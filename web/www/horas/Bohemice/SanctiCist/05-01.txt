@@ -1,3 +1,10 @@
+[Ant 1]
+Tehdy spravedliví * stanou ve velké důvěře před těmi, kteří je sužovali, a kteří odňali jejich trápení, allelúja.
+
+[Oratio]
+Bože, jenž nás rozradostňuješ každoroční slavností svých Apoštolů Filipa a Jakuba: uděl, prosíme, abychom, když se radujeme z jejich zásluh, byli též poučováni jejich příklady.
+$Per Dominum
+
 [Lectio3]
 @Tempora/Pasc2-3::s/49/45/ s/ Then Joseph.*//s
 

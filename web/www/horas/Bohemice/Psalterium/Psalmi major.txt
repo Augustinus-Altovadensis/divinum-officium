@@ -416,11 +416,11 @@ Alleluia, alleluia, alleluia;;109
 ;;112
 
 [Dayc0 Laudes]
-Alleluia * alleluia;;50
+Alleluja, * alleluja, alleluja;;50
 ;;117
 ;;62
-The three young boys * cast into the furnace by the king, fearing not the flames of fire, said: Blessed be God;;210
-Alleluia * alleluia, alleluia;;148;149;150
+;;210
+;;148;149;150
 
 [DaycF Canticles]
 ;;
@@ -516,6 +516,8 @@ Našemu Bohu * budiž radostná chvála.;;146
 Chval, * Jerusaléme Pána.;;147
 
 [DaycP Laudes]
-Allelúja, * allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja.;;92;99;62
+Allelúja, * allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja, allelúja.;;92
+;;99
+;;62
 ;;210
 ;;148;149;150

@@ -4,9 +4,23 @@
 12 lectiones
 
 [Capitulum Vespera]
-@Tempora/Pasc4-0
+@Tempora/Pasc4-0::s/Carí/Charí/
 _
-@Psalterium/Major Special:PaschM Vespera:3-8
+@Psalterium/Major Special:PaschC Vespera:3-8
+
+[Ant 1]
+Iterum autem * vidébo vos, et gaudébit cor vestrum, allelúia, et gáudium vestrum nemo tollet a vobis, allelúia.
+
+[Capitulum Laudes]
+@Tempora/Pasc4-0:Capitulum Vespera:s/Carí/Charí/
+_
+@Psalterium/Major Special:PaschC Laudes:3-8
+
+[Ant 2]
+@Tempora/Pasc4-0:Ant 3
+
+[Ant 3]
+Adhuc multa hábeo * vobis dícere, sed non potéstis portáre modo: cum autem vénerit ille Spíritus veritátis, docébit vos omnem veritátem, allelúia.
 
 [Lectio1]
 @Tempora/Pasc4-0:Lectio1:1-6 s/-6/-4/
@@ -79,7 +93,3 @@ R. Deduc me in sémita mandatórum tuórum, allelúja, † quóniam ipsam vólui
 V. Averte óculos meos ne vídeant vanitátem in via tua vivífica me.
 R. Inclina cor meum in testimónia tua, † allelúja, allelúja, allelúja.
 
-[Capitulum Laudes]
-@Tempora/Pasc4-0
-_
-@Psalterium/Major Special:PaschM Laudes:3-8
