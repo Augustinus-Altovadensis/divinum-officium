@@ -1,0 +1,15 @@
+[Rank]
+Sv. Zikmunda, Mučedníka a Patrona Království českého;;MM. min.;;4;;ex C2
+
+[Rule]
+Psalmi Dominica
+
+[Oratio]
+Bože, jenž jsi Svatého Zikmunda, Krále, oběma korunami, totiž časnou i věčnou, spolu s vytouženou palmou uctíti ráčil; a jeho Relikvie v hluboké studně pro oslavu věřícím ukázal, uděl, prosíme; abychom, když ctíme jeho zásluhy, na jeho přímluvu byli ochráněni od veškerých nepřízní.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Atanáše, Biskupa, Vyznavače a Učitele Církve
+@CommuneCist/C4a:Oratio1:s/N\./Atanáši/
+
+

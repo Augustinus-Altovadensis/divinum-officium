@@ -89,7 +89,12 @@ R. Gáudium et exsultatiónem obtinébunt, allelúja.
 @Commune/C2p
 
 [Capitulum Laudes]
-@CommuneM/C1p
+@Commune/C1p
+_
+R.br. Exúltent justi in conspéctu Dei, * Allelúia, allelúia.
+R. Exúltent justi in conspéctu Dei, * Allelúia, allelúia.
+V. Et delecténtur in lætítia.
+R. Allelúia, allelúia.
 
 [HymnusM Laudes]
 @CommuneCist/C2:HymnusM Laudes

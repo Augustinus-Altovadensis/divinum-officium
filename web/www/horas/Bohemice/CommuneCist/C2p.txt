@@ -12,6 +12,14 @@ Commune Martyrum Tempore Paschali, Versio Cisterciensis et Bohemica
 V. Spravedliví žijí navěky, alleluja.
 R. A u Pána je jejich odměna, alleluja.
 
+[Capitulum Laudes]
+@Commune/C1p
+_
+R.br. Spravedliví budou jásat před tváří Boží, * Alleluja, alleluja.
+R. Spravedliví budou jásat před tváří Boží, * Alleluja, alleluja.
+V. A těšit se budou v radosti.
+R. Alleluja, alleluja.
+
 [Ant Matutinum]
 Then shall the just stand * with great constancy against those that have afflicted them, alleluia;;1
 ;;2
