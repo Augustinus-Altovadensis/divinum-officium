@@ -1,0 +1,5 @@
+[Rank]
+S. Kněze, Biskupa a Vyznavače;;iij. Lect. et M.;;2;;vide C4
+
+[Oratio]
+@Commune/C4::s/N./Kněze/

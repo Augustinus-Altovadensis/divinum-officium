@@ -6,10 +6,7 @@ vide C2;
 9 lectiones
 
 [Oratio]
-O God, for Whose glory the noble Bishop Stanislaw fell by the swords of sinful~
-men, grant, we beseech thee, that all whosoever ask his help, may find such~
-answer to their petition as may profit them to the everlasting salvation of~
-their souls.
+Bože, k jehož cti slavný Biskup Stanislav podlehl mečům bezbožníků; uděl, prosíme; aby všichni, kdo si vyprošují jeho pomoc, dosáhli spásného účinku svých proseb.
 $Per Dominum
 
 [Lectio4]

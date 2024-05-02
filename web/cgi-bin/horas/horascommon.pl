@@ -288,7 +288,10 @@ sub occurrence {
 		}
 	}
 	
-	if ($version =~ /Trid|Cistercien/i && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i) || $trank[0] =~ /infra octavam Corp/i)) { $trank[2] = 2.9; $trank[2] = 3.9 if ($version =~ /Cistercien/i);} # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
+  # CHECK!
+  # Because xij. Lect. et M. (rank=3) overcome a Sunday (rank=5), following change 
+  # has been done: 'if ($version =~ /Trid|Cistercien/i' to this:
+	if ($version =~ /Trid/i && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i) || $trank[0] =~ /infra octavam Corp/i)) { $trank[2] = 2.9; $trank[2] = 3.9 if ($version =~ /Cistercien/i);} # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
 	elsif ($version =~ /divino/i && ($trank[2] < 5.1 && $trank[0] =~ /Dominica/i)) { $trank[2] = 4.9; }
 	elsif ($version =~ /196/ && $tname =~ /Nat1/i && $day > 28) {	# commemoration of the Christmas Octave according to the rubrics
 		$sname = subdirname('Tempora', $version) . "Nat$day";
@@ -308,7 +311,7 @@ sub occurrence {
 	}
 	elsif ($srank[2] > $trank[2]) {
 		$sanctoraloffice = 1; 	# Main case: If the sanctoral office outranks the temporal, the former takes precedence.
-	} elsif ($trank[0] =~ /Dominica/i && $dayname[0] !~ /Nat1/i) {
+	} elsif ($trank[0] =~ /Dominica/i && $dayname[0] !~ /Nat1/i ) {
 		# On some Sundays, the sanctoral office can still win in certain circumstances, even if it doesn't outrank the Sunday numerically.
 		if ($version =~ /196/) {
 			# With the 1960 rubrics, II. cl. feasts of the Lord and all I. cl. feasts beat II. cl. Sundays.

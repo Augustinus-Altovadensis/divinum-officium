@@ -1,0 +1,17 @@
+[Rank]
+Zjevení Sv. Michaëla Archanděla;;iij. Lect. et M.;;2;;
+
+[Ant Vespera]
+Alleluja, * alleluja, alleluja.
+
+[Versum 1]
+@:Versum 3
+
+[Ant 1]
+Když na posvátné tajemství * patřil Jan, Archanděl Míchaël zatroubil na polnici: Hoden jsi, Pane, náš Bože, přijmout knihu, a otevřít její pečeti, alleluja.
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Ant 3]
+Princeps gloriosíssime, * Míchaël Archángele, esto memor nostri: hic et ubíque semper precáre pro nobis Fílium Dei, allelúja, allelúja.

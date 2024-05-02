@@ -1,0 +1,84 @@
+@Sancti/05-08
+[Rank]
+In Apparitione S. Michaëlis Archangeli;;iij. Lect. et M.;;2;;
+
+[Rule]
+3 Lectiones
+Antiphonas horas
+
+[Ant Vespera]
+Allelúia, * allelúia, allelúia.
+
+[Capitulum Vespera]
+@Sancti/05-08
+_
+@Sancti/08-06:Responsory Tertia
+
+[Versum 1]
+@Sancti/05-08:Versum 3
+
+[Ant 1]
+Dum sacrum mystérium * cérneret Joánnes, Archángelus Míchaël tuba cécinit: Dignus es, Dómine, Deus noster, accípere librum, et aperíre signácula ejus, allelúia.
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+Factum est * siléntium in cælo, dum draco commítteret bellum; et Míchaël pugnávit cum eo, et fecit victóriam, allelúja.
+
+[Lectio Prima]
+!Apo 12:7-8
+v. Factum est prǽlium magnum in cælo: Míchaël et Angeli ejus præliabántur cum dracóne, et draco pugnábat et ángeli ejus: et non prævaluérunt, neque locus invéntus est eórum ámplius in cælo.
+
+[Capitulum Tertia]
+@:Capitulum Vespera
+
+[Responsory Tertia]
+R.br. Stetit Angelus * Juxta aram templi.
+R. Stetit Angelus * Juxta aram templi.
+V. Habens thuríbulum áureum in manu sua.
+R. Juxta aram templi.
+&Gloria
+R. Stetit Angelus * Juxta aram templi.
+_
+V. Ascéndit fumus arómatum in conspéctu Dómini.
+R. De manu Angeli. 
+
+[Capitulum Sexta]
+!Apo 5:11-12
+v. Audívi vocem Angelórum multórum in circúitu throni, et animálium et seniórum; et erat númerus eórum míllia míllium, voce magna dicéntium: Salus Deo nostro.
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Ascéndit fumus arómatum * In conspéctu Dómini.
+R. Ascéndit fumus arómatum * In conspéctu Dómini.
+V. De manu Angeli.
+R. In conspéctu Dómini.
+&Gloria
+R. Ascéndit fumus arómatum * In conspéctu Dómini.
+_
+@:Versum 3
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
+[Responsory Nona]
+R.br. In conspéctu Angelórum * Psallam tibi, Deus meus.
+R. In conspéctu Angelórum * Psallam tibi, Deus meus.
+V. Adorábo ad templum sanctum tuum, et confitébor nómini tuo.
+R. Psallam tibi, Deus meus.
+&Gloria
+R. In conspéctu Angelórum * Psallam tibi, Deus meus.
+_
+V. Adoráte Deum.
+R. Omnes Angeli ejus.
+
+[Ant 3]
+Princeps gloriosíssime, * Míchaël Archángele, esto memor nostri: hic et ubíque semper precáre pro nobis Fílium Dei, allelúja, allelúja.

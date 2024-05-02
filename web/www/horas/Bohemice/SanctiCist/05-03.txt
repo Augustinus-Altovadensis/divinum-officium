@@ -1,0 +1,62 @@
+[Rank]
+Nalezení Svatého Kříže;;MM. Maj.;;5;;
+
+[Ant Vespera]
+Alleluja, * alleluja, alleluja.
+
+[Ant 1]
+Ó požehnaný Kříži! * neboť na tobě visel Spasitel světa, a v tobě zvítězil Král Andělů, alleluja.
+
+[Commemoratio]
+!Připomínka Svatých Alexandra, Eventia a Theodula, Mučedníků, a Juvenala Biskupa a Vyznavače
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Uděl, prosíme, všemohoucí Bože; abychom, když slavíme narození tvých svatých Alexandra, Eventia, Theodula a Juvenála pro nebe; ode všech hrozících zel na jejich přímluvu byli osvobozeni. 
+$Per Dominum.
+
+[Commemoratio 2]
+!Připomínka Svatých Alexandra, Eventia a Theodula, Mučedníků, a Juvenala Biskupa a Vyznavače
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Uděl, prosíme, všemohoucí Bože; abychom, když slavíme narození tvých svatých Alexandra, Eventia, Theodula a Juvenála pro nebe; ode všech hrozících zel na jejich přímluvu byli osvobozeni. 
+$Per Dominum.
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Hymnus Laudes]
+@Psalterium/Major Special:HymnusM Quad5 Laudes
+
+[Ant 2]
+Hle, Kříž Páně, * prchejte, nepřátelské končiny, zvítězil lev z kmene Juda, kořen Davidův, alleluja.
+
+[Lectio Prima]
+!Phil 2:8-9
+v. Ponížil sám sebe a byl poslušný až k smrti, a to k smrti na kříži. Proto ho také Bůh povýšil a dal mu Jméno nad každé jiné jméno.
+
+[Capitulum Tertia]
+@Sancti/05-03:Capitulum Vespera
+
+[Responsory Tertia]
+V. Toto znamení Kříže bude na nebi, alleluja.
+R. Až Pán přijde jako soudce, alleluja.
+
+[Capitulum Sexta]
+!Gal 6:14
+v. Ať je daleko ode mě, abych se chlubil něčím jiným než křížem našeho Pána Ježíše Krista, kterým je pro mě ukřižován svět a já světu.
+$Deo gratias
+
+[Responsory Sexta]
+V. Klaníme se ti, Kriste, a dobrořečíme ti, alleluja.
+R. Neboť svým Křížem jsi vykoupil svět, alleluja.
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
+
+[Responsory Nona]
+V. Celá země ať se ti klaní a zpívá tobě, alleluja.
+R. Chválu ať pronáší tvému jménu, Pane, alleluja.
+
+[Ant 3]
+Ó Kříži, zářivější * než všechny hvězdy, slavnější než svět, lidem velmi milý, svatý více než vše na světě; ty jediný jsi byl hoden nést to nejlepší na světě; sladké dřevo, sladké hřeby, nesly sladké břemeno, uzdrav zástup zde stojící, shromážděný ke tvé chvále. (Alleluja, alleluja, alleluja.)

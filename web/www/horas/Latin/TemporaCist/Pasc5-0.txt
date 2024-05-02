@@ -4,9 +4,20 @@
 12 lectiones
 
 [Capitulum Vespera]
-@Tempora/Pasc5-0
+@Tempora/Pasc5-0::s/Carí/Charí/
 _
-@Psalterium/Major Special:PaschM Vespera:3-8
+@Psalterium/Major Special:PaschC Vespera:3-8
+
+[Ant 1]
+Ille me clarificábit, * quia de meo accípiet, et annuntiábit vobis, allelúia.
+
+[Capitulum Laudes]
+@Tempora/Pasc5-0:Capitulum Vespera:s/Carí/Charí/
+_
+@Psalterium/Major Special:PaschC Laudes:3-8
+
+[Ant 2]
+@Tempora/Pasc5-0:Ant 1
 
 [Responsory1]
 @Tempora/Pasc4-0
@@ -74,7 +85,4 @@ _
 [Responsory12]
 @TemporaM/Pasc4-0
 
-[Capitulum Laudes]
-@Tempora/Pasc5-0
-_
-@Psalterium/Major Special:PaschM Laudes:3-8
+

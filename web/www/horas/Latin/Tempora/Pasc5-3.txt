@@ -44,6 +44,4 @@ Pater, venit hora, * clarífica Fílium tuum claritáte quam hábui, priúsquam 
 [Oratio 2]
 @Tempora/Pasc5-0:Oratio
 
-[Ant 2] (rubrica cisterciensis)
-@Tempora/Pasc1-3
 

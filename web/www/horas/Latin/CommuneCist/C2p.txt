@@ -1,4 +1,4 @@
-@Commune/C2
+@CommuneCist/C2
 
 [Name]
 Commune unius Martyris Tempore Paschali
@@ -96,8 +96,8 @@ R. Exúltent justi in conspéctu Dei, * Allelúia, allelúia.
 V. Et delecténtur in lætítia.
 R. Allelúia, allelúia.
 
-[HymnusM Laudes]
-@CommuneCist/C2:HymnusM Laudes
+[Hymnus Laudes]
+@Commune/C2:HymnusM Laudes
 
 [Responsory Tertia]
 @Commune/C1p:Versum 1
@@ -117,6 +117,9 @@ R. Et apud Dóminum est merces eórum, allelúia.
 
 [Ant 2]
 @Commune/C1p:Ant 1
+
+[Ant 3]
+@CommuneCist/C1p:Ant 3
 
 [Versum 2]
 @:Versum 1

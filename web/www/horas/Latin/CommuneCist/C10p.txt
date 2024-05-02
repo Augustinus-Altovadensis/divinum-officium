@@ -1,4 +1,4 @@
-@Commune/C10
+@CommuneCist/C10
 
 [Capitulum Vespera]
 @Commune/C10:Capitulum Vespera
@@ -10,6 +10,12 @@ R. Allelúia, allelúia.
 
 [Ant 1]
 @Commune/C10p
+
+[Versum 1]
+@Commune/C11:Versum 1
+
+[Versum 2]
+@:Versum 1
 
 [Ant 2]
 @:Ant 1

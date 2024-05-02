@@ -79,10 +79,13 @@
 04-30=04-30=S. Petri, Martyris=2=Catharinae Senensis Virginis=1=
 *May*
 05-01=05-01=SS. Apostolorum Philippi et Jacobi=5=
-05-02=05-02=S. Sigismundi, Martyris et Patroni Regni Bohemiæ=5=S. Athanasii Confessoris Ecclesiae Doctoris=3=
+05-02=05-02=S. Sigismundi, Martyris et Patroni Regni Bohemiæ=5=S. Athanasii Confessoris Ecclesiae Doctoris=2=
 05-03=05-03=Inventionis S. Crucis=5=
-05-04=05-04=S. Monica Vidua=3=
-05-05=05-05=S. Pii V Papae Confessoris=3=
+05-04=05-04=S. Floriani, Martyris=4=S. Francisci de Paula, Confessoris=2=S. Monicæ, Viduæ=1=
+05-05=05-05=S. Sacerdotis, Episcopi et Confessoris=2=
+05-06=05-06=S. Joannis Apostoli ante portam Latinam=3=
+05-07=05-07=S. Stanislai Episcopi Martyri=2=
+05-08=05-08=Apparitione S. Michaelis Archangeli=4=
 05-09=05-09=S. Gregorii Nazianzi Episcopi Confessoris Ecclasiae Doctorum=3=
 05-10=05-10=Ss. Gordiani et Epimachi Martyri=1=
 05-11=05-11=Ss. Philippi et Jacobi Apostolorum=5=

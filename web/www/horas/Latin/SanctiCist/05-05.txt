@@ -1,4 +1,8 @@
-@Sancti/05-05
-
 [Rank]
-S. Pii V Papæ et Confessoris;;Simplex;;1.1;;vide C4
+S. Sacerdotis, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+
+[Rule]
+vide C4;mtv
+
+[Oratio]
+@Commune/C4::s/N./Sacérdotis/

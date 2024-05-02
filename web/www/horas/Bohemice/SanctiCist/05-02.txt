@@ -1,5 +1,5 @@
 [Rank]
-Sv. Zikmunda, Mučedníka a Patrona Království českého;;MM. min.;;4;;ex C2
+Sv. Zikmunda, Mučedníka a Patrona Království českého
 
 [Rule]
 Psalmi Dominica

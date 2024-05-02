@@ -1,0 +1,16 @@
+[Rank]
+Sv. Floriána, Mučedníka;;MM. min.;;4;;ex C2
+
+[Oratio]
+Bože, jenž nám přinášíš radost svátkem svatého Floriána, tvého slavného Mučedníka, uděl laskavě: abychom, když jeho slavné vítězství zbožnou láskou uctíváme na nebi, si zasloužili dosáhnout jeho radosti, když to ráčíš uděliti, v nebi.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka Sv. Františka z Pauly, Vyznavače
+@CommuneCist/C5:Oratio proper
+$Oremus
+Bože, vznešenosti pokorných, jenž jsi svatého Františka, Vyznavače, povýšil do slávy svých Svatých: uděl, prosíme, abychom pomocí jeho zásluh i napodobování, šťastně obdrželi odměny, které jsi slíbil pokorným.
+$Per Dominum.
+
+!Připomínka Sv. Moniky, Vdovy
+@CommuneCist/C7:Oratio:s/N./Moniky/

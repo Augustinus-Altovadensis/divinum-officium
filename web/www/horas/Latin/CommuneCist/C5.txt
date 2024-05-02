@@ -35,6 +35,9 @@ R. Stolam glóriæ induit eum.
 [Ant 1]
 Iste cognóvit * justítiam, et vidit mirabília magna, et exorávit Altíssimum, et invéntus est in número Sanctórum.
 
+[Ant 1] (tempore paschali)
+Beátus vir, * qui métuit Dóminum, allelúia, in madátis ejus cupit nimis, allelúia.
+
 [Versum 2]
 @:Versum 1
 
@@ -63,6 +66,9 @@ R. Allelúia, allelúia.
 [Ant 2]
 Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
 
+[Ant 2] (tempore paschali)
+Qui manet in me: * et ego in eo, hic fert fructum multum, allelúia.
+
 [HymnusM Laudes]
 @Commune/C5::s/Anni recúrso/Anni revérso/ s/Virtútum actu/Virtúte clarus/
 
@@ -89,6 +95,9 @@ Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
 
 [Ant 3]
 Iste Sanctus * digne in memóriam vértitur hóminum, qui ad gáudium tránsiit Angelórum; quia in hac peregrinatióne solo córpore constitútus, cogitatióne et aviditáte in illa aetérna patria, conversátus est.
+
+[Ant 3] (tempore paschali)
+Hic vir despíciens mundum * et terréna triúmphans, divítias cœlo cóndidit ore, manu, allelúia, allelúia.
 
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Lucam

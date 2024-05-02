@@ -14,7 +14,7 @@ Spirits and souls * of the just, sing hymns to our Lord, alleluia, alleluia.;;11
 The just shine * like the sun at the face of God, alleluia.;;116
 
 [Capitulum Vespera]
-!Wis 5:1
+!Moudrosti 5:1
 v. Tehdy spravedlivý stane ve velké důvěře před těmi, kteří ho sužovali, jeho trápením jen pohrdali.
 $Deo gratias
 

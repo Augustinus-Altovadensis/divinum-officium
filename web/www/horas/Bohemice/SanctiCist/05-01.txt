@@ -5,6 +5,9 @@ Tehdy spravedliví * stanou ve velké důvěře před těmi, kteří je sužoval
 Bože, jenž nás rozradostňuješ každoroční slavností svých Apoštolů Filipa a Jakuba: uděl, prosíme, abychom, když se radujeme z jejich zásluh, byli též poučováni jejich příklady.
 $Per Dominum
 
+[Ant 3]
+Ať se nesouží * vaše srdce, ani nebojí; Věříte v Boha, věřte i ve mě, v domě mého Otce je mnoho příbytků, alleluja, alleluja.
+
 [Lectio3]
 @Tempora/Pasc2-3::s/49/45/ s/ Then Joseph.*//s
 

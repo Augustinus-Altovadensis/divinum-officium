@@ -1,4 +1,19 @@
-@Sancti/05-04
-
 [Rank]
-S. Monicæ Viduæ;;Simplex;;1.1;;vide C7
+S. Floriani, Martyris;;MM. min.;;4;;ex C2
+
+[Rule]
+Psalmi Dominica
+
+[Oratio]
+Deus, qui nos beáti Floriáni Mártyris tui gloriósi solemnitáte lætíficas, § concéde propítius: * ut cujus gloriósum victóriæ triúmphum pio amóre venerámur in terris, § ejus lætítiam adipísci te largiénte mereámur in coelis.
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio S. Francisci de Paula, Confessoris
+@CommuneCist/C5:Oratio proper
+$Oremus
+Deus, humílium celsitúdo, § qui beátum Francíscum, Confessórem, Sanctórum tuórum glória sublimásti: * tríbue, quǽsumus; § ut, ejus méritis et imitatióne, promíssa humílibus prǽmia felíciter consequámur.
+$Per Dominum.
+
+!Commemoratio S. Monicæ, Viduæ
+@CommuneCist/C7:Oratio:s/N./Monicæ/

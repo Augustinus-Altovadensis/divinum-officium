@@ -16,19 +16,19 @@ But us it behoveth to glory * in the Cross of our Lord Jesus Christ. (Alleluia.)
 By thy Cross' holy sign, * Jesus, guard this soul of mine from my ghostly enemy. (Alleluia.)
 
 [Capitulum Vespera]
-!Phil 2:5-7
-v. For let this mind be in you, which was also in Christ Jesus: Who being in the form of God, thought it not robbery to be equal with God: But emptied himself, taking the form of a servant, being made in the likeness of men, and in habit found as a man
+!Filipanům 2:5-7
+v. Bratři, mějte v sobě to smýšlení, jaké měl Kristus Ježíš: který ačkoli měl božskou přirozenost, nic nelpěl na tom, že je rovný Bohu, ale sám sebe se zřekl, vzal na sebe přirozenost služebníka a stal se jako jedním z lidí. Vypadal jako každý jiný člověk.
 $Deo gratias.
 
 [Versum 1]
-V. This sign of the Cross shall be in heaven. (Alleluia.)
-R. When the Lord cometh to judgment. (Alleluia.)
+V. Toto znamení Kříže bude na nebi. (Alleluja.)
+R. Až Pán přijde jako soudce. (Alleluja.)
 
 [Ant 1]
-O Cross, * surpassing all the stars in splendour, exceeding dear to all Christian people and world-renowned, holiest of earth's treaures: which only wast counted worthy to hold aloft the Price of our Redemption: sweet is thy wood and sweet thine iron, but sweetest of all the Burden that hung on thee! O that all who come this day to celebrate thy praises may find in thee salvation. (Alleluia, Alleluia.)
+Ó Kříži, * zářivější než všechny hvězdy, slavnější než svět, lidem velmi milý, svatý více než vše na světě; ty jediný jsi byl hoden nést to nejlepší na světě; sladké dřevo, sladké hřeby, nesly sladké břemeno, uzdrav zástup zde stojící, shromážděný ke tvé chvále. (Alleluja, alleluja.)
 
 [Oratio]
-O God, Who didst cause that the Cross of our salvation should in most honourable wise be found again, and Who didst manifest thereby the marvellous efficacy of thy sufferings, mercifully grant that by the Ransom which Thou didst pay upon that tree of life we may finally attain unto life eternal.
+Bože, jenž jsi v přeslavném Nalezení spásonosného Kříže povzbudil zázraky svého utrpení; uděl, abychom cenou tohoto životodárného dřeva, dosáhli udělení věčného života.
 $Qui vivis
 
 [Invit]
@@ -163,8 +163,8 @@ Alexander was a Roman, who ruled the Church during the reign of the Emperor Hadr
 &teDeum
 
 [Versum 2]
-V. We adore thee, O Christ, and we bless thee. (Alleluia.)
-R. Because that through thy Cross Thou hast redeemed the world. (Alleluia.)
+V. Klaníme se ti, Kriste, a dobrořečíme ti. (Alleluja.)
+R. Neboť skrze svůj kříž jsi vykoupil svět. (Alleluja.)
 
 [Ant 2]
 Thou art higher * than all cedars, whereon the Life of the world hung, whereon~
@@ -178,50 +178,55 @@ V. Precious in the sight of the Lord. (Alleluia.)
 R. Is the death of His Saints. (Alleluia.)
 _
 $Oremus
-Grant, we beseech thee, O Almighty God, that we who do keep the birthday of thy holy servants Alexander, Eventius, Theodulus, and Juvenal, may by their prayers be delivered from all evils that presently hang over us.
+v. Uděl, prosíme, všemohoucí Bože; abychom, když slavíme narození tvých svatých Alexandra, Eventia, Theodula a Juvenála pro nebe; ode všech hrozících zel na jejich přímluvu byli osvobozeni. 
 $Per Dominum.
 
 [Lectio Prima]
 !Phil 2:8-9
-v. He humbled himself, becoming obedient unto death, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names
+v. Ponížil sám sebe a byl poslušný až k smrti, a to k smrti na kříži. Proto ho také Bůh povýšil a dal mu Jméno nad každé jiné jméno.
 
 [Responsory Tertia]
-R.br. This sign of the Cross shall be in heaven. * Alleluia, Alleluia.
-R. This sign of the Cross shall be in heaven. * Alleluia, Alleluia.
-V. When the Lord cometh to judgment.
-R. Alleluia, Alleluia.
+R.br. Toto znamení Kříže bude na nebi, * Alleluja, alleluja.
+R. Toto znamení Kříže bude na nebi, * Alleluja, alleluja.
+V. Až Pán přijde jako soudce.
+R. Alleluja, alleluja.
 &Gloria
-R. This sign of the Cross shall be in heaven. * Alleluia, Alleluia.
+R. Toto znamení Kříže bude na nebi, * Alleluja, alleluja.
 _
-V. We adore thee, O Christ, and we bless thee. Alleluia.
-R. Because that through thy Cross Thou hast redeemed the world. (Alleluia.)
+V. Klaníme se ti, Kriste, a dobrořečíme ti, alleluja.
+R. Neboť svým Křížem jsi vykoupil svět, alleluja.
 
 [Capitulum Sexta]
 !Gal 6:14
-v. But God forbid that I should glory, save in the Cross of our Lord Jesus Christ, by Whom the world is crucified unto me, and I unto the world.
+v. Ať je daleko ode mě, abych se chlubil něčím jiným než křížem našeho Pána Ježíše Krista, kterým je pro mě ukřižován svět a já světu.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. We adore thee, O Christ, and we bless thee. * Alleluia, alleluia.
-R. We adore thee, O Christ, and we bless thee. * Alleluia, alleluia.
-V. Because that through thy cross thou hast redeemed the world.
-R. Alleluia, alleluia.
+R.br. Klaníme se ti, Kriste, a dobrořečíme ti: * Alleluja, alleluja.
+R. Klaníme se ti, Kriste, a dobrořečíme ti: * Alleluja, alleluja.
+V. Neboť svým Křížem jsi vykoupil svět.
+R. Alleluja, alleluja.
 &Gloria
-R. We adore thee, O Christ, and we bless thee. * Alleluia, Alleluia.
+R. Klaníme se ti, Kriste, a dobrořečíme ti: * Alleluja, alleluja.
 _
-V. Let all the earth worship thee, and sing unto thee. Alleluia.
-R. Let them sing praises to thy Name, O Lord. Alleluia.
+V. Celá země ať se ti klaní a zpívá tobě, alleluja.
+R. Chválu ať pronáší tvému jménu, Pane, alleluja.
+
+[Capitulum Nona]
+@:Lectio Prima
+$Deo gratias
 
 [Responsory Nona]
-R.br. Let all the earth worship thee, and sing unto thee. * Alleluia, Alleluia.
-R. Let all the earth worship thee, and sing unto thee. * Alleluia, alleluia.
-V. Let them sing praises to thy Name, O Lord.
-R. Alleluia, Alleluia.
+R.br. Celá země ať se ti klaní a zpívá tobě, * Allelúja, allelúja.
+R. Celá země ať se ti klaní a zpívá tobě, * Allelúja, allelúja.
+V. Chválu ať pronáší tvému jménu, Pane.
+R. Allelúja, allelúja.
 &Gloria
-R. Let all the earth worship thee, and sing unto thee. * Alleluia, Alleluia.
+R. Celá země ať se ti klaní a zpívá tobě, * Allelúja, allelúja.
 _
-V. This sign of the Cross shall be in heaven. Alleluia.
-R. When the Lord cometh to judgement. Alleluia.
+V. Toto znamení Kříže bude na nebi, alleluja.
+R. Až Pán přijde jako soudce, alleluja.
+
 
 [Ant 3]
 Jesus, our triumphant Head, * on the cross' ransom dread, the hands of power and mercy spread, that broke the prison of the dead. Alleluia.

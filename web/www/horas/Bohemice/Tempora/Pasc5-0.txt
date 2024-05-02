@@ -8,14 +8,14 @@ Doxology=Pasc
 
 [Capitulum Vespera]
 !Jas 1:22-24
-v. My beloved: But be ye doers of the word, and not hearers only, deceiving your own selves. For if a man be a hearer of the word, and not a doer, he shall be compared to a man beholding his own countenance in a glass. For he beheld himself, and went his way, and presently forgot what manner of man he was. 
+v. Milovaní, buďte činiteli slova, a ne pouhými posluchači. To byste klamali sami sebe. Neboť když někdo to slovo jenom poslouchá, ale nejedná podle něho, ten se podobá člověku, který pozoruje svůj vzhled v zrcadle: podívá se na sebe, odejde, a hned zapomene, jak vypadá.
 $Deo gratias
 
 [Ant 1]
-Hitherto * have ye asked nothing in My Name, ask, and ye shall receive. Alleluia.
+Zatím * jste neprosili o nic v mém jménu; proste, a dostanete, alleluja.
 
 [Oratio]
-O God, from Whom all good things do come, grant to us thy humble servants that by thy holy inspiration we may think those things that be good, and by thy merciful guiding may perform the same.
+Bože, z nějž všechno vychází, uděl nám, kteří tě prosíme; abychom mysleli, tebou naladěni, pouze to, co je správné, a s tvým vedením tyto věci konali.
 $Per Dominum
 
 [Lectio1]
@@ -82,13 +82,13 @@ Hitherto saith the Lord, have ye asked nothing in My Name? "Ask, and ye shall re
 
 [Capitulum Sexta]
 !Jas 1:25
-v. But he that hath looked into the perfect law of liberty, and hath continued therein, not becoming a forgetful hearer, but a doer of the work; this man shall be blessed in his deed.
+v. Kdo se však důkladně zahledí do dokonalého zákona svobody a přitom vytrvá, kdo není jen posluchač zapomnětlivý, ale skutečně podle toho jedná, ten v tom jednání najde svou blaženost.
 $Deo gratias
 
 [Capitulum Nona]
 !Jas 1:27
-v. Religion clean and undefiled before God and the Father, is this: to visit the fatherless and widows in their tribulation: and to keep one's self unspotted from this world.
+v. Zbožnost ryzí a bezvadná před Bohem a Otcem je toto: ujímat se sirotků a vdov v jejich tísni a uchovat se neposkvrněný od světa.
 $Deo gratias
 
 [Ant 3]
-Ask, and ye shall receive, * that your joy may be full; for the Father Himself loveth you, because ye have loved Me, and have believed in Me, alleluia.
+Proste, a dostanete, * aby vaše radost byla dokonalá; sám Otec vás totiž miluje, neboť vy jste milovali mě, a uvěřili jste <i>ve mě</i>, alleluja.

@@ -34,6 +34,9 @@ R. Štolu slávy mu oblékl.
 [Ant 1]
 Tento poznal * spravedlnost, a uzřel veliké zázraky, a modlil se k Nejvyššímu, a shledán byl v počtu Svatých.
 
+[Ant 1] (tempore paschali)
+Blažen je muž, * který má bázeň před Hospodinem, alleluja, a po jeho přikázáních velmi touží, alleluja.
+
 [Capitulum Laudes]
 @Commune/C5
 _
@@ -53,6 +56,9 @@ R. Alleluja, alleluja.
 [Ant 2]
 Učiním jej podobným * moudrému muži, který vystavěl svůj dům na skále.
 
+[Ant 2] (tempore paschali)
+Kdo zůstává ve mě: * a já v něm, ten přinese hojnou úrodu, alleluja.
+
 [Ant Tertia]
 @:Ant Vespera:2
 
@@ -61,6 +67,9 @@ Učiním jej podobným * moudrému muži, který vystavěl svůj dům na skále.
 
 [Ant 3]
 Tento Svatý * se právem vtiskl do paměti lidí, neboť odešel do radosti Andělů; neboť v tomto putování v těle pouze přebýval, myšlením a touhou se obracel k oné věčné vlasti.
+
+[Ant 3] (tempore paschali)
+Tento muž pohrdnul světem * a přemohl věci pozemské, bohatství si tak uložil v nebi ústy i rukama, alleluja, alleluja.
 
 [LectioE]
 v. Pokračování svatého Evangelia podle Lukáše
