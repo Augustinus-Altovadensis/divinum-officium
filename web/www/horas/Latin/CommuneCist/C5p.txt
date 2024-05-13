@@ -1,0 +1,50 @@
+@CommuneCist/C5
+
+[Ant Vespera]
+Allelúia, * allelúia, allelúia.
+
+[Capitulum Vespera]
+@Commune/C5
+_
+R.br. Os justi meditábitur sapiéntiam. * Allelúia, allelúia.
+R. Os justi meditábitur sapiéntiam. * Allelúia, allelúia.
+R. Et lingua ejus loquétur judícium.
+R. Allelúia, allelúia.
+
+
+[Versum 1]
+V. Amávit eum Dóminus, et ornávit eum.
+R. Stolam glóriæ induit eum.
+
+[Ant 1]
+Beátus vir, * qui métuit Dóminum, allelúia, in madátis ejus cupit nimis, allelúia.
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@Commune/C5
+_
+R.br. Justum dedúxit Dóminus per vias rectas. * Allelúia, allelúia.
+R. Justum dedúxit Dóminus per vias rectas. * Allelúia, allelúia.
+R. Et osténdit illi regnum Dei.
+R. Allelúia, allelúia.
+
+[Ant 2] 
+Qui manet in me: * et ego in eo, hic fert fructum multum, allelúia.
+
+[HymnusM Laudes]
+@Commune/C5::s/Anni recúrso/Anni revérso/ s/Virtútum actu/Virtúte clarus/
+
+
+[Ant 3] 
+Hic vir despíciens mundum * et terréna triúmphans, divítias cœlo cóndidit ore, manu, allelúia, allelúia.
+
+
+

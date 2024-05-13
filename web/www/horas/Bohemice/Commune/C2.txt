@@ -249,6 +249,10 @@ $Per Dominum
 Uděl, prosíme, všemohoucí Bože, abychom na přímluvu svatého N., tvého Mučedníka, od všech protivenství osvobozeni byli na těle, i od špatných myšlenek očištěni byli na mysli.
 $Per Dominum
 
+[Oratio4]
+Dej, prosíme, všemohoucí Bože; abychom, když slavíme svátek svatého N., tvého Mučedníka, obdrželi na pomoc jeho přímluvy u tebe.
+$Per Dominum
+
 [Lectio Prima]
 !Sir 39:6
 v. He will give his heart to resort early to the Lord that made him, and he will pray in the sight of the most High.

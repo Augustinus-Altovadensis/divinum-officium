@@ -1,0 +1,9 @@
+[Rank]
+Sv. Pachomia, Opata;;iij. Lect. et M.;;2;;vide C5
+
+[Oratio]
+@CommuneCist/C5:Oratio1:s/N\./Pachomia/
+
+[Commemoratio]
+!Připomínka sv. Bonifáce, Mučedníka
+@CommuneCist/C2:Oratio4:s/N\./Bonifáce/

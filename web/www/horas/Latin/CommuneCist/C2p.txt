@@ -17,7 +17,7 @@ Antiphonas horas
 @CommuneM/C2
 
 [HymnusC Vespera]
-@Commune/C2:Hymnus Vespera
+@Commune/C2:HymnusM Vespera
 
 [Invit]
 @Commune/C2p

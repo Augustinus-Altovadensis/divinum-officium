@@ -1,25 +1,17 @@
 @Tempora/Pasc6-4
 
 [Rank]
-Feria V post Ascensionem;;Feria;;1;;vide TemporaM/Pasc5-4
+Feria V infra Octavam Ascensionis;;Feria;;2.1;;vide TemporaCist/Pasc5-4
 
 [Rule]
+Antiphonas horas
+Psalmi feria
 
-[Oratio]
-@Tempora/Pasc6-0
+[Ant Vespera]
+@TemporaCist/Pasc5-4
 
-[Capitulum Vespera]
-@TemporaM/Pasc5-5
+[Ant Laudes]
+@TemporaCist/Pasc5-4
 
-[Capitulum Laudes]
-@TemporaM/Pasc5-5
-
-[Capitulum Tertia]
-@TemporaM/Pasc5-5
-
-[Capitulum Sexta]
-@TemporaM/Pasc5-5
-
-[Capitulum Nona]
-@TemporaM/Pasc5-5
-
+[Ant 3]
+@TemporaCist/Pasc5-4
