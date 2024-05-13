@@ -257,6 +257,10 @@ $Per Dominum
 Præsta, quǽsumus, omnípotens Deus: ut, intercedénte beáto N. Mártyre tuo, et a cunctis adversitátibus liberémur in córpore, et a pravis cogitatiónibus mundémur in mente.
 $Per Dominum
 
+[Oratio4]
+Da, quǽsumus, omnípotens Deus: ut, qui beati N., Mártyris tui, solémnia cólimus, ejus apud te intercessiónibus adjuvémur.
+$Per Dominum
+
 [Lectio Prima]
 !Sir 39:6
 v. Justus cor suum trádidit ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.

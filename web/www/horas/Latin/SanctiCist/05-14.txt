@@ -2,4 +2,8 @@
 S Pachomius Abbatis;;Simplex;;1.1;;vide C5
 
 [Oratio]
-@Commune/C5:Oratio1:s/N\./Pachómii/
+@CommuneCist/C5:Oratio1:s/N\./Pachómii/
+
+[Commemoratio]
+!Commemoratio S. Bonifacii, Martyris
+@CommuneCist/C2:Oratio4:s/N\./Bonifácii/

@@ -1,4 +1,9 @@
-@Sancti/05-13
-
 [Rank]
-S. Roberti Bellarmino Episcopi Confessoris et Ecclesiæ Doctoris;;Simplex;;1.1;;vide C4
+B. Dominici Zavřel, Martyris Ordinis Nostri;;MM. min.;;4;;ex C2
+
+[Rule]
+Psalmi Dominica
+
+[Oratio]
+Praesta, quaesumus, omnípotens Deus: * ut intercedénte Beáto Dominico Mártyre tuo, et a cunctis adversitátibus liberémur in córpore, § et a pravis cogitatiónibus mundémur in mente. 
+$Per Dominum
