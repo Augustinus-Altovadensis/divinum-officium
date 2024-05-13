@@ -1,7 +1,7 @@
 @Tempora/Pasc5-4
 
 [Rank]
-In Ascensione Domini;;Duplex I classis;;7
+In Ascensione Domini;;Duplex I classis cum Octava Privilegiata II classis;;7
 
 [Rule]
 Psalmi Dominica
@@ -196,4 +196,40 @@ $Deo gratias
 _
 V. Exaltáre, Dómine, allelúja, in virtúte tua, allelúja.
 R. Cantábimus et psallémus virtútes tuas, allelúja.
+
+[Octava 1]
+Ant. Pater, * manifestávi nomen tuum homínibus quos dedísti mihi: nunc autem pro eis rogo, non pro mundo, quia ad te vénio, allelúja.
+_
+V. Ascéndens Christus in altum, allelúia.
+R. Captívam duxit captivitátem, allelúia.
+_
+$Oremus
+Concéde, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum,~
+Redemptórem nostrum, ad cælos ascendísse crédimus; ipsi quoque mente in~
+cæléstibus habitémus.
+$Per eumdem
+
+[Octava 2]
+Ant. Ascéndo ad Patrem meum, * et Patrem vestrum: Deum meum, et Deum vestrum, allelúja.
+_
+V. Ascéndit Deus in jubilatióne, allelúia.
+R. Et Dóminus in voce tubæ, allelúia.
+_
+$Oremus
+Concéde, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum,~
+Redemptórem nostrum, ad cælos ascendísse crédimus; ipsi quoque mente in~
+cæléstibus habitémus.
+$Per eumdem
+
+[Octava 3]
+Ant. O Rex glóriæ, * Dómine virtútum, qui triumphátor hódie super omnes cælos ascendísti, ne derelínquas nos órphanos; sed mitte promíssum Patris in nos, Spíritum veritátis, allelúja.
+_
+V. Ascéndens Christus in altum, allelúia.
+R. Captívam duxit captivitátem, allelúia.
+_
+$Oremus
+Concéde, quǽsumus, omnípotens Deus: ut, qui hodiérna die Unigénitum tuum,~
+Redemptórem nostrum, ad cælos ascendísse crédimus; ipsi quoque mente in~
+cæléstibus habitémus.
+$Per eumdem
 

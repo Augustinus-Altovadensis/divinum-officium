@@ -222,6 +222,9 @@ R. Illi autem sunt in pace
 [Oratio2]
 @Commune/C3
 
+[Oratio3]
+@Commune/C3
+
 [Responsory Tertia]
 @Commune/C1p:Versum 1
 

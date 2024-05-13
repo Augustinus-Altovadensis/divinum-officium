@@ -85,10 +85,10 @@
 05-05=05-05=S. Sacerdotis, Episcopi et Confessoris=2=
 05-06=05-06=S. Joannis Apostoli ante portam Latinam=3=
 05-07=05-07=S. Stanislai Episcopi Martyri=2=
-05-08=05-08=Apparitione S. Michaelis Archangeli=4=
+05-08=05-08=Apparitione S. Michaelis Archangeli=2=
 05-09=05-09=S. Gregorii Nazianzi Episcopi Confessoris Ecclasiae Doctorum=3=
-05-10=05-10=Ss. Gordiani et Epimachi Martyri=1=
-05-11=05-11=Ss. Philippi et Jacobi Apostolorum=5=
+05-10=05-10=S. Petri, Episcopi et Confessoris=2=SS. Gordiani et Epimachi, Martyrum=1=
+05-11=05-11=Ss. Pii V. Papæ et Confessoris=2=
 05-12=05-12=Ss. Nerei, Achillei et Domitillae Virgini atque Pancratii Martyrum=2=
 05-13=05-13=S. Roberti Ballarmino Episcopi Confessoris et Ecclesiae Doctoris=3=
 05-14=05-14=S. Pachomius Abbot=1=

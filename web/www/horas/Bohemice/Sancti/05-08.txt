@@ -89,7 +89,7 @@ R. Having a golden censer in his hand. (Alleluia.)
 While as John was gazing * upon the holy mystery, the Archangel Michael sounded his trumpet: Forgive us, O Lord our God, Which openest the book, and loosest the seals thereof. Alleluia.
 
 [Oratio]
-O God, Who hast ordained and constituted the services of angels and men in a wonderful order, mercifully grant that as thy holy angels alway do thee service in heaven, so, by thy appointment, they may succour and defend us on earth.
+Bože, jenž v podivuhodném řádu rozdílíš sloužby Andělům i lidem; uděl laskavě, aby ti, kdo tobě v nebi neustále slouží, také na zemi chránili naše životy.
 $Per Dominum
 
 [Invit]
@@ -319,40 +319,41 @@ unseen God.
 &teDeum
 
 [Hymnus Laudes]
-v. Christ, of the angels praise and adoration,
-Father and Saviour thou, of every nation,
-Graciously grant us all to gain a station,
-Where thou art reigning.
+v. Kriste, svých svatých Andělů ozdobo,
+Vůdce lidského rodu i původče,
+Nám do věčného nebe vystoupiti
+Laskavě uděl.
 _
-Angel all peaceful, to our dwellings send us,
-Michael, from heaven coming to befriend us,
-Breathing serenest peace may he attend us,
-Grim war dispelling.
+Anděla míru, Michaela, z oné
+Nebeské síně, prosíme, k nám sešli,
+Aby k nám často přicházel a 
+Vše dobré rostlo.
 _
-Angel of strength, who triumphed, tumults quelling,
-Gabriel send us, ancient foes expelling,
-Oft in these temples may he make his dwelling,
-Dear unto heaven.
+Anděl pak silný, Gabriel, by přilét,
+shůry, a zahnal zlého nepřítele,
+A často v chrám tento slavný přicházel
+Navštěvovat nás.
 _
-Angel physician, health on man bestowing,
-Raphael send us from the skies all glowing,
-All sickness curing, wisest counsel showing
-In doubt and danger.
+Anděla nám pak, léčitele, spásy,
+Sešli až z nebe, Rafaela, aby
+Všechny nemocné uzdravil, a naše
+Též skutky řídil.
 _
-May the fair Mother of the Light be o'er us,
-Virgin of peace, with all the angel chorus,
-And may the heavenly army go before us,
-Guiding and guarding.
+Nyní našeho Boha ctná Rodička
+Maria, a s ní celý andělský sbor
+Nám vždy pomáhá, spolu s ní i celá 
+Svatých společnost.
 _
-O may the Godhead, endless bliss possessing,
-Father, Son, Spirit, grant to us this blessing;
-All his creation joins his praise confessing,
-Now and forever.
-Amen.
+To dej nám nyní Božství přeblažené
+Otce, i Syna, stejně tak Svatého
+Ducha, jejichž zvučí v celém širém světě
+Sláva navěky. Amen.
+
+[HymnusM Laudes]
+@:Hymnus Laudes
 
 [Ant 2]
-There was silence * in heaven while as the dragon made war, and Michael fought~
-against him, and prevailed over him. Alleluia.
+Nastalo * ticho v nebi, když se drak odvážil vést válku, a Michael s ním bojoval, a dobyl vítězství. Alleluja.
 
 [Lectio Prima]
 !Rev 12:7-8

@@ -964,6 +964,7 @@ sub psalmi_major {
     if ($hora =~ /Laudes/i) {
       if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaycF'; }
       #if ($dayname[0] =~ /Pasc/i && $head =~ /Dayc0/i) { $head = 'DaycP'; } # this uses Psalmi de Festis automatically on every Paschal Sunday, which is no longer practiced in Vyšší Brod.
+      if ($rule =~ /Psalmi Feria/i) { $head = "Dayc$dayofweek"; }
     }
     @psalmi = split("\n", $psalmi{"$head $hora"});
 
@@ -1071,6 +1072,7 @@ sub psalmi_major {
       || ($anterule && $anterule =~ /Psalmi Dominica/i)
     )
     && ($antiphones[0] !~ /\;\;\s*[0-9]+/)
+    && $rule !~ /Psalmi Feria/i
     )
   {
     $prefix = translate("Psalmi, antiphonae", $lang) . ' ';

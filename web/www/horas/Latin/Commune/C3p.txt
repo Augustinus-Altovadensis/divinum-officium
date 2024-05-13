@@ -52,3 +52,6 @@ R. Gáudium et exsultatiónem obtinébunt, allelúja.
 
 [Oratio2]
 @Commune/C3
+
+[Oratio3]
+@Commune/C3

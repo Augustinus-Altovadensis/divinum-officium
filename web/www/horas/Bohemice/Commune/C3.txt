@@ -274,6 +274,10 @@ $Per Dominum
 O God, Who dost gladden us by the yearly Feast-day of thine holy Martyrs, mercifully grant unto us who keep their birth-day, the strength to imitate their patience under suffering.
 $Per Dominum
 
+[Oratio3]
+Dej, prosíme, všemohoucí Bože; abychom, když slavíme svátek tvých svatých Mučedníků N. a N., obdrželi pomoc jejich přímluvy u tebe.
+$Per Dominum
+
 [Lectio Prima]
 !Wis 3:7-8
 v. The just shall shine, and shall run to and fro like sparks among the reeds. They shall judge nations, and rule over people, and their Lord shall reign for ever.

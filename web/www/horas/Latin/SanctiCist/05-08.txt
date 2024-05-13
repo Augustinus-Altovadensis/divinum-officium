@@ -24,13 +24,15 @@ Dum sacrum mystérium * cérneret Joánnes, Archángelus Míchaël tuba cécinit
 @:Ant Vespera
 
 [Capitulum Laudes]
-@:Capitulum Vespera
+@Sancti/05-08:Capitulum Vespera
+_
+@Sancti/05-08:Responsory Tertia
+
+[HymnusC Laudes]
+@Sancti/05-08:HymnusM Laudes:s/réboat in omni/résonat per omnem/
 
 [Versum 2]
-@:Versum 1
-
-[Ant 2]
-Factum est * siléntium in cælo, dum draco commítteret bellum; et Míchaël pugnávit cum eo, et fecit victóriam, allelúja.
+@Sancti/05-08:Responsory Nona:8-9:s/Deum/Dóminum/
 
 [Lectio Prima]
 !Apo 12:7-8

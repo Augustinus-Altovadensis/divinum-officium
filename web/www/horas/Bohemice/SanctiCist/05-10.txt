@@ -1,0 +1,10 @@
+[Rank]
+Sv. Petra, Biskupa a Vyznavače;;iij. Lect. et M.;;2;;vide C4
+
+[Oratio]
+@Commune/C4:Oratio:s/N\./Petra/
+
+[Commemoratio]
+!Připomínka sv. Gordiána a Epimacha, Mučedníků
+@CommuneCist/C3:Oratio3:s/N\. a N\./Gordiána a Epimacha/
+

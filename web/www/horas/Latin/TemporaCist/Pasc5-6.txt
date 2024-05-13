@@ -1,5 +1,14 @@
 @Tempora/Pasc5-6
 
 [Rank]
-Sabbato post Ascensionem;;Feria;;1;;vide TemporaM/Pasc5-5
+Sabbato infra Octavam Ascensionis;;Feria;;2.1;;vide TemporaCist/Pasc5-4
 
+[Rule]
+Antiphonas horas
+Psalmi feria
+
+[Ant Vespera]
+@TemporaCist/Pasc5-4
+
+[Ant Laudes]
+@TemporaCist/Pasc5-4

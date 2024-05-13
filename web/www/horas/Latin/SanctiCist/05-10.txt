@@ -1,1 +1,13 @@
-@Sancti/05-10o
+[Rank]
+S. Petri, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+
+[Rule]
+vide C5;mtv
+
+[Oratio]
+@Commune/C4:Oratio:s/N\./Petri/
+
+[Commemoratio]
+!Commemoratio SS. Gordiani et Epimachi, Martyrum
+@CommuneCist/C3:Oratio3:s/N\. et N\./Gordiáni et Epímachi/
+
