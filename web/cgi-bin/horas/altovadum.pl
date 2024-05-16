@@ -44,7 +44,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in Lambach/v Lambachu/ig;
 	$line =~ s/in Schlüchtern/v klášteře Schlüchtern/ig;
 	$line =~ s/Plagensis/ze Schläglu/ig;
-	$line =~ s/, Aulae.Regiae/, na Zbraslavi/ig;
+	$line =~ s/, Aulae.Regiae|de Aula Regia/, na Zbraslavi/ig;
 	$line =~ s/Aulae.Regiae/zbraslavský/ig;
 	$line =~ s/in Aula.Regia/na Zbraslavi/ig;
 	$line =~ s/Sanctae.Coronae|Sacrae Spinae Coronae/zlatokorunský/ig;
@@ -161,7 +161,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in nostra ecclesia/v našem kostele/ig;
 	$line =~ s/in ecclesia/v kostele/ig;
 	$line =~ s/in instituto philosophico/na filosofickém institutu/ig;
-	$line =~ s/Tento-Richnovii|Teutorychnovii/v Rychnově u Nových Hradů/ig;
+	$line =~ s/Tento-Richnovii|Teutorychnovii|Teuto-Richnoviensis|Tento-Richnoviensis/v Rychnově u Nových Hradů/ig;
 	$line =~ s/Tento-Richnov|Tento-Richnovium/Rychnov u Nových Hradů/ig;
 	$line =~ s/Plan |Planensis /Planá /ig;
 	$line =~ s/Plan\./Planá\./ig;
@@ -187,7 +187,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Boleticii/v Boleticích/ig;
 	$line =~ s/Veter.Osseci|in Vetero-Ossegg/ve Starém Oseku/ig;
 	$line =~ s/Wissoczan/Vysočany/ig;
-	$line =~ s/Ottau/Zátoň/ig;
+	$line =~ s/Ottau|Zathon/Zátoň/ig;
 	$line =~ s/Neostadii/v Novém Městě Vídeňském/ig;
 	$line =~ s/Lisnitz/Líšnice/ig;
 	$line =~ s/Netolitz/Netolice/ig;
@@ -485,6 +485,12 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Lauren[t|c]ius/Vavřinec/ig;
 	$line =~ s/Carolus/Karel/ig;
 	$line =~ s/Jacobus/Jakub/ig;
+	$line =~ s/Wenceslaus/Václav/ig;
+	$line =~ s/Antonius/Antonín/ig;
+	$line =~ s/Wolfgangus/Wolfgang/ig;
+	$line =~ s/Engelbertus/Engelbert/ig;
+	$line =~ s/Petrus/Petr/ig;
+	$line =~ s/Nicolaus/Mikuláš/ig;
 
 
 	$line =~ s/canoniae/kanonie/ig;
@@ -495,6 +501,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/monialium/sester/ig;
 	$line =~ s/totius/celého/ig;
 	$line =~ s/ultimi/posledního/ig;
+	$line =~ s/antiquus/dřívější/ig;
 
 	$line =~ s/notarius archiepiscopialis/arcibiskupský notář/ig;
 	$line =~ s/notarius episcopalis/biskupský notář/ig;

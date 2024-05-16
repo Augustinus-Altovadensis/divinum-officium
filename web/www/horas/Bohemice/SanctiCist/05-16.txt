@@ -1,0 +1,35 @@
+[Rank]
+Sv. Jana Nepomuckého, Mučedníka a Patrona českého;;Serm. maj.;;5;;ex C2
+
+[Oratio]
+Bože, jenž jsi pro nepřemožené svátostné mlčení svatého Jana ozdobil svou Církev novou mučednickou korunou; dej nám na jeho přímluvu a dle jeho příkladu pčelivě střežit svůj jazyk, a snášet spíše všechna zla tohoto světa, než zkázu duše. 
+$Per Dominum
+
+[Capitulum Vespera]
+@Commune/C2:Capitulum Vespera
+_
+R. On je pravý Mučedník, jenž pro Kristovo jméno prolil svou krev; Jenž se nezalekl hrozeb soudců, ani nehledal slávu pozemské důstojnosti, ale došel až do nebeské říše. (Alleluja.)
+℣. Spravedlivého vodil Hospodin pro správných cestách, a ukázal mu království Boží.
+R. Jenž se nezalekl hrozeb soudců, ani nehledal slávu pozemské důstojnosti, ale došel až do nebeské říše. (Alleluja.)
+
+[Commemoratio 1]
+!Připomínka blahoslavených Mučedníků z Casamari
+Ant. Světlo věčné * vzdejde tvým Svatým, Pane, a věčné věky, alleluja.
+_
+℣. Spravedliví budou žít navěky, alleluja.
+℟. A u Hospodina bude jejich odplata, alleluja
+_
+$Oremus
+v. Všemohoucí a milosrdný Bože, jenž jsi dal svatým Simeonovi a jeho druhům milost vytrvat ve víře až k mučednické smrti; uděl, prosíme, abychom, když s radostí slavíme jejich památku, naučili se ničemu nedávat přednost před láskou Krista, tvého Syna. 
+$Qui tecum
+
+[Commemoratio 2]
+!Připomínka blahoslavených Mučedníků z Casamari
+Ant. Dcery Jerusalémské, * pojďte a pohleďte na korunované Mučedníky, které Pán korunoval ve den své slávy a radosti, alleluja, alleluja.
+_
+℣. Spravedliví budou žít navěky, alleluja.
+℟. A u Hospodina bude jejich odplata, alleluja
+_
+$Oremus
+v. Všemohoucí a milosrdný Bože, jenž jsi dal svatým Simeonovi a jeho druhům milost vytrvat ve víře až k mučednické smrti; uděl, prosíme, abychom, když s radostí slavíme jejich památku, naučili se ničemu nedávat přednost před láskou Krista, tvého Syna. 
+$Qui tecum

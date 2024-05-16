@@ -11,7 +11,12 @@ Antiphonas horas
 @CommuneCist/C1p
 
 [Capitulum Vespera]
-@CommuneM/C1p
+@CommuneCist/C1p::1-2
+_
+R.br. Sancti tui, Dómine, benedícent te. Allelúja, allelúja.
+R. Sancti tui, Dómine, benedícent te. Allelúja, allelúja.
+V. Glóriam regni tui dicent, et poténtiam tuam loquéntur.
+R. Allelúja, allelúja.
 
 [Hymnus Vespera]
 @CommuneM/C2
@@ -99,14 +104,26 @@ R. Allelúia, allelúia.
 [Hymnus Laudes]
 @Commune/C2:HymnusM Laudes
 
+[Capitulum Tertia]
+@CommuneCist/C1p:Capitulum Vespera:1-2
+
+[Capitulum Sexta]
+@CommuneCist/C1p
+
+[Capitulum Nona]
+@CommuneCist/C1p
+
 [Responsory Tertia]
-@Commune/C1p:Versum 1
+V. Exúltent justi in conspéctu Dei, allelúia.
+R. Et delecténtur in lætítia, allelúia.
 
 [Responsory Sexta]
-@Commune/C1p:Responsory Tertia:8-9
+V. Justórum ánimæ in manu Dei sunt, allelúia.
+R. Et non tanget illos torméntum mortis, allelúia.
 
 [Responsory Nona]
-@Commune/C1p:Responsory Sexta:8-9
+V. Gloriósus Deus in Sanctis suis, allelúia.
+R. Mirábilis in Majestáte sua, allelúia.
 
 [Versum 1]
 V. Justi in perpétuum vivent, allelúia.

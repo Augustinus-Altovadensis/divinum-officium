@@ -14,4 +14,4 @@ Psalmi feria
 @TemporaCist/Pasc5-4
 
 [Ant 3]
-@TemporaCist/Pasc5-4
+@TemporaCist/Pasc5-4:Ant 1

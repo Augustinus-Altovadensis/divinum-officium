@@ -1,7 +1,7 @@
 @Tempora/Pasc6-4
 
 [Rank]
-Feria V infra Octavam Ascensionis;;Feria;;2.1;;vide TemporaCist/Pasc5-4
+In Octava Ascensionis;;Feria;;3.1;;vide TemporaCist/Pasc5-4
 
 [Rule]
 Antiphonas horas

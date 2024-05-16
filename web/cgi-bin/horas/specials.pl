@@ -1172,7 +1172,7 @@ sub antetpsalm {
       $ant1 = $ant = '';
     }
   }
-  if ($hora =~ /Matutinum/i && $dayname[0] =~ /Pasc[1-6]/i) { ($ant1, $ant) = ant_matutinum($ant1, $ant, $ind); }
+  if ($hora =~ /Matutinum/i && $dayname[0] =~ /Pasc[1-6]/i) { ($ant1, $ant) = ant_matutinum_paschal($ant1, $ant, $ind); }
   $ant1 =~ s/\;\;[0-9\;n]+//;
   if ($ant1) { push(@s, "Ant. $ant1"); }
   my $p = $line[1];

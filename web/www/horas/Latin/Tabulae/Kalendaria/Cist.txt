@@ -91,7 +91,8 @@
 05-11=05-11=Ss. Pii V. Papæ et Confessoris=2=
 05-12=05-12=Ss. Nerei, Achillei et Domitillae Virgini atque Pancratii Martyrum=2=
 05-13=05-13=B. Dominici Zavřel, Martyris Ordinis Nostri=4=
-05-14=05-14=S. Pachomius Abbot=1=
+05-14=05-14=S. Pachomii, Abbatis=2=S. Bonifacii, Martyris=1=
+05-16=05-16=S. Johannis Nepomuceni, Martyris et Patroni Bohemiæ=6=Beatorum Martyrum de Casamari=2=
 05-19=05-19=S. Petri Celestini Papae Confessoris=1=
 05-25=05-25=S. Gregory VII Papae Confessoris=3=
 05-26=05-26=S. Augustini Episcopi Confessoris=3=
