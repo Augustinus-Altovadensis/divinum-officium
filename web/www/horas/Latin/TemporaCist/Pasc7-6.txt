@@ -1,5 +1,11 @@
 @Tempora/Pasc7-6
 
+[Rule]
+Psalmi feria 
+
+[Ant Laudes]
+@TemporaCist/Pasc7-0
+
 [Ant Matutinum]
 @Tempora/Pasc7-0::1 s/47/101/
 @Psalterium/Psalmi matutinum:Daym6:2-6 s/.*;;/;;/g

@@ -46,11 +46,14 @@ Touching these, what shall I say? Behold, the Pharisees themselves read of Chris
 &teDeum
 
 [Ant 2]
-I am the Door * saith the Lord, by Me if any man enter in, he shall be saved, and shall find pasture. Alleluia.
+Já jsem brána, * praví Pán: a pokud skrze mě někdo vstoupí, bude uzdraven, a nalezne pastvu, alleluja.
 
 [Oratio]
-O Lord, we beseech thee, that thy Holy Spirit may dwell in us in much power, mercifully cleansing our hearts, and shielding us from all things hurtful.
+Budiž s námi, prosíme, Pane, síla Ducha Svatého; jež naše srdce laskavě očistí, a ochrání ode všech protivenství.
 $Per Dominum eiusdem
 
 [Ant 3]
 Peace I leave with you, * My peace I give unto you; not as the world giveth, give I unto you. Alleluia.
+
+[Ant 3] (rubrica cisterciensis)
+Amen, pravím vám, * kdo nevstupuje vchodem do ovčína k ovcím, ale vleze tam jinudy, je zloděj a lotr; kdo však vstupuje vchodem, je pastýř těch ovcí, alleluja.
