@@ -1,0 +1,14 @@
+[Rank]
+Sv. Řehoře VII, Papeže a Vyznavače;;iij. Lect. et M.;;2;;vide C4
+
+[Rule]
+vide C4;
+CPapaM=Urbánum;
+
+[Oratio]
+Bože, sílo těch, kteří v tebe doufají, jenž jsi svatého Řehoře, svého Vyznavače a Biskupa, k ochraně svobody Církve vyzbrojil silou a stálostí; dej nám, na jeho příklad i přímluvu, abychom všechny nesnáze mocně překonali.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Urbana I., Papeže a Mučedníka
+@CommuneCist/C2:Oratio4:s/N\., tvého Mučedníka/Urbana, tvého Mučedníka a Biskupa/

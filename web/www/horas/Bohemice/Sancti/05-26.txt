@@ -7,7 +7,7 @@ vide C5;
 CPapaM=Eleutherius;
 
 [Oratio]
-O God, who hast exalted thy blessed Confessor Philip to the glory of thy saints be appeased and grant that as we rejoice in his feast we may profit by the example of his virtues.
+Bože, jenž jsi svatého Filipa, svého Vyznavače, vynesl do slávy svých Svatých, uděl laskavě, abychom, když se radujeme z jeho slavnosti, prospívali příkladem jeho ctností.
 $Per Dominum
 
 [Commemoratio]

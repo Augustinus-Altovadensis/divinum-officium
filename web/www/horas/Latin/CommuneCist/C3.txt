@@ -75,6 +75,18 @@ R. Illi autem sunt in pace
 _
 @Commune/C3:Responsory Sexta:1-6
 
+[Oratio]
+@Commune/C3
+
+[Oratio1]
+@Commune/C3
+
+[Oratio2]
+@Commune/C3
+
+[Oratio3]
+@Commune/C3
+
 [Responsory Tertia]
 @Commune/C3:Versum 1
 

@@ -1,6 +1,9 @@
 [Rank]
 Die II infra octavam Pentecostes;;Duplex I classis;;7;;ex Pasc7-0
 
+[Rank] (rubrica cisterciensis)
+Feria II. infra Octavam Pentecostes;;Duplex I classis;;7;;ex Pasc7-0
+
 [Rule]
 ex Pasc7-0;
 1 nocturn;

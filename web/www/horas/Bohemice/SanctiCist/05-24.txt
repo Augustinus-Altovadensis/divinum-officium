@@ -1,0 +1,6 @@
+[Rank]
+Sv. Donatiána a Rogatiána, Mučedníků;;Commemoratio;;1;;vide C3
+
+[Oratio]
+Bože, jenž nám popřáváš svatých mučedníků tvých Donatiána a Rogatiána narozeniny slaviti, dej, ať se z jejich společnosti radujeme v blaženosti věčné.
+$Per Dominum

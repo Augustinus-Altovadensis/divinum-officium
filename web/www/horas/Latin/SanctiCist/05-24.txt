@@ -1,0 +1,6 @@
+[Rank]
+S. Donatiani et Rogatiani, Martyrum;;Commemoratio;;1;;vide C3
+
+[Oratio]
+Deus, qui nos concédis sanctórum Mártyrum tuórum Donatiáni et Rogatiácerto ni natalítia cólere, da nobis in ætérna beatitúdine de eórum societáte gaudére.
+$Per Dominum

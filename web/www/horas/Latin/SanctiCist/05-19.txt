@@ -1,5 +1,9 @@
 [Rank]
-S. Petri Celestini Papæ et Confessoris;;Simplex;;1.1;;vide C4
+S. Petri Cœlestini, Papæ et Confessoris;;iij. Lect. et M.;;2;;vide C4
 
 [Oratio]
-@Sancti/05-19
+@CommuneCist/C4:Oratio1:s/N./Petri Cœlestíni/
+
+[Commemoratio]
+!Commemoratio S. Pudentianæ, Virginis
+@CommuneCist/C6:Oratio pro Virgine non Martyre:s/N./Pudentiánæ, Vírginis tuæ,/

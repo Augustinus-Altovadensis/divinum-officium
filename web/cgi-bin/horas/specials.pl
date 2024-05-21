@@ -1731,6 +1731,8 @@ if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ 
   our %prayers;
 	my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
   $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
+  my $substitutions = $4;
+  do_inclusion_substitutions($o, $substitutions);
   $o =~ s/^(?:v. )?/v. /;
   $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus\n$o\n";
   return $w;

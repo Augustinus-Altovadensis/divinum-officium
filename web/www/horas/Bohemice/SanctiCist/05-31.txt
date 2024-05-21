@@ -1,0 +1,6 @@
+[Rank]
+Sv. Petronily, Panny;;Commemoratio;;1;;vide C6
+
+[Oratio]
+@CommuneCist/C6:Oratio pro Virgine non Martyre:s/N\./Petronily, tvé Panny/
+

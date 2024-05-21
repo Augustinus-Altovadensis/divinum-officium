@@ -1,4 +1,11 @@
-@Sancti/05-28
+@Sancti/05-26
+[Rank]
+S. Philippi Neri Confessoris;;iij. Lect. et M.;;2;;vide C5
 
-[MM Capitulum]
-@Psalterium/Matutinum Special:MM Capitulum C5
+[Rule]
+vide C5;
+CPapaM=Eleuthérium;
+
+[Commemoratio]
+!Commemoratio S. Eleutherii Papæ et Martyris
+@CommuneCist/C2:Oratio:s/N\./Eleuthérii/

@@ -1,0 +1,6 @@
+[Rank]
+Sv. Felixe, Papeže a Mučedníka;;Commemoratio;;1;;vide C2
+
+[Oratio]
+@CommuneCist/C2:Oratio:s/N\./Felixe/
+

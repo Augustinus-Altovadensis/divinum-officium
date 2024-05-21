@@ -1,0 +1,9 @@
+[Rank]
+Sv. Petra Celestýna, Papeže a Vyznavače;;iij. Lect. et M.;;2;;vide C4
+
+[Oratio]
+@CommuneCist/C4:Oratio1:s/N\./Petru Celestýnovi/
+
+[Commemoratio]
+!Připomínka Sv. Pudenciány, Panny
+@CommuneCist/C6:Oratio pro Virgine non Martyre:s/N\./Pudenciány, tvé Panny/

@@ -195,6 +195,10 @@ $Per Dominum.
 Přímluva svatého N., Opata, prosíme, Pane, nechť nás doporoučí, abychom toho, čeho svými zásluhami nejsme schopni, s jeho pomocí dosáhli.
 $Per Dominum
 
+[Oratio2]
+Vyslyš, Pane, naše prosby, které na slavnost svatého N., tvého Vyznavače, vznášíme: abychom, třebaže nemáme důvěru v zjednání své spravedlnosti, jeho prosbami, neboť se ti zalíbil, se nám dostane pomoci.
+$Per Dominum.
+
 [Lectio Prima]
 !Wis 10:10
 v. 10,10 Moudrost vedla spravedlivého po přímých stezkách, když utíkal před rozhněvaným bratrem. Ukázala mu Boží království a dala mu poznat svaté věci. V trápeních mu darovala úspěch, jeho námahy ověnčila zdarem.

@@ -4,6 +4,9 @@ Feria Quarta Quattuor Temporum Pentecostes;;Semiduplex I classis;;6.9;;ex Pasc7-
 [Rank] (rubrica 1960)
 Feria Quarta Quattuor Temporum Pentecostes;;Semiduplex I classis;;6;;ex Pasc7-0
 
+[Rank] (rubrica cisterciensis)
+Feria Quarta Quattuor Temporum Pentecostes;;Semiduplex I classis;;2.1;;ex Pasc7-0
+
 [Rule]
 ex Pasc7-0;
 1 nocturn;

@@ -1,7 +1,14 @@
-@Sancti/05-25
+[Rank]
+S. Gregorii VII, Papæ et Confessoris;;iij. Lect. et M.;;2;;vide C4
 
-[MM Capitulum]
-@Psalterium/Matutinum Special:MM Capitulum C5
+[Rule]
+vide C4;
+CPapaM=Urbánum;
 
-[Ant 3]
-@Commune/C4:Ant 3 summi Pontificis
+[Oratio]
+Deus, in te sperántium fortitúdo, qui beátum Gregórium Confessórem tuum atque Pontíficem, pro tuénda Ecclésiæ libertáte, virtúte constántiæ roborásti: da nobis, ejus exémplo et intercessióne, ómnia adversántia fórtiter superáre.
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio S. Urbani I, Papæ et Martyris
+@CommuneCist/C2:Oratio4:s/N\., Mártyris tui/Urbáni, Mártyris tui atque Pontíficis/

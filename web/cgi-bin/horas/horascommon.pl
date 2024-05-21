@@ -289,8 +289,8 @@ sub occurrence {
 	}
 	
   # CHECK!
-  # Because xij. Lect. et M. (rank=3) overcome a Sunday (rank=5), following change 
-  # has been done: 'if ($version =~ /Trid|Cistercien/i' to this:
+  # Because xij. Lect. et M. (rank=3) overcome a Sunday (rank=5), which is unacceptable, following change has been done: 
+  # 'if ($version =~ /Trid|Cistercien/i' to this:
 	if ($version =~ /Trid/i && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i) || $trank[0] =~ /infra octavam Corp/i)) { $trank[2] = 2.9; $trank[2] = 3.9 if ($version =~ /Cistercien/i);} # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
 	elsif ($version =~ /divino/i && ($trank[2] < 5.1 && $trank[0] =~ /Dominica/i)) { $trank[2] = 4.9; }
 	elsif ($version =~ /196/ && $tname =~ /Nat1/i && $day > 28) {	# commemoration of the Christmas Octave according to the rubrics
