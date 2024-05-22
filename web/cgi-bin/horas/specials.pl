@@ -961,23 +961,10 @@ sub psalmi_major {
     }
   } if ($version =~ /Cistercien/i) {
     my $head = "Dayc$dayofweek";
-    if ($hora =~ /Laudes/i) {
-      if ($rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 4 && $dayname[1] !~ /vigil/i)) { $head = 'DaycF'; }
+    if ( $hora =~ /Laudes/i && ( $rule =~ /Psalmi Dominica/ || ($winner =~ /Sancti/i && $rank >= 3 && $dayname[1] !~ /vigil/i))) { $head = 'DaycF'; }
       #if ($dayname[0] =~ /Pasc/i && $head =~ /Dayc0/i) { $head = 'DaycP'; } # this uses Psalmi de Festis automatically on every Paschal Sunday, which is no longer practiced in Vyšší Brod.
-      if ($rule =~ /Psalmi Feria/i) { $head = "Dayc$dayofweek"; }
-    }
+    if ($rule =~ /Psalmi Feria/i) { $head = "Dayc$dayofweek"; }
     @psalmi = split("\n", $psalmi{"$head $hora"});
-
-    if ($hora =~ /Laudes/i && $head =~ /Dayc[1-6]/) {
-      unless ( (($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
-               || (($dayname[0] =~ /Quad\d/) && ($dayname[1] =~ /Feria/))
-               || ($dayname[1] =~ /Quattuor Temporum Septembris/)
-               || (($dayname[0] =~ /Pent/) && ($dayname[1] =~ /Vigil/)))
-      {
-        my @canticles = split("\n", $psalmi{'DaycF Canticles'});
-        $psalmi[3] = $canticles[$dayofweek];
-      }
-    }
   } elsif ($version =~ /Trident/i
     && $testmode =~ /seasonal/i
     && $winner =~ /Sancti/i
