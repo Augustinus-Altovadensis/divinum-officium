@@ -488,12 +488,12 @@ sub occurrence {
 					
 			if ($version =~ /196/i) {
 				$officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $srank[2] < 2) || ($climit1960 == 2);
-			} elsif ($version !~ /trident/i && $trank[2] >= 6) {
+			} elsif ($version !~ /trident|Cistercien/i && $trank[2] >= 6) {
 				$officename[2] =~ s/:/ ad Laudes tantum:/ if $srank[2] < 4.2 && $srank[2] != 2.1 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i && $tname !~ /Adv|Quad/i;
 			} elsif ($laudesonly) {
 				$officename[2] =~ s/:/ $laudesonly:/;
 			} else {
-				$officename[2] =~ s/:/ ad Laudes \& Matutinum:/ if $trank[2] >= 5 && $srank[2] < 2 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i && $tname !~ /Adv|Quad/i;
+				$officename[2] =~ s/:/ ad Laudes \& Matutinum:/ if $trank[2] >= 5 && $srank[2] < 2 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i && $tname !~ /Adv|Quad/i && $version !~ /Cistercien/i;
 			}
 					
 			if ($version =~ /196/i && $officename[2] =~ /Januarii/i) { $officename[2] = ''; }
@@ -848,7 +848,7 @@ sub concurrence {
 				unless ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || $version =~ /1955|196/) { push(@comentries, $commemo); }
 			}
 		}
-		@ccommemoentries = @comentries;
+		@ccommemoentries = @comentries unless $version =~ /Cistercien/i;
 		
 		# In Occurence (i.e. today): Simplex end after None.
 		$ranklimit =  ($wrank[0] =~ /Dominica|feria|in.*octava/i) ? 2 : ($rank >= 6 && $version !~ /trident/i) ? 4.2 : $rank >= 5 ? 2.1 : 2;
