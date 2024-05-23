@@ -1,5 +1,5 @@
 [Rank]
-Ss. Nerei, Achillei et Domitillae Virginis atque Pancratii Martyrum;;Semiduplex;;2;;vide C3
+Sv. Nerei, Achillea a Domicily, Panny, a Pankráce, Mučedníků;;Semiduplex;;2;;vide C3
 
 [Rank1570]
 Ss. Nereus, Achilleus and Pancras martyrs;;Simplex;;1.1;;vide C3
@@ -9,7 +9,7 @@ vide C3;
 9 lectiones
 
 [Oratio]
-May the blessed and solemn remembrance of thy Martyrs Nereus, Achilles, Domitilla, and Pancras, making our hearts to burn within us, may cause us to be more meet for thy service.
+Vždy ať nás, Pane, prosíme, těší blažená slavnost tvých Mučedníků Nerea, Achillea, Domicily a Pankráce, a obnoví nás v náležité úctě k tobě.
 $Per Dominum
 
 [Lectio4]

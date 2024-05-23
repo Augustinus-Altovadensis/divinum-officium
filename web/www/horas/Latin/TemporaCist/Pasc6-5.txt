@@ -1,7 +1,7 @@
 @Tempora/Pasc6-5
 
 [Rank]
-Feria VI post Octavam Ascensionis;;Feria;;3.1;;vide TemporaCist/Pasc5-4
+Feria VI post Octavam Ascensionis;;Feria;;3.1;;vide TemporaCist/Pasc6-0
 
 [Rule]
 Antiphonas horas
@@ -13,6 +13,10 @@ Psalmi feria
 [Ant Laudes]
 @TemporaCist/Pasc5-4
 
-[Ant 3]
-@TemporaCist/Pasc5-4
+[Hymnus Laudes]
+@TemporaCist/Pasc5-4:HymnusC Laudes
+
+[Hymnus Vespera]
+@TemporaCist/Pasc5-4:HymnusM Vespera
+
 

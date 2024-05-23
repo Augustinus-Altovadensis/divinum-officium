@@ -7,15 +7,24 @@ Dominica post Ascensionem;;Semiduplex;;5;;vide TemporaCist/Pasc5-4
 12 lectiones
 Doxology=Asc
 
-[Capitulum Vespera]
-@Tempora/Pasc6-0
-_
-@Tempora/Pasc5-4:Responsory Sexta:1-6
+[Ant Vespera]
+@TemporaCist/Pasc5-4
 
-[Capitulum Laudes]
-@Tempora/Pasc6-0
+[Capitulum Vespera]
+@Tempora/Pasc6-0::s/Carí/Charí/
 _
 @Tempora/Pasc5-4:Responsory Tertia:1-6
+
+[Ant Laudes]
+@TemporaCist/Pasc5-4
+
+[Capitulum Laudes]
+@Tempora/Pasc6-0:Capitulum Vespera:s/Carí/Charí/
+_
+@Tempora/Pasc5-4:Responsory Nona:1-6
+
+[Versum 2]
+@:Versum 1
 
 [Lectio1]
 @Tempora/Pasc6-0:Lectio1:1-5 s/-5/-3/

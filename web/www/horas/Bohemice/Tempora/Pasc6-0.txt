@@ -11,15 +11,15 @@ Doxology=Asc
 StJamesRule=John,Rev
 
 [Capitulum Vespera]
-!1 Peter 4:7-8
-v. My beloved: Be prudent, therefore, and watch in prayers. But before all things have a constant mutual charity among yourselves: for charity covereth a multitude of sins.
+!1 Petrův 4:7-8
+v. Nejmilejší, buďte moudří a bděte na modlitbách. Především se mějte navzájem vroucně rádi, protože láska přikrývá mnohé hříchy.
 $Deo gratias
 
 [Ant 1]
-But when the Comforter is come * Whom I will send unto you from the Father, He shall testify of Me, alleluia.
+Až přijde * Utěšitel, kterého vám sešlu, co Ducha pravdy, který z Otce vychází, on bude vydávat svědectví o mě, alleluja.
 
 [Oratio]
-O Almighty and everlasting God, grant that our will be ever meekly subject unto thy will, and our heart ever honestly ready to serve thy majesty. 
+Všemohoucí, věčný Bože; učiň, abychom tobě vždy oddaně podřizovali svou vůli, a zároveň tvé Vznešenosti sloužili s upřímným srdcem. 
 $Per Dominum
 
 [Commemoratio 1]
@@ -106,14 +106,14 @@ Then saith the Lord, as though in continuation "But when the Comforter is come, 
 @:Capitulum Vespera
 
 [Capitulum Sexta]
-!1 Peter 4:9-10
-v. Using hospitality one towards another, without murmuring, as every man hath received grace, ministering the same one to another: as good stewards of the manifold grace of God.
+!1. Petrův 4:9-10
+v. Buďte jeden k druhému pohostinní bez reptání. Navzájem si pomáhejte podle toho, jakou jste přijali Boží milost, jako dobří správcové rozmanité Boží milosti.
 $Deo gratias
 
 [Capitulum Nona]
 !1 Peter 4:11
-v. If any man speak, let him speak, as the words of God. If any man minister, let him do it, as of the power, which God administereth: that in all things God may be honoured through Jesus Christ our Lord.
+v. 4,11 Kdo má dar řeči, (ať si je vědom, že přednáší) slovo Boží. Kdo slouží, ať to dělá v síle, kterou udílí Bůh, aby ve všem byl oslavován Bůh skrze Ježíše Krista, našeho Pána.
 $Deo gratias
 
 [Ant 3]
-These things have I told * you, that, when the time shall come, ye may remember that I told you of them, alleluia.
+Tyto věci jsem vám řekl, * aby, až přijde jejich čas, jste se na ně rozpomněli, že jsem vám je říkal, alleluja.

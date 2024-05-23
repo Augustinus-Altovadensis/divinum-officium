@@ -1,7 +1,5 @@
-@Tempora/Pasc6-6
-
 [Rank]
-In Vigilia Pentecostes;;I classis Semiduplex;;7;;vide TemporaCist/Pasc5-4
+In Vigilia Pentecostes;;I classis Semiduplex;;7;;vide TemporaCist/Pasc6-0
 
 [Rule]
 Antiphonas horas
@@ -9,6 +7,9 @@ Psalmi feria
 
 [Ant Laudes]
 @TemporaCist/Pasc5-4
+
+[Hymnus Laudes]
+@TemporaCist/Pasc5-4:HymnusC Laudes
 
 [Lectio1]
 @:Lectio7
