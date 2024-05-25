@@ -16,13 +16,16 @@ Responsorium. Honor, * virtus, et potéstas, et impérium sit Trinitáti in Unit
 V. Trinitáti lux perénnis, Unitáti sit decus pérpetim.
 R. In perénni sæculórum témpore.
 
-[Oratio]
-@Tempora/Pent01-0:Oratio
+[Ant Laudes]
+O beáta, * et benedícta, et gloriósa Trínitas, Pater, et Fílius, et Spíritus sanctus: tibi laus, tibi glória, tibi gratiárum áctio.
 
 [Capitulum Laudes]
 @Tempora/Pent01-0
 _
-@Tempora/Pent01-0:Responsory Tertia:1-6
+R.br. Benedícat nos Deus, Deus noster, * Benedícat nos Deus.
+R. Benedícat nos Deus, Deus noster, * Benedícat nos Deus.
+V. Et métuant eum omnes fines terræ.
+R. Benedícat nos Deus.
 
 [Hymnus Laudes]
 @Tempora/Pent01-0:HymnusM Vespera
@@ -37,7 +40,7 @@ _
 @Tempora/Pent01-0:Responsory Sexta:8-9
 
 [Capitulum Vespera 3]
-@Tempora/Pent01-0
+@Tempora/Pent01-0:Capitulum Vespera
 _
 @Tempora/Pent01-0:Responsory Sexta:1-6
 
