@@ -1230,7 +1230,7 @@ sub oratio {
     %w = %{setupstring($lang, subdirname('Tempora', $version) . "$name.txt")};
   }
 
-	if ($dayofweek > 0 && exists($w{"OratioW"}) && $rank < 5) {
+	if ($dayofweek > 0 && exists($w{"OratioW"} ) && $rank < 5 && $version !~ /Cistercien/i ) {
 		$w = $w{"OratioW"};	# Ferias in 1st week after Pentecost only
   } else {
     $w = $w{"Oratio"};

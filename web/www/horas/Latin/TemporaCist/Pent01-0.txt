@@ -4,8 +4,39 @@
 12 lectiones
 Psalmi Dominica
 Antiphonas horas
+No Commemoration
+
+[Ant Vespera]
+@Tempora/Pent01-0::1-4:s/in sæculórum sǽcula./in sǽcula sæculórum./
 
 [Capitulum Vespera]
+@Tempora/Pent01-0
+_
+Responsorium. Honor, * virtus, et potéstas, et impérium sit Trinitáti in Unitáte, Unitáti in Trinitáte. * In perénni sæculórum témpore.
+V. Trinitáti lux perénnis, Unitáti sit decus pérpetim.
+R. In perénni sæculórum témpore.
+
+[Oratio]
+@Tempora/Pent01-0:Oratio
+
+[Capitulum Laudes]
+@Tempora/Pent01-0
+_
+@Tempora/Pent01-0:Responsory Tertia:1-6
+
+[Hymnus Laudes]
+@Tempora/Pent01-0:HymnusM Vespera
+
+[Responsory Tertia]
+@:Versum 1
+
+[Responsory Sexta]
+@Tempora/Pent01-0:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Tempora/Pent01-0:Responsory Sexta:8-9
+
+[Capitulum Vespera 3]
 @Tempora/Pent01-0
 _
 @Tempora/Pent01-0:Responsory Sexta:1-6
@@ -102,19 +133,3 @@ R. Tibi glória in sǽcula.
 [Responsory12]
 @Tempora/Pent01-0:Responsory8
 
-[Capitulum Laudes]
-@Tempora/Pent01-0
-_
-@Tempora/Pent01-0:Responsory Tertia:1-6
-
-[Hymnus Laudes]
-@Tempora/Pent01-0:HymnusM Vespera
-
-[Responsory Tertia]
-@:Versum 1
-
-[Responsory Sexta]
-@Tempora/Pent01-0:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Tempora/Pent01-0:Responsory Sexta:8-9

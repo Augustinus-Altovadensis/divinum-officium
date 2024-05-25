@@ -12,36 +12,36 @@ Psalm5 Vespera3=113
 Prima=53
 
 [Ant Vespera]
-Glory be to thee, O equal Trinity * one Deity, from before all ages, so now and for evermore.
-Praise and endless glory be * to God the Father, the Son, and the Holy Paraclete, for ever and ever.
-Let the glory of praise * be heard from the mouth of all to the Father, and to the begotten Son; let it equally resound with perpetual praise to the Holy Spirit.
-Praise be to God the Father, * and to his co-equal Son, and to thee, O Holy Ghost: with perpetual delight may it resound from our lips for ever.
-From whom are all things, * through whom are all things, and in whom are all things: to him be glory for evermore.
+Sláva buď tobě, Trojice * rovnocenná, jedno Božství, a odvěká, nyní i navěky.
+Chvála a věčná sláva * Bohu Otci, a Synu, stejně i svatému Utěšiteli, na věky věkův.
+Sláva chvály * ať zaznívá z úst všech, Otci, zrozenému Synu, též Svatému Duchu ať zaznívá věčnou chválou.
+Chvála buď Bohu Otci, * a jeho spolu-rovnému Synu, i tobě, Svatý, skutky věčný, Duchu, ať zaznívá z našich úst, po všechny věky.
+Z něj je všechno, * skrze něj je všechno, a v něm je všechno: jemu buď sláva navěky.
 
 [Versum 1]
-V. Bless we the Father, and the Son, and the Holy Ghost.
-R. Let us praise Him and exalt Him above all for ever.
+V. Dobrořečme Otci, i Synu, i Duchu svatému.
+R. Chvalme a oslavujme jej navěky.
 
 [Ant 1]
-Thanks be * to thee, O God, thanks be unto thee, O True and One Trinity, O one almighty Deity, Holy and One Unity.
+Díky tobě, Bože, * díky tobě, pravá a jediná Trojice, jedno a nejvyšší Božství, svatá a jediná Jednoto.
 
 [Oratio]
 Všemohoucí věčný Bože, jenž jsi dal svým služebníkům vyznání pravé víry, aby poznali slávu věčné Trojice, a ve vznešené moci se klaněli Jednotě; prosíme, abychom v síle této víry chráněni byli od každé nepřízně.
 $Per Dominum
 
 [OratioW]
-O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.
+Bože, sílo těch, kteří v tebe doufají, vyslyš laskavě naše volání; a protože bez tebe nic nezmůže smrtelná slabost, uděl pomoc své milosti, abychom ve vykonávání tvých přikázání líbili se tobě vůli i skutky.
 $Per Dominum
 
 [Commemoratio 1]
-!Commemoratio Dominica I post Pentecostem
-Ant. Speak, Lord, for thy servant heareth.
+!Připomínka První Neděle po Svatém Duchu
+Ant. Mluv, Pane, tvůj služebník poslouchá.
 _
-V. Let the evening prayer ascend unto thee, O Lord.
-R. And let there descend upon us thy mercy.
+V. Večerní modlitba ať vystoupá k tobě, Pane.
+R. A sestoupí na nás tvé milosrdenství.
 _
 $Oremus.
-O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.
+Bože, sílo těch, kteří v tebe doufají, vyslyš laskavě naše volání; a protože bez tebe nic nezmůže smrtelná slabost, uděl pomoc své milosti, abychom ve vykonávání tvých přikázání líbili se tobě vůli i skutky.
 $Per Dominum
 
 [Invit]
