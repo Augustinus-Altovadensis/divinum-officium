@@ -1,6 +1,13 @@
 [Rank]
-S. Joannis, Papæ et Martyris;;Commemoratio;;1;;vide C2
+S. Bedæ, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;2;;vide C5
+
+[Ant 1]
+@Commune/C4a::s/N\./Beda/
 
 [Oratio]
-@CommuneCist/C2:Oratio1:s/N\./Joánnis/
+Deus, qui Ecclésiam tuam Beáti Bedae Confessóris tui atque Doctóris eruditióne claríficas: * concéde propítius fámulis tuis; § ejus semper illustrári sapiéntia et méritis adjuvári. * 
+$Per Dominum
 
+[Commemoratio]
+!Commemoratio S. Joannis, Papæ et Martyris
+@CommuneCist/C2:Oratio1:s/N\./Joánnis/
