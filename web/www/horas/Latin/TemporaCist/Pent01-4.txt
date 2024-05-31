@@ -44,14 +44,28 @@ R. Et de petra, melle saturávit eos.
 [Ant 2]
 Benedíctus sit * Creátor, et Redémptor fidélium, qui memor testaménti sui sancti, quo promíserat datúrum se nobis, visitávit nos óriens ex alto: et in cruce moritúrus pro nobis, relíquit pignus amóris imménsi, donans nobis sui Córporis et Sánguinis pretiosíssimum Sacraméntum.
 
+[Ant Prima]
+In mundi * primórdiis homo primus mortis escam suis pósteris propinávit, sed secúndus, qui de cœlo venit, mundis corde se tríbuit escam vitæ.
+
+[Ant Tertia]
+Gustáte * cuncti fideles, quam dulcis est Dóminus, nobis Corpus suum hora tértia crucifíxum pro mundi salúte in salvíficum cibum tríbuens in Altári: omnes ipsum adorémus, qui venit salváre nos.
+
 [Responsory Tertia]
-@:Versum 1
+V. Miséricors et miserátor Dóminus.
+R. Escam dédit timéntibus se.
+
+[Ant Sexta]
+O lux * meridiána, illúminans ómnia, irrádia corda nostra ad tanti Sacraménti mystéria cognoscénda.
 
 [Responsory Sexta]
-@Tempora/Pent01-4:Responsory Tertia:8-9
+V. Omnia a te expéctant, Dómine.
+R. Ut des illis escam in témpore.
+
+[Ant Nona]
+O pastor bone, * qui relíctis nonagínta novem óvibus in desérto, ad gregem ovem pérditam reportásti, pasce nos tui sacri Córporis aliménto.
 
 [Responsory Nona]
-@Tempora/Pent01-4:Responsory Sexta:8-9
+@Tempora/Pent01-4:Responsory Sexta:8-9:s/[,.] Allel[uú][ij]a//ig
 
 [Capitulum Vespera 3]
 @Tempora/Pent01-4:Capitulum Vespera
@@ -60,6 +74,12 @@ R.br. Cibávit eos Dóminus *  ex ádipe fruménti.
 R. Cibávit eos Dóminus *  ex ádipe fruménti.
 V. Et de petra, melle saturávit eos.
 R. Ex ádipe fruménti.
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+O Sacraméntum * pietátis, o signum unitátis, o vínculum charitátis, nos in via refíciens sub aliéna spécie; post preséntis vitæ cursum réfice nos in pátria, jam reveláta fácie sine spécie média, allelúia.
 
 [Ant Matutinum]
 @Tempora/Pent01-4::1-3
