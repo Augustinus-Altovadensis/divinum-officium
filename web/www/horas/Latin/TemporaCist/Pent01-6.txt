@@ -1,5 +1,5 @@
-@Tempora/Pent01-6
+@TemporaCist/Pent01-5
 
 [Rank]
-Sabbato infra Hebdomadam I post Octavam Pentecostes;;Feria;;1
+Sabbato infra octavam Corporis Christi;;Infra Octavam Minorem;;2.9;;ex TemporaCist/Pent01-4
 

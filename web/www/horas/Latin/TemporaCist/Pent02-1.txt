@@ -1,4 +1,4 @@
-@Tempora/Pent02-1
+@TemporaCist/Pent01-5
 
 [Rank]
-Feria II infra Hebdomadam II post Octavam Pentecostes;;Feria;;1
+Feria ij. infra octavam Corporis Christi;;Infra Octavam Minorem;;2.9;;ex TemporaCist/Pent01-4

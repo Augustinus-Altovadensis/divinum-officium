@@ -1,30 +1,16 @@
 [Rank]
-Dominica II. Post Pentecosten infra Octavam Corporis Christi;;Semiduplex I classis;;5.9;;ex Tempora/Pent01-4
-
-[Rank1960]
-Dominica II. Post Pentecosten;;Semiduplex I classis;;5.9
-
-[Rule]
-9 lectiones
-Psalmi Dominica
-Antiphonas horas
-Doxology=Corp
-
-[Capitulum Vespera]
-!1. Jan 3:13-14
-v. Nejdražší, nic se nedivte, že svět vás nenávidí. My víme, že jsme přešli ze smrti do života, a proto milujeme bratry. 
-$Deo gratias
+Neděle v Oktávu, jenž jest II. Po Svatém Duchu;;Semiduplex I classis;;5;;
 
 [Versum 1]
-V. Krmil je jadrnou pšenicí. Alleluia.
-R. A medem ze skýly je nasytil. Alleluia.
+V. Chléb z nebe dal jim.
+R. Chléb Andělů jedl člověk
 
 [Ant 1]
-Chlapec Samuel * sloužil Bohu před Elim, a slovo Páně bylo před ním drahé.
+Poznali všichni * od Danu do Ber Šeby, že věrný Samuel je Prorok Páně.
 
-[Oratio]
-Svatý Bože, dej, ať jsme naplněni úctou a láskou k tobě; vždyť ty nás stále miluješ, staráš se o nás jako  Otec a nikdy nás nepřestáváš vést.
-$Per Dominum
+[Commemoratio]
+!Připomínka Oktávu Těla Páně
+@TemporaCist/Pent01-4:Oratio
 
 [Lectio1]
 Lesson from the first book of Samuel
@@ -82,24 +68,5 @@ R. Neboť vše již je připraveno.
 [Lectio9]
 Proto my, narozeni v toto bědné putování, když jsme sem přišli již znechuceni, nevíme, po čem bychom měli toužit. Tím více se rozšiřuje nemoc našeho nechutenství, čím více se náš duch vzdaluje od tohoto sladkého pokrmu. A proto vnitřní pochoutky náš duch nezakouší, neboť již dávno zapomněl, že by je měl přijímat. - Umdléváme tedy ve svém nechutenství a unavuje nás mor dlouhých postů. A protože uvnitř nechceme ochutnat sladkost, která je nám připravena, milujeme  svůj vnější hlad, my ubožáci.
 &teDeum
-
-[Versum 2]
-V. Dal jim chléb nebeský, alleluja.
-R. Člověk jedl chléb andělský, alleluja.
-
-[Ant 2]
-Jeden člověk připravil k večeři velikou hostinu, * a v čas večeře poslal svého služebníka, aby vybídl pozvané, aby přišli. Neboť vše již je připraveno.
-
-[Lectio Prima]
-!1 Jan 3:18
-v. Synáčkové moji, nemilujme jen slovem a jazykem, ale činem, doopravdy!
-
-[Capitulum Sexta]
-!1 Jan 3:16
-v. Z toho jsme poznali Lásku: že Kristus za nás položil svůj život. Také my jsme povinni položit život za své bratry.
-$Deo gratias
-
-[Ant 3]
-Vyjdi rychle * do náměstí a ulic města; a přiveď všechny chudé a nemocné, slepá a chromé, aby se naplnil můj dům, alleluja.
 
 

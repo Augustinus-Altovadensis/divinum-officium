@@ -1,5 +1,5 @@
-@Tempora/Pent02-4
+[Rank] 
+In Octava Sanctissimi Corporis Christi;;Duplex majus;;5;;ex TemporaCist/Pent01-4
 
-[Rank]
-Feria V infra Hebdomadam II post Octavam Pentecostes;;Feria;;1
-
+[Capitulum Vespera]
+@TemporaCist/Pent01-4:Capitulum Vespera 3

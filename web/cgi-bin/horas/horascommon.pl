@@ -96,7 +96,7 @@ sub occurrence {
 				$transfer =~ s/TemporaM?/TemporaM/; 	# modify path to Monastic Tempora folder if necessary
       }
       elsif ($version =~ /Cistercien/i) {
-        $transfer =~ s/Tempora/TemporaCist/;   # modify path to Cistercian Tempora folder if necessary
+        $transfer =~ s/Tempora(?:Cist)?/TemporaCist/;   # modify path to Cistercian Tempora folder if necessary
 			}
 		}
 	}

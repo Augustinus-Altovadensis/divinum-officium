@@ -1,10 +1,43 @@
-@Tempora/Pent02-0r
+@Tempora/Pent02-0
 
 [Rank]
-Dominica II Post Pentecosten;;Semiduplex II classis;;5
+Dominica infra Octavam, quæ est II. Post Pentecosten;;Semiduplex II classis;;5
 
 [Rule]
 12 lectiones
+
+[Ant Vespera]
+@TemporaCist/Pent01-4
+
+[Capitulum Vespera]
+@Tempora/Pent02-0::s/Carí/Charí/
+_
+@TemporaCist/Pent01-4:Capitulum Vespera 3:3-6
+
+[Versum 1]
+V. Panem cœli dedit eis.
+R. Panem Angelórum manducávit homo.
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Ant 1]
+Cognovérunt omnes * a Dan usque Bersabée, quod fidélis Sámuel Prophéta esset Dómini.
+
+[Commemoratio]
+!Commemoratio de Octava Corporis Christi
+@TemporaCist/Pent01-4:Oratio
+
+[Capitulum Laudes]
+@Tempora/Pent02-0:Capitulum Vespera:s/Carí/Charí/
+_
+@TemporaCist/Pent01-4:Capitulum Laudes:3-6
+
+[Hymnus Laudes]
+@Tempora/Pent01-4
 
 [Lectio1]
 @Tempora/Pent01-1
