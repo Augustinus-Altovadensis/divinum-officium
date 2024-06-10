@@ -1,2 +1,5 @@
 @Sancti/06-11
 
+[Rank]
+S. Barnabæ Apostoli;;MM. maj.;;5;;ex C1
+

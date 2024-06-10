@@ -1,7 +1,10 @@
-@Tempora/Pent03-0r
+@Tempora/Pent03-0o
 
 [Rule]
 12 lectiones
+
+[Ant 1]
+Præváluit David * in Philisthæum in funda et lápide in nómine Dómini.
 
 [Lectio1]
 @Tempora/Pent03-0:Lectio1:1-5 s/-21/-20/

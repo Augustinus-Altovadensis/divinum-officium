@@ -1,0 +1,5 @@
+[Rank]
+S. Medardi, Episcopi et Confessoris;;Commemoratio;;1;;vide C4
+
+[Oratio]
+@CommuneCist/C4::s/N\./Medárdi/

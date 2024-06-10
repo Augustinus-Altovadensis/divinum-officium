@@ -1,0 +1,5 @@
+[Rank]
+S. Claudii, Episcopi et Confessoris;;Commemoratio;;1;;vide C4
+
+[Oratio]
+@CommuneCist/C4:Oratio1:s/N\./Cláudii/

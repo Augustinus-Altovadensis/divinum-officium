@@ -1,4 +1,4 @@
-@Tempora/Pent02-5
+@Tempora/Pent02-5o
 
 [Rank]
 Sanctissimi Cordis Domini Nostri Jesu Christi;;Duplex I classis;;6
@@ -7,6 +7,8 @@ Sanctissimi Cordis Domini Nostri Jesu Christi;;Duplex I classis;;6
 12 lectiones
 Psalmi Dominica
 Antiphonas horas
+No prima vespera
+
 
 [Doxology]
 Glória tibi Dómine,
@@ -15,10 +17,34 @@ Cum Patre, et Sancto Spíritu,
 In sempitérna sǽcula.
 Amen.
 
-[Capitulum Vespera]
-@Tempora/Pent02-5
+[Ant Laudes]
+@:Ant Vespera 3:s/;;.*//g
+
+[Capitulum Laudes]
+@Tempora/Pent02-5o
 _
-@Tempora/Pent02-5:Responsory Sexta:1-6
+@Tempora/Pent02-5o:Responsory Nona:1-6
+
+[Responsory Tertia]
+@Tempora/Pent02-5o:Responsory Tertia:8-9
+
+[Responsory Sexta]
+@Tempora/Pent02-5o:Responsory Sexta:8-9
+
+[Responsory Nona]
+@Tempora/Pent02-5o:Responsory Nona:8-9
+
+[Ant Vespera 3]
+Díscite a me, * quia mitis sum et húmilis Corde.;;109
+Sanctificávi locum istum, * ut sit nomen meum ibi in sempitérnum, et permáneant óculi mei, et Cor meum ibi cunctis diébus.;;110
+Et dixi: * Ergo sine causa justificávi Cor meum, et lavi inter innocéntes manus meas, et fui flagellátus tota die.;;115
+Secúndum multitúdinem * dolórum meórum in corde meo, consolatiónes tuæ lætificavérunt ánimam meam.;;127
+Pone me * ut signáculum super cor tuum, ut signáculum super bráchium tuum.
+
+[Capitulum Vespera 3]
+@Tempora/Pent02-5o:Capitulum Vespera
+_
+@Tempora/Pent02-5o:Responsory Sexta:1-6
 
 [Ant Matutinum]
 @Tempora/Pent02-5::1
@@ -111,17 +137,5 @@ R. Manéte in dilectióne mea.
 [Responsory12]
 @Tempora/Pent02-5:Responsory8
 
-[Capitulum Laudes]
-@Tempora/Pent02-5
-_
-@Tempora/Pent02-5:Responsory Tertia:1-6
 
-[Responsory Tertia]
-@:Versum 1
-
-[Responsory Sexta]
-@Tempora/Pent02-5:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Tempora/Pent02-5:Responsory Sexta:8-9
 

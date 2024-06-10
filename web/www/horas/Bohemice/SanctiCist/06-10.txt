@@ -1,0 +1,5 @@
+[Rank]
+S. Klaudia, Biskupa a Vyznavače;;Commemoratio;;1;;vide C4
+
+[Oratio]
+@CommuneCist/C4:Oratio1:s/N\./Klaudia/

@@ -1,12 +1,12 @@
 [Rank]
-S. Bonifatii Episcopi et Martyris;;Duplex;;3;;vide C2
+Sv. Bonifáce, Biskupa a Mučedníka;;Duplex;;3;;vide C2
 
 [Rule]
 vide C2;
 9 lectiones
 
 [Oratio]
-O God, Who, through the zeal of blessed Boniface, thy Martyr and Bishop, graciously called a multitude of people to the knowledge of thy Name, mercifully grant that we who keep his feast may also enjoy his patronage.
+Bože, jenž jsi množství národů zápalem svatého Bonifáce, svého Mučedníka a Biskupa, ráčil povolati k poznání svého jména; uděl laskavě, abychom, když slavíme jeho slavnost, pocítili též jeho přímluvy.
 $Per Dominum
 
 [Lectio4]

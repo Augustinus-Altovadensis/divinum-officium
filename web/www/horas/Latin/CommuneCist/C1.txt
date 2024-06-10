@@ -3,11 +3,14 @@
 [Capitulum Vespera]
 @Commune/C1
 _
-@Commune/C1:Responsory Sexta:1-6
+@Commune/C1:Responsory Tertia:1-6
 
 [Versum 1]
 V. Nimis honoráti sunt amíci tui, Deus.
 R. Nimis confortátus est principátus eórum.
+
+[Ant 1]
+Ecce ego mitto vos * sicut oves in médio lupórum, dicit Dóminus. Estóte prudéntes sicut serpéntes, et símplices sicut colúmbæ.
 
 [Ant Matutinum]
 In omnem terram * exívit sonus eórum, et in fines orbis terræ verba eórum.;;18
@@ -115,10 +118,13 @@ céntuplum accípiet, et vitam ætérnam possidébit.
 [Capitulum Laudes]
 @Commune/C1
 _
-@Commune/C1:Responsory Tertia:1-6
+@Commune/C1:Responsory Sexta:1-6
 
 [Hymnus Laudes]
 @:Hymnus Vespera
+
+[Ant 2]
+Dum stetéritis * ante reges et prǽsides, nolíte præmeditári quáliter respondeátis; dábitur enim vobis in illa hora, quid loquámini.
 
 [Versum 2]
 @:Versum 1

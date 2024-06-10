@@ -105,8 +105,11 @@
 *June*
 06-02=06-02=Ss. Marcellini et Petri Martyrum=1=
 06-05=06-05=S. Bonifacii Episc et Mart=3=
-06-06=06-06=S. Norberti Episc et Confessoris=3=
+06-06=06-06=S. Norberti, Episcopi, Confessoris et Patroni Bohemiæ=5=
+06-07=06-07=S. Roberti, Abbatis=1=
+06-08=06-08=S. Medardi, Episcopi et Confessoris=1=
 06-09=06-09=Ss. Primi et Feliciani Martyrum=1=
+06-10=06-10=S. Claudii, Episcopi et Confessoris=1=
 06-11=06-11=S. Barnabae Apostoli=3=
 06-13=06-13=S. Antonii de Padua Confessoris et Ecclesiae Doctoris=1=
 06-14=06-14=S. Basilii Magni Confessoris et Ecclesiae Doctoris=3=
