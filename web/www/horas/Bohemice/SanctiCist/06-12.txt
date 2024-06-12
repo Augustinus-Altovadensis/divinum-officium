@@ -1,0 +1,14 @@
+[Rank]
+Sv. Alice, Panny;;iij. Lect. et M.;;2;;vide C6
+
+[Oratio]
+Dej, prosíme, všemohoucí Bože; abychom, když v tolika protivenstvích pro naši slabost umdléváme, na přímluvu blažené Alice, tvé Panny, pak osvobozeni ode všeho zlého, s pevnou myslí tobě sloužili.
+$Per Dominum.
+
+[Commemoratio]
+!Připomínka sv. Basilida a druhů, Mučedníků.
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Svatých tvých Mučedníků Basilida, Cyrina, Nabora a Nazaria, prosíme, Pane, ať jejich narození pro nebe nám vděčně zazáří: a to, co jim přinesla jejich věčná dokonalost, plody naší oddanosti ještě navýší.
+$Per Dominum.
+

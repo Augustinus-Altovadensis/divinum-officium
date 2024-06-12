@@ -110,10 +110,12 @@
 06-08=06-08=S. Medardi, Episcopi et Confessoris=1=
 06-09=06-09=Ss. Primi et Feliciani Martyrum=1=
 06-10=06-10=S. Claudii, Episcopi et Confessoris=1=
-06-11=06-11=S. Barnabae Apostoli=3=
-06-13=06-13=S. Antonii de Padua Confessoris et Ecclesiae Doctoris=1=
-06-14=06-14=S. Basilii Magni Confessoris et Ecclesiae Doctoris=3=
-06-15=06-15=Ss. Viti Martyri=1=
+06-11=06-11=S. Barnabae, Apostoli=3=
+06-12=06-12=B. Aleydis, Virginis=2=
+06-13=06-13=S. Antonii de Padua Confessoris et Ecclesiae Doctoris=3=
+06-14=06-14=S. Basilii Magni Confessoris et Ecclesiae Doctoris=2=
+06-15=06-15=S. Viti, Martyris=4=
+06-16=06-16=S. Lutgardis, Virginis=2=
 06-18=06-18=S. Ephraem Syri Confessorem et Ecclesiae Doctorem=3=Ss. Marci et Marcellini Martyrum=1=
 06-19=06-19=Ss. Gervasii et Protasii Mart=1=
 06-20=06-20=S. Sylverii Papae et Martyri=1=

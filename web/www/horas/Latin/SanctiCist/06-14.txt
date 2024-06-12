@@ -1,4 +1,15 @@
 @Sancti/06-14
 
+[Rank]
+S. Basilii Magni, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;2;;vide C4a
+
+[Rule]
+vide C4a;mtv
+3 lectiones
+
+[Oratio]
+Exáudi, quǽsumus, Dómine, preces nostras, quas in beáti Basilíi Confessóris tui atque Pontíficis solemnitáte deférimus: et, qui tibi digne méruit famulári, ejus intercedéntibus méritis, ab ómnibus nos absólve peccátis.
+$Per Dominum
+
 [Responsory1]
 @CommuneM/C4:Responsory10

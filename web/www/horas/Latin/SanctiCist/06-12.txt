@@ -1,0 +1,14 @@
+[Rank]
+S. Aleydis, Virginis;;iij. Lect. et M.;;2;;vide C6
+
+[Oratio]
+Da, quæsumus, omnípotens Deus: * ut, qui in tot advérsis ex nostra infirmitáte defícimus, § intercedénte beáta Aléyde, Vírgine tua, liberáti a malis ómnibus, secúra tibi mente serviámus.
+$Per Dominum.
+
+[Commemoratio]
+!Commemoratio SS. Basilidis et Sociorum, Martyrum.
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Sanctórum Mártyrum tuórum Basílidis, Cyríni, Nabóris atque Nazárii, quǽsumus, Dómine, natalícia nobis votíva respléndeant: et, quod illis cóntulit excelléntia sempitérna, frúctibus nostræ devotiónis accréscat.
+$Per Dominum.
+

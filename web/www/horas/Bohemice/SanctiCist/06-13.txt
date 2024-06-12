@@ -1,0 +1,14 @@
+@Sancti/06-13
+
+[Rank]
+Sv. Antonína z Padovy, Vyznavače a Učitele Církve;;xij. Lect. et M.;;3;;ex C5a
+
+[Rule]
+ex C5a;
+12 lectiones
+Psalmi Dominica
+Antiphonas horas
+
+[Name]
+Antoníne
+

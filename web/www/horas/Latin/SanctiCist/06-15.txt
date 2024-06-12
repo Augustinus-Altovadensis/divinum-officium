@@ -1,5 +1,10 @@
 [Rank]
-S. Viti Martyr;;Simplex;;1.1;;vide C2
+S. Viti, Martyris et Patroni Bohemiæ;;Simplex;;5;;ex C2
 
 [Oratio]
-@Sancti/06-15::s/sanctis Martýribus tuis Vito, Modésto atque Crescéntia intercedéntibus/sancto Mártyre tuo Vito intercedénte/
+Ꭰa Ecclésiæ tuæ, quæsumus, Dómine, sancto Mártyre tuo Vito intercedénte supérbe non sapére, § sed tibi plácita humilitáte profícere, * ut prava despíciens; § quæ recta sunt, líbera exérceat charitáte. 
+$Per Dominum 
+
+[Commemoratio]
+!Commemoratio SS. Martyrum Modesti et Crescenciæ
+@CommuneCist/C3:Oratio:s/N\. et N\./Modésti et Crescéntiæ/

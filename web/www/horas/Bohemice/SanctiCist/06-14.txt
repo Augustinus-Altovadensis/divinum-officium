@@ -1,0 +1,15 @@
+@Sancti/06-14
+
+[Rank]
+Sv. Basila Velikého, Vyznavače a Učitele Církve;;iij. Lect. et M.;;2;;vide C4a
+
+[Rule]
+vide C4a;mtv
+12 lectiones
+
+[Name]
+Basile
+
+[Oratio]
+Vyslyš Pane, prosíme, naše prosby, které přínášíme svatému Basilovi, Tvému Vyznavači a Biskupovi; a protože on si zasloužil tobě důstojně sloužit, pro jeho zásluhy a na jeho přímuvu nám odpusť všechny naše hříchy.
+$Per Dominum.
