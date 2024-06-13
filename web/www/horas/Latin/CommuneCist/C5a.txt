@@ -6,6 +6,18 @@ Commune Doctorum non Pontificis
 [Ant 1]
 @Commune/C4a
 
+[Hymnus Laudes]
+@Commune/C5::s/Anni recúrso/Anni revérso/ s/Virtútum actu/Virtúte clarus/
+
+[Hymnus Vespera Hac die]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[Hymnus1 Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
 [Lectio1]
 @Commune/C4a:Lectio1:s/-5/-4/ s/5 .*//s
 

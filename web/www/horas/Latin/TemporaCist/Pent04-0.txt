@@ -3,6 +3,9 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+Irátus * rex Saül dixit: Mihi mille dedérunt, et fílio Isai dedérunt decem míllia.
+
 [Lectio1]
 @Tempora/Pent04-0:Lectio1:s/-7/-3/ s/4 .*//s
 

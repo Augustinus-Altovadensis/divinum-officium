@@ -1,2 +1,10 @@
+[Rank]
+Sv. Víta, Mučedníka a Patrona Čech;;MM. maj.;;5;;ex C2
+
 [Oratio]
-@Sancti/06-15::s/s Vitus, Modestus, and Crescentia,/ Vitus/
+Dej své Církvi, prosíme, Pane, na přímluvu svatého Mučedníka Víta nesmýšlela pyšně, ale tobě se zalíbila a prospívala v pokoře, aby špatné věci zavrhovala, a to, co je správné, ve svobodě a lásce vykonávala. 
+$Per Dominum 
+
+[Commemoratio]
+!Připomínka sv Mučedníků Modesta a Crescencie
+@CommuneCist/C3:Oratio:s/N\. a N\./Modesta a Crescentie/

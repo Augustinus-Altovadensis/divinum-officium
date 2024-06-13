@@ -20,6 +20,18 @@ $Per Dominum
 Da, quǽsumus, omnípotens Deus: ut beáti N. Confessóris tui atque Pontíficis veneránda solémnitas, et devotiónem nobis áugeat, et salútem.
 $Per Dominum.
 
+[Hymnus Vespera Hac die]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[Hymnus1 Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/secréta/suprémos/ s/Scándere cæli/Laudis honóres/
+
+[Hymnus Laudes]
+@Commune/C4:HymnusM Laudes
+
 [Lectio1]
 @Commune/C4a:Lectio1:s/-5/-4/ s/5 .*//s
 

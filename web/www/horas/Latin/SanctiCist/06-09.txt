@@ -1,4 +1,5 @@
-@Sancti/06-09
-
 [Rank]
 Ss. Primi et Feliciani Martyrum;;Simplex;;1;;vide C3
+
+[Oratio]
+@Sancti/06-09

@@ -1,0 +1,5 @@
+[Rank]
+Sv. Silveria, Papeže a Mučedníka;;Commemoratio;;1;;vide C2
+
+[Oratio]
+@Commune/C2::s/N\./Silveria/

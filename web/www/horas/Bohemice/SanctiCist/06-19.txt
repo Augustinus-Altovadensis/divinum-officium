@@ -5,5 +5,5 @@ Ss. Gervasii et Protasii Martyrum;;Commemoratio et M.;;1;;vide C3
 vide C3;
 
 [Oratio]
-@Commune/C3:Oratio2:s/N\. et N\./Gervásii et Protásii/
+@Commune/C3:Oratio2:s/N\. a N\./Gervasia a Protasia/
 

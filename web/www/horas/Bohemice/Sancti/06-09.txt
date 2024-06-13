@@ -5,9 +5,7 @@ Ss. Primi et Feliciani Martyrum;;Simplex;;1.1;;vide C3
 vide C3;
 
 [Oratio]
-Make us, O Lord, we beseech thee, ever heartily to rejoice over thine holy~
-martyrs Primus and Felician, and grant to us at their prayer the gift of thy~
-safe-keeping.
+Učiň nám, prosíme, Pane, abychom vždy prováděli svátek svatých Mučedníků Prima a Feliciana; a na jejich přímluvy jsme pocítili dary tvé ochrany.
 $Per Dominum
 
 [Lectio93]
