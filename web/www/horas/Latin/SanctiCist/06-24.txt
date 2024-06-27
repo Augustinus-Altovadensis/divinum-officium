@@ -3,11 +3,46 @@
 [Rule]
 12 lectiones
 Psalmi Dominica
+Antiphonas horas
+
+[Ant Vespera]
+Ipse præíbit * ante illum in spíritu et virtúte Elíæ paráre Dómino plebem perféctam.
+Joánnes * est nomen ejus: vinum et síceram non bibet, et multi in nativitáte ejus gaudébunt.
+Vox clamántis * in desérto: Paráte viam Dómini, rectas fácite sémitas Dei nostri.
+Inter natos * mulíerum non surréxit major Joánne Baptísta.
+Nazarǽus * vocábitur puer iste: vinum et síceram non bibet, et omne immúndum non manducábit ex útero matris suæ.
 
 [Capitulum Vespera]
 @Sancti/06-24
 _
-@Sancti/06-24:Responsory Sexta:1-6
+Responsorium. Inter natos mulíerum non surréxit major Joánne Baptísta : * Qui viam Dómini præparávit in éremo.
+V. Fuit homo missus a Deo, cui nomen erat Joánnes.
+R. Qui viam Dómini præparávit in éremo.
+
+[Capitulum Laudes]
+@Sancti/06-24
+_
+@Sancti/06-24:Responsory Tertia:1-6
+
+[Responsory Tertia]
+@Sancti/06-24:Versum 1
+
+[Responsory Sexta]
+@Sancti/06-24:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Sancti/06-24:Responsory Sexta:8-9
+
+[Capitulum Vespera 3]
+@Sancti/06-24:Capitulum Vespera
+_
+@Sancti/06-24:Responsory Nona:1-6
+
+[Versum 3]
+@:Versum 1
+
+[Ant 3]
+Et posuérunt * omnes qui audiérunt in corde suo, dicéntes: Quis, putas, puer iste erit? Etenim manus Dómini erat cum illo. Et Zacharías pater ejus replétus est Spíritu sancto; et prophetávit, dicens: Benedíctus Deus Israël, quia visitávis, et fecit redemptiónem plebis suæ.
 
 [AntMatutinum2]
 Nazarǽus * vocábitur puer iste: † vinum et síceram non bibet, et omne immúndum non manducábit ex útero matris suæ.;;63
@@ -107,16 +142,4 @@ R. Tu puer, Prophéta Altíssimi vocáberis:
 V. Ad dandam sciéntiam salutis plebi ejus in remissiónem peccatórum.
 R. Præíbis enim ante fáciem Dómini paráre vias ejus.
 
-[Capitulum Laudes]
-@Sancti/06-24
-_
-@Sancti/06-24:Responsory Tertia:1-6
 
-[Responsory Tertia]
-@Sancti/06-24:Versum 1
-
-[Responsory Sexta]
-@Sancti/06-24:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Sancti/06-24:Responsory Sexta:8-9

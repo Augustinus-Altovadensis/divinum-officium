@@ -1,0 +1,9 @@
+@Sancti/06-28r
+[Rank]
+In Vigilia Ss. Petri et Pauli Apostolorum;;Duplex II classis;;3.6
+
+[Commemoratio]
+!Připomínka Sv. Lva, Papeže a Vyznavače
+@CommuneCist/C4:Oratio proper
+v. Bože, jenž jsi svatého Lva, Papeže, jeho zásluhami postavil na roveň svých Svatých: uděl laskavě; abychom, když náležitě slavíme jeho svátek, také napodobovali příklad jeho života.
+$Per Dominum

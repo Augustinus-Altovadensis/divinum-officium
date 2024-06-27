@@ -9,7 +9,7 @@ no Te Deum
 Laudes 2
 
 [Oratio]
-We pray, Almighty God, that thou suffer no disturbance to shake us, who thou hast firmly established, as on a rock, on the faith of thy Apostles.
+Uděl, prosíme, všemohoucí Bože; nedovol tedy, aby nás srazily jakékoliv zmatky, když jsi nás upevnil na skále apoštolského vyznání.
 $Per Dominum
 
 [Lectio1]

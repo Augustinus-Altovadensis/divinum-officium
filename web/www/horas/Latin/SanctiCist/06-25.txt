@@ -1,0 +1,11 @@
+@Sancti/06-25
+[Rank]
+S. Gulielmi, Abbatis;;xij. Lect. et M.;;3;;ex C5
+
+[Rule]
+ex C5;
+12 lectiones
+Psalmi dominica
+Antiphonas horas
+
+

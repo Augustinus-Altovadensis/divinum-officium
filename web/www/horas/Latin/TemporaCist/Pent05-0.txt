@@ -3,6 +3,12 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+Quis enim * in ómnibus, sicut David fidélis invéntus est in regno tuo, egrédiens, et regrédiens, et pergens ad impérium regis?
+
+[Ant 2]
+Nisi abundáverit * justítia vestra plus quam Scribárum, et Pharisæórum, non intrábitis in regnum cœlórum.
+
 [Responsory1]
 @Tempora/Pent01-1:Responsory1
 

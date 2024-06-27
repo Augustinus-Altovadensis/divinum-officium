@@ -178,14 +178,15 @@ Resólve tibi potestáte trádita,
 Qua cunctis cælum verbo claudis, áperis.
 _
 Doctor egrégie Paule, mores ínstrue,
-Et mente polum non transférre sátage:
+Et mente polum nos transférre sátage:
 Donec perféctum largiátur plénius,
 Evacuáto quod ex parte gérimus.
 _
 Sit Trinitáti sempitérna glória,
 Honor, potéstas, atque jubilátio,
 In unitáte, cui manet impérium,
-Ex tunc et modo, per ætérna sǽcula. Amen.
+Ex tunc et modo, per ætérna sǽcula. 
+Amen.
 
 [Hymnus Laudes]
 {:H-BeatepastorPetre:}v. Beáte Pastor, Petre, clemens áccipe

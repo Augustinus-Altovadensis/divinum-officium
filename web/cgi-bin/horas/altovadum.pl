@@ -40,10 +40,12 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Ossecensis|Ossencensis/osecký/ig;
 	$line =~ s/Ossecii|Osecii/v Oseku/ig;
 	$line =~ s/circa Ossecum/v okolí Oseka/ig;
+	$line =~ s/Alt-Ossegg/Starý Osek/ig;
 	$line =~ s/Lambacensis/lambašský/ig;
 	$line =~ s/in Lambach/v Lambachu/ig;
 	$line =~ s/in Schlüchtern/v klášteře Schlüchtern/ig;
 	$line =~ s/Plagensis/ze Schläglu/ig;
+	$line =~ s/Plaga/Schlägl/ig;
 	$line =~ s/, Aulae.Regiae|de Aula Regia/, na Zbraslavi/ig;
 	$line =~ s/Aulae.Regiae/zbraslavský/ig;
 	$line =~ s/in Aula.Regia/na Zbraslavi/ig;
@@ -75,6 +77,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Sedlicii et Skalicii abbas/opat v Sedlci a ve Skalici/ig;
 	$line =~ s/Sedlicii|Sedlecii/v Sedlci/ig;
 	$line =~ s/Skalicii/ve Skalici/ig;
+	$line =~ s/Vetero-Brunae/na Starém Brně/ig;
 	$line =~ s/Brunae/v Brně/ig;
 	$line =~ s/Runae/v klášteře Rein/ig;
 	$line =~ s/Populeti/v klášteře Poblet/ig;
@@ -491,6 +494,14 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Engelbertus/Engelbert/ig;
 	$line =~ s/Petrus/Petr/ig;
 	$line =~ s/Nicolaus/Mikuláš/ig;
+	$line =~ s/Jodocus/Joch/ig;
+		$line =~ s/Martinus/Martin/ig;
+	$line =~ s/Robertus/Robert/ig;
+	$line =~ s/Gerardus/Gerard/ig;
+	$line =~ s/Stanislaus/Stanislav/ig;
+	$line =~ s/xx/xx/ig;
+	$line =~ s/xx/xx/ig;
+	$line =~ s/xx/xx/ig;
 
 
 	$line =~ s/canoniae/kanonie/ig;
@@ -597,7 +608,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/portarius/fortnýř/ig;
 	$line =~ s/domi( |\.|\,)/domu$1/ig;
 	$line =~ s/officialis/hodnostář/ig;
-	$line =~ s/coadiutor/coadjutor/ig;
+	$line =~ s/coad[ij]utor/koadjutor/ig;
 	$line =~ s/ecclesiae Wratislaviensis/vratislavské katedrály/ig;
 	$line =~ s/ecclesiae/kostela/ig;
 	$line =~ s/eandem ecclesiam/tentýž kostel/ig;
@@ -692,6 +703,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Tertius/Třetí/g;
 	$line =~ s/tertius|tertia/třetí/g;
 	$line =~ s/tertii/třetího/g;
+	$line =~ s/quartus/čtvrtý/g;
 
 	$line =~ s/januarii/ledna/ig;
 	$line =~ s/februarii/února/ig;

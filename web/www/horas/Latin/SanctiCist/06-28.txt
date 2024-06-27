@@ -1,1 +1,9 @@
 @Sancti/06-28r
+[Rank]
+In Vigilia Ss. Petri et Pauli Apostolorum;;Duplex II classis;;3.6
+
+[Commemoratio]
+!Commemoratio S. Leonis, Papæ et Confessoris
+@CommuneCist/C4:Oratio proper
+v. Deus, qui beátum Leónem Pontíficem sanctórum tuórum méritis coæquásti: concéde propítius; ut, qui commemoratiónis ejus festa percólimus, vitæ quoque imitémur exémpla.
+$Per Dominum

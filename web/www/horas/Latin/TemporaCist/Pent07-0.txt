@@ -3,6 +3,9 @@
 [Rule]
 12 lectiones
 
+[Ant 1]
+Dóleo super te, frater mi Jónatha, amábilis valde super amórem mulíerum: et sicut mater únicum amat fílium, ita te diligébam: sagítta Jónathæ numquam ábiit retrórsum, nec declinávit clypeus ejus de bello, et hasta ejus non est avérsa.
+
 [Lectio1]
 @Tempora/Pent07-0::1-5 s/-5/-3/
 

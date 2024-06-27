@@ -1,5 +1,8 @@
 @Tempora/Pent06-0
 
+[Ant 1]
+Nonne iste est David * de quo canébant in choro, dicéntes: Saül percússit mile, et David decem míllia in míllibus suis?
+
 [Rule]
 12 lectiones
 

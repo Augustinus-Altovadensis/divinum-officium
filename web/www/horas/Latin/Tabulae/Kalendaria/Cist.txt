@@ -122,6 +122,7 @@
 06-22=06-22=S. Paulini Episcopi et Confessoris=1=
 06-23=06-23=Vigilia S. Joannis Baptistae=5=
 06-24=06-24=In Nativitate S. Joannis Baptistae=6=
+06-25=06-25=S. Gulielmi, Abbatis=3=
 06-26=06-26=Ss. Joannis et Pauli Martyrum=3=
 06-28=06-28=Vigilia Ss. Petri et Pauli Apostolorum=5=
 06-29=06-29=Ss. Apostolorum Petri et Pauli=6=

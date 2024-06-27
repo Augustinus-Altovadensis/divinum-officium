@@ -14,41 +14,44 @@ Psalm5 Vespera=116
 Psalm5 Vespera3=138
 
 [Ant Vespera]
-Peter and John * went up together into the Temple at the hour of prayer, being the ninth hour.
-Silver and gold have I none, * but such as I have, give I thee.
-The Angel said unto Peter: * Cast thy garment about thee, and follow me.
-The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod, alleluia.
-Thou art Peter * and upon this Rock I will build My Church.
+Petr a Jan * šli nahoru do chrámu na modlitby v devět hodin.
+Stříbro a zlato * nemám, avšak co mám, to ti dám.
+Řekl Anděl Petrovi: * Obleč se a následuj mě.
+Poslal Pán * svého Anděla, a ten mě vysvobodil z rukou Herodových, alleluja.
+Ty jsi Petr, <i>skála,</i> * a na této skále vybudují svou Církev.
 
 [Capitulum Vespera]
-!Acts 12:1-3
-v. Herod the King stretched forth his hands, to vex certain of the Church. And he killed James, the brother of John, with the sword. And because he saw it pleased the Jews, he proceeded farther to take Peter also.
+!Skutky 12:1-3
+v.  Král Herodes poslal četu, aby zle zakročili proti některým z Církve. Janova bratra Jakuba dal popravit mečem. Když viděl, že se to Židům líbí, dal zatknout také Petra. 
 $Deo gratias
 
 [Hymnus Vespera]
-v. The beauteous light of God's eternal majesty
-Streams down in golden rays to grace this holy day
-Which crowned the princes of the Apostles' glorious choir,
-And unto guilty mortals showed the heavenward way.
+v. Zlatavým světlem přioděným v rudou zář,
+Nad všechna světla, celý svět jsi prozářil,
+Ozdobil nebe přeslavným umučením,
+Tento svatý den, jenž dá hříšným spasení.
 _
-The teacher of the world and keeper of heaven's gate,
-Rome's founders twain and rulers too of every land,
-Triumphant over death by sword and shameful cross,
-With laurel crowned are gathered to the eternal band.
+Klíčník nebeský a s ním světa Učitel,
+Soudcové země, pravá světla planety,
+Jeden na kříži, druhý mečem zvítězil,
+Vládu života s věncem slávy dostali.
 _
-O happy Rome! who in thy martyr princes' blood,
-A twofold stream, art washed and doubly sanctified.
-All earthly beauty thou alone outshinest far,
-Empurpled by their outpoured life-blood's glorious tide.
+Ty šťastný Říme, oblečený v rudý plášť
+převzácné krve knížat dvou, nám drahých zvlášť,
+ne slova tvoje, ale jejich zásluh jas
+se větší krásou skví než celý vesmír náš.
 _
-All honour, power, and everlasting jubilee
-To him who all things made and governs here below,
-To God in essence One, and yet in persons Three,
-Both now and ever, while unending ages flow.
+Buď Otci sláva po věků věk nesmírný,
+buď Tobě, Synu, vláda, vždy ať dík ti zní,
+Svatému Duchu budiž stejná moc a čest,
+Trojici Boží ať vzdávána věčně jest.
 Amen.
 
+[HymnusM Vespera]
+@:Hymnus Vespera
+
 [Oratio]
-O God, Who didst hallow this day by the Testifying of thine Holy Apostles Peter and Paul, grant unto thy Church, whose foundations Thou wast pleased to lay by their hands, the grace always in all things to remain faithful to their teaching.
+Bože, jenž jsi dnešní den posvětil umučením svých Apoštolů Petras a Pavla; dej své Církvi, aby vždy následovala jejich příkazy, z nichž povstala naše zbožnost.
 $Per Dominum
 
 [Lectio1]
@@ -133,29 +136,32 @@ And Jesus answered and said unto him: Blessed art thou, Simon Bar-Jona. The Apos
 &teDeum
 
 [Hymnus Laudes]
-v. Peter, blest shepherd, hearken to our cry,
-And with a word unloose our guilty chain;
-Thou! who hast power to ope the gates on high
-To men below, and power to shut them fast again.
+v. Dobrý Pastýři, Petře, prosím, přijmi již, 
+Prosících přání, a všech hříchů okovy
+Rozbij tou mocí, jež ti byla svěřena,
+Jíž vše v nebi otvíráš slovem, zavíráš.
 _
-Lead us, great teacher Paul, in wisdom's ways,
-And lift our hearts with thine to heaven's high throne;
-Till faith beholds the clear meridian blaze;
-And sunlike in the soul reigns charity alone.
+Mudrci velký, Pavle, mravy nauč nás,
+A naši mysl pokus se do nebe vznést;
+Až dokonalost v plnosti obdržíme,
+Když vyprázdníme, co zbytečně nosíme.
 _
-Praise, blessing, majesty, through endless days,
-Be to the Trinity immortal given;
-Who in pure unity profoundly sways
-Eternally alike all things in earth and heaven.
+Svaté Trojici budiž sláva navěky,
+Čest, moc a síla, také velký jásto náš;
+V jednotě, v níž spočívá její vláda,
+Od nepaměti, nyní i na vše věky.
 Amen.
+
+[HymnusM Laudes]
+@:Hymnus Laudes
 
 [Lectio Prima]
 !Acts 12:11
-v. And when Peter was come to himself, he said Now I know of a surety that the Lord hath sent His Angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.
+v. Vtom přišel Petr k sobě a řekl: „Teď už vím jistě, že Pán poslal svého Anděla a vytrhl mě z Herodových rukou a ze všeho, na co čeká židovský lid.“
 
 [Capitulum Sexta]
 !Acts 12:5
-v. Peter therefore was kept in prison. But prayer was made without ceasing of the Church unto God for him.
+v. Tak byl Petr hlídán ve vězení; Církev se však za něho bez přestání modlila k Bohu.
 $Deo gratias
 
 [Ant 3]
