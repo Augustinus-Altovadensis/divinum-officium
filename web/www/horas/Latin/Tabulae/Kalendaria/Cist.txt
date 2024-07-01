@@ -126,9 +126,10 @@
 06-26=06-26=Ss. Joannis et Pauli Martyrum=3=
 06-28=06-28=Vigilia Ss. Petri et Pauli Apostolorum=5=
 06-29=06-29=Ss. Apostolorum Petri et Pauli=6=
-06-30=06-30=In Commemoratione Sancti Pauli Apostoli=3=
+06-30=06-30=In Commemoratione Sancti Pauli Apostoli=5=
 *July*
-07-02=07-02=In Visitatione B Mariae Virginis=5=
+07-01=07-01=Pretiosissimi Sanguinis Domini Nostri Jesu Christi=5=
+07-02=07-02=In Visitatione B Mariae Virginis=6=
 07-03=07-03=Ss. Processi et Martiniani Martyrum=1=
 07-08=07-08=S. Eugenii, Papae et Confessoris=6=
 07-09=07-09=In Festo Prodigiorum B. Mariæ Virginis=5=

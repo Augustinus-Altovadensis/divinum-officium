@@ -1,11 +1,31 @@
 @Sancti/07-02
+In Visitatione Beatæ Mariæ Virginis;;Serm. min.;;7;;ex C11
 
 [Rule]
 12 lectiones
 Doxology=Nat
 
-[Commemoratio 2]
+[Oratio]
+Omnípotens sempitérne Deus, qui ex abundántia charitátis, beátam Maríam tuo Fílio fœcúndátam ad salutatiónem Elísabeth inspirásti: § præsta quæsumus; * ut per ejus Visitatiónem donis cœléstibus repleámur, § et ab ómnibus adversitátibus eruámur.
+$Per eumdem
 
+[Ant Laudes]
+In Maríæ * Vírginis útero paráta sedes tua, Deus, a sæculo.
+
+[Capitulum Laudes]
+!Cant. 2.
+v. Ecce iste venit sáliens in móntibus, § transíliens colles: * símilis est diléctus meus cápreæ, hinnulóque cervórum.
+_
+@CommuneCist/C10:Capitulum Vespera:3-6
+
+[Ant 2]
+Benedíctus * Dóminus, Deus Israël, quia visitávit, et fecit redemptiónem plebis suæ, sicut locútus est per os sanctórum
+
+[Commemoratio 2]
+!Commemoratio SS. Martyrum Processi et Martiniani
+@CommuneCist/C3:Oratio proper
+v. Deus, qui nos sanctórum Mártyrum tuórum Procéssi et Martiniáni gloriósis confessiónibus circúmdas et prótegis: da nobis et eórum imitatióne profícere, et intercessióne gaudére.
+$Per Dominum
 
 [Lectio1]
 @Sancti/07-02:Lectio1:1-7 s/-7/-5/

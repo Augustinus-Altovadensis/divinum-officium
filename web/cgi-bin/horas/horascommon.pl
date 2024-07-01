@@ -848,7 +848,7 @@ sub concurrence {
 				unless ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || $version =~ /1955|196/) { push(@comentries, $commemo); }
 			}
 		}
-		@ccommemoentries = @comentries unless $version =~ /Cistercien/i;
+		@ccommemoentries = @comentries unless ($version =~ /Cistercien/i && $cstr{Rule} !~ /No prima vespera/i);
 		
 		# In Occurence (i.e. today): Simplex end after None.
 		$ranklimit =  ($wrank[0] =~ /Dominica|feria|in.*octava/i) ? 2 : ($rank >= 6 && $version !~ /trident/i) ? 4.2 : $rank >= 5 ? 2.1 : 2;
