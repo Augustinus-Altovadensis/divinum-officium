@@ -1,9 +1,23 @@
 @Sancti/07-02
-In Visitatione Beatæ Mariæ Virginis;;Serm. min.;;7;;ex C11
+
+[Rank]
+In Visitatione Beatæ Mariæ Virginis;;Serm. min.;;6;;ex C11
 
 [Rule]
 12 lectiones
+Antiphonas horas
 Doxology=Nat
+
+[Capitulum Vespera]
+!Cant. 2.
+v. Ecce iste venit sáliens in móntibus, § transíliens colles: * símilis est diléctus meus cápreæ, hinnulóque cervórum.
+_
+Responsorium.  Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo, salutári meo. * Quia respéxit humilitátem ancíllæ suæ. 
+V. Ecce enim ex hoc beátam me dicent omnes generatiónes.
+R. Quia respéxit humilitátem ancíllæ suæ. 
+
+[Ant 1]
+O quanta vis * amóris illibátæ tunc mentem accénderat Vírginis, ut in Spíritu sancto rapta jubiláret: Magnificat ánima mea Dóminum.
 
 [Oratio]
 Omnípotens sempitérne Deus, qui ex abundántia charitátis, beátam Maríam tuo Fílio fœcúndátam ad salutatiónem Elísabeth inspirásti: § præsta quæsumus; * ut per ejus Visitatiónem donis cœléstibus repleámur, § et ab ómnibus adversitátibus eruámur.
@@ -11,6 +25,10 @@ $Per eumdem
 
 [Ant Laudes]
 In Maríæ * Vírginis útero paráta sedes tua, Deus, a sæculo.
+Júbilet Deo * omnis terra, et cœlestis Hierarchía sérviat ei.
+Fecit Dóminus *  poténtiam in bráchio suo, dispérsit supérbos mente cordis sui.
+Depósuit poténtes * de sede, et exaltávit húmiles.
+Esuriéntes implévit bonis * et dívites dimísit inánes.
 
 [Capitulum Laudes]
 !Cant. 2.
@@ -26,6 +44,30 @@ Benedíctus * Dóminus, Deus Israël, quia visitávit, et fecit redemptiónem pl
 @CommuneCist/C3:Oratio proper
 v. Deus, qui nos sanctórum Mártyrum tuórum Procéssi et Martiniáni gloriósis confessiónibus circúmdas et prótegis: da nobis et eórum imitatióne profícere, et intercessióne gaudére.
 $Per Dominum
+
+[Capitulum Tertia]
+!Cant. 2.
+v. Ecce iste venit sáliens in móntibus, § transíliens colles: * símilis est diléctus meus cápreæ, hinnulóque cervórum.
+
+[Capitulum Sexta]
+!Cant. 2.
+v. Surge, própera, amíca mea, colúmba mea, formósa mea, et veni. * Jam enim hiems tránsiit, § imber ábiit, et recéssit. * Flores apparuérunt in terra nostra, § tempus putatiónis advénit.
+
+[Capitulum Nona]
+!Cant. 2.
+v. Vox túrturis audíta est in terra nostra: § ficus prótulit grossos suos: * víneæ floréntes dedérunt odórem suum.
+
+[Capitulum Vespera 3]
+!Cant. 2.
+v. Ecce iste venit sáliens in móntibus, § transíliens colles: * símilis est diléctus meus cápreæ, hinnulóque cervórum.
+_
+R.br. Visitátio tua, * Dei Génitrix Virgo.
+R. Visitátio tua, * Dei Génitrix Virgo.
+V. Gáudium annuntiávit univérso mundo. 
+R.br. Dei Génitrix Virgo.
+
+[Ant 3]
+Magníficet * Dóminum totum genus fidélium, cóncrepet harmónica laude cohors Angélica in Maríæ gáudia.
 
 [Lectio1]
 @Sancti/07-02:Lectio1:1-7 s/-7/-5/

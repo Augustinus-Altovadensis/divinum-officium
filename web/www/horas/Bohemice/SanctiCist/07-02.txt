@@ -1,10 +1,28 @@
 
+[Capitulum Vespera]
+!Píseň písní. 2, 8-9
+v. Hle, on přichází, běží po horách, skáče po pahorcích. Můj miláček se podobá gazele nebo kolouchu laně.
+_
+Responsorium. Velebí duše má Hospodina a můj duch jásá v Bohu, mém spasiteli, * že se sklonil ke své služebnici v jejím ponížení. 
+V. Hle, od této chvíle budou mne blahoslavit všechna pokolení.
+R. Že se sklonil ke své služebnici v jejím ponížení. 
+
+[Ant 1]
+Ó jak silná * láska v tu chvíli vstoupila v mysl neposkvrněné Panny, že uchvácena Duchem Svatým zvolala: Velebí duše má Hospodina.
+
 [Oratio]
 Všemohoucí věčný Bože, jenž jsi z přemíry lásky blaženou Pannu Marii těhotnou s tvým Synem podnítil k pozdravení Alžbětě; uděl, prosíme, abychom byli skrze její Navštívení naplněni nebeskými dary, a vysvobozeni ode všech protivenství.
 $Per eumdem
 
+[Ant Laudes]
+V lůně * Panny Marie byl připraven tvůj trůn, Bože, od věků.
+Jásej Bohu * celé země, a nebeská Knížata mu služte.
+Prokázal Hospodin * sílu svým ramenem, rozptýlil ty, kdo v srdci smýšlejí pyšně.
+Vladaře svrhl * z trůnu a ponížené povýšil,
+Hladové nasytil dobrými věcmi * a bohaté poslal pryč s prázdnou.
+
 [Capitulum Laudes]
-!Cant. 2, 8-9
+!Píseň písní. 2, 8-9
 v. Hle, on přichází, běží po horách, skáče po pahorcích. Můj miláček se podobá gazele nebo kolouchu laně.
 _
 @CommuneCist/C10:Capitulum Vespera:3-6
@@ -17,6 +35,30 @@ Pochválen * buď Hospodin, Bůh Israele, protože navštívil a vykoupil svůj 
 @CommuneCist/C3:Oratio proper
 v. Bože, jenž nás slavnými vyznáními svých svatých Mučedníků Processa a Martiniána obklopuješ i chráníš: dej nám, abychom prospívali v jejich napodobování, a radovali se z jejich přímluvy.
 $Per Dominum
+
+[Capitulum Tertia]
+!Píseň písní. 2, 8-9
+v. Hle, on přichází, běží po horách, skáče po pahorcích. Můj miláček se podobá gazele nebo kolouchu laně.
+
+[Capitulum Sexta]
+!Píseň písní. 2, 10-12
+v. Vstaň, moje milá, moje krásko, a pojď! Hle, už přešla zima, déšť přestal a minul. Květy se objevily na zemi, přišel čas ke zpěvu
+
+[Capitulum Nona]
+!Píseň písní. 2, 13
+v. Vrkání hrdličky je slyšet po našem kraji. Zrají plody fíkovníku, poupata révy vydávají svou vůni.
+
+[Capitulum Vespera 3]
+!Cant. 2, 8-9
+v. Hle, on přichází, běží po horách, skáče po pahorcích. Můj miláček se podobá gazele nebo kolouchu laně.
+_
+R.br. Navštívení tvé, * Boží Rodičko a Panno.
+R. Navštívení tvé, * Boží Rodičko a Panno.
+V. Radost zvěstovalo celému světu. 
+R.br. Boží Rodičko a Panno.
+
+[Ant 3]
+Veleb * Pána celý rod věrných, zazni ladnou chválou zástupe Andělů na Mariinu radost.
 
 [Responsory4]
 R. My soul magnifies the Lord and my spirit rejoices in God my Saviour, * Because he has regarded the humility of his handmaid.

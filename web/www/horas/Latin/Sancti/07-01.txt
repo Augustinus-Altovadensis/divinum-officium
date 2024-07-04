@@ -26,7 +26,7 @@ $Deo gratias
 v. Festívis résonent cómpita vócibus,
 Cives lætítiam fróntibus éxplicent,
 Tædis flammíferis órdine pródeant
-Instrúcti púeri et senes.
+Instrúcti púer<i>i</i> et senes.
 _
 Quem dura móriens Christus in árbore
 Fudit multíplici vúlnere sánguinem,
@@ -35,11 +35,11 @@ Saltem fúndere lácrimas.
 _
 Humáno géneri pernícies gravis
 Adámi véteris crímine cóntigit:
-Adámi intégritas et píetas novi
+Adám<i>i</i> intégritas et píetas novi
 Vitam réddidit ómnibus.
 _
 Clamórem válidum summus ab ǽthere
-Languéntibus Géniti si Pater áudiit,
+Languéntis Géniti si Pater áudiit,
 Placári pótius sánguine débuit,
 Et nobis véniam dare.
 _
@@ -48,7 +48,7 @@ Abstérgit máculas; et róseum decus,
 Quo fiat símilis prótinus Angelis
 Et Regi pláceat, capit.
 _
-A recto instábilis trámite póstmodum
+A rect<i>o</i> instábilis trámite póstmodum
 Se nullus rétrahat, meta sed última
 Tangátur; tríbuet nóbile prǽmium,
 Qui cursum Deus ádjuvat.

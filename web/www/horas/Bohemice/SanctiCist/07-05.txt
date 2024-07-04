@@ -1,0 +1,6 @@
+[Rank]
+Sv. Cyrila a Metoděje, VYznavačů, Biskup a Patronů Království českého;;MM. maj.;;5.1;;ex C4
+
+[Oratio]
+Všemohoucí věčný Bože, jenž jsi nás i slovanské národy prostřednictvím svatých svých Vyznavačů Cyrila a Metoděje ráčil povolati k jednotě Křesťanské Víry; uděl, prosíme, abychom, když se radujeme z jejich dnešní slavnosti, pro jejich zásluhy zasloužili si dosáhnout věčné slávy.
+$Per Dominum 

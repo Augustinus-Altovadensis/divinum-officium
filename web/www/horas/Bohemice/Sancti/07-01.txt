@@ -11,37 +11,37 @@ Psalm5 Vespera3=147
 Festum Domini
 
 [Ant Vespera]
-Who is this that * cometh from Edom, with dyed garments from Bozrah? this, that is glorious in His apparel?
-I that speak * in righteousness, mighty to save.
-He was clothed * with a vesture dipped in blood, and His name is called The Word of God.
-Wherefore art Thou * red in thine apparel, and thy garments like him that treadeth in the wine-vat?
-I have trodden * the wine-press alone, and of the people there was none with Me.
+Kdo je ten, * který přichází z Edomu v šatu barveném z Basry? je krásný ve svém oděvu.
+Já, jenž mluvím * spravedlivě, a bojuji za spásu.
+Byl oděn * v oděv potřísněný krví, a jeho jméno je Slovo Boží.
+Proč jen * je rudý tvůj šat, a tvůj oděv je jako oděv těch, kdo šlapou víno v lisu?
+V lisu * jsem šlapal sám, a z <i>pohanských</i>národů zde není ani jeden.
 
 [Capitulum Vespera]
-!Heb 9:11-12
-v. Brethren, Christ being come an High Priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building neither by the blood of goats and calves, but by His Own Blood, He entered in once into the Holy Place, having obtained eternal redemption.
+!Židům 9:11-12
+v. Bratři, Kristus přišel jako velekněz budoucích hodnot; prošel stánkem větším a dokonalejším, který není udělán lidskýma rukama, to je: nenáleží k tomuto stvořenému světu, a vešel jednou provždy do Svatyně, a nám získal věčné vykoupení.
 $Deo gratias
 
 [Hymnus Vespera]
-v. With glad and joyous strains now let each street resound,
-And let the laurel wreath each Christian brow entwine;
-With torches waving bright, let old and young go forth,
-And swell the train in solemn line.
+v. Slavným ať znějí ulice vše hlasy,
+Lidé ať radost svou na tváři ukáží,
+S loučemi v rukou svých, hořících, za sebou
+V řadě mladí i staří.
 _
-Whilst we with bitter tears, with sighs and grief profound,
-Wail o'er the saving blood, poured forth upon the tree,
-Oh, deeply let us muse, and count the heavy price,
-Which Christ hath paid to make us free.
+Když Kristus umíral na tvrdém tom stromě,
+Z mnoha svých hojných ran proléval rudou krev,
+Nám se připomíná, když ji uctíváme,
+Slzy že prolévat máme.
 _
-The primal man of old, who fell by serpent's guile,
-Brought death and many woes upon his fallen race;
-But our new Adam, Christ, new life unto us gave,
-And brought to all ne'er-ending grace.
+Lidského rodu když ohrožení těžké,
+Starého Adama hříchem na nás padlo;
+Nového Adama čistota, laskavost,
+Život navrátily nám všem.
 _
-To heaven's highest height, the wailing cry went up
-Of him, who hung in pain, God's own eternal Son;
-His saving, priceless blood, his Father's wrath appeased,
-And for his sons full pardon won.
+Přemocný nářek když, nejvyšší až z nebe
+Otec sám uslyšel, svého ctného Syna;
+Utišen jen jeho krví mohl býti,
+A pak nám milost svou dáti.
 _
 Whoe'er in that pure blood his guilty soul shall wash,
 Shall from his stains be freed—be made as roses bright—

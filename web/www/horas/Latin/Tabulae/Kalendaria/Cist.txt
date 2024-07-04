@@ -130,7 +130,8 @@
 *July*
 07-01=07-01=Pretiosissimi Sanguinis Domini Nostri Jesu Christi=5=
 07-02=07-02=In Visitatione B Mariae Virginis=6=
-07-03=07-03=Ss. Processi et Martiniani Martyrum=1=
+07-04=07-04=S. Procopii, Abbatis et Patroni Regni Bohemiæ=5=
+07-05=07-05=SS. Cyrilli et Methodii, Confessorum et Pontificis, Patronorum Regni Bohemiæ=5=
 07-08=07-08=S. Eugenii, Papae et Confessoris=6=
 07-09=07-09=In Festo Prodigiorum B. Mariæ Virginis=5=
 07-11=07-11=In Festo Translationis S.P.N. Benedicti=6=

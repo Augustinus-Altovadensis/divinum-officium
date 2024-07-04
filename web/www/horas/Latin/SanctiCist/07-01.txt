@@ -6,3 +6,6 @@ Pretiosissimi Sanguinis Domini Nostri Jesu Christi;;MM. maj;;5.6;;
 12 lectiones
 Psalmi Dominica
 Antiphonas horas
+
+[Ant Vespera]
+@Sancti/07-01::1-4

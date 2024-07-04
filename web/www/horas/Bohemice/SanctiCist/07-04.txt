@@ -1,0 +1,6 @@
+[Rank]
+Sv. Prokopa, Opata a Patrona Království českého;;MM. maj.;;5;;ex C5
+
+[Oratio]
+Plný nechť v nás působí lék tvé ctnosti, věčný Spasiteli; abychom, když uctíváme přesvaté zásluhy Svatého Prokopa, tvého Opata a Vyznavače, obdržíme pomoc jeho přímluv, a ode všech trápení duše jsme vysvobozeni. 
+$Qui vivis
