@@ -6,6 +6,12 @@
 [Ant 1]
 Dóleo super te, frater mi Jónatha, amábilis valde super amórem mulíerum: et sicut mater únicum amat fílium, ita te diligébam: sagítta Jónathæ numquam ábiit retrórsum, nec declinávit clypeus ejus de bello, et hasta ejus non est avérsa.
 
+[Ant 2]
+@Tempora/Pent07-0::s/, allel[uú]ja//
+
+[Ant 3]
+Non omnis, * qui dicit mihi: Dómine, Dómine, intrábit in regnum cœlórum: sed qui facit voluntátem Patris mei, qui in cœlis est, ipse intrábit in regnum cœlórum, allelúia.
+
 [Lectio1]
 @Tempora/Pent07-0::1-5 s/-5/-3/
 

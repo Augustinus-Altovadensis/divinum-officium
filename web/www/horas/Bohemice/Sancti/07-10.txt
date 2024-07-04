@@ -1,14 +1,12 @@
 [Rank]
-Ss. Septem Fratrum Martyrum, ac Rufinae et Secundae Virginum et Martyrum;;Semiduplex;;2;;vide C3
+Sv. Sedmi Bratří, Mučedníků, a Rufiny i Sekundy, Panen a Mučednic;;Semiduplex;;2;;vide C3
 
 [Rule]
 vide C3;
 9 lectiones
 
 [Oratio]
-Grant, we beseech thee, almighty God, that we, who know how courageously thy~
-holy Martyrs have confessed the faith, may experience their goodness as they~
-intercede for us with thee.
+Uděl, prosíme, všemohoucí Bože, abychom, když jsme poznali svaté Mučedníky silné v jejich vyznání, pocítili je i laskavými v přímluvě za nás u tebe.
 $Per Dominum
 
 [Lectio4]

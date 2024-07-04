@@ -1,50 +1,17 @@
-@SanctiM/03-21
+@SanctiCist/03-21
 
 [Rank]
-S. P. N. Benedicti Abbatis;;I class;;7;;vide C5
+Translatio S.P.N. Benedicti, Abbatis;;MM. maj.;;5;;vide C5
 
 [Rule]
 12 lectiones
 
-[Ant Vespera]
-@:Ant Laudes
+[Capitulum Vespera]
+@SanctiCist/03-21:Capitulum Vespera 3
 
-[Hymnus Vespera]
-v. Gemma cælestis pretiosa Regis,
-Norma justorum, via monachorum,
-Nos ab immundi, Benedicte, mundi
-Subtrahe cæno.
-_
-Tu solum spernens, cor in astra figens
-Cogis heredes fieri parentes.,
-Vas Deo plenum, repardare fractum
-Promeruisti.
-_
-Magnus in parvis eremita membris
-Vincis ætatem, superas laborem,
-Arcta Districtæ rudimenta vitæ
-Fervidus imples.
-_
-Strage saxorum puerum sepultum,
-Mox ut orasti, prece suscitasti:
-Sensus hinc carni, caro sanitati
-Redditur æque.
-_
-Iure sub blandæ specie columbæ
-Nesciam fellis animam sororis
-Summa stellati penetrare cæli
-Culmina cemis.
-_
-Ipse post clarum referens triumphum,
-Celsa devicto petis astra mundo:
-Luce flammantem radiante callem
-Pallia sternunt.
-_
-Gloria Patri, Genitæque Proli,
-Et tibi, compar utriusque semper
-Spiritus alme, Deus unus, omni
-Tempore sæcli.
-Amen.
+[Commemoratio]
+!Commemoratio S. Pii, Papæ et Martyris
+@CommuneCist/C2:Oratio:s/N\./Pii/
 
 [Invit]
 Laudémus Deum nostrum * In veneratióne beati Patris nostri Benedícti.
@@ -231,49 +198,3 @@ R. Via, recto oriéntis trámite ab ejus cella in cælum usque tendebátur
 * Strata pálliis et innúmeris corúsca lampádibus.
 V. Hæc est via qua diléctus Dómini Benedíctus cælos ascéndit.
 R. Strata pálliis et innúmeris corúsca lampádibus.
-
-[Oratio]
-Deus, qui beatíssimum Conféssorem tuum Benedíctum ómnium justórum spíritu replére dignátus es: † concede nobis fámulistuis, ejus Solemnitátem celebrántibus; ut, ejusdem spíritu repléti, quod te donánte promísimus fidéliter adimpleámus.
-$Per Dominum
-
-[Ant Laudes]
-Vir Dei Benedictus * signum crucis edidit, et vas pestiferi potus ita confractum est, ac si pro signo lapidem dedisset.
-Completa oratione, * tres petras in loco posuit; et omnipotens Deus in montis excelsa rupe aquam produxit.
-Gloriosus * Confessor Domini, orationem faciens, benedictionem dedit; et lapis, super quem antiquus hostis sedebat, subito levatus est.
-Regrediente anima, * corpusculum pueri contremuit, et sub oculis omnium, qui aderant, vivus apparuit.
-Cum Placidus * ex aqua traheretur, vidit super caput suum Abbatis melotem, qui eum ab unda reducebat.
-
-[Hymnus Laudes]
-v. Aurora surgit aurea
-Festa restaurans annua,
-Cum Benedictus arduum
-Cæli scandit palatium.
-_
-Quanta in summis accipit,
-Qui sic in imis claruit,
-Cujus micant prodigia
-Per ampla mundi climata!
-_
-Ejus carentum gratia
-Tellus vomit cadavera,
-Devotis unda liquida
-Sicca lambit vestigia.
-_
-Totius orbis ambitum
-Per solis videt radium,
-Mens in auctore posita
-Subiecta cernit omnia.
-_
-Te, Pater alme, petimus
-Pronæ mentis visceribus,
-Ut cælum des ascendere,
-Quos terrain doces spernere.
-_
-Deo Patri sit gloria,
-Ejusque soli Filio,
-Cum Spiritu Paraclito,
-Et nunc, et in perpetuum.
-Amen.
-
-[Ant 3]
-O cælestis norma vitæ, Doctor et Dux Benedicte, cujus cum Christo spiritus exsultat in cælestibus: gregem, Pastor alme, serva, sancta prece corrobora, via cælos clarescente fac, te duce, penetrare.

@@ -262,7 +262,7 @@ R. Pamětlivi budou tvého jména, Pane.
 
 [Capitulum Sexta]
 !Acts 5:12
-v. And by the hands of the apostles were many signs and wonders wrought among the people.
+v. Rukama Apoštolů byla vykonána mnohá znamení a zázraky v lidu.
 $Deo gratias
 
 [Responsory Sexta]
@@ -273,12 +273,12 @@ R. Po celé zemi.
 &Gloria
 R. Ustanovíš je knížaty * po celé zemi.
 _
-V. Thy friends, O God, are made exceedingly honourable.
-R. Their principality is exceedingly strengthened.
+V. Převelice uctěni jsou tví přátelé, Bože.
+R. Převelice je upevněna jejich vláda.
 
 [Capitulum Nona]
 !Acts 5:41
-v. And they indeed went from the presence of the council, rejoicing that they were accounted worthy to suffer reproach for the name of Jesus.
+v. I odcházeli Apoštolové z velerady s radostí, že směli pro Ježíšovo jméno trpět příkoří.
 $Deo gratias
 
 [Responsory Nona]
@@ -289,8 +289,8 @@ R. O God, thy friends.
 &Gloria
 R. Thy friends, O God * are made exceedingly honourable.
 _
-V. They declared the works of God.
-R. And understood his doings.
+V. Rozhlašovali skutky Boží.
+R. A díla jeho poznávali.
 
 [Ant Vespera 3]
 The Lord hath sworn * and will not repent: thou art a Priest for ever.;;109

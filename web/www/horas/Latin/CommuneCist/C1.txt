@@ -142,7 +142,7 @@ Isti sunt * duæ olívæ, et duo candelábra lucéntia ante Dóminum, habent pot
 @Commune/C1:Responsory Tertia:8-9
 
 [Responsory Nona]
-@Commune/C1:Responsory Sexta:8-9
+@Commune/C1:Responsory Nona:8-9
 
 [Ant Vespera 3]
 Jam non dicam * vos servos, sed amícos meos: quia ómnia quæcúmque audívi a Patre meo, nota feci vobis.;;109

@@ -130,12 +130,14 @@
 *July*
 07-01=07-01=Pretiosissimi Sanguinis Domini Nostri Jesu Christi=5=
 07-02=07-02=In Visitatione B Mariae Virginis=6=
-07-04=07-04=S. Procopii, Abbatis et Patroni Regni Bohemiæ=5=
+07-03=07-03=S. Irenæi, Episcopi, Martyris et Ecclesiæ Doctoris=1=
 07-05=07-05=SS. Cyrilli et Methodii, Confessorum et Pontificis, Patronorum Regni Bohemiæ=5=
-07-08=07-08=S. Eugenii, Papae et Confessoris=6=
-07-09=07-09=In Festo Prodigiorum B. Mariæ Virginis=5=
+07-08=07-08=S. Eugenii, Papae et Confessoris=3=
+07-09=07-09=S. Alberti de Sestri, Confessoris=1=
+07-10=07-10=SS. Martyrum Septem Fratrum, ac Rufinæ et Secundæ, Virginum et Martyrum=1=
 07-11=07-11=In Festo Translationis S.P.N. Benedicti=6=
-07-12=07-12=S. Joannis Gualberti Abbatis=1
+07-12=07-12=S. Joannis Gualberti Abbatis=2=
+07-13=07-13=S. Anacleti, Papæ et Martyris=1=
 07-14=07-14=S. Bonaventurae Episcopi Confessoris et Ecclesiae Doctoris=3=
 07-15=07-15=S. Henrici Imperatoris Confessoris=5=
 07-16=07-16=S.P.N. Stephani, Tertii Abbatis Cistercii=7=

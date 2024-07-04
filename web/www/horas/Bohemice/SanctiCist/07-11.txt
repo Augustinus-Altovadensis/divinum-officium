@@ -1,6 +1,10 @@
 [Oratio]
-O God, who filled your most blessed Confessor Benedict with the spirit of all the righteous, grant to us your servants who celebrate his solemnity, that filled with his spirit we may faithfully accomplish by your assistance that which we have promised.
+Vzbuď, Pane, ve své Církvi Ducha, jemuž svatý Benedikt, Opat, sloužil: abychom, jím také naplněni, snažili se milovat, co on miloval, a skutky vykonávat to, co vyučoval.
 $Per Dominum
+
+[Commemoratio]
+!Připomínka Sv. Pia, Papeže a Mučedníka
+@CommuneCist/C2:Oratio:s/N\./Pia/
 
 [Invit]
 Let us praise our God * As we venerate our holy father Benedict.

@@ -1,0 +1,9 @@
+[Rank]
+S. Anacleti, Papæ et Martyris;;Commemoratio et M.;;1;;vide C2
+
+[Oratio]
+@Commune/C2:Oratio1:s/N\./Anacléti/
+
+[Commemoratio]
+!Commemoratio Beatarum Virginum et Martyrum Arausicanarum
+@Commune/C6a:Oratio:s/N\. et N\.//

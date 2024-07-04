@@ -1,0 +1,9 @@
+[Rank]
+S. Anakléta, Papeže a Mučedníka;;Commemoratio et M.;;1;;vide C2
+
+[Oratio]
+@Commune/C2:Oratio1:s/N\./Anakléta/
+
+[Commemoratio]
+!Připomínka svatých Panen a Mučednic Oranžských
+@Commune/C6a:Oratio:s/N\. a N\.//

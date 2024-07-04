@@ -1,0 +1,9 @@
+[Rank]
+Sv. Ireneje, Biskupa, Mučedníka a Učitele Církve;;Commemoratio et Missa;;1;;vide C2
+
+[Ant 1]
+@Commune/C4a::s/N\./Ireneji/
+
+[Oratio]
+Bože, jenž jsi udělil svatému Ireneji, svému Mučedníkovi a Biskupovi, aby učením pravdy potíral bludy, i mír v Církvi šťastně upevnil; dej, prosíme, svému lidu vytrvalost ve svatém náboženství, a svůj mír uděl v našich časech.
+$Per Dominum

@@ -2,4 +2,6 @@
 [Rank]
 Nejdražší Krve Našeho Pána Ježíše Krista;;MM. maj;;5.6;;
 
-
+[Responsory Tertia]
+V. Vykoupil jsi nás, Pane. 
+R. Svou krví.

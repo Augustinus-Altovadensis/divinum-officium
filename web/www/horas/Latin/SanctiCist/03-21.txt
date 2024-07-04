@@ -122,6 +122,11 @@ Núrsiæ * província ortus, Romæ liberálibus litterárum stúdiis tráditus a
 Relícta domo * rebúsque patris, soli Deo placére cúpiens, sanctæ conversatiónis hábitum quæsívit.
 Recéssit ígitur * sciénter nésciens, et sapiénter indóctus.
 
+[Capitulum Vespera 3]
+@:Capitulum Tertia
+_
+@Commune/C5:Responsory Sexta:1-6
+
 [Ant 3]
 Orábat sanctus Benedíctus: * Dómine, non aspícias peccáta mea, sed fidem hujus hóminis, qui rogat resuscitári fílium suum, et sub óculis ómnium vivéntem púerum réddidit patri suo. Allelúia.
 

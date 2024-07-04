@@ -1,5 +1,5 @@
 [Rank]
-S. Eugenii III., Papæ et Confessoris;;II Class;;4;;ex C4
+B. Eugenii III., Papæ et Confessoris;;II Class;;3;;ex C4
 
 [Rule]
 ex C4;
@@ -8,9 +8,17 @@ Antiphonas horas
 12 lectiones
 
 [Oratio]
-Da, quæsumus, omnípotens Deus, beáti Eugénii, Confessóris tui atque Pontíficis intercessióne, ut toto tibi corde famulémur; * quia nulla nobis prævalébit hostílitas, si in te veráciter confidámus.
+Da, quæsumus, omnípotens Deus, beáti Eugénii, Confessóris tui atque Pontíficis intercessióne, ut toto tibi corde famulémur; * quia nulla nobis prævalébit hostílitas, § si in te veráciter confidámus.
 $Per Dominum.
 
+[Commemoratio]
+!Commemoratio S. Theobaldi, Abbatis
+@CommuneCist/C5:Oratio proper
+v. Deus, qui nos cónspicis ex nostra infirmitáte defícere: § adésto propítius; * atque intercedénte beáto Theobáldo, Abbáte, in ómnibus actiónibus nostris et aspirándo nos prævéni, et adjuvándo custódi; § ut cuncta nostra orátio et operátio a te semper incípiat, et per te cœpta finiátur. *
+$Per Dominum
+
+[Ant 3]
+@Commune/C4:Ant 3 summi Pontificis
 
 [Ant Matutinum]
 @CommuneM/C4

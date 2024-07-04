@@ -1,3 +1,5 @@
+@Sancti/06-30
+
 [Rank]
 In Commemoratione S. Pauli Apostoli;;MM. maj.;;5.5;;ex C1
 
@@ -6,23 +8,35 @@ In Commemoratione S. Pauli Apostoli;;MM. maj.;;5.5;;ex C1
 Antiphonas horas
 No prima Vespera
 
+[Ant Laudes]
+Ego plantávi, * Apollo rigávit, Deus autem increméntum dedit, allelúja.
+Grátia Dei * in me vácua non fuit, sed grátia ejus semper in me manet.
+Ter virgis cæsus sum, * semel lapidátus sum, ter naufrágium pértuli pro Christi nómine.
+Damásci, præpósitus * gentis Arétæ regis vóluit me comprehéndere: a frátribus per murum demíssus sum in sporta, et sic evási manus ejus in nómine Dómini.
+Libénter gloriábor * in infirmitátibus meis, ut inhábitet in me virtus Christi.
+
+[Capitulum Laudes]
+@Sancti/06-30
+_
+@Commune/C1:Responsory Sexta:1-6
+
+[Ant 2]
+Evangélium meum, * quod evangelizátum est, non est a me, neque ab hómine accépi illud, sed per revelatiónem Dómini nostri Jesu Christi.
+
+[Commemoratio]
+
 [Ant Vespera 3]
-@Sancti/06-30::s/\./_/g s/_/.;;109/ s/_/.;;112/ s/_/.;;115/ s/_/.;;138/ s/_//
+@:Ant Laudes:s/\./_/g s/_/.;;109/ s/_/.;;112/ s/_/.;;115/ s/_/.;;125/ s/_//
 
 [Capitulum Vespera 3]
 @Sancti/06-30:Capitulum Vespera
 _
-@Commune/C1:Responsory Sexta:1-6
+@Commune/C1:Responsory Tertia:1-6
 
 [MM Capitulum]
 @Sancti/06-30:Capitulum Sexta
 _
 @Sancti/06-30:Ant Matutinum:9-10
-
-[Capitulum Laudes]
-@Sancti/06-30
-_
-@Commune/C1:Responsory Tertia:1-6
 
 [Versum 3]
 @Sancti/06-30:Versum 1
