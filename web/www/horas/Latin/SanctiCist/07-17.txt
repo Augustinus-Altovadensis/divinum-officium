@@ -2,3 +2,10 @@
 
 [Rank]
 Beatæ Mariæ Virginis de Monte Carmelo;;Duplex majus;;5;;ex C11
+
+[Ant 1]
+@CommuneCist/C11
+
+[Commemoratio]
+!Commemoratio S. Alexii, Conf.
+@CommuneCist/C5:Oratio:s/N\./Aléxii/
