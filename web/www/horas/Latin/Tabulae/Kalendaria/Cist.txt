@@ -141,9 +141,9 @@
 07-14=07-14=S. Bonaventurae Episcopi Confessoris et Ecclesiae Doctoris=3=
 07-15=07-15=S. Henrici Imperatoris Confessoris=5=
 07-16=07-16=S.P.N. Stephani, Tertii Abbatis Cistercii=7=
-07-17=07-17=Beatæ Mariæ Virginis de Monte Carmelo=5=S. Leo IV=1=
-07-19=07-19=S. Vincentii a Paulo Conf=3=
-07-20=07-20=S. Hieronomy Emiliani Conf=3=
+07-17=07-17=Beatæ Mariæ Virginis de Monte Carmelo=5=S. Alexii, Confessoris=1=
+07-18=07-18=S. Symphorosæ cum Septem Filiis, Martyribus.=1=
+07-20=07-20=S. Margaritæ, Virginis et Martyris=1=
 07-22=07-22=S. Mariae Magdalenae Poenitentis=3=
 07-23=07-23=S. Apollinaris Episcopi et Mart=3=S. Liborii Ep Conf=1=
 07-25=07-25=S. Jacobi Apostoli=5=S. Christophori Mart=1=

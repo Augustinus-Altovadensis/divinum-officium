@@ -7,18 +7,18 @@ Antiphonas horas
 Doxology=Nat
 
 [Ant Vespera]
-While the King sitteth at his table, * my spikenard sendeth forth the smell thereof.;;109
-His left hand is under my head, * and his right hand doth embrace me.;;112
-I am black but comely, * O ye daughters of Jerusalem. Therefore the King hath loved me, and brought me into his chamber.;;121
-Lo the winter is past, * the rain is over and gone. Rise up, my love, and come away.;;126
-O Holy Mother of God, thou art become beautiful * and gentle in thy gladness.;;147
+Když Král * seděl u svého stolu, můj nard vydával sladkou vůni.;;109
+Jeho levice * je pod mou hlavou, a jeho pravice mě objímá.;;112
+Jsem černá, * ale krásná, dcery Jerusalémské, proto si mě Král zamiloval, a uvedl mě do své ložnice.;;121
+Již zima přešla, * déšť přišel a zase odešel; vstaň, má přítelkyně, a pojď.;;126
+Krásnou * ses stala a sladkou ve svých potěšeních, svatá Boží Rodičko.;;147
 
 [Versum 1]
 V. Rač mi dáti, abych tě chválil, Panno přesvatá.
 R. Dej mi sílu proti svým nepřátelům.
 
 [Ant 1]
-O Holy Mary, be thou an help to the helpless, a strength to the fearful, a comfort to the sorrowful; * pray for the people, plead for the clergy, make intercession for all women vowed to God; may all that are keeping this thine holy Feast-day feel the might of thine assistance.
+Svatá Maria, * přispěj na pomoc ubohým, pomoz slaboduchým, utěš plačtivé, oroduj za lid, zasahuj na pomoc kléru, přimlouvej se za oddané ženské pokolení: aby všichni pociťovali tvou pomoc, kdykoliv slaví tvou svatou slavnost.
 
 [Invit]
 Svatá Panno Maria, * Matko Boží, pros za nás.

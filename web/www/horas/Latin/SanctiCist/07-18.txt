@@ -1,0 +1,10 @@
+[Rank]
+Ss. Symphorosæ et Septem Filiorum Martyrum;;Commemoratio;;1;;vide C3
+
+[Rule]
+vide C3;
+
+[Oratio]
+@Commune/C3::s/N. et N./Symphorósæ et Filiórum ejus/
+
+

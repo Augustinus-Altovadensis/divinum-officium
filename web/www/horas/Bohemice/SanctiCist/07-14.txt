@@ -1,0 +1,10 @@
+@Sancti/07-14
+
+[Rank]
+Sv. Bonaventury, Biskupa, Vyznavače a Učitele Církve;;iij. Lect. et M.;;2;;vide C4
+
+[Ant 1]
+@Commune/C4a:Ant 1:s/N\./Bonaventuro/
+
+[Oratio]
+@CommuneCist/C4:Oratio2:s/N\./Bonaventuru/

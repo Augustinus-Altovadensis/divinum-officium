@@ -1,16 +1,12 @@
 [Rank]
-S. Henrici Imperatoris Confessoris;;Semiduplex;;2;;vide C5
+Sv. Jindřicha, Císaře a Vyznavače;;MM. min.;;4;;vide C5
 
 [Rule]
 vide C5;mtv
 9 lectiones
 
 [Oratio]
-O God, Who on this day took St. Henry, thy Confessor, to the everlasting~
-kingdom from the throne of an earthly empire; we humbly beseech thee, that as thou~
-enabled him, protected by the abundance of thy grace, to overcome the~
-temptations of the world, so grant that we, in emulation of him, may shun the~
-allurements of this world and come to thee with pure hearts.
+Bože, jenž jsi dnešního dne svatého Jindřicha, svého Vyznavače přenesl z vrcholu pozemské říše do království věčného; snažně tě prosíme, abychom tak, jako jsi jej předcházel hojností své milosti a tím mu pomohl přemoci lákadla světa, také nás učiň, abychom v jeho napodobování se vyhnuli světským útěchám, a k tobě došli s čistou myslí.
 $Per Dominum
 
 [Lectio4]

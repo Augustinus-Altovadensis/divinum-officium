@@ -4,6 +4,7 @@
 Collaudábunt multi * sapiéntiam ejus, et usque in sæculum non delébitur.
 Cognóvit eum Dóminus * in benedictiónibus suis, et invénit grátiam coram óculis Dómini.
 Justum dedúxit Dóminus * per vias rectas, et osténdit illi regnum Dei, et dedit illi sciéntiam Sanctórum: honestávit illum in labóribus, et complévit labóres illíus.
+Justus * cor suum tradet ad vigilándum dilúculo ad Dóminum, qui fecit illum, et in conspéctu Altíssimi deprecábitur.
 Serve bone, * et fidélis, quia super pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.
 
 [Ant Vespera] (tempore paschali)
@@ -72,9 +73,6 @@ Qui manet in me: * et ego in eo, hic fert fructum multum, allelúia.
 [HymnusM Laudes]
 @Commune/C5::s/Anni recúrso/Anni revérso/ s/Virtútum actu/Virtúte clarus/
 
-[Ant Tertia]
-@:Ant Vespera:2
-
 [Capitulum Tertia]
 @Commune/C5
 
@@ -83,6 +81,7 @@ Qui manet in me: * et ego in eo, hic fert fructum multum, allelúia.
 
 [Capitulum Sexta]
 @Commune/C5:Lectio Prima
+$Deo gratias
 
 [Responsory Sexta]
 @Commune/C5:Responsory Sexta:8-9

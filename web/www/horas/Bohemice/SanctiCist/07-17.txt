@@ -1,0 +1,11 @@
+﻿@Sancti/07-16
+
+[Rank]
+Beatæ Mariæ Virginis de Monte Carmelo;;Duplex majus;;5;;ex C11
+
+[Ant 1]
+@CommuneCist/C11
+
+[Commemoratio]
+!Připomínka sv. Alexia, Vyznavače.
+@CommuneCist/C5:Oratio:s/N\./Alexia/

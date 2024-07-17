@@ -2,6 +2,28 @@
 [Name]
 In Festis Beatae Mariae Virginis, Versio Cisterciensis Bohemica.
 
+[Ant Vespera]
+Když Král * seděl u svého stolu, můj nard vydával sladkou vůni.;;109
+Vylitá mast * je tvé jméno, proto si tě mladé dívky velice zamilovaly.;;112
+Jsem černá, * ale krásná, dcery Jerusalémské, proto si mě Král zamiloval, a uvedl mě do své ložnice.;;121
+Požehnaná jsi * mezi ženami, a požehnaný plod života tvého.;;126
+Krásná jsi a zdobná, * dcero Jerusalémská, hrozná jako seřazená šik vojska.;;147
+
+[Ant 1]
+@Commune/C11::s/\: aby všichni.*/./
+
+[Capitulum Sexta]
+!Píseň písní 6, 9.
+v. Uzřely ji dcery sionské, a prohlašují ji za blahoslavenou, a královny ji chválí.
+
+[Capitulum Nona]
+!Píseň písní 6, 9.
+v. Kdopak je to? Vychází jak jitřenka, krásná jak luna, vznešená jak slunce, hrozná jak seřazené šiky vojska?
+
+[Responsory Nona]
+V. Vyvolil si ji Hospodin.
+R. Za své dědictví.
+
 [Ant Matutinum]
 Blessed art thou among women, * and blessed is the fruit of thy womb;;8
 O Holy Mother of God * thou hast yielded a pleasant odor like the best myrrh;;18

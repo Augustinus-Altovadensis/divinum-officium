@@ -1,0 +1,10 @@
+[Rank]
+Sv. Symphorosy a sedmi jejích Synů, Mučedníků;;Commemoratio;;1.1;;vide C3
+
+[Rule]
+vide C3;
+
+[Oratio]
+@Commune/C3::s/N. a N./Symphorosy a jejích Synů/
+
+

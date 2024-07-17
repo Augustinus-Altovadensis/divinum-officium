@@ -1,7 +1,19 @@
 @Commune/C11
 
+[Ant Vespera]
+Dum esset Rex * in accúbitu suo, nardus mea dedit odórem suavitátis.;;109
+Unguéntum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te nimis.;;112
+Nigra sum, * sed formósa, fíliæ Jerúsalem; ídeo diléxit me Rex, et introdúxit me in cubículum suum.;;121
+Benedícta tu * in muliéribus, et benedíctus fructus ventris tui.;;126
+Pulchra es, et decóra, * fília Jerúsalem, terríbilis ut castrórum ácies ordináta.;;147
+
 [Capitulum Vespera]
-@CommuneM/C10:Capitulum Vespera
+@Commune/C10:Capitulum Vespera
+_
+@CommuneCist/C6::3-6
+
+[Ant 1]
+@Commune/C11::s/\: séntiant.*/./
 
 [Ant Matutinum]
 Benedícta tu * in muliéribus, † et benedíctus fructus ventris tui.;;8
@@ -33,8 +45,11 @@ R. Intercede pro nobis ad Dominum Deum nostrum.
 &Gloria
 R. Intercede pro nobis ad Dominum Deum nostrum.
 
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
 [Capitulum Laudes]
-@CommuneM/C10:Capitulum Vespera
+@CommuneCist/C10:Capitulum Vespera
 
 [Hymnus Laudes]
 @Commune/C10:HymnusM Laudes
@@ -42,11 +57,20 @@ R. Intercede pro nobis ad Dominum Deum nostrum.
 [Responsory Tertia]
 @CommuneM/C10:Responsory Tertia
 
+[Capitulum Sexta]
+!Cant. 6.
+v. Vidérunt eam fíliæ Sion, et beátíssimam prædicavérunt: * et regínæ laudavérunt eam.
+
+[Capitulum Nona]
+!Cant. 6.
+v. Quæ est ista, quæ progréditur quasi auróra consúrgens, § pulchra ut luna, elécta ut sol, * terríbilis ut castrórum ácies ordináta?
+
 [Responsory Sexta]
 @CommuneM/C10:Responsory Sexta
 
 [Responsory Nona]
-@CommuneM/C10:Responsory Nona
+V. Elégit eam Dóminus.
+R. In hæreditátem sibi.
 
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Lucam

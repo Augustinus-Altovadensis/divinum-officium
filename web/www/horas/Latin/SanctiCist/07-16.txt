@@ -3,12 +3,40 @@ S. P. N. Stephani, Tertii Abbatis Cistercii;;Duplex;;5.9;;ex C5
 
 [Rule]
 ex C5;mtv
+Antiphonas horas
 
 [Ant Vespera]
-@SanctiCist/03-21
+@SanctiCist/03-21::1-3
+@CommuneCist/C5::4
+
+[Capitulum Vespera]
+@SanctiCist/03-21:Capitulum Tertia
+_
+Responsorium. O beáti viri Stéphani sancta præcónia, o inæstimábilis diléctio charitátis! * Qui dum sæculi pompam contémpsit, ætérnæ vitæ conjúnctus est.
+V. Cui vívere Christus fuit, et mori lucrum:
+R. Qui dum sæculi pompam contémpsit, ætérnæ vitæ conjúnctus est.
+
+[Versum 1]
+V. Ora pro nobis, beáte Pater Stéphane.
+R. Ut digni efficiámur promissiónibus Christi.
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
 
 [Oratio]
-Excita, Dómine, in Ecclésia tua Spíritum, cui beátus Stéphanus, Abbas, servívit: ut, eódem nos repléti, studeámus amáre quod amávit, et ópere exercére quod dócuit. Per Dóminum nostrum Jesum Christum, Fílium tuum: qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per omnia sæcula sæculórum. Amen.
+Excita, Dómine, in Ecclésia tua Spíritum, cui beátus Stéphanus, Abbas, servívit: ut, eódem nos repléti, studeámus amáre quod amávit, et ópere exercére quod dócuit. 
+$Per Dominum eiusdem
+
+[Capitulum Laudes]
+@SanctiCist/03-21:Capitulum Tertia
+_
+@CommuneCist/C5::3-6
+
+[Capitulum Tertia]
+@SanctiCist/03-21:Capitulum Tertia
 
 [Capitulum Vespera 3]
 @SanctiCist/03-21
