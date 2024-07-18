@@ -980,27 +980,33 @@ sub martyrologium_cz : ScriptFunc {
         'prosince'
       );
 
-  # remove leading zeros
-  $month =~ s/^0+// ; 
-  $day =~ s/^0+// ;  
+  my $fname = nextday($month, $day, $year);
+
+  $month_t = $fname; $month_t =~ s/-.*//;
+  $day_t = $fname; $day_t =~ s/.*?-//;
+  $d = $day_t;
+
+  # remove leading zeros. _t = tomorrow
+  $month_t =~ s/^0+// ; 
+  $day_t =~ s/^0+// ;  
   $d =~ s/^0+// ; 
 
-   $fname = checkfile($lang, "Psalterium/Martyrologium.txt");
+  $fname = checkfile($lang, "Psalterium/Martyrologium.txt");
 
   # This reads the current part of the Necrologium by "greping" the day part in the text.
   # The month part is solved before in the filename.
 
-  $t .= "v. M<b>artyrologium na den $d. @mensis[$month], Léta Páně $year.</b>" . "\n_\n";
+  $t .= "v. M<b>artyrologium na den $d. @mensis[$month_t], Léta Páně $year.</b>" . "\n_\n";
   
-  if ( $day == 24 && $month == 2 && $l == 1 ) {
+  if ( $day_t == 24 && $month_t == 2 && $l == 1 ) {
     $t .= "r. Památka velkého počtu svatých mučedníků a vyznavačů, taktéž svatých panen, jejichž přímluvu s v modlitbách vyprošujeme. †\n" ;
     $t .= '$Deo gratias' . "\n_\n";
     return $t;
   }
 
   # and if it IS a leap year...
-  if ( $day > 24 && $month == 2 && $l == 1 ) {
-    my $minus = $day - 1;
+  if ( $day_t > 24 && $month_t == 2 && $l == 1 ) {
+    my $minus = $day;
     $reading = 0;
     if (@a = do_read($fname)) {
      foreach $line (@a) {
@@ -1022,7 +1028,7 @@ sub martyrologium_cz : ScriptFunc {
     $reading = 0;
     if (@a = do_read($fname)) {
       foreach $line (@a) {
-        if ($line =~ /^$d\..* @mensis[$month]/i || $reading >= 1 ) {
+        if ($line =~ /^$d\..* @mensis[$month_t]/i || $reading >= 1 ) {
           $reading ++;
           $line =~ s/^\s+//; $line =~ s/\s+$//;
             if ($reading >= 1 && $line !~ /^$/ ) {
