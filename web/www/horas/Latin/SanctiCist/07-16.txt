@@ -1,5 +1,5 @@
 ﻿[Rank]
-S. P. N. Stephani, Tertii Abbatis Cistercii;;Duplex;;5.9;;ex C5
+S. P. N. Stephani, Tertii Abbatis Cistercii;;Duplex;;6.9;;ex C5
 
 [Rule]
 ex C5;mtv
@@ -27,7 +27,7 @@ R. Ut digni efficiámur promissiónibus Christi.
 @:Versum 1
 
 [Oratio]
-Excita, Dómine, in Ecclésia tua Spíritum, cui beátus Stéphanus, Abbas, servívit: ut, eódem nos repléti, studeámus amáre quod amávit, et ópere exercére quod dócuit. 
+Excita, Dómine, in Ecclésia tua Spíritum, cui beátus Stéphanus, Abbas, servívit: * ut, eódem nos repléti, studeámus amáre quod amávit, et ópere exercére quod dócuit. 
 $Per Dominum eiusdem
 
 [Capitulum Laudes]

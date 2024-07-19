@@ -721,7 +721,7 @@ sub concurrence {
 		if($version =~ /1906/ && $winner{Rank} =~ /infra Octavam/i && $crank == 2.2) { $flcrank = 2.2; }
 		elsif ($version =~ /1906/ && $cwinner{Rank} =~ /infra Octavam/i && $rank == 2.2) { $flrank = 2.2; }
 		
-		if (($rank >= (($version =~ /19(?:55|6)/) ? 6 : 7) && $crank < 6) # e.g. 05-26-2022
+		if (($rank >= (($version =~ /19(?:55|6)/) ? 6 : 7) && $crank < 6 && $version !~ /Cistercien/i) # e.g. 05-26-2022
 			|| ($version =~ /196/ && ($cwinner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat1/i && $crank <= 5) && ($rank >= 5 && $winner{Rule} =~ /Festum Domini/i)) #on a II. cl Sunday nothing at 1st Vespers in concurrence with a Feast of the Lord
 			|| ($rank >= ($version =~ /trident/i ? 6 : 5) && $winner !~ /feria|in.*octava/i && $version !~ /Cistercien/i && $crank < 2.1)) {		# on Duplex I. cl / II. cl no commemoration of following Simplex and Common Octaves
 				$dayname[2] .= "<br>Vespera de præcedenti; nihil de sequenti";
@@ -889,7 +889,11 @@ sub concurrence {
 			if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) { next; }	# no superseded Tempora or day within octave can have 1st vespers unless a Sunday
 			if (%cstr) {
 				my @cr = split(";;", $cstr{Rank});
-				unless ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i)) { push(@comentries, $commemo); }
+				# This excludes the Cistercian version
+				unless ($version !~ /Cistercien/i && ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i))) { push(@comentries, $commemo); }
+				# Here some Commemorations are deleted. Check!!
+				# This includes the Cistercian version
+				unless ($version =~ /Cistercien/i && ($cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i))) { push(@comentries, $commemo); }
 			}
 		}
 		@ccommemoentries = @comentries;
@@ -1254,7 +1258,8 @@ sub precedence {
 		$rule = $winner{Rule};
 		
 		if ($vtv =~ /Maria/i) {
-			$commune = "Commune/C11.txt";
+			#$commune = "Commune/C11.txt";
+			$commune = subdirname('Commune', $version) . "C11.txt";
 			$communetype = 'ex';
 			%commune = %{setupstring($lang1, $commune)};
 			# %commune2 = updaterank(setupstring($lang2, $commune));

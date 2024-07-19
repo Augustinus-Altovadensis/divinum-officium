@@ -1,7 +1,7 @@
 [Name]
 Officium Beatæ Mariæ Virginis in Sabbato. Versio Cisterciensis Bohemica.
 
-[Capitulum Vespera]
+[Capitulum Laudes]
 @Commune/C10:Capitulum Vespera
 _
 R.br. Zdrávas Maria, milosti plná, * Pán s tebou.

@@ -1,6 +1,29 @@
 @Commune/C10
+[Name]
+Officium Beatae Mariae Virginis in Sabbato, Versio Cisterciensis
 
 [Capitulum Vespera]
+@CommuneCist/C10n
+
+[Oratio]
+@Commune/C10
+
+[Versum 1]
+@Commune/C11:Versum 1
+
+[Ant 1]
+@CommuneCist/C11:Ant 3
+
+[Versum 2]
+@:Versum 1
+
+[Ant 2]
+@CommuneCist/C11::s/,\ allelúja//
+
+[Ant Laudes]
+@CommuneCist/C11
+
+[Capitulum Laudes]
 @Commune/C10:Capitulum Vespera
 _
 R.br. Ave María, grátia plena, * Dóminus tecum.
@@ -10,17 +33,20 @@ R. Dóminus tecum.
 &Gloria
 R. Ave María, grátia plena, * Dóminus tecum.
 
-[Oratio]
-@Commune/C10
+[Responsory Tertia]
+@CommuneCist/C6
 
-[Versum 1]
-@Commune/C11:Versum 1
+[Capitulum Sexta]
+@CommuneCist/C11
 
-[Versum 2]
-@:Versum 1
+[Responsory Sexta]
+@CommuneCist/C11
 
-[Ant 2]
-@CommuneCist/C11::s/,\ allelúja//
+[Responsory Nona]
+@CommuneCist/C11
+
+[Capitulum Nona]
+@CommuneCist/C11
 
 [Lectio11]
 !from tempora
@@ -36,29 +62,6 @@ R. Quia ex te ortus est sol justítiæ.
 &Gloria
 R. Christus Deus noster. (Allelúja.)
 
-[Ant Prima]
-@Commune/C11:Ant Vespera:1
-
-[Ant Tertia]
-@Commune/C11:Ant Vespera:2
-
-[Ant Sexta]
-@Commune/C11:Ant Vespera:3
-
-[Ant Nona]
-@Commune/C11:Ant Vespera:5
-
-[Capitulum Laudes]
-@:Capitulum Vespera
-
-[Responsory Tertia]
-@CommuneM/C6
-
-[Responsory Sexta]
-@CommuneM/C6
-
-[Responsory Nona]
-@CommuneM/C6
 
 [Lectio M011]
 Ex Epístola sancti Ambrósii Epíscopi ad Sirícium Papam

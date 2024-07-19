@@ -1444,7 +1444,7 @@ sub oratio {
 				}
 				
 				# add commemorated from cwinner
-				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/)
+				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/ && $version !~ /Cistercien/i )
 				|| $rule =~ /no commemoratio/i
 				|| ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i)) {
 					if (exists($c{"Commemoratio $cvespera"})) {
@@ -1721,6 +1721,7 @@ if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ 
   my $substitutions = $4;
   do_inclusion_substitutions($o, $substitutions);
   $o =~ s/^(?:v. )?/v. /;
+  $o =~ s/\*/<font color=red>*<\/font>/; # my sorry attempt to make * red
   $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus\n$o\n";
   return $w;
 }
