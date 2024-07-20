@@ -1,5 +1,5 @@
 [Rank]
-Dominica VIII Post Pentecosten;;Semiduplex;;5
+Neděle osmá po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -11,7 +11,7 @@ Symbolum Athanasium
 O Lord, Thou hast hearkened unto the prayer of thy servant, * that I might build a temple unto thy Name.
 
 [Oratio]
-Grant to us, Lord, we beseech thee, the spirit to think and do always such things as be rightful, that we, who cannot do anything that is good without thee, may by thee be enabled to live according to thy will.
+Uděl nám laskavě, prosíme, Pane, vždy ducha myšlení toho, co je správné, i konání; abychom, když bez tebe býti nemůžeme, podle tebe dokázali žíti.
 $Per Dominum
 
 [Lectio1]
@@ -66,7 +66,7 @@ Therefore it is immediately written: “He that is faithful in that which is lea
 &teDeum
 
 [Ant 2]
-The lord said unto his steward: * How is it that I hear this of thee? Give an account of thy stewardship. Alleluia.
+Řekl pán správci: * Copak to o tobě slyším? Slož účty svého správcování, alleluja.
 
 [Ant 3]
-What shall I do? * For my lord taketh away from me the stewardship. I cannot dig, to beg I am ashamed. I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.
+Co mám dělat, * když můj pán ode mě odebere správcovství? Kopat nezvládnu a žebrat se stydím. Vím, co udělám, aby, až budu sesazen ze svého správcovství, mě lidé přijali do svých domů.

@@ -10,8 +10,11 @@ Symbolum Athanasium
 [Ant 1]
 And Joas did * that which was right before the Lord all the days that Joiada, the priest, taught him.
 
+[Ant 1] (rubrica cisterciensis)
+Pomazali Šalamouna * kněz Sádok a Prorok Nátan na krále, v Gihonu; a vyšli a radostně pronesli: Ať žije král Šalamoun.
+
 [Oratio]
-O God, Who declarest thine Almighty power most chiefly in showing mercy and pity, mercifully grant unto us such a measure of thy grace, that we, running the way of thy commandments, may obtain thy gracious promises, and be made partakers of thy heavenly treasure.
+Bože, jenž svou všemohoucnost nejvíce ukazuješ, když se milosrdně slitováváš; rozmnož nad námi své milosrdenství; abys nás, když běžíme k tvým zaslíbením, učinil účastnými dober nebeských.
 $Per Dominum
 
 [Lectio1]
@@ -67,7 +70,10 @@ The Pharisee might at least have said: "I am not as many men are." But what mean
 &teDeum
 
 [Ant 2]
-The publican, standing afar off, * would not lift up so much as his eyes unto heaven, but smote upon his breast, saying: God, be merciful to me, a sinner.
+Celník stál opodál, * nechtěl ani své oči pozvednout k nebi, ale bil se v prsa a říkal: Bože, milostiv buď mně, hříšníkovi.
 
 [Ant 3]
 This man went down to his house * justified rather than the other, for every one that exalteth himself shall be abased, and he that humbleth himself shall be exalted.
+
+[Ant 3] (rubrica cisterciensis)
+Každý, * kdo se povyšuje, bude pokořen; a kdo se pokořuje, bude povýšen.

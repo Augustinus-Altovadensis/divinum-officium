@@ -10,8 +10,11 @@ Symbolum Athanasium
 [Ant 1]
 When the Lord would take up * Elijah into heaven by a whirlwind, Elisha cried, and said: My father, my father, the chariot of Israel, and the horsemen thereof.
 
+[Ant 1] (rubrica cisterciensis)
+Snažně tě prosím, Pane, * odejmi nepravost svého služebníka, neboť jsem jednal nemoudře.
+
 [Oratio]
-Let thy merciful ears, O Lord, be open to the prayers of thy humble servants; and, that they may obtain their petitions, make them to ask such things as shall please thee.
+Otevři uši svého milosrdenství, Pane, prosbám pokorně prosících; a abys prosebníkům mohl vyplnit jejich touhy, učiň, ať žádají o to, co se tobě líbí.
 $Per Dominum
 
 [Lectio1]
@@ -63,7 +66,8 @@ The Saviour wept over the ruin of the unfaithful city, while she herself as yet 
 &teDeum
 
 [Ant 2]
-When the Lord was come near to Jerusalem, He beheld the city, and wept * over it, saying: If thou hadst known, even thou! For the days shall come upon thee, that thine enemies shall cast a trench about thee, and compass thee round, and keep thee in on every side and shall lay thee even with the ground because thou knewest not the time of thy visitation, alleluia.
+Když se Pán přiblížil * k Jerusalému, uviděl město a zaplakal nad ním, a řekl: Kdybys jen ty znalo, že přijdou na tebe dni, kdy tě budou obléhat, a utlačovat ze všech stran, a srazí tě k zemi; protože jsi nepoznalo čas svého navštívení, alleluja.
 
 [Ant 3]
-It is written: My house is the house of prayer * for all nations but ye have made it a den of thieves. And He taught daily in the Temple.
+Je totiž psáno: * Můj dům je dům modlitby pro všechny národy; vy jste z něj však udělali peleš lotrovskou; a byl každý den v chrámě a vyučoval.
+
