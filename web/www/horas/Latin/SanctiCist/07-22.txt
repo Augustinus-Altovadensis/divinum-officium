@@ -1,22 +1,17 @@
 @Sancti/07-22
 
 [Rank]
-S. Mariæ Magdalenæ Pœnitentis;;Duplex;;5.1;;ex C7a
+S. Mariæ Magdalenæ Pœnitentis;;MM. maj.;;5.1;;ex C7a
 
 [Rule]
 Antiphonas horas
 
 [Ant Vespera]
 Ardens est cor meum, * desídero vidére Dóminum meum: quæro, et non invénio, ubi posuérunt eum, allelúia.;;109
-Allelúia, * quem quæris múlier, allelúia, vivéntem cum mórtuis? allalúia, allelúia.;;112
-Allelúia, * noli flere María, allelúia: resurréxit Dóminus, allelúia, allelúija.;;121
+Allelúia, * quem quæris múlier, allelúia, vivéntem cum mórtuis? allelúia, allelúia.;;112
+Allelúia, * noli flere María, allelúia: resurréxit Dóminus, allelúia, allelúia.;;121
 María ergo * unxit pedes Jesu, et extérsit capíllis suis, et domus impléta est ex odóre unguénti.;;126
 Venit María * núntians discípulis, quia vidi Dóminum, allelúia.
-
-[Capitulum Vespera]
-@Commune/C7a
-_
-@Commune/C6:Responsory Tertia:1-6
 
 [HymnusC Vespera]
 @Sancti/07-22:Hymnus Vespera
@@ -33,10 +28,9 @@ V. Proptérea unxit te Deus, Deus tuus, oleo lætítiæ.
 [Ant Laudes]
 @:Ant Vespera:s/;;.*//g
 
-[Capitulum Laudes]
-@Commune/C7a
-_
-@Commune/C6:Responsory Sexta:1-6
+
+[HymnusC Laudes]
+@Sancti/07-22:HymnusM Laudes
 
 [Versum 2]
 @:Versum 1

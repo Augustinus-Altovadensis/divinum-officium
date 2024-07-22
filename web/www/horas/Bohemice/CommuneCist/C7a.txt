@@ -1,0 +1,8 @@
+[Name]
+Commune non Virginum non Martyrum, Versio Bohemica
+
+[Oratio3]
+Srdce svých věřících, Bože - smilovníku, osvěť; a slavnými prosbami svaté N. nám pomoz odvrhnout přízeň světa, a vždy se radovat z nebeské útěchy.
+$Per Dominum
+
+

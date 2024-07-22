@@ -75,7 +75,7 @@ me in die tribulationis meae, et in tempore superborum sine adjutorio.
 $Deo gratias
 
 [Responsory Nona]
-@Commune/C6:Responsory Sexta:8-9
+@Commune/C11
 
 [Lectio31]
 !Sir 51:13-17

@@ -7,30 +7,30 @@ vide C7;
 scriptura1960
 
 [Hymnus Vespera]
-v. Father of lights! one glance of thine,
-Whose eyes the universe control,
-Fills Magdalene with holy love,
-And melts the ice within her soul.
+v. Otče nejvyššího světla,
+Když na Magdalénu shlédneš,
+Plameny lásky probudíš,
+A hned led v srdci rozpustíš.
 _
-Her precious ointment forth she brings
-Upon those sacred feet to pour;
-She washes them with burning tears,
-And with her hair she wipes them o'er.
+Láskou hnána pospíchá hned
+Blažené nohy pomazat;
+Slzami smývá, otírá
+Vlasy, a ústy přijímá.
 _
-Impassioned, to the cross she clings,
-Nor fears beside the tomb to stay;
-Nor dreads the soldiers' savage mien,
-For love has cast all fear away.
+Nebojí se stát u kříže,
+K hrobu hned v úzkosti lne,
+Ran vojáků se nebojí,
+Laska její strach zahání.
 _
-O Christ, thou very love itself!
-Blest hope of man, through thee forgiven!
-So touch our spirits from above,
-So purify our souls for heaven.
+Ó pravá, Kriste, láska to!
+Ty naše hříchy vyčisti,
+Ty srdce naplň milostí,
+Ty daruj nebes odměny.
 _
-* To God the Father, with the Son
-And Holy Paraclete, with thee,
-As evermore hath been before,
-Be glory through eternity.
+Otci i Synu společně,
+I, Duchu Svatý, též tobě,
+Jakož bylo, tak bude vždy,
+Ve vší slávě a navěky.
 Amen.
 
 [Ant 1]
@@ -41,10 +41,7 @@ and did wipe them with the hairs of her head, and kissed His Feet, and anointed~
 them with the ointment.
 
 [Oratio]
-O Lord, we pray thee, that we may be helped by the pleading of Blessed Mary~
-Magdalen, whose prayers so much availed with thee, that Thou didst call up her~
-brother Lazarus living from the dead, when he had lain in the grave four days~
-already.
+Prosíme tě, Pane, aby nám pomohly přímluvy svaté Marie Magdaleny; jejíž prosby tě přesvědčily, abys jejího čtyři dny mrtvého bratra Lazara živého přivedl zpět z podsvětí.
 $Qui vivis
 
 [Invit]
@@ -214,31 +211,34 @@ thanksgiving.
 &teDeum
 
 [Hymnus Laudes]
-v. Son of the Highest, deign to cast
-On us a pitying eye;
-Thou, who repentant Magdalene
-Didst call to endless joy.
+v. Ty věčný Otcův Jediný,
+Na nás laskavě pohlédni;
+Jenž Magdalénu dnešní den
+Voláš až k trůnu slávy své.
 _
-Again the royal treasury
-Receives its long-lost coin;
-The gem is found, and, cleansed from mire,
-Doth all the stars outshine.
+V pokladnici uložena
+Jest krále drachma ztracená;
+Drahokam leskem zářící
+Se z bahna na svět navrací.
 _
-O Jesus, balm of every wound!
-The sinner's only stay!
-Wash thou in Magdalene's pure tears
-Our guilty spots away.
+Ježíši, záštito sladká, 
+Hříšných naděje jediná,
+Pro té hříšnice zásluhy
+Odpusť našich hříchů dluhy.
 _
-Mother of God! the sons of Eve
-Weeping thine aid implore:
-Oh, land us from the storms of life
-Safe on th' eternal shore.
+Laskavá matko, pokorná, 
+Přirozenost víš, jak křehká
+Tohoto světa záplavou
+Nechť tvé prosby nás provedou.
 _
-Glory, for graces manifold,
-To the one only Lord;
-Whose mercy doth our souls forgive,
-Whose bounty doth reward.
+Bohu sláva jedinému,
+Pro milost mnohého druhu,
+Jež viny i jejich tresty
+odpouští, ty dáš odměny.
 Amen.
+
+[HymnusM Laudes]
+@:Hymnus Laudes
 
 [Versum 2]
 V. God hath chosen her and forechosen her.
