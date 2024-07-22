@@ -1,7 +1,10 @@
 @Sancti/07-23
 
 [Rank]
-S. Apollinaris Episcopi et Martyris;;Simplex;;1.1;;vide C2
+S. Apollinaris, Episcopi et Martyris;;Commemoratio;;1;;vide C2
 
 [Commemoratio]
- 
+
+[Commemoratio Sabbat]
+!Commemoratio S. Liborii Episcopi et Confessoris
+@Commune/C4:Oratio proper

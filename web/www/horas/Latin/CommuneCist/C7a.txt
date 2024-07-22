@@ -2,7 +2,6 @@
 Commune non Virginum non Martyrum
 
 [Rule]
-Psalmi Dominica
 Antiphonas horas
 
 [Ant Vespera]
@@ -13,16 +12,74 @@ Antiphonas horas
 v. Mulíerem fortem quis invéniet? Procul et de últimis fínibus prétium ejus. Confídit in ea cor viri sui, et spóliis non indigébit.
 $Deo gratias
 _
-@Commune/C6:Responsory Sexta:1-6
+@Commune/C6:Responsory Tertia:1-6
 
 [Hymnus Vespera]
 @Commune/C7:Hymnus Vespera
 
 [Versum 1]
-@Commune/C6
+@CommuneCist/C6
 
 [Ant 1]
 @Commune/C6:Ant 2
+
+[Ant Laudes]
+@CommuneCist/C7:Ant Vespera
+
+[Capitulum Laudes]
+@:Capitulum Vespera:1-3
+_
+@Commune/C6:Responsory Sexta:1-6
+
+[Hymnus Laudes]
+@Commune/C7:Hymnus Vespera
+
+[Versum 2]
+@Commune/C6
+
+[Ant 2]
+@CommuneCist/C7
+
+[Oratio]
+@Commune/C7:Oratio
+
+[Oratio1]
+@Commune/C7:Oratio1
+
+[Oratio2]
+@Commune/C7
+
+[Oratio3]
+Tuórum corda fidélium, Deus miserátor, illústra: et, beátæ N. précibus gloriósis; fac nos próspera mundi despícere, et cælésti semper consolatióne gaudére.
+$Per Dominum
+
+[Responsory Tertia]
+@Commune/C6:Versum 1
+
+[Capitulum Tertia]
+@:Capitulum Vespera:1-3
+
+[Capitulum Sexta]
+!Prov 31:20-21
+v. Manum suam apéruit ínopi, et palmas suas exténdit ad páuperem. Non timébit dómui suæ a frigóribus nivis.
+$Deo gratias.
+
+[Responsory Sexta]
+@CommuneCist/C6
+
+[Capitulum Nona]
+!Prov 31:29-30
+v. Multæ fíliæ congregavérunt divítias: tu supergréssa es univérsas. Fallax grátia, et vana est pulchritúdo: múlier timens Dóminum, ipsa laudábitur. 
+$Deo gratias
+
+[Responsory Nona]
+@CommuneCist/C11
+
+[Versum 3]
+@:Versum 2
+
+[Ant 3]
+@CommuneCist/C7
 
 [Invit]
 @Commune/C7
@@ -84,60 +141,5 @@ _
 [Lectio9]
 @Commune/C7
 
-[Ant Laudes]
-@Commune/C7
 
-[Capitulum Laudes]
-@:Capitulum Vespera
-
-[Hymnus Laudes]
-@Commune/C7:Hymnus Vespera
-
-[Versum 2]
-@Commune/C6
-
-[Ant 2]
-@CommuneCist/C7
-
-[Oratio]
-@Commune/C7:Oratio
-
-[Oratio1]
-@Commune/C7:Oratio1
-
-[Oratio2]
-@Commune/C7
-
-[Oratio3]
-Tuórum corda fidélium, Deus miserátor, illústra: et, beátæ N. précibus gloriósis; fac nos próspera mundi despícere, et cælésti semper consolatióne gaudére.
-$Per Dominum
-
-[Capitulum Tertia]
-@:Capitulum Vespera:1-3
-
-[Responsory Tertia]
-V. Spécie tua et pulchritúdine tua.
-R. Inténde, próspere procéde, et regna.
-
-[Capitulum Sexta]
-!Prov 31:20-21
-v. Manum suam apéruit ínopi, et palmas suas exténdit ad páuperem. Non timébit dómui suæ a frigóribus nivis.
-$Deo gratias.
-
-[Responsory Sexta]
-@CommuneCist/C6
-
-[Capitulum Nona]
-!Prov 31:29-30
-v. Multæ fíliæ congregavérunt divítias: tu supergréssa es univérsas. Fallax grátia, et vana est pulchritúdo: múlier timens Dóminum, ipsa laudábitur. 
-$Deo gratias
-
-[Responsory Nona]
-@CommuneCist/C6
-
-[Versum 3]
-@:Versum 2
-
-[Ant 3]
-@CommuneCist/C7
 

@@ -241,7 +241,7 @@ V. Milost se rozlila na tvých rtech.
 R. Proto ti Bůh požehnal navěky.
 
 [Ant 2]
-Království nebeské je podobné člověku obchodníku, který hledá krásné perly; a když najde jednu cennou, dá vše, co má, a koupí ji.
+Království nebeské je podobné * člověku obchodníku, který hledá krásné perly; a když najde jednu cennou, dá vše, co má, a koupí ji.
 
 [Oratio]
 Bože, jenž jsi mezi ostatními zázraky své moci také slabému pohlaví propůjčil vítězství Mučedníků, popřej milostivě, abychom, když slavíme narozeniny pro nebe svaté N., tvé Panny a Mučednice, podle jejího příkladu k tobě spěli. 
@@ -263,8 +263,8 @@ R. A své kráse.
 &Gloria
 R. Ve své zdobnosti * a své kráse.
 _
-V. God shall help her with His countenance.
-R. God is in the midst of her, she shall not be moved.
+V. Bůh jí pomůže úsměvem své tváře.
+R. Bůh s ní bude, a nikdy nezakolísá.
 
 [Capitulum Sexta]
 !2 Cor 11:2
@@ -274,7 +274,7 @@ $Deo gratias
 [Responsory Sexta]
 R.br. Bůh jí pomůže * úsměvem své tváře.
 R. Bůh jí pomůže * úsměvem své tváře.
-V. Bůh s ním bude, a nikdy nezakolísá.
+V. Bůh s ní bude, a nikdy nezakolísá.
 R. Úsměvem své tváře.
 &Gloria
 R. Bůh jí pomůže * úsměvem své tváře.
@@ -295,8 +295,8 @@ R. And fore-chosen her.
 &Gloria
 R. God hath chosen her, * and fore-chosen her.
 _
-V. Grace is poured into thy lips.
-R. Therefore God hath blessed thee for ever.
+V. Milost se rozlila na tvých rtech.
+R. Proto ti Bůh požehnal navěky.
 
 [Lectio11]
 Lesson from the book of Ecclesiasticus

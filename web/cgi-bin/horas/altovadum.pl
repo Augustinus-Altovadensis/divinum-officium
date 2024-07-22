@@ -158,9 +158,11 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Černicensis/v Černici/ig;
 	$line =~ s/in Krems/v Křemži/ig;
 	$line =~ s/Potvoroviensi/potvorovské/ig;
+	$line =~ s/Malschingae/Malšína/ig;
 	$line =~ s/Malsching/Malšín/ig;
 	$line =~ s/de Rosenberg|de Rosis|Rosensium/z Rožmberka/ig;
 	$line =~ s/Rosenbergicae/rožmberského/ig;
+	$line =~ s/Rosenbergae/Rožmberku/ig;
 	$line =~ s/Rosenberg/Rožmberk/ig;
 	$line =~ s/Rosensis/z Rožmberků/ig;
 	$line =~ s/ de Crumna(w|u)| de Crumlov| de Crumpna(w|u)| de Crumlovia/ z Krumlova/ig;
@@ -565,17 +567,6 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/xx/xx/ig;
 	$line =~ s/xx/xx/ig;
 
-
-	$line =~ s/canoniae/kanonie/ig;
-	$line =~ s/vinearum/vinic/ig;
-	$line =~ s/parochii|parochiae/farnosti/ig;
-	$line =~ s/Reverendi /důstojného /ig;
-	$line =~ s/capituli/kapituly/ig;
-	$line =~ s/monialium/sester/ig;
-	$line =~ s/totius/celého/ig;
-	$line =~ s/ultimi/posledního/ig;
-	$line =~ s/antiquus/dřívější/ig;
-
 	$line =~ s/episcopus (.*) in partibus/titulární Biskup $1/ig;
 	$line =~ s/episcopus/Biskup/ig;
 	$line =~ s/notarius archiepiscopialis/arcibiskupský notář/ig;
@@ -599,6 +590,8 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/episcopi( |\.|\,)/biskupa$1/ig;
 	$line =~ s/ fratris/ bratra/ig;
 	$line =~ s/plebanus/plebán/ig;
+	$line =~ s/vicarius parochiae (.*) emeritus/emeritní farní vikář $1/ig;
+	$line =~ s/vicarius parochiae/farní vikář/ig;
 	$line =~ s/vicarius/vikář/ig;
 	$line =~ s/in Collegio archi-episcopialis|in archi-?episcopi?alis collegio/na arcibiskupské koleji/ig;
 	$line =~ s/ad Sanctum Adalbertum/Svatého Vojtěcha/ig;
@@ -607,6 +600,17 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/benefactor/dobrodinec/ig;
 	$line =~ s/benefactrix/dobrodinka/ig;
 	$line =~ s/fautor/mecenáš/ig;
+
+	$line =~ s/canoniae/kanonie/ig;
+	$line =~ s/vinearum/vinic/ig;
+	$line =~ s/parochii|parochiae/farnosti/ig;
+	$line =~ s/Reverendi /důstojného /ig;
+	$line =~ s/capituli/kapituly/ig;
+	$line =~ s/monialium/sester/ig;
+	$line =~ s/totius/celého/ig;
+	$line =~ s/ultimi/posledního/ig;
+	$line =~ s/antiquus/dřívější/ig;
+
 	$line =~ s/ praenobilis/ převznešený/ig;
 	$line =~ s/ nobilis/ vznešený/ig;
 	$line =~ s/famosus/slavný/ig;
@@ -976,6 +980,7 @@ sub necrologium : ScriptFunc {
       );
 
    $fname = checkfile($lang, "Necrologium/@mensis[$month].txt");
+   if ($lang =~ /Bohemice/i) { $fname = checkfile("Latin", "Necrologium/@mensis[$month].txt"); }
 
   # remove leading zeros
   $month =~ s/^0+// ; 

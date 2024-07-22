@@ -2,22 +2,27 @@
 [Name]
 Commune Apostolorum, Versio Cisterciensis et Bohemica
 
+[Ant Vespera]
+@Commune/C1::1-3
+Blahoslavení čistí srdcem; * neboť oni uvidí Boha.;;112
+Blahoslavení, * kdo trpí pronásledování pro spravedlnost.
+
 [Versum 1]
 Nesmírně poctěni jsou tví přátelé, Bože.
 Nesmírně pevné je jejich vládnutí.
 
 [Ant 1]
-Hle já vás posílám * jako ovce mezi vlky, praví Pán. Buďte prozíraví jako hadi, ale prostí jako holubice.
+Hle já vás posílám * jako ovce mezi vlky, praví Pán. Buďte prozíraví jako hadi, ale bezelstní jako holubice.
 
 [Ant 2]
-A budete stát * před králi a místodržícími, nepřemýšlejte předem, jak byste odpovídali; v onu hodinu vám totiž bude dáno, co máte říct.
+Až budete stát * před králi a místodržícími, nepřemýšlejte předem, jak byste odpovídali; v onu hodinu vám totiž bude dáno, co máte říct.
 
 [Ant 2 duo]
 Tito jsou * dvě olivy, a dva svícny, které září před Hospodinem, mají moc zahalit nebe oblaky, i otevřít jeho brány, neboť jejich jazyky jsou klíče k nebi, alleluja.
 
 [Ant Vespera 3]
 Již vás nenazývám * služebníky, avšak svými přáteli: neboť vše, co jsem slyšel od svého Otce, s tím jsem vás seznámil.;;109
-Vezměte * na sebe mé jho, neboť jsem tichý a pokorný srdcem:.;;112
+Vezměte * na sebe mé jho, neboť jsem tichý a pokorný srdcem.;;112
 Mé jho je totiž * sladké, a mé břemeno lehké, praví Pán.;;115
 Budou vás totiž vydávat * veleradám, a ve svých shromážděních vás budou bičovat; a předvádět vás před krále a místodržící kvůli mě na svědectví jim i Pohanům.;;125
 

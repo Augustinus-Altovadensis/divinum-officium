@@ -1,28 +1,90 @@
+[Oratio]
+Bože, jenž jsi svaté Anně ráčil udělit milost, aby se mohla stát Matkou Rodičky tvého Jednorozeného Syna; uděl laskavě, abychom, když slavíme její slavnost, obdrželi pomoc jejích přímluv u tebe.
+$Per eumdem
+
+[Hymnus Vespera]
+v. Svět rozjásaný slaví tento svátek, 
+Klaní se Anně, matce Matky Krista, 
+Která - jak věří - svatým žitím došla 
+V radosti věčné.
+_ 
+Rod Abraháma, pokolení kněžské, 
+Dcera též králů, krása všech Hebreů, 
+Základ všech Svatých záslužným životem
+Povznesla výše. 
+_
+S vyprahlým lůnem, dříve sic neplodná, 
+Božským úradkem zrodila Marii,
+Paní všech věcí, ozdobu i květ 
+Panenství všeho. 
+_
+Skrze ni, Pane Jezu Kriste, naše
+očisti hříchy, zažeň vše škodlivé,
+Na Dcery tvé, též tvojí Matky prosby,
+Nejlaskavější.
+_
+To nechť nám dává laskavost Otcovská,
+Spolu se Synem, Duchem svatým také:
+Ať Matky Anny prosby nám pomohou
+Na všechny časy.
+Amen.
+
+[Ant 1]
+Raduj se, * matko velké dcery, z tebe nám totiž vzešla jitřní hvězna nejvyššího slunce.
+
+[Hymnus Laudes]
+v. Radostmi přejasného dne
+Oděla se matka Církev, 
+I Annu, ozdobu Židů, 
+Matkum Marie opěvá.
+_
+S krví laskavých králů
+Pojí se kněžští otcové,
+Přejasná Anna krásnými
+Přemáhá rod svými ctnostmi. 
+_
+Cœlo favente, cóntrahit 
+Thori fidélis vínculum: 
+Effœta dudum córpore
+Prolem beátam cóncipit.
+_
+Audit monéntis Angeli
+Felix parens oráculum:
+Castóque format péctore
+Perénne sidus vírginum.
+_
+Deo Patri sit glória,
+Ejúsque soli Fílio,
+Cum Spíritu Paráclito,
+Et nunc, et in perpétuum.
+Amen.
+
+[Ant 2]
+Nebeské dobro * vstoupilo do Anny, a z ní se nám narodila laskavá Panna Maria.
+
+[Ant 3]
+Raduj se, rodičko * Marie, jež jako Panna porodila Boha, a je Matkou Mesiáše.
+
 [Hymnus Matutinum]
-O mother Anne, rejoice!
-O mother blest, applaud:
-Your daughter has been born today:
-The Mother of our God.
+v. Fœcúnda radix Isai 
+Florem pudícum gérminat, 
+Dei datúram Fílium 
+Orbi dat Anna Vírginem. 
 _
-The Virgin Mary born!
-A new parental bliss!
-Rejoice, rejoice with Joachim
-For such a babe as this!
+Jam sperat humánum genus 
+Caput tenébris éxcitans, 
+Lucémque primam cónspicit 
+Annæ coruscántem sinu. 
 _
-Your daughter is the first
-Of blessings we receive,
-Renewing earth whose early dawn
-Was cursed because of Eve.
+Hanc vota puri péctoris
+Zelóque concéptæ preces
+Prolem meréntur ómnium
+Matrem salútis gígnere.
 _
-And so we give you praise,
-And banners raise today,
-And ask that through your holy prayers
-Our sins be washed away.
-_
-To God the Father, praise,
-And glory to the Son,
-And honor to the Spirit bright:
-Blest Trinity in One.
+Deo Patri sit glória,
+Ejúsque soli Fílio,
+Cum Spíritu Paráclito,
+Et nunc, et in perpétuum.
 Amen.
 
 [Lectio4]

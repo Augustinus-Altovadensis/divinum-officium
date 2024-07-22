@@ -11,9 +11,7 @@ Psalmi Dominica
 Antiphonas horas
 
 [Oratio]
-Be Thou thyself, O Lord, the Sanctifier and the Shepherd of thy people, that we who~
-are overshadowed by the help of thine Apostle James may, in our conversation,~
-walk with thee, and in all quietness of spirit serve thee.
+Budiž, Pane, svému lidu posvětitelem i strážcem; aby, posílena přímluvami tvého Apoštola Jakuba, i jednáním se tobě zalíbila, i s odhodlanou myslí tobě sloužila.
 $Per Dominum
 
 [Lectio4]
@@ -42,8 +40,8 @@ And He said moreover: Are ye able to drink of the cup that I shall drink of, and
 &teDeum
 
 [Commemoratio 2]
-!Commemoration of St. Christopher, Martyr
+!Připomínka sv. Kryštofa, Mučedníka
 @Commune/C2:Oratio proper
 $Oremus
-Grant, we beseech Thee, almighty God, that we who celebrate the martyrdom of blessed Christopher, through his intercession may be strengthened in your love.
+Uděl, prosíme, všemohoucí Bože, abychom, když slavíme narození svatého Kryštofa, tvého Mučedníka pro nebe, na jeho přímluvu byli utvrzeni v lásce k tvému jménu.
 $Per Dominum

@@ -146,7 +146,8 @@
 07-20=07-20=S. Margaritæ, Virginis et Martyris=1=
 07-21=07-21=S. Praxedis, Virginis=1=
 07-22=07-22=S. Mariae Magdalenae Poenitentis=3=
-07-23=07-23=S. Apollinaris Episcopi et Mart=3=S. Liborii Ep Conf=1=
+07-23=07-23=S. Apollinaris Episcopi et Mart=1=
+07-24=07-24=B. Balduini, Abbatis et Confessoris=2=Vigilia S. Jacobi Apostoli=1.5=S. Christinae, Virginis et Martyris=1=
 07-25=07-25=S. Jacobi Apostoli=5=S. Christophori Mart=1=
 07-26=07-26=S. Joachim et S. Annae Matris BMV=5=
 07-29=07-29=Ss. Felicis=Simplicii=Faustini et Beatricis Mart=1=

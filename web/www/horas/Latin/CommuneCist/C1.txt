@@ -1,4 +1,11 @@
 @Commune/C1
+[Name]
+Commune Apostolorum, Versio Cisterciensis
+
+[Ant Vespera]
+@Commune/C1::1-3
+Beáti mundo corde: * quóniam ipsi Deum vidébunt.;;112
+Beáti, * qui persecutiónem patiúntur propter justítiam.
 
 [Capitulum Vespera]
 @Commune/C1
@@ -116,9 +123,12 @@ patrem, aut matrem, aut uxórem, aut fílios, aut agros, propter nomen meum,~
 céntuplum accípiet, et vitam ætérnam possidébit.
 
 [Capitulum Laudes]
-@Commune/C1
+@Commune/C1:Capitulum Vespera
 _
 @Commune/C1:Responsory Sexta:1-6
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//
 
 [Hymnus Laudes]
 @:Hymnus Vespera
@@ -133,7 +143,7 @@ Isti sunt * duæ olívæ, et duo candelábra lucéntia ante Dóminum, habent pot
 @:Versum 1
 
 [Capitulum Tertia]
-@Commune/C1:Capitulum Laudes
+@Commune/C1:Capitulum Vespera
 
 [Responsory Tertia]
 @Commune/C1:Versum 1
@@ -146,7 +156,7 @@ Isti sunt * duæ olívæ, et duo candelábra lucéntia ante Dóminum, habent pot
 
 [Ant Vespera 3]
 Jam non dicam * vos servos, sed amícos meos: quia ómnia quæcúmque audívi a Patre meo, nota feci vobis.;;109
-Tóllite * jugum meum super vos, quia mitis sum et húmilis corde:.;;112
+Tóllite * jugum meum super vos, quia mitis sum et húmilis corde.;;112
 Jugum enim meum * suáve est, et onus meum leve, dicit Dóminus.;;115
 Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos: et ante reges et præsides ducémini proper me in testimónium illis, et Géntibus.;;125
 

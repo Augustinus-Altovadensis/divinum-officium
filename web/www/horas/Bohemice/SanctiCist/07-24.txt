@@ -1,0 +1,13 @@
+[Rank]
+Bl. Bladuina, Opata a Vyznavače;;iij. Lect. et M.;;2;;vide C5
+
+[Rule]
+vide C5;mtv
+
+[Oratio]
+Bože, jenž jsi prostřednictvím blahoslaveného Balduina, Opata, ráčil svou Církev podivuhodným způsobem osvítit; uděl nám, svým služebníkům, abychom, když jej jako Patrona uctíváme na zemi, zasloužili si jej míti přímluvcem v nebi.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Kristýny, Panny a Mučednice
+@CommuneCist/C6:Oratio1:s/N\./Kristýna/

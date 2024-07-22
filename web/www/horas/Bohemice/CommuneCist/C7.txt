@@ -2,6 +2,13 @@
 [Name]
 Commune non Virginum Martyrum. Versio Cisterciensis Bohemica.
 
+[Ant Vespera]
+Když Král * seděl u svého stolu, můj nard vydával sladkou vůni.;;109
+Vylitá mast * je tvé jméno, proto si tě mladé dívky velice zamilovaly.;;112
+Přistup, * má vyvolená, a ustanovím v tobě svůj trůn, neboť zatoužil Král po tvé kráse.;;121
+Jsem černá, * ale krásná, dcery Jerusalémské, proto si mě Král zamiloval, a uvedl mě do své ložnice.;;126
+Krásná jsi a zdobná, * dcero Jerusalémská, hrozná jako seřazená šik vojska.;;147
+
 [Ant Matutinum]
 O how lovely and glorious is the generation * of the chaste;;8
 His left hand is under my head, * and his right hand doth embrace me;;18

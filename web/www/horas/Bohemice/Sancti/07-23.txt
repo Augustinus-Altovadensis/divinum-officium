@@ -1,5 +1,5 @@
 [Rank]
-S. Apollinaris Episcopi Mart;;Duplex;;3;;vide C2
+Sv. Apolináře, Biskupa a Mučedníka;;Duplex;;3;;vide C2
 
 [RankNewcal]
 S. Apollinaris Episcopi et Mart;;Duplex optional;;2;;vide C2
@@ -9,11 +9,7 @@ vide C2;
 9 lectiones;
 
 [Oratio]
-O God, Who art thyself the exceeding great Reward of all faithful souls, and in~
-Whose sight this day is holy because thy blessed Priest Apollinaris did hereon~
-lift up his last earthly testimony, we beseech thee to grant unto us thy~
-servants, who do keep his worshipful Feast-day, to obtain by his prayers thy~
-gracious remission for our offences.
+Bože, jenž odměňuješ duše věřících, a tento den jsi zasvětil mučednickému svědectví svatého Apolináře, svého Kněze; uděl nám, svým služebníkům, prosíme, abychom, když slavíme jeho slavnost, na jeho prosby získali odpuštění.
 $Per Dominum
 
 [Commemoratio]
