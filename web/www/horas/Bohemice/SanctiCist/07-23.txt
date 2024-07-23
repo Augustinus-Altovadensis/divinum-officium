@@ -1,6 +1,6 @@
-@Sancti/07-23
-
 [Rank]
 Sv. Apolináře, Biskupa a Mučedníka;;Commemoratio;;1;;vide C2
 
- 
+[Oratio]
+Bože, jenž odměňuješ duše věřících, a tento den jsi zasvětil mučednickému svědectví svatého Apolináře, svého Kněze; uděl nám, svým služebníkům, prosíme, abychom, když slavíme jeho slavnost, na jeho prosby získali odpuštění.
+$Per Dominum

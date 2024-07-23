@@ -1,17 +1,12 @@
 [Rank]
-B. Bladuini, Abbatis et Confessoris;;iij. Lect. et M.;;2;;vide C5
+In Vigilia S. Jacobi Ap.;;Simplex;;1.5;;vide C1v
 
 [Rule]
-vide C5;mtv
+vide C1v;
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
 
 [Oratio]
-Deus, qui per beátum Balduínum, Abbátem, Ecclésiam tuam mirabíliter illustráre dignátus es: * concéde nobis fámulis tuis: § ut, quem Patrónum venerámur in terris, intercessórem habére mereámur in cœlis.
-$Per Dominum
-
-[Oratio Vigilia]
 @Commune/C1v:Oratio1:s/N\./Jacóbi/
-
-[Commemoratio]
-!Commemoratio S. Christinæ, Virginis et Martyris
-@CommuneCist/C6:Oratio1:s/N\./Christína/
-

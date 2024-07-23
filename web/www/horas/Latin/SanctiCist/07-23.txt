@@ -1,10 +1,6 @@
-@Sancti/07-23
-
 [Rank]
 S. Apollinaris, Episcopi et Martyris;;Commemoratio;;1;;vide C2
 
-[Commemoratio]
-
-[Commemoratio Sabbat]
-!Commemoratio S. Liborii Episcopi et Confessoris
-@Commune/C4:Oratio proper
+[Oratio]
+Deus, fidélium remunerátor animárum, qui hunc diem beáti Apollináris Sacerdótis tui martýrio consecrásti: tríbue nobis, quǽsumus, fámulis tuis; ut, cujus venerándam celebrámus festivitátem, précibus ejus indulgéntiam consequámur.
+$Per Dominum

@@ -1,13 +1,12 @@
 [Rank]
-Bl. Bladuina, Opata a Vyznavače;;iij. Lect. et M.;;2;;vide C5
+In Vigilia S. Jacobi Ap.;;Simplex;;1.5;;vide C1v
 
 [Rule]
-vide C5;mtv
+vide C1v;
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
 
 [Oratio]
-Bože, jenž jsi prostřednictvím blahoslaveného Balduina, Opata, ráčil svou Církev podivuhodným způsobem osvítit; uděl nám, svým služebníkům, abychom, když jej jako Patrona uctíváme na zemi, zasloužili si jej míti přímluvcem v nebi.
-$Per Dominum
-
-[Commemoratio]
-!Připomínka sv. Kristýny, Panny a Mučednice
-@CommuneCist/C6:Oratio1:s/N\./Kristýna/
+@Commune/C1v:Oratio1:s/N\./Jakuba/

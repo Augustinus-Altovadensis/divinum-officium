@@ -1343,6 +1343,7 @@ sub oratio {
     }
   }
   $w =~ s/^(?:v. )?/v. /;
+  $w =~ s/\*/<font color=red>*<\/font>/;
   push(@s, $w);
   if ($rule =~ /omit .*? commemoratio/i) { return; }
 
@@ -1363,7 +1364,8 @@ sub oratio {
 		my @cvesp = (2);  # assume laudes unless otherwise
 		
 		# add commemorated from winner
-		unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Pent01/)
+		unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Pent01/ && $version !~ /Cistercien/i)
+        || ($rank >= 7 && $dayname[0] !~ /Pasc[07]|Pent01/ && $version =~ /Cistercien/i)
 #				|| $rule =~ /no commemoratio/i
 				|| ($version =~ /196/ && $winner{Rule} =~ /nocomm1960/i)) {
 			if (exists($w{"Commemoratio $vespera"})) {
@@ -1445,6 +1447,7 @@ sub oratio {
 				
 				# add commemorated from cwinner
 				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/ && $version !~ /Cistercien/i )
+        || ($rank >= 7 && $dayname[0] !~ /Pasc[07]|Nat0?6/ && $version =~ /Cistercien/i)
 				|| $rule =~ /no commemoratio/i
 				|| ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i)) {
 					if (exists($c{"Commemoratio $cvespera"})) {
@@ -1516,7 +1519,8 @@ sub oratio {
 				}
 				
 				# add commemorated from commemo
-				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]/)
+				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]/ && $version !~ /Cistercien/i)
+        || ($rank >= 7 && $dayname[0] !~ /Pasc[07]/ && $version =~ /Cistercien/i)
 				|| $rule =~ /no commemoratio/i
 				|| ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i)) {
 					if (exists($c{"Commemoratio $cv"})) {
@@ -1739,6 +1743,9 @@ sub vigilia_commemoratio {
 	} elsif ($dayname[0] =~ /Adv|Quad[0-6]/i || ($dayname[0] =~ /Quadp3/i && $dayofweek >= 4)) {
 		return '';
 	}
+  if ($version =~ /Cistercien/ && $dayofweek == 0) { return ''; }
+  if ($version =~ /Cistercien/ && $hora !~ /laudes/i) { return ''; }
+  if ($version =~ /Cistercien/ && $winner{Rank} =~ /Vigilia/i) { return ''; } 
 	
   if ($fname !~ /\.txt$/) { $fname .= '.txt'; }
   if ($fname !~ /(Tempora|Sancti)/i) { $fname = "Sancti/$fname"; }
