@@ -1039,6 +1039,11 @@ sub psalmi_major {
   {
     ($w, $c) = getproprium("Ant $hora", $lang, 1, 1);
     setbuild2("Antiphona $commune");
+  } elsif ($communetype =~ /vide/
+    && ($version =~ /Cistercien/i && $hora =~ /Laudes/i && $winner =~ /Sancti/i))
+  {
+    #($w, $c) = getproprium("Ant $hora", $lang, 1, 1);
+    #setbuild("Antiphona $commune");
   }
   if ($antecapitulum) { $w = (columnsel($lang)) ? $antecapitulum : $antecapitulum2; }
   if ($w) { @antiphones = split("\n", $w); $comment = $c; }
@@ -1934,7 +1939,7 @@ sub hymnusmajor {
 # returns the [Ant $hora] item for the officium
 sub getanthoras {
   my $lang = shift;
-  my $tflag = ($version =~ /Trident|Monastic/i && $winner =~ /Sancti/i) ? 1 : 0;
+  my $tflag = ($version =~ /Trident|Monastic|Cistercien/i && $winner =~ /Sancti/i) ? 1 : 0;
   $tflag = 0 if ($winner =~ /SanctiM.01-(?:(?:0[2-5789])|(?:1[012]))/);
 
   my $ant = '';
