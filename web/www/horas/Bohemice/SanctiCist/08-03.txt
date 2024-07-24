@@ -1,0 +1,8 @@
+[Rank]
+Nalezení sv. Štěpána, Prvomučedníka;;Commemoratio et M.;;1;;vide C2
+
+[Oratio]
+@Sancti/12-26::s/Narození pro nebe/Nalezení/
+
+[Ant 2]
+Otevřely se * brány nebeské Kristovu Mučedníku svatému Štěpánovi, jenž se ve velkém počtu Mučedníků nachází první, a proto oslavuje v nebi korunován, alleluja.

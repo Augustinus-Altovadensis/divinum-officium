@@ -238,7 +238,7 @@ Shlédni na naši slabost, všemohoucí Bože, a protože břímě našich skutk
 $Per Dominum
 
 [Oratio1]
-Bože, jenž nás svatého N., Mučedníka svého a Biskupa, výroční slavností oblažuješ, popřej milostivě, abychom též požívali ochrany toho, jehožto narozeniny slavíme.
+Bože, jenž nás oblažuješ výroční slavností svatého N., svého Mučedníka a Biskupa, popřej milostivě, abychom též požívali ochrany toho, jehožto narozeniny slavíme.
 $Per Dominum
 
 [Oratio2]

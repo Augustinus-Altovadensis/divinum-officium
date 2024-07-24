@@ -150,19 +150,22 @@
 07-24=07-24cc~07-24=B. Balduini, Abbatis et Confessoris=2=Vigilia S. Jacobi Apostoli=1.5=S. Christinae, Virginis et Martyris=1=
 07-25=07-25=S. Jacobi Apostoli=5=S. Christophori Mart=1=
 07-26=07-26=S. Joachim et S. Annae Matris BMV=5=
-07-29=07-29=Ss. Felicis=Simplicii=Faustini et Beatricis Mart=1=
-07-30=07-30=S. Abdon et Senen Martyrum=1=
-07-31=07-31=S. Ignatii Confessoris=3=
+07-27=07-27=S. Camilli de Lellis Confessoris=2=S. Pantaleonis, Martyris=1=
+07-28=07-28=S. Vincentii a Paulo Conf=2=SS. Nazarii et Celsi, Martyrum=1=
+07-29=07-29=S. Marthae Virginis=2=SS. Felicis, Simplicii, Faustini et Beatricis Mart=1=
+07-30=07-30=S. Hieronymi Æmiliani, Confessoris=2=S. Abdon et Sennen, Martyrum=1=
+07-31=07-31=S. Ignatii Confessoris=2=
 *Augustus*
-08-01=08-01=Ss. Martyrum Machabaeorum=1=
-08-02=08-02=S. Alphonsi Mariae de Ligorio Episc Conf et Eccles Doct=3=St Stephano Papae Martyris=1=
+08-01=08-01=S. Petri ad Vincula=3=SS. Martyrum Machabaeorum=1=
+08-02=08-02=S. Alphonsi Mariae de Ligorio, Episc., Conf. et Ecclesiæ Doctoris=3=S. Stephani, Papae et Martyris=1=
+08-03=08-03=Inventionis S. Stephani, Protomartyris=1=
 08-04=08-04=S. Dominici Confessoris=4=
-08-05=08-05=S. Mariae ad Nives=4=
-08-06=08-06=The Transfiguratione Domini Nostri Jesu Christi=5=Ss. Xysti=Felicissimi et Agapiti Martyrum=1=
-08-07=08-07=Ss. Xysti=Felicissimi et Agapiti Martyrum=1=
-08-08=08-08=Ss. Cyriacii et socii maryres=1=
-08-09=08-09=Vigilia S. Laurentii Martyris=1.5=
-08-10=08-10=S. Laurentii Martyris=5=
+08-05=08-05=B.M.V. ad Nives=5.1=
+08-06=08-06=The Transfiguratione Domini Nostri Jesu Christi=5.2=SS. Xysti,Felicissimi et Agapiti Martyrum=1=
+08-07=08-07=S. Cajetani Thirnæi, Confessoris=2=S. Donati, Ep. et Mart.=1=
+08-08=08-08=Ss. Cyriacii, Largi et Smaragdi, Maryrum=1=
+08-09=08-09=Vigilia S. Laurentii Martyris=1.5=S. Romani, Martyris=1=
+08-10=08-10=S. Laurentii, Martyris=5=
 08-11=08-11=Ss. Tiburtii et Susannae Virg Martyrum=1=
 08-12=08-12=S. Clarae Virginis=3=
 08-13=08-13=Ss. Pontianus et Hippoliti Martyrum=1=

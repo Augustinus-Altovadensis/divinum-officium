@@ -1,0 +1,9 @@
+@Sancti/08-02
+
+[Rank]
+Sv. Alfonse Maria z Liguori, Biskupa, Vyznavače a Učitele Církve;;iij. Lect. et M:;;2;;vide C4a
+
+[Commemoratio]
+!Připomínka sv. Štěpána, Papeže a Mučedníka
+@CommuneCist/C2:Oratio1:s/N\./Štěpána/
+ 

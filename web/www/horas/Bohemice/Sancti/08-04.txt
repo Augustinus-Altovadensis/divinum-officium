@@ -6,10 +6,7 @@ vide C5;mtv
 9 lectiones
 
 [Oratio]
-O God, Who hast been pleased to shed throughout thy Church the light of the~
-worthy deeds and healthful teaching of thy blessed Confessor Dominic, grant~
-unto the same, with the help of his prayers, that she may never be either~
-helpless in things temporal, or barren in things spiritual.
+Bože, jenž jsi ráčil svou Církev osvítit zásluhami i učením svatého Dominika, tvého Vyznavače; uděl, abychom na jeho přímluvu nebyli zbaveni pomocí časných, a vždy prospívali v duchovním růstu.
 $Per Dominum
 
 [Lectio4]

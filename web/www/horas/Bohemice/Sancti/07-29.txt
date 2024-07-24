@@ -15,14 +15,10 @@ teaching as to be enlightened by the fervor of her dedicated holiness.
 $Per Dominum
 
 [Commemoratio]
-!Commemoration of Sts. Felix, Simplicius, Faustinus and Beatrix, Martyrs
+!Připomínka sv. Felixe, Simplicia, Faustina a Beatrice, Mučedníků
 @Commune/C3:Oratio proper
 $Oremus
-Grant, O Lord, we beseech thee, that as thy Christian people do here in time~
-unite in solemn joy for the blessedness of thy Martyrs Felix, Simplicius,~
-Faustinus, and Beatrix, they may also rejoice with them hereafter in their~
-eternal joy, and may understand by very knowledge, that whereof they now speak~
-in their prayers.
+Uděl, prosíme, Pane, abychom, tak jako se lid křesťanský společně raduje z časné slvanosti tvých Mučedníků Felixe, Simplicia, Faustina a Beatrice, stejně se těšil i z té věčné; a co s přáním slaví, též dosáhne ve skutcích.
 $Per Dominum
 
 [Lectio4]

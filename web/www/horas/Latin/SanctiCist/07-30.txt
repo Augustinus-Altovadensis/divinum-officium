@@ -1,1 +1,15 @@
-@Sancti/07-30
+@Sancti/07-20
+
+[Rank]
+S. Hieronymi Æmiliani Confessoris;;iij. Lect. et M.;;2;;vide C5
+
+[Rule]
+vide C5;mtv
+3 lectiones;
+
+[Commemoratio]
+!Commemoratio SS. Abdon et Sennen, Martyrum
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Deus, qui sanctis tuis Abdon et Sennen ad hanc glóriam veniéndi copiósum munus grátiæ contulísti: da fámulis tuis suórum véniam peccatórum; ut, Sanctórum tuórum intercedéntibus méritis, ab ómnibus mereántur adversitátibus liberári.
+$Per Dominum

@@ -1,0 +1,9 @@
+@Sancti/07-18
+
+[Rank]
+Sv. Kamila de Lellis, Vyznavače;;iij. Lect. et M.;;1.9;;vide C5
+
+[Commemoratio]
+!Připomínka sv. Pantaleona, Mučedníka
+@CommuneCist/C2:Oratio3:s/N\./Pantaleona/
+

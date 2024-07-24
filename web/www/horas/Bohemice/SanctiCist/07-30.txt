@@ -1,0 +1,11 @@
+@Sancti/07-20
+
+[Rank]
+Sv. Jeronýma Æmiliána, Vyznavače;;iij. Lect. et M.;;2;;vide C5
+
+[Commemoratio]
+!Připomínka sv. Abdona a Sennena, Mučedníků
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Bože, jenž jsi svým svatým Abdonovi a Sennenovi, k této slávě příchodu <i>do nebeské říše</i> udělil dar milosti; dej svým služebníkům odpuštění hříchů; aby pro zásluhy přímluv tvých Svatých si zasloužili osvobození ode všech protivenství.
+$Per Dominum

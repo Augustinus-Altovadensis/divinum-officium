@@ -170,7 +170,7 @@ sub occurrence {
 					$kalentry =~ s/TemporaM?/TemporaM/; 	# modify path to Monastic Tempora folder if necessary
 				}
         elsif ($version =~ /Cistercien/i) {
-          $kalentry =~ s/TemporaCist?/TemporaCist/;   # modify path to Cistercian Tempora folder if necessary
+          $kalentry =~ s/Tempora(?:Cist)?/TemporaCist/;   # modify path to Cistercian Tempora folder if necessary
         }
 			}
 		}
@@ -882,6 +882,9 @@ sub concurrence {
 		
 		# In Occurencce (i.e. tomorrow):
 		$ranklimit =  ($wrank[0] =~ /Dominica|feria|in.*octava/i) ? 1.1 : ($rank >= 6 && $version !~ /trident/i) ? 4.2 : $rank >= 5 ? 2.2 : 1.1;
+		# This value, if it's higher than 1, deletes Commemorations (e.g. S. Margarita with B.M.V. Sabbato on 19.7.2024)
+		if ($version =~ /Cistercien/i) {$ranklimit = 1;}
+
 		@comentries = ();
 		foreach $commemo (@ccommemoentries) {
 			if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
@@ -889,11 +892,7 @@ sub concurrence {
 			if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) { next; }	# no superseded Tempora or day within octave can have 1st vespers unless a Sunday
 			if (%cstr) {
 				my @cr = split(";;", $cstr{Rank});
-				# This excludes the Cistercian version
-				unless ($version !~ /Cistercien/i && ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i))) { push(@comentries, $commemo); }
-				# Here some Commemorations are deleted. Check!!
-				# This includes the Cistercian version
-				unless ($version =~ /Cistercien/i && ($cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i))) { push(@comentries, $commemo); }
+				unless ( $cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i)) { push(@comentries, $commemo); }
 			}
 		}
 		@ccommemoentries = @comentries;
@@ -1310,14 +1309,15 @@ sub officestring($$;$) {
 	
 	# set this global here
 	our $monthday;
-	
-	if ($fname !~ /tempora[M]*\/(Pent|Epi)/i) {
+	# original: if ($fname !~ /tempora[M]*\/(Pent|Epi)/i)
+	if ($fname !~ /tempora*\/(Pent|Epi)/i) {
 		%s = %{setupstring($lang, $fname)};
 		if ($version =~ /196/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) { $s{Rank} =~ s/;;2.1/;;4.9/; }
 		return \%s;
 	}
 	
-	if ($fname =~ /tempora[M]*\/Pent([0-9]+)/i && $1 < 5) {
+	# original: if ($fname !~ /tempora[M]*\/Pent([0-9]+)/i && $1 < 5)
+	if ($fname =~ /tempora*\/Pent([0-9]+)/i && $1 < 5) {
 		%s = %{setupstring($lang, $fname)};
 		return \%s;
 	}

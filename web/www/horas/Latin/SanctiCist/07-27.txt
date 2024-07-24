@@ -1,0 +1,13 @@
+@Sancti/07-18
+
+[Rank]
+S. Camilli de Lellis Confessoris;;iij. Lect. et M.;;1.9;;vide C5
+
+[Rule]
+vide C5;mtv
+3 lectiones
+
+[Commemoratio]
+!Commemoratio S. Pantaleonis, Martyris
+@CommuneCist/C2:Oratio3:s/N\./Pantaleóne/
+

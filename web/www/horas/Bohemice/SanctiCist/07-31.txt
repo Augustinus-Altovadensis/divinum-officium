@@ -1,0 +1,11 @@
+@Sancti/07-31
+
+[Rank]
+S. Ignatii Confessoris;;iij. Lect. et M.;;2;;vide C5
+
+[Oratio]
+@Commune/C5:Oratio2:s/N\./Ignáce/
+
+[Commemoratio]
+!Připomínka sv. Germana, Biskupa a Vyznavače
+@CommuneCist/C4:Oratio:s/N\./Germána/

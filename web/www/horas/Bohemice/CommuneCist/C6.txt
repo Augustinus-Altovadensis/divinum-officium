@@ -12,6 +12,10 @@ Uprostřed noci * se strhl křik: Hle, ženich přichází! Vyjděte mu naproti!
 [Ant 2]
 Podobné jest * království nebeské síti vhozené do moře, která zachycuje všechny druhy ryb; a když je naplněna, rybáři ji vytáhnou, sedí u břehu, a ty dobré ryby vyberou do svých nádob, ty špatné však vyhodí ven.
 
+[Oratio2]
+Vyslyš nás, Bože, náš Spasiteli, abychom tak, jako se radujeme ze slavnosti Svaté N., tvé Panny, byli též zušlechťováni citem vroucí zbožnosti.
+$Per Dominum
+
 [Ant Matutinum]
 O how lovely and glorious * is the generation of the chaste.;;8
 Sing for us again and again before this maiden's bed * the tender idylls of the play.;;18

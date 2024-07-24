@@ -35,6 +35,9 @@ Na věčné věky ať vzdávána stále jest
 zvlášť vroucí úcta celé svaté Trojici.
 Amen.
 
+[HymnusM Vespera]
+@:Hymnus Vespera
+
 [Versum 1]
 V. Ty jsi Petr, <i>Skála</i>.
 R. A na této skále vybuduji svou Církev.
@@ -272,6 +275,9 @@ Buď Trojici již věčná sláva bez konce,
 V jednotě, v níž zůstává všechna vláda,
 Od věčnosti, teď, i na veškeré věky.
 Amen.
+
+[HymnusM Laudes]
+@:Hymnus Laudes
 
 [Versum 2]
 V. Vyvyšujte jej ve Shromáždění lidu.

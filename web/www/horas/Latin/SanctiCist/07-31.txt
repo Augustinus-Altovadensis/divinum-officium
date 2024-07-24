@@ -1,4 +1,11 @@
 @Sancti/07-31
 
 [Rank]
-S. Ignatii Confessoris;;Duplex;;3;;vide C5
+S. Ignatii Confessoris;;iij. Lect. et M.;;2;;vide C5
+
+[Oratio]
+@Commune/C5:Oratio2:s/N\./Ignátii/
+
+[Commemoratio]
+!Commemoratio S. Germani, Episcopi et Confessoris
+@CommuneCist/C4:Oratio:s/N\./Germáni/

@@ -7,10 +7,7 @@ vide C5;mtv
 m.t.v.
 
 [Oratio]
-O God, Who didst make blessed Vincent strong with the strength of an Apostle, to~
-preach the Gospel to the poor, and to adorn the clergy of thy Church, grant, we~
-beseech thee, that we who worshipfully recall his godly and worthy conversation,~
-may also order our own goings upon the mighty example of his good life.
+Bože, jenž k zvěstování dobré zprávy chudým i k podpoře krásy Církevního Řádu jsi svatého Vincence posílil apoštolskou ctností; uděl, prosíme, abychom, když uctíváme jeho zbožné zásluhy, byli též vzděláváni příklady jeho ctnosti.
 $Per Dominum
 
 [Lectio4]

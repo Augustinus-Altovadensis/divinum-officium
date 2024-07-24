@@ -15,6 +15,10 @@ _
 [Versum 1]
 @Commune/C6:Versum 2
 
+[Oratio2]
+Exáudi nos, Deus, salutáris noster: * ut sicut de beátæ N., Vírginis tuæ, festivitáte gaudémus: § ita piæ devotiónis erudiámur afféctu.
+$Per Dominum
+
 [Ant NM]
 Prudéntes Vírgines, * aptáte vestras lámpades: ecce sponsus venit, exíte óbviam ei.
 

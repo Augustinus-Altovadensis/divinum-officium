@@ -1,0 +1,11 @@
+[Rank]
+Inventionis S. Stephani Protomartyris;;Commemoratio et M.;;1;;vide C2
+
+[Ant 1]
+@Sancti/12-26
+
+[Oratio]
+@Sancti/12-26::s/natalícia/Inventiónem/
+
+[Ant 2]
+Patefáctæ sunt * jánuæ cæli Christi Mártyri beáto Stéphano, qui in número Mártyrum invéntus est primus, et ídeo triúmphat in cælis coronátus, allelúia.

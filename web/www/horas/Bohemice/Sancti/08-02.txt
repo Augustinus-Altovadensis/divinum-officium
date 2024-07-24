@@ -2,7 +2,7 @@
 S. Alphonsi Mariae de Ligorio Episc. Conf. Eccles. Doct.;;Duplex;;3;;vide C4a
 
 [Name]
-Alphonsus Mary
+Alfonse Maria
 
 [Rule]
 vide C4a;mtv
@@ -10,7 +10,7 @@ vide C4a;mtv
 CPapaM=Stephen;
 
 [Oratio]
-O God, Who didst enkindle in thy Blessed Confessor and Bishop Alphonsus Mary a burning love of souls, and by him didst make thy Church the Mother of a new family, we pray thee to give us such strength that, taught by his wholesome doctrine and nerved by his example, we also may in the end happily attain unto thee.
+Bože, jenž skrze svatého Alfonse Maria, tvého Vyznavače a Biskupa, zachváceného horlivostí pro duše, svou Církev obohatil novým potomstvem; prosíme, abychom, vyučeni jeho spásnými pokyny i posíleni příklady, dokázali k tobě šťastně dojíti.
 $Per Dominum.
 
 [Commemoratio]

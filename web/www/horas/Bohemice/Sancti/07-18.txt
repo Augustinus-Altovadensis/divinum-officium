@@ -10,11 +10,7 @@ vide C5;mtv
 m.t.v.
 
 [Oratio]
-O God, Who, to succour the souls of the dying in their last agony, didst ennoble~
-the holy Camillus with an extraordinary grace of charity, we beseech thee to~
-pour into our hearts, for his sake, the Spirit of thy love, that we may worthily~
-prevail against the enemy in the hour when we depart hence, and pass to receive a~
-crown of glory in heaven.
+Bože, jenž jsi svatého Kamila k pomoci duší bojujícím v posledním smrtelném boji jedinečným vyvolením lásky; pro jeho zásluhy, prosíme, nám vlej ducha své lásky, abychom v hodinu své smrti přemohli nepřítele, a zasloužili si dojíti nebeské koruny.
 $Per Dominum
 
 [Lectio4]

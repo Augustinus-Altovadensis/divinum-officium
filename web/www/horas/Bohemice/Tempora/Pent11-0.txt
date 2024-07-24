@@ -10,8 +10,11 @@ Symbolum Athanasium
 [Ant 1]
 I beseech thee, O Lord, * remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight.
 
+[Ant 1] (rubrica cisterciensis)
+Vyslyšel jsi, Pane, * modlitbu svého služebníka, abych mohl vystavět chrám tvému jménu.
+
 [Oratio]
-Almighty and everlasting God, Who art always more ready to hear than we to pray, and art wont to give more than either we desire or deserve, pour down upon us the abundance of thy mercy, forgiving us those things whereof our conscience is afraid, and giving us those good things which we are not worthy to ask.
+Všemohoucí věčný Bože, jenž ve své hojné laskavosti předháníš zásluhy prosících i přání; vylej nad námi své milosrdenství, a odpusť, čeho se svědomí bojí, i přidej, čeho se modlitba neodváží.
 $Per Dominum
 
 [Lectio1]

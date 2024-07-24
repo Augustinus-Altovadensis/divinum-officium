@@ -1,0 +1,7 @@
+@Sancti/07-29
+
+[Rank]
+Sv. Marty, Panny;;iij. Lect. et M.;;2;;vide C6
+
+[Oratio]
+@CommuneCist/C6:Oratio2:s/N\./Marty/

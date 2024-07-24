@@ -12,10 +12,10 @@ Antiphonas horas
 no Psalm5
 
 [Ant 1]
-And Stephen, full of grace * and fortitude, did great signs among the people.
+Štěpán pak, * naplněn milostí i silou, konal veliká znamení mezi lidem.
 
 [Oratio]
-Grant us, we beseech thee, O Lord, so to imitate what we revere, that we may learn to love even our enemies; for we celebrate the heavenly birthday of him who knew how to pray for his very persecutors to our Lord Jesus Christ:
+Dej nám, prosíme, Pane, napodobovat, co uctíváme; abychom se naučili milovat své nepřátele, neboť slavíme Narození pro nebe toho, jenž se i za své pronásledovatele dokázal modlit k našemu Pánu Ježíši Kristu, tvému Synu:
 $Qui tecum
 
 [Invit]
@@ -229,7 +229,7 @@ Behold, I see * the heavens opened, and Jesus standing on the right hand of the 
 
 [Capitulum Laudes]
 !Acts 6:8
-v. And Stephen, full of grace and fortitude, did great wonders and signs among the people.
+v. A Štěpán, * naplněn milostí i silou, konal veliká znamení mezi lidem.
 $Deo gratias
 
 [Versum 2]

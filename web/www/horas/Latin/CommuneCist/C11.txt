@@ -49,7 +49,7 @@ R. Intercede pro nobis ad Dominum Deum nostrum.
 @:Ant Vespera:s/;;.*//g
 
 [Capitulum Laudes]
-@CommuneCist/C10:Capitulum Vespera
+@CommuneCist/C10:Capitulum Laudes
 
 [Hymnus Laudes]
 @Commune/C10:HymnusM Laudes

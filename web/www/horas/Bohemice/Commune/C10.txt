@@ -57,7 +57,7 @@ Amen.
 Blažená Matko a nedotčená Panno! * Slavná Královno světa! Přimlouvej se za nás u Pána!
 
 [Oratio]
-Všemohoucí Bože, dej nám, svým služebníkům, stálé zdraví duše i těla a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života.
+Všemohoucí Bože, uděl nám, svým služebníkům, abychom se mohli těšit ze stálého zdraví duše i těla, a na přímluvu blahoslavené Panny Marie nás vysvoboď od nynějších zármutků a dej nám radost věčného života.
 $Per Dominum
 
 [Invit]

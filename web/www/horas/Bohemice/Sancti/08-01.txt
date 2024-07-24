@@ -8,41 +8,38 @@ Psalmi Dominica
 Antiphonas horas
 
 [Ant Vespera]
-Herod the King proceeded farther * to take Peter also, and when he had apprehended him, he put him in prison intending, after the Passover, to bring him forth to the people.
-Peter therefore was kept in prison, * but prayer was made without ceasing of the Church unto God for him.
-The Angel said unto Peter: * Cast thy garment about thee, and follow me.
-The Lord hath sent * His Angel, and hath delivered me out of the hand of Herod, alleluia.
-Thou art Peter * and upon this Rock I will build My Church.;;116
+Král Herodes * se rozhodl, že uvězní i Petra. Když jej zajal, uvrhl jej do žaláře, a chtěl jej po Velikonocích předvést před lid.
+Petr tedy * byl uvězněn; modlitby za něj k Bohu však v Církvi probíhaly bez ustání.
+Řekl Anděl * Petrovi: Obleč si svůj oděv a následuj mě.
+Poslal Pán * svého Anděla, a vysvobodil mě z rukou Herodových, alleluja.
+Ty jsi Petr<i>, Skála,</i> * a na této skále vybuduji svou Církev.;;116
 
 [Hymnus Vespera]
-v. In wondrous mode set free, lo, at the Lord's command
-The galling iron chain doth fall from Peter's hand,
-From Peter, shepherd blest, who doth with gentle sway,
-His faithful children lead in virtue's fragrant way,
-And e'er with watchful love the tempter drive away.
+v. Petr blažený pouta celá z řetězů,
+Na Kristův příkaz, zázračně je přetrhal,
+Strážce všech ovcí, také Církve Učitel,
+Pastýř též stáda, statný ovcí zachránce,
+Zastavil vlků vražedné to běsnění.
 _
-Now to the Father be eternal glory done;
-Our songs we raise to thee, O everlasting Son;
-O Spirit from on high, thy throne we bow before;
-To thee be honour, praise, and glory evermore:
-The Holy Trinity we worship and adore.
+Buď Otci sláva na věky věčnosti,
+I tobě, Synu, buď na věky moc i čest.
+Ať také Ducha všemocného všichni ctí.
+Zvlášť vroucí úcta celé svaté Trojici.
+Na věčné věky stále ať vzdávána jest.
+
 Amen.
 
 [Oratio]
-O God, who didst loose the blessed Apostle, Peter, from his chains and didst make~
-him go forth unharmed, loose, we pray, the chains of our sins, and in thy mercy~
-ward off from us every evil.
+Bože, jenž jsi svatého Petra, Apoštola, vysvobozeného z pout, neporušeného vyvedl; prosíme, uvolni pouta našich hříchů; a všechno zlé od nás laskavě odveď.
 $Per Dominum
 _
 @Sancti/02-22:Commemoratio4:s/$Per Dominum//
 
 [Commemoratio]
-!Commemoration of the Holy Machabaean Martyrs
+!Připomínka Svatých Makabejských Mučedníků
 @Commune/C3:Oratio proper
 $Oremus
-Lord, we pray thee, that the crown of the Brethren thy Martyrs, may be a joy~
-unto us, nerving the valour of our Faith, and strengthening us by sevenfold~
-intercession.
+Bratrská koruna, Pane, tvých Mučedníků nechť nás rozradostní; neboť naší víře uděluje nárůst v ctnosti, i mnohonásobnou pomocí nás utěšuje.
 $Per Dominum
 
 [Lectio1]
@@ -171,8 +168,7 @@ came, could have been so, unless they had had faith in Christ.
 &teDeum
 
 [Ant 3]
-Thou to whom God hath given the keys * of the kingdom of heaven, loosen the chains~
-which bind the sordid souls of the earthly.
+Rozvaž, * na Boží příkaz, řetězy všech zemí, Petře, neboť ty činíš, aby se otevírala nebeská říše blaženým.
 
 [Ant Vespera 3]
 Herod the King proceeded farther * to take Peter also. And when he had apprehended him, he put him in prison intending, after the Passover, to bring him forth to the people.;;109

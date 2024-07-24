@@ -1,1 +1,23 @@
-@Sancti/08-01r
+@Sancti/08-01
+
+[Rank]
+S. Petri ad Vincula;;xij. Lect. et M.;;3;;ex C1
+
+[Capitulum Vespera]
+@Sancti/08-01
+_
+@CommuneCist/C1::3-6
+
+[Commemoratio]
+@Sancti/08-01:Commemoratio:s/Commune/CommuneCist/
+
+[Capitulum Laudes]
+@Sancti/08-01:Capitulum Vespera
+_
+@CommuneCist/C1::3-6
+
+[Hymnus Laudes]
+@Sancti/02-22:HymnusM Laudes
+
+[Ant Vespera 3]
+@:Ant Vespera

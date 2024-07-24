@@ -1,0 +1,15 @@
+@Sancti/07-19
+
+[Rank]
+S. Vincentii a Paulo, Confessoris;;iij . Lect. et M.;;2;;vide C5
+
+[Rule]
+vide C5;mtv
+3 lectiones;
+
+[Commemoratio]
+!Commemoratio SS. Nazárii et Sociorum, Martyrum
+@CommuneCist/C3:Oratio proper
+v. Sanctórum tuórum nos, Dómine, Nazárii, Celsi, Victóris et Innocéntii conféssio beáta commúniat: et fragilitáti nostræ subsídium dignánter exóret.
+$Per Dominum
+
