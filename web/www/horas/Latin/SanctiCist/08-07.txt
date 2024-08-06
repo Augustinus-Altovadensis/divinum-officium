@@ -1,5 +1,10 @@
-[Rank]
-Ss Xysti II Papæ, Felicissimi et Agapitis Martyrum;;Simplex;;1.1;;vide C3
+@Sancti/08-07
 
-[Oratio]
-@Commune/C3::s/N\. et N\./Xysti, Felicíssimi et Agapíti/
+[Rank]
+S. Cajetani Thirnæi, Confessoris;;iij. Lect. et M.;;2;;vide C5
+
+[Commemoratio]
+@Sancti/08-07:Commemoratio 2:s/Commune/CommuneCist/
+
+[Commemoratio 2]
+@Sancti/08-07:Commemoratio 2:s/Commune/CommuneCist/
