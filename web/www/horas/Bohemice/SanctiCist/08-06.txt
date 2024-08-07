@@ -1,3 +1,15 @@
+[Commemoratio]
+!Připomínka sv. Sixta, Felicissima a Agapeta, Mučedníků
+@CommuneCist/C3:Oratio:s/N\. a N\./Sixta, Felicissima a Agapeta/
+
+[Capitulum Laudes]
+@Sancti/08-06
+_
+R.br. Slavným ses ukázal * Před tváří Hospodinovou.
+R. Slavným ses ukázal * Před tváří Hospodinovou.
+V. Proto tě Hospodin oděl krásou.
+R. Před tváří Hospodinovou.
+
 [Ant Matutinum]
 Even while he was made a little lower than the angels, he was crowned with glory and honour, and was given dominion over the works of God's hands.;;8
 The Lord revealed the thick bush, and in his temple all shall speak his glory.;;28

@@ -13,39 +13,39 @@ Antiphonas horas
 Psalm5 Vespera=116
 
 [Ant Vespera]
-Jesus took Peter, * and James, and John his brother, and brought them up into an high mountain apart and was transfigured before them.
-His Face did shine as the sun, * and His raiment exceeding white as snow, alleluia.
-And, behold, there appeared unto them Moses and Elias, * talking with Jesus.
-Then answered Peter, * and said unto Jesus: Lord, it is good for us to be here.
-While he yet spake, * behold, a bright cloud overshadowed them.
+Vzal Ježíš * Petra, a Jakuba, a Jana, jeho bratra, a vyvedl je na velmi vysokou horu, a byl před nimi proměněn.
+Rozzářila se * jeho tvář jako slunce, a jeho oděv se stal bílým jako sníh, alleluja.
+A hle, * zjevili se jim Mojžíš a Eliáš, a hovořili s Ježíšem.
+Odpověděl pak Petr * a řekl Ježíšovi: Pane, je dobře, že jsme zde.
+Ještě když mluvil, * hle, zářivý oblak je zastínil.
 
 [Capitulum Vespera]
-!Phil 3:20-21
-v. We look for the Saviour, the Lord Jesus Christ, Who shall change our vile body, that it may be fashioned like unto His glorious Body.
+!Filipským 3:20-21
+v. Očekáváme Spasitele našeho Pána Ježíše Krista, jenž přemění naše ubohé tělo, aby nabylo stejné podoby jako jeho tělo oslavené.
 $Deo gratias
 
 [Hymnus Vespera]
-v. All ye who would the Christ descry,
-Lift up your eyes to him on high:
-There mortal gaze hath strength to see
-The token of his majesty.
+v. Všichni, kdo Krista hledáte,
+Oči do výše zvedněte:
+Tam uzříti se poštěstí
+Věčné to slávy znamení.
 _
-A wondrous sign we there behold,
-That knows not death nor groweth old,
-Sublime, most high, that cannot fade,
-That was ere earth and heaven were made.
+Cosi zářivé vidíme,
+Co konec míti nesnese,
+Vznešené, z výše, bez konce,
+Starší než peklo i nebe.
 _
-Here is the King the gentiles fear,
-The Jews' most mighty King is here
-Promised to Abraham of yore,
-And to his seed forevermore.
+On slavný jest pohanů Král,
+Král lidu židovského též,
+Zaslíben Abrahámovi,
+I jeho dětem navěky.
 _
-'Tis he the prophets' words foretold,
-And by their signs shown forth of old;
-The Father's witness hath ordained
-That we should hear with faith unfeigned.
+Jak svědčí svatí Proroci,
+Když o znameních hovoří;
+Též Otec káže a svědčí,
+poslouchat, věřit vše musí.
 _
-Jesu, to thee our praise we pay,
+* Jesu, to thee our praise we pay,
 To little ones revealed today,
 With Father and blest Spirit One
 Until the ages' course is done.
@@ -54,19 +54,22 @@ Amen.
 [Doxology]
 Jesu, to thee our praise we pay,
 To little ones revealed today,
-With Father and Blest Spirit One
+With Father and blest Spirit One
 Until the ages' course is done.
 Amen.
 
+[Doxology](rubrica monastica aut rubrica 1570 aut rubrica cisterciensis)
+@Psalterium/Doxologies:EpiT
+
 [Versum 1]
-V. Thou wast manifested in thy glory in the Presence of the Lord.
-R. Therefore the Lord hath clothed thee with majesty.
+V. Slavným ses vyjevil před tváří Hospodinovou.
+R. Proto tě Hospodin oděl v krásu.
 
 [Ant 1]
-Christ Jesus, being the Brightness * of the Father's glory, and the express Image of His Person, and upholding all things by the word of His power, when He was about purging our sins, was pleased, as on this day, to manifest forth His glory upon an high mountain.
+Kristus Ježíš, * záře Otcova a předobraz jeho přirozenosti, nesl vše slovem své moci, učinil očištění hříchů, když se dnes ráčil slavně zjevit na vysoké hoře.
 
 [Oratio]
-O God, Who, in the glorious Transfiguration of thine Only Begotten Son didst attest the mysteries of the Faith by the witness of the Fathers, and didst wonderfully signify by a voice out of a bright cloud, the adoption of sons, mercifully grant unto us to be made co-heirs with the very King of glory, and bestow upon us a partaking of His glory.
+Bože, jenž jsi tajemství víry slavným Proměněním dle svědectví otců upevnil, a dokonalé přijetí za syny jsi hlasem, který vyšel ze zářivého oblaku, podivuhodně předznamenal; uděl laskavě, abys nás učinil spoludědici tohoto Krále slávy, a na jeho slávě nám též dal podíl.
 $Per eumdem
 
 [Commemoratio 2]
@@ -205,37 +208,40 @@ But mark well Matthew's good will, in not concealing the names of those who were
 &teDeum
 
 [Hymnus Laudes]
-v. Light of the anxious heart,
-Jesus, thou dost appear,
-To bid the gloom of guilt depart,
-And shed thy sweetness here.
+v. Lásko, Ježíši nejsladší,
+Naše srdce když navštívíš,
+Mysli temnotu zapudíš,
+A nás sladkostí naplníš.
 _
-Joyous is he, with whom,
-God's Word, thou dost abide;
-Sweet light of our eternal home,
-To fleshly sense denied.
+Jak šťasten, koho nasytíš!
+Na pravici Otce sedíš;
+Tys pravé světlo domova,
+Jež všechny smysly překoná.
 _
-Brightness of God above!
-Unfathomable grace!
-thy presence be a fount of love
-Within thy chosen place.
+Ty lesku slávy Otcovy,
+Ty nedostižná dobroto!
+Lásky své velikou hojnost
+Nám dej pro naši současnost.
 _
-To thee, whom children see,
-The Father ever blest,
-The Holy Spirit, One and Three,
-Be endless praise addrest.
+Sláva buď tobě, Pane náš,
+že zjevil ses dnes slavně nám;
+A s Otcem i svatým Duchem,
+Ty vládneš věčným věkům všem.
 Amen.
 
+[HymnusM Laudes]
+@:Hymnus Laudes
+
 [Versum 2]
-V. A crown of gold upon his head.
-R. Wherein was engraved holiness, glory, and honour.
+V. Zlatá koruna na jeho hlavě.
+R. Je jasné znamení svatosti, slávy a cti.
 
 [Ant 2]
-And, behold, a voice out of the cloud, * which said: This is My beloved Son, in Whom I am well pleased; hear ye Him, alleluia.
+A hle, * ozval se hlas z oblaku a řekl: Toto je můj milovaný Syn, v němž jsem našel zalíbení, toho poslouchejte, alleluja.
 
 [Lectio Prima]
-!Rev 21:10-11,23.
-v. He carried me away in the Spirit to a great and high mountain, and showed me the holy city Jerusalem, descending out of heaven from God, having the glory of God. And the Lamb is the Light thereof.
+!Zjevení 21:10-11,23.
+v. Přenesl mě v duchu na velikou a vysokou horu, a ukázal mi svaté město Jerusalém, jak sestupuje z nebe od Boha a září Boží vznešeností. Jeho světlem je Beránek.
 
 [Responsory Tertia]
 R.br. Slavným ses ukázal před tváří Hospodinovou. * Alleluja, alleluja.
@@ -245,35 +251,35 @@ R. Alleluja, alleluja.
 &Gloria
 R. Slavným ses ukázal před tváří Hospodinovou. * Alleluja, alleluja.
 _
-V. Thou hast crowned him with glory and honour, O Lord, alleluia.
-R. And madest him to have dominion over the works of thy hands, alleluia.
+V. Slávou a ctí jsi jej korunoval, Pane, alleluja.
+R. A ustanovil jsi jej nad dílem svých rukou, alleluja.
 
 [Capitulum Sexta]
-!2 Cor 3:18
-v. Ye all, with open face beholding as in a glass the glory of the Lord, are changed into the same image, from glory to glory, even as by the Spirit of the Lord.
+!2 Kor 3:18
+v. My všichni s odhalenou tváří odrážíme jako v zrcadle velebnost Páně, a tak se přetvořujeme stále víc a víc k zářivé podobě, jakou má Duch Páně.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Thou hast crowned him with glory and honour, O Lord. * Alleluia, Alleluia.
-R. Thou hast crowned him with glory and honour, O Lord. * Alleluia, Alleluia.
-V. And madest him to have dominion over the works of thy hands.
-R. Alleluia, Alleluia.
+R.br. Slávou a ctí jsi jej korunoval, Pane. * Alleluja, Alleluja.
+R. Slávou a ctí jsi jej korunoval, Pane. * Alleluja, Alleluja.
+V. A ustanovil jsi jej nad dílem svých rukou.
+R. Alleluja, Alleluja.
 &Gloria
-R. Thou hast crowned him with glory and honour, O Lord. * Alleluia, Alleluia.
+R. Slávou a ctí jsi jej korunoval, Pane. * Alleluja, Alleluja.
 _
-V. His glory is great in thy salvation, alleluia.
-R. Honour and great majesty shalt Thou lay upon him, alleluia.
+V. Veliká jest jeho sláva ve tvé spáse, alleluja.
+R. Slávu i velikou krásu na něj vložíš, alleluja.
 
 [Responsory Nona]
-R.br. His glory is great in thy salvation. * Alleluia, Alleluia.
-R. His glory is great in thy salvation. * Alleluia, Alleluia.
-V. Honour and great majesty shalt Thou lay upon him.
-R. Alleluia, Alleluia.
+R.br. Veliká jest jeho sláva ve tvé spáse. * Alleluja, Alleluja.
+R. Veliká jest jeho sláva ve tvé spáse. * Alleluja, Alleluja.
+V. Slávu i velikou krásu na něj vložíš.
+R. Alleluja, Alleluja.
 &Gloria
-R. His glory is great in thy salvation. * Alleluia, Alleluia.
+R. Veliká jest jeho sláva ve tvé spáse. * Alleluja, Alleluja.
 _
-V. A crown of gold upon his head, alleluia.
-R. Wherein was engraved holiness, glory, and honour, alleluia.
+V. Zlatá koruna na jeho hlavě, alleluja.
+R. Je jasné znamení svatosti, slávy a cti, alleluja.
 
 [Ant 3]
-And when the disciples heard it, they fell on their face, * and were sore afraid and Jesus came and touched them, and said unto them: Arise, and be not afraid, alleluia.
+A když to uslyšeli * učedníci, padli na své tváře a dostali veliký strach; i přišel k nim Ježíš, dotkl se jich, a řekl jim: Vstaňte, a nebojte se, alleluja.

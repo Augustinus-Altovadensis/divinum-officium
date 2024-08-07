@@ -557,9 +557,9 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Christianus/Christian/ig;
 	$line =~ s/Bartholomæus/Bartoloměj/ig;
 	$line =~ s/Matthias/Matěj/ig;
-	$line =~ s/xx/xx/ig;
-	$line =~ s/xx/xx/ig;
-	$line =~ s/xx/xx/ig;
+	$line =~ s/Albericus/Alberich/ig;
+	$line =~ s/Nepomucenus/Nepomuk/ig;
+	$line =~ s/Bernardinus/Bernardin/ig;
 	$line =~ s/xx/xx/ig;
 	$line =~ s/xx/xx/ig;
 	$line =~ s/xx/xx/ig;

@@ -30,22 +30,22 @@ $Deo gratias
 
 [Hymnus Vespera]
 v. Quicúmque Christum quǽritis,
-Oculos in altum tóllite:
+Oc[u]los in altum tóllite:
 Illic licébit vísere
 Signum perénnis glóriæ.
 _
 Illústre quiddam cérnimus,
 Quod nésciat finem pati,
-Sublíme, celsum, intérminum,
-Antíquius cælo et chao.
+Sublíme, cels[um], intérminum,
+Antíquius cæl[o] et chao.
 _
 Hic ille Rex est géntium
-Populíque Rex judáici,
+Pop[u]líque Rex judáici,
 Promíssus Abrahæ patri
-Ejúsque in ævum sémini.
+Ejúsqu[e] in ævum sémini.
 _
-Hunc, et prophétis téstibus
-Iisdémque signatóribus,
+Hunc, et Prophétis téstibus
+I[i]sdémque signatóribus,
 Testátor et Pater jubet
 Audíre nos et crédere.
 _
@@ -62,7 +62,7 @@ Cum Patre, et almo Spíritu,
 In sempitérna sǽcula.
 Amen.
 
-[Doxology](rubrica monastica aut rubrica 1570)
+[Doxology](rubrica monastica aut rubrica 1570 aut rubrica cisterciensis)
 @Psalterium/Doxologies:EpiT
 
 [Versum 1]

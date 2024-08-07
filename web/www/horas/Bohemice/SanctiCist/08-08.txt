@@ -1,0 +1,18 @@
+[Rank]
+Sv. Famiana, Vyznavače Našeho Řádu;;xij. Lect. et M.;;3;;ex C5
+
+[Oratio]
+Bože, jenž jsi svatého Famiána, svého Vyznavače, učinil známým u lidí z rozličných národů svou svatostí a slávou zázraků; dej nám, abychom jeho příklady byli přetvořeni v lepší, a v protivenstvích obdrželi jeho pomoc.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Jana Maria Vianney, Vyznavače
+@CommuneCist/C5:Oratio proper
+$Oremus
+v. Všemohoucí a milosrdný Bože, jenž jsi svatého Jana Maria učinil podivuhodný v jeho pastýřském úsilí a nesmírné horlivosti v modlitbě i kajících skutcích; dej, prosíme, abychom dle jeho příkladu i na jeho přímluvu dokázali duše bratrů získat Kristu, a spolu s nimi dokázali dojíti věčné slávy. 
+_
+!Připomínka sv. Cyriaka, Larga a Smaragda, Mučedníků
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Bože, jenž nás rozradostňuješ každoroční slavností svých svatých Mučedníků Cyriaka, Larga a Smaragda: uděl laskavě, abychom, když slavíme jejich narozeniny pro nebe, napodobili též sílu jejich utrpení.
+$Per Dominum

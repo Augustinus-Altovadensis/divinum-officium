@@ -1,23 +1,51 @@
 @Sancti/08-06
 
+[Rank]
+In Festo Transfigurationis Domini Nostri Jesu Christi;;MM. maj.;;5.2;;
+
 [Rule]
-proper
-Festum Domini
 12 lectiones
 Psalmi Dominica
 Antiphonas horas
+Doxology=EpiT
 
 [Lectio93]
 @:Lectio3
- 
 
 [Capitulum Vespera]
 @Sancti/08-06
 _
-@Sancti/08-06:Responsory Sexta:1-6
+@CommuneCist/C2::3
 
-[Versum 1]
-@Sancti/08-06:Versum 2
+[Commemoratio]
+!Commemoratio SS. Xysti, Felicissimi et Agapiti Martyrum
+@CommuneCist/C3:Oratio:s/N\. et N\./Xysti, Felicíssimi et Agapíti/
+
+[Capitulum Laudes]
+@Sancti/08-06
+_
+R.br. Gloriósus apparuísti * In conspéctu Dómini.
+R. Gloriósus apparuísti * In conspéctu Dómini.
+V. Proptérea decórem índuit te Dóminus.
+R. In conspéctu Dómini.
+
+[Responsory Tertia]
+@Sancti/08-06:Versum 1
+
+[Responsory Sexta]
+@Sancti/08-06:Responsory Tertia:8-9:s/, allel[úu][ji]a//g
+
+[Capitulum Sexta]
+@Sancti/08-06
+
+[Responsory Nona]
+@Sancti/08-06:Responsory Sexta:8-9:s/, allel[úu][ji]a//g
+
+[Capitulum Nona]
+@Sancti/08-06
+
+[Commemoratio 2]
+@SanctiCist/08-06:Commemoratio
 
 [Ant Matutinum]
 Paulo minus * ab Angelis minorátus, glória et honóre coronátus est, et constitútus super ópera mánuum Dei.;;8
@@ -119,25 +147,3 @@ R. Dum orásset Dóminus, facta est spécies vultus ejus áltera, † et vestít
 V. Dicébant autem excéssum ejus, quem completúrus erat in Jerúsalem.
 R. Et duo viri loquebántur cum illo, † Móyses et Elías visi in majestáte.
 
-[Capitulum Laudes]
-@Sancti/08-06
-_
-@Sancti/08-06:Responsory Tertia:1-6
-
-[Commemoratio 2]
- 
-
-[Responsory Tertia]
-@Sancti/08-06:Versum 1
-
-[Responsory Sexta]
-@Sancti/08-06:Responsory Tertia:8-9
-
-[Capitulum Sexta]
-@Sancti/08-06
-
-[Responsory Nona]
-@Sancti/08-06:Responsory Sexta:8-9
-
-[Capitulum Nona]
-@Sancti/08-06

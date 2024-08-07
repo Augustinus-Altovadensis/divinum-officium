@@ -1,6 +1,26 @@
 [Rank]
-S. Cyríaci, Mártyris;;Semiduplex;;1.1;;vide C2
+S. Famiani, Confessoris O.N.;;xij. Lect. et M.;;3;;ex C5
+
+[Rule]
+12 lectiones
+Psalmi dominica
+Antiphonas horas
 
 [Oratio]
-Deus, qui nos annua beáti Cyríaci Mártyris tui solemnitáte lætíficas: concede propítius; ut, cujus natalícia colimus, virtútem quoque passiónis imitémur.
+Deus, qui beátum Famiánum, Confessórem tuum, in divérsis natiónum pópulis óperum sanctitáte et miraculórum glória fecísti conspícuum: * da nobis, ut ejus in mélius reformémur exémplis, § et inter advérsa protegámur auxíliis. *
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio S. Joannis Mariæ Vianney, Confessoris
+@CommuneCist/C5:Oratio proper
+$Oremus
+Omnípotens et miséricors Deus, qui sanctum Joánnem Maríam pastoráli stúdio et~
+jugi oratiónis ac pœniténtiæ ardóre mirábilem effecísti: da, quǽsumus; ut,~
+ejus exémplo et intercessióne, ánimas fratrum lucrári Christo, et cum eis~
+ætérnam glóriam cónsequi valeámus. 
+_
+!Commemoratio SS. Cyriaci, Largi et Smaragdi Martyrum
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Deus, qui nos ánnua sanctórum Mártyrum tuórum Cyríaci, Largi et Smarágdi solemnitáte lætíficas: concéde propítius; ut, quorum natalítia cólimus, virtútem quoque passiónis imitémur.
 $Per Dominum
