@@ -10,11 +10,11 @@ no Te Deum
 Laudes 2 
 
 [Oratio]
-Attend, O Lord, to our supplications, and by the intercession of Thy blessed martyr, Lawrence, whose feast we anticipate, graciously bestow upon us Thy everlasting mercy.
+Vyslyš, Pane, naše pokorné prosby; a na přímluvu svatého Vavřince, tvého Mučedníka, jehož slavnost zítra slavíme, nám laskavě uděl věčné milosrdenství.
 $Per Dominum
 
 [Commemoratio]
-!Commemoration of St. Romanus, Martyr
+!Připomínka sv. Romana, Mučedníka
 @Commune/C2:Oratio proper
 $Oremus
 v. Graciously hear us, we beseech thee, O Almighty God, and, at the petition of thy blessed Martyr, Romanus be mercifully pleased to deliver us from all things which may hurt our bodies, and from all evil thoughts which may defile our souls.

@@ -1,7 +1,8 @@
 @Sancti/08-09t
 
 [Commemoratio]
- 
+!Commemoratio S. Romani Martyris
+@CommuneCist/C2:Oratio3:s/N\./Románi/
 
 [Lectio1]
 @Sancti/08-09t::s/Nam,.*//s

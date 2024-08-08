@@ -650,6 +650,8 @@ sub concurrence {
 		if ($ccomrank >= ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $wrank[0] !~ /feria|octava/i ? 2.1 : 1.1 && $version !~ /Cistercien/ ) && $version !~ /1955|196/) {
 			$vespera = 3;
 			$dayname[2] = $tomorrowname[2] . "<br>Vespera de Officio occurente, Commemoratio Sanctorum tantum";
+			unless ($version =~ /Cistercien/)
+			{
 			$cwrank = '';
 			$ctname = '';
 			%cwinner = undef;
@@ -657,6 +659,7 @@ sub concurrence {
 			$cwinner = '';
 			$crank = 0;
 			$cvespera = 0;
+			}
 		} elsif (($csanctoraloffice && $cwrank[0] !~ /infra octavam Epi/i || $cwinner =~ /Nat2-0/i) && $version !~ /1955|196/) {
 			$vespera = 3;
 			$dayname[2] .= "<br>Vespera de Officio occurente; nihil de sequenti";
