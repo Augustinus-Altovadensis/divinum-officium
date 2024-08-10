@@ -63,6 +63,12 @@ Egredímini * et vidéte fíliæ Sion regem Salomónem in diadémate, quo coron�
 Præsta quǽsumus omnípotens Deus: * ut qui in memóriam Passiónis Dómini nostri Jesu Christi Corónam ejus spíneam venerámur in terris, § ab ipso glória et honóre coronári mereámur in cœlis.
 $Qui tecum
 
+[Commemoratio]
+!Commemoratio SS. Tiburtii et Susannæ Virginis, Martyrum
+@CommuneCist/C3:Oratio proper
+v. Sanctórum Mártyrum tuórum Tibúrtii et Susánnæ nos, Dómine, fóveant continuáta præsídia: quia non désinis propítius intuéri; quos tálibus auxíliis concésseris adjuvári.
+$Per Dominum
+
 [Ant Laudes]
 @:Ant Vespera
 
@@ -70,12 +76,38 @@ $Qui tecum
 !Cant. 3.
 v. Egredímini et vidéte fíliæ Sion regem Salomónem in diadémate, * quo coronávit eum mater sua.
 _
-@Commune/C2:Responsory Sexta:1-6
+R.br. Tuam Corónam * Adorámus, Dómine.
+R. Tuam Corónam * Adorámus, Dómine.
+V. Tuam gloriósam recólimus passiónem.
+R. Adorámus, Dómine.
 
 [Hymnus Laudes]
+v. Legis figúris píngitur
+Christi Coróna nóbilis:
+Impléxa spinis víctima,
+Ardénsque testátur Rubus.
+_
+Arcam Coróna cínxerat,
+Mensǽque sacrum círculum,
+Arámque thure fúmidam
+Coróna nectit ámbiens.
+_
+Christi dolórum cónscia,
+Salve Coróna glóriæ,
+Gemmis et auro púlchrior,
+Vincens Corónas síderum.
+_
+Virtus, honor, laus, glória
+Deo Patri et Fílio,
+Sancto simul Paráclito,
+In sæculórum sǽcula.
+Amen.
 
 [Versum 2]
 @:Versum 1
+
+[Ant 2]
+Exívit Jesus * portans spíneam Corónam, et purpúreum vestiméntum.
 
 [Versum 3]
 @CommuneCist/C2
