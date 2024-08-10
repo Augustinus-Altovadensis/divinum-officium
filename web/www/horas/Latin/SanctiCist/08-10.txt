@@ -1,20 +1,38 @@
 @Sancti/08-10
 
 [Rank]
-S. Laurentii Martyris;;II classis;;5.1;;ex C2
+S. Laurentii Martyris;;MM. maj.;;5.1;;ex C2
 
 [Rule]
 ex C2
 12 lectiones
 Antiphonas horas
 
-[Ant Vespera 3]
-@Sancti/08-10:Ant Vespera:s/\./;;109/ s/\./;;111/ s/\./;;112/ s/\./;;115/
+[Ant Vespera]
+Lauréntius * bonum opus operátus est, qui per signum crucis cæcos illuminávit.
+Lauréntius * ingréssus est Martyr, et conféssus est nomen Dómini Jesu Christi.
+Adhǽsit * ánima mea post te, quia caro mea igne cremáta est pro te, Deus meus.
+Misit Dóminus * Angelum suum, et liberávit me de médio ignis, et non sum æstuátus.
+Ego me óbtuli * sacrifícium Deo in odórem suavitátis.
 
 [Capitulum Vespera]
 @Sancti/08-10
 _
+@Commune/C2:Responsory Tertia:1-6
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@Sancti/08-10
+_
 @Commune/C2:Responsory Sexta:1-6
+
+[Versum 2]
+@CommuneCist/C2
+
+[Versum 3]
+@CommuneCist/C2
 
 [Ant Matutinum]
 Quo progréderis * sine fílio, pater? quo, sacérdos sancte, sine minístro próperas?;;1
@@ -114,8 +132,4 @@ R. Gáudeo plane, quia hóstia Christi éffici mérui: accusátus, non negávi; 
 V. Ego me óbtuli sacrifícium Deo, in odórem suavitátis.
 R. Assátus, grátias ag
 
-[Capitulum Laudes]
-@Sancti/08-10
-_
-@Commune/C2:Responsory Tertia:1-6
 

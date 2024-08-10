@@ -1,1 +1,81 @@
 @Sancti/08-11
+
+[Rank]
+Susceptio S. Coronæ;;MM. maj.;;5.2;;
+
+[Rule]
+Psalmi Dominica
+12 lectiones
+Antiphonas horas
+
+[Ant Vespera]
+De torrénte * in via bibet, proptérea exaltábit caput, et regnábit indútus decórem, et fortitúdinem.
+Requiévit * super eum spíritus timóris Dómini, coróna sapiéntiæ, et exultátiónis decorávit illum.
+Induit * eum Dóminus vestiméntis salútis, et induménto justítiæ, quasi sponsum decorátum coróna.
+Cinxérunt David * in modum corónæ Saül et viri ejus.
+Rex ætérnæ glóriæ * pro nobis coronátus, benedícet corónæ anni benignitátis suæ.
+
+[Capitulum Vespera]
+!Cant. 3.
+v. Egredímini et vidéte fíliæ Sion regem Salomónem in diadémate, * quo coronávit eum mater sua.
+_
+@Commune/C2:Responsory Tertia:1-6
+
+[Hymnus Vespera]
+v. Exíte Sion fíliæ,
+Regis pudícæ vírgines,
+Christi Corónam cérnite,
+Quam mater ipsa téxuit.
+_
+Horret revúlsis crínibus,
+Spinis cruentátum caput,
+Et vultus ille décolor
+Mortem propínquam réspicit.
+_
+Quæ terra sulcis ínvia
+Dumis rigens et séntibus
+Lúgubre munus prótulit,
+Quæ sæva méssuit manus?
+_
+Christi rubéscens Sánguine
+Acúleos mutat rosis,
+Palmámque vincens frúctibus,
+Spin[a] est triúmphis áptior.
+_
+Culpis satæ mortálium
+Te, Christe, spinæ vúlnerant,
+Evélle nostras córdibus,
+Tuósque nostris ínsere.
+_
+Virtus, honor, laus, glória
+Deo Patri et Fílio,
+Sancto simul Paráclito,
+In sæculórum sǽcula. Amen
+
+[Versum 1]
+V. Plecténtes Corónam de spinis.
+R. Posuérunt super caput ejus.
+
+[Ant 1]
+Egredímini * et vidéte fíliæ Sion regem Salomónem in diadémate, quo coronávit eum mater sua, parans crucem Salvatóri suo.
+
+[Oratio]
+Præsta quǽsumus omnípotens Deus: * ut qui in memóriam Passiónis Dómini nostri Jesu Christi Corónam ejus spíneam venerámur in terris, § ab ipso glória et honóre coronári mereámur in cœlis.
+$Qui tecum
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+!Cant. 3.
+v. Egredímini et vidéte fíliæ Sion regem Salomónem in diadémate, * quo coronávit eum mater sua.
+_
+@Commune/C2:Responsory Sexta:1-6
+
+[Hymnus Laudes]
+
+[Versum 2]
+@:Versum 1
+
+[Versum 3]
+@CommuneCist/C2

@@ -13,25 +13,22 @@ Psalm5 Vespera=116
 Psalm5 Vespera3=115
 
 [Ant Vespera]
-Lawrence * went in to be a martyr, and acknowledged the name of our Lord Jesus Christ.
-Lawrence wrought a good work, * in that with the sign of the Cross he gave sight to the blind.
-O my God, my soul cleaveth * fast after thee, for my flesh hath been burnt with fire for thy sake.
-The Lord hath sent His Angel, * and hath delivered me out of the midst of the fire, so that I am not scorched.
-The blessed Lawrence prayed * and said: I give thee thanks, O Lord, that Thou hast made me worthy to enter within thy gates.
+Vavřinec * vstoupil jako Mučedník, a vyznal jméno Pána Ježíše Krista.
+Vavřinec * vykonal dobré dílo, když znamením kříže slepým navracel zrak.
+Přilnula * duše má k tobě, neboť mé tělo bylo spáleno pro tebe, můj Bože.
+Poslal Pán * svého Anděla, a vysvobodil mě z ohnivých plamenů, a nebyl jsem upálen.
+Svatý Vavřinec * se modlil a pravil: Díky tobě vzdávám, Pane, neboť jsem si zasloužil vstoupit do tvých bran.
 
 [Capitulum Vespera]
-!2 Cor 9:6
-v. Brethren: He which soweth sparingly shall reap also sparingly, and he which~
-soweth bountifully shall reap also bountifully.
+!2 Kor 9:6
+v. Bratři: Kdo rozsévá skoupě, skoupě bude také sklízet, a kdo rozsévá požehnaně, požehnaně bude také sklízet.
 $Deo gratias
 
 [Ant 1]
-Lawrence the Deacon * performed a pious act by giving sight to the blind through the Sign of the Cross, and by bestowing on the poor the riches of the Church.
+Jáhen Vavřinec * vykonal dobré dílo, když znamením kříže slepým navracel zrak, a poklady Církve rozdal chudým.
 
 [Oratio]
-O Almighty God, Who didst give unto Blessed Lawrence power to be more than~
-conqueror in his fiery torment, grant unto us, we beseech thee, the power to~
-quench the flames of our sinful lusts.
+Dej nám, prosíme, všemohoucí Bože, aby plameny našich neřestí byly uhašeny, když jsi svatému Vavřinci dal překonat oheň jeho mnohých utrpení.
 $Per Dominum
 
 [Invit]
@@ -156,16 +153,15 @@ V. He hath dispersed, he hath given to the poor.
 R. His righteousness endureth for ever.
 
 [Ant 2]
-Upon the bars I denied thee not, O God. * And when they put me to the fire, I acknowledged thee to be the Lord, O Christ. Thou has proved mine heart, and visited it by night; Thou hast tried me with fire, and found no wickedness in me.
+Na roštu * jsem tebe, Boha, nezapřel, a když mě přiložili k ohni, tebe, Krista, jsem vyznal; vyzkoušel jsi mé srdce a navštívil je v noci, ohněm jsi mě vyzkoušel, a nebyla ve mě nalezena nepravost <i>(Cf. Žalm 16,4)</i>.
 
 [Lectio Prima]
 !2 Cor 9:8-9
-v. And God is able to make all grace abound in you; that ye always, having all sufficiency in all things, may abound to every good work, As it is written: He hath dispersed abroad, he hath given to the poor: his justice remaineth for ever.
+v. Bůh je dosti mocný, aby vás hojně zahrnul svými dary, takže pak budete mít vždycky a ve všem dostatek, že stačíte i na to, abyste dělali mnoho dobrých skutků, jak stojí v Písmu: 'Hojně rozdává chudým, jeho spravedlnost potrvá navždy'.
 
 [Capitulum Sexta]
 !2 Cor 9:7
-v. Every one as he hath determined in his heart, not with sadness, or of~
-necessity: for God loveth a cheerful giver.
+v. Každý ať dá podle toho, jak se sám u sebe rozhodl, ne s těžkým srdcem a proti své vůli, protože Bůh miluje radostného dárce.
 $Deo gratias
 
 [Versum 3]
@@ -173,7 +169,7 @@ V. The Levite Lawrence wrought a good work.
 R. In that with the sign of the Cross he gave sight to the blind.
 
 [Ant 3]
-When the blessed Lawrence was lying, stretched upon the bars, and burning, he said * to the iniquitous magistrate: The cooking is done enough now, turn the meat and eat; for the property of the Church, which thou seekest, hath been garnered up in heaven by the hands of the poor.
+Svatý Vavřinec, * když byl pálen, přiložený na rošt, zlotřilému tyranu řekl: Již jsem upečen. Obrať mě na druhou stranu, a pak sněz; neboť majetek Církve, který hledáš, v nebeské poklady proměnily ruce chudých.
 
 [Octava 1](sed non rubrica 1955)
 !Commemoration of the Octave of St. Lawrence

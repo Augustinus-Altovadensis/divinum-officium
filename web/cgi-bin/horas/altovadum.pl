@@ -725,7 +725,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/vidua /vdova /ig;
 	$line =~ s/germanus/rodný bratr/ig;
 	$line =~ s/parens/rodič/ig;
-	$line =~ s/natus/narozen/ig;
+	$line =~ s/ natus/ narozen/ig;
 	$line =~ s/uxor eius/jeho manželka/ig;
 	$line =~ s/uxore/manželkou/ig;
 	$line =~ s/uxor/manželka/ig;
