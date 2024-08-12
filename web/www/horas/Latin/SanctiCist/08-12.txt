@@ -1,4 +1,7 @@
 @Sancti/08-12
 
 [Rank]
-S. Claræ Virginis;;Simplex;;1.1;;vide C6
+S. Claræ Virginis;;iij. Lect. et M.;;2;;vide C6
+
+[Oratio]
+@Commune/C7::s/N\./Claræ, Vírginis tuæ,/

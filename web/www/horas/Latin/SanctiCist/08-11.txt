@@ -1,9 +1,10 @@
 @Sancti/08-11
 
 [Rank]
-Susceptio S. Coronæ;;MM. maj.;;5.2;;
+Susceptio S. Coronæ;;MM. maj.;;5.2;;ex C2
 
 [Rule]
+ex C2;
 Psalmi Dominica
 12 lectiones
 Antiphonas horas
@@ -16,8 +17,7 @@ Cinxérunt David * in modum corónæ Saül et viri ejus.
 Rex ætérnæ glóriæ * pro nobis coronátus, benedícet corónæ anni benignitátis suæ.
 
 [Capitulum Vespera]
-!Cant. 3.
-v. Egredímini et vidéte fíliæ Sion regem Salomónem in diadémate, * quo coronávit eum mater sua.
+@:Capitulum Tertia
 _
 @Commune/C2:Responsory Tertia:1-6
 
@@ -73,8 +73,7 @@ $Per Dominum
 @:Ant Vespera
 
 [Capitulum Laudes]
-!Cant. 3.
-v. Egredímini et vidéte fíliæ Sion regem Salomónem in diadémate, * quo coronávit eum mater sua.
+@:Capitulum Tertia
 _
 R.br. Tuam Corónam * Adorámus, Dómine.
 R. Tuam Corónam * Adorámus, Dómine.
@@ -109,5 +108,27 @@ Amen.
 [Ant 2]
 Exívit Jesus * portans spíneam Corónam, et purpúreum vestiméntum.
 
+[Capitulum Tertia]
+!Cant. 3.
+v. Egredímini et vidéte fíliæ Sion regem Salomónem in diadémate, * quo coronávit eum mater sua.
+$Deo gratias
+
+[Capitulum Sexta]
+!Apoc. 6.
+v. Vidi: et ecce equus albus, § et qui sedébat super illum habébat arcum, * et data est ei coróna, § et exívit vincens ut vínceret.
+$Deo gratias
+
+[Capitulum Nona]
+!Isaiae 28.
+v. In illa die erit Dóminus exercítuum coróna glóriæ, * et sertum exaltatiónis resíduo pópuli sui.
+$Deo gratias
+
+[Responsory Nona]
+V. Coróna áurea super caput ejus.
+R. Expréssa signo sanctitátis.
+
+[Ant 3]
+Et genu flexo * ante eum, illudébant ei, dicéntes: Ave Rex Judæórum: et expuéntes in eum accepérunt arúndinem, et percutiébant caput ejus.
+
 [Versum 3]
-@CommuneCist/C2
+@:Versum 1

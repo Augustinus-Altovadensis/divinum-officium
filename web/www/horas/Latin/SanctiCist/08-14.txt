@@ -3,5 +3,4 @@
 [Rank]
 In Vigilia Assumptionis B.M.V.;;Duplex II classis;;5;;
 
-[Commemoratio]
- 
+[Commemoratio] 

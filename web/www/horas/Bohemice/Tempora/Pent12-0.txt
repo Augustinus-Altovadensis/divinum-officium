@@ -1,5 +1,5 @@
 [Rank]
-Dominica XII Post Pentecosten;;Semiduplex;;5
+Neděle 12. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Almighty and merciful God, of Whose only gift it cometh that thy faithful people do unto thee true and laudable service, grant, we beseech thee, that we may so faithfully serve thee in this life, that we fail not finally to attain thy heavenly promises.
+Všemohoucí a milosrdný Bože, z jehož daru vychází, aby tobě tvoji věrní důstojně a chvályhodně sloužili; uděl nám, prosíme, abychom ku tvým zaslíbením bez překážek doběhli.
 $Per Dominum
 
 [Lectio7]
@@ -30,5 +30,11 @@ Otherwise were the Apostles, who saw the Lord face to Face, eating with Him, and
 [Ant 2]
 Master, what shall I do * to inherit eternal life? He said unto him: What is written in the law? How readest thou? And he, answering, said: Thou shalt love the Lord thy God with all thy heart, alleluia.
 
+[Ant 2] (rubrica cisterciensis)
+Jeden člověk * scházel z Jerusaléma do Jericha, a narazil na lupiče. Ti jej oloupili, zbili a odešli, a zanechali jej tam napůl mrtvého.
+
 [Ant 3]
-A certain man went down from Jerusalem * to Jericho, and fell among thieves, which stripped him of his raiment, and wounded him, and departed, leaving him half dead.
+Jeden člověk * scházel z Jerusaléma do Jericha, a narazil na lupiče. Ti jej oloupili, zbili a odešli, a zanechali jej tam napůl mrtvého.
+
+[Ant 3] (rubrica cisterciensis)
+Kdo myslíš, * že byl bližním tomu, kdo narazil na lupiče? A on mu odpověděl: Ten, který mu prokázal milosrdenství. Jdi, a i ty tak konej, alleluja.
