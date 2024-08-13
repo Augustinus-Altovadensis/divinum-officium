@@ -23,8 +23,8 @@ me rested in my tabernacle)
 $Deo gratias
 
 [Versum 1]
-V. The holy Mother of God hath been exalted.
-R. Over choirs of Angels, into the heavenly kingdom.
+V. Povýšena jsi, svatá Boží Rodičko.
+R. Nad chóry Andělů do nebeské říše.
 
 [Ant 1]
 Maiden most wise, whither goest thou up, like the dawn gloriously rising? * O~
@@ -32,9 +32,7 @@ daughter of Zion, thou art all beautiful and pleasant, fair as the moon, clear~
 as the sun.
 
 [Oratio]
-O Lord, we beseech thee, forgive the transgressions of thy servants, and,~
-forasmuch as by our own deeds we cannot please thee, may we find safety through~
-the prayers of the Mother of thy Son and our Lord.
+Služebníkům svým, prosíme, Pane, odpusť přestupky; abychom, když se ti svými skutky nedokážeme zalíbit, přímluvou Rodičky tvého Syna našeho Pána jsme zachráněni.
 $Qui tecum
 
 [Invit]
@@ -202,41 +200,40 @@ into and examine it as far as we can, that we also may be fed.
 &teDeum
 
 [Ant 2]
-Who is she * that cometh up like the rising dawn, fair as the moon, clear as~
-the sun, terrible as a fenced camp set in battle array?
+Kdopak je ona, * jež vystupuje jako vychází jitřenka, krásná jako luna, vznešená jako slunce, hrozná jako seřazený šik vojska?
 
 [Responsory Tertia]
-R.br. The holy Mother of God * hath been exalted.
-R. The holy Mother of God * hath been exalted.
-V. Over choirs of Angels, into the heavenly kingdom.
-R. Hath been exalted.
+R.br. Vyvýšena byla * Svatá Boží Rodička.
+R. Vyvýšena byla * Svatá Boží Rodička.
+V. Nad sbor Andělů do nebeského království.
+R. Svatá Boží Rodička.
 &Gloria
-R. The holy Mother of God * hath been exalted.
+R. Vyvýšena byla * Svatá Boží Rodička.
 _
-V. Mary hath been taken to heaven; the Angels rejoice.
-R. They praise and bless the Lord.
+V. Maria byla vzata do nebe; radují se Andělé.
+R. Chválí a dobrořečí Pána.
 
 [Responsory Sexta]
-R.br. Mary hath been taken to heaven * the Angels rejoice.
-R. Mary hath been taken to heaven * the Angels rejoice.
-V. They praise and bless the Lord.
-R. The Angels rejoice.
+R.br. Maria byla vzata do nebe; * Radují se Andělé.
+R. Maria byla vzata do nebe; * Radují se Andělé.
+V. Chválí a dobrořečí Pána.
+R. Radují se Andělé.
 &Gloria
-R. Mary hath been taken to heaven * the Angels rejoice.
+R. Maria byla vzata do nebe; * Radují se Andělé.
 _
-V. The Virgin Mary hath been taken into the chamber on high.
-R. Where the King of kings sitteth on a throne amid the stars.
+V. Panna Maria byla vzata do nadzemské komnaty.
+R. Kde Král králů sedí na hvězdném trůnu.
 
 [Responsory Nona]
-R.br. The Virgin Mary hath been taken * into the chamber on high.
-R. The Virgin Mary hath been taken * into the chamber on high.
-V. Where the King of kings sitteth on a throne amid the stars.
-R. On high.
+R.br. Panna Maria byla vzata * Do nadzemské komnaty.
+R. Panna Maria byla vzata * Do nadzemské komnaty.
+V. Kde Král králů sedí na hvězdném trůnu.
+R. Do nadzemské komnaty.
 &Gloria
-R. The Virgin Mary hath been taken * into the chamber on high.
+R. Panna Maria byla vzata * Do nadzemské komnaty.
 _
-V. Holy Virgin, my praise by thee accepted be.
-R. Give me strength against thine enemies.
+V. Rač mi dáti tě chválit, Panno přesvatá.
+R. Dej mi sílu proti svým nepřátelům.
 
 [Ant 3]
 Today the Blessed Virgin Mary * ascended to heaven, rejoice, she reigns with Christ forever.

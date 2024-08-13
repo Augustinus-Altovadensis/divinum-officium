@@ -1,0 +1,8 @@
+[Rank]
+S. Hyacinthi Confessoris;;Commemoratio;;1;;vide C5
+
+[Rule]
+vide C5;mtv
+
+[Oratio]
+@Commune/C5::s/N\./Hyacínthi/

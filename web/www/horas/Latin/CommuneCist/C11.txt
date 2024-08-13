@@ -12,6 +12,10 @@ Pulchra es, et decóra, * fília Jerúsalem, terríbilis ut castrórum ácies or
 _
 @CommuneCist/C6::3-6
 
+[Versum 1a]
+V. Speciósa facta es et suávis. 
+R. In delíciis tuis, sancta Dei Génitrix.
+
 [Ant 1]
 @Commune/C11::s/\: séntiant.*/./
 

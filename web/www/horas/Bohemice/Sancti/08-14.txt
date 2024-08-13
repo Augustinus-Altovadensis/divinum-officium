@@ -31,5 +31,5 @@ Then only did they begin to be worthy of admiration, when they shone by their ow
 @Commune/C5:Oratio:s/N\./Eusebius/ s/grace to follow.*/grace to follow his steps toward thee./
 
 [Oratio]
-O God, Who wast pleased to choose for thy dwelling-place the maiden palace of Blessed Mary, grant, we beseech thee, that her protection may shield us, and make us glad in her commemoration.
+Bože, jenž sis ráčil vyvolit panenskou síň Panny Marie, abys v ní přebýval; dej, prosíme, abychom byli pod její stálou ochranou, a učiň nás šťastné z toho, že se můžeme účastnit její slavnosti.
 $Qui vivis

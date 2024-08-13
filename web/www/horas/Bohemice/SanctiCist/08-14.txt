@@ -1,6 +1,5 @@
-@Sancti/08-14
-
 [Rank]
-Vigilie Nanebevzetí Panny Marie;;Duplex II classis;;5;;
+Vigilie Nanebevzetí Panny Marie;;Duplex II classis;;1.5;;
 
-[Commemoratio]
+[Oratio]
+@Sancti/08-14

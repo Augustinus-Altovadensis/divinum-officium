@@ -9,6 +9,10 @@ Jsem černá, * ale krásná, dcery Jerusalémské, proto si mě Král zamiloval
 Požehnaná jsi * mezi ženami, a požehnaný plod života tvého.;;126
 Krásná jsi a zdobná, * dcero Jerusalémská, hrozná jako seřazená šik vojska.;;147
 
+[Versum 1a]
+V. Krásnou ses stala a sladkou. 
+R. V potěšeních svých, svatá Boží Rodičko.
+
 [Ant 1]
 @Commune/C11::s/\: aby všichni.*/./
 

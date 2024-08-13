@@ -6,52 +6,44 @@ Vyvýšena byla * svatá Boží Rodička nad kůry Andělů do nebeské říše.
 Brány ráje * jsou nám skrze tebe otevřeny, jež se dnes ve slávě raduješ s Anděly.;;147
 
 [Capitulum Vespera]
-!Eccl. 24,11
-v.  Ve všem jsem hledala spočinutí, a v Pánově dědictví budu přebývat. Tehdy mi přikázal a řekl Stvořitel veškerenstva; a ten, který mě stvořil, spočinul v mém stanu.
-$Deo gratias
+@:Capitulum Tertia
 _
 Responsorium. Blahoslavená jsi, Panno Maria, Boží Rodičko, jež jsi uvěřila Pánu; dokonáno v tobě jest, co tobě bylo řečeno: hle, vyvýšena jsi nad chóry Andělů: * Přimlouvej se za nás u Pána našeho Boha.
 V. Zdrávas Maria, milosti plná; Pán s tebou.
 R. Přimlouvej se za nás u Pána našeho Boha.
 
-[HymnusC Vespera]
-O welch herrliches licht strahlst du hernieder,
-Kind, dem königsgeschlecht Davids entsprossen,
-Die erhaben du thronst, Jungfrau Maria,
-Über dunkel und dunst hoch in den himmeln.
+[Hymnus Vespera]
+Ó, jakým přeslavným světlem nám záříš,
+Z rodu Davidova královská dcero!
+V nebesích přebýváš, Panno Maria,
+Mezi nebešťany v povětří všemi.
 _
-Du hast, Mutter, dem Herrn englischer heerschar
-Mit jungfräulicher scham, keusche, die stätte
-Deiner heiligen brust freundlich bereitet:
-Und im fleische ward Gott, Christus geboren,
+Ty ve své panenské, Matko, vážnosti
+Andělskému Pánu síň svého srdce
+V svatém jsi nitru svém čistá zchystala;
+Zrodil se odsud Bůh, v těle svém, Kristus.
 _
-Dem anbetung und preis bringen die welten,
-Dem die kniee sich hier demütig beugen,
-Von dem unser gebet, hilfst du uns bitten,
-Fleht um schwinden der nacht, freuden des lichtes.
+Jemu se celý svět v úctě své klaní,
+Před ním právem každé koleno klesá,
+Od něj my žádáme, když ty přicházíš,
+By temno zavrhnul, světla dal radost.
 _
-Vater strahlenden lichts, dieses vergönne
-Mit dem eigenen Sohn, Heiligem Geiste,
-Der im glanze mit dir lebt in den himmeln
-Und beherrschend erhält alle welten.
+To uděl nám, Otče, světla každého,
+Syna skrz vlastního Ducha svatého,
+Jenž s tebou v zářivých výšinách živý,
+Vládne a po všechny věky vše řídí.
 Amen.
 
-[Ant Laudes]
-@Sancti/08-15t:Ant Vespera:s/;;.*//g
+[Ant 1]
+Vystoupil Kristus * nad nebesa, a připravil své přečisté Matce příbytek nesmrtelnosti; at toto je ona přeslavná slavnost, jež nemá srovnání se všemi slavnostmi Svatých, v níž ona slavná a šťastná, v úžasu řádů nebeského dvora, dojde k nadzemské komnatě, kde bude ona laskavá přebývat a vždy pamatovat na ty, kdo na ni pamatují.
 
-[Capitulum Laudes]
+[Capitulum Tertia]
 !Eccl. 24,11
-v.  Ve všem jsem hledala spočinutí, a v Pánově dědictví budu přebývat. Tehdy mi přikázal a řekl Stvořitel veškerenstva; a ten, který mě stvořil, spočinul v mém stanu.
+v. Ve všem jsem hledala spočinutí, a v Pánově dědictví budu přebývat. Tehdy mi přikázal a řekl Stvořitel veškerenstva; a ten, který mě stvořil, spočinul v mém stanu.
 $Deo gratias
-_
-@Sancti/08-15t:Responsory Nona:s/._.*//s
 
-[Capitulum Vespera 3]
-!Eccl. 24,11
-v.  Ve všem jsem hledala spočinutí, a v Pánově dědictví budu přebývat. Tehdy mi přikázal a řekl Stvořitel veškerenstva; a ten, který mě stvořil, spočinul v mém stanu.
-$Deo gratias
-_
-@Sancti/08-15:Responsory Sexta:1-6
+[Ant 3]
+Celá jsi krásná, * má přítelkyně, a poskvrny v tobě není: odkapávající plást medu jsou tvé rty, med i mléko pod tvým jazykem, vůně tvých mastí je nade všechny vonné látky: již tedy zima přešla, deštík odešel a ustoupil, vyrašily květy, kvetoucí vinice voní kolem dokola, a hlas hrdličky je slyšet v naší zemi: vstaň a pospěš, má přítelkyně, přijď z Libanonu, přijď, obdržíš korunu.
 
 [Ant Matutinum]
 The holy Mother of God is exalted over choirs of Angels into the heavenly kingdom.;;8
