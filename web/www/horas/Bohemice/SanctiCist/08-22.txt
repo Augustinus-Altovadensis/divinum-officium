@@ -1,0 +1,10 @@
+@Sancti/08-22
+
+[Rank]
+Immaculati Cordis B.M.V.;;MM. maj.;;5.1;;ex C11
+
+[Commemoratio]
+!Commemoratio SS. Timothei, Hippolyti et Symphoriani, Martyrum
+@CommuneCist/C3:Oratio proper
+v. Auxílium tuum nobis, Dómine, quǽsumus, placátus impende: et, intercedéntibus beátis Martyribus tuis Timótheo, Hippólyto et Symphoriáno, déxteram super nos tuæ propitiatiónis exténde.
+$Per Dominum
