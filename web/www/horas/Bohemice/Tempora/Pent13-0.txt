@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Almighty and everlasting God, give unto us the increase of faith, hope, and charity, and that we may worthily obtain that which Thou dost promise, make us to love that which Thou dost command. 
+Všemohoucí věčný Bože, rozšiř naši víru, naději a lásku; a abychom mohli dosáhnout toho, co slibuješ, dej nám milovat to, co přikazuješ. 
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,13 @@ Such men as these are banished out of the walls of the Church, to the end that h
 &teDeum
 
 [Ant 2]
-As Jesus passed through * a certain village, there met Him ten men that were lepers, which stood afar off; and they lifted up their voices, and said: "Jesus, Master, have mercy on us."
+Když procházel Ježíš * jedním městem, vyšlo mu vstříc deset malomocných mužů, kteří stáli v povzdálí, a nahlas volali, pravíce: Jezíši, učiteli, smiluj se nad námi.
+
+[Ant 2] (rubrica cisterciensis)
+Když vstoupil Ježíš * do jednoho města, vyšlo mu vstříc deset malomocných mužů, kteří stáli v povzdálí, a nahlas volali, pravíce: Jezíši, učiteli, smiluj se nad námi.
 
 [Ant 3]
 And one of them, * when he saw that he was healed, turned back, and with a loud voice glorified God, alleluia.
+
+[Ant 3] (rubrica cisterciensis)
+Nebylo snad deset * očištěno? A kde je těch devět? Nenašel se nikdo, kdo by se vrátil a vzdal slávu Bohu, jen tento cizinec. Jdi, tvá víra tě uzdravila, alleluja.

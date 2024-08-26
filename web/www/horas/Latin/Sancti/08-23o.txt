@@ -10,5 +10,5 @@ no Te Deum
 Laudes 2 
 
 [Oratio]
-Da quǽsumus omnipotens Deus: ut beati Bartholomæi Apostoli tui, quam prævenimus, veneranda solemnitas et devotionem nobis auget ad salutem.
+Da quǽsumus omnípotens Deus: ut beáti Bartholomǽi Apóstoli tui, quam prævénimus, veneránda solémnitas et devotiónem nobis auget ad salútem.
 $Per Dominum 

@@ -10,7 +10,7 @@ Antiphonas horas
 [Ant Vespera]
 Trahe me; * post te currémus in odórem unguentórum tuórum.;;109
 Diléctus meus * lóquitur mihi: Surge, própera, amíca mea.;;112
-Fulcíte me flóribus * stipáte me malis, quia amóre lángueo.;;121
+Fulcíte me flóribus, * stipáte me malis, quia amóre lángueo.;;121
 Adjúro vos, * fíliæ Jerúsalem, ne suscitétis diléctam quoadúsque ipsa velit.;;126
 Ego dórmio, * et cor meum vígilat.
 
@@ -39,7 +39,7 @@ $Per Dominum
 @Sancti/08-22t:Commemoratio:s/Commune/CommuneCist/
 
 [Ant Laudes]
-@:Ant Vespera
+@:Ant Vespera:s/\;\;.*//g
 
 [Capitulum Laudes]
 @:Capitulum Tertia
@@ -74,7 +74,7 @@ V. Fortis est ut mors diléctio.
 R. Dura sicut inférnus æmulátio.
 
 [Capitulum Nona]
-!Sir 24:9-11
+!Eccli. 24:6-8
 v. In omni terra steti et in omni pópulo, § et in ómnibus réquiem quæsívi, * et in hereditáte Dómini morábor.
 $Deo gratias
 

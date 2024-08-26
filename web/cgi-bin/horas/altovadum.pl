@@ -28,6 +28,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/A\.R\. ac Ven.* P\./Veledůstojný a ctihodný Otec/ig;
 	$line =~ s/Venerabilis P\./Veledůstojný Otec/ig;
 	$line =~ s/Venerabilis/Ctihodný/g;
+	$line =~ s/RR\. ac Eminentissimus Domnus/Nejdůstojnější a Nejjasnější Pán/ig;
 	$line =~ s/venerabilis/ctihodný/g;
 	$line =~ s/RR\. ?Domnus/Nejdůstojnější Pán/ig;
 	$line =~ s/Domni/Pana/ig;
@@ -71,6 +72,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Sionensis/strahovský/ig;
 	$line =~ s/Clarae.Vallis/ze Zwettlu/ig;
 	$line =~ s/sacrosanctae Crucis/přesvatého Kříže/ig;
+	$line =~ s/ad Scottos Vienn(æ|ae)/u Skotů ve Vídni/g;
 	$line =~ s/ad Sanctam Crucem/v Heiligenkreuz/g;
 	$line =~ s/Ad Sanctam Crucem/V Heiligenkreuz/g;
 	$line =~ s/Sanctae Crucis/Heiligenkreuz/ig;
@@ -230,10 +232,11 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Salisburgi/v Salzburgu/gi;
 	$line =~ s/in Dachau/v Dachau/gi;
 	$line =~ s/in Mainhardschlag/v Malontech/gi;
+	$line =~ s/Hellenopolisensis/v Hellenopolis <i>v Bythinii<\/i>/gi;
 
 
 	$line =~ s/abbatiae Ossecensis/oseckého opatství/ig;
-	$line =~ s/Ordinis Sancti Joannis hospitalis in Jerusalem/hospitálního Řádu svatého Jana v Jeruzalémě/ig;
+	$line =~ s/Ordinis Sancti Joannis hospitalis in Jerusalem/hospitálního Řádu svatého Jana v Jerusalémě/ig;
 	$line =~ s/huius loci abbatis/Opata tohoto kláštera/ig;
 	$line =~ s/huius loci professus/profes tohoto kláštera/ig;
 	$line =~ s/huius loci professi/profese tohoto kláštera/ig;

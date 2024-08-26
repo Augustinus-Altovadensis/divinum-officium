@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Keep, we beseech thee, O Lord, thy Church with thy perpetual mercy, and because the frailty of man without thee cannot but fall, keep us ever by thy help from all things hurtful, and lead us to all things profitable to our salvation.
+Střež, Pane, prosíme, svou Církev věčným slitováním; a protože bez tebe selhává lidská smrtelnost, svou neustávající pomocí ji vytahuješ z toho, co jí škodí, a vedeš ke spáse.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,7 @@ He which serveth mammon, serveth that evil one who hath perversely chosen to be 
 &teDeum
 
 [Ant 2]
-Ne dělejte si starosti * a neříkejte: Co budeme jíst, a co budeme pít? Váš Otec totiž ví, co vám bude zapotřebí, alleluja.
+Nedělejte si starosti * a neříkejte: Co budeme jíst, a co budeme pít? Váš Otec totiž ví, čeho vám bude zapotřebí, alleluja.
 
 [Ant 3]
-Hledejte nejdříve * království Boži a jeho spravedlnost, a všechny tyto věci vám budou přidány, alleluja.
+Hledejte nejprve * království Boži a jeho spravedlnost, a všechny tyto věci vám budou přidány, alleluja.

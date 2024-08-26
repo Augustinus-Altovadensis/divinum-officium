@@ -6,12 +6,10 @@ vide Sancti/08-15;
 9 lectiones
 
 [Commemoratio]
-!Commemoration of Sts. Timothy, Hippolytus and Symphorianus, Martyrs
+!Připomínka svatých Timoteje, Hippolyta a Symphoriana, Mučedníků
 @Commune/C3:Oratio proper
 $Oremus
-v. Mercifully help us, O Lord, we beseech thee, and at the pleading of thine holy~
-Martyrs Timothy, Hippolytus, and Symphorian, stretch forth over us the right~
-hand of thy favour.
+v. Pomoc svou nám, Pane, prosíme, laskavě sešli; a na přímluvu tvých svatých Mučedníků Timoteje, Hippolyta a Symphoriana, k nám natáhni pravici svého slitování.
 $Per Dominum
 
 [Lectio1]

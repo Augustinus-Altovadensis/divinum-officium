@@ -3,7 +3,9 @@
 Commune Apostolorum, Versio Cisterciensis et Bohemica
 
 [Ant Vespera]
-@Commune/C1::1-3
+Toto je mé přikázání, * abyste se milovali navzájem, jako jsem já miloval vás.;;109
+Nikdo nemá větší lásku * než ten, kdo položí život za své přátele.;;110
+Vy jste mí přátelé, * pokud děláte to, co vám přikazuji, praví Pán.;;111
 Blahoslavení čistí srdcem; * neboť oni uvidí Boha.;;112
 Blahoslavení, * kdo trpí pronásledování pro spravedlnost.
 
@@ -21,7 +23,7 @@ Až budete stát * před králi a místodržícími, nepřemýšlejte předem, j
 Tito jsou * dvě olivy, a dva svícny, které září před Hospodinem, mají moc zahalit nebe oblaky, i otevřít jeho brány, neboť jejich jazyky jsou klíče k nebi, alleluja.
 
 [Ant Vespera 3]
-Již vás nenazývám * služebníky, avšak svými přáteli: neboť vše, co jsem slyšel od svého Otce, s tím jsem vás seznámil.;;109
+Již vás nenazývám * služebníky, nýbrž svými přáteli: neboť vše, co jsem slyšel od svého Otce, s tím jsem vás seznámil.;;109
 Vezměte * na sebe mé jho, neboť jsem tichý a pokorný srdcem.;;112
 Mé jho je totiž * sladké, a mé břemeno lehké, praví Pán.;;115
 Budou vás totiž vydávat * veleradám, a ve svých shromážděních vás budou bičovat; a předvádět vás před krále a místodržící kvůli mě na svědectví jim i Pohanům.;;125

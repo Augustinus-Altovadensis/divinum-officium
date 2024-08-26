@@ -10,7 +10,5 @@ no Te Deum
 Laudes 2 
 
 [Oratio]
-Grant we beseach thee that the worshipful feast of thy blessed Apostle Bartholomeus,~
-may avail us to the increase of both of godliness toward thee and the~
-healthfulness of our own soul
+Dej, prosíme, všemohoucí Bože; aby ctihodná slavnost svatého Bartoloměje, tvého Apoštola, kterou budeme slavit, v nás rozmnožila oddanost ke spáse.
 $Per Dominum 

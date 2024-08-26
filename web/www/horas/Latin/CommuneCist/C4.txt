@@ -11,6 +11,7 @@ _
 Ecce sacérdos magnus, * qui in diébus suis plácuit Deo, et invéntus est justus.
 Euge serve bone, * in módico fidélis, intra in gáudium Dómini tui.
 Fidélis servus, et prudens, * quem constítuit Dóminus super famíliam suam.
+Beátus ille servus, * cum vénerit Dóminus ejus, et pulsáverit jánuam, et invénerit eum vigilántem.
 Ecce vere * Israëlita, in quo dolus non est.
 
 [Hymnus Vespera Hac die]
@@ -28,6 +29,28 @@ R. Qui in diébus suis plácuit Deo, et invéntus est justus.
 
 [Versum 2 alt]
 @:Versum 1 alt
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+!Sir 44:25
+v. Benedictiónem ómnium Géntium dedit illi Dóminus, * et testaméntum suum confirmávit super caput ejus.
+$Deo gratias
+_
+@Commune/C4:Responsory Tertia:1-6
+
+[Responsory Tertia]
+@Commune/C4:Versum 1
+
+[Responsory Sexta]
+@Commune/C4:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Commune/C4:Responsory Sexta:8-9
+
+[Ant 3]
+@Commune/C4:Ant 3
 
 [Backup]
 orig: HymnusM Vespera
@@ -112,25 +135,6 @@ R. Elégit te Dóminus sacerdótem sibi
 * Ad sacrificándum ei hóstiam laudis.
 V. Immola Deo sacrificium laudis, et redde Altissimo vota tua.
 R. Ad sacrificándum ei hóstiam laudis.
-
-[Capitulum Laudes]
-!Sir 44:25
-v. Benedictiónem ómnium Géntium dedit illi Dóminus, * et testaméntum suum confirmávit super caput ejus.
-$Deo gratias
-_
-@Commune/C4:Responsory Tertia:1-6
-
-[Responsory Tertia]
-@Commune/C4:Versum 1
-
-[Responsory Sexta]
-@Commune/C4:Responsory Tertia:8-9
-
-[Responsory Nona]
-@Commune/C4:Responsory Sexta:8-9
-
-[Ant 3]
-@Commune/C4:Ant 3
 
 [LectioE]
 v. Sequéntia sancti Evangélii secúndum Matthǽum

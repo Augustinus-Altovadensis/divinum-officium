@@ -18,7 +18,7 @@ vide C5;
 9 lectiones
 
 [Oratio]
-O God, Who didst give unto thy blessed Confessor Louis a glorious change from an earthly kingdom unto an heavenly, grant unto us, we beseech thee, for his sake and by his prayers, one day to enter like him into the Presence of the King of kings, even thy Son Jesus Christ.
+Bože, jenž jsi svatého Ludvíka, svého Vyznavače, přenesl z pozemského kralování do slávy království nebeského; pro jeho zásluhy, prosíme, a na jeho přímluvu, nám dej přebývat s Králem králů Ježíšem Kristem, svým Synem.
 $Qui tecum
 
 [Lectio4]

@@ -3,8 +3,88 @@
 [Rank]
 Immaculati Cordis B.M.V.;;MM. maj.;;5.1;;ex C11
 
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+
+[Ant Vespera]
+Veď mne; * poběžíme za tebou ve vůni tvých mastí.;;109
+Můj milovaný * mi řekl: Vstaň, pospíchej, má přítelkyně.;;112
+Ozdobte mě květy, * nacpěte mě jablky, neboť láskou umdlévám.;;121
+Zapřísahám vás, * dcery jerusalémské, nebuďte milovanou, dokud sama nebude chtít.;;126
+Já spím, * ale mé srdce bdí.
+
+[Capitulum Vespera]
+@:Capitulum Tertia
+_
+R.br. Mé srdce se rozplynulo * Jako tekutý vosk.
+R. Mé srdce se rozplynulo * Jako tekutý vosk.
+V. Uprostřed mého nitra.
+R. Jako tekutý vosk.
+
+[Versum 1]
+V. Zajásej v každém srdci, Dcero Jerusalémská.
+R. Král Israele je v tvém nitru.
+
+[Ant 1]
+Zajásalo * mé Srdce v Pánu, a zajásal můj roh v mém Bohu, neboť jsem se zaradovala ve tvé spáse.
+
 [Commemoratio]
-!Commemoratio SS. Timothei, Hippolyti et Symphoriani, Martyrum
+!Připomínka svatých Timoteje, Hippolyta a Symphoriana, Mučedníků
 @CommuneCist/C3:Oratio proper
-v. Auxílium tuum nobis, Dómine, quǽsumus, placátus impende: et, intercedéntibus beátis Martyribus tuis Timótheo, Hippólyto et Symphoriáno, déxteram super nos tuæ propitiatiónis exténde.
+v. Pomoc svou nám, Pane, prosíme, laskavě sešli; a na přímluvu tvých svatých Mučedníků Timoteje, Hippolyta a Symphoriana, k nám natáhni pravici svého slitování.
 $Per Dominum
+
+[Commemoratio 2]
+@Sancti/08-22t:Commemoratio:s/Commune/CommuneCist/
+
+[Ant Laudes]
+@:Ant Vespera:s/\;\;.*//g
+
+[Capitulum Laudes]
+@:Capitulum Tertia
+_
+R.br. Bůh mého srdce, * I mou součástí je Bůh navěky.
+R. Bůh mého srdce, * I mou součástí je Bůh navěky.
+V. Je dobré, když přilnu k Bohu.
+R. I mou součástí je Bůh navěky.
+
+[Versum 2]
+V. Kso mě nalezne, nachází život.
+R. A nabere spásu od Hospodina.
+
+[Ant 2]
+Pozvedla hlas * jedna žena ze zástupu, a řekla: Blažené lůno, které tě nosilo, a prsy, ze kterých jsi pil.
+
+[Capitulum Tertia]
+!Píseň písní 8, 6.
+v. Polož mě jako pečeť na své Srdce, jako pečeť na své rámě, neboť silná jako smrt je láska, nezlomná jako podsvětí je vášeň. Její výheň je výheň ohně a plamenů.
+$Deo gratias
+
+[Responsory Tertia]
+@Sancti/09-15:Responsory Nona:8-9:s/diléctus locútus est/locútus est diléctus/
+
+[Capitulum Sexta]
+!Sírachovec 24:3.
+v. Vyšla jsem z úst Nejvyššího jako prvorozená ze všech stvoření, učinila jsem v nebesích, že vyšlo světlo nehasnoucí, a jako mlha jsem zakryla vší zemi.
+$Deo gratias
+
+[Responsory Sexta]
+V. Silná jako smrt je láska.
+R. Nezlomná jako podsvětí je vášeň.
+
+[Capitulum Nona]
+!Sírachovec 24:6-8
+v. Zastavila jsem se u všech národů a kmenů, a u všech jsem hledala odpočinek, a spočinula jsem v dědictví Hospodinově.
+$Deo gratias
+
+[Responsory Nona]
+V. Já patřím mému milému.
+R. A k němu se stále obracím.
+
+[Versum 3]
+V. Běžel jsem po cestě tvých přikázání.
+R. Když jsi rozšířil mé Srdce.
+
+[Ant 3]
+Zajásalo * mé Srdce v Bohu mém spasiteli, neboť mi učinil veliké věci ten, který je mocný.

@@ -174,11 +174,14 @@
 08-16=08-16=S. Hyacinthi, Confessoris=1=
 08-18=08-18=S. Agapiti, Martyris=1=
 08-20=08-20=S. Bernardi, Abbatis et Ecclesiae Doctoris=3=
-08-22=08-22=Immaculati Cordis B.M.V.=5=SS. Timothei, Hippolyti et Symphoriani, Martyrum=1=
+08-22=08-22=Immaculati Cordis B.M.V.=5.1=SS. Timothei, Hippolyti et Symphoriani, Martyrum=1=
 08-23=08-23=Vigilia S. Bartholomaei, Apostoli=1.5=
 08-24=08-24=S. Bartholomaei, Apostoli=5=
-08-28=08-28=S. Augustini Episcopi et Confessoris et Ecclesiae Doctoris=3=S. Hermetis=Mart=1=
-08-29=08-29=Decollatione S. Joannis Baptistae=3=S. Sabinae Mart=1=
+08-25=08-25=S. Ludovici, Confessoris=3=
+08-26=08-26=S. Zephirini, Papae et Martyris=1=
+08-27=08-27=SS. Guarini et Amedei, Ep. et Conf. O.N.=2=
+08-28=08-28=S. Augustini Episcopi et Confessoris et Ecclesiae Doctoris=4=S. Hermetis=Mart=1=
+08-29=08-29=Decollatione S. Joannis Baptistae=4=S. Sabinae Mart=1=
 08-30=08-30=Ss. Felicis et Soc. Mart.=1=
 *September*
 09-03=09-03=S. Pius X Papae Confessoris=3=

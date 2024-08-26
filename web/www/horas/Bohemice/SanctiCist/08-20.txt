@@ -17,7 +17,7 @@ V. Učiněn byl jako planoucí oheň, a jako vonné kadidlo v letních dnech:
 R. A přijal štólu slávy k završení ctnosti. 
 
 [Hymnus Vespera]
-Bernard, ten slavný Učitel
+Bernard, ten Učitel slavný 
 V nebesa vstoupil dnešní den:
 Přitáhla jej božskou mocí
 Záře, Blesk slávy Otcovy. 
@@ -36,8 +36,8 @@ Stvořiteli vznešený hvězd.
 !<i>Cónditor alme síderum.</i> Hymnus k adventním Nešporám.
 _
 Narozeného Krista jej
-Proslavilo narození.
-To od tebe darem dostal
+Osvítilo narození.
+To dostal darem od tebe,
 Světlo, blažená Trojice!
 !<i>O lux beáta Trínitas.</i> Hymnus k Nejsv. Trojici, který se zpívá i každou "zelenou" sobotu.
 _
@@ -50,7 +50,7 @@ _
 Rosou on prodchnut milosti
 Čiší sladkou výmluvností;
 Skrz tě, prameni moudrosti,
-Jenž nejvyšší cenu dáváš.
+Jenž dáváš cenu nejvyšší.
 !<i>Summi largítor præmii.</i> Hymnus k postním Vigiliím.
 _
 Posedlé pak zlými duchy
