@@ -183,6 +183,7 @@
 08-28=08-28=S. Augustini Episcopi et Confessoris et Ecclesiae Doctoris=4=S. Hermetis=Mart=1=
 08-29=08-29=Decollatione S. Joannis Baptistae=4=S. Sabinae Mart=1=
 08-30=08-30=Ss. Felicis et Soc. Mart.=1=
+08-31=08-31=S. Josephi Calasanctii, Confessoris=2=
 *September*
 09-03=09-03=S. Pius X Papae Confessoris=3=
 09-08=09-08=Nativitate Beatae Mariae Virginis=5=S. Adriani=Mart=1=
@@ -197,7 +198,7 @@
 09-23=09-23=S. Linae Papae et Martyris=2=
 09-27=09-27=S. Cosmae et Damiani Martyrum=2=
 09-29=09-29=In dedicatione S. Michaelis Archangelis=6=
-09-30=09-30=S. Hieronomy Presbitery Confessorie et Ecclesiae Doctoris=3=
+09-30=09-30=S. Hieronymi Presbitery Confessorie et Ecclesiae Doctoris=3=
 *October*
 10-02=10-02=Ss. Angelorum Custodum=4=
 10-03=10-03=S. Theresiae a Jesu Infante Virginis=3=

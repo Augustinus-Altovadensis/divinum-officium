@@ -74,7 +74,7 @@ sub occurrence {
 	if($tomorrow) {
 		$sday = nextday($month, $day, $year);
 		$tomorrowname[0] = $weekname = getweek($day, $month, $year, 1);
-		$dayofweek = (day_of_week($day, $month, $year) + 1) % 7;	# 0 = Sunday, 1 = Mpnday, etc.
+		$dayofweek = (day_of_week($day, $month, $year) + 1) % 7;	# 0 = Sunday, 1 = Monday, etc.
 	} else {
 		$sday = get_sday($month, $day, $year); # get office string mm-dd for Sanctoral office
 		$weekname = $dayname[0];
@@ -206,7 +206,7 @@ sub occurrence {
 	
 			if ($tomorrow) {
 				$svesp = 1;
-				$BMVSabbato = ($saint{Rank} !~ /Vigilia/ && $srank[2] < 2 && $version !~ /(1960|Monastic)/ && $dayofweek == 6);
+				$BMVSabbato = ($saint{Rank} !~ /Vigilia/ && $srank[2] <= 2 && $version !~ /(1960|Monastic)/ && $dayofweek == 6); # $version =~ /Cistercien/i, must be implemented in new version
 
 				if ($version !~ /196|Trident/ && $hora =~ /Completorium/i && $month == 11 && $day == 1 && $dayofweek != 6) {
 					$srank[2] = 7; # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959

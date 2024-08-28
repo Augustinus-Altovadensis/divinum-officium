@@ -31,7 +31,7 @@ $Qui vivis
 !Commemoratio S. Sabinæ Martyris
 @Commune/C7:Oratio proper
 $Oremus
-v. Deus, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Sabínæ Mártyris tuæ natalícia cólimus, per ejus ad te exémpla gradiámur.
+v. Deus, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Sabínæ Mártyris tuæ natalítia cólimus, per ejus ad te exémpla gradiámur.
 $Per Dominum.
 
 [Lectio1]

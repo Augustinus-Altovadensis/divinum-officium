@@ -8,3 +8,19 @@ In Decollatione S. Joannis Baptistæ;;MM. min.;;4;;vide C2
 
 [Commemoratio]
 @Sancti/08-29:Commemoratio:s/Commune/CommuneCist/
+
+[Ant Vespera]
+@Sancti/08-29::1
+@Sancti/08-29::3
+@Sancti/08-29::2
+@Sancti/08-29::4-5
+
+[Ant Laudes]
+Heródes enim ténuit * et ligávit Joánnem et pósuit in cárcerem propter Herodíadem.
+Puéllæ saltánti * imperávit mater: Nihil áliud petas, nisi caput Joánnis.
+Arguébat * Heródem Joánnes propter Herodíadem, quam túlerat fratri suo Philíppo uxórem.
+Dómine mi rex, * da mihi in disco caput Joánnis Baptístæ.
+Da mihi in disco * caput Joánnis Baptístæ. Et contristátus est rex propter jusjurándum.
+
+[Ant 3]
+Perpétuis * nos, Dómine, sancti Joánnis Baptístæ tuére præsídiis; et quanto fragilióres sumus, tanto magis necessáriis attólle suffrágiis.

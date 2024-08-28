@@ -1,13 +1,11 @@
 [Rank]
-Ss. Felicis et Adaucti Martyrum;;Simplex;;1.1;;vide C3
+Sv. Felixe a Adaucta, Mučedníků;;Simplex;;1.1;;vide C3
 
 [Rule]
 vide C3;
 
 [Oratio]
-We humbly beseech thy Majesty, O Lord, that as Thou dost make us exceeding glad~
-at the remembrance of thine holy servants, so Thou wouldest ever shelter us~
-under their prayers.
+Vznešenost tvou, Pane, poníženě žádáme; aby tak, jak nás řádně obšťastňuješ památkou svých Svatých, jsi nás vždy na jejich prosby chránil.
 $Per Dominum
 
 [Lectio93]
