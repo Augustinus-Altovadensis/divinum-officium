@@ -1,6 +1,9 @@
 [Ant 1]
 My son, keep thy fathers commandment * and forsake not the law of thy mother, but bind them continually upon thy heart.
 
+[Ant 1] (rubrica cisterciensis)
+Hospodin mě měl * na počátku svých cest, ještě než cokoliv stvořil na počátku; ještě nebyly propasti, a já jsem byla zrozena; když připravoval nebesa, byla jsem tam, s ním jsem rozvažovala všechno.
+
 [Lectio1]
 Lesson from the book of Ecclesiasticus
 !Sir 5:1-5

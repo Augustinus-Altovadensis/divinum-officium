@@ -1,5 +1,8 @@
 [Ant 1]
-I have set watchmen upon thy walls, O Jerusalem, * which shall never hold their peace day nor night, praising the Name of the Lord.
+Nad tvými zdmi, * Jerusaléme, postavím stráže; po celý den i noc nepřestanou chválit jméno Hospodinovo.
+
+[Ant 1] (rubrica cisterciensis)
+Jenž nebes * obsahuješ trůn, a shlížíš do propastí, Hospodine, Králi králů, rozmýšlíš nad horami, zemi svíráš v dlani; vyslyš nás, Hospodine, v našem vzdychání.
 
 [Lectio1]
 Lesson from the book of Micheas

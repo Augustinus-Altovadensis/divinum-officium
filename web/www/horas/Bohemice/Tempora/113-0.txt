@@ -1,5 +1,8 @@
 [Ant 1]
-Hedge us about * with thy wall that cannot be broken down, O Lord, and shield us continually with the arms of thy might.
+Svou nedobytnou zdí * nás obstav, Hospodine, a zbraněmi své moci chraň nás vždy.
+
+[Ant 1] (rubrica cisterciensis)
+Nad tvými zdmi, * Jerusaléme, postavím stráže; po celý den i noc nepřestanou chválit jméno Hospodinovo.
 
 [Lectio1]
 Lesson from the book of Daniel

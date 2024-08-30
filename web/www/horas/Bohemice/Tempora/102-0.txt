@@ -1,6 +1,9 @@
 [Ant 1]
 The sun shone * upon the shields of gold, and the mountains glistened therewith, and the army of the heathens was spread abroad.
 
+[Ant 1] (rubrica cisterciensis)
+Nechť vyslyší Hospodin * vaše modlitby a smíří se s vámi, a neopouští vás ve zlých časech.
+
 [Lectio1]
 Lesson from the first book of Machabees
 !1 Mac 4:36-40

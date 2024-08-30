@@ -1,6 +1,9 @@
 [Ant 1]
 Omnis sapiéntia * a Dómino Deo est, et cum illo fuit semper, et est ante ævum.
 
+[Ant 1] (rubrica cisterciensis)
+@Tempora/084-0
+
 [Lectio1]
 Incipit liber Sapiéntiæ
 !Sap 1:1-4

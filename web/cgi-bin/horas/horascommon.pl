@@ -1312,15 +1312,13 @@ sub officestring($$;$) {
 	
 	# set this global here
 	our $monthday;
-	# original: if ($fname !~ /tempora[M]*\/(Pent|Epi)/i)
-	if ($fname !~ /tempora*\/(Pent|Epi)/i) {
+	if ($fname !~ /tempora[M|Cist]*\/(Pent|Epi)/i) {
 		%s = %{setupstring($lang, $fname)};
 		if ($version =~ /196/ && $s{Rank} =~ /Feria.*?(III|IV) Adv/i && $day > 16) { $s{Rank} =~ s/;;2.1/;;4.9/; }
 		return \%s;
 	}
 	
-	# original: if ($fname !~ /tempora[M]*\/Pent([0-9]+)/i && $1 < 5)
-	if ($fname =~ /tempora*\/Pent([0-9]+)/i && $1 < 5) {
+  if ($fname !~ /tempora[M|Cist]*\/Pent([0-9]+)/i && $1 < 5) {
 		%s = %{setupstring($lang, $fname)};
 		return \%s;
 	}
@@ -1340,7 +1338,8 @@ sub officestring($$;$) {
 	my @weeks = ('I.', 'II.', 'III.', 'IV.', 'V.');
 	if ($m) { $m = $months[$m - 8]; }
 	if ($w) { $w = $weeks[$w - 1]; }
-	$rank[0] .= " $w $m";
+	if ( $version !~ /Cistercien/i ) { $rank[0] .= " $w $m"; }
+    else { $rank[0] .= " ($w $m)"; }
 	$s{Rank} = join(';;', @rank);
 	my %m = %{setupstring($lang, subdirname('Tempora', $version) . "$monthday.txt")};
 	

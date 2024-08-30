@@ -1,6 +1,9 @@
 [Ant 1]
 I dwell in the highest * places, and my throne is in a cloudy pillar.
 
+[Ant 1] (rubrica cisterciensis)
+Veškerá moudrost * pochází od Hospodina, a byla s ním vždy, a je před věky.
+
 [Lectio1]
 Lesson from the book of Ecclesiastes
 !Eccl 1:1-7

@@ -1,6 +1,9 @@
 [Ant 1]
 Dómine Rex omnípotens, * in dicióne tua cuncta sunt pósita, et non est qui possit tuæ resístere voluntáti.
 
+[Ant 1] (rubrica cisterciensis)
+@Tempora/094-0
+
 [Lectio1]
 Incipit liber Esther
 !Esth 1:1-4

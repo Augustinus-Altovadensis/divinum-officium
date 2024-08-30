@@ -1,5 +1,8 @@
 [Ant 1]
-Wisdom * crieth in the streets: If any man love wisdom, let him come unto me, and he shall find her and when once he hath found her, blessed shall he be if he hold her.
+Moudrost * provolává na ulicích: Pokud kdo miluje moudrost, ke mně ať se obrátí, a nalezne ji; a až ji nalezne, blažen bude, pokud ji udrží.
+
+[Ant 1] (rubrica cisterciensis)
+Pohleď, můj synu, * na mou moudrost, a ke slovum mých úst nakloň svůj sluch, neboť v moudrosti založil Hospodin zemi, a upevnil nebesa v rozumnosti.
 
 [Lectio1]
 Lesson from the book of Ecclesiasticus
