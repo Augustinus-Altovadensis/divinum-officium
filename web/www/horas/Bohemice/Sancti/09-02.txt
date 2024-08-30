@@ -6,9 +6,7 @@ vide C5;mtv
 9 lectiones
 
 [Oratio]
-Grant unto thy Church, we beseech thee, O Almighty God, that even as thy blessed~
-Confessor Stephen, while he was a King upon earth, was her forwarder, so, now~
-that he is a glorious Saint in heaven, he may be her defender.
+Uděl, prosíme, své Církvi, všemohoucí Bože; aby svatého Štěpána, tvého Vyznavače, jejž měla jako zastánce na zemi, si zasloužila míti slavným zastáncem i v nebi.
 $Per Dominum
 
 [Lectio4]

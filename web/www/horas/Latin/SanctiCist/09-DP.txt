@@ -1,17 +1,12 @@
 @Sancti/10-02
 
 [Rank]
-Ss. Angelorum Custodum;;Duplex;;3
+SS. Angelorum Custodum Septembris;;Serm. maj.;;6.9
 
 [Capitulum Vespera]
 @Sancti/10-02
 _
-@Sancti/05-08:Responsory Sexta:s/._.*//s
-
-[MM Capitulum]
-@Sancti/10-02:Capitulum Sexta
-_
-@Sancti/05-08:Responsory Tertia:s/.*_//s
+@Sancti/10-02:Responsory8:1-4:s/R. /Responsorium. /
 
 [Ant Laudes]
 Angelis suis * Deus mandávit de te, ut custódiant te in ómnibus viis tuis.
@@ -34,4 +29,7 @@ _
 [Responsory Nona]
 @:Versum 3
 
-
+[Capitulum Vespera 3]
+@Sancti/10-02:Capitulum Vespera
+_
+@Sancti/05-08:Responsory Sexta:s/._.*//s

@@ -1,11 +1,68 @@
 @Sancti/09-08
 
+[Rank]
+In Nativitate Beatæ Mariæ Virginis;;Serm maj. cum Octava;;6.9;;ex C11
+
 [Rule]
 12 lectiones
 Doxology=Nat
 
-[Commemoratio]
+[Ant Vespera]
+Natívitas est hódie * sanctæ Maríæ Vírginis, cujus vita ínclita cunctas illústrat Ecclésias.;;109
+Cum jucunditáte * Nativitátem beátæ Maríæ celebrémus, ut ipsa pro nobis intercédat ad Dóminum Jesum Christum.;;112
+Regáli ex progénie * María exórta refúlget; cujus précibus nos adjuvári, mente et spíritu devotíssime póscimus.;;121
+Corde et ánimo * Christo canámus glóriam in hac sacra solemnitáte præcélsæ Genetrícis Dei Maríæ.;;126
+Natívitas gloriósæ * Vírginis Maríæ ex sémine Abrahæ, ortæ de tribu Juda, clara ex stirpe David.
 
+[Capitulum Vespera]
+@:Capitulum Tertia
+_
+Responsorium. Beáta progénies, unde Christus natus est. * O quam gloriósa est mater, quæ cæli Regínam génuit!
+V. Regáli ex progénie María exórta refúlget.
+R. O quam gloriósa est mater, quæ cæli Regínam génuit!
+
+[Ant 1]
+Natívitas tua, * Dei Génetrix Virgo, gáudium annuntiávit univérso mundo: ex te enim ortus est sol justítiæ, Christus Deus noster, qui solvens maledictiónem, dedit benedictiónem, et confúndens mortem, donávit nobis vitam sempitérnam.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Capitulum Laudes]
+@:Capitulum Tertia
+_
+@CommuneCist/C10::3-6
+
+[Ant 2]
+Nativitátem hodiérnam * perpétuæ Vírginis Genetrícis Dei Maríæ solémniter celebrémus, quæ ut auróra fulgens procéssit, allelúja.
+
+[Commemoratio 2]
+@Sancti/09-08:Commemoratio 2:s/Commune/CommuneCist/
+
+[Capitulum Tertia]
+!Eccli. 24, 17-18
+v. Ego quasi vitis fructificávi suavitátem odóris: § et flores mei fructus honóris et honestátis. * Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei.
+$Deo gratias
+
+[Capitulum Sexta]
+!Eccli. 24, 19-20
+v. Transíte ad me, omnes qui concupíscitis me, et a generatiónibus meis implémini: § spíritus enim meus super mel dulcis, et hæréditas mea super mel et favum: * memória mea in generatiónes sæculórum.
+$Deo gratias
+
+[Capitulum Nona]
+!Eccli. 24, 21-22
+v. Qui edunt me, adhuc esúrient: § et qui bibunt me, adhuc sítient. * Qui audit me, non confundétur: § et qui operántur in me, non peccábunt. * Qui elúcidant me, vitam ætérnam habébunt.
+$Deo gratias
+
+[Capitulum Vespera 3]
+@:Capitulum Tertia
+_
+R.br. Natívitas tua, * Dei Génitrix Virgo. 
+R. Natívitas tua, * Dei Génitrix Virgo. 
+V. Gáudium annuntiávit univérso mundo.
+R. Dei Génitrix Virgo. 
+
+[Ant 3]
+@Sancti/08-15t:Ant 1:s/quo/quæ/ s/\?/\,/ s/kam/jež/ s/když se převelice/a převelice se/
 
 [Lectio1]
 @Sancti/08-15t:Lectio1:s/-4/-3/ s/.4 .*//s
@@ -29,7 +86,6 @@ R. Cuius précibus nos adiuvári, mente et spíritu devotíssime póscimus.
 
 [Lectio5]
 Sermo sancti Bernárdi Abbátis
-
 Et nomen inquit, Vírginis María. Loquámur pauca et super hoc nómine, quod interpretátum maris stella dícitur, et Matri Vírgini valde conveniénter aptátur. Ipsa namque aptíssime síderi comparátur, quia, sicut sine sui corruptióne sidus suum emíttit rádium, sic absque sui læsióne Virgo párturit Fílium. Nec síderi rádius suam mínuit claritátem, nec Vírgini Fílius suam integritátem.
 
 [Responsory5]

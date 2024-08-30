@@ -12,21 +12,21 @@ Antiphonas horas
 Doxology=Nat
 
 [Ant Vespera]
-This day was born the glorious Virgin Mary, * a child of the seed of Abraham, a daughter of the tribe of Judah, a Princess of the lineage of David.;;109
-This day is the Birthday of the holy Virgin Mary, * whose famous life still sheddeth lustre upon all the Churches.;;112
-Mary was a maiden of illustrious birth, * the daughter of a Kingly race. We earnestly entreat her to help our minds and souls by her prayers.;;121
-With all our heart and with all our soul let us sing praise to Christ * on this the solemn Feast-day of Mary, the mighty Mother of God.;;126
-Let us keep with rejoicing the Birthday of the Blessed Virgin Mary, * that she may pray for us to our Lord Jesus Christ.;;147
+Narození slavné, * Panny Marie z rodu Abrahámova, vzešlé z kmene Juda, slavné z pokolení Davidova.;;109
+Dnes je den narození * svaté Panny Marie, jejíž slavný život osvěcuje všechna církevní společenství.;;112
+Z královského pokolení * vzešla Maria a zazářila; aby nám svými prosbami pomohla, žádejme je v mysli i v duchu.;;121
+Srdcem i duchem * Kristu pějme slávu v tuto posvátnou slavnost převznešené Rodičky Boží Marie.;;126
+S radostí * slavme Narození blahoslavené Marie, aby se ona za nás přimlouvala u Pána Ježíše Krista.;;147
 
 [Versum 1]
-V. This day is the Birthday of the holy Virgin Mary.
-R. Whose famous life still sheddeth lustre upon all the Churches.
+V. Dnes je den Narození svaté Panny Marie.
+R. Jejíž slavný život osvěcuje všechna církevní společenství.
 
 [Ant 1]
 Let us tell again * of the right worthy Birth of the glorious Virgin Mary, who gained the honour of Motherhood without losing the guilelessness of a Maid.
 
 [Oratio]
-Grant unto us thy servants, we beseech thee, O Lord, the gift of thy heavenly grace, unto whom Thou didst give the first sight of a Saviour as the offspring of a Blessed Virgin, and grant that this Feast, which they keep in honour of the same Virgin, may avail them unto the increase of peace.
+Svým služebníkům, prosíme, Pane, uděl dar nebeské milosti; abychom, když nám narození blahoslavené Panny zaznamenal počátek spásy, vytoužená slavnost jejího Narození nám uděluje stále více pokoje.
 $Per Dominum
 
 [Invit]
@@ -126,13 +126,13 @@ With all our heart and with all our soul let us sing praise to Christ * on this 
 Let us keep with rejoicing the Birthday of the Blessed Virgin Mary, * that she may pray for us to our Lord Jesus Christ.
 
 [Ant 2]
-Let us this day keep solemnly * the Birthday of Mary, Mother but still Maiden, her Birth, a step toward the loftiness of her throne. Alleluia.
+Dnešní den Narození * věčné Panny a Rodičky Boží Marie slavně oslavujme, v níž k vysokosti trůnu přichází, alleluja.
 
-[Commemoratio]
-!Commemoration of St. Adrian, Martyr
+[Commemoratio 2]
+!Připomínka sv. Adriana, Mučedníka
 @Commune/C2:Oratio proper
 $Oremus
-v. Grant, we beseech thee, that we who celebrate the feast of blessed Adrian, martyr, may also enjoy his intercession.
+v. Uděl, prosíme, všemohoucí Bože; abychom, když slavíme narození svatého Adriana, tvého Mučedníka pro nebe, jeho přímluvou jsme posíleni láskou k tvému jménu.
 $Per Dominum
 
 [Ant 3]

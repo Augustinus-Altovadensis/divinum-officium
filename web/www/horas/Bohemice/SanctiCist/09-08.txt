@@ -1,3 +1,46 @@
+[Ant Vespera]
+Dnes je den narození * svaté Panny Marie, jejíž slavný život osvěcuje všechna církevní společenství.;;109
+S radostí * slavme Narození blahoslavené Marie, aby se ona za nás přimlouvala u Pána Ježíše Krista.;;112
+Z královského pokolení * vzešla Maria a zazářila; aby nám svými prosbami pomohla, žádejme je v mysli i v duchu.;;121
+Srdcem i duchem * Kristu pějme slávu v tuto posvátnou slavnost převznešené Rodičky Boží Marie.;;126
+Narození slavné, * Panny Marie z rodu Abrahámova, vzešlé z kmene Juda, slavné z pokolení Davidova.
+
+[Capitulum Vespera]
+@:Capitulum Tertia
+_
+Responsorium. Blažené pokolení, z něhož se narodil Kristus. * Ó, jak slavná je matka, jež zrodila Královnu nebes!
+V. Z královského pokolení vzešla Maria a zazářila.
+R. Ó, jak slavná je matka, jež zrodila Královnu nebes!
+
+[Ant 1]
+Tvé Narození, * Panno a Boží Rodičko, zvěstovalo radost celému světu; z tebe totiž vzešlo slunce spravedlnosti, Kristus, náš Bůh, jenž zrušil kletbu a dal požehnání, a když zavrhl smrt, dal nám věčný život.
+
+[Ant 2]
+Dnešní den Narození * věčné Panny a Rodičky Boží Marie slavně oslavujme, jež přichází a září jako jitřenka, alleluja.
+
+[Capitulum Tertia]
+!Sírachovec 24, 17-18
+v. Já jsem jako réva vykvetla ve sladkou vůni, z mých květů vyrostly plody cti a poctivosti. Já jsem matka krásného milování, bázně, poznání a svaté naděje.
+$Deo gratias
+
+[Capitulum Sexta]
+!Sírachovec 24, 19-20
+v. Přistupte ke mně všichni, kdo po mně toužíte, a nasyťte se mými plody. Vždyť můj duch je nad med sladší, mé dědictví je nad plástev medu. Památka na mě je pro všechna pokolení.
+$Deo gratias
+
+[Capitulum Nona]
+!Sírachovec 24, 21-22
+v. Kdo mě požívají, ještě lační, kdo mě pijí, ještě žízní. Kdo mě poslouchá, nebude zklamán, nezhřeší, kdo ve mě působí. Kdo mě osvěcují, budou mít život věčný.“
+$Deo gratias
+
+[Capitulum Vespera 3]
+@:Capitulum Tertia
+_
+R.br. Tvé Narození, * Boží Rodičko a Panno. 
+R. Tvé Narození, * Boží Rodičko a Panno.
+V. Zvěstovalo radost celému světu.
+R. Boží Rodičko a Panno.
+
 [Responsory4]
 R. Born of royal lineage, Mary shines resplendent:
 * We earnestly entreat her to help our minds and souls by her prayers.

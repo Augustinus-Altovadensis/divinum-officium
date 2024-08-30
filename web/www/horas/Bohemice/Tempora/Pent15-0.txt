@@ -1,5 +1,5 @@
 [Rank]
-Dominica XV Post Pentecosten;;Semiduplex;;5
+Neděle 15. po Duchu Svatém;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-O Lord, we beseech thee, let thy continual pity cleanse and defend thy Church, and because it cannot continue in safety without thy succour, preserve it evermore by thy help and goodness.
+Svou Církve, Pane, ať tvé neustálé slitování očišťuje a posiluje; a protože bez tebe nemůže býti zdravá, tvým darem ať je spravována.
 $Per Dominum
 
 [Lectio7]
@@ -30,5 +30,11 @@ Even as one that looketh upon a scroll right fairly written, and knoweth not how
 [Ant 2]
 Jesus went into a city called Nain * and, behold, there was a dead man carried out, the only son of his mother.
 
+[Ant 2] (rubrica cisterciensis)
+Přistoupil však Ježíš, * a dotkl se nosítka: ti pak, kteří je nesli, se zastavili, a řekl: Mladíku, pravím ti, vstaň! A posadil se opět ten, který byl mrtvý, alleluja.
+
 [Ant 3]
 A great prophet is risen up among us * and God hath visited His people.
+
+[Ant 3] (rubrica cisterciensis)
+Zachvátil pak všechny strach, * a velebili Boha, pravíce: Veliký Prorok povstal mezi námi, a Bůh navštívil svůj lid.

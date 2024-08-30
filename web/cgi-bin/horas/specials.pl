@@ -917,7 +917,8 @@ sub psalmi_minor {
     setbuild2('Quicumque');
   }
   if ( $version =~ /Cistercien/ && $hora =~ /prima/i && $dayofweek == 0
-    && $dayname[0] !~ /(Nat|Epi1|Pasc0|Pasc6|Pasc7|Pent02|12-23|05-01)/i )
+    && $dayname[0] !~ /(Nat|Epi1|Pasc0|Pasc6|Pasc7|Pent02|12-23|05-01)/i
+    && $winner =~ /Tempora/i )
   {
     push(@s, "\&psalm(234)");
     push(@s, "\n");

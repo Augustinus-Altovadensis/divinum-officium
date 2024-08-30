@@ -5,7 +5,7 @@ S. Pius X Papae Confessoris;;Duplex;;3;;vide C4
 vide C4;mtv
 
 [Oratio]
-O God, who to safeguard Catholic faith and to restore all things in Christ, didst fill the Supreme Pontiff, Saint Pius, with heavenly wisdom and apostolic fortitude: grant in thy mercy: that by striving to fulfill his ordinances and to follow his example, we may reap eternal rewards.
+Bože, jenž jsi k ochraně katolické víry a k obnovení všeho v Kristu naplnil svatého Pia, Nejvyššího Pastýře, nebeskou moudrostí a apoštolskou statečnosti; uděl laskavě, abychom následujíce jeho ustanovení i příklady dosáhli věčné odměny.
 $Per eumdem
 
 [Lectio4]

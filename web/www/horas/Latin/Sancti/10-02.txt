@@ -12,7 +12,7 @@ Horas1960 feria
 
 [Ant Vespera]
 Angelis suis * Deus mandávit de te, ut custódiant te in ómnibus viis tuis.
-Laudémus Dóminum, * quem laudant Angeli, quem Chérubim et Séraphim, sanctus, sanctus, sanctus proclámant.
+Laudémus Dóminum, * quem laudant Angeli, quem Chérubim et Séraphim, Sanctus, Sanctus, Sanctus proclámant.
 Angeli eórum * semper vident fáciem Patris mei, qui est in cælis.
 Benedíctus Deus, * qui misit Angelum suum, et éruit servos suos qui credidérunt in eum.
 Laudáte Deum, * omnes Angeli ejus: laudáte eum, omnes Virtútes ejus.
@@ -49,7 +49,7 @@ V. In conspéctu Angelórum psallam tibi, Deus meus.
 R. Adorábo ad templum sanctum tuum, et confitébor nómini tuo.
 
 [Ant 1]
-Omnes sunt administratórii * Spíritus, in ministérium missi propter eos, qui hereditátem capiunt salútis.
+Omnes sunt * administratórii Spíritus, in ministérium missi propter eos, qui hereditátem capiunt salútis.
 
 [Oratio]
 Deus, qui ineffábili providéntia sanctos Angelos tuos ad nostram custódiam míttere dignáris: largíre supplícibus tuis; et eórum semper protectióne deféndi, et ætérna societáte gaudére.

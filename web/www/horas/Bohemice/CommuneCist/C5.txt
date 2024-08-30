@@ -3,7 +3,7 @@ Commune Confessoris non Pontificis. Versio Cisterciensis Bohemica
 
 [Ant Vespera]
 Mnozí budou chválit * jeho moudrost, a až navěky nebude vymazán z paměti.
-Poznal jej Hospodin * ve svých požehnáních, a nalezl molist v očích Hospodinových.
+Poznal jej Hospodin * ve svých požehnáních, a nalezl milost v očích Hospodinových.
 Spravedlivého vedl Hospodin * po přímých cestách, a ukázal mu království Boží, a dal mu poznat to, co znají Svatí: poctil ho útrapami, a jeho dílo dokončil.
 Spravedlivý * své srdce za úsvitu oddá k bdění v Pánu, který jej stvořil, a pod zrakem Nejvyššího prosí.
 Služebníku dobrý * a věrný, protože jsi byl věrný nad málem, ustanovím tě nad mnohými věcmi, vejdi to radosti svého Pána.
@@ -37,6 +37,9 @@ Tento poznal * spravedlnost, a uzřel veliké zázraky, a modlil se k Nejvyšš�
 
 [Ant 1] (tempore paschali)
 Blažen je muž, * který má bázeň před Hospodinem, alleluja, a po jeho přikázáních velmi touží, alleluja.
+
+[Ant Laudes]
+@:Ant Vespera
 
 [Capitulum Laudes]
 @Commune/C5

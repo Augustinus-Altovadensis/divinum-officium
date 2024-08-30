@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Lord, we pray thee, that thy grace may always prevent and follow us, and make us continually to be given to all good works.
+Prosíme tě, Pane, ať nás tvá milost vždy předchází i následuje; a pevně namíří naše úmysly k dobrým skutkům.
 $Per Dominum
 
 [Lectio7]
@@ -30,5 +30,8 @@ But in all fairness, having thus spoken concerning widows, let us betake ourselv
 [Ant 2]
 As Jesus went into the house * of one of the chief Pharisees, to eat bread on the Sabbath Day, behold, there was a certain man before Him which had the dropsy and He took him, and healed him, and let him go.
 
+[Ant 2] (rubrica cisterciensis)
+Řekl Ježíš * Zákoníkům a Fariseům: Je dovoleno v Sobotu uzdravovat? Avšak oni mlčeli; on tedy zavolal vodnatelného, uzdravil jej, a propustil.
+
 [Ant 3]
-When thou art bidden * of any man to a wedding, go and sit down in the lowest room, that he that bade thee may say: Friend, go up higher, then shalt thou have worship in the presence of them that sit at meat with thee, alleluia.
+Když jsi pozvaný * na svatbu, posaď se na poslední místo, aby ti řekl ten, kdo tě pozval: Příteli, vystup výše. A získáš slávu u těch, kdo stolují s tebou, alleluja.

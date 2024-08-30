@@ -82,8 +82,8 @@ Be glory through eternity.
 Amen.
 
 [Versum 1]
-V. An Angel stood at the Altar of the Temple. (Alleluia.)
-R. Having a golden censer in his hand. (Alleluia.)
+V. Stál Anděl podél chrámového oltáře. (Alleluia.)
+R. A měl zlatou kadidelnici ve své ruce. (Alleluia.)
 
 [Ant 1]
 While as John was gazing * upon the holy mystery, the Archangel Michael sounded his trumpet: Forgive us, O Lord our God, Which openest the book, and loosest the seals thereof. Alleluia.
@@ -356,10 +356,8 @@ Sláva navěky. Amen.
 Nastalo * ticho v nebi, když se drak odvážil vést válku, a Michael s ním bojoval, a dobyl vítězství. Alleluja.
 
 [Lectio Prima]
-!Rev 12:7-8
-The was a great war in heaven Michael and his angels fought against the dragon~
-and the dragon fought, and his angels prevailed not, neither was their~
-place found anymore in heaven.
+!Zjevení 12:7-8
+Tehdy nastal na nebi boj: Michael a jeho Andělé se dali do boje s drakem; drak a jeho andělé se postavili proti nim, ale neobstáli a přišli o svoje místo na nebi.
 
 [Responsory Tertia]
 R.br. Stál Anděl * U chrámového Oltáře.
@@ -369,37 +367,35 @@ R. U chrámového Oltáře.
 &Gloria
 R. Stál Anděl * U chrámového Oltáře.
 _
-V. And the smoke of the incense ascended up before the Lord.
-R. Out of the Angel's hand.
+V. Vystoupal vonný kouř před tvář Hospodinovu.
+R. Z ruky Andělovy.
 
 [Capitulum Sexta]
-!Rev 5:11-12
-v. I heard the voice of many Angels round about the throne, and the living~
-creatures and the elders and the number of them was thousands of thousands,~
-saying with a loud voice: Salvation unto our God.
+!Zjevení 5:11-12
+v. Uslyšel jsem hlas velkého množství Andělů shromážděných kolem trůnu, bytostí a starců, bylo jich na milióny a stamilióny, a volali silným hlasem: „Spása našemu Bohu!“
 $Deo gratias
 
 [Responsory Sexta]
-R.br. The smoke of the incense ascended up * before the Lord.
-R. The smoke of the incense ascended up * before the Lord.
-V. Out of the Angel's hand.
-R. Before the Lord.
+R.br. Vystoupal vonný kouř * Před tvář Hospodinovu.
+R. Vystoupal vonný kouř * Před tvář Hospodinovu.
+V. Z ruky Andělovy.
+R. Před tvář Hospodinovu.
 &Gloria
-R. The smoke of the incense ascended up * before the Lord.
+R. Vystoupal vonný kouř * Před tvář Hospodinovu.
 _
-V. Before the Angels will I sing praise unto thee, O my God.
-R. I will worship toward thy holy Temple, and praise thy Name.
+V. Před zraky Andělů budu tobě pět chválu, můj Bože.
+R. Budu se ti klanět ve tvém svatém chrámě, a vyznávat tvé jméno.
 
 [Responsory Nona]
-R.br. Before the Angels * will I sing praise unto thee, O my God.
-R. Before the Angels * will I sing praise unto thee, O my God.
-V. I will worship toward thy holy Temple, and praise thy Name.
-R. Will I sing praise unto thee, O my God.
+R.br. Před zraky Andělů * Budu tobě pět chválu, můj Bože.
+R. Před zraky Andělů * Budu tobě pět chválu, můj Bože.
+V. Budu tě uctívat směrem k tvému svatému Chrámu, a chválit tvé jméno.
+R. Budu tobě pět chválu, můj Bože.
 &Gloria
-R. Before the Angels * will I sing praise unto thee, O my God,
+R. Před zraky Andělů * Budu tobě pět chválu, můj Bože.
 _
-V. Worship God.
-R. All ye His Angels.
+V. Klaňte se Bohu.
+R. Všichni jeho Andělé.
 
 [Versum 3]
 V. Před Anděly ti budu zpívat, můj Bože.
