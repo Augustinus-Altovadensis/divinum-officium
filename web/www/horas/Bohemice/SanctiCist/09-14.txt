@@ -1,7 +1,23 @@
+[Ant Vespera]
+Nám však * se sluší chlubit pouze v Kříži našeho Pána Ježíše Krista.
+Zachraň nás, Kriste Spasiteli, * silou Kříže: jenž jsi zachránil Petra na moři, smiluj se nad námi.
+Tvému Kříži * se klaníme, Pane, nad tvým slavným utrpením rozjímáme: smiluj se nad námi, jenž jsi za nás trpěl.
+Pohleďte na Kříž Páně, * prchejte, končiny pekelné, zvítězil Lev z kmene Juda, z kořene Davidova, alleluja.
+Znamením Kříže * vysvoboď nás od našich nepřátel, náš Bože.
+
 [Capitulum Vespera]
 @Sancti/05-03
 _
-@Sancti/05-03:Responsory Sexta:s/._.*//s s/, .lleluia//g s/(and we bless thee. \* )?Alleluia/* and we bless thee/g s/\. \* a/. A/
+@Sancti/05-03:Responsory Sexta:s/._.*//s s/R. Alleluja, alleluja/R. A dobrořečíme ti/ s/\:/\./g s/Kriste, /Kriste, * /g s/. .llelu[ij]a\.?//g 
+
+[Ant 1]
+Věrný Kříži, * mezi všemi strom jediný vznešený! Žádný les nemůž' jej zrodit, dle větví, květů, plodů;
+sladké dřevo, sladké hřeby sladkou tíži ponesou.
+
+[Capitulum Laudes]
+@Sancti/05-03
+_
+@Sancti/05-03:Responsory Tertia:s/R. Alleluja, alleluja/R. Bude na nebi/ s/Kříže /Kříže * /g s/. .llelu[ij]a\.?//g s/,/\./g 
 
 [Ant Matutinum]
 In the noble tree's uplifting, * and the nations bending low, see a proof that Christ hath triumphed o'er the legions of the foe.;;1
@@ -88,7 +104,4 @@ R. Behold the Cross of the Lord, begone all evil powers, the Lion of the tribe o
 V. O Blessed cross, on which the King of the Angels triumphed.
 R. The root of David has conquered, Alleluia.
 
-[Capitulum Laudes]
-@Sancti/05-03
-_
-@Sancti/05-03:Responsory Tertia:s/._.*//s s/, Alleluia//g s/(shall be in heaven. \* )?Alleluia/* shall be in heaven/g s/\. \* s/. S/
+

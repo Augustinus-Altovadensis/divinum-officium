@@ -1043,8 +1043,8 @@ sub psalmi_major {
   } elsif ($communetype =~ /vide/
     && ($version =~ /Cistercien/i && $hora =~ /Laudes/i && $winner =~ /Sancti/i))
   {
-    #($w, $c) = getproprium("Ant $hora", $lang, 1, 1);
-    #setbuild("Antiphona $commune");
+    ($w, $c) = getproprium("Ant $hora", $lang, 0, 0); # Cist: attempt to set Commune Ant. ad Laudes
+    setbuild("Antiphona $commune");
   }
   if ($antecapitulum) { $w = (columnsel($lang)) ? $antecapitulum : $antecapitulum2; }
   if ($w) { @antiphones = split("\n", $w); $comment = $c; }
@@ -1731,7 +1731,7 @@ if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ 
   my $substitutions = $4;
   do_inclusion_substitutions($o, $substitutions);
   $o =~ s/^(?:v. )?/v. /;
-  $o =~ s/\*/<font color=red>*<\/font>/; # my sorry attempt to make * red
+  $o =~ s/\*/<font color=red>*<\/font>/; # Cist: my sorry attempt to make * red
   $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n\$Oremus\n$o\n";
   return $w;
 }
@@ -2297,6 +2297,13 @@ sub getrefs {
     }
 
     if ($item =~ /oratio/i) {
+      if ( $version =~ /Cistercien/i ) 
+        { # TO DO: Cist: add current commemoratio, not directly from the file
+          # + confirm index for Lauds (should it be 1 or 3?)
+          my ($main_commune) = $winner{Rank} =~ /C(\d+)/;
+          my ($comm_commune) = $winner{Commemoratio} =~ /C(\d+)/;
+          if ($main_commune == $comm_commune) {$ind++; };
+        }
       my $a = chompd($s{"Ant $ind"});
       if (!$a) { $a = "$file Ant $ind missing\n"; }
       postprocess_ant($a, $lang);

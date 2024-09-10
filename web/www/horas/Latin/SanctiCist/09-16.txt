@@ -1,5 +1,17 @@
 [Rank]
-Ss. Cornelii Papæ et Cypriani Episcopi, Martyrum;;Simplex;;1.1;;vide C3
+S. Ludmillæ, Viduæ, Martyris et Patronæ Regni Bohemiæ;;MM. min.;;4;;ex C7
+
+[Rule]
+Psalmi Dominica
+Antiphonas horas
 
 [Oratio]
-@Commune/C3:Oratio1:s/N\. et N\./Cornélii et Cypriáni/
+Ajuvent nos, quæsumus, preces et mérita sanctæ Ludmíllæ Mártyris tuæ, Dómine Deus noster: * ut ejus vestígiis inhæréntes, in fide inveniámur stábiles, § et in sanctis opéribus efficáces. 
+$Per Dominum 
+
+[Commemoratio]
+!Commemoratio Ss. Euphemiæ, Luciæ et Geminiani Martyrum
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Præsta, Dómine, précibus nostris cum exsultatióne provéntum: ut sanctórum Mártyrum Euphémiæ, Lúciæ et Geminiáni, quorum diem passiónis ánnua devotióne recólimus, étiam fídei constántiam subsequámur.
+$Per Dominum

@@ -48,6 +48,9 @@ R. Quam repromisit Deus diligentibus se.
 &Gloria
 R. Quam repromisit Deus diligentibus se.
 
+[Ant Laudes]
+@:Ant Vespera
+
 [Capitulum Laudes]
 @Commune/C2
 _

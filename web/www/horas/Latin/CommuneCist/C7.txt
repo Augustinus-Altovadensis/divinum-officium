@@ -4,7 +4,7 @@
 Commune non Virginum Martyrum, Versio Cisterciensis
 
 [Ant Vespera]
-Dum esset Rex * in accúbitu suo, nardus mea dedit odórem suavitátis.;;109
+Dum esset Rex * in accúbitu suo, nardus mea dedit odórem suum.;;109
 Unguéntum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te nimis.;;112
 Veni, * elécta mea, et ponam in te thronum meum, quia concupívit Rex spéciem tuam.;;121
 Nigra sum, * sed formósa, fíliæ Jerúsalem; ídeo diléxit me Rex, et introdúxit me in cubículum suum.;;126
@@ -19,7 +19,7 @@ _
 @Commune/C7:Hymnus Vespera
 
 [Ant Laudes]
-@CommuneCist/C7:Ant Vespera
+@CommuneCist/C7:Ant Vespera:s/;;.*//g
 
 [Capitulum Laudes]
 @Commune/C7
@@ -39,7 +39,7 @@ _
 @Commune/C6:Responsory Tertia:8-9
 
 [Responsory Nona]
-@Commune/C6:Responsory Sexta:8-9
+@CommuneCist/C11
 
 [Ant Matutinum]
 O quam pulchra * est casta generátio cum claritáte!;;8

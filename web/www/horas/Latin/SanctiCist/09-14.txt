@@ -6,9 +6,14 @@ In Exaltatione Sanctæ Crucis;;Duplex II classis;;5.5
 [Rule]
 12 lectiones
 Psalmi Dominica
+Antiphonas horas
 
 [Ant Vespera]
-@:Ant Laudes
+Nos autem * gloriári opórtet in Cruce Dómini nostri Jesu Christi.
+Salva nos, Christe Salvátor, * per virtútem Crucis: qui salvásti Petrum in mari, miserére nobis.
+Tuam Crucem * adorámus, Dómine, tuam gloriósam recólimus passiónem: miserére nostri, qui passus es pro nobis.
+Ecce Crucem Dómini, * fúgite, partes advérsæ, vicit Leo de tribu Juda, radix David, allelúia.
+Per signum Crucis * de inimícis nostris líbera nos, Deus noster.
 
 [Capitulum Vespera]
 @Sancti/05-03
@@ -22,7 +27,7 @@ _
 @Sancti/05-03
 
 [Ant 1]
-@Sancti/05-03
+Crux fidélis, * inter omnes arbor una nóbilis, nulla silva talem profert, fronde, flore, gérmine: dulce lignum, dulces clavos, dulce pondus sústinet.
 
 [Hymnus Matutinum]
 @Psalterium/Matutinum Special:HymnusM Quad5
@@ -134,6 +139,9 @@ R. Ecce Crucem Dómini, fúgite partes advérsae, vicit Leo de tribu Juda,
 * Radix David, allelúja.
 V. Crux benedícta, in qua triumphávit Rex Angelórum.
 R. Radix David, allelúja.
+
+[Ant Laudes]
+@:Ant Vespera
 
 [Capitulum Laudes]
 @Sancti/05-03

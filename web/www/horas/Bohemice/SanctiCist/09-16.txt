@@ -1,0 +1,13 @@
+[Rank]
+Sv. Ludmily, Vdovy, Mučednice a Patronky České země;;MM. min.;;4;;ex C7
+
+[Oratio]
+Prosíme, nechť nám pomohou prosby i zásluhy svaté Ludmily, tvé Mučednice, Pane náš Bože; abychom následovali její stopy, a byli shledáni pevni ve víře, a plodní ve skutcích svatosti. 
+$Per Dominum 
+
+[Commemoratio]
+!Připomínka sv. Eufémie, Lucie a Geminiana, Mučedníků
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Uděl, Pane, našim prosbám radostný výsledek; aby, když v každoroční oddanosti slavíme den utrpení svatých Mučedníků Eufémie, Lucie a Geminiana, nás doprovázela jejich stálost ve víře.
+$Per Dominum

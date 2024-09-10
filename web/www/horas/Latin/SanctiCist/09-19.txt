@@ -1,0 +1,12 @@
+[Rank]
+SS. Cornelii et Cypriani, Martyrum;;iij. et M.;;2;;vide C3
+
+[Rule]
+vide C3;
+
+[Oratio]
+@Commune/C3:Oratio1:s/N\. et N\./Cornélii et Cypriáni/
+
+[Commemoratio]
+!Commemoratio S. Januarii et Sociorum, Martyrum
+@CommuneCist/C3:Oratio2:s/N\. et N\./Januárii et Sociórum ejus/

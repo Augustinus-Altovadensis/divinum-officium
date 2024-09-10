@@ -521,7 +521,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Lauren[t|c]ius/Vavřinec/ig;
 	$line =~ s/Carolus/Karel/ig;
 	$line =~ s/Jacobus/Jakub/ig;
-	$line =~ s/Wenceslaus/Václav/ig;
+	$line =~ s/Wencz?eslaus/Václav/ig;
 	$line =~ s/Antonius/Antonín/ig;
 	$line =~ s/Wolff?gangus/Wolfgang/ig;
 	$line =~ s/Engelbertus/Engelbert/ig;

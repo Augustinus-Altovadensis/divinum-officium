@@ -1,5 +1,2 @@
-
-[Lectio94]
-@Tempora/Quad5-5:Lectio4:s/$/~/
-@Tempora/Quad5-5:Lectio6:s/But some .*//s
-
+[Rank]
+Sedmibolestné Panny Marie;;xij. Lect. et M.;;3

@@ -1,0 +1,9 @@
+[Rank]
+Sv. Kornélia a Cypriána, Mučedníků;;iij. et M.;;2;;vide C3
+
+[Oratio]
+@Commune/C3:Oratio1:s/N\. a N\./Kornélia a Cypriána/
+
+[Commemoratio]
+!Připomínka sv. Januária a Druhů, Mučedníků
+@CommuneCist/C3:Oratio2:s/N\. a N\./Januária a jeho Druhů/

@@ -1,54 +1,34 @@
-@Sancti/09-15
+@Tempora/Quad5-5
 
 [Rank]
-Septem Dolorum Beatæ Mariæ Virginis;;Duplex;;3
+Septem Dolorum Beatæ Mariæ Virginis;;xij. Lect. et M.;;3
 
 [Rule]
 Psalmi Dominica
-
-[Doxology]
-Glória, tibi sit glória,
-Qui passus es pro sérvulis,
-Cum Patre et Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
+Antiphonas horas
+Doxology=NatT
 
 [Capitulum Vespera]
-@Sancti/09-15
+@Tempora/Quad5-5:Capitulum Vespera
 _
-@Sancti/09-15:Responsory Nona:s/._.*//s
-
-[Lectio94]
-@Tempora/Quad5-5:Lectio4:s/$/~/
-@Tempora/Quad5-5:Lectio6:s/Sed .*//s
-
-[Responsory1]
-@Sancti/09-15:Responsory8
-
-[MM Capitulum]
-@Sancti/09-15:Capitulum Sexta
-_
-@Sancti/09-15:Responsory Sexta:s/.*_//s
-
-[Hymnus Laudes]
-@Sancti/09-15::s/Tempora.Quad5-5//
+@Tempora/Quad5-5:Responsory Tertia:1-4
 
 [Capitulum Laudes]
-@Sancti/09-15
+@Tempora/Quad5-5:Capitulum Vespera
 _
-@Sancti/09-15:Responsory Sexta:s/._.*//s
-
-[Commemoratio]
-
+@Tempora/Quad5-5:Responsory Nona:1-4
 
 [Responsory Tertia]
-@Sancti/09-15::s/.*_.//s
+@Tempora/Quad5-5:Responsory Tertia:2-3:s/\* D/d/ s/\* Z/z/ s/V./R./ s/R./V./
 
 [Responsory Sexta]
-@Sancti/09-15::s/.*_.//s
+@Tempora/Quad5-5:Responsory Tertia:8-9
 
 [Responsory Nona]
-@Sancti/09-15::s/.*_.//s
+@Tempora/Quad5-5:Responsory Sexta:8-9
 
-[Hymnus Vespera]
-@:Hymnus Laudes
+[Commemoratio 1]
+
+[Commemoratio 2]
+
+[Commemoratio 3]

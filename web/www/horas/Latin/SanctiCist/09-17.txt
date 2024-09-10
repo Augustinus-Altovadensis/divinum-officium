@@ -1,9 +1,18 @@
 [Rank]
-S Hildegardis Virginum;;Simplex;;1.1;;vide C6
+S. Lamberti, Epicopi et Confessoris;;iij. Lect. et M.;;2;;vide C2
+
+[Ant 1]
+@Commune/C2
 
 [Ant 2]
-Sponsa Christi * Hildegárdis, doctrínæ salutáris lámpade sanctam illuminávit Ecclésiam.
+@Commune/C2
 
 [Oratio]
-Deus, qui beátam Hildegárdem Vírginem tuam donis cæléstibus decorásti: tríbue, quæsumus; ut, ejus vestígiis et documéntis insisténtes, a præséntis sæculi calígine ad lucem tuam delectábilem transíre mereámur.
+@Commune/C2:Oratio1:s/N\./Lambérti/
+
+[Commemoratio]
+!Commemoratio S. Hildegardis, Virginis
+@CommuneCist/C6:Oratio proper
+$Oremus
+Deus, qui beátam Hildegárdem Vírginem tuam donis cœléstibus decorásti: § tríbue quǽsumus; * ut ejus vestígiis et documéntis insisténtes, § a praeséntis hujus sæculi calígine ad lucem tuam delectábilem transíre mereámur. *
 $Per Dominum

@@ -1,5 +1,5 @@
 [Rank]
-Dominica XVII Post Pentecosten;;Semiduplex;;5
+Neděle 17. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-O Lord, we beseech thee, grant thy people grace to withstand the temptations of the devil, and with pure hearts to follow thee the only God.
+Dej, prosíme, Pane, svému lidu vystříhat se ďábelské nákazy; a pouze tebe, jediného Boha, s čistou myslí následovat.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,7 @@ If therefore, to love God is to love our neighbour also, (as it appeared, where 
 &teDeum
 
 [Ant 2]
-Master, which is the great commandment * in the law? Jesus said unto him: Thou shalt love the Lord thy God with all thy heart, alleluia.
+Mistře, * jaké je největší přikázání v zákoně? Řekl mu Ježíš: Miluj Pána svého Boha z celého svého srdce, alleluja.
 
 [Ant 3]
-What think ye of Christ? Whose Son is He? * They say all unto Him: The Son of David. Jesus saith unto them: How then doth David in spirit call Him Lord, saying: The Lord said unto my Lord, Sit Thou at My right hand?
+Co si myslíte * o Kristu? Čím synem je? Říkali mu všichni: Davidův. Řekl jim Ježíš: Proč David v duchu volal svého Pána, když říkal: Řekl Pán mému Pánu, posaď se po mé pravici? 

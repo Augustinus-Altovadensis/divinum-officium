@@ -1,0 +1,7 @@
+@Sancti/09-12
+
+[Rank]
+SS. Nominis Beatæ Mariæ Virginis;;MM. maj.;;5;;ex C11
+
+[Ant 1]
+@CommuneCist/C11
