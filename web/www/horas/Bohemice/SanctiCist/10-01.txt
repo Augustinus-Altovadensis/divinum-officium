@@ -1,0 +1,8 @@
+[Rank]
+S. Remigia, Biskupa a Vyznavače;;Commemoratio;;1;;vide C4
+
+[Oratio]
+@Commune/C4:Oratio:s/N\./Remigia/
+
+
+

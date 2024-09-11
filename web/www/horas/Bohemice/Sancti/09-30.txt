@@ -6,10 +6,10 @@ vide C5a;
 9 lectiones
 
 [Name]
-Jerome
+Jeronýme
 
 [Oratio]
-O God, Who wast pleased to give unto thy Church thy blessed Confessor Jerome to be unto her a great teacher in the way of expounding thine Holy Scriptures, be entreated, we beseech thee, for that thy servant's sake, and grant unto us the strength to put in practice what he taught both by his doctrine and by his life.
+Bože, jenž jsi své Církvi k výkladu posvátných Písem poskytnouti ráčil svatého Jeronýma, tvého Vyznavače a vynikajícího Učence; uděl, prosíme, abychom s pomocí jeho zásluh to, co učil ústy i skutky, s tvou pomocí dokázali konat.
 $Per Dominum
 
 [Lectio4]

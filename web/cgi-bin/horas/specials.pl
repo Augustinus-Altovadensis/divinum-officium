@@ -2297,17 +2297,34 @@ sub getrefs {
     }
 
     if ($item =~ /oratio/i) {
-      if ( $version =~ /Cistercien/i ) 
-        { # TO DO: Cist: add current commemoratio, not directly from the file
-          # + confirm index for Lauds (should it be 1 or 3?)
+      my $alia = 0;
+      if ($version =~ /Cistercien/i) 
+        { # This is to avoid duplicate Ant. in Comm.
           my ($main_commune) = $winner{Rank} =~ /C(\d+)/;
           my ($comm_commune) = $winner{Commemoratio} =~ /C(\d+)/;
-          if ($main_commune == $comm_commune) {$ind++; };
+          if ($main_commune && $main_commune == $comm_commune) {
+              $ind++ if ($hora =~ /Vespera/i);
+              $ind-- if ($hora =~ /Laudes/i);
+              $alia = 1; };
         }
       my $a = chompd($s{"Ant $ind"});
       if (!$a) { $a = "$file Ant $ind missing\n"; }
+      if ($version =~ /Cistercien/i) 
+        { # Let's return the $ind back
+          my ($main_commune) = $winner{Rank} =~ /C(\d+)/;
+          my ($comm_commune) = $winner{Commemoratio} =~ /C(\d+)/;
+          if ($main_commune && $main_commune == $comm_commune) {
+              $ind-- if ($hora =~ /Vespera/i);
+              $ind++ if ($hora =~ /Laudes/i) };
+        }
       postprocess_ant($a, $lang);
       my $v = chompd($s{"Versum $ind"});
+      if ($version =~ /Cistercien/i && $alia)
+        { # Alternate Versum is always Versum (Responsory) from Terce
+          $v = chompd($s{"Responsory Tertia"});
+          if (!$v) {$v = chompd($s{"Versum 1 alt"});}
+          if (!$v) {$v = chompd($s{"Versum $ind"});}
+        }
       if (!$v) { $a = "$file Versus $ind missing\n"; }
       postprocess_vr($v, $lang);
       my $o = '';

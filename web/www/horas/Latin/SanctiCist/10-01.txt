@@ -1,0 +1,8 @@
+[Rank]
+S. Remigii, Episcopi et Confessoris;;Commemoratio;;1;;vide C4
+
+[Oratio]
+@Commune/C4:Oratio:s/N\./Remígii/
+
+
+

@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Mercifully grant, O Lord, that thine effectual goodness may in all things direct our hearts, forasmuch as without thee we are not able to please thee.
+Nechť vedou naše srdce, prosíme, Pane, skutky tvého milosrdenství; neboť bez tebe se tobě líbit nemůžeme.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,7 @@ Therefore, if Christ had abode still in His strength, He had in no wise been a f
 &teDeum
 
 [Ant 2]
-The Lord said unto the sick * of the palsy: Son, be of good cheer, thy sins be forgiven thee.
+Řekl Pán * ochrnutému: Důvěřuj, synu, odpouštějí se ti tvé hříchy.
 
 [Ant 3]
-And immediately, he that had been sick of the palsy arose, * and took up his bed whereon he lay, glorifying God and all the people, when they saw it, gave praise to God.
+Vzal tedy * své lůžko, na kterém ležel, velebil Boha; a všechen lid, když to viděl, vzdal chválu Bohu.

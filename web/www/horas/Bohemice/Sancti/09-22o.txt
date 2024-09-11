@@ -4,6 +4,10 @@ Ss. Maurice and companions martyrs;;Simplex;;1.1;;vide C3
 [Rule]
 vide C3;
 
+[Oratio]
+Svol, prosíme, všemohoucí Bože; aby nás rozradostňovala slavnost tvých svatých Mučedníků a jeho druhů; abychom, když se účastníme jejich svátku, jejich narozením pro nebe jsme byli oslaveni.
+$Per Dominum
+
 [Lectio93]
 When the Emperor Maximian led his army into Gaul, he stopped at the frontiers of~
 the Seduni to offer a sacrifice. The Theban legion, that they might not be~

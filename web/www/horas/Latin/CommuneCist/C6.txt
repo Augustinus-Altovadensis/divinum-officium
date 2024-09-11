@@ -15,6 +15,9 @@ _
 [Versum 1]
 @Commune/C6:Versum 2
 
+[Versum 1 alt]
+@Commune/C6:Versum 1
+
 [Oratio2]
 Exáudi nos, Deus, salutáris noster: * ut sicut de beátæ N., Vírginis tuæ, festivitáte gaudémus: § ita piæ devotiónis erudiámur afféctu.
 $Per Dominum

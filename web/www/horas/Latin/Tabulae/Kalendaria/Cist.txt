@@ -198,14 +198,17 @@
 09-15=09-15=Septem Dolorum Beatae Mariae Virginis=4=
 09-16=09-16=S. Ludmillæ, Viduæ, Martyris et Patronæ Regni Bohemiæ=4=Ss. Euphemiae, Luciae et Geminiani, Martyrum=1=
 09-17=09-17=S. Lamberti, Epicopi et Confessoris=2=S. Hildegardis=1=
-09-19=09-19=Ss. Cornelii et Cypriani, Martyrum=2=SS. Eustachii et Sociorum, Martyrum=1=
+09-19=09-19=SS. Cornelii et Cypriani, Martyrum=2=SS. Eustachii et Sociorum, Martyrum=1=
+09-20=09-20v~09-20=Vigilae St Matthaei Apostoli=1.5=S. Eustachii et Sociorum, Martyrum=1=
 09-21=09-21=S. Matthaei Apostoli et Evangelistae=5=
-09-22=09-22=Ss. Martyrsi Mauritii et Sociorum=1=
-09-23=09-23=S. Linae Papae et Martyris=2=
-09-27=09-27=S. Cosmae et Damiani Martyrum=2=
-09-29=09-29=In dedicatione S. Michaelis Archangelis=6=
+09-22=09-22=SS. Mauritii et Sociorum, Martyrum=2=
+09-23=09-23=S. Lini, Papae et Martyris=1=S. Theclae, Virginis et Martyris=1=
+09-27=09-27=S. Cosmae et Damiani, Martyrum=1=
+09-28=09-28=S. Wenceslai, Ducis, Martyris et Patroni Principalis Regni Bohemiæ=5=
+09-29=09-29=In dedicatione S. Michaelis Archangelis=5=
 09-30=09-30=S. Hieronymi Presbitery Confessorie et Ecclesiae Doctoris=3=
 *October*
+10-01=10-01=S. Remigii, Episcopi et Confessoris=1=
 10-02=10-02=Ss. Angelorum Custodum=4=
 10-03=10-03=S. Theresiae a Jesu Infante Virginis=3=
 10-04=10-04=S. Francisci Confessoris=4=
@@ -228,7 +231,7 @@
 11-06=11-06=S. Leonardi de Noblat Abbatis=3=
 11-08=11-08=SS. Quatuor Coronatorum Martyrum=1=
 11-09=11-09=In dedicatione Basilicae Ss. Salvatoris=5=S. Theodori=1=
-11-10=11-10=S. Theodori =1=
+11-10=11-10=S. Theodori=1=
 11-11=11-11=S. Martini Episcopi et Confessoris=2=
 11-12=11-12=S. Martini Papae et Martyris=1=
 11-13=11-13=All Saints of Cistercian order=2=

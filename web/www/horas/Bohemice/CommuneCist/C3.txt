@@ -19,8 +19,8 @@ V. Slávu tvého království budou hlásat, a o tvé moci mluvit.
 R. Budou ti dobrořečit.
 
 [Versum 1]
-℣. Spravedliví budou žít navěky.
-℟. A u Hospodina bude jejich odplata.
+V. Spravedliví budou žít navěky.
+R. A u Hospodina bude jejich odplata.
 
 [Versum 1 alt]
 V. Spravedliví budou jásat před tváří Boží.
@@ -31,6 +31,14 @@ Tito jsou Svatí, * kteří pro svědectí Boží vydali svá těla, a v krvi Be
 
 [Ant 2]
 Zazářili spravedliví: * a jako jiskry v rákosí se rozběhli. Budou soudit národy, a vládnout navěky.
+
+[Responsory Sexta]
+V. Duše spravedlivých jsou v rukou Božích.
+R. A nedotknou se jich již muka smrti.
+
+[Responsory Nona]
+V. Slavný je Bůh ve svých Svatých.
+R. Podivuhodný ve své Vznešenosti.
 
 [Ant Vespera 3]
 Pokud před lidmi * vytrpěli svá muka, naděje vyvolených je nesmrtelná navěky. 

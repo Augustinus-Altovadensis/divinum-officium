@@ -88,13 +88,15 @@ _
 @Commune/C3
 
 [Responsory Tertia]
-@Commune/C3:Versum 1
-
-[Responsory Sexta]
 @Commune/C3:Responsory Tertia:8-9
 
+[Responsory Sexta]
+V. Justórum ánimæ in manu Dei sunt. 
+R. Et non tanget illos torméntum mortis.
+
 [Responsory Nona]
-@Commune/C3:Responsory Sexta:8-9
+V. Gloriósus Deus in Sanctis suis.
+R. Mirábilis in Majestáte sua.
 
 [Ant 2]
 Fulgébunt justi: * et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et regnábunt in ætérnum.

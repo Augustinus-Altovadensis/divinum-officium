@@ -1,16 +1,53 @@
 @Sancti/05-08
 
 [Rank]
-In Dedicatione S. Michaëlis Archangelis;;Duplex I. classis;;6
+In Dedicatione S. Michaëlis Archangelis;;Duplex I. classis;;5.2
 
 [Rule]
 12 lectiones
 Psalmi Dominica
 
+[Ant Vespera]
+Dum præliarétur * Míchaël Archángelus cum dracóne, audíta est vox dicéntium: Salus Deo nostro, allelúia.
+Dum commítteret * bellum draco cum Michaéle Archángelo, audíta est vox míllia míllium dicéntium: Salus Deo nostro.
+Míchael, Gábriel, * Chérubim et Séraphim, qui non cessant clamáre quotídie, dicéntes: Dignus es, Dómine, accípere glóriam, allelúia
+Angeli Dómini, * Dóminum benedícite in ætérnum.
+Angeli, Archángeli, * Throni et Dominatiónes, Principátus et Potestátes, Virtútes cælórum, laudáte Dóminum de cælis, allelúia.
+
 [Capitulum Vespera]
 @Sancti/05-08
 _
-@Sancti/05-08:Responsory Sexta:s/._.*//s
+@SanctiCist/08-06:Capitulum Laudes:3-6
+
+[Versum 1]
+@Sancti/05-08:Responsory Sexta:8-9
+
+[Ant 1]
+@SanctiCist/05-08
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@Sancti/05-08
+_
+@Sancti/05-08:Responsory Tertia:s/._.*//s
+
+[Versum 2]
+@Sancti/05-08:Responsory Nona:8-9:s/Deum/Dóminum/ s/Bohu/Hospodinu/
+
+[Responsory Tertia]
+@Sancti/05-08:Versum 1
+
+[Responsory Sexta]
+V. Dáta sunt ei incénsa multa.
+R. Ut adoléret ea ante altáre áureum.
+
+[Responsory Nona]
+@Sancti/05-08:Responsory Tertia:8-9
+
+[Ant 3]
+Stetit Angelus * juxta aram templi, habens thuríbulum áureum in manu sua, et data sunt ei incénsa multa, et ascéndit fumus arómatum in conspéctu Dómini de manu Angeli.
 
 [Hymnus Matutinum]
 @:HymnusM Vespera
@@ -109,19 +146,4 @@ R. Fidélis sermo, et omni acceptióne dignus: † Míchael Archángelus qui pug
 V. Gaudent Angeli laetántur Archángeli de Michaéle Dei núntio.
 R. Grátia Dei ille victor in caelis éxstitit et ille hostis antíquus pátuit ruínae magnae.
 
-[Capitulum Laudes]
-@Sancti/05-08
-_
-@Sancti/05-08:Responsory Nona:s/._.*//s
 
-[Responsory Tertia]
-@:Versum 1
-
-[Responsory Sexta]
-@Sancti/05-08:Responsory Tertia:s/.*_.//s
-
-[Responsory Nona]
-@:Versum 3
-
-[Ant Vespera 3]
-@Sancti/05-08:Ant Vespera:s/\./;;109/ s/\./;;110/ s/\./;;111/ s/\./;;137/

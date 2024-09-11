@@ -11,7 +11,7 @@ Psalmi Dominica
 Antiphonas horas
 
 [Oratio]
-Help us, O Lord, by the prayers of thine holy Apostle and Evangelist Matthew, that what for ourselves we are not able to obtain, may be freely given us at his petition.
+Pane, ať nám pomáhají prosby Svatého Apoštola a Evangelisty Matouše; aby to, co nám naše schopnosti nedokážou přinést, na jeho přímluvu přesto dostaneme.
 $Per Dominum
 
 [Lectio4]

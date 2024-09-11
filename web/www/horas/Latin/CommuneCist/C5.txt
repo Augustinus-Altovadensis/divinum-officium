@@ -33,6 +33,9 @@ R. Allelúia, allelúia.
 V. Amávit eum Dóminus, et ornávit eum.
 R. Stolam glóriæ induit eum.
 
+[Versum 1 alt]
+@Commune/C5:Responsory Tertia:8-9
+
 [Ant 1]
 Iste cognóvit * justítiam, et vidit mirabília magna, et exorávit Altíssimum, et invéntus est in número Sanctórum.
 

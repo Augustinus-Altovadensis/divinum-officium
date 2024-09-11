@@ -6,20 +6,11 @@ vide C2;
 9 lectiones
 OPapaM=Linus;
 
-[Oratio]
-O God, Who, year by year, dost gladden us by the solemn Feast-day of thy blessed~
-Confessor and Pontifex Linus, mercifully grant unto all who keep his birthday, grace~
-to follow after the pattern of his godly conversation.
-$Per Dominum
-
 [Commemoratio]
-!Commemoration of St. Thecla, Virgin & Martyr
+!Připomínka sv. Tekly, Panny a Mučednice
 @Commune/C6:Oratio proper
 $Oremus.
-Grant, we beseech thee, Almighty God, unto all thy servants who do here keep the~
-birthday of thy blessed Virgin and Martyr Thecla, and do year by year rejoice at~
-her solemn commemoration, that they may have grace to follow after the pattern of~
-her great faith.
+v. Dej, prosíme, všemohoucí Bože, abychom, když slavíme narození pro nebe svaté Tekly, tvé Panny a Mučednice; se mohli radovat z každoroční slavnosti, a též prospívali z příkladu tak veliké víry.
 $Per Dominum
 
 [Lectio4]

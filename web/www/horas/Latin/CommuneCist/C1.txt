@@ -1,6 +1,6 @@
 @Commune/C1
 [Name]
-Commune Apostolorum, Versio Cisterciensis
+Commune Apostolorum, v. Cisterciensis
 
 [Ant Vespera]
 Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.;;109

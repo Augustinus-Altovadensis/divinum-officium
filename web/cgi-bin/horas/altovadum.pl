@@ -286,6 +286,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/in Moravia/na Moravě/ig;
 	$line =~ s/Styriae/ve Štýrsku/ig;
 	$line =~ s/Tiroliae/v Tyrolsku/ig;
+	$line =~ s/Thesinensis/těšínského/ig;
 	$line =~ s/per regnum Saxoni(æ|ae)/v celém Saském Království/ig;
 
 
@@ -311,10 +312,12 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/confrater/spolubratr/gi;
 	$line =~ s/Virgo/Panna/gi;
 	$line =~ s/Perillustris Domina/Přejasná Paní/ig;
+	$line =~ s/relicta/vdova/gi;
 	$line =~ s/Domina/Paní/gi;
 	$line =~ s/Dominus/Pán/gi;
 	$line =~ s/Dominorum/Pánů/gi;
 	$line =~ s/Dominum/Pána/gi;
+	$line =~ s/ducis/vévody/gi;
 	$line =~ s/comes /hrabě /gi;
 	$line =~ s/comitem/hraběte/gi;
 	$line =~ s/magister infirmorum|infirmarius/infirmář/ig;
@@ -522,6 +525,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Carolus/Karel/ig;
 	$line =~ s/Jacobus/Jakub/ig;
 	$line =~ s/Wencz?eslaus/Václav/ig;
+	$line =~ s/Wencz?eslai/Václava/ig;
 	$line =~ s/Antonius/Antonín/ig;
 	$line =~ s/Wolff?gangus/Wolfgang/ig;
 	$line =~ s/Engelbertus/Engelbert/ig;
@@ -563,7 +567,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Albericus/Alberich/ig;
 	$line =~ s/Nepomucenus/Nepomuk/ig;
 	$line =~ s/Bernardinus/Bernardin/ig;
-	$line =~ s/xx/xx/ig;
+	$line =~ s/Fiola/Viola/ig;
 	$line =~ s/xx/xx/ig;
 	$line =~ s/xx/xx/ig;
 	$line =~ s/xx/xx/ig;

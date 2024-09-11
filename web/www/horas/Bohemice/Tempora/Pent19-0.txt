@@ -1,5 +1,5 @@
 [Rank]
-Dominica XIX Post Pentecosten;;Semiduplex;;5
+Neděle 19. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-O Almighty and most merciful God, of thy bountiful goodness keep us, we beseech thee, from all things that may hurt us; that we, being ready both in body and soul, may cheerfully accomplish those things that Thou wouldest have done.
+Všemohoucí a milosrdný Bože, všechna naše protivenství laskavě zapuď; abychom na duchu i na těle náležitě připraveni, svobodnou myslí následovali to, co je tvé.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,10 @@ The marriage union is the union of two persons, but God forbid that we should im
 &teDeum
 
 [Ant 2]
-Tell them which are bidden: * Behold, I have prepared my dinner; Come unto the marriage. Alleluia.
+Řekněte pozvaným: * Hle, oběd jsem připravil, přijďte na svatbu, praví Pán.
 
 [Ant 3]
 And the King came in * to see the guests, and he saw there a man which had not on a wedding garment. And he saith unto him: Friend, how camest thou in hither, not having a wedding garment?
+
+[Ant 3] (rubrica cisterciensis)
+Svatba * je sice připravena, ale ti, kdo byli pozváni, jí nebyli hodni. Jděte tedy na rozcestí, a koho potkáte, pozvěte jej na svatbu, praví Pán.

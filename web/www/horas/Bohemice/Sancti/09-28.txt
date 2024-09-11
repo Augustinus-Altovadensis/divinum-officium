@@ -1,14 +1,12 @@
 [Rank]
-S. Wenceslai Ducis and Martyris;;Semiduplex;;2;;vide C2
+Sv. Václava, Knížete a Mučedníka;;Semiduplex;;2;;vide C2
 
 [Rule]
 vide C2;
 9 lectiones
 
 [Oratio]
-O God, Who didst make thy blessed servant Wenceslaus to pass by the palm of~
-martyrdom from dominion on earth to glory in heaven, keep us, at his prayers,~
-from all hurt here, and grant unto us the joy of fellowship with him hereafter.
+Bože, jenž jsi svatého Václava skrze palmu mučednictví přenesl z pozemského panování do nebeské slávy; jeho prosbami nás chraň od všech protivenství, a uděl, abychom se mohli radovat z jeho společenství.
 $Per Dominum
 
 [Lectio4]

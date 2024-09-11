@@ -16,6 +16,9 @@ _
 V. Justus germinábit sicut lílium.
 R. Et florébit in ætérnum ante Dóminum.
 
+[Versum 1 alt]
+@Commune/C2:Versum 1
+
 [Ant 1]
 Beátus vir, * qui suffert tentatiónem: quia cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus his, qui díligunt eum.
 

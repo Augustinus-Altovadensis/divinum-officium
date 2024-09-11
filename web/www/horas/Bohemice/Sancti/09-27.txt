@@ -7,9 +7,7 @@ vide C3;
 Quorum Festum
 
 [Oratio]
-Grant, we beseech thee, O Almighty God, that we who keep the birthday of thine~
-holy Martyrs Cosmas and Damian may at their prayers be delivered from all~
-dangers that presently hang over us.
+Uděl, prosíme, všemohoucí Bože; abychom, když slavíme narozeniny tvým svatých Mučedníků Kosmy a Damiána pro nebe, na jejich přímluvu byli osvobozeni ode všech hrozících zel.
 $Per Dominum
 
 [Lectio4]

@@ -18,6 +18,9 @@ _
 [Hymnus Vespera]
 @Commune/C7:Hymnus Vespera
 
+[Versum 1 alt]
+@Commune/C6:Versum 1
+
 [Ant Laudes]
 @CommuneCist/C7:Ant Vespera:s/;;.*//g
 

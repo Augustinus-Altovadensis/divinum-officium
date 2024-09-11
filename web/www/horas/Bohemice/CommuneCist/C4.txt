@@ -24,10 +24,6 @@ _
 [Hymnus1C Vespera]
 @:Hymnus Vespera Hac die
 
-[Versum 1 alt]
-Ejhle kněz veliký.
-Jenž za svých dnů zalíbil se Bohu a byl shledán spravedlivým.
-
 [Capitulum Laudes]
 !Sir 44:25
 v. Požehnání všech Národů dal mu Hospodin, * a svůj zákon potvrdil nad jeho hlavou.

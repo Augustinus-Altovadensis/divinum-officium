@@ -1,5 +1,5 @@
 [Rank]
-S. Lamberti, Epicopi et Confessoris;;iij. Lect. et M.;;2;;vide C2
+S. Lamberti, Epicopi et Confessoris (in Bohemia, transl. ex 16. Septembris);;iij. Lect. et M.;;2;;vide C2
 
 [Ant 1]
 @Commune/C2

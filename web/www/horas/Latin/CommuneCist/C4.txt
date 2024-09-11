@@ -24,8 +24,7 @@ Ecce vere * Israëlita, in quo dolus non est.
 @Commune/C4:Versum 2
 
 [Versum 1 alt]
-V. Ecce sacérdos magnus.
-R. Qui in diébus suis plácuit Deo, et invéntus est justus. 
+@Commune/C4:Versum 1
 
 [Versum 2 alt]
 @:Versum 1 alt
