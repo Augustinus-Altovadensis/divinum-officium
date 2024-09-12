@@ -28,10 +28,7 @@ While endless ages run.
 Amen.
 
 [Oratio]
-Graciously hear us, O God of our salvation, and grant that as we do rejoice for~
-the Feast-Day of thy blessed hand-maiden Theresa, so we may feed to our ghostly~
-health upon her heavenly teaching, and better ourselves by the example of her~
-godly conversation.
+Vyslyš nás, Bože, náš spasiteli; abychom tak, jako se radujeme ze slavnosti svaté Teresie, Panny; byli též živeni pokrmem jejího učení, a vzděláváni k hnutí zbožné oddanosti.
 $Per Dominum
 
 [Lectio4]

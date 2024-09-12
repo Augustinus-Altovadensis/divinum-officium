@@ -1,5 +1,5 @@
 [Rank]
-Dominica XXIV et ultima Post Pentecosten;;Semiduplex;;5
+Neděle 24. a poslední po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Stir up, we beseech thee, Lord, the wills of thy faithful people, that they, plenteously bringing forth the fruit of good works, may of thee be plenteously rewarded.
+Povzbuď, prosíme, Pane, vůle svých věřících; aby důsledněji následovali plody božského díla, a tak pocítili větší účinek léku tvé laskavosti.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,7 @@ But we may also understand by the abomination of desolation, any bad doctrine an
 &teDeum
 
 [Ant 2]
-When ye shall see the abomination of desolation, * spoken of by Daniel the Prophet, stand in the Holy Place, (whoso readeth, let him understand.)
+Až spatříte * odpornou pohromu na svatém místě, o niž mluví Prorok Daniel, kdo toto přečte, pochopí.
 
 [Ant 3]
-Amen, I say unto you, this generation shall not pass till all these things be fulfilled; * heaven and earth shall pass away, but My words shall not pass away, saith the Lord.
+Amen, pravím vám, * že nepřejde ani tato generace, než se to vše stane; ńebesa i země pominou, ale má slova nepominou, praví Pán.

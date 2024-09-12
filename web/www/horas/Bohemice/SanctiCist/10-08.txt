@@ -1,0 +1,13 @@
+[Rank]
+Sv. Martina, Opata;;Commemoratio;;1;;vide C5
+
+[Oratio]
+Vyslyš, Pane, lid celou myslí tobě oddaný; a na přímluvu svatého Martina, Opata, jej provázej, aby ochraňován na těle i na mysli, žádal to, v co zbožně věří, a po čem spravedlivě touží, aby dosáhl.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Brigity <i>Švédské</i>, Vdovy
+@CommuneCist/C7:Oratio proper
+v. Pane náš Bože, jenž jsi svaté Brigitě odhalil nebeská tajemství prostřednictvím svého jednorozeného Syna; na její laskavou přímluvu dej svým služebníkům, aby se ve zjevení tvé věčné slávy radovali a veselili.
+$Per eumdem
+

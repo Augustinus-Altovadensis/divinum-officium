@@ -1,5 +1,5 @@
 [Rank]
-Dominica XI Post Pentecosten;;Semiduplex;;5
+Neděle 11. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones

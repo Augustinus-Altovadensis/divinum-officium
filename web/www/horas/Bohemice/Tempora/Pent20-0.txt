@@ -1,5 +1,5 @@
 [Rank]
-Dominica XX Post Pentecosten;;Semiduplex;;5
+Neděle 20. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Grant, we beseech thee, O Lord, to thy faithful people pardon and peace, that they may be cleansed from all their sins, and serve thee with a quiet mind.
+Uděl, prosíme, Pane, v hojnosti svým věrným laskavé odpuštění a pokoj; aby byli zároveň očištěni ode všech přečinů, a s klidnou myslí tobě sloužili.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,7 @@ This was therefore a grievously imperfect faith, in attributing the virtue not t
 &teDeum
 
 [Ant 2]
-There was a certain nobleman whose son was sick * at Capernaum. When he heard that Jesus was come into Galilee, he besought Him that He would heal his son.
+Byl jednou jeden panovník, * jehož syn churavěl v Kafarnaum. Když panovník uslyšel, že Ježíš přišel do Galileje, prosil jej, aby uzdravil jeho syna.
 
 [Ant 3]
-So the father knew * that it was at the same hour in which Jesus said "Thy son liveth." And he himself believed, and his whole house.
+Poznal tedy otec, * že to byla ta hodina, v níž Ježíš řekl: Tvůj syn žije; a uvěřil v něj on i celý jeho dům.

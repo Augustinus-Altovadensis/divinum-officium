@@ -5,9 +5,9 @@ Sanctissimi Rosarii Beatæ Mariæ Virginis;;MM. maj.;;5.2;;ex C11
 @Sancti/10-07
 
 [Commemoratio]
-!Commemoratio S. Marci, Papæ et Confessoris
+!Připomínka sv. Marka, Papeže a Vyznavače
 @CommuneCist/C4:Oratio proper
-v. Exáudi, Dómine, preces nostras: * et, interveniénte beáto Marco, Confessóre tuo atque Pontífice, § indulgéntiam nobis tríbue placátus et pacem. *
+v. Vyslyš, Pane, naše prosby, a na přímluvu svatého Marka, tvého Vyznavače a Biskupa, nám laskavě uděl odpuštění a pokoj.
 $Per Dominum
 
 [Lectio94]

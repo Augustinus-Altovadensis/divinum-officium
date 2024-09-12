@@ -1,1 +1,16 @@
-@Sancti/10-25
+[Rank]
+S. Bernardi, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+
+[Rule]
+vide C4;mtv
+
+[Oratio]
+Deus, qui beátum Bernárdum, Confessórem tuum atque Pontíficem, fidélem in Evangélio Fílii tui minístrum in Ecclésie tua constituísti: * dírige in charitáte tua et confírma corda nostra; § ut et in fide inveniámur stábiles, et in ópere efficáces.
+$Per eumdem Dominum
+
+[Commemoratio]
+!Commemoratio SS. Crispini et Crispiniani, Martyrum
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Beatórum Mártyrum tuórum, Dómine, Crispíni et Crispiniáni, quǽsumus, adsit nobis orátio: ut, quos venerámur obséquio, eórum pium júgiter experiámur auxílium.
+$Per Dominum

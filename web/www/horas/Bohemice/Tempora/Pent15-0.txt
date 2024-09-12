@@ -1,5 +1,5 @@
 [Rank]
-Neděle 15. po Duchu Svatém;;Semiduplex;;5
+Neděle 15. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones

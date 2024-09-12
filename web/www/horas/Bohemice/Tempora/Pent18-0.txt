@@ -1,5 +1,5 @@
 [Rank]
-Dominica XVIII Post Pentecosten;;Semiduplex;;5
+Neděle 18. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones

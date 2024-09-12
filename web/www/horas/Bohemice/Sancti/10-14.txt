@@ -9,9 +9,7 @@ vide C2;
 9 lectiones
 
 [Oratio]
-O God, Who seest that in our own weakness we do continually fall, make, in thy~
-mercy, the examples of thy holy children a mean whereby to renew in us the love~
-of thyself.
+Bože, jenž vidíš, že ve své slabosti umdléváme; ke své lásce nás milostivě příklady svých Svatých obnov.
 $Per Dominum
 
 [Lectio4]

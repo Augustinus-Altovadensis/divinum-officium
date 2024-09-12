@@ -1,5 +1,5 @@
 [Rank]
-Dominica XXI Post Pentecosten;;Semiduplex;;5
+Neděle 21. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-O Lord, we beseech thee to keep thine household in continual godliness, that, through thy protection, it may be free from all adversities, and devoutly given to serve thee in good works, to the glory of thy Name.
+Svou rodinu, prosíme, Pane, střez s neustálou laskavostí; aby pod tvou ochranou byla svobodna ode všech protivenství, a v dobrých skutcích byla oddaná tvému jménu.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,10 @@ Let put this more clearly, let us take a case. If one of us were to commit adult
 &teDeum
 
 [Ant 2]
-The lord said unto his servant: Pay me * that thou owest. But the servant fell down and besought him, saying: Have patience with me, and I will pay thee all.
+Řekl tedy * pán služebníkovi: Odevzdej, co mi dlužíš. Padl však onen služebník na kolena a prosil jej takto: Měj se mnou trpělivost, a všechno ti splatím.
 
 [Ant 3]
-O thou wicked servant, I forgave thee all * that debt, because thou desiredst me. Shouldest not thou also have had compassion on thy fellow-servant, even as I had pity on thee, alleluia.
+Služebníku ničemný, * celý dluh jsem ti odpustil, protože jsi mě prosil; neměl ses tedy i ty slitoval nad svým spoluslužebníkem, stejně jako já jsem slitoval nad tebou, alleluja.
+
+[Ant 3] (rubrica cisterciensis)
+Služebníku ničemný, * celý dluh jsem ti odpustil, protože jsi mě prosil; neměl ses tedy i ty slitoval nad svým spoluslužebníkem, stejně jako já jsem slitoval nad tebou? praví Pán.

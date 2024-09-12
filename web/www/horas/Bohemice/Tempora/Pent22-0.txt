@@ -1,5 +1,5 @@
 [Rank]
-Dominica XXII Post Pentecosten;;Semiduplex;;5
+Neděle 22. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-O God, our Refuge and Strength, Who art the author of all godliness, be ready, we beseech thee, to hear the devout prayers of thy Church, and grant that those things which we ask faithfully, we may obtain effectually.
+Bože, naše útočiště a sílo; vyslyš zbožné prosby své Církve, samotný původce laskavosti, a dej, abychom to, oč s důvěrou prosíme, účinně obdrželi.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,7 @@ If we have nothing which is Caesar's, then we have nothing which we are bound to
 &teDeum
 
 [Ant 2]
-Master, we know that Thou art true, * and teachest the way of God in truth, alleluia.
+Mistře, * víme, že jsi pravdomluvný, a cestu Boží učíš v pravdě, alleluja.
 
 [Ant 3]
-Render therefore unto Caesar the things which are Caesar's, * and unto God the things that are God's, alleluia.
+Odevzdejte tedy * to, co je Císařovo, Císaři; a co je Boží, Bohu, alleluja.

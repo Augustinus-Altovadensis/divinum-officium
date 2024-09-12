@@ -6,10 +6,7 @@ vide C6;
 9 lectiones
 
 [Oratio]
-O Lord, who hast said: Unless you became as little children you shall not enter~
-the kingdom of heaven, grant us, we pray, so to follow, in humility and~
-simplicity of heart, the footsteps of the virgin blessed Theresa, that we may~
-attain to an everlasting reward.
+Pane, ty jsi řekl: Nebudete-li jako děti, nevejdete do království nebeského; dej nám, prosíme, v takové pokoře a prostotě srdce následovat stopy svatého Teresie, Panny, abychom dosáhli věčné odměny.
 $Qui vivis
 
 [Lectio4]

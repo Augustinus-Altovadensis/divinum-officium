@@ -1,5 +1,5 @@
 [Rank]
-Dominica IV Post Pentecosten;;Semiduplex;;5
+Neděle 4. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones

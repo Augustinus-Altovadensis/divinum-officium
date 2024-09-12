@@ -1,5 +1,5 @@
 [Rank]
-Dominica XXIII Post Pentecosten;;Semiduplex;;5
+Neděle 23. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-O Lord, we beseech thee, absolve thy people from their offences, that through thy bountiful goodness we may all be delivered from the bands of those sins, which by our frailty we have committed.
+Odpusť, prosíme, Pane, hříchy svého lidu; abychom od pout hříchu, jež pro svou křehkost nosíme, jsme tvou dobrotou byli osvobozeni.
 $Per Dominum
 
 [Lectio7]
@@ -28,7 +28,7 @@ This woman with the issue of blood came not to the Lord in an house or in a city
 &teDeum
 
 [Ant 2]
-For she said within herself: * If I may but touch the hem of His garment, I shall be whole.
+Řekla si tedy: * pokud se dotknu pouhého lemu jeho oděvu, budu zdravá.
 
 [Ant 3]
-But Jesus turned Him about, * and when He saw her, He said: Daughter, be of good comfort; thy faith hath made thee whole, alleluia.
+Avšak Ježíš se obrátil, * pohlédl na ni a řekl: Důvěřuj, dcero, tvá víra tě uzdravila, alleluja.

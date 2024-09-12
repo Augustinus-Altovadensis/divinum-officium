@@ -1,8 +1,8 @@
 [Rank]
-SS. Placidi et Sociorum, Martyrum;;iij. Lect. et M.;;2;;vide C3
+Sv. Placida a Druhů, Mučedníků;;iij. Lect. et M.;;2;;vide C3
 
 [Oratio]
-@Commune/C3::s/N\. et N\./Plácidi et Sociórum ejus/
+@Commune/C3::s/N\. a N\./Plácida a jeho Druhů/
 
 [Lectio94]
 De libro secúndo Dialogórum sancti Gregórii Papae 

@@ -9,7 +9,7 @@ vide C5;
 9 lectiones
 
 [Oratio]
-May we be aided by the intercession of St. Bruno, thy Confessor, we beseech thee, O Lord; that we, who have grievously offended thy Majesty by sin, may, by his merits and prayers, obtain forgiveness for our offenses.
+Přímluvy Svatého Bruna, tvého Vyznavače, prosíme, Pane, ať nám pomohou; abychom, když svými těžkými hříchy urážíme tvou Vznešenost, pro jeho zásluhy i prosby obdržíme odpuštění našich hříchů.
 $Per Dominum
 
 [Lectio4]

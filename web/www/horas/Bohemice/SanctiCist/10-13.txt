@@ -1,0 +1,9 @@
+[Rank]
+Sv. Mořice, Opata a Vyznavače;;iij. Lect. et M.;;3;;vide C5
+
+[Rule]
+vide C5;
+
+[Oratio]
+Bože, živote věrných, slávo pokorných a blaženosti spravedlivých; na přímluvu svatého Mořice, Opata, laskavě shlédni na žádosti prosících, aby v duši, jež žízní po tvých zaslíbeních, byli z tvé lásky vždy v hojnosti naplněni.
+$Per Dominum

@@ -1,5 +1,5 @@
 [Rank]
-Dominica III Post Pentecosten, infra Octavam SSmi Cordis D.N.J.C;;Semiduplex;;5;;ex Tempora/Pent02-5
+Neděle 3. po Svatém Duchu, v Oktávu Nejsv. Srdce Páně;;Semiduplex;;5;;ex Tempora/Pent02-5
 
 [Rule]
 ex Tempora/Pent02-5;

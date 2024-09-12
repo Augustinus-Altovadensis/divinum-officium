@@ -1,5 +1,5 @@
 [Rank]
-Neděle osmá po Svatém Duchu;;Semiduplex;;5
+Neděle 8. po Svatém Duchu;;Semiduplex;;5
 
 [Rule]
 9 lectiones

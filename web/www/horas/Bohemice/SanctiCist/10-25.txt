@@ -1,0 +1,13 @@
+[Rank]
+Sv. Bernarda, Biskupa a Vyznavače;;iij. Lect. et M.;;2;;vide C4
+
+[Oratio]
+Bože, jenž jsi svatého Bernarda, svého Vyznavače a Biskupa, ustanovil ve věrné službě Evangeliu tvého Syna v tvé Církvi; veď ve své lásce a upevni naše srdce, abychom i ve víře byli shledáni stálými, i ve skutcích pracovitými.
+$Per eumdem Dominum
+
+[Commemoratio]
+!Připomínka sv. Krišpína et Krišpiniána, Mučedníků
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Svatých tvých Mučedníků, Pane, Krišpína et Krišpiniána, prosíme, ať nám pomůže modlitba; abychom, když jim vzdáváme úctu, zakusili jsme i jejich řádnou pomoc.
+$Per Dominum

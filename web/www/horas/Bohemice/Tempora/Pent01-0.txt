@@ -1,5 +1,5 @@
 [Rank]
-Dominica Sanctissimae Trinitatis;;Duplex I classis;;6.5
+Neděle Nejsvětější Trojice;;Duplex I classis;;6.5
 
 [Rule]
 9 lectiones

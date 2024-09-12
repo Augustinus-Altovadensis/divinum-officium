@@ -1,5 +1,5 @@
 [Rank]
-SS. Ursulae et Sociarum, Virginum et Martyrum;;xij. Lect. et M.;;4;;ex C6
+SS. Ursulae et Sociarum, Virginum et Martyrum;;xij. Lect. et M.;;3;;ex C6
 
 [Rule]
 ex C6;
@@ -8,9 +8,8 @@ ex C6;
 Hæc est quæ nescívit, * thorum in delícto, habébit fructum in respectióne animárum sanctárum;;109
 Unguéntum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te nimis.;;112
 Média nocte * clamor factus est: Ecce sponsus venit, exíte óbviam ei.;;121
-Tunc surrexérunt omnes * Vírgines illæ, et ornavérunt lámpades suas.;;126
-
-Vírginum chorus * laudáte Dóminum in cœlis, allelúia.;;147
+Vírginum chorus * laudáte Dóminum in cœlis, allelúia.;;126
+Tunc surrexérunt omnes * Vírgines illæ, et ornavérunt lámpades suas.;;
 
 [Capitulum Vespera]
 @Commune/C6
@@ -20,18 +19,42 @@ R. Unguéntum effúsum * nomen tuum.
 V. Ideo adolescéntulæ dilexérunt te nimis.
 R. Nomen tuum.
 
+[Hymnus Matutinum]
+@Commune/C6:Hymnus Vespera:1-9:s/pergis/pascis/
+_
+@Commune/C6:Hymnus Vespera:21-25:s/Virtus, honor, laus/Laus, honor, virtus/ s/cum/et/
+
 [Versum 1]
-V. Adducéntur Regi Vírgines post eam.
-R. Próximæ ejus afferéntur tibi.
+@Commune/C6a
 
 [Ant 1]
-@CommuneCist/C6:Ant NM
+@Commune/C6a
 
 [Oratio]
-v. Da nobis, quǽsumus, Dómine, Deus noster, sanctárum Vírginum et Mártyrum tuárum Ursulæ et Sociárum ejus palmas incessábili devotióne venerári: ut, quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.
+Da nobis, quǽsumus, Dómine, Deus noster, sanctárum Vírginum et Mártyrum tuárum Ursulæ et Sociárum ejus palmas incessábili devotióne venerári: ut, quas digna mente non póssumus celebráre, humílibus saltem frequentémus obséquiis.
 $Per Dominum
 
 [Commemoratio]
 !Commemoratio S. Hilarionis Abbatis
-
 @CommuneCist/C5:Oratio1:s/N\./Hilariónis/
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Hymnus Laudes]
+@Commune/C6:Hymnus Vespera:10-25:s/tendis/pergis/ s/súpplices/lárgius/ s/ut addas/adáuge/ s/Virtus, honor, laus/Laus, honor, virtus/ s/cum/et/
+
+[Versum 2]
+@Commune/C6a
+
+[Ant 2]
+@CommuneCist/C3:Ant 3
+
+[Versum 3]
+@Commune/C6a
+
+[Ant 3]
+@CommuneCist/C7b:Ant 1
