@@ -1,0 +1,14 @@
+[Rank]
+Vigilie Všechn Svatých;;Vigilia;;1.5
+
+[Rule]
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
+Laudes 2 
+No Suffragium 
+
+[Oratio]
+Pane náš Bože, rozmnož nad námi svou milost; a uděl, ať ty, jejichž velikou slavnost budeme slavit, následujeme v radosti svatého vyznání. 
+$Per Dominum

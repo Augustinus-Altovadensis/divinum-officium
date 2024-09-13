@@ -1,3 +1,5 @@
+[Rank]
+Sv. Apoštolů Šimona a Judy;;MM. maj.;;5.1;;ex C1
 
 [Lectio9]
 @Sancti/10-28:Lectio7:s/That whatsoever.*//s

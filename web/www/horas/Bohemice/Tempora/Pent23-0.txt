@@ -8,7 +8,7 @@ Antiphonas horas
 Symbolum Athanasium
 
 [Oratio]
-Odpusť, prosíme, Pane, hříchy svého lidu; abychom od pout hříchu, jež pro svou křehkost nosíme, jsme tvou dobrotou byli osvobozeni.
+Odpusť, prosíme, Pane, hříchy svého lidu; abychom od pout hříchu, jež pro svou křehkost nosíme, byli tvou dobrotou osvobozeni.
 $Per Dominum
 
 [Lectio7]

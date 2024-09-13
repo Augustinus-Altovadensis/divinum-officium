@@ -24,41 +24,41 @@ Ten zvolal mocným hlasem ke čtyřem Andělům, jimž byla dána moc škoditi z
 $Deo gratias
 
 [Hymnus Vespera]
-v. O Christ, thy guilty people spare!
-Lo, kneeling at thy gracious throne,
-thy Virgin-Mother pours her prayer,
-Imploring pardon for her own.
+v. Všech tvorů Vykupiteli,
+své sluhy zachraň, Ježíši,
+usmířen svatou přímluvou
+své Matky, Panny nejčistší.
 _
-Ye angels, happy evermore!
-Who in your circles nine ascend,
-As ye have guarded us before,
-So still from harm our steps defend.
+Blažených těch dnů nebeských
+zástupy jasem planoucí,
+zažeňte jak zla minulá,
+tak přítomná, tak budoucí.
 _
-Ye prophets and Apostles high!
-Behold our penitential tears;
-And plead for us when death is nigh,
-our all-searching judge appears.
+Proroci Soudce věčného,
+vy apoštolé vznešení,
+prosíme, nám svou přímluvou
+vyproste všem dar spasení.
 _
-Ye martyrs all! a purple band,
-And confessors, a white-robed train;
-Oh, call us to our native land,
-From this our exile, back again.
+Vy Mučedníci vítězní,
+vy všichni slavní vyznáním,
+nás přímluvami přiveďte
+k nebeským sídlům přejasným.
 _
-And ye, O choirs of virgins chaste!
-Receive us to your seats on high;
-With hermits whom the desert waste
-Sent up of old into the sky.
+Vy svatých Panen zástupy,
+všech Mnichů sbore nesmírný,
+se všemi Světci, vemte nás
+do Ježíšovy družiny.
 _
-Drive from the flock, O Spirit blest!
-The false and faithless race away;
-That all within one fold may rest,
-Secure beneath one shepherd's sway.
+Zbavte nás lidu zrádného
+z končin patřících věřícím,
+Ať Kristu chvály převhodné
+Svědomitě pak vzdáváme.
 (rubrica 1570 aut rubrica monastica hoc versus omittitur)
 _
-To God the Father glory be,
-And to his sole-begotten Son;
-And glory, Holy Ghost, to thee,
-While everlasting ages run.
+Sláva Otci nezrozenému,
+A jeho Jednorozenému,
+Spolu se Svatým Duchem,
+Vládnoucí navěky všem.
 Amen.
 
 [HymnusM Vespera]
@@ -262,36 +262,39 @@ And now, what saith He? Blessed are the poor in spirit, for theirs is the kingdo
 &teDeum
 
 [Hymnus Laudes]
-v. Giver of life, eternal Lord!
-thy own redeemed defend;
-Mother of grace! thy children save,
-And help them to the end.
+v. Ježíši, lidstva zachránce,
+při vykoupených stále stůj,
+Rodičko Boží laskavá,
+svým sluhům spásu vyprošuj.
 _
-Ye thousand thousand angel hosts!
-Assist us in our need;
-Ye patriarchs! with the prophet choir!
-For our forgiveness plead.
+Ať všechny sbory andělské
+s Proroků sborem vznešeným
+nám s Patriarchy slavnými
+vyprosí odpuštění vin.
 _
-Forerunner blest! and thou who still
-Dost heaven's dread keys retain!
-Ye glorious Apostles all!
-Unloose our guilty chain.
+Ať předchůdce a Křtitel tvůj
+i Klíčník jasných nebes bran,
+s ním Apoštolé ostatní
+břemena všech vin sejmou nám.
 _
-Army of martyrs! holy priests
-In beautiful array!
-Ye happy troops of virgins chaste!
-Wash all our stains away.
+Ať Mučedníci vítězní
+a Kněží velké zástupy
+i čisté Panny všechny nás
+vyvedou z hříšné potupy.
 _
-All ye who high above the stars
-In heavenly glory reign!
-May we through your prevailing prayers
-Unto your joys attain.
+Ať Řeholníků přímluvy
+se všemi nebe svatými
+připojí se k nám prosícím
+o dary věčné otčiny.
 _
-Praise, honour, to the Father be,
-Praise to his only Son;
-Praise, Holy Paraclete, to thee,
-While endless ages run.
+Buď tobě sláva, Kriste náš,
+i Otci, s Duchem přesvatým,
+vždyť svatí v nebi těší se
+již věčným světlem úchvatným. 
 Amen.
+
+[HymnusM Laudes]
+@:Hymnus Laudes
 
 [Versum 2]
 V. Let the Saints be joyful in glory.
@@ -304,14 +307,11 @@ Saints and Elect with one voice do acknowledge thee, O Blessed Trinity, One God!
 
 [Lectio Prima]
 !Rev 7:12
-v. Saying: Amen. Benediction, and glory, and wisdom, and thanksgiving, honour,~
-and power, and strength to our God for ever and ever. Amen.
+v. Chvála, sláva, moudrost, díky, čest, moc a síla přísluší našemu Bohu na věčné věky! Amen.
 
 [Capitulum Sexta]
 !Rev 7:9
-v. After this I saw a great multitude, which no man could number, of all~
-nations, and tribes, and peoples, and tongues, standing before the throne, and~
-in sight of the Lamb, clothed with white robes, and palms in their hands.
+v. Potom jsem viděl veliký zástup, který by nikdo nespočítal, ze všech národů, kmenů, plemen a jazyků; stáli před trůnem Božím a před Beránkem, odění bílým rouchem, s palmy byly v jejich rukou.
 $Deo gratias
 
 [Ant 3]

@@ -1,0 +1,5 @@
+[Rank]
+S. Evaristi, Papæ et Martyris;;Commemoratio;;1;;vide C2
+
+[Oratio]
+@Commune/C2::s/N\./Evarísti/

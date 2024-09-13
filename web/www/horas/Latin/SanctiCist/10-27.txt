@@ -1,0 +1,14 @@
+[Rank]
+In Vigilia SS. Apostolorum Simonis et Judæ;;Vigilia;;1.5;;ex C1v
+
+[Rule]
+ex C1v;
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
+Laudes 2 
+
+[Oratio]
+Concéde, quǽsumus, omnípotens Deus: ut, sicut Apostolórum tuórum Simónis et Judæ gloriósa natalítia prævenímus; sic ad tua benefícia promerénda, majestátem tuam pro nobis ipsi prævéniant.
+$Per Dominum

@@ -1,7 +1,7 @@
 @Sancti/11-01
 
 [Rank]
-In Festo Omnium Sanctorum;;Serm. maj. cum Octava;;8;;
+In Festo Omnium Sanctorum;;Serm. maj. cum Octava;;6.9;;
 
 [Rule]
 12 lectiones
@@ -50,14 +50,26 @@ _
 [Ant 2]
 Beáti estis * Sancti Dei omnes, qui meruístis consórtes fíeri cæléstium virtútum, et pérfrui ætérnæ claritátis glória: idéoque precámur, ut mémores nostri, intercédere dignémini pro nobis ad Dóminum Deum nostrum.
 
+[Ant Prima]
+@Commune/C3:Ant 3
+
+[Ant Tertia]
+@CommuneCist/C1:Ant 3
+
+[Ant Sexta]
+@CommuneCist/C1:Ant Vespera:4:s/;;.*//
+
+[Ant Nona]
+@CommuneCist/C1:Ant Vespera:5
+
 [Responsory Tertia]
-@:Versum 1
+@CommuneCist/C3
 
 [Responsory Sexta]
-@Commune/C3:Responsory Tertia:8-9
+@CommuneCist/C3
 
 [Responsory Nona]
-@Commune/C3:Responsory Sexta:8-9
+@CommuneCist/C3
 
 [Ant Vespera 3]
 @:Ant Vespera:s/$/_/gm s/_/;;109/ s/_/;;111/ s/_/;;112/ s/_/;;115/ s/_//

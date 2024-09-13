@@ -1,3 +1,9 @@
+[Capitulum Vespera]
+@Sancti/10-DU
+_
+Responsorium. Učinil nás královstvím a kněžstvem Bohu a svému Otci; * Jemu buď sláva a vláda, na věky věkův!
+V. On je prvorozený mezi mrtvými, a první mezi králi země.
+R. Jemu buď sláva a vláda, na věky věkův!
 
 [Hymnus Vespera]
 @Sancti/10-DU
@@ -60,10 +66,10 @@ R. That God may be all in all!
 @Sancti/10-DU:Lectio4:s/.* But if we/But if we/s
 
 [Responsory6]
-R. He has made us to be a kingdom, and priest to God His Father;
-* To Him belong glory and dominion forever and ever!
-V. He is the firstborn of the dead, and the ruler of the kings of the earth.
-R. To Him belong glory and dominion forever and ever!
+R. Učinil nás královstvím a kněžstvem Bohu a svému Otci;
+* Jemu buď sláva a vláda, na věky věkův!
+V. On je prvorozený mezi mrtvými, a první mezi králi země.
+R. Jemu buď sláva a vláda, na věky věkův!
 
 [Lectio7]
 @Sancti/10-DU:Lectio5:s/.* Let Us /Let Us /s s/; none.*/./s

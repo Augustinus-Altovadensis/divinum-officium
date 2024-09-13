@@ -11,6 +11,13 @@ Psalmi Dominica
 [Capitulum Vespera]
 @Sancti/10-DU
 _
+Responsorium. Fecit nos regnum et sacerdótes Deo et Patri suo: * Ipsi glória et impérium, in sǽcula sæculórum.
+V. Ipse est primogénitus mortuórum, et princeps regum terræ.
+R. Ipsi glória et impérium, in sǽcula sæculórum.
+
+[Capitulum Vespera 3]
+@Sancti/10-DU:Capitulum Vespera
+_
 @Sancti/10-DU:Responsory Sexta:s/._.*//s
 
 [Hymnus Vespera]

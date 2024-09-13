@@ -1,0 +1,14 @@
+[Rank]
+Vigilia sv. Apoštolů Šimona a Judy;;Vigilia;;1.5;;ex C1v
+
+[Rule]
+ex C1v;
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
+Laudes 2 
+
+[Oratio]
+Uděl, prosíme, všemohoucí Bože; abychom, když předcházíme narození pro nebe tvých svatých Apoštolů Šimona a Judy, a tak si zasloužili tvá dobrodiní, jako oni nás předešli před tvou vznešenost.
+$Per Dominum

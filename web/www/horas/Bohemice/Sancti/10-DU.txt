@@ -9,122 +9,114 @@ Psalm5 Vespera=116
 Festum Domini
 
 [Ant Vespera]
-He shall be called * Peaceable, and his throne shall be most firm for ever.
-His kingdom * is an everlasting kingdom, and all kings shall serve him, and shall obey him.
-Behold a man, the Orient * is his name: he shall sit and rule, and shall speak peace to the Gentiles.
-The Lord * is our judge, the Lord is our lawgiver: the Lord is our king, he will save us.
-Behold, I have given thee * to be the light of the Gentiles, that thou mayst be my salvation even to the farthest part of the earth.
+Mírumilovným * bude nazýván, a jeho trůn bude přepevný navždy.
+Jeho království * je království věčné, a všichni králové mu slouží a poslouchají jej.
+Hle, Muž Vycházející * jest jeho jméno; bude sedět a panovat, a přesvědčovat pohanské Národy o míru.
+Hospodin * je náš soudce, Hospodin je náš zákonodárce; Hospodin, náš Král, on nás zachrání.
+Hle, dal jsem tě * ve světlo národům, abys byl má spása až na konec země.
 
 [Capitulum Vespera]
-!Col 1:12-13
-v. Brethren: We give thanks to God the Father, who hath made us worthy to be~
-partakers of the lot of the saints in light, who hath delivered us from the~
-power of darkness, and hath translated us into the kingdom of the Son of his~
-love.
+!Kol 1:12-13
+v. Bratři, vzdáváme díky Bohu Otci, že nás učinil hodnými k účasti na podílu svatých ve světle. On nás totiž vytrhl z moci temnosti a převedl do království svého milovaného Syna.
 $Deo gratias
 
 [Hymnus Vespera]
-v. To thee, O Prince of all that be,
-Thou Christ, O King eternally;
-O Framer of the mind and heart,
-Our one true Judge we say thou art.
+v. Všech věků že jsi Knížetem,
+žes národů Králi nejvyšší,
+že vládneš myslím, srdcím všem,
+to vyznáváme, Ježíši.
 _
-The wicked protest, wail and cry,
-Christ Jesus’ reign they would deny;
-Rejoice we at thy glorious name,
-Thou Highest King we do proclaim.
+Když bezbožný dav křičí v svět:
+„Nechcem, by Kristus panoval!",
+tu s hrdostí náš volá ret,
+že nejvyšší jsi světa Král.
 _
-O Christ! The Source of all our peace,
-Make all our sinful thoughts to cease;
-And still in us our loves misplaced,
-As Thy one sheepfold be we embraced.
+Ó míru Kníže přemilý,
+rač vzdornou hruď si podmanit,
+a od tvé lásky zbloudilý
+zas v jeden ovčín uveď lid!
 _
-For this, hanging on cruel tree,
-With arms outstretched, for all to see;
-His heart is pierced by soldier’s spear,
-Revealing burning love most dear.
+Jen proto na kříž vstupuješ,
+otvíráš náruč lidem všem,
+svou lásku lidstvu zjevuješ,
+jež hoří v srdci zraněném.
 _
-From this the altar of the tree
-Thy blood flows forth from Calvary;
-As wine to us it doth appear,
-To thine own heart it draws us near.
+Ve svatostáncích žiješ skryt
+pod vína, chleba způsobou,
+a liješ spásu na svůj lid
+svou proraženou útrobou.
 _
-Thou Governor of all that be,
-May all thy creatures honour thee;
-All those who rule, O Lord renew!
-Source of all precepts just and true.
+Ať veřejně tě vládcové
+všech národů ctí na zemi,
+ať ctí tě mistři, soudcové,
+zná zákon, věda, umění.
 _
-To regal glory, all submit,
-All crowns and honours we do remit;—
-To thy scepter—so sweet and mild!
-Submit we as a little child.
+Ať položená k nohám tvým
+se žezla králů zatřpytí,
+rač sladkým žezlem vladařským
+vlast naši, domy chrániti.
 _
-All glory be, Jesu, to thee,
-Thy scepter over all that be;
-All glory, as is ever meet,
-To Father and to Paraclete.
+Ať tobě, sladký Ježíši,
+jenž řídíš žezla národů,
+i Otci, Duchu, nejvyšší
+čest vzdává lidstvo v závodu.
 Amen.
 
 [Doxology]
-All glory be, Jesu, to thee,
-Thy scepter over all that be;
-All glory, as is ever meet,
-To Father and to Paraclete.
+Ať tobě, sladký Ježíši,
+jenž řídíš žezla národů,
+i Otci, Duchu, nejvyšší
+čest vzdává lidstvo v závodu.
 
 [Versum 1]
-V. Given to me is all power.
-R. In heaven and in earth.
+V. Dána jest mi veškerá moc.
+R. Na nebi i na zemi.
 
 [Ant 1]
-The Lord God * shall give unto him the throne of David, his father: and he shall~
-reign in the house of Jacob for ever, and of his kingdom there shall be no end,~
-alleluia.
+Dá mu * Pán Bůh trůn Davida, jeho otce; a bude kralovat v domě Jakubově navěky, a jeho království nebude konce, alleluja.
 
 [Oratio]
-Almighty and everlasting God, who in thy beloved Son, the King of the whole~
-world, hast willed to restore all things: mercifully grant that all the families~
-of nations, now kept apart by the wound of sin, may be brought under the sweet~
-yoke of his rule.
+Všemohoucí věčný Bože, jenž ve svém milovaném Synu, Králi veškerenstva, jsi vše chtěl obnovit; uděl laskavě, aby všechny rodiny národů, ranou hříchu znesvářené, byly podmaněny jeho přesladké vládě.
 $Qui tecum
 
 [Invit]
-Jesus Christ, the King of kings * Come, let us adore!
+Ježíši Kristu, Králi králů * Pojďte a pokloňte se mu!
 
 [Hymnus Matutinum]
-v. O thou eternal Image bright
-Of God most high, thou Light of Light,
-To thee, Redeemer, glory be,
-And might and kingly majesty.
+v. Odvěčný Otce odlesku,
+ty zářný světla výblesku,
+buď tobě sláva, Ježíši,
+cest, královská moc nejvyšší.
 _
-Sole hope of all created things,
-Thou art the Lord and King of kings,
-Whom God, long ere creation's morn,
-Had crowned to rule earth yet unborn.
+Ty jediný, než povstal svět,
+byls věků touha, srdcí střed!,
+ti právem Otec žezlo dial,
+všem národům bys panoval.
 _
-Fair flower from the Virgin's breast,
-Our race's Head for ever blest,
-The stone that Daniel saw on high,
-Which falling, o'er the world doth lie.
+Tys čisté Panny vzácný plod,
+svou hlavou zve tě lidský rod,
+tys balvan slétlý s výšin skal,
+jenž lavinou svět zasypal.
 _
-The race of men, condemned to lie
-Beneath the direful tyrant's yoke,
-By thee at length the shackles broke
-And claimed the fatherland on high.
+Krutému vládci poddaný
+rod lidský hříchem spoutaný,
+zpřerážel pouta mocí tvou
+a proniká v říš nebeskou.
 _
-Priest, Teacher, Giver of the law,
-Thy Name the rapt Apostle saw
-Writ on thy vesture and thy thigh:
-The King Of Kings, The Lord Most High.
+Ó vládce, kněže, mistře náš,
+kol roucha krví psáno máš:
+„Král králů, vládce ve výši,
+všech knížat Kníže nej vyšší.
 _
-Fain would we own thy blessed sway,
-Whose rule all creatures must obey;
-For happy is that state and throne
-Whose subjects seek thy will alone.
+Dnes skláníme se k nohám tvým,
+jenž vládneš právem nade vším :
+tam zkvétá blaho občanů,
+kde poslušnost tvých zákonů.
 _
-All praise, King Jesu, be to thee,
-The Lord of all in majesty;
-Whom with the Father we adore,
-And Holy Ghost, for evermore. Amen.
+Ať tobě, sladký Ježíši,
+jenž řídíš žezla národů,
+i Otci, Duchu, pejvyšší
+čest vzdává lidstvo v závodu. Amen.
 
 [Ant Matutinum]
 I have been set up * as King by Him on Sion, His holy mountain, proclaiming His decree.;;2
@@ -357,137 +349,118 @@ R. For He is the Lord of lords and the King of Kings.
 R. For He is the Lord of lords and the King of Kings.
 
 [Ant Laudes]
-The God of heaven * will set up a kingdom that shall break in pieces and shall consume all these kingdoms, and itself shall stand for ever.
-The Lord gave him * power and glory, and a kingdom; and all peoples, tribes and tongues shall serve him.
-Living waters shall go out * from Jerusalem; and the Lord shall be king over all the earth.
-Now shall he be magnified * even to the ends of the earth, and this man shall be our peace.
-The nation and the kingdom * that will not serve thee, shall perish: and the Gentiles shall be wasted with desolation.
+Vybuduje * Bůh nebeský říši, která pokoří a pohltí všechny říše, a vytrvá navěky.
+Dal mu Hospodin * moc a slávu a vládu; a všechny národy, kmeny a jazyky mu budou sloužit.
+Vytrysknou vody živé * z Jerusaléma, a Hospodin Král bude vládnout nad celou zemí.
+Veleben bude * ve všech končinách země, a on bude mírem.
+Národ a království, * které ti nebudou sloužit, zahynou; a národy budou zničeny v samotě.
 
 [Capitulum Laudes]
-!Col 1:12-13
-v. Brethren: We give thanks to God the Father, who hath made us worthy to be~
-partakers of the lot of the saints in light, who hath delivered us from the~
-power of darkness, and hath translated us into the kingdom of the Son of his~
-love.
+!Kol 1:12-13
+v. Bratři, vzdáváme díky Bohu Otci, že nás učinil hodnými k účasti na podílu svatých ve světle. On nás totiž vytrhl z moci temnosti a převedl do království svého milovaného Syna.
 $Deo gratias
 
 [Hymnus Laudes]
-v. Christ’s flag unfurled in glory raised,
-Triumphing o’er the serpent’s stings;
-Come humbly forward all ye lands,
-Applauding the great King of kings.
+v. Praporce v slavném průvodu
+rozvíjí vdáli Kristus Král,
+sem spějte proudy národů,
+a pějte jemu píseň chval.
 _
-No force or threat doth he need use,
-Not by coersion leadeth he;
-Raised on the cross he draweth all,
-With love unto his fruitful tree.
+On panství svého nešíří
+svým mečem, rukou násilnou,
+když povýšen byl na kříži,
+vše podmanil si láskou svou.
 _
-O! Thrice blest city of the Lord,
-Wherein Christ ruleth without dearth;
-Fervently she doth execute
-His heavenly edicts to the earth,
+Ta obec šťastna mnohokrát,
+v níž řádně vládne králů Král,
+ta spěchá zákon vykonat,
+jejž zemi kdysi v lásce dal.
 _
-No fiery weapon can e’er harm,
-The peace ’stablished by Jesus’ hand;
-In happiness and unity,
-The ranks of Christ secure do stand.
+Tam neřinčí zbraň prokletá,
+mír zárukou je úmluvám,
+tam svornost věčně rozkvétá,
+řád občanský je pevný tam.
 _
-A marriage blessed by faith in thee,
-Yields virtuous offspring from the
-womb;
-Like seed in fertile soil doth grow,
-In virtuous homes do children bloom.
+Tam věrnost střeží manželství,
+tam mládež čista dospívá
+tam na prazích se domů skví
+květ ctností, láska smířlivá.
 _
-We yearn and long to shine on us,
-Thy light, O sweet and winsome King;
-All thus submitted to thy reign,
-To us, thy gift of peace do bring.
+Kéž svým nás jasem zasáhne
+tvé světlo, králi nejdražší,
+ať svět až míru dosáhne,
+ti vděčně pocty přináší.
 _
-O Jesu! King of all the world,
-Honour and glory be to thee;
-With Father and with Paraclete,
-Glory through all eternity.
+Ať tobě, sladký Ježíši,
+jenž řídíš žezla národů,
+i Otci, Duchu, nejvyšší
+čest vzdává lidstvo v závodu.
 Amen.
 
 [Versum 2]
-V. His empire shall be multiplied.
-R. And there shall be no end of peace.
+V. Rozmnožena bude jeho říše.
+R. A mír nebude mít konce.
 
 [Ant 2]
-He hath made us * a kingdom to God and his Father: the first begotten of the~
-dead, and the Prince of the kings of the earth, alleluia.
+Učinil nás Bohu * a Otci svému královstvím, první mezi mrtvými, a Vládce králů země, alleluia.
 
 [Versum Prima]
-Who holds the primacy in all things.
+Jenž prvenství ve všem držíš.
 
 [Lectio Prima]
-!Col 1:19-20
-v. In him, it hath well pleased the Father, that all fullness should dwell, and~
-through him to reconcile all things unto himself, making peace through the blood~
-of his cross, both as to the things that are on earth, and the things that are~
-in heaven, in Christ Jesus our Lord.
+!Kol 1:19-20
+v. Bůh totiž rozhodl, aby se v něm usídlila veškerá plnost dokonalosti, a že skrze něho usmíří se sebou všecko tvorstvo jak na nebi, tak na zemi v Kristu Ježíši, našem Pánu.
 
 [Capitulum Tertia]
-!Col 1:12-13
-v. Brethren: We give thanks to God the Father, who hath made us worthy to be~
-partakers of the lot of the saints in light, who hath delivered us from the~
-power of darkness, and hath translated us into the kingdom of the Son of his~
-love.
+!Kol 1:12-13
+v. Bratři, vzdáváme díky Bohu Otci, že nás učinil hodnými k účasti na podílu svatých ve světle. On nás totiž vytrhl z moci temnosti a převedl do království svého milovaného Syna.
 $Deo gratias
 
 [Responsory Tertia]
-R.br. Given to me is * All power.
-R. Given to me is * All power.
-V. In heaven and in earth.
-R. All power.
+R.br. Dána je mi * Veškerá moc.
+R. Dána je mi * Veškerá moc.
+V. Na nebi i na zemi.
+R. Veškerá moc.
 &Gloria
-R. Given to me is * All power.
+R. Dána je mi * Veškerá moc.
 _
-V. Bring ye to the Lord, O ye families of the nations.
-R. Bring ye to the Lord glory and empire.
+V. Přineste Hospodinu, rodiny národů.
+R. Přineste Hospodinu slávu a vládu.
 
 [Capitulum Sexta]
-!Col 1;16-18
-v. LL things were created by him and in him, and he is before all, and by him~
-all things consist. And he is the head of the body, the Church, who is the~
-beginning, the firstborn from the dead, that in all things he may hold the~
-primacy.
+!Kol 1;16-18
+v. Skrze něj a v něm bylo stvořeno všechno, a on je dříve než všechno ostatní a všechno sestává z něj. A on je hlava těla Církve, on je počátek, prvorozený mezi vzkříšenými z mrtvých, aby tak měl ve všem prvenství.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Bring ye to the Lord, * O ye families of the nations.
-R. Bring ye to the Lord, * O ye families of the nations.
-V. Bring ye to the Lord glory and empire.
-R. O ye families of the nations.
+R.br. Přineste Hospodinu, * Rodiny národů.
+R. Přineste Hospodinu, * Rodiny národů.
+V. Přineste Hospodinu slávu a vládu.
+R. Rodiny národů.
 &Gloria
-R. Bring ye to the Lord, * O ye families of the nations.
+R. Přineste Hospodinu, * Rodiny národů.
 _
-V. They shall adore him: all kings of the earth.
-R. All nations shall serve him.
+V. Budou se mu klanět všichni králové země.
+R. Všechny národy mu budou sloužit.
 
 [Capitulum Nona]
-!Col 1:19-20
-v. In him, it hath well pleased the Father, that all fullness should dwell, and~
-through him to reconcile all things unto himself, making peace through the blood~
-of his cross, both as to the things that are on earth, and the things that are~
-in heaven, in Christ Jesus our Lord.
+!Kol 1:19-20
+v. Bůh totiž rozhodl, aby se v něm usídlila veškerá plnost dokonalosti, a že skrze něho usmíří se sebou všecko tvorstvo jak na nebi, tak na zemi v Kristu Ježíši, našem Pánu.
 $Deo gratias
 
 [Responsory Nona]
-R.br. They shall adore him: * All kings of the earth.
-R. They shall adore him: * All kings of the earth.
-V. All nations shall serve him.
-R. All kings of the earth.
+R.br. Budou se mu klanět * Všichni králové země.
+R. Budou se mu klanět * Všichni králové země.
+V. Všechny národy mu budou sloužit.
+R. Všichni králové země.
 &Gloria
-R. They shall adore him: * All kings of the earth.
+R. Budou se mu klanět * Všichni králové země.
 _
-V. His empire shall be multiplied.
-R. And there shall be no end of peace.
+V. Rozmnožena bude jeho říše.
+R. A mír nebude mít konce.
 
 [Versum 3]
-V. His empire shall be multiplied.
-R. And there shall be no end of peace.
+@:Versum 2
 
 [Ant 3]
-And he hath on his garment, * and on his thigh written: King of kings, and Lord~
-of lords. To him be glory and empire for ever and ever.
+Má na svém oděvu * a na svém lýtku napsáno: Král králů, a Pán panovníků. Jemu buď sláva a vláda na věky věkův.
