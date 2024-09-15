@@ -1,2 +1,16 @@
 [Rank]
 Sedmibolestné Panny Marie;;xij. Lect. et M.;;3
+
+[Commemoratio 1]
+!Commemoratio Sv. Nikoméda, Mučedníka
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Přispěj, Pane, na pomoc svému lidu; a přijmi přeslavné zásluhy svatého Nikoméda, svého Mučedníka, a k získání tvého milosrdenství nechť nám vždy pomáhají jeho přímluvy.
+$Per Dominum
+
+[Commemoratio 2]
+!Commemoratio Sv. Nikoméda, Mučedníka
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Přispěj, Pane, na pomoc svému lidu; a přijmi přeslavné zásluhy svatého Nikoméda, svého Mučedníka, a k získání tvého milosrdenství nechť nám vždy pomáhají jeho přímluvy.
+$Per Dominum

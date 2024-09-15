@@ -28,7 +28,18 @@ _
 @Tempora/Quad5-5:Responsory Sexta:8-9
 
 [Commemoratio 1]
+!Commemoratio S. Nicomedis, Martyris
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Adésto, Dómine, pópulo tuo: ut, beáti Nicomédis Mártyris tui mérita præclára suscípiens, ad impetrándam misericórdiam tuam semper ejus patrocíniis adjuvétur.
+$Per Dominum
 
 [Commemoratio 2]
+!Commemoratio S. Nicomedis, Martyris
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Adésto, Dómine, pópulo tuo: ut, beáti Nicomédis Mártyris tui mérita præclára suscípiens, ad impetrándam misericórdiam tuam semper ejus patrocíniis adjuvétur.
+$Per Dominum
 
 [Commemoratio 3]
+
