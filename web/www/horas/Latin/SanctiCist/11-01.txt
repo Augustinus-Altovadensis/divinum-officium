@@ -22,14 +22,6 @@ _
 ℣. Flóribus ejus nec rosæ, nec lília desunt. 
 ℟. Quam inviolátæ confessiónis cándid índuit virgínitas. 
 
-[HymnusM Vespera]
-@Sancti/11-01:HymnusM Vespera:s/Chorus/Chori/s:s/Glória.*//s
-Glória Patr<i>i</i> ingénito,
-Ejúsque Unigénito,
-Una cum Sancto Spíritu,
-In sempitérna sǽcula.
-Amen.
-
 [Versum 1]
 @CommuneCist/C3:Versum 1
 
