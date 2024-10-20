@@ -277,7 +277,7 @@ sub occurrence {
 		
 		# In Festo Sanctae Mariae Sabbato according to the rubrics.
 		if ( ($dayname[0] !~ /(Adv|Quad[0-6]|Quadp3)/i || ( $version =~ /Cistercien/i && $dayname[0] !~ /(Quad[0-6]|Quadp3)/i) ) && $testmode !~ /^season$/i && $BMVSabbato
-				&& $srank !~ /(Vigil|in Octav)/i && (( $trank[2] < 2 && $srank[2] < 2 ) || ( $version =~ /Cistercien/i && ( $trank[2] <= 2 && $srank[2] <= 2 ))) && !$transfervigil) {
+				&& $srank !~ /(Vigil|in Octav|Omnium Fidelium)/i && (( $trank[2] < 2 && $srank[2] < 2 ) || ( $version =~ /Cistercien/i && ( $trank[2] <= 2 && $srank[2] <= 2 ))) && !$transfervigil) {
 			unless($tomorrow) {
 				$scriptura = $tname =~ /Epi0/i ? $sname : $tname;
 			}

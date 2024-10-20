@@ -1924,7 +1924,8 @@ sub hymnusmajor {
     $name = 'Day0 Laudes2' if ( $name =~ /Day0 Laudes/i
                                && ( $dayname[0] =~ /Epi[2-6]/
                                  || $dayname[0] =~ /Quadp/i
-                                 || $winner{Rank} =~ /(Octobris|Novembris)/i)
+                                 || ($winner{Rank} =~ /(Octobris|Novembris)/i && $version !~ /Cistercien/i)
+                                 || ($winner{Rank} =~ /(Novembris)/i && $version =~ /Cistercien/i) )
                              );
   }
   if ( $version =~ /Cistercien/i )
