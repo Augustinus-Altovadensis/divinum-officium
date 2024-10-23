@@ -1,6 +1,39 @@
 [Name]
 Officium Dedicationis Ecclesiae. Versio Cisterciensis Bohemica
 
+[Ant Vespera]
+Domu tvému, Pane, * náleží svatost po všechny dny.;;109
+Dům můj, * bude domem modlitby.;;110
+Toto je dům Páně * pevně ustanoven, s dobrými základy na pevné skále.;;111
+Drahé kameny * jsou všechny tvé zdi, a věže Jerusaléma jsou vystavěny z drahokamů.;;147
+Dobré základy má * dům Páně na pevné skále.;;112
+
+[Capitulum Vespera]
+@Commune/C8
+_
+Responsorium. Hrozné je toto místo, avšak není to nic jiného než dům Boží a brána nebeská. 
+* Vpravdě je totiž Hospodin na tomto místě, ale já jsem to nevěděl.
+V. Jakmile procitnul Jákob ze sna, řekl: 
+* Vpravdě je totiž Hospodin na tomto místě, ale já jsem to nevěděl.
+
+[Versum 1]
+V. Můj dům. 
+R. Bude se nazývat domem modlitby. 
+
+[Ant 1]
+Věčný pokoj * od věčného Otce, tomuto domu věčný pokoj, Slovo Otcovo, buď pokoj tomuto domu, ať laskavý utěšitel udělí pokoj tomuto domu.
+
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
+[Responsory Tertia]
+V. Základy má dům Páně.
+R. Nad vycholky hor.
+
+[Responsory Nona]
+V. Blažení, kdo přebývají ve tvém domě, Pane.
+R. Na věky věkův tě budou chválit.
+
 [Ant Matutinum]
 I will come into thy house; I will worship towards thy holy temple.;;5
 The Lord is in his holy temple, the Lord’s throne is in heaven.;;10

@@ -1,0 +1,16 @@
+[Rank]
+Sv. Čtyř Korunovaných Mučedníků;;Commemoratio.;;1;;
+
+[Commemoratio 1]
+!Připomínka svatých Čtyř Korunovaných Mučedníků
+@CommuneCist/C3:Oratio proper
+v. Uděl, prosíme, všemohoucí Bože; abychom, když jsme poznali slavné Mučedníky jako silné ve svém vyznání, pocítili je i jako laskavé v přimlouvání se za nás.
+$Per Dominum
+
+[Commemoratio 2]
+!Připomínka svatých Čtyř Korunovaných Mučedníků
+Ant. Svatí Mučedníci, jaké jen utrpěli muky, aby bezpečně došli až k palmě mučednictví.
+@CommuneCist/C3:Versum 1
+$Oremus
+v. Uděl, prosíme, všemohoucí Bože; abychom, když jsme poznali slavné Mučedníky jako silné ve svém vyznání, pocítili je i jako laskavé v přimlouvání se za nás.
+$Per Dominum

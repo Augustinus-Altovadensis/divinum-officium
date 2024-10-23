@@ -10,15 +10,15 @@ Festum Domini
 Divinum auxilium
 
 [Ant Vespera]
-Holiness becometh thine house, * O Lord, for ever.;;109
-My house * shall be called the house of prayer.;;110
-This is the Lord's house * stoutly builded, well founded upon a sure rock.;;111
-The Lord's house is well founded * upon a sure rock.;;112
-All thy walls are of stones most precious, * and the towers of Jerusalem shall be built up with jewels.;;147
+Domu tvému, Pane, * náleží svatost po všechny dny.;;109
+Dům můj, * bude domem modlitby.;;110
+Toto je dům Páně * pevně ustanoven, s dobrými základy na pevné skále.;;111
+Dobré základy má * dům Páně na pevné skále.;;112
+Drahé kameny * jsou všechny tvé zdi, a věže Jerusaléma jsou vystavěny z drahokamů.;;147
 
 [Capitulum Vespera]
 !Rev 21:2
-v. I saw the holy city, New Jerusalem, coming down from God out of heaven, prepared as a Bride adorned for her husband.
+v. Viděl jsem svaté město, nový Jerusalém, sestupující z nebe, ozdobený jako nevěsta pro svého ženicha.
 $Deo gratias
 
 [Hymnus Vespera]
@@ -59,40 +59,40 @@ Forever through the eternal skies.
 Amen.
 
 [HymnusM Vespera]
-v. Blessed city, heavenly Salem,
-vision dear of peace and love,
-who of living stones art builded
-in the height of heaven above,
-and, with angel hosts encircled,
-as a bride dost earthward move;
+v. Město Jerusalém svatý, 
+Zvaný míru zjevení, 
+Jež postaveno je v nebi 
+Z mnoha živých kamenů, 
+A Anděli korunován 
+Jak nevěsta zdobeno.
 _
-from celestial realms descending,
-bridal glory round thee shed,
-meet for him whose love espoused thee,
-to thy Lord shalt thou be led;
-all thy streets and all thy bulwarks
-of pure gold are fashioned.
+Právě přichází až z nebe, 
+Pro svatební komnatu, 
+Připraveno, aby sňatkem 
+S Pánem bylo spojeno, 
+Ulice a stěny její 
+Z nejčistšího zlata jsou.
 _
-Bright thy gates of pearl are shining;
-they are open evermore;
-and by virtue of his merits
-thither faithful souls do soar,
-who for Christ's dear Name in this world
-pain and tribulation bore.
+Brány skvějí se perlami, 
+Vchody všechny dokořán, 
+A na základě svých zásluh 
+Uvedeni budou tam
+Všichni, kdož pro Krista jméno 
+Zde na světě trpějí.
 _
-Many a blow and biting sculpture
-polished well those stones elect,
-in their places now compacted
-by the heavenly Architect,
-who therewith hath willed for ever
-that his palace should be decked.
+Bitím a všemi útlaky 
+Vyleštěné kameny, 
+Zaujímají svá místa, 
+Které ruka umělce
+Určila jim na vše věky 
+V posvátných těch budovách.
 _
-Laud and honor to the Father,
-laud and honor to the Son,
-laud and honor to the Spirit,
-ever Three, and ever One,
-consubstantial, coeternal,
-while unending ages run. 
+Sláva, čest a pocta Bohu 
+Ze všech vždy Nejvyššímu, 
+Spolu Otci, Synovi i
+Duchu Utěšiteli.
+Jim náleží chvála a moc
+Po všechny věčné věky.
 Amen.
 
 [Versum 1]
@@ -103,11 +103,11 @@ R. Well founded upon a sure rock.
 The Most High hath hallowed His Tabernacle. * For this is the House of God, whereon His Name shall be called, whereof it is written My Name shall be there, saith the Lord.
 
 [Oratio1]
-O God, who invisibly containest all things, and yet art pleased for the salvation of men to show forth visible signs of thy power, fill this house with the glory of thine indwelling power and grant that all who gather themselves together to pray in this place, may receive the good comfort of thine help in every tribulation wherein they cry unto thee.
+Bože, jenž neviditelně obsahuješ úplně všechno, a přece pro spásu lidského rodu viditelně ukazuješ znamení své moci; osvěť tento chrám mocí svého přebývání a dej, aby všichni, kdož sem s prosbami přijdou, v jakémkoliv pokoření k tobě budou volat, obdrželi dobrodiní tvé útěchy.
 $Per Dominum
 
 [Oratio]
-O God, who dost every year bring round unto us again the day whereon this thine holy temple was hallowed, and bringest us again in soundness of body and mind to be present at thine holy worship, graciously hear the supplications of thy people, and grant that whosoever shall come into this thine house to ask good at thine hand, may be rejoiced in the obtaining of all his request.
+Bože, jenž nám každý rok znovu přinášíš den posvěcení tohoto tvého svatého chrámu, a svatými tajemstvími nás vždy zachováváš v bezpečí; vyslyš prosby svého lidu a dej, aby kdokoliv, kdo vkročí do tohoto chrámu, aby prosil o tvá dobrodiní, se radoval z tvého vyslyšení.
 $Per Dominum
 
 [Invit]
@@ -281,63 +281,63 @@ Through th' ages of eternity,
 Amen.
 
 [HymnusM Laudes]
-v. Christ is made the sure Foundation,
-Christ the Head and Cornerstone;
-Chosen of the Lord, and precious,
-Binding all the Church in one,
-Holy Zions Help forever,
-And her Confidence alone.
+v. Jak úhelný a základní 
+Kámen Kristus poslán byl, 
+Aby on ve zdech všech domů  
+Spojoval své kameny, 
+A Sion svatý jej přijal 
+Neb v něm věříc zůstává.
 _
-All that dedicated city,
-Dearly loved of God on high,
-In exultant jubilation,
-Pours perpetual melody,
-God the One in Three adoring
-In glad hymns eternally.
+Celé ono svaté, Bohem, 
+Též milované město,  
+Plné je písní a chvály, 
+I zpěvu radostného,
+Boha v Trojici jednoho 
+S nadšením vším velebí.
 _
-To this temple, where we call Thee,
-Come, O Lord of Hosts, today;
-With Thy wonted lovingkindness
-Hear Thy servants as they pray.
-And Thy fullest benediction
-Shed within its walls alway.
+V tento chrám, nejvyšší Bože, 
+prosíme tě, přijdi již,
+A s laskavou dobrotou svou 
+Přijmi přání prosících,  
+A přehojné požehnání 
+Vylej nám zde v plnosti.
 _
-Here vouchsafe to all Thy servants
-What they ask of Thee to gain;
-What they gain from Thee forever
-With the blessèd to retain,
-And hereafter in Thy glory
-Evermore with Thee to reign.
+Zde nechť si zaslouží všichni 
+Vyslyšení proseb svých, 
+A když obdrží, co chtěli,  
+Se Svatými navěky,
+Do Ráje jsou uvedeni,
+A spočinou v pokoji.
 _
-Laud and honor to the Father,
-Laud and honor to the Son,
-Laud and honor to the Spirit,
-Ever Three and ever One;
-Consubstantial, co-eternal,
-While unending ages run.
+Sláva, čest a pocta Bohu 
+Ze všech vždy Nejvyššímu, 
+Spolu Otci, Synovi i
+Duchu Utěšiteli.
+Jim náleží chvála a moc
+Po všechny věčné věky.
 Amen.
 
 [Ant 2]
-Zacchaeus, make haste and come down, for today I must abide at thy house. * And he made haste and came down, and received Him joyfully into his house. This day is salvation come from God to this house. Alleluia.
+Zachee, * rychle slez ze stromu, neboť je třeba, abych dnes zůstal ve tvém domě; a on ihned slezl, a přijal jej s radostí do svého domu; Dnes Bůh připravil spásu tomuto domu, alleluja..
 
 [Lectio Prima]
 !Rev 21:4-4
-v. And God shall wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain; for the former things are passed away. And He That sat upon the throne said: Behold, I make all things new.
+v. Pak setře Bůh každou slzu z jejich očí; a smrti již více nebude, ani pláče, ani nářku, ani bolesti již více nebude, neboť odejdou již předtím. A řekl ten, který seděl na trůnu: „Hle, vše učiním nové.“ 
 
 [Responsory Tertia]
-R.br. Holiness becometh thine house, * O Lord.
-R. Holiness becometh thine house, * O Lord.
-V. For ever.
-R. O Lord.
+R.br. Domu tvému, Pane, * náleží svatost.
+R. Domu tvému, Pane, * náleží svatost.
+V. Po všechny dny.
+R. Náleží svatost
 &Gloria
-R. Holiness becometh thine house, * O Lord.
+R. Domu tvému, Pane, * náleží svatost.
 _
-V. This place is holy, wherein the Priest prayeth.
-R. For the pardon of the transgressions and offences of the people.
+V. Toto místo je svaté, na němž se modlil kněz.
+R. Za přestoupení a hříchy lidu.
 
 [Capitulum Sexta]
-!Rev 21:3
-v. And I heard a great voice out of the throne, saying Behold, the tabernacle of God is with men, and He will dwell with them. And they shall be His people; and God Himself shall be with them, and be their God.
+!Zjevení 21:3
+v. Pak jsem uslyšel veliký hlas od trůnu, který pravil: „Hle stánek Boží s lidmi, a Bůh s nimi přebývá; a oni jsou jeho lidem, i sám Bůh s nimi jim bude Bohem.“  
 $Deo gratias
 
 [Responsory Sexta]
@@ -348,28 +348,28 @@ R. The Priest prayeth.
 &Gloria
 R. This place is holy, * wherein the Priest prayeth.
 _
-V. This is the Lord's house, stoutly builded
-R. Well founded upon a sure rock.
+V. Toto je dům Páně, poctivě vystavěný.
+R. S dobrými základy na pevné skále.
 
 [Capitulum Nona]
-!Rev 21:4-4
-v. And God shall wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain; for the former things are passed away. And He That sat upon the throne said Behold, I make all things new.
+!Zjevení 21:4-4
+v. Pak setře Bůh každou slzu z jejich očí; a smrti již více nebude, ani pláče, ani nářku, ani bolesti již více nebude, neboť odejdou již předtím. A řekl ten, který seděl na trůnu: „Hle, vše učiním nové.“ 
 $Deo gratias
 
 [Responsory Nona]
-R.br. This is the Lord's house, * stoutly builded.
-R. This is the Lord's house, * stoutly builded.
-V. Well founded upon a sure rock.
-R. Stoutly builded.
+R.br. Toto je dům Páně, * poctivě vystavěný.
+R. Toto je dům Páně, * poctivě vystavěný.
+V. S dobrými základy na pevné skále.
+R. Poctivě vystavěný.
 &Gloria
-R. This is the Lord's house, * stoutly builded.
+R. Toto je dům Páně, * poctivě vystavěný.
 _
-V. The Lord's house is well founded.
-R. Upon a sure rock.
+V. Dobře ustavený je dům Páně.
+R. Na pevné skále.
 
 [Versum 3]
-V. Holiness becometh thine house, O Lord.
-R. For ever.
+V. Domu tvému, Pane, náleží svatost.
+R. Po všechny dny.
 
 [Ant 3]
-How dreadful is this place. * Surely this is none other but the house of God, and this is the gate of heaven.
+Ó, jak strašné je * toto místo, opravdu to může být jen dům Boží a brána nebeská.

@@ -233,7 +233,6 @@
 11-02=11-02=Commemoratio Omnium Fidelium Defunctorum=6=
 11-03=11-03=S. Malachiæ Episcopi et Confessoris=3=
 11-04=11-04=S. Caroli Episcopi et Confessoris=3=
-11-06=11-06=S. Leonardi de Noblat Abbatis=3=
 11-08=11-08=SS. Quatuor Coronatorum Martyrum=1=
 11-09=11-09=In dedicatione Basilicae Ss. Salvatoris=5=S. Theodori=1=
 11-11=11-11=S. Martini Episcopi et Confessoris=2=

@@ -10,7 +10,7 @@ Bene fundáta est * domus Dómini supra firmam petram.;;112
 [Capitulum Vespera]
 @Commune/C8
 _
-R. Terríbilis est locus iste: non est hic áliud nisi domus Dei et porta caeli:
+Responsorium. Terríbilis est locus iste: non est hic áliud nisi domus Dei et porta caeli:
 * Vere étenim Dóminus est in loco isto, et ego nesciébam.
 V. Cumque evigilásset Jacob a somno, ait: 
 * Vere étenim Dóminus est in loco isto, et ego nesciébam.
@@ -110,6 +110,9 @@ paupéribus: et si quid áliquem defraudávi, reddo quádruplum. Ait Jesus ad eu
 Quia hódie salus dómui huic facta est: eo quod et ipse fílius sit Abrahæ. Venit~
 enim Fílius hóminis quǽrere et salvum fácere, quod períerat.
 
+[Ant Laudes]
+@:Ant Vespera:s/;;.*//g
+
 [Capitulum Laudes]
 @Commune/C8:Capitulum Vespera
 _
@@ -119,15 +122,20 @@ _
 @:Versum 1
 
 [Responsory Tertia]
-@Commune/C8:Versum 3
+V. Fundáta est domus Dómini.
+R. Supra vérticem móntium.
 
 [Responsory Sexta]
-@Commune/C8:Responsory Tertia:8-9
+@Commune/C8:Responsory Nona:8-9
 
 [Responsory Nona]
-@Commune/C8:Versum 1
+V. Beáti, qui hábitant in domo tua, Dómine.
+R. In sæcula sæculórum laudábunt te.
 
 [Capitulum Vespera 3]
 @Commune/C8:Capitulum Vespera
 _
 @Commune/C8:Responsory Tertia:1-6
+
+[Versum 3]
+@:Versum 1

@@ -1,13 +1,16 @@
 [Rank]
-SS. Quatuor Coronatorum Martyrum;;Commemoratio.;;1.1;;vide feria
+SS. Quatuor Coronatorum Martyrum;;Commemoratio.;;1;;
+
+[Commemoratio 1]
+!Commemoratio SS. Quatuor Coronatorum Martyrum
+@CommuneCist/C3:Oratio proper
+v. Præsta, quæsumus, omnípotens Deus: * ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, § pios apud te in nostra intercessióne sentiámus. *
+$Per Dominum
 
 [Commemoratio 2]
 !Commemoratio SS. Quatuor Coronatorum Martyrum
-Ant. Sancti Mártyres, quanta passi sunt torménta, ut secúri pervenírent ad palmam Martyrii.
-_
-℣. Exultábunt Sancti in glória. 
-℟. Lætabúntur in cubílibus suis.
-_
+Ant. Sancti Mártyres, quanta passi sunt torménta, ut secúri pervenírent ad palmam martýrii.
+@CommuneCist/C3:Versum 1
 $Oremus
-v. Præsta, quæsumus, omnípotens Deus: * ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, † pios apud te in nostra intercessióne sentiámus. *
+v. Præsta, quæsumus, omnípotens Deus: * ut, qui gloriósos Mártyres fortes in sua confessióne cognóvimus, § pios apud te in nostra intercessióne sentiámus. *
 $Per Dominum

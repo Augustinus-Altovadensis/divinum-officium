@@ -1,0 +1,20 @@
+@Sancti/11-04
+[Rank]
+Sv. Karla <i>Boromejského</i>, Biskupa a Vyznavače;;xij. Lect. et M.;;3;;ex C4
+
+[Rule]
+Antiphonas horas
+
+[Commemoratio 1]
+!Připomínka sv. Vitala a Agricoly, Mučedníků
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Uděl, prosíme, všemohoucí Bože; abychom, když slavíme slavnost tvých svatých Mučedníků Vitala a Agrícoly, obdrželi pomoc jejich přímluv u tebe.
+$Per Dominum
+
+[Commemoratio 2]
+!Připomínka sv. Vitala a Agricoly, Mučedníků
+@CommuneCist/C3:Oratio proper
+$Oremus
+v. Uděl, prosíme, všemohoucí Bože; abychom, když slavíme slavnost tvých svatých Mučedníků Vitala a Agrícoly, obdrželi pomoc jejich přímluv u tebe.
+$Per Dominum

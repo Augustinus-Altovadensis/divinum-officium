@@ -1,12 +1,15 @@
 @Sancti/11-09
 [Rank]
-In Dedicatione Basilicæ Ss. Salvatoris;;MM.maj.;;5;;ex C8
+In Dedicatione Basilicæ SS. Salvatoris;;MM.maj.;;5;;ex C8
 
 [Rule]
 12 lectiones
 
+[Capitulum Vespera]
+@CommuneCist/C8:Capitulum Vespera 3
+
 [Commemoratio]
-!Commemoratio S. Theodori Martyris
+!Commemoratio S. Theodori, Martyris
 @CommuneCist/C2:Oratio proper
 $Oremus
 v. Deus, qui nos beáti Theodóri Mártyris tui confessióne gloriósa circúmdas et prótegis: præsta nobis ex ejus imitatióne profícere, et oratióne fulcíri.
