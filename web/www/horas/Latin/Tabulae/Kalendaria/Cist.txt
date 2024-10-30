@@ -246,9 +246,9 @@
 11-21=11-21=In Præsentatione of Beatæ Mariæ Virginis=6=
 11-22=11-22=S. Ceciliæ Virginis et Martyris=3=
 11-23=11-23=S. Clement Papæ et Martyris=3=S. Felicitatis Martyris=1=
-11-24=11-24=S. Chrysogoni Martyris=1=
+11-24=11-24=S. Joannis a Cruce (1965)=1=S. Chrysogoni Martyris=1=
 11-25=11-25=S. Catharinæ Virginis et Martyris=3=
-11-29=11-29=S. Saturnini Martyris=1=
+11-29=11-29=Vigilia S. Andrae Apostoli=1.5=S. Saturnini Martyris=1=
 11-30=11-30=S. Andreæ Apostoli=5=
 *December*
 12-01=12-01=S. Eligii, Episcopi et Confessoris=1=

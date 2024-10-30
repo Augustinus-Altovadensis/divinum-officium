@@ -31,6 +31,10 @@ $Deo gratias
 _
 @Commune/C4:Responsory Tertia:1-6
 
+[Responsory Tertia]
+V. Ejhle kněz veliký. 
+R. Jenž za svých dnů zalíbil se Bohu, a shledán byl spravedlivým.
+
 [Lectio2]
 @Commune/C4:Lectio1:s/.*5 /!1 Tim 3:5-9\n5 /s
 8 Deacons in like manner chaste, not double tongued, not given to much wine, not greedy of filthy lucre: 

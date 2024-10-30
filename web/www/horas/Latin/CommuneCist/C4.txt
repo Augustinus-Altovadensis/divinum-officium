@@ -39,8 +39,12 @@ $Deo gratias
 _
 @Commune/C4:Responsory Tertia:1-6
 
+[Capitulum Tertia]
+@:Capitulum Vespera:1-3
+
 [Responsory Tertia]
-@Commune/C4:Versum 1
+V. Ecce sacérdos magnus.
+R. Qui in diébus suis plácuit Deo, et invéntus est justus.
 
 [Responsory Sexta]
 @Commune/C4:Responsory Tertia:8-9

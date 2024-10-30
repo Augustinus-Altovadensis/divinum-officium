@@ -1,8 +1,7 @@
 [Rank]
-S. Martini Papae et Martyris;;Commemoratio.;;1.1;;vide feria
+S. Martini, Papae et Martyris;;Commemoratio.;;1;;vide C2
 
-[Commemoratio]
-!Commemoratio S. Martini
+[Oratio]
 @CommuneCist/C2:Oratio1:s/N\./Martini/
 
 
