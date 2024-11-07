@@ -12,10 +12,7 @@ ex C11;
 @Commune/C10:Ant 2:s/Christ;.*/Christ, alleluia./
 
 [Oratio]
-O God, Who wast pleased that the blessed Mary always a Virgin, being herself the~
-dwelling-place of the Holy Ghost, should, as on this day, be presented in thine~
-earthly Temple, grant, we beseech thee, that by her prayers we may worthily be~
-presented in the heavenly Temple of thy glory.
+Bože, jenž jsi blahoslavenou Marii, vždy Pannu, příbytek Ducha Svatého, chtěl dnešního dne v chrámě obětovat; uděl, prosíme, abychom si na její přímluvu zasloužili býti obětováni v chrámě tvé slávy.
 $Per Dominum eiusdem
 
 [Lectio4]

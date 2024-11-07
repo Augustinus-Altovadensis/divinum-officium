@@ -1,7 +1,7 @@
 @Sancti/11-22
 
 [Rank]
-S. Cæciliæ Virginis et Martyris;;Duplex;;3;;vide C6
+S. Cæciliæ, Virginis et Martyris;;xij. Lect. et M.;;3;;vide C6b
 
 [Ant 1]
 Virgo gloriósa * semper Evangélium Christi gerébat in péctore suo, et non diébus, neque nóctibus 
@@ -13,3 +13,6 @@ Est secrétum, * Valeriáne, quod tibi volo dícere: Angelum Dei hábeo amatóre
 Valeriánus * in cubículo Cæcíliam cum Angelo orántem invénit.;;121
 Benedíco te, * Pater Dómini mei Jesu Christi, quia per Fílium tuum ignis exstínctus est a látere meo.;;126
 Cæcília * fámula tua, Dómine, quasi apis tibi argumentósa desérvit.;;147
+
+[Ant Laudes]
+@:Ant Vespera 3:s/;;.*//g

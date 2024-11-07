@@ -1,5 +1,5 @@
 [Rank]
-S. Caeciliae Virginis et Martyris;;Duplex;;3;;vide C6b
+Sv. Cecilie, Panny a Mučednice;;Duplex;;3;;vide C6b
 
 [Rank1570]
 S. Caeciliae Virginis et Martyris;;Semiduplex;;2;;vide C6b
@@ -22,10 +22,7 @@ Valerian! there is a secret * which I wish to tell thee. I have an Angel of God~
 for a lover, and he is very jealous to keep my body.
 
 [Oratio]
-O God, Who year by year dost gladden thy people by the solemn feast of thy~
-blessed Virgin and Martyr Cecilia, grant unto us, we beseech thee, not only~
-devoutly to observe the same, but also to follow after the pattern of her godly~
-conversation.
+Bože, jenž nás rozradostňuješ každoroční slavností svaté Cecilie, Panny a Mučednice; dej, abychom, když ji ctíme v Officiu, též následovali příklad jejího zbožného jednání.
 $Per Dominum
 
 [Ant Matutinum]
@@ -219,8 +216,7 @@ I bless thee, O Father of my Lord Jesus Christ, * that through thy Son the fire 
 I have asked the Lord for three days, * that I may consecrate my house as a Church.
 
 [Ant 2]
-As dawn was fading * into day, Cecilia cried and said: Arise, O soldiers of Christ,~
-cast away the works of darkness, and put on the armour of light.
+Když už se rozednilo, * blažená Cecilie řekla: Aj, vojáci Kristovi, odvrhněte skutky temnot, a oblečte zbroj světla.
 
 [Ant 3]
 The glorious maiden * carried the Gospel of Christ always in her breast, and meditated therein day and night talking with God and praying.

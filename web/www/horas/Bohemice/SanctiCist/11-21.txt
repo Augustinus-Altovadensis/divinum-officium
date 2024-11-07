@@ -1,0 +1,22 @@
+@Sancti/11-21
+
+[Rank]
+Obětování Panny Marie;;Duplex;;6;;ex C11
+
+[Capitulum Vespera]
+@Commune/C10:Capitulum Vespera
+_
+Responsorium. Jak jsi krásná, má přítelkyně, jak jsi krásná a sladká! Oči tvé jsou jako oči holubice:
+* A co ještě se skrývá urnitř!
+V. Jako purpurová nitka jsou tvé rty, a tvá slova sladká.
+R. A co ještě se skrývá urnitř!
+
+[Commemoratio 2]
+!Připomínka sv. Kolumbána, Opata
+@CommuneCist/C5:Oratio1:s/N\./Kolumbána/
+
+[Responsory3]
+@Commune/C11:Responsory1
+
+[Capitulum Vespera 3]
+@CommuneCist/C11:Capitulum Vespera

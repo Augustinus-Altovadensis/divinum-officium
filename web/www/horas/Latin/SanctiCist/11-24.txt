@@ -1,11 +1,28 @@
 [Rank]
-S. Chrysogoni Martyris;;Simplex;;1.1;;vide C2
+S. Joannis a Cruce, Confessoris et Ecclesiæ Doctoris (1965);;Commemoratio et M.;;1;;vide C5a
 
-[Versum 1]
-V. Glória et honóre coronásti eum, Dómine.
-R. Et constituísti eum super ópera mánuum tuárum.
+[Name]
+Joánne
 
 [Oratio]
+v. Deus, qui sanctum Joánnem Confessórem tuum atque Doctórem perféctae sui abnegatiónis, et Crucem amatórem exímium effecísti: * concéde; ut ejus imitatióni júgiter inhaeréntes, § glóriam assequámur aetérnam. 
+$Per Dominum
+
+[Commemoratio]
+!Commemoratio S. Chrysogoni Martyris
+@CommuneCist/C2:oratio proper
+v. Adésto, Dómine, supplicatiónibus nostris: ut, qui ex iniquitáte nostra reos nos~
+esse cognóscimus, beáti Chrysógoni Mártyris tui intercessióne liberémur.
+$Per Dominum
+
+[Commemoratio 1]
+!Commemoratio S. Chrysogoni Martyris
+Ant. Beátus vir, qui suffert tentatiónem: quia cum probátus fúerit, accípiet corónam vitæ, quam repromísit Deus his, qui díligunt eum.
+_
+V. Glória et honóre coronásti eum, Dómine.
+R. Et constituísti eum super ópera mánuum tuárum.
+_
+$Oremus
 v. Adésto, Dómine, supplicatiónibus nostris: ut, qui ex iniquitáte nostra reos nos~
 esse cognóscimus, beáti Chrysógoni Mártyris tui intercessióne liberémur.
 $Per Dominum

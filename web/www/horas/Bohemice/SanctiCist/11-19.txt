@@ -1,0 +1,15 @@
+[Rank]
+Sv. Pontiana, Papeže a Mučedníka;;Simplex;;1;;vide C4
+
+[Rule]
+vide C4;
+
+[Oratio]
+@Commune/C2::s/N\./Pontiána/
+
+[Commemoratio]
+!Připomínka Sv. Alžběty <i>Durynské</i>, Vdovy
+@CommuneCist/C7a:Oratio3:s/N\./Alžběty/
+
+[Lectio93]
+@Sancti/11-19:Lectio93

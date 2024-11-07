@@ -12,7 +12,7 @@ Officium Beatae Mariae Virginis in Sabbato, Versio Cisterciensis
 @Commune/C11:Versum 1
 
 [Ant 1]
-@CommuneCist/C11:Ant 3
+@Commune/C11:Ant 3
 
 [Versum 2]
 @:Versum 1

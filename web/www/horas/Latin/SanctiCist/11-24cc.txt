@@ -1,0 +1,11 @@
+[Rank]
+S. Chrysogoni Martyris;;Commemoratio;;1;;vide C2
+
+[Versum 1]
+V. Glória et honóre coronásti eum, Dómine.
+R. Et constituísti eum super ópera mánuum tuárum.
+
+[Oratio]
+v. Adésto, Dómine, supplicatiónibus nostris: ut, qui ex iniquitáte nostra reos nos~
+esse cognóscimus, beáti Chrysógoni Mártyris tui intercessióne liberémur.
+$Per Dominum

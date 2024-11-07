@@ -1,3 +1,14 @@
+[Rank]
+Sv. Gertrudy, Panny;;MM. maj.;;5.1;;ex C6
+
+[Oratio]
+Bože, jenž sis v srdci svaté Panny Gertrudy přichystal radostný příbytek; pro její zásluhy a na její přímluvu laskavě očisť skvrny našich srdcí, a uděl nám radost z její společnosti.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Řehoře Divotvůrce, Biskupa a Vyznavače
+@CommuneCist/C4:Oratio:s/N\./Řehoře/
+
 [Responsory1]
 R. The Lord loved Gertrude in perpetual charity, therefore he drew her to him from infancy, and led her into solitude .
 * and spoke to her in her heart.

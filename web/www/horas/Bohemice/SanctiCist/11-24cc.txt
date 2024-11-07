@@ -1,0 +1,10 @@
+[Rank]
+Sv. Chrysogona, Mučedníka;;Commemoratio;;1;;vide C2
+
+[Versum 1]
+V. Slávou a chválou jsi jej korunoval, Pane
+R. A ustanovil jsi jej nad dílem svých rukou.
+
+[Oratio]
+v. Pomoz nám, Pane, v našich prosbách: abychom, když sami víme, že jsme vinni ve své nepravosti, na přímluvu svatého Chrysogona, tvého Mučedníka, jsme osvobozeni.
+$Per Dominum

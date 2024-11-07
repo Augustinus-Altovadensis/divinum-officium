@@ -3,9 +3,26 @@
 [Rank]
 In Præsentatione Beatæ Mariæ Virginis;;Duplex;;6;;ex C11
 
+[Capitulum Vespera]
+@Commune/C10:Capitulum Vespera
+_
+Responsorium. Quam pulchra es, amíca mea, quam pulchra es et suávis! óculi tui columbárum:
+* Absque eo quod intrínsecus latet.
+V. Sicut vitta coccínea lábia tua, et elóquium tuum dulce.
+R. Absque eo quod intrínsecus latet.
+
+[Ant 1]
+@CommuneCist/C11
+
 [Commemoratio 2]
-Commemoratio S. Columbáni Abbátis
-@Commune/C5:Oratio1:s/N\./Columbáni/
+!Commemoratio S. Columbáni Abbátis
+@CommuneCist/C5:Oratio1:s/N\./Columbáni/
 
 [Responsory3]
 @Commune/C11:Responsory1
+
+[Capitulum Vespera 3]
+@CommuneCist/C11:Capitulum Vespera
+
+[Ant 3]
+@CommuneCist/C11

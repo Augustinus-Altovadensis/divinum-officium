@@ -1,26 +1,21 @@
-@Sancti/11-23t
+@Sancti/11-23
 [Rank]
-S. Clementis I Papæ et Martyris;;Duplex;;3;;vide C2
+S. Clementis I Papæ et Martyris;;xij. Lect. et M.;;3;;vide C2
 
-[Ant Vespera]
-Cantántibus orgánis, * Cæcília Dómino decantábat, dicens: Fiat cor meum immaculátum, ut non confúndar.;;109
-Est secrétum, * Valeriáne, quod tibi volo dícere: Angelum Dei hábeo amatórem, qui nímio zelo custódit corpus meum.;;112
-Valeriánus * in cubículo Cæcíliam cum Angelo orántem invénit.;;121
-Benedíco te, * Pater Dómini mei Jesu Christi, quia per Fílium tuum ignis exstínctus est a látere meo.;;126
-Cæcília * fámula tua, Dómine, quasi apis tibi argumentósa desérvit.;;147
+[Rule]
+vide C2;
+12 lectiones
+Antiphonas horas
+
+[Oratio]
+Deus, qui nos ánnua beáti Cleméntis Mártyris tui atque Pontíficis solemnitáte lætíficas: concéde propítius; ut cujus natalítia cólimus, virtútem quoque passiónis imitémur.
+$Per Dominum
 
 [Commemoratio]
-!Commemoratio S. Felicitatis Martyris
-@CommuneCist/C7:Oratio proper
-$Oremus
-v. Præsta, quǽsumus, omnípotens Deus: ut, beátæ Felicitátis Mártyris tuæ solémnia recenséntes, méritis ipsíus protegámur et précibus. 
-$Per Dominum
+@Sancti/11-23:Commemoratio:s/Commune/CommuneCist/g
 
 [Ant 2]
 Orémus omnes * ad Dóminum Jesum Christum, ut osténdat nobis Mártyris sui corpus.
-
-[Ant Vespera 3]
-@Sancti/11-23t:Ant Vespera:s/112/115/ s/111/112/ s/110/111/ 
 
 [Ant 3]
 @Sancti/11-23

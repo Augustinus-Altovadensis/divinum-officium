@@ -1,0 +1,26 @@
+[Rank]
+Sv. Jana od Kříže, Vyznavače a Učitele Církve (1965);;Commemoratio et M.;;1;;vide C5a
+
+[Name]
+Jene
+
+[Oratio]
+v. Bože, jenž jsi svatého Jana, svého Vyznavače, učinil Učitelem dokonalého zapírání sama sebe, a výjimečným milovníkem Kříže; uděl, abychom náležitě přilnuli k jeho nápodobě, a tak dosáhli věčné slávy.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Chrysogona, Mučedníka
+@CommuneCist/C2:oratio proper
+v. Pomoz nám, Pane, v našich prosbách: abychom, když sami víme, že jsme vinni ve své nepravosti, na přímluvu svatého Chrysogona, tvého Mučedníka, jsme osvobozeni.
+$Per Dominum
+
+[Commemoratio 1]
+!Připomínka sv. Chrysogona, Mučedníka
+Ant. Blaze muži, který trpí pokušení, neboť až bude vyzkoušen, přijme korunu života, kterou zaslíbil Bůh těm, kteří jej milují.
+_
+V. Slávou a chválou jsi jej korunoval, Pane
+R. A ustanovil jsi jej nad dílem svých rukou.
+_
+$Oremus
+v. Pomoz nám, Pane, v našich prosbách: abychom, když sami víme, že jsme vinni ve své nepravosti, na přímluvu svatého Chrysogona, tvého Mučedníka, jsme osvobozeni.
+$Per Dominum

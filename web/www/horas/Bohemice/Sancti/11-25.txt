@@ -1,5 +1,5 @@
 [Rank]
-S. Catharinae Virginis Martyris;;Duplex;;3;;vide C6b
+Sv. Kateřiny, Panny a Mučednice;;Duplex;;3;;vide C6b
 
 [RankNewcal]
 S. Catharinae Virginis et Martyris;;Duplex optional;;2;;vide C6b
@@ -9,11 +9,7 @@ vide C6b;
 9 lectiones
 
 [Oratio]
-O God, Who didst give the Law unto Moses upon the top of Mount Sinai, and there~
-didst cause the body of thy blessed Virgin and Martyr Catharine to be~
-marvelously laid by thine holy Angels, grant unto us, we beseech thee, for her~
-sake and at her prayers, that we may finally attain unto that mountain which is~
-Christ.
+Bože, jenž jsi Mojžíšovi dal zákon na vrcholu hory Sinai, a na tomtéž místě jsi skrze své svaté Anděly zázračným způsobem umístil tělo svaté Kateřiny, tvé Panny a Mučednice; uděl, prosíme, abychom pro její zásluhy a na její přímluvu na horu, která se jmenuje Kristus, dokázali dojíti.
 $Qui tecum
 
 [Lectio4]

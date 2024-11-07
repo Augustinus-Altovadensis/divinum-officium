@@ -1,5 +1,5 @@
 [Rank]
-S. Pontianus Papæ et Martyris;;Simplex;;1.1;;vide C4
+S. Pontiani, Papæ et Martyris;;Simplex;;1;;vide C4
 
 [Rule]
 vide C4;
@@ -8,8 +8,8 @@ vide C4;
 @Commune/C2::s/N\./Pontiáni/
 
 [Commemoratio]
-!Commemoratio S. Elisabeth Viduæ
-@CommuneCist/C7a:Oratio3
+!Commemoratio S. Elisabeth, Viduæ
+@CommuneCist/C7a:Oratio3:s/N\./Elísabeth/
 
 [Lectio93]
 @Sancti/11-19:Lectio93
