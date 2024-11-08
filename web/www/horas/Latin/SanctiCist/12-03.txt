@@ -1,4 +1,5 @@
-@Sancti/12-03
-
 [Rank]
-S. Francisci Xaverii Confessoris;;Simplex;;1.1;;vide C5
+S. Galgani, Confessoris;;iij. Lect. et M.;;2.2;;vide C5
+
+[Oratio]
+@Commune/C5:Oratio2:s/N\./Galgáni/

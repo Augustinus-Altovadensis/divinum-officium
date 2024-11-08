@@ -6,22 +6,22 @@ Dominica I Adventus;;Semiduplex;;6
 Antiphonas horas
 
 [Ant Laudes]
-In that day * the mountains shall drop down sweet wine, and the hills shall flow with milk and honey. Alleluia.
-Sing, O daughter of Zion, * and rejoice with all the heart, O daughter of Jerusalem. Alleluia.
-Behold, the Lord shall come, * and all His saints with Him; and it shall come to pass in that day that the light shall be great. Alleluia.
-Lo, every one that thirsteth * come ye to the waters: seek ye the Lord while He may be found. Alleluia.
-Behold, a great Prophet * shall arise, and He shall build up a new Jerusalem. Alleluia.
+V onen den * se hory orosí sladkostí, a pahorky budou oplývat mlékem a medem, alleluja.
+Raduj se, * dcero Sionská, a jásej do sytosti, dcero Jerusalémská, alleluja.
+Ejhle, Hospodin přijde, * a všichni Svatí jeho s ním; a bude v den onen světlo velké, alleluja.
+Všichni, kdo žízníte, * přistupte k vodám; hledejte Pána, dokud jej lze najít, alleluja.
+Ejhle, přijde * veliký Prorok, který obnoví Jerusalém, alleluja.
 
 [Capitulum Vespera]
 !Rom 13:11
-v. And that knowing the season; that it is now the hour for us to rise from sleep. For now our salvation is nearer than when we believed.
+v. Bratři, nastala již hodina, kdy je třeba se probrat ze spánku; nyní totiž je nám spása blíže než tehdy, když jsme uvěřili.
 $Deo gratias.
 
 [Ant 1]
-Behold, the name of the Lord * cometh from far, and the whole earth is full of His glory.
+Hle, jméno Páně * přichází zdaleka, a jeho jasnost naplní celou zemi.
 
 [Oratio]
-Stir up, O Lord, we pray thee, thy strength, and come among us, that whereas through our sins and wickedness we do justly apprehend thy wrathful judgments hanging over us, thy bountiful grace and mercy may speedily help and deliver us;
+Vzbuď, prosíme, Hospodine, moc svou a přijď, abychom si zasloužili z nebezpečí, jímž nás ohrožují naše hříchy, tvou záštitou vytrženi a tvým vykoupením spaseni býti.
 $Qui vivis
 
 [Lectio1]
@@ -132,12 +132,12 @@ R. And this is His name whereby He shall be called.
 R. The Lord our Righteous one.
 
 [Ant 2]
-The Holy Ghost shall come upon thee, * O Mary; fear not, thou shalt bear in thy womb the Son of God. Alleluia.
+Duch Svatý * na tebe sestoupí, Maria; neboj se, budeš nosit v lůně Syna Božího, alleluja.
 
 [Capitulum Nona]
 !Rom 13:13-14
-v. Let us walk honestly, as in the day: not in rioting and drunkenness, not in chambering and impurities, not in contention and envy: But put ye on the Lord Jesus Christ.
+v. Veďme počestný život jako ve dne; ne v hodováních a pitkách, ne v necudnostech a prostopášnostech, ne ve sváru a závisti. Ale oblečte se v Pána Ježíše Krista.
 $Deo gratias
 
 [Ant 3]
-Fear not, Mary, * for thou hast found grace with the Lord; behold, thou shalt conceive in thy womb, and bring forth a son. Alleluia. 
+Neboj se, Maria, * nalezla jsi totiž milost u Hospodina; hle, počneš, a porodíš syna, alleluja. 

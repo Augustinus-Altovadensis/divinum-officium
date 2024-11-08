@@ -1,0 +1,6 @@
+[Rank]
+Sv. Eligia, Biskupa a Vyznavače;;Commemoratio;;1;;vide C4
+
+[Oratio]
+Vyslyš, prosíme, Pane, naše prosby, které ti o slavnosti svatého Eligia, tvého Vyznavače a Biskupa, přinášíme; a protože on si zasloužil tobě náležitě sloužit, pro jeho přímluvné zásluhy nás vysvoboď ode všech hříchů.
+$Per Dominum

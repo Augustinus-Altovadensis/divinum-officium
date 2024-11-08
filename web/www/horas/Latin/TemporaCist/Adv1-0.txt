@@ -1,12 +1,18 @@
 @Tempora/Adv1-0
 
+[Rank]
+Dominica I Adventus;;Semiduplex;;5.1
+
 [Rule]
 12 lectiones
 
 [Capitulum Vespera]
 @Tempora/Adv1-0
 _
-@Psalterium/Major Special:AdvC Vespera:s/.*_//s
+Responsorium. Missus est Gábriel Angelus ad Maríam Vírginem desponsátam Joseph, núntians ei verbum; et expavéscit Virgo de lúmine: ne tímeas, María, invenísti grátiam apud Dóminum: 
+* Ecce concípies, et páries, et vocábitur Altíssimi Fílius.
+V. Dabit ei Dóminus Deus sedem David, patris ejus, et regnábit in domo Jacob in ætérnum.
+R. Ecce concípies, et páries, et vocábitur Altíssimi Fílius. 
 
 [Capitulum Laudes]
 @Tempora/Adv1-0
@@ -16,6 +22,11 @@ _
 [Versum 2]
 V. Emítte Agnum, Dómine, dominatórem terræ.
 R. De Petra desérti ad montem fíliæ Sion.
+
+[Capitulum Vespera 3]
+@Tempora/Adv1-0:Capitulum Vespera
+_
+@Psalterium/Major Special:AdvC Vespera:s/.*_//s
 
 [Lectio1]
 @Tempora/Adv1-0:Lectio1

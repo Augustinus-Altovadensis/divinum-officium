@@ -1,0 +1,13 @@
+[Rank]
+S. Saturnini Martyris;;Simplex;;1;;vide C2
+
+[Rule]
+vide C2;
+
+[Commemoratio]
+!Připomínka sv. Saturnina, Mučedníka
+@CommuneCist/C2:Oratio proper
+$Oremus
+v. Bože, jenž nám ukládáš těšit se z narození svatého Saturnina, tvého Mučedníka, pro nebe: uděl nám i pomoc pro jeho zásluhy.
+$Per Dominum
+

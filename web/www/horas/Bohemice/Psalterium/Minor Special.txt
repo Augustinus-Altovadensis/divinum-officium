@@ -90,7 +90,7 @@ R. And from those of others spare thy servant.
 
 [Adv Tertia]
 !Jer 23:5
-v. Behold the days come, saith the Lord, and I will raise up to David a just branch: and a king shall reign, and shall be wise, and shall execute judgement and justice in the earth.
+v. Hle, blíží se dni, praví Hospodin, kdy vzbudím Davidovi zákonitý výhonek, krále, který bude panovat moudře a zjedná právo a spravedlnost na zemi.
 $Deo gratias
 
 [Responsory Adv Tertia]
@@ -101,12 +101,12 @@ R. O God, Lord of hosts.
 &Gloria
 R. Come to my rescue * O God, Lord of hosts.
 _
-V. And the Gentiles shall fear thy name, O Lord.
-R. And all the kings of the earth thy glory.
+V. Pohané se budou bát tvého jména, Hospodine.
+R. A a všichni králové země tvé slávy.
 
 [Adv Sexta]
 !Jer 23:6
-v. In those days shall Juda be saved, and Israel shall dwell confidently: and this is the name that they shall call him: the Lord our just one.
+v. Za jeho dnů dojde Juda spásy a Israel bude bydlet v bezpečí. To je jméno, kterým ho budou nazývat: „Hospodin je náš spravedlivý“.
 $Deo gratias
 
 [Responsory Adv Sexta]
@@ -117,12 +117,12 @@ R. Thy mercy.
 &Gloria
 R. Show us, O Lord, * thy mercy.
 _
-V. Remember us, O Lord, in the favor of thy people.
-R. Visit us with thy salvation.
+V. Pamatuj na nás, Hospodine, ku dobru tvého lidu.
+R. Navštiv nás svou spásou.
 
 [Adv Nona]
 !Isa 14:1
-v. Her time is near at hand, and her days shall not be prolonged. For the Lord will have mercy on Jacob, and will yet choose out of Israel.
+v. Blízko jest, aby přišel jeho čas, a jeho dny se nebudou oddalovat. Hospodin se totiž smiluje nad Jakubem, a Israel bude zachráněn.
 $Deo gratias
 
 [Responsory Adv Nona]
@@ -440,16 +440,14 @@ Amen.
 # Cistercian part
 
 [Responsory Adv TertiaC]
-V. Come to my rescue, O God, Lord of hosts.
-R. Show us thy face, and we shall be saved. 
+@:Responsory Adv Tertia:8-9
 
 [Responsory Adv SextaC]
-V. Show us, O Lord, thy mercy.
-R. And grant us thy salvation.
+@:Responsory Adv Sexta:8-9
 
 [Responsory Adv NonaC]
-V. The Lord shall arise upon thee, Jerusalem.
-R. And his glory shall be seen upon thee. 
+V. Pane, mocný Bože, obrať nás.
+R. A ukaž nám svou tvář, a budeme spaseni.
 
 [Responsory Quad TertiaC]
 V. Říká Pánu: Ty mě vždy přijmeš a jsi mé útočiště.

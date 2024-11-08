@@ -1,5 +1,5 @@
 [Rank]
-Feria III infra Hebdomadam I Adventus;;Feria major;;2
+Úterý v prvním týdnu Adventu;;Feria major;;2
 
 [Rule]
 Oratio Dominica
@@ -44,7 +44,7 @@ R. To visit you in peace.
 R. To visit you in peace.
 
 [Ant 2]
-Before they came together, * Mary was found with child of the Holy Ghost. Alleluia.
+Ještě než začali žít spolu, * bylo shledáno, že Maria počala z Ducha Svatého, alleluja.
 
 [Ant 3]
-Seek ye the Lord * while He may be found; call ye upon Him while He is near. Alleluia.
+Hledejte Pána, * dokud jej lze najít; vzývejte jej, dokud je blízko, alleluja.

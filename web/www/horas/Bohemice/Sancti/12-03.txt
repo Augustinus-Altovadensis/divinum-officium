@@ -6,9 +6,7 @@ vide C5;mtv
 9 lectiones;
 
 [Oratio]
-O God, who wast pleased, by the preaching and miracles of blessed Francis, to~
-add the nations of the Indies to thy Church; mercifully grant that, as we~
-venerate his glorious merits, so we may also follow the example of his virtues.
+Bože, jenž jsi národy Indů chtěl připojit ke své Církvi kázáním i zázraky svatého Františka; uděl laskavě, abychom, když ctíme jeho slavné zásluhy, napodobovali také příklady jeho ctností.
 $Per Dominum
 
 [Lectio4]

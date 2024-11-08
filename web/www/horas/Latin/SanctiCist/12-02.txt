@@ -1,5 +1,5 @@
 @Sancti/12-02
 [Rank]
-S. Bibianæ Virginis et Martyris;;Commemoratio;;1.1;;vide C6
+S. Bibianæ Virginis et Martyris;;Commemoratio;;1;;vide C6
 
 

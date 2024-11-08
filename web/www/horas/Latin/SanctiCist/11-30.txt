@@ -1,7 +1,7 @@
 @Sancti/11-30
 
 [Rank]
-S. Andreæ Apostoli;;MM. maj.;;5;;ex C1
+S. Andreæ Apostoli;;MM. maj.;;5.1;;ex C1
 
 [Rule]
 12 lectiones
@@ -10,6 +10,7 @@ S. Andreæ Apostoli;;MM. maj.;;5;;ex C1
 Diléxit * Andréam Dóminus in odórem suavitátis, allelúia.
 Bíduo vivens * pendébat in cruce pro Christi nómine beátus Andréas, et docébat pópulum.
 Non me permíttas, Dómine, * fámulum tuum a te separári, tempus est, ut commendétur terræ corpus meum.
+Maximílla Christo amábilis * tulit corpus Apóstoli, óptimo loco cum aromátibus sepelívit.
 Qui persequebántur justum, * demersísti eos, Dómine, in inférno, et in ligno crucis dux justi fuísti.
 
 [Capitulum Vespera]

@@ -1,0 +1,5 @@
+[Rank]
+Sv. Galgana, Vyznavače;;iij. Lect. et M.;;2.2;;vide C5
+
+[Oratio]
+@Commune/C5:Oratio2:s/N\./Galgana/

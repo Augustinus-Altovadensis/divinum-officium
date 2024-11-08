@@ -1,0 +1,9 @@
+[Rank]
+Sv. Barbory, Panny a Mučednice;;MM. min.;;4;;ex C6
+
+[Rule]
+ex C6;
+
+[Oratio]
+@Commune/C6::s/N\./Barbory/
+

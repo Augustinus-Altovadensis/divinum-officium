@@ -156,10 +156,10 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.
 5 = Per arma justítiæ * virtútis Dei commendémus nosmetípsos in multa patiéntia.
 
 [QuadC]
-1 = Thesaurizáte * vobis thesáuros in cœlo, ubi nec ærúgo, nec tínea demolítur.
-2 = Non in solo pane * vivit homo, sed in omni verbo, quod procédit de ore Dei.
-3 = Commendémus nosmetípsos * in multa patiéntia, in jejúniis multis, per arma justítiæ.
-4 = 
+1 = 
+2 = Thesaurizáte * vobis thesáuros in cœlo, ubi nec ærúgo, nec tínea demolítur.
+3 = Non in solo pane * vivit homo, sed in omni verbo, quod procédit de ore Dei.
+4 = Commendémus nosmetípsos * in multa patiéntia, in jejúniis multis, per arma justítiæ.
 5 = Per arma justítiæ * virtútis Dei commendémus nosmetípsos in multa patiéntia.
 
 [Quad5]
@@ -170,10 +170,10 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.
 5 = Numquid rédditur * pro bono malum, quia fodérunt fóveam ánimæ meæ.
 
 [Quad5C]
-1 = Vide, Dómine, * afflictiónem meam, quóniam eréctus est inimícus meus.
-2 = Judicásti, Dómine, * causam ánimæ meæ, defénsor vitæ meæ, Dómine, Deus meus.
-3 = Pópule meus, * quid feci tibi? aut quid moléstus fui? Respónde mihi.
-4 =
+1 = 
+2 = Vide, Dómine, * afflictiónem meam, quóniam eréctus est inimícus meus.
+3 = Judicásti, Dómine, * causam ánimæ meæ, defénsor vitæ meæ, Dómine, Deus meus.
+4 = Pópule meus, * quid feci tibi? aut quid moléstus fui? Respónde mihi.
 5 = Numquid rédditur * pro bono malum, quia fodérunt fóveam ánimæ meæ.
 
 [Pasch]

@@ -12,9 +12,7 @@ vide C4;
 9 lectiones;
 
 [Oratio]
-O God, who didst glorify the blessed Bishop Nicholas with innumerable miracles;~
-grant, we beseech thee, that, by his merits and prayers, we may be saved from~
-the fires of hell.
+Bože, jenž jsi svatého Mikuláše, Biskupa, ozdobil nesčetnými zázraky; uděl, prosíme, abychom pro jeho zásluhy a na jeho prosby byli vysvobozeni od pekelného ohně.
 $Per Dominum
 
 [Lectio4]

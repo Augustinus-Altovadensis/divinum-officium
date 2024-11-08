@@ -611,7 +611,7 @@ sub concurrence {
 		$rank = $wrank[2] = 4.9;
 	}
 	
-	if ($cwrank[0] =~ /Dominica/i && $cwrank[0] !~ /infra octavam/i && $version !~ /1955|196/) {
+	if ($cwrank[0] =~ /Dominica/i && $cwrank[0] !~ /infra octavam/i && $version !~ /1955|196|Cistercien/) {
 		$cwrank[2] = $crank = $version =~ /trident/i ? 2.9 : 4.9;
 	}
 	
@@ -650,7 +650,7 @@ sub concurrence {
 		if ($ccomrank >= ($rank >= ($version =~ /trident|Cistercien/i ? 6 : 5) && $wrank[0] !~ /feria|octava/i ? 2.1 : 1.1 && $version !~ /Cistercien/ ) && $version !~ /1955|196/) {
 			$vespera = 3;
 			$dayname[2] = $tomorrowname[2] . "<br>Vespera de Officio occurente, Commemoratio Sanctorum tantum";
-			unless ($version =~ /Cistercien/)
+			unless ($version =~ /Cistercien/ && $testmode =~ /seasonal/i) # TEST (1.12.2024: Cistercien: Vespers showed Comm. of Monday)
 			{
 			$cwrank = '';
 			$ctname = '';
@@ -716,8 +716,9 @@ sub concurrence {
 		}
 	} else {
 		#	before DA, more Semiduplex and Duplex where treated as "A capitulo"
-		my $flrank = $version =~ /trident|Cistercien/i ? (($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2 : ($rank >= 3 && $rank < 4.9 && $rank != 4 && $rank != 3.2) ? 3 : $rank) : $rank;
-		my $flcrank = $version =~ /trident|Cistercien/i ? ($crank < 2.91  ? 2 : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank))
+		# Cistercien: in flc?rank (both), there was /trident|Cistercien/i. It flattened Dom. I. Adv., so that it yielded to St. Andrew (30.11.2024, Vespers), which is wrong. Now this works. Testing needed.
+		my $flrank = $version =~ /trident/i ? (($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2 : ($rank >= 3 && $rank < 4.9 && $rank != 4 && $rank != 3.2) ? 3 : $rank) : $rank;
+		my $flcrank = $version =~ /trident/i ? ($crank < 2.91  ? 2 : ($cwinner{Rank} =~ /Dominica/i ? 2.99 : ($crank < 4.9 && $crank != 4) ? 3 : $crank))
 			: ($version =~ /divino/i && $cwinner{Rank} =~ /Dominica/i) ? 4.9 : $crank;
 		
 		# in 1906, infra 8vam is no longer equal to Semiduplex but still to Sunday in precedence but not sequence

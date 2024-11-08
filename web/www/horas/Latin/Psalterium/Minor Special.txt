@@ -567,22 +567,20 @@ _
 @:Adv Tertia
 
 [Responsory Adv TertiaC]
-V. Veni ad liberándum nos, Dómine, Deus virtútum.
-R. Osténde fáciem tuam, et salvi érimus.
+@:Responsory Adv Tertia:8-9
 
 [Adv SextaC]
 @:Adv Sexta
 
 [Responsory Adv SextaC]
-V. Osténde nobis, Dómine, misericórdiam tuam.
-R. Et salutáre tuum da nobis.
+@:Responsory Adv Sexta:8-9
 
 [Adv NonaC]
 @:Adv Nona
 
 [Responsory Adv NonaC]
-V. Super te, Jerúsalem, oriétur Dóminus.
-R. Et glória ejus in te vidébitur.
+V. Dómine Deus virtútum, convérte nos.
+R. Et osténde fáciem tuam, et salvi érimus.
 
 [Quad TertiaM]
 @:Quad Tertia

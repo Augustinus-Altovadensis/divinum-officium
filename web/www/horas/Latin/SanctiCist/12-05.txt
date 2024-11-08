@@ -1,7 +1,7 @@
 @Sancti/12-03
 
-[Rank]
-S. Francisci Xaverii Confessoris;;iij. Lect. et M.;;3;;vide C5
+[Rule]
+vide C5;mtv
 
-[Hymnus Vespera]
-@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/
+[Rank]
+S. Francisci Xaverii Confessoris;;iij. Lect. et M.;;2.2;;vide C5

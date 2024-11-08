@@ -79,11 +79,11 @@ Sabbato = May my request * come before thee, O Lord.
 87,102(1-12),102(13-22)
 
 [Adv1]
-1 = In that day * the mountains shall drop sweetness,  and the hills shall flow with milk and honey, alleluia.
-2 = Rejoice greatly, * O daughter of Sion, shout for joy, O daughter of Jerusalem, alleluia.
-3 = Behold the Lord will come, * and all his Saints with him: and in that day there shall be a great light, alleluia.
-4 = All ye that thirst, * come to the waters: seek the Lord, while he may be found, alleluia.
-5 = Behold, there will come * a great Prophet, and he shall renew Jerusalem, alleluia.
+1 = V onen den * se hory orosí sladkostí, a pahorky budou oplývat mlékem a medem, alleluja.
+2 = Raduj se, * dcero Sionská, a jásej do sytosti, dcero Jerusalémská, alleluja.
+3 = Ejhle, Hospodin přijde, * a všichni Svatí jeho s ním; a bude v den onen světlo velké, alleluja.
+4 = Všichni, kdo žízníte, * přistupte k vodám; hledejte Pána, dokud jej lze najít, alleluja.
+5 = Ejhle, přijde * veliký Prorok, který obnoví Jerusalém, alleluja.
 
 [Adv2]
 1 = Behold in the clouds of heaven * the Lord is coming with great power and majesty, alleluia.

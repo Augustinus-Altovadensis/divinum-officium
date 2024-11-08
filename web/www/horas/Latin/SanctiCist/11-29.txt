@@ -1,8 +1,21 @@
-@Sancti/11-29v
+[Rank]
+In Vigilia S. Andreæ Apostoli;;Vigilia;;1.5;;ex C1v
+
+[Rule]
+ex C1v;
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
+Laudes 2
+
+[Oratio]
+Quǽsumus omnípotens Deus: ut beátus Andréas Apóstolus, cujus prævenímus festivitátem, tuum pro nobis implóret auxílium; ut a nostris reátibus absolúti, a cunctis étiam perículis eruámur.
+$Per Dominum
 
 [Commemoratio]
-!Commemoratio S. Saturnini, Martyris
+!Commemoratio S. Saturnini Martyris
 @CommuneCist/C2:Oratio proper
-$Oremus
 v. Deus, qui nos beáti Saturníni Mártyris tui concédis natalício pérfrui: ejus nos tríbue méritis adjuvári.
 $Per Dominum
+

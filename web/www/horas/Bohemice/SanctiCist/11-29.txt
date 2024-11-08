@@ -1,0 +1,20 @@
+[Rank]
+Vigilie sv. Ondřeje, Apoštola;;Vigilia;;1.5;;ex C1v
+
+[Rule]
+ex C1v;
+Responsory Feria
+Preces feriales
+Versum Feria
+no Te Deum
+Laudes 2
+
+[Oratio]
+Prosíme, všemohoucí Bože, ať nám svatý Ondřej, Apoštol, jehož slavnost zítra slavíme, vyprošuje tvou pomoc; abychom očištěni od svých poskvrn, také ze všech nebezpečenství byli vysvobozeni.
+$Per Dominum
+
+[Commemoratio]
+!Připomínka sv. Saturnina, Mučedníka
+@CommuneCist/C2:Oratio proper
+v. Bože, jenž nám ukládáš těšit se z narození svatého Saturnina, tvého Mučedníka, pro nebe: uděl nám i pomoc pro jeho zásluhy.
+$Per Dominum

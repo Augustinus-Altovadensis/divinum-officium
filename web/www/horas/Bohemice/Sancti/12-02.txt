@@ -1,19 +1,15 @@
 [Rank]
-S. Bibianae Virginis Martyris;;Semiduplex;;2;;vide C6b
+Sv. Bibiany, Panny a Mučednice;;Semiduplex;;2;;vide C6b
 
 [Rank1570]
-S. Bibianae Virginis et Martyris;;Simplex;;1.1;;vide C6b
+Sv. Bibiany, Panny a Mučednice;;Simplex;;1.1;;vide C6b
 
 [Rule]
 vide C6b;
 9 lectiones
 
 [Oratio]
-O God, the Giver of all good gifts, Who unto the lily of pure maidenhood in the~
-hand of thy servant Bibiana, didst join the palm of a glorious martyrdom, grant~
-us, we beseech thee, at her pleading, that our hearts and minds being joined to~
-thee by thy love, we may escape all dangers which do presently beset us, and~
-finally attain unto thine everlasting joy.
+Bože, dárce všeho dobrého, jenž jsi ve své služebnici Bibianě palmu mučednictví spojil s panenským květem; naše mysli na její přímluvu k sobě v lásce připoj, abychom po odstranění nebezpečí dosáhli věčných odměn.
 $Per Dominum
 
 [Lectio4]

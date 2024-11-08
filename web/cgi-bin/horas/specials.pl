@@ -793,6 +793,12 @@ sub psalmi_minor {
 
     if ( $version =~ /Cistercien/i )
       {
+        $ind =
+        ($hora =~ /Prima/i) ? 1
+      : ($hora =~ /Tertia/i) ? 2
+      : ($hora =~ /Sexta/i) ? 3
+      : ($hora =~ /Nona/i) ? 4
+      : -1;
         $name =
         ($dayname[0] =~ /Adv1/i) ? 'Adv1'
       : ($dayname[0] =~ /Adv2/i) ? 'Adv2'

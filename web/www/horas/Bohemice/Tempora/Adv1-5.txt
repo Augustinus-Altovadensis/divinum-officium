@@ -1,5 +1,5 @@
 [Rank]
-Feria VI infra Hebdomadam I Adventus;;Feria major;;2
+Pátek v prvním týdnu Adventu;;Feria major;;2
 
 [Rule]
 Oratio Dominica
@@ -25,7 +25,7 @@ Lesson from the book of Isaias
 10 Blind the heart of this people, and make their ears heavy, and shut their eyes: lest they see with their eyes, and hear with their ears, and understand with their heart, and be converted and I heal them.
 
 [Ant 2]
-He that is both God and man * shall come of the house of David and sit in David's seat. Alleluia.
+Hle přijde * Bůh a člověk z domu Davidova, a posadí se na trůn, alleluja.
 
 [Ant 3]
-Out of Egypt * have I called My Son; He shall come to save His people.
+Z Egypta * jsem povolal svého Syna; přijde, aby uzdravil svůj lid.

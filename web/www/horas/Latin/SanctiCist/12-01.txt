@@ -1,5 +1,5 @@
 [Rank]
-S. Eligii, Episcopi et Confessoris;;Commemoratio;;1.1;;vide C4
+S. Eligii, Episcopi et Confessoris;;Commemoratio;;1;;vide C4
 
 [Oratio]
 Exáudi, quǽsumus, Dómine, preces nostras, quas in beáti Elígii, Confessóris tui atque Pontíficis, solemnitáte deférimus: et, qui tibi digne méruit famulári, ejus intercedéntibus méritis, ab ómnibus nos absólve peccátis.

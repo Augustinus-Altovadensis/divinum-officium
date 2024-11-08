@@ -1,5 +1,5 @@
 [Rank]
-Feria IV infra Hebdomadam I Adventus;;Feria major;;2
+Středa v prvním týdnu Adventu;;Feria major;;2
 
 [Rule]
 Oratio Dominica
@@ -38,7 +38,7 @@ R. And it was shut again, for it is a figure of the Virgin, in that after child-
 11 Woe to the wicked unto evil: for the reward of his hands shall be given him.
 
 [Ant 2]
-Out of Zion * shall go forth the law, and the word of the Lord from Jerusalem.
+Ze Sionu * vzejde zákon, a slovo Páně z Jerusaléma.
 
 [Ant 3]
-There cometh One mightier * than I after me, the latchet of Whose shoes I am not worthy to unloose.
+Přijde * silnější než já po mě, a já nejsem hoden mu rozvázat přezky jeho bot.

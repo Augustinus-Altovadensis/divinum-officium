@@ -1,5 +1,5 @@
 [Rank]
-Sabbato infra Hebdomadam I Adventus;;Feria major;;2
+Sobota v prvním týdnu Adventu;;Feria major;;2
 
 [Rule]
 Oratio Dominica
@@ -27,4 +27,4 @@ Lesson from the book of Isaias
 15 He shall eat butter and honey, that he may know to refuse the evil, and to choose the good.
 
 [Ant 2]
-Fear not * Zion, behold, thy God cometh, Alleluia.
+Sione, neboj se, * hle, přijde tvůj Bůh, alleluja.

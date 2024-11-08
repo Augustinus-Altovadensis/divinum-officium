@@ -1,5 +1,5 @@
 [Rank]
-Feria II infra Hebdomadam I Adventus;;Feria major;;2
+Pondělí v prvním týdnu Adventu;;Feria major;;2
 
 [Rule]
 Oratio Dominica
@@ -48,7 +48,7 @@ R. For in that day the mountains shall drop down sweet wine, and the hills shall
 R. For in that day the mountains shall drop down sweet wine, and the hills shall flow with milk and honey, saith the Lord.
 
 [Ant 2]
-The angel of the Lord * announced unto Mary, and she conceived of the Holy Ghost. Alleluia.
+Anděl Páně * zvěstoval Marii, a ona počala z Ducha svatého, alleluja.
 
 [Ant 3]
 Lift up thine eyes, * O Jerusalem, and see that thy King is mighty behold, thy Saviour shall come and loose thee from thy chain.
