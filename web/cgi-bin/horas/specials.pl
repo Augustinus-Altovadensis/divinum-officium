@@ -1376,10 +1376,12 @@ sub oratio {
 		my @cvesp = (2);  # assume laudes unless otherwise
 		
 		# add commemorated from winner
-		unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Pent01/ && $version !~ /Cistercien/i)
-        || ($rank >= 7 && $dayname[0] !~ /Pasc[07]|Pent01/ && $version =~ /Cistercien/i)
-#				|| $rule =~ /no commemoratio/i
-				|| ($version =~ /196/ && $winner{Rule} =~ /nocomm1960/i)) {
+    unless (
+      # Duplex I. classis: excludes Commemoratio reduced to Simplex
+      ($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Pent01/)
+      || ($version =~ /196/ && $winner{Rule} =~ /nocomm1960/i)
+    ) {
+
 			if (exists($w{"Commemoratio $vespera"})) {
 				$c = getrefs($w{"Commemoratio $vespera"}, $lang, $vespera, $w{Rule});
 			} elsif (exists($w{Commemoratio}) && ($vespera != 3 || $winner =~ /Tempora/i || $w{Commemoratio} =~ /!.*O[ckt]ta/i)) {
@@ -1458,10 +1460,10 @@ sub oratio {
 				}
 				
 				# add commemorated from cwinner
-				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]|Nat0?6/ && $version !~ /Cistercien/i )
-        || ($rank >= 7 && $dayname[0] !~ /Pasc[07]|Nat0?6/ && $version =~ /Cistercien/i)
-				|| $rule =~ /no commemoratio/i
-				|| ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i)) {
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]|Nat0?6/)
+          || $rule =~ /no commemoratio/i
+          || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
+        {
 					if (exists($c{"Commemoratio $cvespera"})) {
 						$c = getrefs($c{"Commemoratio $cvespera"}, $lang, $cvespera, $c{Rule});
 					} elsif (exists($c{Commemoratio}) && ($cvespera != 3 || $cwinner =~ /Tempora/i || $c{Commemoratio} =~ /!.*O[ckt]ta/i)) {
@@ -1531,10 +1533,10 @@ sub oratio {
 				}
 				
 				# add commemorated from commemo
-				unless(($rank >= 6 && $dayname[0] !~ /Pasc[07]/ && $version !~ /Cistercien/i)
-        || ($rank >= 7 && $dayname[0] !~ /Pasc[07]/ && $version =~ /Cistercien/i)
-				|| $rule =~ /no commemoratio/i
-				|| ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i)) {
+        unless (($rank >= ($version !~ /cist/i ? 6 : 7) && $dayname[0] !~ /Pasc[07]/)
+          || $rule =~ /no commemoratio/i
+          || ($version =~ /196/ && $c{Rule} =~ /nocomm1960/i))
+        {
 					if (exists($c{"Commemoratio $cv"})) {
 						$c = getrefs($c{"Commemoratio $cv"}, $lang, $cv, $c{Rule});
 					} elsif (exists($c{Commemoratio}) && ($cv != 3 || $commemo =~ /Tempora/i || $c{Commemoratio} =~ /!.*O[ckt]ta/i)) {
@@ -1582,7 +1584,7 @@ sub oratio {
 					$c = vigilia_commemoratio($commemo, $lang);
 					if ($c) {
 						$ccind++;
-						$key = $ccind + 8500; # 10000 - 1.5 * 1000
+						$key = $ccind + ($version !~ /cist/i ? 8500 : 8750);    # 10000 - 1.5 * 1000
 						$cc{$key} = $c;
 					}
 				}

@@ -9,6 +9,7 @@ use lib "$Bin/..";
 
 # Defines ScriptFunc and ScriptShortFunc attributes.
 use horas::Scripting;
+use DivinumOfficium::Date qw(date_to_days days_to_date);
 my @lines;
 my $precesferiales;
 $a = 1;
