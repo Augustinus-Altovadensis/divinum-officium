@@ -926,27 +926,50 @@ if (
 				$cvespera = 0;
 				@ccommemoentries = ();
 				$ccomrank = 0;
-		} elsif ($rank < 2		# no 2nd Vespers of a Simplex
-				|| ($version =~ /196/ && $cwinner{Rank} =~ /Dominica/i && $rank < 5) # on any Sunday, nothing of a preceding III. cl feast
-				|| ($crank >= 6 && !($rank == 2.1 || $rank == 2.99 || $rank == 3.9 || $rank >= 4.2 ) && $cwrank[0] !~ /Dominica|feria|in.*octava/i)  # in 1st Vespers of Duplex I. cl. only commemoration of Feria major, Dominica (major), 8va privilegiata and Duplex II./I. cl
-				|| ($cwinner =~ /12-25|01-01/) # on Christmas Eve and New Year's Eve, nothing of a preceding Sunday
-				|| ($crank >= 5 && !($rank == 2.1 || $rank >= 2.99) && $cwrank[0] !~ /Dominica|feria|in.*octava/i)) { # in 1st Vespers of Duplex II. cl. also commemoration of any Duplex
-			@dayname = @tomorrowname;
-			$vespera = 1;
-			$cvespera = 3;
-			if ($comrank == 2.1 || $comrank == 2.99 || $comrank == 3.9) { # privilidged Feria, Dominica, or infra 8vam
-				$dayname[2] .= "<br>Vespera de sequenti; commemoratio de off. priv. tantum";
-			} else {
-				$dayname[2] .= "<br>Vespera de sequenti; nihil de præcedenti";
-			}
-			$rank = $crank;
-			$commune = $ccommune;
-			$communetype = $ccommunetype;
-			$winner = $cwinner;
-			$cwinner = '';
-			%cwinner = ();
+		} elsif (
+
+      # No 2nd Vespers of a Simplex
+      ($rank < 2 && !($rank == 1.15 && $winner =~ /tempora/i))
+
+      # Rubr. 1960: on any Sunday or 1st Vespers of a Feast of the Lord , nothing of a preceding III. cl feast
+      || ( $version =~ /196/
+        && ($cwrank[0] =~ /Dominica/i || ($cwinner{Rule} =~ /Festum Domini/i && $dayofweek == 6))
+        && $rank < 5)
+
+      # in 1st Vespers of Duplex I. cl. only commemoration of Feria major, Dominica (major), 8va privilegiata and Duplex II./I. cl
+      || ( $crank >= 6
+        && !($rank == 1.15 || $rank == 2.1 || $rank == 2.99 || $rank == 3.9 || $rank >= 4.2)
+        && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
+
+      # on Christmas Eve and New Year's Eve, nothing of a preceding Sunday
+      || ($cwinner =~ /12-25|01-01/)
+
+      # in 1st Vespers of Duplex II. cl. also commemoration of any Duplex
+      || ( $crank >= 5
+        && !($rank == 1.15 || $rank == 2.1 || $rank >= 2.99)
+        && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
+    ) {
+      @dayname = @tomorrowname;
+      $vespera = 1;
+      $cvespera = 3;
+
+      if (($comrank == 1.15 || $comrank == 2.1 || $comrank == 2.99 || $comrank == 3.9) && $cwinner !~ /12-25|01-01/)
+      {    # privilidged Feria, Dominica, or infra 8vam
+        $dayname[2] .= "<br/>Vespera de sequenti; commemoratio de off. priv. tantum";
+      } else {
+        $dayname[2] .= "<br />Vespera de sequenti; nihil de præcedenti";
+      }
+      $rank = $crank;
+      $commune = $ccommune;
+      $communetype = $ccommunetype;
+      $winner = $cwinner;
+      $cwinner = '';
+      %cwinner = ();
 		} elsif ($version !~ /196|Cistercien/
-				&& ($winner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat1/i && (($rank <= 5 && $crank > 2.1 && $cwinner{Rule} =~ /Festum Domini/i)))) {
+				&& ($winner{Rank} =~ /Dominica/i 
+          && $dayname[0] !~ /Nat1/i 
+          && (($rank <= 5 && $crank > 2.1 && $cwinner{Rule} =~ /Festum Domini/i)))
+    ) {
 			# Pre-1960, feasts of the Lord of nine lessons take precedence over a lesser Sunday.
 			# and doubles of at least the II. cl. beat all Sundays in concurrence.
 			$vespera = 1;
@@ -960,29 +983,61 @@ if (
 			$rank = $crank;
 			$commune = $ccommune;
 			$communetype = $ccommunetype;
-		} elsif (($version !~ /196/ && ($cwinner{Rank} =~ /Dominica/i  && $dayname[0] !~ /Nat1/i && (($crank <= 5 && $rank > 2.1 && $winner{Rule} =~ /Festum Domini/i)))) # Pre-1960, The other way round then above
-			|| ($version =~ /196/ && $rank >= $crank))	{ # In 1960, in concurrence of days of equal rank, the preceding takes precedence
-			$vespera = 3;
-			$cvespera = 1;
-			$commemoratio = $cwinner;
-			$dayname[2] = "Commemoratio: $cwrank[0]";
-			$dayname[2] .= "<br>Vespera de præcedenti; commemoratio de sequenti Dominica";
-		} elsif ($flcrank == $flrank) {			# "flattend ranks" are equal => a capitulo
-			$commemoratio = $winner;
-			%commune = ($version =~ /trident|Cistercien/i || $flrank >= 5) ? %{officestring($lang1, $commune, 0)} : ();	#	Commune psalms only in Trident or Dpx I./II.cl
-			$tomorrowname[2] = "Commemoratio: $wrank[0]";
-			$antecapitulum = (exists($winner{'Ant Vespera 3'})) ? $winner{'Ant Vespera 3'}
-			: (exists($winner{'Ant Vespera'})) ? $winner{'Ant Vespera'}
-			: (exists($commune{'Ant Vespera 3'})) ? $commune{'Ant Vespera 3'}
-			: (exists($commune{'Ant Vespera'})) ? $commune{'Ant Vespera'} : '';
-			if ($antecapitulum) {
-				my %winner2 = %{officestring($lang2, $winner, 0)};
-				my %commune2 = %{officestring($lang2, $commune, 0)};
-				$antecapitulum2 = (exists($winner2{'Ant Vespera 3'})) ? $winner2{'Ant Vespera 3'}
-				: (exists($winner2{'Ant Vespera'})) ? $winner2{'Ant Vespera'}
-				: (exists($commune2{'Ant Vespera 3'})) ? $commune2{'Ant Vespera 3'}
-				: (exists($commune2{'Ant Vespera'})) ? $commune2{'Ant Vespera'} : '';
-			}
+		} elsif (
+
+      # Pre-1960, The other way round then above
+      (
+        $version !~ /196/ && ($cwinner{Rank} =~ /Dominica/i
+          && $dayname[0] !~ /Nat1/i
+          && (($crank <= 5 && $rank > 2.1 && $winner{Rule} =~ /Festum Domini/i)))
+      )
+
+      # In 1960, in concurrence of days of equal rank, the preceding takes precedence
+      || ($version =~ /196/ && $rank >= $crank)
+    ) {
+      $vespera = 3;
+      $cvespera = 1;
+      $commemoratio = $cwinner;
+      $dayname[2] = "Commemoratio: $cwrank[0]";
+      $dayname[2] .= "<br />Vespera de præcedenti; commemoratio de sequenti";
+      $dayname[2] .= " Dominica" if $cwinner{Rank} =~ /Dominica/i;
+    } elsif ($flcrank == $flrank) {    # "flattend ranks" are equal => a capitulo
+      $commemoratio = $winner;
+      %commune =
+        ($version =~ /trident|Cistercien/i || $flrank >= 5)
+        ? %{officestring($lang1, $commune, 0)}
+        : ();                          #  Commune psalms only in Trident or Dpx I./II.cl
+      $tomorrowname[2] = "Commemoratio: $wrank[0]";
+      $antecapitulum =
+          (exists($winner{'Ant Vespera 3'})) ? $winner{'Ant Vespera 3'}
+        : (exists($winner{'Ant Vespera'})) ? $winner{'Ant Vespera'}
+        : (exists($commune{'Ant Vespera 3'})) ? $commune{'Ant Vespera 3'}
+        : (exists($commune{'Ant Vespera'})) ? $commune{'Ant Vespera'}
+        : '';
+
+      if ($antecapitulum) {
+        my %winner2 = %{officestring($lang2, $winner, 0)};
+        my %commune2 = %{officestring($lang2, $commune, 0)};
+        $antecapitulum2 =
+            (exists($winner2{'Ant Vespera 3'})) ? $winner2{'Ant Vespera 3'}
+          : (exists($winner2{'Ant Vespera'})) ? $winner2{'Ant Vespera'}
+          : (exists($commune2{'Ant Vespera 3'})) ? $commune2{'Ant Vespera 3'}
+          : (exists($commune2{'Ant Vespera'})) ? $commune2{'Ant Vespera'}
+          : '';
+
+        if (
+             $winner{Rule} !~ /no Psalm5/i
+          && $version !~ /monastic/i
+          && ( $winner{Rule} =~ /Psalm5 Vespera3=([0-9]+)/i
+            || $commune{Rule} =~ /Psalm5 Vespera3=([0-9]+)/i
+            || $winner{Rule} =~ /Psalm5 Vespera=([0-9]+)/i
+            || $commune{Rule} =~ /Psalm5 Vespera=([0-9]+)/i)
+        ) {
+          #  Hi-jacking an "unused" 6th line to pass on Psalm5 Vespera information to psalmi.pl
+          $antecapitulum .= "\nPsalm5 VesperaAnte=$1";
+        }
+
+      }
 			$vespera = 1;
 			$cvespera = 3;
 			$winner = $cwinner;
@@ -1010,12 +1065,15 @@ if (
 			$vespera = 3;
 			$cvespera = 1;
 			$dayname[2] .= "<br>Vespera de præcedenti; commemoratio de sequenti";
+
 			if ($cwinner{Rank} =~ /infra octavam/i || $ccommemoentries[0] =~ /infra octavam/i) {
 				my @comentries = ();
 				my %cstr = ();
+
 				foreach $commemo (@commemoentries) {
 					if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
 					%cstr = %{officestring('Latin', $commemo, 0)};
+
 					unless(!%cstr || ($cstr{Rank} =~ /infra octavam/i && $cstr{Rank} !~ /Dominica/i)) { push(@comentries, $commemo); }
 				}
 				@commemoentries = @comentries;
@@ -1042,10 +1100,17 @@ if (
 		foreach $commemo (@ccommemoentries) {
 			if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
 			%cstr = %{officestring('Latin', $commemo, 1)};
-			if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) { next; }	# no superseded Tempora or day within octave can have 1st vespers unless a Sunday
+
+			if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) { 
+        next; 
+      }	# no superseded Tempora or day within octave can have 1st vespers unless a Sunday
+
 			if (%cstr) {
 				my @cr = split(";;", $cstr{Rank});
-				unless ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || $version =~ /1955|196/) { push(@comentries, $commemo); }
+
+				unless ($cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || $version =~ /1955|196/) { 
+          push(@comentries, $commemo); 
+        }
 			}
 		}
 		@ccommemoentries = @comentries unless ($version =~ /Cistercien/i && $cstr{Rule} !~ /No prima vespera/i);
@@ -1058,16 +1123,24 @@ if (
       : 2;
     @comentries = ();
 
-		foreach $commemo (@commemoentries) {
-			if ($commemo =~ /tempora/i && $trank[2] < 2) { next; }	# Feria minor and Vigils have no Vespers if superseded
-			if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
-			%cstr = %{officestring('Latin', $commemo, 0)};
-			if (%cstr) {
-				my @cr = split(";;", $cstr{Rank});
-				unless (($cr[2] < $ranklimit && !($cr[2] == 2.1 || $cr[2] == 2.99 || $cr[2] == 3.9)) || $cstr{Rule} =~ /No secunda vespera/i) { push(@comentries, $commemo); }   # sort out Simplex
-			}
-		}
-		@commemoentries = @comentries;
+    foreach $commemo (@commemoentries) {
+      if ($commemo =~ /tempora/i && (($trank[2] < 2 && $trank[2] != 1.15) || $trank[0] =~ /Rogatio|Quattuor.*Sept/i)) {
+        next;    # Feria minor, Rogation days, Q.T. in Sept., and Vigils have no Vespers if superseded
+      }
+      if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+      %cstr = %{officestring('Latin', $commemo, 0)};
+
+      if (%cstr) {
+        my @cr = split(";;", $cstr{Rank});
+
+        unless (($cr[2] < $ranklimit && !($cr[2] == 1.15 || $cr[2] == 2.1 || $cr[2] == 2.99 || $cr[2] == 3.9))
+          || $cstr{Rule} =~ /No secunda vespera/i)
+        {
+          push(@comentries, $commemo);
+        }        # sort out Simplex
+      }
+    }
+    @commemoentries = @comentries;
   } else {    # We have 1st Vespers
      # in Concurrence (i.e. today): Duplex I. cl excludes below Duplex II. cl., Duplex II. cl exludes below Duplex; Simplex have no 2nd Vespers
     my $ranklimit =
@@ -1082,17 +1155,27 @@ if (
     my %cstr = ();
     @comentries = ();
 
-		foreach $commemo (@commemoentries) {
-			if ($commemo =~ /tempora/i && $trank[2] < 2) { next; }	# Feria minor and Vigils have no Vespers if superseded
-			if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
-			%cstr = %{officestring('Latin', $commemo, 0)};
-			if (%cstr) {
-				my @cr = split(";;", $cstr{Rank});
-				unless (($cr[2] < $ranklimit && !($cr[2] == 2.1 || $cr[2] == 2.99 || $cr[2] == 3.9)) || $cstr{Rule} =~ /No secunda vespera/i || $cr[0] =~ /De VII di/i) { push(@comentries, $commemo); }   # sort out (Semi-)duplex and infra 8vam communis except for Feria major / Dominica major
-			}
-		}
+    foreach $commemo (@commemoentries) {
+      if ($commemo =~ /tempora/i && $trank[2] != 1.15 && ($trank[2] < 2 || $trank[0] =~ /Rogatio|Quattuor.*Sept/i)) {
+        next;
+      }    # Feria minor and Vigils have no Vespers if superseded
+      if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+      %cstr = %{officestring('Latin', $commemo, 0)};
+
+      if (%cstr) {
+        my @cr = split(";;", $cstr{Rank});
+
+        unless (($cr[2] < $ranklimit && !($cr[2] == 1.15 || $cr[2] == 2.1 || $cr[2] == 2.99 || $cr[2] == 3.9))
+          || $cstr{Rule} =~ /No secunda vespera/i
+          || $cr[0] =~ /De VII di/i)
+        {
+          push(@comentries, $commemo);
+        }    # sort out (Semi-)duplex and infra 8vam communis except for Feria major / Dominica major
+      }
+    }
 		@commemoentries = @comentries;
 		
+    # In Occurencce (i.e. tomorrow):
     $ranklimit =
         ($cwrank[0] =~ /Dominica|feria|in.*octava/i) ? ($version !~ /cist/i ? 1.1 : 1)
       : $rank >= 6 ? ($version !~ /trident/i ? 4.2 : $version !~ /cist/i ? 3.1 : 2.2)
@@ -1103,17 +1186,30 @@ if (
 
 		#if ($version =~ /Cistercien/i) {$ranklimit = 1;}
 
-		foreach $commemo (@ccommemoentries) {
-			if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
-			%cstr = %{officestring('Latin', $commemo, 1)};
-			if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) { next; }	# no superseded Tempora or day within octave can have 1st vespers unless a Sunday
-			if (%cstr) {
-				my @cr = split(";;", $cstr{Rank});
-				unless ( $cr[2] < $ranklimit || $cstr{Rule} =~ /No prima vespera/i || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i) || ($cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i)) { push(@comentries, $commemo); }
-			}
-		}
-		@ccommemoentries = @comentries;
-	}
+    foreach $commemo (@ccommemoentries) {
+      if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+      %cstr = %{officestring('Latin', $commemo, 1)};
+
+      if (($commemo =~ /tempora/i || $cstr{Rank} =~ /infra octavam/i) && $cstr{Rank} !~ /Dominica/i) {
+        next;    # no superseded Tempora or day within octave can have 1st vespers unless a Sunday
+      }
+
+      if (%cstr) {
+        my @cr = split(";;", $cstr{Rank});
+
+        unless (
+             $cr[2] < $ranklimit
+          || $cstr{Rule} =~ /No prima vespera/i
+          || ($version =~ /1955|196/ && $cstr{Rank} !~ /Dominica/i)
+          || ( $cstr{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i
+            && $cstr{Rank} !~ /in Vigilia Epi|in octava|Dominica/i)
+        ) {
+          push(@comentries, $commemo);
+        }
+      }
+    }
+    @ccommemoentries = @comentries;
+  }
 }
 
 #*** extract_common($common_field, $office_rank)
