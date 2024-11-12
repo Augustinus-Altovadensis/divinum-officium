@@ -1,5 +1,5 @@
 [Rank]
-S. Luciæ Virginis et Martyris;;Duplex;;4;;ex C6
+S. Luciæ, Virginis et Martyris;;xij. Lect. et M:;;2.2;;ex C6
 
 [Oratio]
 @Commune/C7::s/N\./Lúciæ Vírginis et Mártyris tuæ/

@@ -1,5 +1,5 @@
 [Rank]
-Transitus SS. P. N. Benedicti Abbatis;;I class;;6;;vide C5
+Transitus SS. P. N. Benedicti Abbatis;;I class;;5;;vide C5
 
 [Rule]
 12 lectiones

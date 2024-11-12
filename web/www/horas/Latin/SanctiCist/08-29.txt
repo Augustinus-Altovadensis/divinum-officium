@@ -1,7 +1,7 @@
 @Sancti/08-29
 
 [Rank]
-In Decollatione S. Joannis Baptistæ;;MM. min.;;4;;vide C2
+In Decollatione S. Joannis Baptistæ;;MM. min.;;3;;vide C2
 
 [Ant 1]
 @Sancti/08-29:Ant Vespera:4

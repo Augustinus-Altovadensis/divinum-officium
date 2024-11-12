@@ -1,6 +1,6 @@
 @Sancti/01-17
 [Rank]
-S. Antonii Abbatis;;iij. Lect. et M.;;2;;vide C5
+S. Antonii Abbatis;;iij. Lect. et M.;;1.2;;vide C5
 
 [Responsory3]
 @Commune/C4:Responsory1

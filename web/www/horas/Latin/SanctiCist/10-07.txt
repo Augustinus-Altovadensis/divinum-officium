@@ -1,5 +1,5 @@
 [Rank]
-Sanctissimi Rosarii Beatæ Mariæ Virginis;;MM. maj.;;5.2;;ex C11
+Sanctissimi Rosarii Beatæ Mariæ Virginis;;MM. maj.;;4;;ex C11
 
 [Oratio]
 @Sancti/10-07

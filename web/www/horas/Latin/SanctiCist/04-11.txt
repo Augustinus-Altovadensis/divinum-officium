@@ -1,7 +1,7 @@
 @Sancti/04-11
 
 [Rank]
-S. Leonis, Papæ, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;2;;vide C4
+S. Leonis, Papæ, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Ant 1]
 @Commune/C4a::s/N\./Leo/

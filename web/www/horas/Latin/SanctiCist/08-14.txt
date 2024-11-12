@@ -1,5 +1,5 @@
 [Rank]
-In Vigilia Assumptionis B.M.V.;;Duplex II classis;;5;;
+In Vigilia Assumptionis B.M.V.;;Vigilia;;4;;
 
 [Oratio]
 @Sancti/08-14

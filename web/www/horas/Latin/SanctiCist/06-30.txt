@@ -1,7 +1,7 @@
 @Sancti/06-30
 
 [Rank]
-In Commemoratione S. Pauli Apostoli;;MM. maj.;;5.5;;ex C1
+In Commemoratione S. Pauli Apostoli;;MM. maj.;;4.5;;ex C1
 
 [Rule]
 12 lectiones

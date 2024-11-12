@@ -1,5 +1,5 @@
 [Rank]
-S. Sacerdotis, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+S. Sacerdotis, Episcopi et Confessoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Rule]
 vide C4;mtv

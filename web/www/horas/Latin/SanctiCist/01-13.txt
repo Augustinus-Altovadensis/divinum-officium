@@ -1,7 +1,7 @@
 @Sancti/01-13
 
 [Rank]
-Commemoratio Baptismatis Domini Nostri Jesu Christi;;Duplex II. classis;;5;;ex Sancti/01-06
+Commemoratio Baptismatis Domini Nostri Jesu Christi;;MM. maj.;;4;;ex Sancti/01-06
 
 [Rule]
 12 lectiones

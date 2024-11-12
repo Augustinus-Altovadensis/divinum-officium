@@ -1,7 +1,7 @@
 @Sancti/09-28
 
 [Rank]
-S. Wenceslai, Ducis, Martyris et Patroni Principalis Regni Bohemiæ;;MM. maj.;;5.1;;ex C2
+S. Wenceslai, Ducis, Martyris et Patroni Principalis Regni Bohemiæ;;MM. maj.;;4;;ex C2
 
 [Rule]
 ex C2;

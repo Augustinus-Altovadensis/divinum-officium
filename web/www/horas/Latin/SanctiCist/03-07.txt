@@ -1,6 +1,6 @@
 @Sancti/03-07
 [Rank]
-S. Thomæ de Aquino Confessoris et Ecclesiæ Doctoris;;Duplex;;4;;ex C5
+S. Thomæ de Aquino Confessoris et Ecclesiæ Doctoris;;MM. min.;;3;;ex C5
 
 [Name]
 Thoma

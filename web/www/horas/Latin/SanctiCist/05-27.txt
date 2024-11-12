@@ -1,5 +1,5 @@
 [Rank]
-S. Bedæ, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;2;;vide C5
+S. Bedæ, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C5
 
 [Ant 1]
 @Commune/C4a::s/N\./Beda/

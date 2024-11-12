@@ -1,7 +1,7 @@
 @Sancti/08-11
 
 [Rank]
-Susceptio S. Coronæ;;MM. maj.;;5.2;;ex C2
+Susceptio S. Coronæ;;MM. maj.;;4.1;;ex C2
 
 [Rule]
 ex C2;

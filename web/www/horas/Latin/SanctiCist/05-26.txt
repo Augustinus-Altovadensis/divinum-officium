@@ -1,6 +1,6 @@
 @Sancti/05-26
 [Rank]
-S. Philippi Neri Confessoris;;iij. Lect. et M.;;2;;vide C5
+S. Philippi Neri Confessoris;;iij. Lect. et M.;;1.2;;vide C5
 
 [Rule]
 vide C5;

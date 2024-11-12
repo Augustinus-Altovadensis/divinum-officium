@@ -1,7 +1,7 @@
 @Sancti/10-02
 
 [Rank]
-Ss. Angelorum Custodum;;MM. maj.;;5
+SS. Angelorum Custodum;;MM. maj.;;4
 
 [Capitulum Vespera]
 @Sancti/10-02

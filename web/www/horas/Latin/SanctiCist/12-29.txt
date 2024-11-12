@@ -1,5 +1,5 @@
 [Rank]
-S. Thomæ Cantuariensis Episcopi et Martyris;;MM. min.;;5;;ex C2
+S. Thomæ Cantuariensis Episcopi et Martyris;;MM. min.;;3;;ex C2
 
 [Rule]
 ex C2;

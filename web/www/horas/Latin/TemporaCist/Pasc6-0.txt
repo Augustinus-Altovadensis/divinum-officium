@@ -1,7 +1,7 @@
 @Tempora/Pasc6-0
 
 [Rank]
-Dominica post Ascensionem;;Semiduplex;;5;;vide TemporaCist/Pasc5-4
+Dominica post Ascensionem;;Semiduplex;;3.5;;vide TemporaCist/Pasc5-4
 
 [Rule]
 12 lectiones

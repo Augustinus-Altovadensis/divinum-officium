@@ -1,5 +1,5 @@
 [Rank]
-SS. Cyrilli et Methodii, Confessorum, Pontificis et Patronorum Regni Bohemiæ;;MM. maj.;;5.1;;ex C4
+SS. Cyrilli et Methodii, Confessorum, Pontificis et Patronorum Regni Bohemiæ;;MM. maj.;;4.1;;ex C4
 
 [Rule]
 ex C4;mtv

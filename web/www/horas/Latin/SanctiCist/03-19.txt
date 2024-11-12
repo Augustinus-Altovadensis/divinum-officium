@@ -1,6 +1,6 @@
 @Sancti/03-19
 [Rank]
-S. Joseph Sponsi B.M.V. Confessoris;;Duplex I classis;;7;;
+S. Joseph Sponsi B.M.V. Confessoris;;Duplex I classis;;6;;
 
 [Rule]
 12 lectiones

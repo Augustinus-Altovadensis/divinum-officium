@@ -1,5 +1,5 @@
 [Rank]
-S. Petri Cœlestini, Papæ et Confessoris;;iij. Lect. et M.;;2;;vide C4
+S. Petri Cœlestini, Papæ et Confessoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Oratio]
 @CommuneCist/C4:Oratio1:s/N./Petri Cœlestíni/

@@ -1,7 +1,7 @@
 @Sancti/08-27
 
 [Rank]
-S. Josephi Calasanctii Confessoris;;iij. Lect. et M.;;2;;vide C5
+S. Josephi Calasanctii Confessoris;;iij. Lect. et M.;;1.2;;vide C5
 
 [Rule]
 vide C5;mtv

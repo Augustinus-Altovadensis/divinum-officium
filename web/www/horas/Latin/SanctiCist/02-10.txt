@@ -1,7 +1,7 @@
 @Sancti/02-10
 
 [Rank]
-S. Scholasticæ Virginis;;iij. Lect. et M.;;2;;vide C6
+S. Scholasticæ Virginis;;iij. Lect. et M.;;1.2;;vide C6
 
 [Rule]
 3 lectiones

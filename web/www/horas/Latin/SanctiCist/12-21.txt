@@ -1,7 +1,7 @@
 @Sancti/12-21
 
 [Rank]
-S. Thomæ Apostoli;;Duplex II classis;;6;;ex C1
+S. Thomæ, Apostoli;;MM. maj.;;4;;ex C1
 
 [Rule]
 12 lectiones

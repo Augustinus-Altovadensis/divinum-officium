@@ -1,7 +1,7 @@
 @Sancti/01-21
 
 [Rank]
-S. Agnetis Virginis et Martyris;;Duplex;;3.1;;ex C6
+S. Agnetis Virginis et Martyris;;xij. Lect. et M.;;2.3;;ex C6
 
 [Ant Vespera]
 Ingréssa Agnes * turpitúdinis locum, Angelum Dómini præparátum invénit.;;109

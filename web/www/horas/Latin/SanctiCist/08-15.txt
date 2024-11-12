@@ -1,7 +1,7 @@
 @Sancti/08-15
 
 [Rank]
-Assumptione Beatae Mariae Virginis;;Duplex I classis;;6.9;;ex C11
+Assumptione Beatae Mariae Virginis;;Serm. maj.;;6;;ex C11
 
 [Rule]
 12 lectiones

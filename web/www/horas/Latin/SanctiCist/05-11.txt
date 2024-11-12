@@ -1,5 +1,5 @@
 [Rank]
-S. Pii V., Papæ et Confessoris;;iij. Lect. et M.;;2;;vide c4;mtv
+S. Pii V., Papæ et Confessoris;;iij. Lect. et M.;;1.2;;vide c4;mtv
 
 [Rule]
 vide c4;mtv

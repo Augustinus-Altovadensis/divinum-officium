@@ -1,7 +1,7 @@
 @Sancti/09-03r
 
 [Rank]
-S. Pii X., Papæ et Confessoris;;iij. Lect. et M.;;2;;vide C4
+S. Pii X., Papæ et Confessoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Ant 1]
 @CommuneCist/C4

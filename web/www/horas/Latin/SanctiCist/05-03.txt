@@ -1,6 +1,6 @@
 @Sancti/05-03
 [Rank]
-Inventione Sanctæ Crucis;;MM. Maj.;;5;;
+Inventione Sanctæ Crucis;;MM. maj.;;4;;
 
 [Rule]
 12 lectiones

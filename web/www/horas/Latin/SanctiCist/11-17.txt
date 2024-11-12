@@ -1,6 +1,6 @@
 @Sancti/11-16
 [Rank]
-S. Gertrudis Virginis;;MM. maj.;;5.1;;ex C6
+S. Gertrudis Virginis;;MM. maj.;;4;;ex C6
 
 [Rule]
 ex C6;

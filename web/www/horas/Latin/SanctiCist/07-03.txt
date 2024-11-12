@@ -1,5 +1,5 @@
 [Rank]
-S. Irenæi, Episcopi, Martyris et Ecclesiæ Doctoris;;Commemoratio et Missa;;1;;vide C2
+S. Irenæi, Episcopi, Martyris et Ecclesiæ Doctoris;;Commemoratio et M.;;1;;vide C2
 
 [Rule]
 vide C2;

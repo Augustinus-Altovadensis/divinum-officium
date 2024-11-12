@@ -1,5 +1,5 @@
 [Rank]
-S. Lucæ, Evangelistæ;;MM. maj.;;5;;ex C1
+S. Lucæ, Evangelistæ;;MM. maj.;;4;;ex C1
 
 [Rule]
 12 lectiones

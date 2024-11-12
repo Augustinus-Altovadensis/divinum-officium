@@ -1,7 +1,7 @@
 @Sancti/08-06
 
 [Rank]
-In Festo Transfigurationis Domini Nostri Jesu Christi;;MM. maj.;;5.2;;
+In Festo Transfigurationis Domini Nostri Jesu Christi;;MM. maj.;;4.2;;
 
 [Rule]
 12 lectiones

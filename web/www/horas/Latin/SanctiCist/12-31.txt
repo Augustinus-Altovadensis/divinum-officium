@@ -1,5 +1,5 @@
 [Rank]
-S. Silvestris, Papae et Confessoris;;MM. min.;;4.9;;ex C4
+S. Silvestris, Papae et Confessoris;;MM. min.;;3;;ex C4
 
 [Rule]
 ex C4

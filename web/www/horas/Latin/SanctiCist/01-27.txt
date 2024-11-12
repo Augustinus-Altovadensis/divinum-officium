@@ -1,7 +1,7 @@
 @Sancti/01-27
 
 [Rank]
-S. Joannis Chrysostomi Episcopi Confessoris et Ecclesiæ Doctoris;;Duplex;;2;;vide C4
+S. Joannis Chrysostomi Episcopi Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Rule]
 vide C4;mtv

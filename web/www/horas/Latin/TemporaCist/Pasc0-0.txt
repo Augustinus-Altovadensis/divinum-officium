@@ -1,6 +1,6 @@
 @Tempora/Pasc0-0
 [Rank]
-Dominica Resurrectionis;;Duplex I classis cum Octava Privilegiata I;;8
+Dominica Resurrectionis;;Duplex I classis cum Octava Privilegiata I;;7
 
 [Rule]
 Psalmi Dominica

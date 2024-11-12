@@ -1,4 +1,4 @@
 @Sancti/12-11
 
 [Rank]
-S. Damasi Papæ et Confessoris;;Simplex;;1.1;;vide C4
+S. Damasi Papæ et Confessoris;;Commemoratio;;1;;vide C4

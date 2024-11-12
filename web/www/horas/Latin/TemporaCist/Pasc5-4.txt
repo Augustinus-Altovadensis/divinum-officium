@@ -1,7 +1,7 @@
 @Tempora/Pasc5-4
 
 [Rank]
-In Ascensione Domini;;Duplex I classis cum Octava Privilegiata II classis;;7
+In Ascensione Domini;;Duplex I classis cum Octava Privilegiata II classis;;6
 
 [Rule]
 Psalmi Dominica

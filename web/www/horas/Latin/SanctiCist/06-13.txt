@@ -1,7 +1,7 @@
 @Sancti/06-13
 
 [Rank]
-S. Antonii de Padua, Confessoris et Ecclesiæ Doctoris;;xij. Lect. et M.;;3;;ex C5a
+S. Antonii de Padua, Confessoris et Ecclesiæ Doctoris;;xij. Lect. et M.;;2.2;;ex C5a
 
 [Rule]
 ex C5a;

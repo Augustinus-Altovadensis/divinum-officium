@@ -1,7 +1,7 @@
 @Sancti/09-30
 
 [Rank]
-S. Hieronymi Presbyteris Confessoris et Ecclesiæ Doctoris;;MM. min.;;4;;ex C5
+S. Hieronymi Presbyteris Confessoris et Ecclesiæ Doctoris;;MM. min.;;3;;ex C5
 
 [Responsory1]
 @Commune/C4a:Responsory8

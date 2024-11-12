@@ -1,5 +1,5 @@
 [Rank]
-S. Petri, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+S. Petri, Episcopi et Confessoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Rule]
 vide C5;mtv

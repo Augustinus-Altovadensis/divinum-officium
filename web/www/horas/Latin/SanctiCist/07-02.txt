@@ -1,7 +1,7 @@
 @Sancti/07-02
 
 [Rank]
-In Visitatione Beatæ Mariæ Virginis;;Serm. min.;;6;;ex C11
+In Visitatione Beatæ Mariæ Virginis;;Serm. min.;;5;;ex C11
 
 [Rule]
 12 lectiones

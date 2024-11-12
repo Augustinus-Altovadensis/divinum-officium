@@ -1,7 +1,7 @@
 @Sancti/08-04
 
 [Rank]
-S. Dominici Confessoris;;xij. Lect. et M.;;3;;ex C5
+S. Dominici Confessoris;;xij. Lect. et M.;;2.2;;ex C5
 
 [Rule]
 ex C5;mtv

@@ -1,5 +1,5 @@
 [Rank]
-SS. Ursulae et Sociarum, Virginum et Martyrum;;xij. Lect. et M.;;3;;ex C6
+SS. Ursulae et Sociarum, Virginum et Martyrum;;xij. Lect. et M.;;2.2;;ex C6
 
 [Rule]
 ex C6;

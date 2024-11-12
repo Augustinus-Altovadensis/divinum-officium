@@ -1,5 +1,8 @@
 @Tempora/Adv4-1
 
+[Rank]
+Feria II. infra Hebdomadam IV. Adventus;;Feria major;;1.15
+
 [Ant Laudes]
 Cánite tuba in Sion, * quia prope est dies Dómini : ecce véniet ad salvándum nos, allelúia.
 

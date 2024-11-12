@@ -1,5 +1,5 @@
 [Rank]
-S.P.N. Roberti, Primi Abbatis Cistercii;;Serm. min.;;6;;ex C5
+S.P.N. Roberti, Primi Abbatis Cistercii;;Serm. min.;;5;;ex C5
 
 [Rule]
 Psalmi Dominica

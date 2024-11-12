@@ -1,7 +1,7 @@
 @Sancti/07-20
 
 [Rank]
-S. Hieronymi Æmiliani Confessoris;;iij. Lect. et M.;;2;;vide C5
+S. Hieronymi Æmiliani Confessoris;;iij. Lect. et M.;;1.2;;vide C5
 
 [Rule]
 vide C5;mtv

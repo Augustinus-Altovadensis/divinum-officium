@@ -1,6 +1,6 @@
 @Sancti/11-23
 [Rank]
-S. Clementis I Papæ et Martyris;;xij. Lect. et M.;;3;;vide C2
+S. Clementis I Papæ et Martyris;;xij. Lect. et M.;;2.2;;vide C2
 
 [Rule]
 vide C2;

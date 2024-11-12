@@ -1,5 +1,5 @@
 [Rank]
-S. Barbaræ, Virginis et Martyris;;MM. min.;;4;;ex C6
+S. Barbaræ, Virginis et Martyris;;MM. min.;;3;;ex C6
 
 [Rule]
 ex C6;

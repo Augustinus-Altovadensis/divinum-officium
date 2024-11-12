@@ -1,6 +1,6 @@
 @Sancti/05-07
 [Rank]
-S. Stanislai Episcopi et Martyris;;iij. Lect. et M.;;2;;vide C2
+S. Stanislai Episcopi et Martyris;;iij. Lect. et M.;;1.2;;vide C2
 
 [Rule]
 vide C2;

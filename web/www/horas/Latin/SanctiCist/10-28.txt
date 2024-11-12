@@ -1,5 +1,5 @@
 [Rank]
-SS. Apostolorum Simonis et Judæ;;MM. maj.;;5.1;;ex C1
+SS. Apostolorum Simonis et Judæ;;MM. maj.;;4;;ex C1
 
 [Rule]
 12 lectiones

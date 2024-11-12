@@ -1,4 +1,7 @@
 @Tempora/Adv1-3
 
+[Rank]
+Feria IV. infra Hebdomadam I Adventus;;Feria major;;1.15
+
 [Ant Laudes]
 In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allelúia.

@@ -1,5 +1,5 @@
 [Rank]
-S. Teresiæ, Virginis;;iij. Lect. et M.;;2;;vide C6
+S. Teresiæ, Virginis;;iij. Lect. et M.;;1.2;;vide C6
 
 [Oratio]
 @Sancti/10-15

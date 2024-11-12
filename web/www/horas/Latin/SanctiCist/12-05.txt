@@ -1,7 +1,8 @@
 @Sancti/12-03
 
+[Rank]
+S. Francisci Xaverii Confessoris;;iij. Lect. et M.;;1.2;;vide C5
+
 [Rule]
 vide C5;mtv
 
-[Rank]
-S. Francisci Xaverii Confessoris;;iij. Lect. et M.;;2.2;;vide C5

@@ -1,7 +1,7 @@
 @SanctiCist/01-18
 
 [Rank]
-In Cathedra S. Petri Apostoli Antiochiæ;;Duplex;;3.6;;ex C4
+In Cathedra S. Petri Apostoli Antiochiæ;;xij. Lect. et M.;;2.6;;ex C4
 
 [Commemoratio]
 

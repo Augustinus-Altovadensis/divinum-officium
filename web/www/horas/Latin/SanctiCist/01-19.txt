@@ -1,5 +1,5 @@
 [Rank]
-S. Gulielmi, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4;mtv
+S. Gulielmi, Episcopi et Confessoris;;iij. Lect. et M.;;1.2;;vide C4;mtv
 
 [Rule]
 vide C4;mtv

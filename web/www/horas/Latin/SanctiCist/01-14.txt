@@ -1,7 +1,7 @@
 @Sancti/01-14
 
 [Rank]
-S. Hilarii Episcopi Confessoris Ecclesiæ Doctoris;;Simplex;;2;;vide C4
+S. Hilarii Episcopi Confessoris Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Commemoratio]
 !Commemoratio S. Felicis, Presbyteri et Martyris

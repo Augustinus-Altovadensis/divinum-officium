@@ -1,7 +1,7 @@
 @Tempora/093-6
 
 [Rank]
-Sabbato Quattuor Temporum Septembris;;Feria major;;4
+Sabbato Quattuor Temporum Septembris;;Feria major;;3
 
 [Responsory2]
 @TemporaM/093-0:Responsory10

@@ -1,7 +1,7 @@
 @Sancti/08-10
 
 [Rank]
-S. Laurentii Martyris;;MM. maj.;;5.1;;ex C2
+S. Laurentii Martyris;;MM. maj.;;4;;ex C2
 
 [Rule]
 ex C2

@@ -1,7 +1,7 @@
 @Sancti/08-16
 
 [Rank]
-S. Joachim, Patris B.M.V.;;MM. maj.;;5;;ex C5
+S. Joachim, Patris B.M.V.;;MM. maj.;;4;;ex C5
 
 [HymnusC Vespera]
 Ad tuas laudes, Jóachim, propínquat

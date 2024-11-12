@@ -1,5 +1,5 @@
 ﻿[Rank]
-S. P. N. Stephani, Tertii Abbatis Cistercii;;Duplex;;6.9;;ex C5
+S. P. N. Stephani, Tertii Abbatis Cistercii;;Serm. maj.;;6;;ex C5
 
 [Rule]
 ex C5;mtv

@@ -1,5 +1,5 @@
 [Rank]
-S. Petri Damiani Confessoris;;iij. Lect. et M.;;2.1;;vide C4
+S. Petri Damiani Confessoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Oratio]
 @Commune/C4a::s/N\. /Petri /

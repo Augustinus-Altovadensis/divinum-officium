@@ -1,5 +1,5 @@
 [Rank]
-Ss. Joannis et Pauli Martyrum;;Simplex;;3;;ex C3
+SS. Joannis et Pauli Martyrum;;xij. Lect. et M.;;2.2;;ex C3
 
 [Ant 1]
 Gaudent in cœlis * ánimæ Sanctórum, qui Christi vestígia sunt secúti: et quia pro ejus amóre sánguinem suum fudérunt, ídeo cum Christo exúltant sine fine.

@@ -1,5 +1,5 @@
 [Rank]
-Ss. Tiburtii, Valeriani, et Maximi, Martyrum;;iij. Lect. et M.;;2;;vide C3
+Ss. Tiburtii, Valeriani, et Maximi, Martyrum;;iij. Lect. et M.;;1.2;;vide C3
 
 [Rule]
 vide C3;
@@ -7,3 +7,9 @@ vide C3;
 [Oratio]
 Beatórum Mártyrum tuórum Tibúrtii, Valeriáni et Máximi, nos, quæsumus, Dómine, festa tueántur: § et eórum comméndet orátio veneránda. 
 $Per Dominum.
+
+[Commemoratio]
+!Commemoratio S. Justini, Martyris (1965)
+@CommuneCist/C2:Oratio proper
+v. Deus, qui per stultítiam crucis eminéntem Jesu Christi sciéntiam beátum Justínum Mártyrem mirabíliter docuísti: * ejus nobis intercessióne concéde; § ut, errórum circumventióne depúlsa, fídei firmitátem consequámur. 
+$Per eumdem

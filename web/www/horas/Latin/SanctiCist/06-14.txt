@@ -1,7 +1,7 @@
 @Sancti/06-14
 
 [Rank]
-S. Basilii Magni, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;2;;vide C4a
+S. Basilii Magni, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4a
 
 [Rule]
 vide C4a;mtv

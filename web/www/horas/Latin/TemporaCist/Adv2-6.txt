@@ -1,4 +1,7 @@
 @Tempora/Adv2-6
 
+[Rank]
+Sabbato infra Hebdomadam II. Adventus;;Feria major;;1.15
+
 [Ant Laudes]
 Ecce in núbibus coeli * Dóminuss véniet cum potestáte magna, allelúia.

@@ -1,6 +1,6 @@
 @Sancti/06-28r
 [Rank]
-In Vigilia Ss. Petri et Pauli Apostolorum;;Duplex II classis;;3.6
+In Vigilia SS. Petri et Pauli Apostolorum;;Vigilia;;3.6
 
 [Commemoratio]
 !Commemoratio S. Leonis, Papæ et Confessoris

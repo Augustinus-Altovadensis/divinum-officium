@@ -1,5 +1,5 @@
 [Rank]
-S. Floriani, Martyris;;MM. min.;;4;;ex C2
+S. Floriani, Martyris;;MM. min.;;3;;ex C2
 
 [Rule]
 Psalmi Dominica

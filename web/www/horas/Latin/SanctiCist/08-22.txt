@@ -1,7 +1,7 @@
 @Sancti/08-22
 
 [Rank]
-Immaculati Cordis B.M.V.;;MM. maj.;;5.1;;ex C11
+Immaculati Cordis B.M.V.;;MM. maj.;;4;;ex C11
 
 [Rule]
 Psalmi Dominica

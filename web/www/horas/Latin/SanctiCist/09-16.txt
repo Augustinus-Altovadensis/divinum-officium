@@ -1,5 +1,5 @@
 [Rank]
-S. Ludmillæ, Viduæ, Martyris et Patronæ Regni Bohemiæ (Propria Bohemiæ et Lusatiæ);;MM. min.;;4;;ex C7
+S. Ludmillæ, Viduæ, Martyris et Patronæ Regni Bohemiæ (Propria Bohemiæ et Lusatiæ);;MM. min.;;3;;ex C7
 
 [Rule]
 Psalmi Dominica

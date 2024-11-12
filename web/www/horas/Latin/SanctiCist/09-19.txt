@@ -1,5 +1,5 @@
 [Rank]
-SS. Cornelii et Cypriani, Martyrum;;iij. et M.;;2;;vide C3
+SS. Cornelii et Cypriani, Martyrum;;iij. et M.;;1.2;;vide C3
 
 [Rule]
 vide C3;

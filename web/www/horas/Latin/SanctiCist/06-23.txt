@@ -1,7 +1,7 @@
 @Sancti/06-23
 
 [Rank]
-In Vigilia S. Joannis Baptistæ;;Duplex II classis;;5
+In Vigilia S. Joannis Baptistæ;;Vigilia;;1.5
 
 [Rule]
 

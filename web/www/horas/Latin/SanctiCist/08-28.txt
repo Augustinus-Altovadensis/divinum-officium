@@ -1,7 +1,7 @@
 @Sancti/08-28
 
 [Rank]
-S. Augustini, Episcopi, Confessoris et Ecclesiæ Doctoris;;MM. min.;;4;;ex C4
+S. Augustini, Episcopi, Confessoris et Ecclesiæ Doctoris;;MM. min.;;3;;ex C4
 
 [Rule]
 ex C4a;

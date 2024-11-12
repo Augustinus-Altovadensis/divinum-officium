@@ -1,5 +1,5 @@
 [Rank]
-B. Eugenii III., Papæ et Confessoris;;II Class;;3;;ex C4
+B. Eugenii III., Papæ et Confessoris;;xij. Lect. et M.;;2.2;;ex C4
 
 [Rule]
 ex C4;

@@ -1,5 +1,5 @@
 [Rank]
-S. Ambrosii, Episcopi, Confessoris, et Ecclesiæ Doctoris;;MM. min.;;4;;ex C4
+S. Ambrosii, Episcopi, Confessoris, et Ecclesiæ Doctoris;;MM. min.;;3;;ex C4
 
 [Ant 1]
 @Commune/C4a::s/N\./Ambrósi/

@@ -1,7 +1,7 @@
 @SanctiCist/03-21
 
 [Rank]
-Translatio S.P.N. Benedicti, Abbatis;;MM. maj.;;5;;vide C5
+Translatio S.P.N. Benedicti, Abbatis;;MM. maj.;;4;;vide C5
 
 [Rule]
 12 lectiones

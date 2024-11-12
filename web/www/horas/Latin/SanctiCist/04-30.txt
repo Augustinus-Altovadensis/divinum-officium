@@ -1,6 +1,6 @@
 @Sancti/4-29
 [Rank]
-S. Petri, Martyris;;iij. Lect. et M.;;2;;vide C2
+S. Petri, Martyris;;iij. Lect. et M.;;1.2;;vide C2
 
 [Rule]
 vide C2;

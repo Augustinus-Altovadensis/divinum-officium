@@ -1,7 +1,7 @@
 @Sancti/01-24
 
 [Rank]
-S. Timothei Episcopi et Martyris;;Simplex;;2;;vide C2
+S. Timothei Episcopi et Martyris;;iij. Lect. et M.;;1.2;;vide C2
 
 [Ant 1]
 @Commune/C2

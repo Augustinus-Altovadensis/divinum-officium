@@ -1,5 +1,5 @@
 [Rank]
-Cathedræ S. Petri;;MM. maj.;;5;;ex C4
+Cathedræ S. Petri;;MM. maj.;;4;;ex C4
 
 [Rule]
 ex C4;

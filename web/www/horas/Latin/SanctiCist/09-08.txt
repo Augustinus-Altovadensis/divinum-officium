@@ -1,7 +1,7 @@
 @Sancti/09-08
 
 [Rank]
-In Nativitate Beatæ Mariæ Virginis;;Serm maj. cum Octava;;6.9;;ex C11
+In Nativitate Beatæ Mariæ Virginis;;Serm maj. cum Octava;;6;;ex C11
 
 [Rule]
 12 lectiones

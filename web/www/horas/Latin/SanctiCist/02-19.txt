@@ -1,5 +1,5 @@
 [Rank]
-B. Bonifacii, Episcopi et Confessoris;;iij. Lect. et M.;;2;;vide C4
+B. Bonifacii, Episcopi et Confessoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Oratio]
 @Commune/C1:Oratio:s/N\./Bonifácius,/ s/Apóstolus/Conféssor tuus atque Póntifex/ s/prævenímus festivitátem/hódie festa percólimus/

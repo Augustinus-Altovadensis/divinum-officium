@@ -1,7 +1,7 @@
 @Tempora/Adv3-3
 
 [Rank]
-Feria IV Quattuor Temporum Adventus;;Feria major;;4
+Feria IV Quattuor Temporum Adventus;;Feria major;;2.1
 
 [Ant Laudes]
 Propter Sion * non tardábo, donec egrediátur ut splendor justus ejus.

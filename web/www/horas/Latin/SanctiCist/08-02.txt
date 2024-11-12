@@ -1,7 +1,7 @@
 @Sancti/08-02
 
 [Rank]
-S. Alfonsi Mariæ de Ligorio, Episc. Conf. et Eccles. Doct.;;iij. Lect. et M:;;2;;vide C4a
+S. Alfonsi Mariæ de Ligorio, Episc. Conf. et Eccles. Doct.;;iij. Lect. et M:;;1.2;;vide C4a
 
 [Commemoratio]
 !Commemoratio S. Stephani, Papæ et Martyris

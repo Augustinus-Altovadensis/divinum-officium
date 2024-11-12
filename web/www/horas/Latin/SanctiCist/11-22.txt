@@ -1,7 +1,7 @@
 @Sancti/11-22
 
 [Rank]
-S. Cæciliæ, Virginis et Martyris;;xij. Lect. et M.;;3;;vide C6b
+S. Cæciliæ, Virginis et Martyris;;xij. Lect. et M.;;2.2;;vide C6b
 
 [Ant 1]
 Virgo gloriósa * semper Evangélium Christi gerébat in péctore suo, et non diébus, neque nóctibus 

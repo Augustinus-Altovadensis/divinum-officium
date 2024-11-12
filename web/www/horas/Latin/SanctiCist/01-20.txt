@@ -1,6 +1,6 @@
 @Sancti/01-20
 [Rank]
-Ss. Fabiani et Sebastiani Martyrum;;MM. min.;;4;;ex C3
+SS. Fabiani et Sebastiani Martyrum;;iij. Lect. et M.;;1.2;;ex C3
 
 [Responsory3]
 @Commune/C3:Responsory1

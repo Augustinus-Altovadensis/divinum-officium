@@ -1,6 +1,6 @@
 @Sancti/07-01
 [Rank]
-Pretiosissimi Sanguinis Domini Nostri Jesu Christi;;MM. maj;;5.6;;
+Pretiosissimi Sanguinis Domini Nostri Jesu Christi;;MM. maj;;4.6;;
 
 [Rule]
 12 lectiones

@@ -1,6 +1,6 @@
 @Sancti/02-02
 [Rank]
-In Purificatione Beatæ Mariæ Virginis;;Serm. min;;6;;ex C11
+In Purificatione Beatæ Mariæ Virginis;;Serm. min;;5;;ex C11
 
 [Rule]
 12 lectiones

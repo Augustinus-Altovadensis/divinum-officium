@@ -1,5 +1,5 @@
 [Rank]
-S. Leonardi de Noblat Abbatis;;xij. Lect. et M.;;3;;ex C5
+S. Leonardi de Noblat Abbatis;;xij. Lect. et M.;;2.2;;ex C5
 
 [Oratio]
 Intercéssio nos, quaesumus, Dómine, beáti Leonardi Abbátis comméndet: * ut, quod nostris méritis non valémus, † ejus patrocínio assequámur. *

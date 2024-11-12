@@ -1,7 +1,7 @@
 @Sancti/07-15
 
 [Rank]
-S. Henrici, Imperatoris et Confessoris;;MM. min.;;4;;ex C5
+S. Henrici, Imperatoris et Confessoris;;MM. min.;;3;;ex C5
 
 [Rule]
 ex C5;mtv

@@ -1,7 +1,7 @@
 @Tempora/093-3
 
 [Rank]
-Feria Quarta Quattuor Temporum Septembris;;Feria major;;4
+Feria Quarta Quattuor Temporum Septembris;;Feria major;;3
 
 [Responsory2]
 @TemporaM/093-0:Responsory10

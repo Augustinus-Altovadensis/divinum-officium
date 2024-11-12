@@ -1,5 +1,5 @@
 [Rank]
-S. Polycarpi Episcopi et Martyris;;iij. Lect. et M.;;2;;vide C2
+S. Polycarpi Episcopi et Martyris;;iij. Lect. et M.;;1.2;;vide C2
 
 [Ant 1]
 @Commune/C2

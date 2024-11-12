@@ -1,7 +1,7 @@
 @Sancti/07-19
 
 [Rank]
-S. Vincentii a Paulo, Confessoris;;iij . Lect. et M.;;2;;vide C5
+S. Vincentii a Paulo, Confessoris;;iij . Lect. et M.;;1.2;;vide C5
 
 [Rule]
 vide C5;mtv

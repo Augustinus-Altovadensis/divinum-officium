@@ -410,7 +410,7 @@ sub occurrence {
 			$commemoratio = 'Sancti/01-06.txt';
 			$comrank = 5.6;
 		} elsif (($srank[2] < 7 && $sname !~ /01-01/)
-      && ($trank[2] >= ($srank[2] >= 5 ? 2.1 : 1.5) || ($version =~ /cist/i && $trank[2] == 2.1))
+      && ($trank[2] >= ($srank[2] >= 5 ? 2.1 : 1.5) || ($version =~ /cist/i && $trank[2] == 1.15))
       && !($srank[0] =~ /Sangu/i && $trank[0] =~ /Cord/i)) 
     { # incl. github #2950
 			unshift(@commemoentries, $tname);
@@ -1184,7 +1184,8 @@ if (
       : 1;
     @comentries = ();
 
-		#if ($version =~ /Cistercien/i) {$ranklimit = 1;}
+		# Test!
+		if ($version =~ /Cistercien/i) {$ranklimit = 1;}
 
     foreach $commemo (@ccommemoentries) {
       if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
@@ -1736,84 +1737,112 @@ sub setheadline {
 			'I. classis'
 			);
       my @cisttable = (   # Cistercian table
-      'none',
       'Commemoratio',
       'iij. Lect. et M.',
       'xij. Lect. et M.',
       'MM. min.',
       'MM. maj.',
       'Serm. min.',
+      'Serm. maj.',
       'Serm. maj.'
       );
-			$rankname = ($version !~ /196/) ? $tradtable[$rank] : $newtable[$rank];
 
-      if ($version =~ /Cistercien/i ) { $rankname = $cisttable[$rank]; }
+      if ($version =~ /Monastic.*Divino/i) {
+        $tradtable[1, 2] = 'Memoria';
+      } elsif ($version =~ /1955/) {
+        $tradtable[1, 2] = 'Simplex';
+      }
+
+      $rankname =
+          $version =~ /cist/i ? $cisttable[$rank]
+        : $version !~ /196/ ? $tradtable[$rank]
+        : $newtable[$rank];
 
       if ($version =~ /19(?:55|60)|Cistercien/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 			
 			if ($version =~ /1570/i) { $rankname =~ s/ majus//;	} # no Duplex majus yet in 1570
 			
-			if($latname =~ /Vigilia Epi/i) {
-				$rankname = ($version =~ /trident/i) ? 'Semiduplex' : 'Semiduplex Vigilia II. classis';
-			}
+      if ($latname =~ /Vigilia Epi/i) {
+        $rankname =
+            $version =~ /cist/i ? ($dayofweek ? 'Vigilia privilegiata' : 'Vigilia ' . $cisttable[2])
+          : $version =~ /trident/i ? 'Semiduplex'
+          : 'Semiduplex Vigilia II. classis';
+      } elsif ($latname =~ /^In Vigilia/i && $rank <= 2.5) {
+        $rankname = $version =~ /cist/i ? 'iij. Lect. et M.' : 'Simplex';
+      }
 			
 			if($latname =~ /Sanctæ Fami/i && $version !~ /196/) {
 				$rankname = 'Duplex majus';
 			}
 			
 			if ($latname =~ /Dominica/i && $version !~ /196/) {
-				if ($version !~ /trident/i) {
-					local $_ = getweek($day, $month, $year, $dayofweek == 6 && $hora =~ /Vespera|Completorium/i);
+				if ($version !~ /trident/i || $version =~ /Cistercien/i) {
+          local $_ = getweek($day, $month, $year, $dayofweek == 6 && $hora =~ /Vespera|Completorium/i);
 					$rankname = (/Pasc[017]/i || /Pent01/i) ? 'Duplex I. classis'
 						: (/(Adv1|Quad[1-6])/i) ? 'Semiduplex Dominica I. classis'
 						: (/(Adv[2-4]|Quadp)/i) ? 'Semiduplex Dominica II. classis'
-						: (/(Epi[1-6])|Pent[22-23]/i && $dayofweek > 0 && !($dayofweek == 6 && $hora =~ /Vespera|Completorium/i)) ? 'Semiduplex Dominica anticipata'
+						: (/(Epi[1-6])|Pent[22-23]/i && $dayofweek > 0 && !($dayofweek == 6 && $hora =~ /Vespera|Completorium/i)) 
+						? 'Semiduplex Dominica anticipata'
 						: 'Semiduplex Dominica minor';
 				} else {
 					local $_ = getweek($day, $month, $year, $dayofweek == 6 && $hora =~ /Vespera|Completorium/i);
-					$rankname = (/Pasc[017]/i || /Pent01/i) ? 'Duplex I. classis'
+					$rankname = 
+						(/Pasc[017]/i || /Pent01/i) ? 'Duplex I. classis'
 					: (/(Adv1|Quad1|Quad[5-6])/i) ? 'Semiduplex Dominica I. classis'
 					: (/(Adv[2-4]|Quadp|Quad[2-4])/i) ? 'Semiduplex Dominica II. classis'
-					: (/(Epi[1-6])|Pent[22-23]/i && $dayofweek > 0 && !($dayofweek == 6 && $hora =~ /Vespera|Completorium/i)) ? 'Simplex Dominica anticipiata'
+					: (/(Epi[1-6])|Pent[22-23]/i && $dayofweek > 0 && !($dayofweek == 6 && $hora =~ /Vespera|Completorium/i)) 
+					? 'Simplex Dominica anticipiata'
 					: 'Semiduplex Dominica minor';
 				}
+
+				  if ($version =~ /cist/i) {
+          my $weekN = getweek($day, $month, $year, $dayofweek == 6 && $hora =~ /Vespera|Completorium/i);
+          $rankname =~ $cisttable[6] if $weekN =~ /Pasc[07]/i;
+          $rankname =~ $cisttable[5] if $weekN =~ /Pent01/i;
+          $rankname =~ s/Duplex /Dominica /;
+          $rankname =~ s/Semiduplex //;
+        }
 			}
-		} elsif ($version =~ /196/ && $dayname[0] =~ /Pasc[07]/i && $dayofweek > 0 && $winner !~ /Pasc7-0/) {
-			$rankname = 'Dies Octavæ I. classis';		# Paschal & Pentecost Octave post 1960
-		} elsif ($version =~ /196/ && $winner =~ /Pasc6-6/) {
-			$rankname = 'I. classis';		# Vigilia Pentecostes
-		} elsif ($version =~ /196/ && $winner =~ /Pasc5-3/) {
-			$rankname = 'II. classis';	# Vigilia Asc
-		} elsif ($version =~ /196/ && $month == 12 && $day > 16 && $day < 25 && $dayofweek > 0) {
-			$rankname = 'II. classis';	# Week before Christmas
-		} elsif ($version !~ /196/ && $rule =~ /C10/) {
-			$rankname = 'Simplex';	# BMV Sabbato
-			#} elsif ($version =~ /(1570|1910|Divino|1955)/ && $dayname[0] =~ /Quadp3/ && $dayofweek == 3) {
-			#$rankname = 'Feria privilegiata';
-			#} elsif ($version =~ /(1570|1910|Divino|1955)/ && (($dayname[0] =~ /Pasc6/ && $dayofweek == 5) || $name =~ /die infra|infra Octavam/i)) {
-			#$rankname = 'Semiduplex';
-		} elsif ($version !~ /196/ && $dayname[0] =~ /Pasc[07]/i && $dayofweek > 0) {
-			$rankname = ($rank =~ 7) ? 'Duplex I. classis' : 'Semiduplex'; # Paschal & pentecost Octave pre 1960
-		} elsif ($version =~ /trid/i && $latname =~ /^In Octava/i) {
-			$rankname = 'Duplex'; # all other Octaves pre Divino
-		} elsif ($version =~ /trid/i && $latname =~ /infra Octavam|post Octavam Asc|Vigilia Pent/i) {
-			$rankname = 'Semiduplex'; # all other Octaves pre Divino
-		} elsif ($version =~ /Divino/ && $latname =~ /^In Octava|infra Octavam|post Octavam Asc|Vigilia Pent/i) {
-			$rankname = ($rank < 2) ? 'Simplex'
-				: ($rank < 3 && $latname !~ /Asc|Nat|Cord/i || $latname =~ /post|Joan/) ? 'Semiduplex'
-				: ($rank < 3) ? 'Semiduplex III. ordinis'
-				: ($rank < 5 && $latname !~ /Asc|Nat|Cord/i) ? 'Duplex majus'
-			  : ($rank < 5) ? 'Duplex majus III. ordinis'
-				: ($rank < 5.61) ? 'Semiduplex II. ordinis'
-				: ($rank < 6.5) ? 'Duplex majus II. ordinis'
-				: 'Semiduplex Vigilia I. classis' ;
+    } elsif ($version =~ /196/ && $dayname[0] =~ /Pasc[07]/i && $dayofweek > 0 && $winner !~ /Pasc7-0/) {
+      $rankname = 'Dies Octavæ I. classis';    # Paschal & Pentecost Octave post 1960
+    } elsif ($version =~ /196/ && $winner =~ /Pasc6-6/) {
+      $rankname = 'I. classis';                # Vigilia Pentecostes
+    } elsif ($version =~ /196/ && $winner =~ /Pasc5-3/) {
+      $rankname = 'II. classis';               # Vigilia Asc
+    } elsif ($version =~ /196/ && $month == 12 && $day > 16 && $day < 25 && $dayofweek > 0) {
+      $rankname = 'II. classis';               # Week before Christmas
+    } elsif ($version !~ /196/ && $rule =~ /C10/) {
+      $rankname = $version =~ /cist/i ? 'iij. Lect. et M.' : 'Simplex';    # BMV Sabbato
+    } elsif ($version =~ /cist/i && $dayname[0] =~ /Pasc[07]/i && $dayofweek > 0) {
+      $rankname = ($rank =~ 7) ? 'MM. maj.' : 'iij. Lect. et M.';          # Paschal & pentecost Octave pre 1960
+    } elsif ($version !~ /196/ && $dayname[0] =~ /Pasc[07]/i && $dayofweek > 0) {
+      $rankname = ($rank =~ 7) ? 'Duplex I. classis' : 'Semiduplex';       # Paschal & pentecost Octave pre 1960
+    } elsif ($version =~ /trid/i && $latname =~ /^In Octava/i) {
+      $rankname = $version =~ /cist/i ? 'xij. Lect. et M.' : 'Duplex';     # all other Octaves pre Divino
+    } elsif ($version =~ /trid/i && $latname =~ /infra Octavam|post Octavam Asc|Vigilia Pent/i) {
+      $rankname = $version =~ /cist/i ? 'iij. Lect. et M.' : 'Semiduplex';    # all other Octaves pre Divino
+    } elsif ($version =~ /Divino/ && $latname =~ /^In Octava|infra Octavam|post Octavam Asc|Vigilia Pent/i) {
+      $rankname =
+          ($rank < 2) ? 'Simplex'
+        : ($rank < 3 && $latname !~ /Asc|Nat|Cord/i || $latname =~ /post|Joan/) ? 'Semiduplex'
+        : ($rank < 3) ? 'Semiduplex III. ordinis'
+        : ($rank < 5 && $latname !~ /Asc|Nat|Cord/i) ? 'Duplex majus'
+        : ($rank < 5) ? 'Duplex majus III. ordinis'
+        : ($rank < 5.61) ? 'Semiduplex II. ordinis'
+        : ($rank < 6.5) ? 'Duplex majus II. ordinis'
+        : 'Semiduplex Vigilia I. classis';
+
 			#} elsif ($version =~ /(1570|1910|Divino|1955)/ && $dayname[0] =~ /Quad/i && $dayname[0] !~ /Quad6-4|5|6/i && $dayofweek > 0) {
 			#$rankname = 'Simplex';
 		} elsif ($version !~ /196/ && $dayname[0] =~ /07-04/i && $dayofweek > 0) {
 			$rankname = ($rank =~ 7) ? 'Duplex I. classis' : 'Semiduplex'; # TODO: what is this? Independecne Day????
 		} else {	# Default for Ferias
 			if ($version !~ /196/) {
-				$rankname = ($rank < 2) ? 'Feria' : ($rank < 3) ? 'Feria major' : ($rank < 5) ? 'Feria privilegiata II. ordinis' : 'Feria privilegiata';
+        $rankname =
+            ($rank < 1.1 || ($rank < 2 && $version !~ /cist/i)) ? 'Feria'
+          : ($rank < 3) ? ($version =~ /monastic.*divino/i ? 'Feria privilegiata III. ordinis' : 'Feria major')
+          : ($rank < 5) ? 'Feria privilegiata II. ordinis'
+          : 'Feria privilegiata';
 			} else {
 				my @ranktable = (
 				'',
@@ -1838,8 +1867,11 @@ sub setheadline {
 
 sub subdirname {
 	my($subdir, $version) = @_;
-	$subdir .= 'M' if $version =~ /monastic/i;
-  $subdir .= 'Cist' if $version =~ /Cistercien/i;
+	return "${subdir}M/" if $version =~ /^Monastic/;
+	return "${subdir}Cist/" if $version =~ /Cistercien/;
+  return "${subdir}OP/" if $version =~ /^Ordo Praedicatorum/;
+	#$subdir .= 'M' if $version =~ /monastic/i;
+  #$subdir .= 'Cist' if $version =~ /Cistercien/i;
 	"$subdir/"
 }
 

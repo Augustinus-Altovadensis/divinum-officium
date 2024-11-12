@@ -1,5 +1,5 @@
 [Rank]
-S. Gabrielis Archangeli;;MM maj.;;5;;ex Sancti/05-08
+S. Gabrielis Archangeli;;MM maj.;;4;;ex Sancti/05-08
 
 [Rule]
 9 lectiones

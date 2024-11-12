@@ -1,6 +1,6 @@
 @Tempora/Nat2-0
 [Rank]
-Sanctissimi Nominis Jesu;;MM. maj.;;5;;
+Sanctissimi Nominis Jesu;;MM. maj.;;4;;
 
 [Rule]
 12 lectiones

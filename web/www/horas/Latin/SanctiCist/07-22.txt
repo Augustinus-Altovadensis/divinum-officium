@@ -1,7 +1,7 @@
 @Sancti/07-22
 
 [Rank]
-S. Mariæ Magdalenæ Pœnitentis;;MM. maj.;;5.1;;ex C7a
+S. Mariæ Magdalenæ Pœnitentis;;MM. maj.;;4;;ex C7a
 
 [Rule]
 Antiphonas horas

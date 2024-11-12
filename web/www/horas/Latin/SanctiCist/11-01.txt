@@ -1,7 +1,7 @@
 @Sancti/11-01
 
 [Rank]
-In Festo Omnium Sanctorum;;Serm. maj. cum Octava;;6.9;;
+In Festo Omnium Sanctorum;;Serm. maj. cum Octava;;6;;
 
 [Rule]
 12 lectiones

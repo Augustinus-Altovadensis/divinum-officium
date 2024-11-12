@@ -1,5 +1,5 @@
 [Rank]
-Ss. Symphorosæ et Septem Filiorum Martyrum;;Commemoratio;;1;;vide C3
+SS. Symphorosæ et Septem Filiorum, Martyrum;;Commemoratio;;1;;vide C3
 
 [Rule]
 vide C3;

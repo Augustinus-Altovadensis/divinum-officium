@@ -1,5 +1,5 @@
 [Rank]
-S. Famiani, Confessoris O.N.;;xij. Lect. et M.;;3;;ex C5
+S. Famiani, Confessoris O.N.;;xij. Lect. et M.;;2.2;;ex C5
 
 [Rule]
 12 lectiones

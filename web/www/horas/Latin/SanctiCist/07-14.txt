@@ -1,7 +1,7 @@
 @Sancti/07-14
 
 [Rank]
-S. Bonaventuræ Episcopi Confessoris et Ecclesiæ Doctoris;;Duplex;;2;;vide C4
+S. Bonaventuræ, Episcopi Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Responsory1]
 @Commune/C4a:Responsory8

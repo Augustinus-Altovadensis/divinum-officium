@@ -1,7 +1,7 @@
 @Sancti/12-08
 
 [Rank]
-In Conceptione Immaculata Beatæ Mariæ Virginis;;Serm. maj.;;7;;ex C11
+In Conceptione Immaculata Beatæ Mariæ Virginis;;Serm. maj.;;6;;ex C11
 
 [Rule]
 12 lectiones

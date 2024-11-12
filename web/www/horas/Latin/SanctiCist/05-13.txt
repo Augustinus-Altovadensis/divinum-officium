@@ -1,5 +1,5 @@
 [Rank]
-B. Dominici Zavřel, Martyris Ordinis Nostri;;MM. min.;;4;;ex C2
+B. Dominici Zavřel, Martyris Ordinis Nostri;;MM. min.;;3;;ex C2
 
 [Rule]
 Psalmi Dominica

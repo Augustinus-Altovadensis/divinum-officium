@@ -1,7 +1,7 @@
 @Sancti/08-20
 
 [Rank]
-S. Bernardi, Abbatis, et Ecclesiæ Doctoris;;Serm. maj.;;7;;ex C5
+S. Bernardi, Abbatis, et Ecclesiæ Doctoris;;Serm. maj.;;6;;ex C5
 
 [Rule]
 12 lectiones

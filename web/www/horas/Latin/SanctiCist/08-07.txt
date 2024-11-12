@@ -1,7 +1,7 @@
 @Sancti/08-07
 
 [Rank]
-S. Cajetani Thienæi, Confessoris;;iij. Lect. et M.;;2;;vide C5
+S. Cajetani Thienæi, Confessoris;;iij. Lect. et M.;;1.2;;vide C5
 
 [Commemoratio]
 @Sancti/08-07:Commemoratio 2:s/Commune/CommuneCist/

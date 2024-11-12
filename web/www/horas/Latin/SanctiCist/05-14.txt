@@ -1,5 +1,5 @@
 [Rank]
-S. Pachomii, Abbatis;;iij. Lect. et M.;;2;;vide C5
+S. Pachomii, Abbatis;;iij. Lect. et M.;;1.2;;vide C5
 
 [Oratio]
 @CommuneCist/C5:Oratio1:s/N\./Pachómii/

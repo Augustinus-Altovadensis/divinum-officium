@@ -1,4 +1,7 @@
 @Tempora/Adv2-2
 
+[Rank]
+Feria III. infra Hebdomadam II. Adventus;;Feria major;;1.15
+
 [Ant Laudes]
 Ecce in núbibus coeli * Dóminuss véniet cum potestáte magna, allelúia.

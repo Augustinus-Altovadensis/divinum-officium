@@ -1,5 +1,5 @@
 [Rank]
-Omnium Sanctorum Ordinis Nostri;;MM.maj.;;5;;ex C3
+Omnium Sanctorum Ordinis Nostri;;MM.maj.;;4;;ex C3
 
 [Rule]
 12 lectiones

@@ -1,7 +1,7 @@
 @Sancti/05-08
 
 [Rank]
-In Dedicatione S. Michaëlis Archangelis;;Duplex I. classis;;5.2
+In Dedicatione S. Michaëlis Archangelis;;Duplex I. classis;;4.1
 
 [Rule]
 12 lectiones

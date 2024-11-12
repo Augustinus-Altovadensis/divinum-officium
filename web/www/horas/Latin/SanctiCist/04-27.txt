@@ -1,4 +1,4 @@
 @Sancti/04-27
 
 [Rank]
-S. Petri Canisii Confessoris et Ecclesiæ Doctoris;;Simplex;;1.1;;vide C5
+S. Petri Canisii Confessoris et Ecclesiæ Doctoris;;Simplex;;1;;vide C5

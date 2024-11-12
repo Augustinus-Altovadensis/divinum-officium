@@ -1,7 +1,7 @@
 @Sancti/03-12
 
 [Rank]
-S. Gregorii, Papæ, Confessoris et Ecclesiæ Doctoris;;MM. min.;;4;;ex C4
+S. Gregorii, Papæ, Confessoris et Ecclesiæ Doctoris;;MM. min.;;3;;ex C4
 
 [Rule]
 12 lectiones

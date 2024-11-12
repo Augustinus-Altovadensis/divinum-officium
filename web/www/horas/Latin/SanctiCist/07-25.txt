@@ -1,7 +1,7 @@
 @Sancti/07-25
 
 [Rank]
-S. Jacobi, Apostoli;;MM. maj.;;5.2;;ex C1
+S. Jacobi, Apostoli;;MM. maj.;;4.2;;ex C1
 
 [Commemoratio]
 @Sancti/07-25:Commemoratio 2:s/Commune/CommuneCist/

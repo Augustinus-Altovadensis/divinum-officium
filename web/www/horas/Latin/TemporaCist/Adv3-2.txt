@@ -1,5 +1,8 @@
 @Tempora/Adv3-2
 
+[Rank]
+Feria III. infra Hebdomadam III. Adventus;;Feria major;;1.15
+
 [Ant Laudes]
 Véniet Dóminus, * et non tardábit, et illuminábit abscóndita tenebrárum, et manifestábit se ad omnes Gentes, allelúia.
 

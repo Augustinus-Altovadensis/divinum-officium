@@ -1,7 +1,7 @@
 @Sancti/05-09
 
 [Rank]
-S. Gregorii Nazianzeni Episcopi Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;3;;vide C4
+S. Gregorii Nazianzeni Episcopi Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4
 
 [Responsory1]
 @Commune/C4a:Responsory8

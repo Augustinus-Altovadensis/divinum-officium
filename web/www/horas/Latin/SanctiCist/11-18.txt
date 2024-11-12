@@ -1,7 +1,7 @@
 @Sancti/11-18r
 
 [Rank]
-In Dedicatione Basilicarum SS. Apostolorum Petri et Pauli;;Duplex;;5.2;;ex C8
+In Dedicatione Basilicarum SS. Apostolorum Petri et Pauli;;Duplex;;4.1;;ex C8
 
 [Capitulum Vespera]
 @CommuneCist/C8:Capitulum Vespera 3

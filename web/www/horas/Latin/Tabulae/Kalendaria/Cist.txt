@@ -49,6 +49,7 @@
 02-22=02-22=In Cathedra S. Petri Antiochiæ=3=
 02-23=02-23=S. Petri Damiani=2=
 02-24=02-24=S. Matthiae Apostoli=5=
+02-27=02-27=S. Mechthildis Virginis=1=
 *March*
 03-04=03-04=S. Lucii, Papæ et Martyris=1=
 03-05=03-05=B. Petri de Castronovo, Martyris=2=

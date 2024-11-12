@@ -1,7 +1,7 @@
 @Tempora/Nat1-0
 
 [Rank]
-Dominica Infra Octavam Nativitatis;;Semiduplex;;5.9;;ex SanctiM/12-25
+Dominica Infra Octavam Nativitatis;;Semiduplex;;4.9;;ex SanctiM/12-25
 
 [Rule]
 12 lectiones

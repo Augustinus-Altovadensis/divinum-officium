@@ -1,7 +1,7 @@
 @Sancti/01-01
 
 [Rank]
-In Circumcisione et Octava Nativitatis Domini;;Serm. min.;;6;;ex SanctiCist/12-25
+In Circumcisione et Octava Nativitatis Domini;;Serm. min.;;5;;ex SanctiCist/12-25
 
 [Rule]
 12 lectiones

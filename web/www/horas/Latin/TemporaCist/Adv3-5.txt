@@ -1,7 +1,7 @@
 @Tempora/Adv3-5
 
 [Rank]
-Feria VI Quattuor Temporum Adventus;;Feria major;;4
+Feria VI Quattuor Temporum Adventus;;Feria major;;2.1
 
 [Ant Laudes]
 Constántes estóte, * vidébitis auxílium Dómini super vos.
