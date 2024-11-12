@@ -249,9 +249,6 @@ sub occurrence {
               && $day == 1 
               && $dayofweek != 6) # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
 						|| ($srank[2] < 2 && $trank && !($month == 1 && $day > 6 && $day < 13)) # Simplex end after None.
-            || ( $version =~ /Cistercien/i 
-              && $srank[2] < 2.51 
-              && $trank && !($month == 1 && $day > 6 && $day < 13) ) # Festum iij. Lect. in Cist. ends after None.
 					) {
 					$srank = '';
 					%saint = undef;

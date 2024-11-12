@@ -1850,7 +1850,7 @@ if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ 
     }
 
   postprocess_vr($v, $lang);
-  
+
   # my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
   my $w = "!" . &translate('Commemoratio', $lang);
   $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
@@ -2320,6 +2320,64 @@ sub doxology {
 #*** checksuffragium
 # versions 1956 and 1960 exclude from Ordinarium
 sub checksuffragium {
+  return 1 if $winner =~ /C12/;    # Officium Parvum B.M.V.
+
+  my $ranklimit = ($version =~ /cist/i ? 4 : 3);    # Roman: Duplex; Cist: MM. maj.    
+  return 0
+    if $rule =~ /no suffragium/i
+
+    # early January
+    || !$dayname[0]
+
+    # Nativity, Hebd. maj., Octaves of Pasch and Pente, and Ascensiontide
+    || $dayname[0] =~ /Nat|Quad6|Pasc[067]/i
+
+    # Passiontide and Advent for non-Cistercian
+    || $version !~ /cist/i && $dayname[0] =~ /Adv|Quad5/i
+
+    # All Duplex (MM. maj.) Saints (except Patr. S. Joseph)
+    || ($winner =~ /sancti/i && $rank >= $ranklimit && $seasonalflag)
+    || ($winner =~ /tempora/i && $duplex > 2 && $seasonalflag)
+
+    # Octaves
+    || ($winner{Rank} =~ /octav/i && $winner{Rank} !~ /post Octavam/i)
+    || ($octavcount || $commemoratio{Rank} =~ /octav/i)
+
+    # Cistercian: minor Feasts of Apostles
+    || $version =~ /cist/i && $commune =~ /C1a?$/i
+
+    # Cist: MM. maj.: in theory yes, in practice it's already MM. min. since 1957
+    # NB: in current version, this will be /altovadensis/i
+    || ($version =~ /cist/i && $rank >= 3);
+
+  if ($commemoratio && $seasonalflag) {
+    my @r = split(';;', $commemoratio{Rank});
+
+    return 0
+      if $r[2] >= $ranklimit
+      || $commemoratio{Rank} =~ /in.*Octav/i
+      || checkcommemoratio(\%commemoratio) =~ /octav/i;
+
+    if (@commemoentries || @ccommemoentries) {
+      my @cccentries = (@commemoentries, @ccommemoentries);
+
+      foreach my $commemo (@cccentries) {
+        if (!(-e "$datafolder/Latin/$commemo") && $commemo !~ /txt$/i) { $commemo =~ s/$/\.txt/; }
+        my %c = %{officestring('Latin', $commemo, 0)};
+        my @cr = split(";;", $c{Rank});
+
+        return 0 if $cr[2] >= $ranklimit || $c{Rank} =~ /in.*Octav/i || checkcommemoratio(\%c) =~ /octav/i;
+
+      }
+    }
+  }
+
+  return 1;
+}
+
+#*** checksuffragium
+# versions 1956 and 1960 exclude from Ordinarium
+sub checksuffragium_old {
   if ($rule =~ /no suffragium/i) { return 0; }
   if ( $version =~ /Cistercien/i ) {
     if ($winner =~ /C1[0-2]/ || $dayname[1] =~ /Dominica/i )  { return 0; }

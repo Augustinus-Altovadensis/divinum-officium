@@ -1,5 +1,7 @@
 [Rank]
 Dominica VI Post Epiphaniam;;Semiduplex;;5
+(sed rubrica cisterciensis)
+Dominica VI Post Epiphaniam;;Semiduplex;;3.5
 
 [Rule]
 9 lectiones
