@@ -934,6 +934,7 @@ if (
         && $rank < 5)
 
       # in 1st Vespers of Duplex I. cl. only commemoration of Feria major, Dominica (major), 8va privilegiata and Duplex II./I. cl
+      # Standard setting omitted ij. Vesp. of S. Henry (MM. min.) on 15.7. due to St. Stephan Harding (Serm. maj.)
       || ( $crank >= ($version !~ /cist/i ? 6 : 7)
         && !($rank == 1.15 || $rank == 2.1 || $rank == 2.99 || $rank == 3.9 || $rank >= 4.2)
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
