@@ -1,5 +1,8 @@
 @Sancti/08-09t
 
+[Rank]
+In Vigilia S. Laurentii Mart.;;Vigilia;;1.5
+
 [Commemoratio]
 !Commemoratio S. Romani Martyris
 @CommuneCist/C2:Oratio3:s/N\./Románi/

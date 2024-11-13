@@ -1,7 +1,7 @@
 @Tempora/Adv1-0
 
 [Rank]
-Dominica I Adventus;;Semiduplex;;5.1
+Dominica I Adventus;;Semiduplex;;4
 
 [Rule]
 12 lectiones

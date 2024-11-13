@@ -1,0 +1,6 @@
+[Rank]
+Sv. Damasa, Papeže a Vyznavače;;Commemoratio;;1;;vide C4
+
+[Oratio]
+Vyslyš, Pane, naše prosby; a na přímluvu svatého Damasa, tvého Vyznavače a nejvyššího Pastýře, nám laskavě uděl slitování a mír.
+$Per Dominum

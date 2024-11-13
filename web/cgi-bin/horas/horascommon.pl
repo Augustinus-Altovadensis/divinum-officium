@@ -331,10 +331,10 @@ sub occurrence {
   # CHECK!
   # Because xij. Lect. et M. (rank=3) overcome a Sunday (rank=5), which is unacceptable, following change has been done: 
   # 'if ($version =~ /Trid|Cistercien/i' to this:
-	if ($version =~ /Trid/i 
+	if ($version =~ /Trid|Cistercien/i 
     && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i) || $trank[0] =~ /infra octavam Corp/i)) 
     { 
-      $trank[2] = 2.9; $trank[2] = 3.9 if ($version =~ /Cistercien/i);} # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
+      $trank[2] = 2.9; $trank[2] = 3.5 if ($version =~ /Cistercien/i);} # before Divino: Dominica minor and infra 8vam CC is outranked by any Duplex
 	elsif ($version =~ /divino/i && ($trank[2] < 5.1 && $trank[0] =~ /Dominica/i)) { $trank[2] = 4.9; }
 	elsif ($version =~ /196/ && $tname =~ /Nat1/i && $day > 28) {	# commemoration of the Christmas Octave according to the rubrics
 		$sname = subdirname('Tempora', $version) . "Nat$day";
@@ -579,8 +579,8 @@ sub occurrence {
         if $trank[2] >= 5 
         && $srank[2] < 2 
         && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i 
-        && $tname !~ /Adv|Quad/i 
-        && $version !~ /Cistercien/i;
+        && $version !~ /Cistercien/i # TEST!
+        && $tname !~ /Adv|Quad/i;
 			}
 					
 			if ($version =~ /196/i && $officename[2] =~ /Januarii/i) { $officename[2] = ''; }
@@ -951,7 +951,7 @@ if (
       $cvespera = 3;
 
       if (($comrank == 1.15 || $comrank == 2.1 || $comrank == 2.99 || $comrank == 3.9) && $cwinner !~ /12-25|01-01/)
-      {    # privilidged Feria, Dominica, or infra 8vam
+      {    # privileged Feria, Dominica, or infra 8vam
         $dayname[2] .= "<br/>Vespera de sequenti; commemoratio de off. priv. tantum";
       } else {
         $dayname[2] .= "<br />Vespera de sequenti; nihil de præcedenti";
@@ -1110,7 +1110,8 @@ if (
         }
 			}
 		}
-		@ccommemoentries = @comentries unless ($version =~ /Cistercien/i && $cstr{Rule} !~ /No prima vespera/i);
+		#Cist "original": @ccommemoentries = @comentries unless ($version =~ /Cistercien/i && $cstr{Rule} !~ /No prima vespera/i); # adds superfluous Advent comm.
+		@ccommemoentries = @comentries;
 		
 		# In Occurence (i.e. today): Simplex end after None.
     $ranklimit =

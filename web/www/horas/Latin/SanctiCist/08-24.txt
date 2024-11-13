@@ -1,5 +1,8 @@
 @Sancti/08-24
 
+[Rank]
+S. Bartholomæi, Apostoli;;MM. maj.;;4;;ex C1
+
 [Rule]
 12 lectiones
 

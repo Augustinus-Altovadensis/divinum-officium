@@ -1,5 +1,8 @@
 @Sancti/12-24
 
+[Rank]
+In Vigilia Nativitatis Domini;;Vigilia I classis;;6.9
+
 [Capitulum Laudes]
 @Sancti/12-24:Capitulum Laudes
 _

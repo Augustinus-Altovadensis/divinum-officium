@@ -1,5 +1,8 @@
 @Sancti/06-29
 
+[Rank]
+SS. Apostolorum Petri et Pauli;;Serm. maj.;;6.5;;ex C1
+
 [Rule]
 12 lectiones
 Antiphonas horas

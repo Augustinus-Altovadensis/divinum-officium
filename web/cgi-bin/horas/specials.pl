@@ -2614,20 +2614,6 @@ sub loadspecial {
   return @s;
 }
 
-#*** delconclusio($ostr)
-# deletes the conclusio from the string
-sub delconclusio {
-  my $ostr = shift;
-
-  # Stripped conclusion, perhaps to be added in again later.
-  our $addconclusio;
-
-  if ($ostr =~ s/^(\$(?!Oremus).*?(\n|$)((_|\s*)(\n|$))*)//m) {
-    $addconclusio = $1;
-  }
-  return $ostr;
-}
-
 #*** replaceNdot($s, $lang)
 # repleces N. with name in $s from %c
 # return corrected string

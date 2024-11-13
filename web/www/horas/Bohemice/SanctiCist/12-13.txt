@@ -1,0 +1,7 @@
+[Rank]
+Sv. Lucie, Panny a Mučednice;;xij. Lect. et M:;;2.2;;ex C6
+
+[Oratio]
+@Commune/C7::s/N\./Lucie, tvé Panny a Mučednice/
+
+

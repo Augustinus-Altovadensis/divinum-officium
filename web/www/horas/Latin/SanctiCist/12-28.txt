@@ -1,5 +1,8 @@
 @Sancti/12-28
 
+[Rank]
+SS. Innocentium, Martyrum;;Serm. min.;;5.2;;ex C3
+
 [Rule]
 12 lectiones
 

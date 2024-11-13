@@ -1,7 +1,7 @@
 @Tempora/Adv1-6
 
 [Rank]
-Sabbato infra Hebdomadam I Adventus;;Feria major;;1.15
+Sabbato infra Hebdomadam I. Adventus;;Feria major;;1.15
 
 [Ant Laudes]
 In illa die * stillábunt montes dulcédinem, et colles fluent lac et mel, allelúia.

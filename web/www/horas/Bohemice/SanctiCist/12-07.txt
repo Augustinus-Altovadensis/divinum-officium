@@ -1,0 +1,9 @@
+[Rank]
+Sv. Petra Chrysologa, Biskupa, Vyznavače a Učitele Církve;;iij. Lect. et M.;;1.2;;vide C4
+
+[Name]
+Petře Chrysologe
+
+[Oratio]
+Bože, jenž jsi svatého Petra Chrysologa, vynikajícího Učitele, božskou mocí předpověděného, chtěl vyvolit ke správě i poučení své Církve: uděl, prosíme, abychom, když jsme jej měli jako Učitele na zemi, měli jej též jako přímluvce v nebi.
+$Per Dominum

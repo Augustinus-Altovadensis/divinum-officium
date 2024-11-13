@@ -1,4 +1,6 @@
-@Sancti/12-11
-
 [Rank]
 S. Damasi Papæ et Confessoris;;Commemoratio;;1;;vide C4
+
+[Oratio]
+Exáudi, Dómine, preces nostras, * et, interveniénte beáto Damáso, Confessóre tuo atque Pontífice, § indulgéntiam nobis tríbue placátus et pacem.
+$Per Dominum

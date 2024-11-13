@@ -1,5 +1,8 @@
 @Sancti/10-DU
 
+[Rank]
+Domini Nostri Jesu Christi Regis;;Serm. maj.;;6.5;;
+
 [Rule]
 Festum Domini
 Psalmi Dominica

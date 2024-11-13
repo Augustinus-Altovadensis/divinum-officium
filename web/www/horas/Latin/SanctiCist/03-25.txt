@@ -1,5 +1,8 @@
 @Sancti/03-25
 
+[Rank]
+In Annuntiatione Beatæ Mariæ Virginis;;Serm. maj,;;6.5;;ex C11
+
 [Rule]
 12 lectiones
 Doxology=Nat
