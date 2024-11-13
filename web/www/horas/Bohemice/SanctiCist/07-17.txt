@@ -1,7 +1,7 @@
-﻿@Sancti/07-16
+@Sancti/07-16
 
 [Rank]
-Beatæ Mariæ Virginis de Monte Carmelo;;Duplex majus;;5;;ex C11
+Panny Marie Karmelské;;MM. maj.;;4;;ex C11
 
 [Ant 1]
 @CommuneCist/C11
