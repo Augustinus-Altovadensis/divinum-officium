@@ -7,3 +7,11 @@ ex C6;
 [Oratio]
 @Commune/C6::s/N\./Bárbaræ/
 
+[Name]
+Petre Chrysóloge
+
+[Commemoratio]
+!Commemoratio S. Petri Chrysologi
+@CommuneCist/C4a:Oratio proper
+v. Deus, qui beátum Petrum Chrysólogum Doctórem egrégium, divínitus præmonstrátum, ad regéndam et instruéndam Ecclésiam tuam éligi voluísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.
+$Per Dominum

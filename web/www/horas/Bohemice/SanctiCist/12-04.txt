@@ -7,3 +7,11 @@ ex C6;
 [Oratio]
 @Commune/C6::s/N\./Barbory/
 
+[Name]
+Petře Chrysologu
+
+[Commemoratio]
+!Připomínka sv. Petra Chrysologa
+@CommuneCist/C4a:Oratio proper
+v. Bože, jenž jsi svatého Petra Chrysologa, vynikajícího Učitele, božskou mocí předpověděného, chtěl vyvolit ke správě i poučení své Církve: uděl, prosíme, abychom, když jsme jej měli jako Učitele na zemi, měli jej též jako přímluvce v nebi.
+$Per Dominum

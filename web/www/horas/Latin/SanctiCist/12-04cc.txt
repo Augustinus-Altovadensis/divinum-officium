@@ -1,15 +1,12 @@
 [Rank]
-S. Petri Chrysologi, Episcopi, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4
+S. Petri Chrysologi, Episcopi, Confessoris et Ecclesiæ Doctoris;;iij. Lect. et M.;;1.2;;vide C4a
 
 [Name]
 Petre Chrysóloge
 
 [Rule]
-vide C4;
+vide C4a;mtv
 9 lectiones;
-
-[Hymnus Vespera]
-@Commune/C4:HymnusM Vespera:s/Hódie/Hac die/ s/beátas/suprémos/ s/Scándere sedes/Laudis honóres/
 
 [Oratio]
 Deus, qui beátum Petrum Chrysólogum Doctórem egrégium, divínitus præmonstrátum, ad regéndam et instruéndam Ecclésiam tuam éligi voluísti: præsta, quǽsumus; ut, quem Doctórem vitæ habúimus in terris, intercessórem habére mereámur in cælis.

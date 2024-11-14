@@ -206,6 +206,9 @@ sub occurrence {
 		}
 		
 		$BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6) ? 0 : 1; # nicht sicher, ob das notwendig ist
+
+		# BMV in Sabbato cannot be on Vigilia Imm. Conceptionis
+		if ($version =~ /Cistercien/i && $month == 12 && ($day == 6 || $day == 7))  { $BMVSabbato = 0 }
 		
 		if (-e "$datafolder/Latin/$sfile.txt") {
 			$sname = "$sfile.txt";
@@ -314,23 +317,19 @@ sub occurrence {
 			$sname = '';
 			@srank = undef;
 		}
-		
+
 		# In Festo Sanctae Mariae Sabbato according to the rubrics.
 		if ( ($dayname[0] !~ /(Adv|Quad[0-6]|Quadp3)/i || ( $version =~ /Cistercien/i && $dayname[0] !~ /(Quad[0-6]|Quadp3)/i) ) && $testmode !~ /^season$/i && $BMVSabbato
-				&& $srank !~ /(Vigil|in Octav|Omnium Fidelium)/i && (( $trank[2] < 2 && $srank[2] < 2 ) || ( $version =~ /Cistercien/i && ( $trank[2] <= 2 && $srank[2] <= 2 ))) && !$transfervigil) {
+				&& $srank !~ /(Vigil|in Octav|Omnium Fidelium)/i && ( $trank[2] < 2 && $srank[2] < 2 ) && !$transfervigil) {
 			unless($tomorrow) {
 				$scriptura = $tname =~ /Epi0/i ? $sname : $tname;
 			}
 			$tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Feria;;1.2;;vide $C10";
-      if ($version =~ /Cistercien/i) { $tempora{Rank} = $trank = "Sanctæ Mariæ Sabbato;;Feria;;2.1;;vide $C10"; }
       $tname = subdirname('Commune', $version) . "$C10.txt";
 			@trank = split(";;", $trank);
 		}
 	}
 	
-  # CHECK!
-  # Because xij. Lect. et M. (rank=3) overcome a Sunday (rank=5), which is unacceptable, following change has been done: 
-  # 'if ($version =~ /Trid|Cistercien/i' to this:
 	if ($version =~ /Trid|Cistercien/i 
     && (($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i) || $trank[0] =~ /infra octavam Corp/i)) 
     { 
@@ -1470,6 +1469,8 @@ sub precedence {
 
 		}
 	}
+
+	if ($version =~ /Cistercien/i && $day == 7 && $month == 12 && $dayofweek != 0)  { $dayname[2] .= "Vigilia Immaculatæ Conceptionis Beatæ Mariæ Virginis."; }
 	
 	#Epiphany days for 1955|1960
 	#if ($version =~ /(1955|1960)/ && $month == 1 && $day > 6 && $day < 13 && $winner{Rank} =~ /Die/i	&&

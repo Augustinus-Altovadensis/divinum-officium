@@ -1,0 +1,11 @@
+[Rank]
+Vigilia Immaculatæ Conceptionis Beatæ Mariæ Virginis;;Vigilia;;1.5;;
+
+[Rule]
+Responsory Feria
+Preces feriales
+Versum Feria
+Oratio Dominica
+no Te Deum
+Laudes 2 
+

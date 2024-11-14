@@ -255,11 +255,10 @@
 12-01=12-01=S. Eligii, Episcopi et Confessoris=1=
 12-02=12-02=S. Bibianae Virginis=1=
 12-03=12-03=S. Galgani Confessoris=3=
-12-04=12-04=S. Barbaræ Virginis et Martyris=6=
+12-04=12-04=S. Barbaræ Virginis et Martyris=6=S. Petri Chrysologis, Ep., Conf. et Eccl. Doct.=3=
 12-05=12-05=S. Francisci Xaverii Confessoris=3=
 12-06=12-06=S. Nicolai Episcopi et Confessoris=8=
-12-07=12-07=S. Petri Chrysologi Episcopi Confessoris Ecclesiæ Doctoris=3=
-12-08=12-08= Immaculata Conceptione Beatae Mariae Virginis=8=
+12-08=12-08=Immaculata Conceptione Beatae Mariae Virginis=8=
 12-10=12-10=S. Melchiadis Papae et Mart=1=  
 12-11=12-11=S. Damasi Papæ et confessoris=3=
 12-13=12-13=S. Luciæ Virginis et Martyris=3=

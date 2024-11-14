@@ -1851,7 +1851,8 @@ if ( $version =~ /Cistercien/i && $dayname[0] =~ /(Adv|Quad|Pasc)/i && $wday =~ 
 
   postprocess_vr($v, $lang);
 
-  # my $w = "!" . &translate("Commemoratio", $lang) . (($lang !~ /latin/i || $wday =~ /tempora/i) ? ':' : ''); # Adding : except for Latin Sancti which are in Genetiv
+  if ($a =~ /N\./) { $a = replaceNdot($a, $lang); }
+
   my $w = "!" . &translate('Commemoratio', $lang);
   $a =~ s/\s*\*\s*/ / unless ($version =~ /Monastic/i);
   $o =~ s/^(?:v. )?/v. /;
@@ -2413,6 +2414,7 @@ sub getrefs {
   my $lang = shift;
   my $ind = shift;
   my $rule = shift;
+  my $name = shift;
   my $file = '';
   my $item = '';
   my $flag = 0;
@@ -2474,6 +2476,7 @@ sub getrefs {
       } else {
         $a = '';
       }
+
       $w = "$before$a$after";
       next;
     }
@@ -2500,6 +2503,9 @@ sub getrefs {
               $ind++ if ($hora =~ /Laudes/i) };
         }
       postprocess_ant($a, $lang);
+
+      if ($a =~ /N\./) { $a = replaceNdot($a, $lang, $name); }
+
       my $v = chompd($s{"Versum $ind"});
       if ($version =~ /Cistercien/i && $alia)
         { # Alternate Versum is always Versum (Responsory) from Terce
