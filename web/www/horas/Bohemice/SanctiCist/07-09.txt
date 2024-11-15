@@ -1,5 +1,5 @@
 [Rank]
-Sv. Alberta ze Sestri, Vyznavače;;Commemoratio;;1;;vide C5
+Sv. Alberta ze Sestri, Vyznavače (1965);;Commemoratio;;1;;vide C5
 
 [Oratio]
 @CommuneCist/C5:Oratio2:s/N\./Alberta/

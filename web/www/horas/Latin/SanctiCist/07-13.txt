@@ -5,5 +5,5 @@ S. Anacleti, Papæ et Martyris;;Commemoratio et M.;;1;;vide C2
 @Commune/C2:Oratio1:s/N\./Anacléti/
 
 [Commemoratio]
-!Commemoratio Beatarum Virginum et Martyrum Arausicanarum
+!Commemoratio Beatarum Virginum et Martyrum Arausicanarum (1965)
 @Commune/C6a:Oratio:s/N\. et N\.//

@@ -1,5 +1,5 @@
 [Rank]
-Sv. Ireneje, Biskupa, Mučedníka a Učitele Církve;;Commemoratio et Missa;;1;;vide C2
+Sv. Ireneje, Biskupa, Mučedníka a Učitele Církve (1965);;Commemoratio et Missa;;1;;vide C2
 
 [Ant 1]
 @Commune/C4a::s/N\./Ireneji/

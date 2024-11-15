@@ -1,5 +1,5 @@
 [Rank]
-S. Alberti de Sestri, Confessoris;;Commemoratio;;1;;vide C5
+S. Alberti de Sestri, Confessoris (1965);;Commemoratio;;1;;vide C5
 
 [Oratio]
 @CommuneCist/C5:Oratio2:s/N\./Albérti/

@@ -11,7 +11,7 @@ Deus, qui beátum Famiánum, Confessórem tuum, in divérsis natiónum pópulis 
 $Per Dominum
 
 [Commemoratio]
-!Commemoratio S. Joannis Mariæ Vianney, Confessoris
+!Commemoratio S. Joannis Mariæ Vianney, Confessoris (1965)
 @CommuneCist/C5:Oratio proper
 $Oremus
 Omnípotens et miséricors Deus, qui sanctum Joánnem Maríam pastoráli stúdio et~

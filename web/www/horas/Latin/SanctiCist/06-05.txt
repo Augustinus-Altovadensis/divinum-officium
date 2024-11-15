@@ -1,6 +1,6 @@
 @Sancti/06-05
 [Rank]
-S. Bonifatii Episcopi et Martyris;;Commemoratio et M.;;1;;vide C2
+S. Bonifatii, Episcopi et Martyris (1965);;Commemoratio et M.;;1;;vide C2
 
 [Rule]
 vide C2;

@@ -5,5 +5,5 @@ S. Anakléta, Papeže a Mučedníka;;Commemoratio et M.;;1;;vide C2
 @Commune/C2:Oratio1:s/N\./Anakléta/
 
 [Commemoratio]
-!Připomínka svatých Panen a Mučednic Oranžských
+!Připomínka svatých Panen a Mučednic Oranžských (1965)
 @Commune/C6a:Oratio:s/N\. a N\.//

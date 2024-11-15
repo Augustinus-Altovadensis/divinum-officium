@@ -1,5 +1,5 @@
 [Rank]
-Sv. Pachomia, Opata;;iij. Lect. et M.;;2;;vide C5
+Sv. Pachomia, Opata (1965);;iij. Lect. et M.;;2;;vide C5
 
 [Oratio]
 @CommuneCist/C5:Oratio1:s/N\./Pachomia/
