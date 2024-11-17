@@ -115,11 +115,35 @@ Amen.
 [Ant 2]
 O digníssima * Christi sponsa, quam lux prophetíæ illustrávit, zelus Apostólicus inflammávit, láurea Vírginum coronávit, divíni amóris incéndium consummávit. 
 
-
 [Capitulum Tertia]
 !Cant. 3. b.
 v. Invéni quem díligit ánima mea: § ténui eum, nec dimíttam, * donec introdúcam illum in domum matris meæ; § et in cubículum genitrícis meæ.
 $Deo gratias
+
+[Capitulum Sexta]
+!Cant. 8.
+v. Pone me ut signáculum super cor tuum, § ut signáculum super bráchium tuum; * quia fortis est ut mors diléctio. 
+$Deo gratias
+
+[Capitulum Nona]
+!Cant. 2.
+v. Surge amíca mea, speciósa mea, et veni: § colúmba mea, in foramínibus petræ, in cavérna macériæ, osténde mihi fáciem tuam; * sonet vox tua in áuribus meis; § vox enim tua dulcis et fácies tua decóra. 
+$Deo gratias
+
+[Responsory Nona]
+@Commune/C6:Responsory Sexta:8-9
+
+[Ant Vespera 3]
+Casta colúmba, * nidíficans in cavérna macériæ sacri láteris Jesu Christi, mel suavíssimum de petra sugébat.;;109
+Loquebátur Christus * ad diléctam Gertrúdem fácie ad fáciem, sicut solet loqui homo ad amícum suum.;;112
+Beátæ Gertrúdis verba * divíni erant amóris jácula: lámpades ejus, lámpades ignis atque flammárum.;;121
+Diléctæ ánimam * e cárcere córporis exeúntem accépit Christus in ulnas suas, et cor suum illi amánter apéruit.;;126
+
+[Versum 3]
+@CommuneCist/C6
+
+[Ant 3]
+Apparuérunt * cœléstes spíritus de cœlo descendéntes ad terram, qui Gertrúdem ad Paradísi gáudia modulátis vócibus invitábant: Veni, veni dómina, quia te expéctant cœli delíciæ, allelúia, allelúia.
 
 [Lectio1] 
 @Sancti/08-16o::s/-7/-5/ s/6 .*//s
