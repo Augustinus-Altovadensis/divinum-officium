@@ -1,5 +1,55 @@
 [Rank]
-Sv. Gertrudy, Panny;;MM. maj.;;5.1;;ex C6
+Sv. Gertrudy, Panny Našeho Řádu;;MM. maj.;;5.1;;ex C6
+
+[Ant Vespera]
+V Gertrudině srdci * mě naleznete, praví Pán; má duše v ní nalezla zalíbení.;;109
+Přesvatá * Kristova nevěsta velmi přilnula ke svému milovanému, a on s ní byl jedna duše.;;112
+Jak krásná jsi, Gertrudo, * a jak zdobná v duchovních potěšeních! Bůh si v ní přichystal radostný příbytek.;;121
+Žiji sice já, * ale už ne pouze já; žije totiž ve mně Kristus; nosím přece rány Pána Ježíše ve svém srdci.;;126
+
+[Hymnus Vespera]
+Gertrudo, ty Schráno Boží,
+Spojená s panen Ženichem,
+Dej zapět krásný chvalozpěv,
+Na čistou lásku manželskou.
+_
+Čtyřletá v touze po Kristu,
+V klášter jsi rychle přiběhla,
+Zřekla ses kojné náruče,
+Bys Krista měla polibky.
+_
+Jako bělostná lilie
+Svou vůní saháš k nebesům,
+A panenskou svou nádherou
+Krále nebes pak k sobě zveš.
+_
+On jest v náruči Otcově,
+Odvěkou slávou ověnčen,
+A s láskou, jako ženich tvůj, 
+Uléhá do tvé náruče.
+_
+Láskou jsi Krista zranila,
+Však on ti rány oplatil;
+A v tvé srdce on skutečná
+Vypálil vpravdě Stigmata.
+_
+Jak veliká to láska je,
+A podivuhodná směna!
+Jen On dýchá ve tvém srdci;
+Ty žiješ pak z ducha jeho.
+_
+Tě, Jezu, panen Ženichu,
+Blažené chválí zástupy;
+Otci i Utěšiteli,
+Stejná buď sláva navěky.
+Amen.
+
+[Oratio]
+Deus, qui in corde beátæ Gertrúdis Vírginis jucúndam tibi mansiónem præparásti: ipsíus méritis et intercessióne; cordis nostri máculas cleménter abstérge, et eiúsdem tríbue gaudére consórtio.
+$Per Dominum
+
+[Ant 1]
+Dcery siónské, * vyjděte a pohleďte na Gertrudu ozdobenou diamanty, jak ji korunoval Kristus v den jejího zaslíbení, jež byl i dnem radosti pro její srdce. 
 
 [Oratio]
 Bože, jenž sis v srdci svaté Panny Gertrudy přichystal radostný příbytek; pro její zásluhy a na její přímluvu laskavě očisť skvrny našich srdcí, a uděl nám radost z její společnosti.
@@ -8,6 +58,53 @@ $Per Dominum
 [Commemoratio]
 !Připomínka sv. Řehoře Divotvůrce, Biskupa a Vyznavače
 @CommuneCist/C4:Oratio:s/N\./Řehoře/
+
+[Ant Laudes]
+Chval a raduj se, * dcero siónská, neboť hle, já přicházím, a budu přebývat v tvém nitru, praví Pán. 
+Ó, blažená duše, * jež si zasloužila státi se trůnem moudrosti, jejíž potěšením je přebývat se syny lidskými.
+Sedmi svatebními prsteny * podaroval mě můj Pán Ježíš Kristus, a jako nevěstu mě ozdobil korunou.
+Gertruda měla moc * zakrýt nebe oblaky, i otevřít jeho brány, neboť její jazyk se stal klíčem nebeským.
+Věrná to služebnice * a vyvolená nevěsta vstoupila do srdce i radosti svého Pána, láskou k němuž umírala.
+
+[Hymnus Laudes]
+Po svatých stáncích Panna v touze vzdychá, 
+Svatbu nebeskou slavit právě míří,
+A v zbožných prosbách stále vytrvává,  
+Čeká tu chvíli.
+_
+Nemocná trpí, zjevně tu však stojí
+Kristus, nebeským sborem doprovázen,
+Také svým božským světlem obnovuje,
+Nemocné tváře.
+_
+Zvolá pak: „Povstaň, sestro má, nevěsto,
+Hle, otvírám ti nitro svého srdce,
+Bys v otevřený, vítězný vstoupila
+Nebeský povoz.“
+_
+Tento hlas celé nitro jí proniká,
+Též pouta duše její hned uvolní,
+Duch svobodný hned letí v otevřené
+Kristovo nitro.
+_
+Když šťastná míří v síně Beránkovy,
+Kolem ní zástup Nebešťanů jásá,
+Objímá ji, a přítelkyně zpívá
+K polibkům Krista.
+_
+Ženicha Panen, Krále nebeského, 
+Ať sbory svatých Panen slavně chválí;
+Trojici svaté vděčně a navěky,
+Svět náš se klaní.
+Amen. 
+
+[Ant 2]
+Ó předůstojná * Kristova nevěsto, již světlo prorocké osvítilo, apoštolský zápal podnítil, panenský věnec korunoval, a požár božské lásky strávil.  
+
+[Capitulum Tertia]
+!Píseň písní 3. b.
+v. Nalezla jsem toho, jejž si zamilovala má duše; držím jej a nepustím, dokud jej nepřivedu do domu mé matky, do komnaty té, která mě porodila.
+$Deo gratias
 
 [Responsory1]
 R. The Lord loved Gertrude in perpetual charity, therefore he drew her to him from infancy, and led her into solitude .

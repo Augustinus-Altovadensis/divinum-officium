@@ -6,13 +6,120 @@ S. Gertrudis Virginis;;MM. maj.;;4;;ex C6
 ex C6;
 12 lectiones
 
+[Ant Vespera]
+In corde Gertrúdis * inveniétis me, dicit Dóminus: complácuit sibi in illa ánima mea.;;109
+Sanctíssima * Christi sponsa dilécto suo júgiter adhærébat, et unus cum illo spíritus erat.;;112
+Quam pulchra es Gertrúdis, * et quam decóra in delíciis! in qua jucúndam sibi Deus habitatiónem præparávit!;;121
+Vivo autem ego, * jam non ego; vivit vero in me Christus; ego enim stígmata Dómini Jesu in corde meo porto.;;126
+
+[Capitulum Vespera]
+@:Capitulum Tertia
+_
+@CommuneCist/C6:Capitulum Laudes:3-6
+
+[Hymnus Vespera]
+Gertrúdis arca Núminis,
+Sponsóque juncta vírginum,
+Da nuptiális pángere
+Castos amóres fœderis.
+_
+Quadríma Christo núbilis
+In claustra prompte cónvolas;
+Spretóque nutrícis sinu,
+Sponsi requíris óscula.
+_
+Candéntis instar lílii
+Odóre mulces sídera,
+Et virgináli cœlitum
+Regem decóre pértrahis.
+_
+Qui vivit in sinu Patris,
+Cinctus perénni glória,
+Amánter, ut sponsus, tua
+Recúmbit inter úbera.
+_
+Amóre Christum vúlneras:
+Hic te vicíssim vúlnerat:
+Tuóque cordi própria
+Inúrit alte Stígmata.
+_
+O singuláris cháritas,
+Et mira commutátio!
+Hic corde respírat tuo:
+Tu vivis hujus spíritu.
+_
+Te, Sponse Jesu vírginum,
+Beáta laudent ágmina;
+Patri, simul Paráclyto
+Par sit per ævum glória.
+Amen.
+
+[Versum 1]
+@Commune/C6
+
 [Oratio]
 Deus, qui in corde beátæ Gertrúdis Vírginis jucúndam tibi mansiónem præparásti: ipsíus méritis et intercessióne; cordis nostri máculas cleménter abstérge, et eiúsdem tríbue gaudére consórtio.
 $Per Dominum
 
+[Ant 1]
+Egredímini * et vidéte fíliæ Sion Gertrúdem in diadémate, quo coronávit illam Christus in die desponsatiónis illíus, et in die lætítiæ cordis ejus. 
+
 [Commemoratio]
 !Commemoratio S. Gregorii Thaumaturgi, Episcopi et Confessoris
 @CommuneCist/C4:Oratio:s/N\./Gregórii/
+
+[Ant Laudes]
+Lauda et lætáre * fília Sion, quia ecce ego vénio, et habitábo in médio tui, dicit Dóminus.
+O beáta ánima, * quæ méruit esse sedes sapiéntiæ, cujus delíciæ sunt esse cum fíliis hóminum! 
+Annulis septem * subarrhávit me Dóminus meus Jesus Christus, et tanquam sponsam decorávit me coróna.
+Hábuit Gertrúdis * potestátem claudére cœlum núbibus, et aperíre portas ejus; quia lingua ejus clavis cœli facta est.
+Ancílla fidélis * et sponsa elécta intrávit in cor et gáudium Dómini sui, cujus amóre languébat.
+
+[Capitulum Laudes]
+@:Capitulum Tertia
+_
+@CommuneCist/C6:Capitulum Vespera:3-6
+
+[Hymnus Laudes]
+Ad sacros Virgo thálamos anhélans,
+Núptias cœlo celebráre gestit,
+Et piis votis nímium morántem
+Próvocat horam.
+_
+Ægra cum languet maniféstus adstat,
+Cœlitum turma comitánte, Christus,
+Atque divíni récreat jacéntem
+Lúmine vultus.
+_
+Surge, conclámat, soror atque sponsa,
+En tibi pando penetrále cordis,
+Ut triumpháli reseráta scandas
+Sídera curru.
+_
+Ista vox omnes pénetrat medúllas,
+Atque compáges ánimi resólvit:
+Spíritus liber volat in reclúsa
+Víscera Christi.
+_
+Régios Agni thálamos peténtem
+Júbilans stipat Súperum coróna,
+Atque compléxus, et amíca cantat
+Oscula Sponsi.
+_
+Vírginum sponsum superúmque Regem
+Vírginum sanctæ célebrent choréæ;
+Et sacram supplex Tríadem per ævum
+Orbis adóret.
+Amen.
+
+[Ant 2]
+O digníssima * Christi sponsa, quam lux prophetíæ illustrávit, zelus Apostólicus inflammávit, láurea Vírginum coronávit, divíni amóris incéndium consummávit. 
+
+
+[Capitulum Tertia]
+!Cant. 3. b.
+v. Invéni quem díligit ánima mea: § ténui eum, nec dimíttam, * donec introdúcam illum in domum matris meæ; § et in cubículum genitrícis meæ.
+$Deo gratias
 
 [Lectio1] 
 @Sancti/08-16o::s/-7/-5/ s/6 .*//s
