@@ -2,3 +2,9 @@
 
 [Rank]
 Ss. Felicis et Adaucti, Martyrum;;Commemoratio et M.;;1;;vide C3
+
+[Commemoratio]
+!Commemoratio S. Rosæ a S. Maria Limanæ, Virginis (1965)
+@CommuneCist/C6:Oratio proper
+v. Bonórum ómnium largítor, omnípotens Deus, qui beátam Rosam, cæléstis grátiæ rore prævéntam, virginitátis et patiéntiæ decóre Indis floréscere voluísti: da nobis fámulis tuis; ut, in odórem suavitátis ejus curréntes, Christi bonus odor éffici mereámur:
+$Qui tecum

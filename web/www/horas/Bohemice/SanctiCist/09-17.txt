@@ -5,7 +5,7 @@ Sv. Lamberta, Biskupa a Vyznavače;;iij. Lect. et M.;;2;;vide C2
 @Commune/C2:Oratio1:s/N\./Lamberta/
 
 [Commemoratio]
-!Připomínka sv. Hildegardy, Panny
+!Připomínka sv. Hildegardy, Panny (1965)
 @CommuneCist/C6:Oratio proper
 $Oremus
 Bože, jenž jsi svatou Hildegardu ozdobil nebeskými dary; uděl, prosíme, abychom vytrvali v jejích stopách i odkazu, a tak si zasloužili přejít z přítomné temnoty tohoto světa do tvého příjemného světla.

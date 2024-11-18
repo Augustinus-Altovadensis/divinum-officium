@@ -1,0 +1,6 @@
+[Rank]
+Svaté Rodiny Ježíš, Marie a Josefa;;MM maj.;;4
+
+[Commemoratio]
+!Připomínka Neděle v Oktávu Zjevení Páně
+@Tempora/Epi1-0a:Oratio:s/V\. .*/V. Klanějte se jemu./ s/R\. .*/R. Všichni jeho Andělé./

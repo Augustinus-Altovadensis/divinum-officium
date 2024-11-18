@@ -11,7 +11,7 @@ S. Lamberti, Epicopi et Confessoris (in Bohemia, transl. ex 16. Septembris);;iij
 @Commune/C2:Oratio1:s/N\./Lambérti/
 
 [Commemoratio]
-!Commemoratio S. Hildegardis, Virginis
+!Commemoratio S. Hildegardis, Virginis (1965)
 @CommuneCist/C6:Oratio proper
 $Oremus
 Deus, qui beátam Hildegárdem Vírginem tuam donis cœléstibus decorásti: § tríbue quǽsumus; * ut ejus vestígiis et documéntis insisténtes, § a praeséntis hujus sæculi calígine ad lucem tuam delectábilem transíre mereámur. *

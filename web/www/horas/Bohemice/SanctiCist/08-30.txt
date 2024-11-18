@@ -2,3 +2,9 @@
 
 [Rank]
 Sv. Felixe a Adaucta, Mučedníků;;Commemoratio et M.;;1;;vide C3
+
+[Commemoratio]
+!Přípomínka sv. Růženy od Panny Marie z Limy, Panny (1965)
+@CommuneCist/C6:Oratio proper
+v. Všemohoucí Bože, ty štědře uděluješ všechno dobré, a blaženou Růženu, již předcházela rosa nebeské milosti, jsi chtěl nechat rozkvést krásou panenství a trpělivosti pro národy Ameriky; dej nám, svým služebníkům, abychom běželi ve vůni její sladkosti, a tak si zasloužili dosáhnout dobré vůně Kristovy.
+$Qui tecum

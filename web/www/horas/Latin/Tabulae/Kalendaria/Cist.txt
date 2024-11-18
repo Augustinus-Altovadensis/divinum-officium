@@ -30,7 +30,7 @@
 01-28=01-28=B. Amedei, Episcopi et Confessoris=2=
 01-29=01-29=S. Francisci Salesii Episcopi Confessoris Ecclesiae Doctoris=2=
 01-30=01-30=B. Gerardi, Confessoris=2=
-01-31=01-31=Commemoratio Superiorum Defunctorum=3=
+01-31=01-31=Commemoratio Superiorum Defunctorum=3=S. Joannis Bosco, Conf. (1965)=1=
 *February*
 02-01=02-01=S. Ignatii Episcopi et Martyris=2=
 02-02=02-02=In Purificatione Beatae Mariae Virginis=5=
@@ -49,7 +49,7 @@
 02-22=02-22=In Cathedra S. Petri Antiochiæ=3=
 02-23=02-23=S. Petri Damiani=2=
 02-24=02-24=S. Matthiae Apostoli=5=
-02-27=02-27=S. Mechthildis Virginis=1=
+02-27=02-27=S. Mechthildis Virginis (1965)=1=
 *March*
 03-04=03-04=S. Lucii, Papæ et Martyris=1=
 03-05=03-05=B. Petri de Castronovo, Martyris=2=
@@ -68,7 +68,7 @@
 04-05=04-05=S. Julianæ Virginis=3=
 04-06=04-06=S. Isidori, Episc., Confessoris et Ecclesiae Doctoris=2=
 04-11=04-11=S. Leonis I Papae Confessoris et Ecclesiae Doctoris=2=
-04-14=04-14=Ss. Tiburtii, Valeriani et Maximi=2=
+04-14=04-14=Ss. Tiburtii, Valeriani et Maximi=2=S. Justini, Martyris (1965)=1=
 04-17=04-17=S. Aniceti Papae et Martyris=1=
 04-21=04-21=S. Anselmi Episcopi Confessoris et Ecclesiae Doctoris=2=
 04-22=04-22=SS. Soteris et Caii, Pontificum et Martyrum=1=
@@ -77,7 +77,7 @@
 04-26=04-26=S. Franchæ, Virginis=2=Cleti et Marcellini Pontif Martyrum=1=
 04-28=04-28=S. Vitalis, Martyris=1=
 04-29=04-29=S.P.N. Roberti, Primi Abbatis Cistercii=6=
-04-30=04-30=S. Petri, Martyris=2=Catharinae Senensis Virginis=1=
+04-30=04-30=S. Petri, Martyris=2=Catharinae Senensis Virginis (1965)=1=
 *May*
 05-01=05-01=SS. Apostolorum Philippi et Jacobi=5=
 05-02=05-02=S. Sigismundi, Martyris et Patroni Regni Bohemiæ=5=S. Athanasii Confessoris Ecclesiae Doctoris=2=
@@ -92,7 +92,7 @@
 05-11=05-11=Ss. Pii V. Papæ et Confessoris=2=
 05-12=05-12=Ss. Nerei, Achillei et Domitillae Virgini atque Pancratii Martyrum=2=
 05-13=05-13=B. Dominici Zavřel, Martyris Ordinis Nostri=4=
-05-14=05-14=S. Pachomii, Abbatis=2=S. Bonifacii, Martyris=1=
+05-14=05-14=S. Pachomii, Abbatis (1965)=2=S. Bonifacii, Martyris=1=
 05-16=05-16=S. Johannis Nepomuceni, Martyris et Patroni Bohemiæ=6=Beatorum Martyrum de Casamari=2=
 05-19=05-19=S. Petri Celestini Papae Confessoris=2=
 05-20=05-20=S. Yvonis, Confessoris=1=
@@ -105,7 +105,7 @@
 05-31=05-31=S. Petronillæ, Virginis=1=
 *June*
 06-02=06-02=Ss. Marcellini et Petri Martyrum=1=
-06-05=06-05=S. Bonifacii Episc et Mart=3=
+06-05=06-05=S. Bonifacii, Episc. et Mart. (1965)=3=
 06-06=06-06=S. Norberti, Episcopi, Confessoris et Patroni Bohemiæ=5=
 06-07=06-07=S. Roberti, Abbatis=1=
 06-08=06-08=S. Medardi, Episcopi et Confessoris=1=
@@ -131,14 +131,14 @@
 *July*
 07-01=07-01=Pretiosissimi Sanguinis Domini Nostri Jesu Christi=5=
 07-02=07-02=In Visitatione B Mariae Virginis=6=
-07-03=07-03=S. Irenæi, Episcopi, Martyris et Ecclesiæ Doctoris=1=
+07-03=07-03=S. Irenæi, Episcopi, Martyris et Ecclesiæ Doctoris (1965)=1=
 07-05=07-05=SS. Cyrilli et Methodii, Confessorum et Pontificis, Patronorum Regni Bohemiæ=5=
 07-08=07-08=S. Eugenii, Papae et Confessoris=3=
-07-09=07-09=S. Alberti de Sestri, Confessoris=1=
+07-09=07-09=S. Alberti de Sestri, Confessoris (1965)=1=
 07-10=07-10=SS. Martyrum Septem Fratrum, ac Rufinæ et Secundæ, Virginum et Martyrum=1=
 07-11=07-11=In Festo Translationis S.P.N. Benedicti=6=
 07-12=07-12=S. Joannis Gualberti Abbatis=2=
-07-13=07-13=S. Anacleti, Papæ et Martyris=1=
+07-13=07-13=S. Anacleti, Papæ et Martyris=1=Beatarum Virginum Martyrum Arausicanarum (1965)=1=
 07-14=07-14=S. Bonaventurae Episcopi Confessoris et Ecclesiae Doctoris=3=
 07-15=07-15=S. Henrici Imperatoris Confessoris=5=
 07-16=07-16=S.P.N. Stephani, Tertii Abbatis Cistercii=7=
@@ -164,7 +164,7 @@
 08-05=08-05=B.M.V. ad Nives=5.1=
 08-06=08-06=The Transfiguratione Domini Nostri Jesu Christi=5.2=SS. Xysti,Felicissimi et Agapiti Martyrum=1=
 08-07=08-07=S. Cajetani Thirnæi, Confessoris=2=S. Donati, Ep. et Mart.=1=
-08-08=08-08=S. Famiani, Confessoris O.N.=3=S. Joannis Mariæ Vianney Confessoris=1.5=Ss. Cyriaci, Largi et Smaragdi, Martyrum=1=
+08-08=08-08=S. Famiani, Confessoris O.N.=3=S. Joannis Mariæ Vianney, Confessoris (1965)=1.5=Ss. Cyriaci, Largi et Smaragdi, Martyrum=1=
 08-09=08-09=Vigilia S. Laurentii Martyris=1.5=S. Romani, Martyris=1=
 08-10=08-10=S. Laurentii, Martyris=5=
 08-11=08-11=Ss. Tiburtii et Susannae Virg Martyrum=1=
@@ -174,31 +174,32 @@
 08-15=08-15=Assumptione Beatae Mariae Virginis=7=
 08-16=08-16=S. Hyacinthi, Confessoris=1=
 08-18=08-18=S. Agapiti, Martyris=1=
+08-19=08-19=B. Guerrici, Abbatis (1965)=3=
 08-20=08-20=S. Bernardi, Abbatis et Ecclesiae Doctoris=3=
 08-22=08-22=Immaculati Cordis B.M.V.=5.1=SS. Timothei, Hippolyti et Symphoriani, Martyrum=1=
 08-23=08-23=Vigilia S. Bartholomaei, Apostoli=1.5=
 08-24=08-24=S. Bartholomaei, Apostoli=5=
 08-25=08-25=S. Ludovici, Confessoris=3=
 08-26=08-26=S. Zephirini, Papae et Martyris=1=
-08-27=08-27=SS. Guarini et Amedei, Ep. et Conf. O.N.=2=
+08-27=08-27=SS. Guarini et Amedei, Ep. et Conf. O.N. (1965)=2=
 08-28=08-28=S. Augustini Episcopi et Confessoris et Ecclesiae Doctoris=4=S. Hermetis=Mart=1=
 08-29=08-29=Decollatione S. Joannis Baptistae=4=S. Sabinae Mart=1=
-08-30=08-30=Ss. Felicis et Soc. Mart.=1=
+08-30=08-30=SS. Felicis et Soc. Mart.=1.1=S. Rosæ a S. Maria Limanæ, Virginis (1965)=1=
 08-31=08-31=S. Josephi Calasanctii, Confessoris=2=
 *September*
 09-00=09-DP=SS. Angelorum Custodum Septembris=7=
 09-01=09-01=S. Aegidii, Abbatis=1=
 09-02=09-02=S. Stephani, Regis Hungariæ et Confessoris=3=
-09-03=09-03=S. Pius X Papae Confessoris=2=
+09-03=09-03=S. Pii X., Papae et Confessoris (1965)=2=
 09-08=09-08=Nativitate Beatae Mariae Virginis=7=S. Adriani=Mart=1=
 09-09=09-09=S. Gorgonii, Martyris=1=
-09-10=09-10=S. Oglerii, Abbatis=1=
+09-10=09-10=S. Oglerii, Abbatis (1965)=1=
 09-11=09-11=SS. Proti et Hyacinthi, Martyrum=1=
 09-12=09-12=SS. Nominis Beatæ Mariæ Virginis=5=
 09-14=09-14=In Exaltatione Sanctae crucis=5.2=
-09-15=09-15=Septem Dolorum Beatae Mariae Virginis=3=S. Nicomedis=1=
+09-15=09-15=Septem Dolorum Beatae Mariae Virginis (1965)=3=S. Nicomedis=1=
 09-16=09-16=S. Ludmillæ, Viduæ, Martyris et Patronæ Regni Bohemiæ=4=Ss. Euphemiae, Luciae et Geminiani, Martyrum=1=
-09-17=09-17=S. Lamberti, Epicopi et Confessoris=2=S. Hildegardis=1=
+09-17=09-17=S. Lamberti, Epicopi et Confessoris=2=S. Hildegardis (1965)=1=
 09-19=09-19=SS. Cornelii et Cypriani, Martyrum=2=SS. Eustachii et Sociorum, Martyrum=1=
 09-20=09-20v~09-20=Vigilae St Matthaei Apostoli=1.5=S. Eustachii et Sociorum, Martyrum=1=
 09-21=09-21=S. Matthaei Apostoli et Evangelistae=5=
@@ -211,7 +212,7 @@
 *October*
 10-01=10-01=S. Remigii, Episcopi et Confessoris=1=
 10-02=10-02=SS. Angelorum Custodum=5=
-10-03=10-03=S. Theresiae a Jesu Infante, Virginis=2=
+10-03=10-03=S. Theresiae a Jesu Infante, Virginis (1965)=2=
 10-04=10-04=S. Francisci Confessoris=3=
 10-05=10-05=S. Placidi et Sociorum, Martyrum=2=
 10-06=10-06=S. Brunonis Confessoris=3=
@@ -247,7 +248,7 @@
 11-21=11-21=In Præsentatione of Beatæ Mariæ Virginis=6=
 11-22=11-22=S. Ceciliæ Virginis et Martyris=3=
 11-23=11-23=S. Clement Papæ et Martyris=3=S. Felicitatis Martyris=1=
-11-24=11-24=S. Joannis a Cruce (1965)=1=S. Chrysogoni Martyris=1=
+11-24=11-24=S. Joannis a Cruce (1965)=1.1=S. Chrysogoni Martyris=1=
 11-25=11-25=S. Catharinæ Virginis et Martyris=3=
 11-29=11-29=Vigilia S. Andreæ Apostoli=1.5=S. Saturnini Martyris=1=
 11-30=11-30=S. Andreæ Apostoli=5=
