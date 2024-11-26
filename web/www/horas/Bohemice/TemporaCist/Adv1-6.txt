@@ -1,7 +1,7 @@
 @Tempora/Adv1-6
 
 [Rank]
-Sobota v prvním týdnu adventním;;Feria major;;1.15
+soboty v prvním týdnu adventním;;Feria major;;1.15
 
 [Ant Laudes]
 V onen den * se hory orosí sladkostí, a pahorky budou oplývat mlékem a medem, alleluja.

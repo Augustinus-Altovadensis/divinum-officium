@@ -86,11 +86,11 @@ Sabbato = May my request * come before thee, O Lord.
 5 = Ejhle, přijde * veliký Prorok, který obnoví Jerusalém, alleluja.
 
 [Adv2]
-1 = Behold in the clouds of heaven * the Lord is coming with great power and majesty, alleluia.
-2 = Sion, the city of our strength, * a saviour, a wall and a bulwark shall be set therein: open ye the gates, because God is with us, alleluia.
-3 = Behold, the Lord shall appear, * and he shall not lie: if he make any delay, wait for him: for he shall surely come, and shall not be slack, alleluia.
-4 = The mountains and the hills * shall sing praise before God, and all the trees of the country shall clap their hands: for the Lord God shall come into his eternal kingdom, alleluia, alleluia.
-5 = Behold, our Lord * shall come with power, and and give light to the eyes of his servants, alleluia.
+1 = Hle, v nebeských oblacích * Pán přijde s velikou mocí, alleluja.
+2 = Silné město * je náš Sion, Spasitel v něm postavil hradby i ochranný násep; otevřte brány, neboť Bůh je s námi, alleluja.
+3 = Hle, objeví se * Pán a nebude klamat; pokud se snad zdrží, čekej na něj, protože on přijde a nebude prodlévat, alleluja.
+4 = Hory a pahorky * zapějí před Bohem chválu, a všechny lesní jazyky budou tleskat rukama; neboť přijde Panovník Hospodin do věčné říše, alleluja, alleluja.
+5 = Hle, Pán * náš přijde s mocí, a rozzáří oči svých služebníků, alleluja.
 
 [Adv3]
 1 = The Lord shall come, * and he will not delay; he will bring to light the hidden things of darkness, and will manifest himself to all peoples, alleluia.

@@ -1,0 +1,7 @@
+@Tempora/Adv2-3
+
+[Rank]
+středy v druhém týdnu adventním;;Feria major;;1.15
+
+[Ant Laudes]
+Hle, v nebeských oblacích * Pán přijde s velikou mocí, alleluja.

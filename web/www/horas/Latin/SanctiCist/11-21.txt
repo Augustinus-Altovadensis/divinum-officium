@@ -12,7 +12,7 @@ V. Sicut vitta coccínea lábia tua, et elóquium tuum dulce.
 R. Absque eo quod intrínsecus latet.
 
 [Ant 1]
-@CommuneCist/C11
+@Commune/C10:Ant 2
 
 [Commemoratio 2]
 !Commemoratio S. Columbáni Abbátis
@@ -20,6 +20,15 @@ R. Absque eo quod intrínsecus latet.
 
 [Responsory3]
 @Commune/C11:Responsory1
+
+[Ant Sexta]
+@SanctiCist/09-08:Ant Vespera:4
+
+[Capitulum Sexta]
+@Commune/C10
+
+[Capitulum Nona]
+@Commune/C10
 
 [Capitulum Vespera 3]
 @CommuneCist/C11:Capitulum Vespera

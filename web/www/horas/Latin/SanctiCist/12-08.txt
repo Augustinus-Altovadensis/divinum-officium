@@ -5,13 +5,14 @@ In Conceptione Immaculata Beatæ Mariæ Virginis;;Serm. maj.;;6;;ex C11
 
 [Rule]
 12 lectiones
+Doxology=NatT
 
 [Capitulum Vespera]
 @Sancti/12-08:Capitulum Vespera
 _
-<font color=red>Responsorium.</font> Magníficat * ánima mea Dóminum; * Quia fecit mihi magna qui potens est, et sanctum nomen ejus. 
-℣. Ecce enim ex hoc beátam me dicent omnes generatiónes. 
-℟. Quia fecit mihi magna qui potens est: * et sanctum nomen ejus. 
+Responsorium. Magníficat * ánima mea Dóminum; * Quia fecit mihi magna qui potens est, et sanctum nomen ejus. 
+V. Ecce enim ex hoc beátam me dicent omnes generatiónes. 
+R. Quia fecit mihi magna qui potens est: * et sanctum nomen ejus. 
 
 [Hymnus Matutinum]
 @Sancti/12-08::s/Jesu, tibi sit glória/Glória tibi Dómine/

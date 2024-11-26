@@ -1,4 +1,6 @@
 @Tempora/Adv3-0
+[Rank]
+Dominica III Adventus;;Semiduplex;;3.5
 
 [Rule]
 12 lectiones

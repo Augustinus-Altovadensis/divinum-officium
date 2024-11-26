@@ -10,60 +10,56 @@ Antiphonas horas
 Doxology=Nat 
 
 [Ant Vespera]
-Thou art all fair, O Mary, * there is no spot of original sin in thee.;;109
-Thy raiment * is white as snow, and thy countenance as the sun.;;112
-Thou art the exaltation of Jerusalem, * thou art the great glory of Israel, thou art the great rejoicing of our nation.;;121
-Virgin Mary, * blessed art thou of the Most High God, above all the women upon the earth.;;126
-Draw us, * Maiden undefiled, we will run after thee in the odour of thy perfumes.;;147
+Celá jsi krásná, * Maria, a poskvrna dědičného hříchu v tobě není.;;109
+Tvůj oděv * je bělostný jako sníh, a tvá tvář jako slunce.;;112
+Ty jsi sláva Jerusaléma, * ty jsi radostí Israele, ty jsi poctou svého lidu.;;121
+Požehnaná jsi ty, * Panno Maria, od vznešeného Pána Boha, nade všechny ženy na zemi.;;126
+Veď nás, * Panno neposkvrněná, poběžíme za tebou ve vůni tvých mastí.;;147
 
 [Capitulum Vespera]
 !Prov 8:22-24
-v. The Lord possessed me in the beginning of his ways, before he made any thing from the beginning. I was set up from eternity, and of old before the earth was made. The depths were not as yet, and I was already conceived.
+v. Hospodin mě vlastnil na počátku svých cest, ještě než cokoliv učinil, od počátku. Od věčností jsem ustanovena v řádu, od začátku, dříve než povstala země. Ještě nebyly propasti, a já jsem již byla počata.
 $Deo gratias
 
 [Versum 1]
-V. This day is the Holy Virgin Mary conceived without sin.
-R. The Virgin's foot hath bruised the serpent's head.
+V. Neposkvrněné Početí je dnes svaté Panny Marie.
+R. Jež hadovu hlavu rozdrtila panenskou patou.
 
 [Ant 1]
-All generations * shall call me blessed, because he that is mighty, hath done~
-great things to me, alleluia.
+Blahoslavit mě budou * všechna pokolení, neboť mi učinil veliké věci ten, který je mocný, alleluja.
 
 [Oratio]
-O God, by the Immaculate Conception of the Virgin, thou prepared a worthy~
-habitation for thy Son; we beseech thee, that, as by the foreseen death of thy~
-same Son thou preserved her from all stain of sin, so thou would grant us also,~
-through her intercession, to come to thee with pure hearts.
+Bože, jenž jsi neposkvrněným Početím Panny připravil svému Synu důstojný příbytek; prosíme, aby když jsi ji již od předzvěsti smrti tohoto tvého Syna zachoval od každého přečinu, také nám na její přímluvu udělil, abychom k tobě došli čistí.
 $Per eumdem
 
 [Invit]
-Let us celebrate the Immaculate Conception of the Virgin Mary: * Let us adore her Son, Christ the Lord.
+Neposkrvněné Početí Panny Marie oslavujme: * Klaňme se Kristu Pánu, jejímu Synu.
 
 [Hymnus Matutinum]
-v. Blest guardian of all virgin souls,
-Portal of bliss to man forgiven,
-Pure Mother of Almighty God,
-Thou hope of earth and joy of heaven!
+v. Přejasná panen strážkyně,
+Boží ty Matko nejčistší,
+tys branou k hvězdné výšině,
+nadějí naší nejvyšší.
 _
-Fair Lily found among the thorn,
-Most beauteous Dove with wings of gold,
-Rod from whose tender root upsprang
-That healing Flower so long foretold
+Lilie v trní rašící,
+hrdličko sličná, bez hany,
+větévko z kmene pučící
+hojivý balšám na rány.
 _
-Thou Tower against the dragon proof,
-Thou Star to stormtossed voyagers dear;
-Our course lies o'er a treacherous deep,
-thine be the light by which we steer.
+Pro draka srázná pevnosti,
+hvězdičko spasná zmítaným,
+ze sítí zla nás vyprosti
+a doprovázej světlem svým.
 _
-Scatter the mists that round us hang;
-Keep far the fatal shoals away;
-And while through darkling waves we sweep,
-Open a path to light and day.
+Ty bludů rozraz tmavý stín,
+mělčiny lstivé odstraňuj,
+ve vlnách žití bloudícím
+bezpečnou cestu ukazuj.
 _
-O Jesu, born of Virgin bright,
-Immortal glory be to thee;
-Praise to the Father infinite
-And Holy Ghost eternally.
+Buď sláva tobě, Ježíši,
+zrozený z Panny nejčistší,
+i Otci, Duchu nechť náš hlas
+zpěv chvály zpívá v každý čas.
 Amen.
 
 [Ant Matutinum]
@@ -326,55 +322,49 @@ is one Kingdom, be glory and strength, now and for ever. Amen.
 &teDeum
 
 [Ant 2]
-The Lord God said * to the serpent: I will put enmities between thee and the~
-woman, and thy seed and her seed: she shall crush thy head, alleluia.
+Řekl Pán Bůh * hadovi: Nepřátelství položím mezi tebe a ženu, i potomstvo tvé a potomstvo její; ona rozdrtí tvou hlavu, alleluja.
 
 [Lectio Prima]
 !Rev 12:1
-v. And a great sign appeared in heaven: A woman clothed with the sun, and the~
-moon under her feet, and on her head a crown of twelve stars.
+v. Veliké znamení se objevilo na nebi: Žena oděná sluncem, s měsícem pod nohama a s korunou z dvanácti hvězd kolem hlavy.
 
 [Responsory Tertia]
-R.br. It is Almighty God * That girdeth me with strength.
-R. It is Almighty God * That girdeth me with strength.
-V. And maketh my way perfect.
-R. That girdeth me with strength.
+R.br. Bůh všemohoucí * Opásal mě silou.
+R. Bůh všemohoucí * Opásal mě silou.
+V. A přichystal mi cestu neposkvrněnou.
+R. Opásal mě silou.
 &Gloria
-R. It is Almighty God * That girdeth me with strength.
+R. Bůh všemohoucí * Opásal mě silou.
 _
-V. By this I know that Thou favourest me.
-R. Because mine enemy shall not triumph over me.
+V. Takto jsem poznal, že jsi mě chtěl.
+R. Neboť se nade mnou neradoval můj nepřítel.
 
 [Capitulum Sexta]
 !Ezek 44:2-3
-v. This gate shall be shut, it shall not be opened, and no man shall pass~
-through it: because the Lord the God of Israel hath entered in by it, and it~
-shall be shut. For the prince, the prince himself, shall sit in it.
+v. Tato brána zůstane, zavřena, nebude otvírána, a žádný muž ji neprojde, neboť Hospodin, Bůh Israele, jí prošel, proto zůstane zavřena. Sám kníže v ní bude sedět.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. By this I know that * Thou favourest me.
-R. By this I know that * Thou favourest me.
-V. Because mine enemy shall not triumph over me.
-R. Thou favourest me.
+R.br. Takto jsem poznal, * že jsi mě chtěl.
+R. Takto jsem poznal, * že jsi mě chtěl.
+V. Neboť se nade mnou neradoval můj nepřítel.
+R. Že jsi mě chtěl.
 &Gloria
-R. By this I know that * Thou favourest me.
+R. Takto jsem poznal, * že jsi mě chtěl.
 _
-V. I will extol thee, O Lord, for Thou hast lifted me up.
-R. And hast not made my foes to rejoice over me.
+V. Budu tě vyvyšovat, Hospodine, že jsi mě přijal.
+R. Nedovolil jsi, aby se nade mnou těšili moji nepřátelé.
 
 [Responsory Nona]
-R.br. I will extol thee, O Lord, * for Thou hast lifted me up.
-R. I will extol thee, O Lord, * for Thou hast lifted me up.
-V. And hast not made my foes to rejoice over me.
-R. Thou hast lifted me up.
+R.br. Budu tě vyvyšovat, Hospodine, * že jsi mě přijal.
+R. Budu tě vyvyšovat, Hospodine, * že jsi mě přijal.
+V. Nedovolil jsi, aby se nade mnou těšili moji nepřátelé.
+R. Že jsi mě přijal.
 &Gloria
-R. I will extol thee, O Lord, * for Thou hast lifted me up.
+R. Budu tě vyvyšovat, Hospodine, * že jsi mě přijal.
 _
-V. Maiden Mother of God, thy stainless conception.
-R. Was a message of joy to the whole world.
+V. Tvé neposkvrněné Početí, Boží Rodičko a Panno.
+R. Přineslo radost celému světu.
 
 [Ant 3]
-This day is a rod * sprung from the root of Jesse: this day is Mary conceived~
-without any stain of sin: this day hath she bruised the head of the old serpent,~
-alleluia.
+Dnes vzešla * ratolest z kořene Jesse; dnes bez jakéhokoliv poklesku hříchu počata byla Maria; dnes rozdrtila hlavu odvěkého hada, alleluja.
