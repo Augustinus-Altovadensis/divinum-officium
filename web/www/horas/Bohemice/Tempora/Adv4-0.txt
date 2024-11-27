@@ -9,15 +9,15 @@ Dominica IV Adventus;;Semiduplex;;6
 Antiphonas horas
 
 [Ant Laudes]
-Blow ye the trumpet * in Zion, for the day of the Lord is nigh at hand: behold, He cometh to save us! Alleluia, Alleluia.
-Behold, the desire * of all nations shall come; and the house of the Lord shall be filled with glory. Alleluia.
-The crooked * shall be made straight, and the rough places plain; O Lord, come, and make no tarrying. Alleluia.
-The Lord cometh! * Go ye out to meet Him, and say: How great is His dominion, and of His kingdom there shall be no end! He is the mighty God, the Ruler, the Prince of Peace. Alleluia, Alleluia.
-Thine Almighty Word, * O Lord, shall leap down out of thy royal throne. Alleluia.
+Zazněte trouby * na Sionu, neboť blízko jest den Páně; hle, již přichází, aby nás zachránil, alleluja, alleluja.
+Hle, přijde * vytoužený všemi národy; a dům Páně bude naplněn slávou, alleluja.
+Křivé bude * narovnáno, a hrbolacé cesty vyrovnány; přijď, Pane, a neprodlévej, alleluja.
+Pán přijde, * vyjděte mu naproti se slovy: Veliké je jeho panství, a jeho vlády nebude konce; Bůh, Silný, Panovník, Vládce pokoje, alleluja, alleluja.
+Všemocné tvé Slovo, * Pane, sestoupí z královského trůnu, alleluja.
 
 [Capitulum Vespera]
-!1 Cor 4:1-2
-v. Brothers: Let a man so account of us as of the ministers of Christ, and the dispensers of the mysteries of God. Here now it is required among the dispensers, that a man be found faithful.
+!1 Kor 4:1-2
+v. Bratři: Ať se každý na nás dívá jako na Kristovy služebníky a správce Božích tajemství. A když tedy někdo něco spravuje, požaduje se ovšem od něho, aby na něj bylo spolehnutí.
 $Deo gratias
 
 [Oratio]
@@ -138,13 +138,13 @@ R. Without descent, nor end of life.
 
 [Capitulum Sexta]
 !1 Cor 4:3
-v. But to me it is a very small thing to be judged by you, or by man's day; but neither do I judge my own self.
+v. Mně na tom pramálo záleží, abych byl posuzován od vás nebo od nějakého jiného lidského soudu. Ale ani já sám sebe neposuzuji.
 $Deo gratias
 
 [Capitulum Nona]
 !1 Cor 4:5
-v. Therefore judge not before the time; until the Lord come, who both will bring to light the hidden things of darkness, and will make manifest the counsels of the hearts; and then shall every man have praise from God.
+v. Proto nic nesuďte předčasně, než přijde Pán. On také vynese na světlo věci, které jsou dosud ukryty v temnotách, a učiní, že bude zřejmé, jaké měl kdo úmysly. A teprve tehdy může každý dostat od Boha chválu.
 $Deo gratias
 
 [Ant 2]
-Hail, Mary, full of grace, * the Lord is with thee; blessed art thou among women. Alleluia.
+Zdrávas Maria, * milostiplná; Pán s tebou; požehnaná jsi mezi ženami, alleluja.

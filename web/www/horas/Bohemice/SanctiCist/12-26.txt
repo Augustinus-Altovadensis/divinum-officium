@@ -1,3 +1,7 @@
+[Commemoratio]
+!Připomínka všech svatých Mučedníků
+@CommuneCist/C3:Oratio2:s/ N. a N.// s/svých/všech svých/
+
 [Ant Laudes]
 Když však * Štěpán, naplněn Duchem svatým, hleděl do nebe, uviděl slávu Boží, a Ježíše, stojícího po pravici Otce.
 Kamenovali * Židé Štěpána, když on zvolal: Pane Ježíši, přijmi mého ducha.
@@ -7,6 +11,11 @@ Padl na kolena, * a velikým hlasem Štěpán zvolal: Pane Ježíši, nepříč�
 
 [Ant 2]
 Otevřely se * nebeské brány Kristovu Mučedníku Štěpánovi, jenž se v počtu Mučedníků nachází jako první, a proto se jako vítěz raduje v nebe korunován, alleluja.
+
+[Capitulum Nona]
+!Skutky 7
+v. Když však Štěpán, naplněn Duchem svatým, hleděl do nebe, uviděl slávu Boží, a Ježíše, stojícího po pravici Boží.
+$Deo gratias
 
 [Ant 3]
 Když pohlédl do nebe, * uzřel blažený Štěpán slávu Boží, a řekl: "Hle, vidím nebesa otevřená, a Syna člověka stojícího po pravici Boží."

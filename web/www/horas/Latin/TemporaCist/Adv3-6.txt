@@ -6,3 +6,17 @@ Sabbato Quattuor Temporum Adventus;;Feria major;;2.1
 [Ant Laudes]
 Roráte coeli désuper, * et nubes pluant Justum : aperiátur terra, et gérminet Salvatórem.
 
+[Ant 2]
+Omnis vallis implébitur, * et omnis mons, et collis humiliábitur, et vidébit omnis caro salutáre Dei.
+
+[Ant Prima]
+Consúrge, consúrge: * indúere fortitúdinem bráchium Dómini.
+
+[Ant Tertia]
+Gaudéte in Dómino semper: * íterum dico gaudéte: Dóminus enim prope est, nihil sollíciti sitis.
+
+[Ant Sexta]
+Exspectétur sicut plúvia * elóquium Dómini: et descéndat, sicut ros, super nos Deus noster.
+
+[Ant Nona]
+Dabit ei Dóminus * sedem David patris ejus, et regnábit in ætérnum.

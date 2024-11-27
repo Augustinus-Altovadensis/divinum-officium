@@ -1,0 +1,19 @@
+[Rank]
+Die IV infra Octavam Nativitatis;;Semiduplex;;2.1;;ex SanctiCist/12-25
+
+[Versum 1]
+@SanctiCist/12-25:Versum 3
+
+[Ant 1]
+@TemporaCist/Nat26
+
+[Ant 2]
+@TemporaCist/Nat26
+
+[Commemoratio 2] (rubrica tridentina)
+@Sancti/12-26:Octava
+@Sancti/12-27:Octava
+
+[Commemoratio 3] (rubrica tridentina)
+@Sancti/12-26:Octava
+@Sancti/12-27:Octava

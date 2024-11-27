@@ -1,6 +1,6 @@
 @Sancti/12-25
 [Rank]
-In Nativitate Domini;;Duplex I Classis;;7
+In Nativitate Domini;;Duplex I Classis;;6.9
 
 [Rule]
 12 lectiones
@@ -20,8 +20,8 @@ V. Constántes estóte, vidébitis auxílium Dómini super vos.
 R. Cras egrediémini, et Dóminus erit vobíscum.
 
 [Versum 1]
-℣. Benedíctus qui venit in nómine Dómini.
-℟. Deus Dóminus, et illúxit nobis.
+V. Benedíctus qui venit in nómine Dómini.
+R. Deus Dóminus, et illúxit nobis.
 
 [Ant 1]
 Cum esset * desponsáta Mater Jesu María Joseph, ántequam convenírent, invénta est in útero habens: quod enim in ea natum est, de Spíritu sancto est, allelúia.
@@ -127,6 +127,10 @@ R. Hoc erat in princípio apud Deum.
 
 [Ant Laudes]
 Génuit puérpera * Regem, cui nomen ætérnum, et gáudia matris habens cum virginitátis honóre: nec primam símilem visa est, nec habére sequéntem, allelúja.
+Lux orta est * super nos: quia hódie natus est Salvátor, allelúia.
+Virgo hódie fidélis, * etsi Verbum génuit incarnátum, Virgo mansit et post partum, quam laudántes omnes dícimus: Benedícta tu in muliéribus.
+Gaudeámus omnes fidéles, * Salvátor noster natus est in mundo: hódie procéssit proles magnífici gérminis, et persevérat pudor virginitátis.
+Hódie * intácta Virgo Deum nobis génuit téneris indútum membris, quem lactáre méruit: omnes ipsum adorémus, qui venit salváre nos.
 
 [Capitulum Laudes]
 @Sancti/12-25:Capitulum Laudes
@@ -140,17 +144,17 @@ R. In nómine Dómini.
 V. Puer natus est nobis.
 R. Fílius datus est nobis.
 
-[Ant Prima]
-Lux orta est * super nos: quia hódie natus est Salvátor, allelúia.
-
 [Responsory Tertia]
-@Sancti/12-25:Responsory Nona:s/.*_.//s
+V. Tamquam sponsus.
+R. Dóminus procédens de thálamo suo.
 
 [Responsory Sexta]
-@Sancti/12-25:Versum 2
+V. Verbum caro factum est.
+R. Et habitávit in nobis.
 
 [Responsory Nona]
-@Sancti/12-25:Responsory Sexta:s/.*_.//s
+V. Ipse invocávit me.
+R. Pater meus es tu.
 
 [Ant Vespera 3]
 In princípio * et ante sǽcula Deus erat Verbum: ipse natus est nobis Salvátor mundi.;;109
@@ -178,8 +182,8 @@ Liber generatiónis Jesu Christi, fílii David, fílii Abralam. Abraham génuit 
 !Commemoratio Octavæ Nativitatis
 Ant. Nésciens Mater Virgo virum, péperit sine dolóre Salvatórem sæculórum, ipsum Regem Angelórum sola Virgo lactábat úbere de cœlo pleno.
 _
-℣. Puer natus est nobis.
-℟. Fílius datus est nobis.
+V. Puer natus est nobis.
+R. Fílius datus est nobis.
 _
 $Oremus
 v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.
@@ -187,10 +191,10 @@ $Per eumdem
 
 [Octava 2]
 !Commemoratio Octavæ Nativitatis
-Ant. Verbum caro factum est, et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre plenum grátiæ, et veritátis, allelúja, allelúja, allelúja.
+Ant. Verbum caro factum est, et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre plenum grátiæ, et veritátis, allelúia, allelúia, allelúia.
 _
-℣. Puer natus est nobis.
-℟. Fílius datus est nobis.
+V. Puer natus est nobis.
+R. Fílius datus est nobis.
 _
 $Oremus
 v. Concéde, quǽsumus, omnípotens Deus: ut nos Unigéniti tui nova per carnem Natívitas líberet; quos sub peccáti jugo vetústa sérvitus tenet.

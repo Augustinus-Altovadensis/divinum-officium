@@ -271,7 +271,7 @@ Slavnost svatých mučedníků a spolu biskupů N. a N., prosíme, Pane, nechť 
 $Per Dominum
 
 [Oratio2]
-Bože, jenž nás rozradostňuješ každoroční slavností svých Mučedníků N. a N.; uděl, prosíme, abychom, když se radujeme z jejich zásluch, podníceni byli též jejich příklady.
+Bože, jenž nás rozradostňuješ každoroční slavností svých svatých Mučedníků N. a N.; uděl, prosíme, abychom, když se radujeme z jejich zásluch, podníceni byli též jejich příklady.
 $Per Dominum
 
 [Oratio3]

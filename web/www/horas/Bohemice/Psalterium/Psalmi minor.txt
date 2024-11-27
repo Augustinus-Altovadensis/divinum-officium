@@ -93,18 +93,18 @@ Sabbato = May my request * come before thee, O Lord.
 5 = Hle, Pán * náš přijde s mocí, a rozzáří oči svých služebníků, alleluja.
 
 [Adv3]
-1 = The Lord shall come, * and he will not delay; he will bring to light the hidden things of darkness, and will manifest himself to all peoples, alleluia.
-2 = Rejoice Jerusalem, * with great joy, for a Saviour shall come to thee, alleluia.
-3 = I will give salvation in Zion, * and unto Jerusalem my glory, alleluia.
-4 = Every mountain and hill * shall be made low: and the crooked shall become straight, and the rough ways plain: come, O Lord, and do not tarry, alleluia.
-5 = Let us live in justice and godliness, * looking for the blessed hope and coming of the Lord, alleluia.
+1 = Přijde Pán, * a nebude otálet, a prozáří skryté kouty temnot, a ukáže se všem národům, alleluja.
+2 = Jerusaléme, raduj se * velikou radostí, neboť přijde tvůj Spasitel, alleluja.
+3 = Dám na Sionu * spásu, a v Jerusalémě svou slávu, alleluja.
+4 = Hory a všechny pahorky * budou sníženy; a křivé bude narovnáno, a hrubé cesty vyrovnány; přijď, Pane, a neotálej, alleluja.
+5 = Spravedlivě a zbožně * žijme, a očekávejme blaženou naději a příchod Páně.
 
 [Adv4]
-1 = Blow ye the trumpet * in Sion, for the day of the Lord is near: behold, he shall come to save us, alleluia, alleluia.
-2 = Behold, he shall come * the desire of all nations: and the house of the Lord shall be filled with glory, alleluia.
-3 = The crooked * shall become straight, and the rough ways plain: come, O Lord, and do not tarry, alleluia.
-4 = The Lord shall come, * go ye out to meet him and say: a mighty Prince, of whose kingdom there shall be no end: God, the Strong One, Ruler, Prince of peace, alleluia, alleluia.
-5 = Thy almighty Word, * O Lord, shall come from the royal throne, alleluia.
+1 = Zazněte trouby * na Sionu, neboť blízko jest den Páně; hle, již přichází, aby nás zachránil, alleluja, alleluja.
+2 = Hle, přijde * vytoužený všemi národy; a dům Páně bude naplněn slávou, alleluja.
+3 = Křivé bude * narovnáno, a hrbolacé cesty vyrovnány; přijď, Pane, a neprodlévej, alleluja.
+4 = Pán přojde, * vyjděte mu naproti se slovy: Veliké je jeho panství, a jeho vlády nebude konce; Bůh, Silný, Panovník, Vládce pokoje, alleluja, alleluja.
+5 = Všemocné tvé Slovo, * Pane, sestoupí z královského trůnu, alleluja.
 
 [Adv42]
 1 = Behold, the Lord cometh, * the Prince of the Kings of the earth: blessed are they that are ready to go forth to meet him.

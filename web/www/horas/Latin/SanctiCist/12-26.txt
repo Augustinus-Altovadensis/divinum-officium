@@ -3,6 +3,50 @@
 [Rank]
 S. Stephani Protomartyris;;Serm. min.;;5.4;;ex C2
 
+[Versum 1]
+@CommuneCist/C2
+
+[Commemoratio]
+!Commemoratio omnium SS. Martyrum
+@CommuneCist/C3:Oratio2:s/N. et N. // s/ánnua/ánnua ómnium/
+
+[Ant Laudes]
+Cum autem * esset Stéphanus plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad déxteram Patris.
+Lapidábant * Judæi Stéphanum invocántem, et dicéntem: Dómine Jesu, áccipe spíritum meum.
+Adhǽsit ánima mea post te, * quia caro mea lapidáta est pro te, Deus meus.
+Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.
+Pósitis autem génibus, * clamávit voce magna dicens Stéphanus: Dómine Jesu, ne státuas illis hoc peccátum.
+
+[Capitulum Laudes]
+@Sancti/12-26
+_
+@Commune/C2:Responsory Tertia:1-6
+
+[Versum 2]
+@CommuneCist/C2
+
+[Ant 2]
+Patefáctæ sunt * jánuæ cœli Christi Mártyri Stéphano, qui in número Mártyrum invéntus est primus, et ídeo triúmphat in cœlis coronátus, allelúia.
+
+[Capitulum Nona]
+!Act. 7
+v. Cum autem esset plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad dextris Dei. 
+$Deo gratias
+
+[Ant Vespera 3]
+@:Ant Laudes
+
+[Capitulum Vespera]
+@Sancti/12-26:Capitulum Laudes
+_
+@Commune/C2:Responsory Sexta:1-6
+
+[Versum 3]
+@CommuneCist/C2
+
+[Ant 3]
+Intuens in cœlum * beátus Stéphanus vidit glóriam Dei, et ait: Ecce vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei.
+
 [Rule]
 12 lectiones
 
@@ -86,29 +130,5 @@ R. Sepeliérunt Stéphanum viri timoráti, † et fecérunt planctum magnum supe
 V. Saulus autem conséntiens neci eius, devastábat Ecclésiam.
 R. Facta est persecútio magna adversus Ecclésiam, quæ erat Jerosólymis.
 
-[Ant Laudes]
-Cum autem * esset Stéphanus plenus Spíritu sancto, inténdens in cœlum, vidit glóriam Dei, et Jesum stantem ad déxteram Patris.
-Lapidábant * Judæi Stéphanum invocántem, et dicéntem: Dómine Jesu, áccipe spíritum meum.
-Adhǽsit ánima mea post te, * quia caro mea lapidáta est pro te, Deus meus.
-Stéphanus vidit * cælos apértos, vidit, et introívit: beátus homo, cui cæli patébant.
-Pósitis autem génibus, * clamávit voce magna dicens Stéphanus: Dómine Jesu, ne státuas illis hoc peccátum.
 
-[Capitulum Laudes]
-@Sancti/12-26
-_
-@Commune/C2:Responsory Tertia:1-6
-
-[Ant 2]
-Patefáctæ sunt * jánuæ cœli Christi Mártyri Stéphano, qui in número Mártyrum invéntus est primus, et ídeo triúmphat in cœlis coronátus, allelúia.
-
-[Ant Vespera 3]
-@:Ant Laudes
-
-[Capitulum Vespera]
-@Sancti/12-26:Capitulum Laudes
-_
-@Commune/C2:Responsory Sexta:1-6
-
-[Ant 3]
-Intuens in cœlum * beátus Stéphanus vidit glóriam Dei, et ait: Ecce vídeo cœlos apértos, et Fílium hóminis stantem a dextris Dei.
 

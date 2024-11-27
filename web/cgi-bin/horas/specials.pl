@@ -667,25 +667,9 @@ sub psalmi_minor {
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms);
 
-  if ($version =~ /monastic/i) {
+  if ($version =~ /monastic|Cistercien/i) {
     @psalmi = split("\n", $psalmi{Monastic});
-    my $i =
-        ($hora =~ /prima/i) ? $dayofweek
-      : ($hora =~ /tertia/i) ? 8
-      : ($hora =~ /sexta/i) ? 11
-      : ($hora =~ /nona/i) ? 14
-      : 17;
-
-    if ($hora !~ /(prima|completorium)/i) {
-      if ($dayofweek > 0) { $i++; }
-      if ($dayofweek > 1) { $i++; }
-    }
-    $psalmi[$i] =~ s/\=/\;\;/;
-    my @a = split(';;', $psalmi[$i]);
-    $ant = chompd($a[1]);
-    $psalms = chompd($a[2]);
-  } if ($version =~ /Cistercien/i) {
-    @psalmi = split("\n", $psalmi{Cistercian});
+    @psalmi = split("\n", $psalmi{Cistercian}) if ($version =~ /Cistercien/i);
     my $i =
         ($hora =~ /prima/i) ? $dayofweek
       : ($hora =~ /tertia/i) ? 8
@@ -791,6 +775,15 @@ sub psalmi_minor {
       : ($dayname[0] =~ /Pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) ? 'Pasch'
       : '';
 
+    if ($month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
+      my $i = $dayofweek + 1;
+      if ($dayofweek == 6 && $version =~ /trident/i) { # take ants from feria occuring Dec 21st
+        $i = get_stThomas_feria($year) + 1;
+        if ($day == 23) { $i = ""; } # use Sundays ant
+        }
+      $name = "Adv4$i" if $version !~ /Cistercien/i;
+      }
+
     if ( $version =~ /Cistercien/i )
       {
         $ind =
@@ -810,14 +803,6 @@ sub psalmi_minor {
       : '';
       }
 
-    if ($month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
-      my $i = $dayofweek + 1;
-      if ($dayofweek == 6 && $version =~ /trident/i) { # take ants from feria occuring Dec 21st
-        $i = get_stThomas_feria($year) + 1;
-        if ($day == 23) { $i = ""; } # use Sundays ant
-      }
-      $name = "Adv4$i";
-    }
     if ($name =~ /pasc/i && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) { $ind = 0; }
 
     if ($name && $ind >= 0) {
@@ -997,7 +982,7 @@ sub psalmi_major {
   setbuild("Psalterium/Psalmi major", "Day$dayofweek $name", 'Psalmi ord');
 
   my @antiphones;
-  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic|Cistercien/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
+  if (($hora =~ /Laudes/ || ($hora =~ /Vespera/ && $version =~ /Monastic/)) && $month == 12 && $day > 16 && $day < 24 && $dayofweek > 0) {
     my @p1 = split("\n", $psalmi{"Day$dayofweek Laudes3"});
     if ($dayofweek == 6) {
       if ($version =~ /trident/i) { # take ants from feria occuring Dec 21st

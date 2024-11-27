@@ -9,19 +9,19 @@ Dominica III Adventus;;Semiduplex;;6
 Antiphonas horas
 
 [Ant Laudes]
-The Lord will come, * and will not tarry; He both will bring to light the hidden things of darkness, and will make Himself manifest to all people. Alleluia.
-Rejoice greatly, O Jerusalem, * for thy Saviour cometh unto thee. Alleluia.
-I will place salvation in Zion, * and My glory in Jerusalem. Alleluia.
-Every mountain and hill * shall be made low, and the crooked shall be made straight, and the rough places plain; O Lord, come and make no tarrying. Alleluia.
-We should live * righteously and godly, looking for that blessed hope and the coming of the Lord.
+Přijde Pán, * a nebude otálet, a prozáří skryté temné kouty, a ukáže se všem národům, alleluja.
+Jerusaléme, raduj se * velikou radostí, neboť přijde tvůj Spasitel, alleluja.
+Dám na Sionu * spásu, a v Jerusalémě svou slávu, alleluja.
+Hory a všechny pahorky * budou sníženy; a křivé bude narovnáno, a hrubé cesty vyrovnány; přijď, Pane, a neotálej, alleluja.
+Spravedlivě a zbožně * žijme, a očekávejme blaženou naději a příchod Páně.
 
 [Capitulum Vespera]
 !Phil 4:4-5
-v. Brothers: Rejoice in the Lord always; again, I say, rejoice. Let your modesty be known to all men. The Lord is nigh.
+v. Bratři: Radujte se stále v Pánu, opakuji: Radujte se! Vaše ušlechtilost ať je známá všem lidem. Pán je totiž blízko.
 $Deo gratias
 
 [Ant 1]
-Before Me * there was no god formed, neither shall there be after Me; for unto Me every knee shall bow, and every tongue shall swear.
+Přede mnou * nebyl utvořen Bůh, a po mě nebude; neboť přede mnou poklekne každé koleno, a vyzná mě každý jazyk.
 
 [Oratio]
 Sluch svůj, prosíme, Pane, nakloň k našim prosbám, a prozař temnoty naší duše milostí svého navštívení.
@@ -138,17 +138,17 @@ R. For out of Zion shall go forth the law, and the word of the Lord from Jerusal
 R. For out of Zion shall go forth the law, and the word of the Lord from Jerusalem.
 
 [Ant 2]
-He shall sit * upon the throne of David, and upon his kingdom for ever. Alleluia.
+Na trůnu * Davidově, a nad jeho královstvím bude trůnit navěky, alleluja.
 
 [Capitulum Sexta]
 !Phil 4:6
-v. Be nothing solicitous; but in every thing, by prayer and supplication, with thanksgiving, let your petitions be made known to God.
+v. O nic nemějte starost! Ale ve všem předkládejte Bohu své potřeby v modlitbě a prosbě s děkováním.
 $Deo gratias
 
 [Capitulum Nona]
 !Phil 4:7
-v. And the peace of God, which surpasseth all understanding, keep your hearts and minds in Christ Jesus.
+v. A Boží pokoj, který převyšuje všechno pomyšlení, nechť uchrání vaše srdce a vaše myšlenky v Kristu Ježíši, našem Pánu.
 $Deo gratias
 
 [Ant 3]
-Blessed art thou, * O Mary, who hast believed the Lord, for there shall be a performance of those things which were told thee from the Lord. Alleluia.
+Blahoslavená jsi, Maria, * neboť jsi uvěřila Pánu; dokoná se v tobě vše, co ti bylo řečeno od Pána, alleluja.

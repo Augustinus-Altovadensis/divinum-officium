@@ -8,15 +8,22 @@ In Vigilia Nativitatis Domini;;Vigilia I classis;;6.9
 _
 @Sancti/12-24:Responsory Tertia:s/._.*//s
 
+[Ant Laudes]
+Judǽa et Jerúsalem, * nolíte timére: cras egrediémini, et Dóminus erit vobíscum, allelúja.
+Hódie sciétis * quia véniet Dóminus: et mane vidébitis glóriam ejus.
+Crástina erit vobis salus, * dicit Dóminus Deus exercítuum.
+Scitóte * quia prope est regnum Dei: Amen dico vobis, quia non tardábit.
+Leváte cápita vestra: * ecce appropínquat redémptio vestra.
+
 [Versum 2]
-V. Constántes estóte.
-R. Vidébitis auxílium Dómini super vos.
+@Sancti/12-24:Responsory Tertia:s/.*_.//s
 
 [Responsory Tertia]
-@Sancti/12-24::s/.*_.//s
+V. Hódie sciétis, quia véniet Dóminus.
+R. Et mane vidébitis glóriam ejus.
 
 [Responsory Sexta]
-@Sancti/12-24::s/.*_.//s
+@Sancti/12-24:Responsory Nona:s/.*_.//s
 
 [Responsory Nona]
-@Sancti/12-24::s/.*_.//s
+@Sancti/12-24:Responsory Tertia:s/.*_.//s

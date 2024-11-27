@@ -14,14 +14,18 @@ V. Vůbec se nebojte, uzříte pomoc Páně na sebou.
 R. Zítra vyjdete, a Hospodin bude s vámi.
 
 [Versum 1]
-℣. Požehnaný jenž přichází ve jménu Páně.
-℟. Bůh Hospodin, a rozzářil se nad námi.
+V. Požehnaný jenž přichází ve jménu Páně.
+R. Bůh Hospodin, a rozzářil se nad námi.
 
 [Ant 1]
 Když byla * zasnoubena Matka Ježíšova Maria s Josefem, ještě než spolu začali žít, ukázalo se, že počala; ovšem dítě, které se z ní narodilo, je z Ducha svatého, alleluja.
 
 [Ant Laudes]
 Zrodila matka * Krále, jehož jméno je věčné, a mateřské radosti spojila s panenskou ctí: a nebylo před ní podobné nalezeno, ani její následovnice, alleluja.
+Světlo vzešlo * nad námi, neboť dnes se narodil Spasitel, alleluja.
+Dnes Panna věrná, * třebaže zrodila vtělené Slovo, Pannou zůstala i po porodu, a my všichni ji chválíme slovy „Požehnaná jsi mezi ženami.“
+Radujme se všichni věřící, * náš Spasitel se narodil ve světě; dnes vzešlo potomstvo vznešeného rodu, avšak zachována byla panen­ská čistota. 
+Dnes * nám neporušená Panna zrodila Boha oděného v křehké tělo, jejž mohla kojit; všichni se mu klanějme, neboť přišel nás spasit.
 
 [Capitulum Laudes]
 @Sancti/12-25:Capitulum Laudes
@@ -34,6 +38,18 @@ R. Ve jménu Páně.
 [Versum 2]
 V. Chlapec se nám narodil.
 R. Syn nám byl dán.
+
+[Responsory Tertia]
+V. Jako ženich.
+R. Pán vystupuje ze své svatební komnaty.
+
+[Responsory Sexta]
+V. Slovo se stalo tělem. 
+R. A přebývalo mezi námi.
+
+[Responsory Nona]
+V. On sám mě vzýval.
+R. Ty jsi můj otec.
 
 [Ant Vespera 3]
 Na počátku * a před věky Bůh byl Slovo: právě on se nám narodil jako Spasitel světa.;;109
@@ -77,10 +93,16 @@ V. Like a bridegroom, the Lord coming forth from his chamber.
 R. He went out through the closed door, God and man, Light and Life, Author of the world.
 
 [Lectio5]
-@Sancti/12-25:Lectio4:s/Rejoice, .*//s
+@Sancti/12-25:Lectio4:s/Zajásej svatý, .*//s
 
 [Lectio6]
-@Sancti/12-25:Lectio4:s/.* Rejoice, /Rejoice, /s
+@Sancti/12-25:Lectio4:s/.* Zajásej svatý, /Zajásej svatý, /s
+
+[Lectio5]
+@Sancti/12-25:Lectio5:s/Tomuto zrození .*//s
+
+[Lectio6]
+@Sancti/12-25:Lectio5:s/.* Tomuto zrození /Tomuto zrození /s
 
 [Responsory8]
 R. The angel said to the shepherds: 'I bring you tidings of great joy, for the Saviour of the world has been born to you today.'
@@ -107,8 +129,8 @@ R. The same was in the beginning with God.
 !Commemoratio Octavæ Nativitatis
 Ant. Nepoznala panenská Matka muže, porodila však bez bolesti Spasitele světa, a samotného Krále Andělů sama Panna kojila ňadry naplněnými z nebes.
 _
-℣. Chlapec se nám narodil.
-℟. Syn nám byl dán.
+V. Chlapec se nám narodil.
+R. Syn nám byl dán.
 _
 $Oremus
 v. Uděl nám, prosíme, všemohoucí Bože, aby nové Zrození tvého Jednorozeného v těle vysvobodilo nás, které odvěké otroctví drží pod jhem hříchu.
@@ -118,8 +140,8 @@ $Per eumdem
 !Commemoratio Octavæ Nativitatis
 Ant. Slovo se stalo tělem, a přebývalo mezi námi; a uzřeli jsme jeho slávu, slávu, kterou má Jednorozený <i>Syn</i> od Otce, plný milosti a pravdy, alleluja, alleluja, alleluja.
 _
-℣. Chlapec se nám narodil.
-℟. Syn nám byl dán.
+V. Chlapec se nám narodil.
+R. Syn nám byl dán.
 _
 $Oremus
 v. Uděl nám, prosíme, všemohoucí Bože, aby nové Zrození tvého Jednorozeného v těle vysvobodilo nás, které odvěké otroctví drží pod jhem hříchu.

@@ -1,0 +1,11 @@
+[Rank]
+Die II infra Octavam Nativitatis;;Semiduplex;;2.1;;ex SanctiCist/12-25
+
+[Versum 1]
+@SanctiCist/12-25:Versum 3
+
+[Ant 1]
+Nésciens Mater Virgo virum, péperit sine dolóre Salvatórem sæculórum, ipsum Regem Angelórum sola Virgo lactábat úbere de cœlo pleno.
+
+[Ant 2]
+Verbum caro factum est, et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre plenum grátiæ, et veritátis, allelúia, allelúia, allelúia.
