@@ -1,3 +1,6 @@
+[Rank]
+sv. Jana, Apoštola a Evangelisty;;Serm. min.;;5.3;;ex C1
+
 [Ant Laudes]
 Hle, můj služebník * vyvolený, jejž jsem si vyvolil, a seslal na něj svého Ducha.
 Tento muž je onen učedník, * který vydává svědectví o těchto věcech; a víme, že jeho svědectví je pravdivé.

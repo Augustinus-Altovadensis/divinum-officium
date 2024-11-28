@@ -46,7 +46,7 @@ Staň se i odměnou naší;
 Buď naše v tobě sláva vždy,
 Po nesmírné všechny věky.
 Amen.
-!Překlad: Kancionál č. 786, úprava JE.
+/: Překlad: Kancionál č. 786, úprava JE. :/
 
 [Hymnus Vespera alternative]
 v. Vzpomínko sladká, Ježíši,
@@ -74,7 +74,7 @@ odměno srdcí nejvyšší,
 buď naší chloubou jedině
 v života každé hodině.
 Amen.
-!Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 (vydává Opatství Emauzské v Praze)
+/: Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 :/
 
 [Versum 1]
 V. Buď Jméno Páně požehnáno, alleluia.
@@ -120,7 +120,7 @@ ty z našich mravů vyzařuj,
 kéž láskou k tobě každý z nás
 lne celým srdcem v každý čas!
 Amen.
-!Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 (vydává Opatství Emauzské v Praze)
+/: Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 :/
 
 [Ant Matutinum]
 O Lord our Lord, * how admirable is thy name in the whole earth!;;8
@@ -288,7 +288,7 @@ má sladká lásko, Ježíši,
 buď tobě sláva nejvyšší
 a vláda v rajském zátiší.
 Amen.
-!Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 (vydává Opatství Emauzské v Praze)
+/: Překlad: Dp. Josef Škrášek, Kroměříž, in PAX. Časopis pro přátele liturgie a řádu sv. Benedikta. XI. ročník, Leden-Prosinec 1936. str. 195-198 :/
 
 [Versum 2]
 V. Our help is in the Name of the Lord.

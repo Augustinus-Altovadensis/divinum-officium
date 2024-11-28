@@ -126,7 +126,7 @@ V. All things were made by him: and without him nothing was made
 R. The same was in the beginning with God.
 
 [Octava 3]
-!Commemoratio Octavæ Nativitatis
+!Připomínka Oktávu Narození Páně
 Ant. Nepoznala panenská Matka muže, porodila však bez bolesti Spasitele světa, a samotného Krále Andělů sama Panna kojila ňadry naplněnými z nebes.
 _
 V. Chlapec se nám narodil.
@@ -137,7 +137,7 @@ v. Uděl nám, prosíme, všemohoucí Bože, aby nové Zrození tvého Jednoroze
 $Per eumdem
 
 [Octava 2]
-!Commemoratio Octavæ Nativitatis
+!Připomínka Oktávu Narození Páně
 Ant. Slovo se stalo tělem, a přebývalo mezi námi; a uzřeli jsme jeho slávu, slávu, kterou má Jednorozený <i>Syn</i> od Otce, plný milosti a pravdy, alleluja, alleluja, alleluja.
 _
 V. Chlapec se nám narodil.

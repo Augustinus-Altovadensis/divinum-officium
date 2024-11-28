@@ -773,8 +773,8 @@ if (
     # infra 8vam Pasch & Pent
     || ($weekname =~ /Pasc[07]/i && $cwinner{Rank} !~ /Dominica/i)
 
-    # no commemoration of the Octave of S. Stephen after DA
-    || ($winner =~ /01-01/ && $version !~ /trident/i)
+    # no commemoration of the Octave of S. Stephen after DA (and in Cist. we need the eventual Comm. of SS. Nominis Jesu)
+    || ($winner =~ /01-01/ && $version !~ /trident|Cistercien/i)
 
     # sort out BVM concurrent with BMV
     || ($cwinner{Rank} =~ /C10/i && $winner{Rank} =~ /C1[01]/i)
@@ -939,7 +939,10 @@ if (
         && $cwrank[0] !~ /Dominica|feria|in.*octava/i)
 
       # on Christmas Eve and New Year's Eve, nothing of a preceding Sunday
-      || ($cwinner =~ /12-25|01-01/)
+      || ($cwinner =~ /12-25|01-01/ && $version !~ /Cistercien/i)
+
+			# in Cistercian Rite, St. Silvester is commemorated on Circumcision 
+      || ($cwinner =~ /12-25/ && $version =~ /Cistercien/i)
 
       # in 1st Vespers of Duplex II. cl. also commemoration of any Duplex
       || ( $crank >= 5

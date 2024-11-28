@@ -1,3 +1,6 @@
+[Rank]
+Svatých Neviňátek, Mučedníků;;Serm. min.;;5.2;;ex C3
+
 [Ant 1]
 O jak * slavné je království, v němž se spolu s Kristem radují Neviňátka, oděna v bílé štóly následují Beránka, kamkoliv jde.
 

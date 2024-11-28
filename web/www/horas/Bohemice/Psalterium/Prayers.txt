@@ -294,7 +294,7 @@ v. Pane, smiluj se; Kriste, smiluj se; Pane, smiluj se
 
 [MLitany2]
 v. Pane, smiluj se; Kriste, smiluj se; Pane, smiluj se
-!"Pater noster" se říká potichu až do "Et ne nos indúcas in tentationem:".
+/: «Pater noster» se říká potichu až do «Et ne nos indúcas in tentationem:» :/
 &pater_noster
 
 [Alleluia Simplex]

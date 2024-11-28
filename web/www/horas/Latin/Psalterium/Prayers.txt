@@ -302,7 +302,7 @@ $Kyrie
 
 [MLitany2]
 $Kyrie
-/: « Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: » :/
+/: «Pater Noster» dicitur secreto usque ad «Et ne nos indúcas in tentatiónem:» :/
 &pater_noster
 
 [Alleluia Simplex]

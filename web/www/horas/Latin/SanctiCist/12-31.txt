@@ -7,6 +7,9 @@ ex C4
 [Oratio]
 @CommuneCist/C4::s/N./Silvestri/
 
+[Ant 3]
+@Commune/C4:Ant 3 summi Pontificis
+
 [Lectio1]
 @Sancti/12-30:Lectio7:s/_.*/_\n/s
 @Sancti/12-30:Lectio4

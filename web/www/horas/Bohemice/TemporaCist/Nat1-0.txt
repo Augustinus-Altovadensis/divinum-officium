@@ -1,0 +1,40 @@
+[Rank]
+Neděle ve vánočním Oktávu;;Semiduplex;;3.1;;ex SanctiCist/12-25
+
+[Versum 1]
+V. Ve známost uvedl Hospodin.
+R. Svou Spásu.
+
+[Ant Laudes]
+Zrodila matka * Krále, jehož jméno je věčné, a mateřské radosti spojila s panenskou ctí: a nebylo před ní podobné nalezeno, ani její následovnice, alleluja.
+Anděl * řekl pastýřům: „Zvěstuji vám velikou radost: dnes se vám narodil Spasitel světa, alleluja.“
+Shromáždilo se * s Andělem množství nebeských zástupů, které chválily <i>Boha</i> těmito slovy: „Sláva na výsostech Bohu, a na zemi pokoj lidem dobré vůle, alleluja.“
+Pastýři * si řekli mezi sebou: „Pojďme do Betléma, abychom uzřeli toto Slovo, které se stalo <i>tělem</i>, jež nám Pán ukázal, alleluja.“
+A přišli * ve spěchu: a nalezli Marii i Josefa, a nemluvňátko položené v jeslích, alleluja.
+
+[Lectio5]
+@Tempora/Nat1-0:Lectio4:s/look .*//s
+
+[Lectio6]
+@Tempora/Nat1-0:Lectio4:s/.* look /Look /s s/$/~/
+@Tempora/Nat1-0:Lectio5:s/He cometh .*//s
+
+[Lectio7]
+@Tempora/Nat1-0:Lectio5:s/.* He cometh /He cometh /s s/$/~/
+@Tempora/Nat1-0:Lectio6:s/The proclamation .*//s
+
+[Lectio8]
+@Tempora/Nat1-0:Lectio6:s/.* The proclamation /The proclamation /s
+
+[Lectio9]
+@Tempora/Nat1-0:Lectio7
+
+[Lectio10]
+@Tempora/Nat1-0:Lectio8:s/For, .*//s
+
+[Lectio11]
+@Tempora/Nat1-0:Lectio8:s/.* For, /For, /s
+
+[Lectio12]
+@Tempora/Nat1-0:Lectio9
+

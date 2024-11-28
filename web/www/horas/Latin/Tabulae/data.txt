@@ -18,4 +18,4 @@ Rubrics 1960,1960,1960,1960
 1960 Newcalendar,NC,Newcal,Newcal
 Monastic,M,M,XXXX
 Ordo Praedicatorum,1967OP,1960,XXXX
-Ordo Cisterciensis,Cist,1906,1906
+Ordo Cisterciensis,Cist,Cist,1906

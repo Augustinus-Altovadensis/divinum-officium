@@ -30,8 +30,6 @@ _
 [Ant 1]
 Qui de terra est, * de terra lóquitur; qui de cœlo venit, super omnes est: et quod vidit, et audívit, hoc testátur, et testimónium ejus nemo áccipit; qui autem accéperit ejus testimónium, signávit quia Deus verax est.
 
-[Commemoratio]
-
 [Ant 2]
 Mirábile mystérium * declarátur hódie: innovántur natúræ, Deus homo factus est: id quod fuit permánsit, et quod non erat assúmpsit, non commixtiónem passus, neque divisiónem.
 
@@ -136,17 +134,8 @@ R. Et vocábitur Admirábilis, Deus Fortis.
 [Responsory12]
 @Tempora/Nat1-0:Responsory8
 
-[Responsory Tertia]
-@Sancti/12-25:Responsory Nona:8-9
-
-[Responsory Sexta]
-@Sancti/12-25:Versum 2
-
 [Capitulum Sexta]
 @Sancti/12-25
-
-[Responsory Nona]
-@Sancti/12-25:Responsory Sexta:8-9
 
 [Capitulum Nona]
 @Sancti/12-25

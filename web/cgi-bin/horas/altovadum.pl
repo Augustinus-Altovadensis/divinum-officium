@@ -40,6 +40,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Altovadensi/vyšebrodském/ig;
 	$line =~ s/Zarae/ve Žďáru/ig;
 	$line =~ s/Zarensis/žďárský/ig;
+	$line =~ s/Zarensi/žďárské/ig;
 	$line =~ s/Ossecensis|Ossencensis/osecký/ig;
 	$line =~ s/Ossecii|Osecii|in Ossegg/v Oseku/ig;
 	$line =~ s/circa Ossecum/v okolí Oseka/ig;
@@ -148,7 +149,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/Kalschingensis|Chvalšinensis/chvalšinský/ig;
 	$line =~ s/Kalschingae/ve Chvalšinách/ig;
 	$line =~ s/Kalsching/Chvalšiny/ig;
-	$line =~ s/Driesendorf/Střížov/ig;
+	$line =~ s/Driesendorff?/Střížov/ig;
 	$line =~ s/Boreschovii|Paireschau/v Boršově/ig;
 	$line =~ s/Payreschau|Payerschau/Boršov/ig;
 	$line =~ s/de Budvicio/z Budějovic/ig;
@@ -738,6 +739,7 @@ sub translate_cz : ScriptFunc {
 	$line =~ s/uxor/manželka/ig;
 	$line =~ s/hic professi/zdejšího profese/ig;
 	$line =~ s/in oppido/ve městě/ig;
+	$line =~ s/in civitate/v obci/ig;
 	$line =~ s/in aedibus/v síních/ig;
 	$line =~ s/ante altare/před Oltářem/ig;
 	$line =~ s/post expulsionem/po vyhnání/ig;

@@ -1,13 +1,45 @@
 @Tempora/Nat1-0
 
 [Rank]
-Dominica Infra Octavam Nativitatis;;Semiduplex;;4.9;;ex SanctiM/12-25
+Dominica Infra Octavam Nativitatis;;Semiduplex;;3.5;;ex SanctiCist/12-25
 
 [Rule]
 12 lectiones
 Psalmi Dominica
-no Commemoratio
 Antiphonas horas
+
+[Versum 1]
+V. Notum fecit Dóminus.
+R. Salutáre suum.
+
+[Ant Laudes]
+Génuit puérpera * Regem, cui nomen ætérnum, et gáudia matris habens cum virginitátis honóre: nec primam símilem visa est, nec habére sequéntem, allelúja.
+Angelus * ad pastóres ait: Annúntio vobis gáudium magnum: quia natus est vobis hódie Salvátor mundi, allelúia.
+Facta est * cum Angelo multitúdo cœléstis exércitus laudántium, et dicéntium: Glória in excélsis Deo, et in terra pax homínibus bonæ voluntátis, allelúia.
+Pastóres * loquébantur ad ínvicem: Transeámus usque Béthlehem, et videámus hoc Verbum quod factum est, quod Dóminus osténdit nobis, allelúia
+Et venérunt * festinántes: et invenérunt Maríam, et Joseph, et infántem pósitum in præsépio, allelúia.
+
+[Capitulum Laudes]
+@:Capitulum Tertia
+_
+@SanctiCist/12-25::3-6
+
+[Versum 2]
+@:Versum 1
+
+[Capitulum Vespera 3]
+@:Capitulum Tertia
+_
+@SanctiCist/12-25::3-6
+
+[Capitulum Tertia]
+@Tempora/Nat1-0:Capitulum Vespera
+
+[Ant Vespera]
+@SanctiCist/12-25:Ant Vespera 3:s/131/112/
+
+[Versum 3]
+@:Versum 1
 
 [Ant Matutinum]
 @SanctiM/12-25::s/V\. Ipse.*/V. Notum fecit Dóminus, allelúja.\nR. Salutáre suum, allelúja./s
@@ -87,23 +119,3 @@ Antiphonas horas
 [Responsory12]
 @Tempora/Nat1-0:Responsory8
 
-[Versum 2]
-@Sancti/12-25:Responsory Sexta:s/.*_.//s
-
-[Capitulum Laudes]
-@:Capitulum Tertia
-_
-@Sancti/12-25:Responsory Tertia:s/._.*//s
-
-[Capitulum Vespera]
-@:Capitulum Laudes
-
-[Capitulum Tertia]
-@Tempora/Nat1-0:Capitulum Vespera
-
-[Versum 1]
-V. Vidérunt omnes fines terræ, allelúja.
-R. Salutáre Dei nostri, allelúja.
-
-[Versum 3]
-@:Versum 1
