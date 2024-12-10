@@ -1163,8 +1163,7 @@ _
 ℟. Svatá Boží Rodičko, přimlouvej se za nás.
 _
 $Oremus
-v. Bože, jenž jsi panenství blahoslavené Panny Marie požehnal a tak
-lidstvu udělil milost věčně spásy, dej, prosíme, abychom se přesvědčovali, že se za nás přimlouvá ta, jejímž prostřednictvím jsme obdrželi původce života, našeho Pána, Ježíše Krista, tvého Syna.
+v. Bože, jenž jsi panenství blahoslavené Panny Marie požehnal a tak lidstvu udělil milost věčně spásy, dej, prosíme, abychom se přesvědčovali, že se za nás přimlouvá ta, jejímž prostřednictvím jsme obdrželi původce života, našeho Pána, Ježíše Krista, tvého Syna.
 $Qui tecum 
 
 [Suffragium3L_Epi]
