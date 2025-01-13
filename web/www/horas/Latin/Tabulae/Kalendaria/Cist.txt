@@ -9,8 +9,8 @@
 01-07=01-07=Secunda die infra Octavam Epiphaniæ=1.2=
 01-08=01-08=Tertia die infra Octavam Epiphaniæ=1.2=
 01-09=01-09=Quarta die infra Octavam Epiphaniæ=1.2=
-01-10=01-10=Quinta die infra Octavam Epiphaniæ=1.2=S. Pauli primi Eremitæ et Confessoris=1=
-01-11=01-11=Sexta die infra Octavam Epiphaniæ=1.2=S. Hygini Papæ et Martyris=1=
+01-10=01-10~01-10cc=Quinta die infra Octavam Epiphaniæ=1.2=S. Pauli primi Eremitæ et Confessoris=1=
+01-11=01-11~01-11cc=Sexta die infra Octavam Epiphaniæ=1.2=S. Hygini Papæ et Martyris=1=
 01-12=01-12=Septima die infra Octavam Epiphaniæ=1=
 01-13=01-13=Commemoratio Baptismatis Domini=5=
 01-14=01-14=S. Hilarii Episcopi Confessoris et Ecclesiae Doctoris=2=S. Felicis Presbyteri et Mart.=1=S. Guarini, Episcopi et Conf.=1=

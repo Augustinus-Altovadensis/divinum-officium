@@ -1,7 +1,7 @@
 @SanctiCist/01-06
 
 [Rank]
-Tertia die infra Octavam Epiphaniæ;;Semiduplex;;1.2;;vide SanctiCist/01-06
+Tertia die infra Octavam Epiphaniæ;;Semiduplex;;1.3;;vide SanctiCist/01-06
 
 [Rule]
 Psalmi feria

@@ -1,0 +1,11 @@
+[Rank]
+S. Hygini, Papæ et Martyris;;Commemoratio;;1;;vide C2
+
+[Ant 1]
+@Commune/C2
+
+[Ant 2]
+@Commune/C2
+
+[Oratio]
+@CommuneCist/C2:Oratio:s/N\./Hygíni/

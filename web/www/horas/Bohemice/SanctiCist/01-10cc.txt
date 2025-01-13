@@ -1,0 +1,5 @@
+[Rank]
+Sv. Pavla, prvního Poustevníka a Vyznavače;;Commemoratio;;1;;vide C5
+
+[Oratio]
+@Commune/C5:Oratio:s/N\./Pavla/

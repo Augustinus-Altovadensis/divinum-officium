@@ -4,3 +4,17 @@ Svaté Rodiny Ježíš, Marie a Josefa;;MM maj.;;4
 [Commemoratio]
 !Připomínka Neděle v Oktávu Zjevení Páně
 @Tempora/Epi1-0a:Oratio:s/V\. .*/V. Klanějte se jemu./ s/R\. .*/R. Všichni jeho Andělé./
+
+[Ant Vespera]
+Jakub pak * zrodil Josefa, muže Marie; z níž se narodil Ježíš, jenž byl nazýván Kristus.;;109
+Anděl Páně * se zjevil ve snu Josefovi a řekl mu: Josefe, synu Davidův, neboj se přijmout Marii za svou manželku, dítě, které se z ní narodí, je totiž z Ducha Svatého.;;112
+Pastýři přišli * ve spěchu, a nalezli Marii a Josefa i Dítě položené v jeslích.;;121
+Podivovali se všichni * nad slovy milosti, jež vycházela z jeho úst, a pravili: Není to snad syn Josefův?;;126
+Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.
+
+[Ant Vespera 3]
+Synu, * proč jsi nám to učinil? Hle, tvůj otec a já jsme tě v bolestech hledali. Proč jste mě hledali? Nevěděli jste snad, že mi náleží být v tom, co je mého Otce?;;109
+Sestoupil Ježíš * spolu s nimi, a přišel do Nazareta, a byl jim podřízen.;;112
+A Ježíš prospíval * moudrostí i věkem, a milostí u Boha i u lidí.;;121
+Podivovali se všichni * nad slovy milosti, jež vycházela z jeho úst, a pravili: Není to snad syn Josefův?;;126
+A pravili: * odkud pochází tato moudrost a moc? Není to snad syn tesařův?;;147

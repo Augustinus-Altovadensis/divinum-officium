@@ -208,7 +208,7 @@ sub occurrence {
 		$BMVSabbato = ($sfile =~ /v/ || $dayofweek !~ 6) ? 0 : 1; # nicht sicher, ob das notwendig ist
 
 		# BMV in Sabbato cannot be on Vigilia Imm. Conceptionis
-		if ($version =~ /Cistercien/i && $month == 12 && ($day == 6 || $day == 7))  { $BMVSabbato = 0 }
+		if ($version =~ /Cistercien/i && $month == 12 && ($day == 6 || $day == 7) && $month == 1 && ($day > 6 && $day < 13))  { $BMVSabbato = 0 }
 		
 		if (-e "$datafolder/Latin/$sfile.txt") {
 			$sname = "$sfile.txt";
