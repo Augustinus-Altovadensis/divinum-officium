@@ -1,0 +1,38 @@
+[Rank]
+Zasnoubení Panny Marie se sv. Josefem (propria Bohemiæ);;MM. maj.;;4;;ex C11
+
+[Rule]
+ex C11
+Psalmi Dominica
+Antiphonas horas
+
+[Ant Vespera]
+@SanctiCist/09-08::s/Narození/Zasnoubení/ig
+
+[Capitulum Vespera]
+@CommuneCist/C11:Capitulum Tertia
+_
+@SanctiCist/09-08:Capitulum Vespera 3:3-6:s/Narození/Zasnoubení/ig
+
+[Versum 1]
+@Sancti/09-08:Versum 1:s/Narození/Zasnoubení/ig
+
+[Versum 2]
+@:Versum 1
+
+[Ant 1]
+@SanctiCist/09-08::s/Narození/Zasnoubení/ig
+
+[Oratio]
+Všemohoucí a přemírný Bože, jenž jsi Svatého Josefa, spravedlivého Syna Davidova, poskytl Blahoslavené Panně Marii, své Matce, za Manžela, a vyvolil si jej za svého Pěstouna; dej, prosíme, aby se na jeho prosby a pro jeho zásluhy těšila Církev pokojnému míru, a my abychom byli dovedeni k útěše věčného patření na Boha.
+$Qui vivis
+
+[Commemoratio]
+!Připomínka sv. Emerentiany, Panny a Mučednice
+@CommuneCist/C6:Oratio1:s/N\./Emerentiana/
+
+[Ant Laudes]
+@SanctiCist/09-08:Ant Vespera:s/Narození/Zasnoubení/ig s/;;.*//g
+
+[Ant 2]
+@SanctiCist/09-08::s/Narození/Zasnoubení/ig

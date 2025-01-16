@@ -22,7 +22,7 @@
 01-20=01-20=Ss. Fabiani et Sebastiani Martyrum=3=
 01-21=01-21=S. Agnetis Virginis et Martyris=3=
 01-22=01-22=Ss. Vincentii et Anastasii Martyrum=2=
-01-23=01-23=S. Emerentianae Virginis et Martyris=1=
+01-23=01-23=Desponsatio B.M.V. cum S. Joseph (propria Bohemiæ)=4=S. Emerentianae Virginis et Martyris=1=
 01-24=01-24=S. Timothei Episcopi et Martyris=3=
 01-25=01-25=In Conversione S. Pauli Apostoli=5=
 01-26=01-26=S. Alberici, ij. Abbatis Cistercii=5=

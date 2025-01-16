@@ -1,7 +1,33 @@
 [Rank]
 Svaté Rodiny Ježíš, Marie a Josefa;;MM maj.;;4
 
-[Commemoratio]
+[Commemoratio 1]
+!Připomínka Neděle v Oktávu Zjevení Páně
+Ant. Chlapec Ježíš zůstal v Jerusalémě; a jeho rodiče o tom nevěděli, a mysleli si, že je spolu s ostatními, takže jej hledali mezi příbuznými a známými.
+_
+V. Klanějte se jemu.
+R. Všichni jeho Andělé.
+_
+$Oremus
+v. Prosíme tě, Pane, prosby svého pokorně prosícího lidu následuj svou nebeskou laskavostí; aby viděl, co je třeba dělat, a na to, co viděl, i nabral sílu.
+_
+!Připomínka Oktávu Zjevení Páně
+@SanctiCist/01-06:Oratio
+
+[Commemoratio 2]
+!Připomínka Neděle v Oktávu Zjevení Páně
+Ant. Chlapec Ježíš zůstal v Jerusalémě; a jeho rodiče o tom nevěděli, a mysleli si, že je spolu s ostatními, takže jej hledali mezi příbuznými a známými.
+_
+V. Klanějte se jemu.
+R. Všichni jeho Andělé.
+_
+$Oremus
+v. Prosíme tě, Pane, prosby svého pokorně prosícího lidu následuj svou nebeskou laskavostí; aby viděl, co je třeba dělat, a na to, co viděl, i nabral sílu.
+_
+!Připomínka Oktávu Zjevení Páně
+@SanctiCist/01-06:Oratio
+
+[Commemoratio 3]
 !Připomínka Neděle v Oktávu Zjevení Páně
 @Tempora/Epi1-0a:Oratio:s/V\. .*/V. Klanějte se jemu./ s/R\. .*/R. Všichni jeho Andělé./
 
@@ -10,7 +36,15 @@ Jakub pak * zrodil Josefa, muže Marie; z níž se narodil Ježíš, jenž byl n
 Anděl Páně * se zjevil ve snu Josefovi a řekl mu: Josefe, synu Davidův, neboj se přijmout Marii za svou manželku, dítě, které se z ní narodí, je totiž z Ducha Svatého.;;112
 Pastýři přišli * ve spěchu, a nalezli Marii a Josefa i Dítě položené v jeslích.;;121
 Podivovali se všichni * nad slovy milosti, jež vycházela z jeho úst, a pravili: Není to snad syn Josefův?;;126
-Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.
+Mudrci vešli do domu, * a nalezli Chlapce s Marií, jeho matkou.
+
+[Capitulum Laudes]
+@Tempora/Epi1-0
+_
+R.br. Pán své cesty * Naučí vás.
+R. Pán své cesty * Naučí vás.
+V. A kráčet budeme po jeho stezkách.
+R. Naučí vás.
 
 [Ant Vespera 3]
 Synu, * proč jsi nám to učinil? Hle, tvůj otec a já jsme tě v bolestech hledali. Proč jste mě hledali? Nevěděli jste snad, že mi náleží být v tom, co je mého Otce?;;109
@@ -18,3 +52,7 @@ Sestoupil Ježíš * spolu s nimi, a přišel do Nazareta, a byl jim podřízen.
 A Ježíš prospíval * moudrostí i věkem, a milostí u Boha i u lidí.;;121
 Podivovali se všichni * nad slovy milosti, jež vycházela z jeho úst, a pravili: Není to snad syn Josefův?;;126
 A pravili: * odkud pochází tato moudrost a moc? Není to snad syn tesařův?;;147
+
+[Responsory Tertia]
+V. Pro nás stal se ubohým, třebaže byl bohatý.
+R. Abychom se jeho chudobou my stali bohatými.

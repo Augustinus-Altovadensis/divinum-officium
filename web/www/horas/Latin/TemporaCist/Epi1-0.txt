@@ -3,6 +3,12 @@
 [Rank]
 Sanctæ Familiæ Jesu, Mariæ, Joseph;;MM maj.;;4
 
+[Rule]
+12 lectiones
+Psalmi Dominica
+Antiphonas horas
+No Commemoratio 
+
 [Doxology]
 @Psalterium/Doxologies:EpiT
 
@@ -16,12 +22,35 @@ Magi, intrántes domum, * invenérunt Púerum cum María, matre ejus.
 [Capitulum Vespera]
 @Tempora/Epi1-0
 _
-R.br. Propter nos egénus factus est; * Cum esset dives.
-R. Propter nos egénus factus est; * Cum esset dives.
-V. Ut illíus inópia nos dívites essémus.
-R. Cum esset dives.
+@Tempora/Epi1-0:Responsory Tertia:1-4
 
-[Commemoratio]
+[Commemoratio 1]
+!Commemoratio Dominicæ in Octava Epiphaniæ
+Ant. Remánsit puer Jesus in Jerúsalem, et non cognovérunt paréntes ejus existimántes illum esse in comitátu: et requirébant eum inter cognátos et notos.
+_
+V. Adoráte Deum.
+R. Omnes Angeli ejus.
+_
+$Oremus.
+v. Vota, quæsumus, Dómine, supplicántis pópuli cœlésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant.
+_
+!Commemoratio Octavæ Epiphaniæ
+@SanctiCist/01-06:Oratio
+
+[Commemoratio 2]
+!Commemoratio Dominicæ in Octava Epiphaniæ
+Ant. Remánsit puer Jesus in Jerúsalem, et non cognovérunt paréntes ejus existimántes illum esse in comitátu: et requirébant eum inter cognátos et notos.
+_
+V. Adoráte Deum.
+R. Omnes Angeli ejus.
+_
+$Oremus.
+v. Vota, quæsumus, Dómine, supplicántis pópuli cœlésti pietáte proséquere: ut et quæ agénda sunt, vídeant, et ad implénda quæ víderint, convaléscant.
+_
+!Commemoratio Octavæ Epiphaniæ
+@SanctiCist/01-06:Oratio
+
+[Commemoratio 3]
 !Commemoratio Dominicæ in Octava Epiphaniæ
 @Tempora/Epi1-0a:Oratio:s/V\. .*/V. Adoráte Deum./ s/R\. .*/R. Omnes Angeli ejus./
 
@@ -38,11 +67,21 @@ Et dicébant: * Unde huic sapiéntia hæc, et virtútes? Nonne hic est fabri fí
 [Capitulum Laudes]
 @Tempora/Epi1-0
 _
-R.br. Dóminus vias suas * Docébit vos.
-R. Dóminus vias suas * Docébit vos.
-V. Et ambulábimus in sémitis ejus.
-R. Docébit vos.
+@Tempora/Epi1-0:Responsory Sexta:1-4
 
 [Versum 2]
-V. Beáti, qui hábitant in domo tua Dómine.
-R. In sæcula sæculórum laudábunt te.
+@:Versum 1
+
+[Versum 3]
+@:Versum 1
+
+[Responsory Tertia]
+V. Propter nos egénus factus est cum esset dives.
+R. Ut illíus inópia nos dívites essémus.
+
+[Responsory Sexta]
+@Tempora/Epi1-0:Responsory Tertia:8-9
+
+[Responsory Nona]
+@Tempora/Epi1-0:Responsory Nona:8-9
+

@@ -1,6 +1,6 @@
 @Sancti/01-20
 [Rank]
-SS. Fabiani et Sebastiani Martyrum;;iij. Lect. et M.;;1.2;;ex C3
+SS. Fabiani et Sebastiani Martyrum (propria Bohemiæ);;MM. min.;;3;;ex C3
 
 [Responsory3]
 @Commune/C3:Responsory1
