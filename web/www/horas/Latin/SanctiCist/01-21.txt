@@ -17,7 +17,7 @@ Christi Virgo * nec terróre concútitur, nec blandiméntis sedúcitur.
 @Sancti/01-21:Ant 1
 
 [Ant Laudes]
-@:Ant Vespera
+@:Ant Vespera:s/;;.*//g
 
 [Ant Vespera 3]
 @:Ant Vespera
