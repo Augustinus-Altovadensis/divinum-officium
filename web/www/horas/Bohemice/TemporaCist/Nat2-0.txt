@@ -18,9 +18,9 @@ Jménu tvému, Pane, * náleží svatost po všechny časy.
 [Capitulum Laudes]
 @Tempora/Nat2-0
 _
-R.br. Přineste Pánu * slávu a čest.
-R. Přineste Pánu * slávu a čest.
-V. Přineste Pánu slávu jeho jménu.
+R.br. Vzdejte Hospodinu * slávu a čest.
+R. Vzdejte Hospodinu * slávu a čest.
+V. Vzdejte Hospodinu slávu jeho jménu.
 R. Slávu a čest.
 
 [Ant 2]
