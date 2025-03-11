@@ -1,5 +1,5 @@
 [Rank]
-S. Dorothy virgin and martyr;;Simplex;;1.1;;vide C6b
+sv. Doroty, Panny a Mučednice;;Simplex;;1.1;;vide C6b
 
 [Rule]
 vide C6b;
