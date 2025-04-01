@@ -1,6 +1,6 @@
 @Tempora/Quad5-6
 
 [Rank]
-Sabbato infra Hebdomadam Passionis;;Feria major;;3
+Sabbato infra Hebdomadam Passionis;;Feria major;;2.1
 
 

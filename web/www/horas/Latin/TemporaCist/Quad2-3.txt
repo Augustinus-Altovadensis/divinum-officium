@@ -1,7 +1,7 @@
 @Tempora/Quad2-3
 
 [Rank]
-Feria Quarta infra Hebdomadam II in Quadragesima;;Feria major;;3
+Feria Quarta infra Hebdomadam II in Quadragesima;;Feria major;;2.1
 
 [Ant 3]
 Sedére autem mecum * non est meum dare vobis: sed quibus parátum est a Patre meo.
