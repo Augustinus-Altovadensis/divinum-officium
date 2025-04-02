@@ -1,7 +1,7 @@
 @Sancti/03-25
 
 [Rank]
-In Annuntiatione Beatæ Mariæ Virginis;;Serm. maj,;;6.5;;ex C11
+In Annuntiatione Beatæ Mariæ Virginis;;Serm. min.,;;5;;ex C11
 
 [Rule]
 12 lectiones
@@ -42,7 +42,7 @@ Allelúia, * allelúia, allelúia.
 [Capitulum Laudes]
 @Sancti/03-25:Capitulum Vespera
 _
-@CommuneCist/C10:Capitulum Vespera:3-6
+@CommuneCist/C10:Capitulum Laudes:3-6
 
 [Capitulum Laudes] (tempore paschali)
 @Sancti/03-25:Capitulum Vespera

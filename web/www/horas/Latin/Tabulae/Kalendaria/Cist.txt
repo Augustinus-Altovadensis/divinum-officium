@@ -63,7 +63,7 @@
 03-24=03-24=S. Gabrielis Archangeli=3=
 03-25=03-25=In Annuntiatione Beatae Mariae Virginis=6=
 *April*
-04-01=04-01=S. Hugoni, Abbatis=1=
+04-01=04-01C=S. Hugoni, Abbatis=1=
 04-04=04-04=S. Ambrosii, Episc., Confessoris et Ecclesiae Doctoris=4=
 04-05=04-05=S. Julianæ Virginis=3=
 04-06=04-06=S. Isidori, Episc., Confessoris et Ecclesiae Doctoris=2=
