@@ -1,0 +1,11 @@
+@Sancti/04-23
+
+[Ant 1]
+@CommuneCist/C2p:Ant 2
+
+
+[Ant 2]
+@CommuneCist/C2p:Ant 1
+
+[Versum 1]
+@CommuneCist/C2p:Responsory Tertia

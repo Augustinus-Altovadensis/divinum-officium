@@ -17,3 +17,9 @@ R. Qui dum sǽculi pompam contémpsit, ætérnæ vitæ conjúnctus est. Allelúi
 
 [Capitulum Vespera 3]
 @CommuneCist/C5:Capitulum Vespera
+
+[Hymnus Vespera]
+@Commune/C4:HymnusM Vespera
+
+[Hymnus Laudes]
+@Commune/C5:HymnusM Laudes

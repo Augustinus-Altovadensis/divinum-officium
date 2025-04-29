@@ -1,20 +1,8 @@
 [Rank]
-S. Georgii Martyris;;Semiduplex;;2;;vide C2
-
-[Rank1960]
-S. Georgii Martyris;;Simplex;;1.1;;vide C2
-
-[RankNewcal]
-S. Georgii Martyris;;Semiduplex;;2;;vide C2
-
-[Rule]
-vide C2;
-9 lectiones
+sv. Jiří, Mučedníka
 
 [Oratio]
-O God, Who dost gladden us through the worthy deeds and prayers of thy blessed~
-martyr George, mercifully grant that all they which seek thy mercy through him~
-may effectually obtain the gift of thy grace.
+Bože, jenž nás zásluhami i přímluvou svatého Jiří, Mučedníka, rozradostňuješ: uděl, laskavě; abychom, když tě prosíme o dobra skrze něj, darem tvé milosti byli následováni.
 $Per Dominum
 
 [Lectio94]

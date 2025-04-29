@@ -72,7 +72,7 @@
 04-17=04-17=S. Aniceti Papae et Martyris=1=
 04-21=04-21=S. Anselmi Episcopi Confessoris et Ecclesiae Doctoris=2=
 04-22=04-22=SS. Soteris et Caii, Pontificum et Martyrum=1=
-04-23=04-23=S. Adalberti, Episcopi, Martyris et Patroni Bohemiæ=6=Georgii Martyris=1=
+04-23=04-23c~04-23o=S. Adalberti, Episcopi, Martyris et Patroni Bohemiæ=6=Georgii Martyris=1=
 04-25=04-25=S. Marci Evangelistae=5=
 04-26=04-26=S. Franchæ, Virginis=2=Cleti et Marcellini Pontif Martyrum=1=
 04-28=04-28=S. Vitalis, Martyris=1=
