@@ -1,0 +1,32 @@
+@Sancti/4-29
+
+[Rank]
+S. Petri, Martyris;;iij. Lect. et M.;;1.2;;vide C2
+
+[Rule]
+vide C2;
+3 Lectiones
+
+[Ant 1]
+@CommuneCist/C2p:Ant 2
+
+[Ant 2]
+@CommuneCist/C2p:Ant 1
+
+[Versum 1]
+@CommuneCist/C2p:Responsory Tertia
+
+[Versum 2]
+@:Versum 1
+
+[Oratio]
+Præsta, quǽsumus, omnípotens Deus: ut beáti Petri Mártyris tui fidem cóngrua devotióne sectémur; qui, pro ejúsdem fídei dilatatióne, martýrii palmam méruit obtinére.
+$Per Dominum
+
+[Commemoratio]
+!S. Catharinæ Senensis, Virginis (1965)
+@CommuneCist/C6:Oratio proper 
+$Oremus
+v. Da, quǽsumus, omnípotens Deus: ut, qui beátæ Catharínæ Vírginis tuæ natalítia cólimus; et ánnua solemnitáte lætémur, et tantæ virtútis proficiámus exémplo.
+$Per Dominum
+
