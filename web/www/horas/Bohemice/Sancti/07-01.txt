@@ -23,7 +23,7 @@ v. Bratři, Kristus přišel jako velekněz budoucích hodnot; prošel stánkem 
 $Deo gratias
 
 [Hymnus Vespera]
-v. Slavným ať znějí ulice vše hlasy,
+v. Slavnými ať znějí ulice vše hlasy,
 Lidé ať radost svou na tváři ukáží,
 S loučemi v rukou svých, hořících, za sebou
 V řadě mladí i staří.
@@ -254,7 +254,7 @@ Blažení, * kdo si vyprali své oděvy v krvi Beránkově.
 
 [Hymnus Laudes]
 v. Zdravím vás, rány Kristovy,
-Nesmírné lásky zástavyn,
+Nesmírné lásky zástavy,
 Jimiž ty věčné potůčky
 Vytékaly krve rudé.
 _

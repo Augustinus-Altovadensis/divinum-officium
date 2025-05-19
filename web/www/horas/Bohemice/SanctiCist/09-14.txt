@@ -11,8 +11,7 @@ _
 @Sancti/05-03:Responsory Sexta:s/._.*//s s/R. Alleluja, alleluja/R. A dobrořečíme ti/ s/\:/\./g s/Kriste, /Kriste, * /g s/. .llelu[ij]a\.?//g 
 
 [Ant 1]
-Věrný Kříži, * mezi všemi strom jediný vznešený! Žádný les nemůž' jej zrodit, dle větví, květů, plodů;
-sladké dřevo, sladké hřeby sladkou tíži ponesou.
+Věrný Kříži, * mezi všemi strom jediný vznešený! Žádný les nemůž' jej zrodit, dle větví, květů, plodů; sladké dřevo, sladké hřeby sladkou tíži ponesou.
 
 [Capitulum Laudes]
 @Sancti/05-03
