@@ -210,6 +210,14 @@ Si quieres saber cómo se verificó esto, abre el libro de los Hechos de los Ap�
 [Ant 2]
 Los que me habéis seguido, * os sentaréis sobre tronos para juzgar a las doce tribus de Israel, dice el Señor.
 
+[Ant 2C]
+Mi Evangelio, * que ha sido predicado, no es obra mía, ni lo recibí de hombre alguno, sino por revelación de nuestro Señor Jesucristo.
+
+[Ant 2]
+@:Ant 2_
+(sed rubrica cisterciensis)
+@:Ant 2C
+
 [Oratio]
 Oh Dios, que enseñaste a todo el mundo con la predicación del bienaventurado apóstol Pablo, concédenos, te rogamos, que cuantos celebramos hoy su natalicio, lleguemos a ti imitando sus ejemplos.
 $Per Dominum

@@ -7,11 +7,14 @@ Oratio Dominica
 [Lectio1]
 @Tempora/Pent03-1
 
-[Responsory1]
+[Responsory1_]
 R. Acuérdate, Señor, de tu alianza, y di al Ángel exterminador: Cesa ya en tus castigos, 
 * Para que no quede la tierra aterrorizada, y no hagas perecer a toda alma viviente. 
 V. Yo soy quien ha pecado, y quien ha obrado la iniquidad: pero estas ovejas ¿qué han hecho? Aparta, Señor, te ruego tu furor de tu pueblo. 
 R. Para que no quede la tierra aterrorizada, y no hagas perecer a toda alma viviente.
+
+[Responsory1] 
+@:Responsory1_
 
 [Lectio2]
 @Tempora/Pent03-1

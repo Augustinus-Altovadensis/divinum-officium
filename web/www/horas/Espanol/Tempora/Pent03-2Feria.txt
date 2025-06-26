@@ -7,11 +7,16 @@ Oratio Dominica
 [Lectio1]
 @Tempora/Pent03-2
 
-[Responsory1]
+[Responsory1_]
 R. Señor, si tu pueblo se arrepintiere, y orare en tu santuario; 
 * Tú le oirás, Señor, desde el cielo, y le librarás de las manos de sus enemigos. 
 V. Si tu pueblo pecare contra ti, y convirtiéndose, hiciere penitencia, y viniere a orar en este lugar. 
 R. Tú le oirás, Señor, desde el cielo, y le librarás de las manos de sus enemigos.
+
+[Responsory1]
+@:Responsory1_
+(sed rubrica cisterciensis)
+@Tempora/Pent03-1Feria:Responsory1_
 
 [Lectio2]
 @Tempora/Pent03-2
@@ -21,6 +26,12 @@ R. Y sucedió que mientras el Señor arrebataba al cielo a Elías en un torbelli
 * Eliseo clamaba, diciendo: Padre mío, Padre mío, verdadero carro de Israel y su conductor. 
 V. Mientras proseguían su camino andando y hablando entre sí, he aquí que un carro de fuego con caballos también de fuego, separaron a entrambos, y Elías subió al cielo en el torbellino. 
 R. Eliseo clamaba, diciendo: Padre mío, Padre mío, verdadero carro de Israel y su conductor.
+
+[Responsory2] (rubrica cisterciensis)
+R. Y sucedió que mientras el Señor arrebataba al cielo a Elías en un torbellino de fuego, Eliseo clamaba, diciendo: 
+* Padre mío, Padre mío, verdadero carro de Israel y su conductor. 
+V. Mientras proseguían su camino andando y hablando entre sí, he aquí que un carro de fuego con caballos también de fuego, Eliseo clamaba, diciendo: 
+R. Padre mío, Padre mío, verdadero carro de Israel y su conductor.
 
 [Lectio3]
 @Tempora/Pent03-2
