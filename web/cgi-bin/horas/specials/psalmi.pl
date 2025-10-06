@@ -27,6 +27,7 @@ sub psalmi {
 #*** psalmi_minor($lang)
 #collects and returns psalms for prim, tertia, sexta, none, completorium
 sub psalmi_minor {
+
   my $lang = shift;
   our (
     $version, $hora, $dayofweek, $winner, %winner, @dayname, $rule,
@@ -34,6 +35,7 @@ sub psalmi_minor {
   );
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi/Psalmi minor.txt')};
   my (@psalmi, $ant, $psalms, $prefix);
+  my $psalmTone;
 
   if ($version =~ /Monastic/) {
     @psalmi = split("\n", $psalmi{Monastic});
@@ -52,6 +54,7 @@ sub psalmi_minor {
     my @a = split(';;', $psalmi[$i]);
     $ant = chompd($a[1]);
     $psalms = chompd($a[2]);
+    if ($lang =~ /gabc/i) { $psalmTone = chompd($a[3]); }    # retrieve Psalm Tone
   } elsif ($version =~ /trident/i) {
     my $daytype = $dayofweek ? 'Feria' : 'Dominica';
     my %psalmlines = split(/\n|=/, $psalmi{Tridentinum});
@@ -80,9 +83,10 @@ sub psalmi_minor {
       # Sext and None is different on Sundays.
       $psalmkey = $hora eq 'Completorium' ? 'Completorium' : "$hora $daytype";
     }
-    ($ant, $psalms) = split(';;', $psalmlines{$psalmkey});
-    $ant = chompd($ant);
-    $psalms = chompd($psalms);
+    my @a = split(';;', $psalmlines{$psalmkey});
+    $ant = chompd($a[0]);
+    $psalms = chompd($a[1]);
+    if ($lang =~ /gabc/i) { $psalmTone = chompd($a[2]); }    # retrieve Psalm Tone
   } else {
     @psalmi = split("\n", $psalmi{$hora});
     my $i = 2 * $dayofweek;
@@ -160,7 +164,23 @@ sub psalmi_minor {
       }
     }
 
-    $ind = 0 if ($hora eq 'Completorium' && $name eq 'Pasch');
+    if ($name eq 'Pasch' && $lang =~ /gabc/i && $version =~ /monastic/i) {
+      $ind =
+          ($hora =~ /prima/i) ? 0
+        : ($hora =~ /tertia/i) ? 2
+        : ($hora =~ /sexta/i) ? 5
+        : ($hora =~ /nona/i) ? 8
+        : 11;
+
+      if ($hora !~ /completorium/i) {
+        if ($dayofweek > 0) { $ind++; }
+        if ($hora !~ /prima/i && $dayofweek > 1) { $ind++; }
+      }
+    } elsif ($name eq 'Pasch' && $lang =~ /gabc/i && $ind < 0) {
+      $ind = 5;    # for Roman Completorium has a Paschal tone for the whole week
+    } elsif ($name eq 'Pasch' && ($dayname[0] !~ /Pasc7/i || $hora =~ /Completorium/i)) {
+      $ind = $lang !~ /gabc/i ? 0 : $ind;    # ensure Antiphone is changed next
+    }
 
     if ($name && $ind >= 0) {
       my @ant = split("\n", $psalmi{$name});
@@ -210,16 +230,25 @@ sub psalmi_minor {
       setbuild2('Psalmi dominica');
     }
   } else {
-    $ant = '' if $version =~ /Monastic/;
+    $ant = '' if $version =~ /^Monastic/;
   }
 
   $comment = -1 if $hora eq 'Completorium' && $version =~ /^(?:Trident|Monastic)/;
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
-  if ($w{Rule} =~ /Minores sine Antiphona/i) {
+  if ($w{Rule} =~ /Minores sine Antiphona/i || $hora eq 'Completorium' && $version =~ /^Monastic/) {
     $ant = '';
+    $psalmTone = 'in-dir';
     setbuild2('Sine antiphonae');
   }
+
+  if ($lang =~ /gabc/i) {    # retrieve Psalm Tone
+    if ($ant =~ s/;;(.*);;(.*)/;;$1/) {    # strip from antiphone
+      $psalmTone = $2;
+      $ant =~ s/;;\s*$//;
+    }
+  }
+
   if ($ant =~ /(.*?)\;\;/s) { $ant = $1; }
 
   if ($hora eq 'Prima') {    # Prima has additional psalm in brackets
@@ -265,6 +294,11 @@ sub psalmi_minor {
     setbuild2('Quicumque');
   }
 
+  if ($lang =~ /gabc/i && $psalmTone) {
+    foreach my $p (@psalm) {
+      $p = "\'$p,$psalmTone\'";    # GABC format: 'Psalmnumber,PsalmTone'
+    }
+  }
   @psalmi = ($ant . ";;" . join(';', @psalm));
 
   \@psalmi;
@@ -286,6 +320,7 @@ sub psalmi_major {
   my $name = $hora;
   if ($hora eq 'Laudes') { $name .= $laudes; }
   my (@psalmi, $prefix, $comment);
+  my @psalmTones;
 
   if ($version =~ /Monastic/ && !($hora eq 'Laudes' && $rule =~ /Matutinum romanum/i)) {    # Triduum like Roman
     my $head = $version =~ /cist/i ? 'Cistercian' : 'Monastic';
@@ -408,6 +443,18 @@ sub psalmi_major {
   }
   if ($w) { @antiphones = split("\n", $w); $comment = $c; }
 
+  if ($lang =~ /gabc/ && @antiphones) {
+
+    # strip Psalm Tones from Antiphones
+    foreach my $myant (@antiphones) {
+      if ($myant =~ s/;;(.*);;(.*)/;;$1/) {
+        push(@psalmTones, $2);
+        $myant =~ s/;;\s*$//;
+      } else {
+        push(@psalmTones, '');
+      }
+    }
+  }
   my @p;
 
   #Psalmi de dominica
@@ -456,9 +503,10 @@ sub psalmi_major {
     $lim = 4;
 
     if ($antiphones[4]) {    # if 5 psalms and antiphones are given
-      my ($a1, $p1) = split(/;;/, $antiphones[3]);    # split no. 4
-      my ($a2, $p2) = split(/;;/, $antiphones[4]);    # spilt no. 5
-      $antiphones[3] = "$a2;;$p1"                     # and say antiphone 5 with psalm no. 4
+      my ($a1, $p1) = split(/;;/, $antiphones[3]);               # split no. 4
+      my ($a2, $p2) = split(/;;/, $antiphones[4]);               # spilt no. 5
+      $antiphones[3] = "$a2;;$p1";                               # and say antiphone 5 with psalm no. 4
+      if (@psalmTones) { $psalmTones[3] = "$psalmTones[4]"; }    # and use the Tone of the 5th antiphone
     }
   }
 
@@ -497,14 +545,44 @@ sub psalmi_major {
         setbuild2("subst: Psalm5 $1 = $p");
         $aflag = 1;
       }
-      $psalmi[$i] =
-          ($antiphones[$i] =~ /\;\;[0-9\;\n]+/ && !$aflag) ? $antiphones[$i]
-        : ($antiphones[$i] =~ /(.*?);;/s) ? "$1;;$p"
-        : "$antiphones[$i];;$p";
+
+      if ($lang =~ /gabc/i) {
+
+        # recombine antiphones with psalms and psalmtones according to antiphone
+        $p = ($p =~ /\'(.*),/s) ? $1 : $p;
+
+        $p = ($antiphones[$i] =~ s/\;\;([0-9\;\n]+)// && !$aflag) ? $1 : $p;
+        my @p = split(';', $p);
+
+        foreach $p1 (@p) {
+          $p1 = "\'$p1,$psalmTones[$i]\'";
+        }
+        $p = join(';', @p);
+        $psalmi[$i] = ($antiphones[$i] =~ /(.*?);;/s) ? "$1;;$p" : "$antiphones[$i];;$p";
+      } else {
+        $psalmi[$i] =
+            ($antiphones[$i] =~ /\;\;[0-9\;\n]+/ && !$aflag) ? $antiphones[$i]
+          : ($antiphones[$i] =~ /(.*?);;/s) ? "$1;;$p"
+          : "$antiphones[$i];;$p";
+      }
+    }
+  } elsif ($lang =~ /gabc/i) {
+    foreach $mypsalm (@psalmi) {
+      if ($mypsalm =~ s/;;(.*);;(.*)//) {
+        my $psalmTone = $2;
+        my @p = split(';', $1);
+
+        foreach $p1 (@p) {
+          $p1 = "\'$p1,$psalmTone\'";
+        }
+        $p = join(';', @p);
+        $mypsalm .= ";;$p";
+      }
     }
   }
 
   if ( alleluia_required($dayname[0], $votive)
+    && $lang !~ /gabc/i
     && (!exists($winner{"Ant $hora"}) || $commune =~ /C10/)
     && $communetype !~ /ex/i
     && ($version !~ /Trident/ || $hora eq 'Vespera')
@@ -517,13 +595,26 @@ sub psalmi_major {
 
     if ($version =~ /Monastic(?! Cist)/ && $hora eq 'Laudes') {
       $psalmi[-1] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
+    } elsif ($version =~ /cist/i && $hora =~ /laudes/i && $rule !~ /matutinum romanum/i) {
+
+      # Cistercien Lauds under single Antiphone except for Triduum and Officium Defunctorum
+      $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
     } else {
       $psalmi[3] =~ s/.*(?=;;)//;
     }
-  } elsif ($version =~ /cist/i && $hora =~ /laudes/i && $rule !~ /matutinum romanum/i) {
 
-    # Cistercien Lauds under single Antiphone except for Triduum and Officium Defunctorum
-    $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
+    # redundant sectio to be removed
+    if ($lang =~ /gabc/i) {
+      $psalmi[0] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+      $psalmi[1] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+      $psalmi[2] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+
+      if ($version =~ /monastic/i && $hora =~ /laudes/i) {
+        $psalmi[-1] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+      } else {
+        $psalmi[3] =~ s/(?=;;\')(.*)\,.*\'/$1,6\'/;
+      }
+    }
   }
 
   if (($dayname[0] =~ /Adv|Quad/ || emberday()) && $hora eq 'Laudes' && $version !~ /Trident/) {
@@ -553,8 +644,14 @@ sub antetpsalm {
 
       unless ($duplexf && $version !~ /cist/i) {
         $antp =~ s/\s*\*.*//;
-        $antp =~ s/\,$/./;
-        if ($version =~ /cist/i) { $antp .= ' ' . rubric('Antiphona', $lang); }
+
+        if ($lang =~ /gabc/i && $ant =~ /\{.*\}/) {
+          $antp =~ s/(.*)(\(.*?\))\s*$/$1\.$2 (::)\}/;    # proper closure of GABC antiphone
+          $antp =~ s/\,\.\(/.(/;
+        } else {
+          $antp =~ s/\,$/./;
+          if ($version =~ /cist/i) { $antp .= ' ' . rubric('Antiphona', $lang); }
+        }
       }
       push(@s, "Ant. $antp");
       $lastant = ($ant =~ s/\* //r);
@@ -567,6 +664,7 @@ sub antetpsalm {
       $p =~ s/[\(\-]/\,/g;
       $p =~ s/\)//;
       if ($i < (@p - 1)) { $p = '-' . $p; }
+      $p =~ s/\-\'/\'\-/;    # ensure dash behind apostrophe to be passed through to psalm script
       push(@s, "\&psalm($p)", "\n");
     }
   }

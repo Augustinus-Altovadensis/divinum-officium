@@ -23,6 +23,8 @@ my %subjects = (
   communi => sub { our $version },
   'die' => \&get_dayname_for_condition,
   feria => sub { our $dayofweek + 1 },
+  tonus => sub {$chantTone},
+  toni => sub {$chantTone},
   commune => sub { our $commune },
   votiva => sub { our $votive },
   officio => sub { $dayname[1]; },
@@ -42,6 +44,9 @@ my %predicates = (
   longior => sub { shift == 1 },
   brevior => sub { shift == 2 },
   'summorum pontificum' => sub { shift =~ /194[2-9]]|195[45]|196/ },
+  'in solemnitatibus' => sub { shift =~ /solemnis|resurrectionis/i },
+  'in hieme' => sub { shift =~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
+  'in æstate' => sub { shift !~ /hieme|Adventus|Nativitatis|Epiphani|gesimæ|Passionis/i },
   feriali => sub { shift =~ /feria|vigilia/i; },
 );
 
@@ -155,9 +160,10 @@ sub parse_conditional($$$) {
 sub get_tempus_id {
 
   our @dayname;
-  our ($day, $month, $dayofweek, $version);
-  our $hora;
+  our ($day, $month, $year, $dayofweek, $version, $hora);
   my $vesp_or_comp = ($hora =~ /Vespera/i) || ($hora =~ /Completorium/i);
+  our $monthday;    # = monthday($day, $month, $year, ($version =~ /196/) + 0, $vesp_or_comp);
+  my $oct_or_nov = $monthday =~ /^(10|11)\d\-/;
   local $_ = $dayname[0];
 
   /^Adv/
@@ -169,7 +175,7 @@ sub get_tempus_id {
       ? 'Epiphaniæ'
       : ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp))) ? 'post Epiphaniam post partum'
       : ($month == 2) ? 'post Epiphaniam'
-      : 'post Pentecosten'
+      : 'post Pentecosten in hieme'
     : /^Quadp(\d)/ && ($1 < 3 || $dayofweek < 3)
     ? ($month == 1 || ($month == 2 && ($day == 1 || $day == 2 && !$vesp_or_comp)))
       ? 'Septuagesimæ post partum'
@@ -191,9 +197,9 @@ sub get_tempus_id {
     : /^Pent0(\d)/
     && ( ($1 == 2 && $dayofweek > 5 && !($dayofweek == 6 && $vesp_or_comp))
       || ($1 == 3 && ($dayofweek < 6 || ($dayofweek == 6 && $vesp_or_comp))))
-    && $version =~ /Divino/i
-    ? 'Octava SSmi Cordis post Pentecosten'
-    : 'post Pentecosten';
+    && $version =~ /Divino/i ? 'Octava SSmi Cordis post Pentecosten'
+    : /^Pent/ && !$oct_or_nov ? 'post Pentecosten'
+    : 'post Pentecosten in hieme';
 }
 
 # Returns the name of the day for use as a subject in conditionals.
@@ -217,6 +223,9 @@ sub get_dayname_for_condition {
   return 'Nat28' if $month == 12 && $day == 28;
   return 'Nat29' if $month == 12 && $day == 29;
   return 'doctorum' if ($dayname[1] =~ /Doctor/i || $dayname[2] =~ /Doctor/i);
+  return 'transfigurationis' if ($month == 8 && ($day == 6 || ($day == 5 && $vesp_or_comp)));
+  return 'septem doloris' if $winner =~ /09-15$|09-DT|Quad5-5$/;
+  return 'regis DNJC' if $winner =~ /10-DU/;
   return '';
 }
 

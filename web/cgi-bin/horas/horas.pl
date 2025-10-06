@@ -31,7 +31,21 @@ sub horas {
   print "<H2 ID='${hora}top'>" . adhoram($hora) . "</H2>\n";
   my (@script1, @script2);
   our ($lang1, $lang2, $column);
-  $column = 1;    # The 'setbuild' functions in specials.pl check for this to set the Building Script
+
+  # GABC: Ensure no chant is displayed at the little hours during the Triduum
+  my $templang1 = $lang1;    # save settings for later
+  my $templang2 = $lang2;
+  my $temponly = $only;
+
+  if (triduum_gloria_omitted() && $hora =~ /Prima|Tertia|Sexta|Nona|Completorium/i) {
+    $lang1 =~ s/\-gabc//;
+    $lang2 =~ s/\-gabc//;
+    $only = !$Ck && ($lang1 eq $lang2);
+    precedence();
+    setsecondcol();    #fills our hashes et variables
+  }
+
+  $column = 1;         # The 'setbuild' functions in specials.pl check for this to set the Building Script
 
   if ($Ck) {
     $version = $version1;
@@ -40,7 +54,7 @@ sub horas {
 
   @script1 = getordinarium($lang1, $hora);
   @script1 = specials(\@script1, $lang1);
-  $column = 2;    # This prevents the duplications in the Building Script
+  $column = 2;         # This prevents the duplications in the Building Script
 
   if ($Ck) {
     $version = $version2;
@@ -55,6 +69,11 @@ sub horas {
   }
 
   print_content($lang1, \@script1, $lang2, \@script2, $version !~ /(1570|1955|196|Altovadensis)/);
+
+  # GABC: restore original values if changed
+  $lang1 = $templang1;
+  $lang2 = $templang2;
+  $only = $temponly;
 }
 
 #*** resolve refs($text_of_block, $lang)
@@ -488,6 +507,7 @@ sub canticum {
     : 3;
 
   my $ant, $ant2;
+  our $canticaTone;
   my $duplexf = $version =~ /196/;
 
   if ($hora eq 'Completorium') {
@@ -508,6 +528,8 @@ sub canticum {
         $ant2 = "$ant\n$ant2";
       }
     }
+    ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
+    $canticaTone =~ s/\s*$//;
   } else {
     $comment = ($winner =~ /sancti/i) ? 3 : 2;
     setcomment($item, 'Source', $comment, $lang, translate('Antiphona', $lang));
@@ -523,7 +545,9 @@ sub canticum {
       $duplexf ||= $df;
     }
   }
-  my @psalmi = ("$ant;;" . (229 + $num));
+
+  my @psalmi =
+    ($canticaTone && $lang =~ /gabc/i) ? ("$ant;;'" . (229 + $num) . ",$canticaTone'") : ("$ant;;" . (229 + $num));
   antetpsalm(\@psalmi, $duplexf, $lang);
   $s[-1] = "Ant. $ant2" if $ant2;
 }
@@ -548,6 +572,13 @@ sub getordinarium {
 
   my @script = process_conditional_lines(do_read($fname));
   $error = "$fname cannot be opened or gives an empty script." unless @script;
+
+  # Psalms 3 and 66 in ordinarium get their chanttone here:
+  if ($lang =~ /gabc/i) {
+    foreach my $line (@script) {
+      $line =~ s/^\&psalm\((\d+)\)/\&psalm(\'$1,in-dir\')/;
+    }
+  }
 
   # Prelude pseudo-item.
   unshift @script, '#Prelude', '';
@@ -616,6 +647,12 @@ sub postprocess_ant(\$$) {
 
   # Don't do anything to null antiphons.
   return unless $$ant;
+
+  if ($lang =~ /gabc/i && $$ant =~ /;;(.*)/) {    # strip tone from Antiphone and save it
+    our $canticaTone ||= $1;
+    $$ant =~ s/;;.*//;
+  }
+
   ensure_single_alleluia($ant, $lang) if alleluia_required($dayname[0], $votive);
 }
 
@@ -640,8 +677,9 @@ sub postprocess_vr(\$$) {
 # Performs necessary adjustments to a short responsory.
 sub postprocess_short_resp(\@$) {
   my ($capit, $lang) = @_;
-  our (@dayname, $votive);
+  return $capit if $lang =~ /gabc/i;
 
+  our (@dayname, $votive);
   s/&Gloria1?/&Gloria1/ for (@$capit);
 
   if (alleluia_required($dayname[0], $votive)) {

@@ -31,8 +31,7 @@ Allelúia, * allelúia, allelúia.
 @Psalterium/Special/Major Special:HymnusM Quad5 Vespera
 
 [Versum 1]
-V. Hoc signum Crucis erit in cælo. (Allelúja.)
-R. Cum Dóminus ad judicándum vénerit. (Allelúja.)
+@Sancti/05-03:Ant Matutinum:4-5
 
 [Ant 1]
 O Crux, * splendídior cunctis astris, mundo célebris, homínibus multum amábilis, sánctior univérsis: quæ sola fuísti digna portáre taléntum mundi, dulce lignum, dulces clavos, dúlcia ferens póndera; salva præséntem catérvam in tuis hódie láudibus congregátam. (Allelúja, allelúja.)
@@ -49,6 +48,9 @@ Christum Regem crucifíxum, * Veníte, adorémus. (Allelúja.)
 
 [Hymnus Matutinum]
 @Psalterium/Special/Matutinum Special:Hymnus Quad5
+
+[HymnusM Matutinum]
+@Psalterium/Matutinum Special:HymnusM Quad5
 
 [Ant Matutinum]
 Invéntæ Crucis festa recólimus, cujus præcónium univérsum per orbem micánti lúmine fulget, allelúja.;;1
@@ -191,8 +193,7 @@ $Deo gratias.
 @Psalterium/Special/Major Special:HymnusM Quad5 Laudes
 
 [Versum 2]
-V. Adorámus te, Christe, et benedícimus tibi. (Allelúja.)
-R. Quia per Crucem tuam redemísti mundum. (Allelúja.)
+@Sancti/05-03:Ant Matutinum:9-10
 
 [Ant 2]
 Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, in qua Christus triumphávit, et mors mortem superávit in ætérnum. (Allelúja.)
@@ -202,15 +203,15 @@ Super ómnia * ligna cedrórum tu sola excélsior, in qua Vita mundi pepéndit, 
 v. Humiliávit semetípsum factus obédiens usque ad mortem, mortem autem Crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen.
 
 [Responsory Tertia]
-R.br. Hoc signum Crucis erit in cælo, * Allelúja, allelúja.
-R. Hoc signum Crucis erit in cælo, * Allelúja, allelúja.
-V. Cum Dóminus ad judicándum vénerit.
-R. Allelúja, allelúja.
+@:Ant Matutinum:4 s/V./R.br./ s/\, al.*/./
+@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
+@:Ant Matutinum:5 s/R./V./ s/\, al.*/./
+@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-R. Hoc signum Crucis erit in cælo, * Allelúja, allelúja.
+@:Ant Matutinum:4 s/V./R./ s/\, al.*/./
 _
-V. Adorámus te, Christe, et benedícimus tibi, allelúja.
-R. Quia per Crucem tuam redemísti mundum, allelúja.
+@:Ant Matutinum:9
+@:Ant Matutinum:10
 
 [Capitulum Sexta]
 !Gal 6:14
@@ -218,30 +219,30 @@ v. Mihi autem absit gloriári, nisi in Cruce Dómini nostri Jesu Christi: per qu
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Adorámus te, Christe, et benedícimus tibi: * Allelúja, allelúja.
-R. Adorámus te, Christe, et benedícimus tibi: * Allelúja, allelúja.
-V. Quia per Crucem tuam redemísti mundum.
-R. Allelúja, allelúja.
+@:Ant Matutinum:9 s/V./R.br./ s/\, al.*/./
+@:Ant Matutinum:9 s/V./R./ s/\, al.*/./
+@:Ant Matutinum:10 s/R./V./ s/\, al.*/./
+@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-R. Adorámus te, Christe, et benedícimus tibi: * Allelúja, allelúja.
+@:Ant Matutinum:9 s/V./R./ s/\, al.*/./
 _
-V. Omnis terra adóret te, et psallat tibi, allelúja.
-R. Psalmum dicat nómini tuo, Dómine, allelúja.
+@:Ant Matutinum:14
+@:Ant Matutinum:15
 
 [Capitulum Nona]
 @:Lectio Prima
 $Deo gratias
 
 [Responsory Nona]
-R.br. Omnis terra adóret te, et psallat tibi, * Allelúja, allelúja.
-R. Omnis terra adóret te, et psallat tibi, * Allelúja, allelúja.
-V. Psalmum dicat nómini tuo, Dómine.
-R. Allelúja, allelúja.
+@:Ant Matutinum:14 s/V./R.br./ s/\, al.*/./
+@:Ant Matutinum:14 s/V./R./ s/\, al.*/./
+@:Ant Matutinum:15 s/R./V./ s/\, al.*/./
+@Psalterium/Prayers:Alleluia Duplex: s/^/R. /
 &Gloria
-R. Omnis terra adóret te, et psallat tibi, * Allelúja, allelúja.
+@:Ant Matutinum:14 s/V./R./ s/\, al.*/./
 _
-V. Hoc signum Crucis erit in cælo, allelúja.
-R. Cum Dóminus ad judicándum vénerit, allelúja.
+@:Ant Matutinum:4
+@:Ant Matutinum:5
 
 [Ant 3]
 Crucem sanctam súbiit, * qui inférnum confrégit: accínctus est poténtia, surréxit die tértia. (Allelúja.)

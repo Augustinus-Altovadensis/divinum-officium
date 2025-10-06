@@ -100,8 +100,8 @@ sub monastic_major_responsory {
     $resp = $resp{$name};
   }
 
-  # For backwards compatibility, remove any attached versicle
-  $resp =~ s/\n?_.*//s;
+  # For backwards compatibility, remove any attached versicle (safeguard \n for GABC)
+  $resp =~ s/\n?_\n.*//s;
 
   if ($resp) {
     my @resp = split("\n", $resp);

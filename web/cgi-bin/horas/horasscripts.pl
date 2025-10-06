@@ -23,11 +23,53 @@ sub teDeum : ScriptFunc {
   return "\n!Te Deum\n" . prayer('Te Deum', $lang);
 }
 
+#*** Deus_in_adjutorium($lang)
+# return Ferial, Festal, or Solemn chant
+sub Deus_in_adjutorium : ScriptFunc {
+
+  my $lang = shift;
+
+  our ($winner, @dayname);
+  my %latwinner = %{setupstring('Latin', $winner)};
+  my @latrank = split(';;', $latwinner{Rank});
+  my $latname = $latrank[0];
+  my $latrank = $latrank[2];
+
+  # Ferial chant for all Little hours and Ferials and Simples
+  if ( $lang !~ /gabc/
+    || $hora !~ /matutinum|laudes|vespera/i
+    || $rank < 2
+    || $latname =~ /Feria|Sabbato|Vigilia(?! Epi)/i
+    || $latrank < 2)
+  {
+    our $incipitTone = 'ferial';
+    return prayer('Deus in adjutorium', $lang);
+  }
+
+  our $chantTone;    # has been filled by setChantTone() @horascommon.pl
+
+  if ($hora !~ /vespera/i || $chantTone !~ /solemnis|resurrectionis/i) {
+    our $incipitTone = 'festal';
+    return prayer('Deus in adjutorium festivus', $lang);    # Festal tone
+  } else {    # Solemn Vespers only
+    our $incipitTone = 'solemn';
+    return prayer('Deus in adjutorium solemnis', $lang);    # Solemn tone
+  }
+}
+
 #*** Alleluia($lang)
 # return the text Alleluia or Laus tibi
 sub Alleluia : ScriptFunc {
   my $lang = shift;
+  our (%prayers, $incipitTone);
   my $text = prayer('Alleluia', $lang);
+
+  if ($lang =~ /gabc/i && $incipitTone) {
+    $text =
+        ($incipitTone =~ /festal/i) ? prayer('Alleluia festivus', $lang)
+      : ($incipitTone =~ /solemn/i) ? prayer('Alleluia solemnis', $lang)
+      : $text;
+  }
   my @text = split("\n", $text);
 
   if ($dayname[0] =~ /Quad/i && !Septuagesima_vesp()) {
@@ -97,7 +139,7 @@ sub Dominus_vobiscum2 : ScriptFunc {    #* officium defunctorum
 sub mLitany : ScriptFunc {
   my $lang = shift;
   if (preces('Dominicales')) { return ''; }
-  return "\$Kyrie\n\$pater secreto";
+  return $lang !~ /gabc/i ? "\$Kyrie\n\$pater secreto" : "\$mLitany2";
 }
 
 #*** versiculum_ante_laudes($lang)
@@ -114,41 +156,70 @@ sub versiculum_ante_laudes : ScriptFunc {
 # adds Alleluia, alleluia for Pasc0
 sub Benedicamus_Domino : ScriptFunc {
   my $lang = shift;
+  our (@dayname, $hora, $vespera);
+  our $chantTone;    # filled by setChantTone() @horascommon.pl
+
   my $text = prayer('Benedicamus Domino', $lang);
 
   if (
     $hora =~ /(Laudes|Vespera)/i
-    && ( $dayname[0] =~ /Pasc0/i
+    && ( ($dayname[0] =~ /Pasc0/i && ($lang !~ /gabc/i || $chantTone !~ /resurrectionis/i))
       || ($dayname[0] =~ /Pasc/ && $version =~ /Praedicatorum/ && ($rank > 3 || $winner eq 'C10'))
       || Septuagesima_vesp())
   ) {
-    $text =~ s/\.\s*\n/". " . prayer('Alleluia Duplex', $lang) . "\n"/egr;
-  } else {
-    $text;
+
+    if ($lang !~ /gabc/i) {
+
+      # Paschal octave (Feria IV - Sabbato)
+      return $text =~ s/\.\s*\n/", " . lc(prayer('Alleluia Duplex', $lang)) . "\n"/egr;
+    } else {
+      return prayer('Benedicamus Domino1', $lang);
+    }
+
+    return $text;
+  } elsif ($lang !~ /gabc/i || $hora !~ /(Matutinum|Laudes|Vespera)/i) {
+    return $text;    # Little hours
   }
+
+  my %benedicamus = %{setupstring($lang, 'Psalterium/Benedicamus.txt')};
+  return ($benedicamus{"$chantTone$vespera"}) || ($benedicamus{"$chantTone"}) || prayer('Benedicamus Domino', 'Latin');
 }
 
 #*** handleverses($ref)
 # remove or colorize verse numbers
 # parentheses text as rubrics
 sub handleverses {
+  my $gabc = 0;
+
   map {
-    if ($nonumbers) {    # remove numbering
+    if ($_[1] && !$gabc && /^(name:|\([cf][1-4]\))/) {
+      $gabc = 1;
+      s/^/{/;    # append brace, s.t. gabc is recognized by webdia.pl
+    }
+
+    if ($_[1]) {
+
+      #if ($line !~ /\S/) { last; }
+      s/(\s)_([\^\s*]+)_(\(\))?(\s)/$1\^_$2_\^$3$4/g;    # ensure red digits for chant
+      s/(\([cf][1-4]\)|\s?)(\d+\.)(\s\S)/$1\^$2\^$3/g;
+    }
+
+    if ($nonumbers) {                                    # remove numbering
       s/^(?:\d+:)?\d+[a-z]?\s*//;
       s/\s*\(\d+[a-z]?\)//;
-    } elsif ($noinnumbers) {    # remove subverse letter & inline numbering
+    } elsif ($noinnumbers) {                             # remove subverse letter & inline numbering
       s/\d\K[a-z]//;
       s/\(\d+[a-z]?\)//;
     }
 
-    unless ($nonumbers) {       # put numbers as rubrics
+    unless ($nonumbers || $gabc) {                       # put numbers as rubrics
       s{^(?:\d+:)?\d+[a-z]?}{/:$&:/};
       s{\(\d+[a-z]?\)}{/:$&:/};
     }
 
-    s/\(fit reverentia\)// if $version =~ /cist/i;    # no (fit reverentia) in Cistercian
+    s/\(fit reverentia\)// if $version =~ /cist/i;       # no (fit reverentia) in Cistercian
 
-    s{(\(.*?\))}{/:$&:/};                             # text in () as rubrics
+    s{(\(.*?\))}{/:$&:/} unless $gabc;                   # text in () as rubrics
 
     # Discussion #4504: For Breviarum Romanum style
     # ‡ marks mediant for Breviarum Romanum but flexa for Antiphonale
@@ -161,7 +232,7 @@ sub handleverses {
     # Surrounding space to safeguard against /:‡:/ which needs to remain unchanged
     s/\s‡\s/ † /g unless $noflexa;
 
-    s/\s\+\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
+    s/\s(\+|\^✠\^\(\))\s/ / if $version =~ /cist/i;    # no sign-of the cross in Cistercian
 
     $_
   } @{$_[0]};
@@ -204,7 +275,66 @@ sub psalm : ScriptFunc {
       || ($psnum == 115 && $version =~ /Monastic/);
   }
 
-  my @lines = do_read(checkfile($lang, "Psalterium/Psalmorum/Psalm$psnum.txt"));
+  my $bea = $lang eq 'Latin' && $psalmvar || $lang eq 'Latin-Bea';
+
+  # select right Psalm file
+  my $fname = "Psalm$psnum.txt";
+  my ($ftone, $ffolder);
+
+  if ($lang =~ /gabc/i) {
+
+    # Redirect certain tones for Monastic and Tridentine
+    $psnum =~ s/(,|solemn)(1g3|2|in,dir)$/$1$2-monasticus/ if $version =~ /monastic/i;
+    $psnum =~ s/(,|solemn)([34])([abg])/$1$2-antiquo-$3/ if $version =~ /monastic|1570/i;
+
+    # Deal with formatting specifics necessary for perl scripting
+    $fname = ($psnum =~ /,/) ? "$psnum.gabc" : "Psalm$psnum.txt";    # distingiush between chant and text
+    $fname =~ s/\:/\./g;
+    $fname =~ s/,/-/g;                                               # file name with dash not comma
+    $psnum =~ s/\:\:/ \& /g;                                         # Multiple Psalms joined together
+    $psnum =~ s/\:/; Part: /;                                        # n-th Part of Psalm
+    $psnum =~ s/,,.*?,,//;
+    $psnum =~ s/,/; Tonus: /;                                        # name Tone in Psalm headline
+
+    # Extract Tone and folder (also to be used for Doxology)
+    $ftone = ($psnum =~ /Tonus: (.*)/) ? $1 : '';
+    $ffolder = ($ftone =~ /^(solemn|\d)/) ? $1 : 'specialis';
+    $ffolder .= '-antiquo' if $ftone =~ /antiquo/;
+
+    if ($ffolder =~ /([18]|solemn)/ && $version =~ /monastic/i) {
+
+      # redirect Monastic tones to the correct files acc. to Roman
+      $fname =~ s/8a/8Gstar/;
+      $fname =~ s/1D$/1D-/;
+      $fname =~ s/1Dstar/1D/;
+      $fname =~ s/1g4/1g3/;
+    }
+
+    # Format and edit the Psalm headline
+    $psnum =~ s/in[,-]dir[,-]monasticus|in[,-]dir/in Directum/;
+    $psnum =~ s/-monasticus//;
+    $psnum =~ s/(irregularis).*/$1/;
+    $psnum =~ s/per$/Peregrinus/;
+    $psnum =~ s/,antiquo,alt,(.*)/$1 alteratus usu antiqui/;
+    $psnum =~ s/,alt,(.*)/$1 alteratus/;
+    $psnum =~ s/3,antiquo,(.*)/3$1 in tenore antiquo/;
+    $psnum =~ s/4,antiquo,(.*)/4$1 usu antiqui/;
+    $psnum =~ s/solemn(.*)/$1; Mediatio solemnis/;
+
+    if (!(-e "$datafolder/$lang/Psalterium/Psalmorum/$ffolder/$fname")) {
+      $psnum =~ s/;.*//;
+      $fname = "Psalm$psnum.txt";
+      $ffolder = '';
+      $ftone = '';
+    }
+  }
+
+  my @lines = do_read(
+    checkfile(
+      $bea ? 'Latin-Bea' : $lang,
+      $ffolder ? "Psalterium/Psalmorum/$ffolder/$fname" : "Psalterium/Psalmorum/$fname",
+    )
+  );
   return "Psalm$psnum not found" unless @lines;
 
   # Prepare title and source if canticle
@@ -213,6 +343,15 @@ sub psalm : ScriptFunc {
   my $source;
 
   if ($psnum > 150 && $psnum < 300 && @lines) {
+    if ($fname =~ /\.gabc/) {
+      $psnum =~ s/(;.*)//;
+      my $tonus = $1;
+      my $latFile = "$datafolder/Latin/Psalterium/Psalmorum/Psalm$psnum.txt";
+      my (@latlines) = do_read($latFile);
+      $latlines[0] =~ s/ \*/$tonus */;
+      unshift(@lines, $latlines[0]);
+    }
+
     shift(@lines) =~ /\(?(?<title>.*?) \* (?<source>.*?)\)?\s*$/;
     ($title, $source) = ($+{title}, $+{source});
     if ($v1) { $source =~ s/:\K.*/"$v1-$v2"/e; }
@@ -247,7 +386,7 @@ sub psalm : ScriptFunc {
     if ($lines[0] =~ s{/:\x{2021}:/$}{}) { $lines[1] =~ s{^\d+:\d+[a-z]? \K}{/:\x{2021}:/ }; }
   }
 
-  handleverses(\@lines);
+  handleverses(\@lines, $lang =~ /gabc/i);
 
   # put initial at begin
   $lines[0] =~ s/^(?=\p{Letter})/v. / if ($nonumbers || $psnum == 234);    # 234 - quiqumque has no numbers
@@ -255,9 +394,28 @@ sub psalm : ScriptFunc {
   my $output = "!$title";
   $output .= " [" . ($column == 1 ? ++$psalmnum1 : ++$psalmnum2) . "]"
     unless 230 < $psnum && $psnum < 234;                                   # add psalm counter
-  $output .= "\n!$source" if $source;                                      # add source
-  $output .= "\n" . join("\n", @lines) . "\n";
-  $output .= "\&Gloria\n" unless $psnum == 210 || $nogloria;
+  $output .= "\n!$source" if $source;                                            # add source
+  $output .= "\n" . join("\n", @lines) . ($lines[0] =~ /^\{/ ? "}\n" : "\n");    # end chant with brace for recognition
+
+  if ($psnum != 210 && !$nogloria) {
+    if ($lines[0] =~ /^\{/ && !triduum_gloria_omitted()) {
+
+      # Add Gloria/Requiem Chant
+      my $doxology = 'gloria';
+      $doxology = 'requiem' if $commune =~ /C9/ || ($version =~ /monastic/i && $psnum == 129 && $hora eq 'Prima');
+      $fname = "Psalterium/Psalmorum/$ffolder/$doxology-$ftone.gabc";
+      $fname =~ s/,/-/g;    # file name with dash not comma
+      $fname = checkfile($lang, $fname);
+      my (@lines) = do_read($fname);
+
+      foreach my $line (@lines) {
+        $output =~ s/\}\n$/ \n$line\}\n/;
+      }
+    } else {
+      $output .= "\&Gloria\n";
+    }
+  }
+
   $output =~ s/\$ant/Ant. $antline/g if $psnum == 94;
   $output =~ s/94C/94/ if $psnum == "94C";
   $output;
@@ -265,6 +423,7 @@ sub psalm : ScriptFunc {
 
 sub Divinum_auxilium : ScriptFunc {
   my $lang = shift;
+  if ($lang =~ /gabc/i) { return prayer("Divinum auxilium", $lang); }
   my @text = split(/\n/, prayer("Divinum auxilium", $lang));
   $text[-2] = "V. $text[-2]";
   $text[-1] =~ s/.*\. // unless ($version =~ /Monastic/i);    # contract resp. "Et cum fratribus… " to "Amen." for Roman

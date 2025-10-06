@@ -22,7 +22,7 @@ Abstinéntia et continéntia fuit admirábili: única túnica conténtus erat: i
 @CommuneCist/C4a:Responsory12
 
 [Ant 3] (nisi rubrica cisterciensis)
-@Commune/C4a:Ant 1:s/N\./Basíli/
+@Commune/C4a:Ant 1
 
 [Lectio5]
 @Sancti/06-14:Lectio4

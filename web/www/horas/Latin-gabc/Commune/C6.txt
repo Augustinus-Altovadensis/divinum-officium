@@ -1,0 +1,108 @@
+[Ant Vespera]
+Hæc est Virgo sápiens, * et una de número prudéntum.;;109
+Hæc est Virgo sápiens, * quam Dóminus vigilántem invénit.;;112
+Hæc est quæ nescívit * torum in delícto: habébit fructum in respectióne animárum sanctárum.;;121
+Veni, elécta mea, * et ponam in te thronum meum, allelúja.;;126
+Ista est speciósa * inter fílias Jerúsalem.;;147
+
+[Hymnus Vespera]
+{:H-Jesucoronavirginum:}v. Jesu, coróna Vírginum,
+Quem Mater illa cóncipit
+Quæ sola Virgo párturit,
+Hæc vota clemens áccipe:
+_
+Qui pergis inter lília
+Septus choréis Vírginum,
+Sponsus decórus glória
+Sponsísque reddens prǽmia.
+_
+Quocúmque tendis, Vírgines
+Sequúntur, atque láudibus
+Post te canéntes cúrsitant,
+Hymnósque dulces pérsonant;
+_
+Te deprecámur súpplices,
+Nostris ut addas sénsibus
+Nescíre prorsus ómnia
+Corruptiónis vúlnera.
+_
+* Virtus, honor, laus, glória
+Deo Patri cum Fílio,
+Sancto simul Paráclito,
+In sæculórum sǽcula.
+Amen.
+
+[HymnusM Vespera]
+@:Hymnus Vespera:s/pergis/pascis/ s/tendis/pergis/ s/súpplices/lárgius/ s/ut addas/adáuge/ s/Virtus, honor, laus/Laus, honor, virtus/ s/cum/et/
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a.(g_'/hGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na.(g_'/hGF'E!fgf.) (::)}
+(sed tempore paschali)
+{initial-style:0;%%(c3) V/. Spé(h)ci(h)e(h) tu(h)a(h) et(h) pul(h)chri(h)tú(h)di(h)ne(h) tu(h)a,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) R/.(::) In(h)tén(h)de,(h) prós(h)pe(h)re(h) pro(h)cé(h)de,(h) et(h) reg(h)na,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hGF'E!fgf.) (::)}
+
+[Ant 1]
+Veni, Sponsa Christi, * áccipe corónam, quam tibi Dóminus præparávit in ætérnum.
+
+[Hymnus Matutinum]
+{:H-Virginisproles:}v. Vírginis Proles Opiféxque Matris,
+Virgo quem gessit, peperítque Virgo:
+Vírginis partos cánimus decóra
+Morte triúmphos.
+_
+Hæc enim palmæ dúplicis beáta
+Sorte, dum gestit frágilem domáre
+Córporis sexum, dómuit cruéntum
+Cæde tyránnum.
+_
+Unde nec mortem, nec amíca mortis
+Mille pœnárum génera expavéscens,
+Sánguine effúso méruit serénum
+Scándere cælum.
+_
+Hujus orátu, Deus alme, nobis
+Débitas pœnas scélerum remítte;
+Ut tibi puro resonémus almum
+Péctore carmen.
+_
+Sit decus Patri, genitǽque Proli,
+Et tibi, compar utriúsque virtus,
+Spíritus semper, Deus unus, omni
+Témporis ævo.
+Amen.
+
+[HymnusM Matutinum]
+v. Vírginis Proles, Opiféxque Matris,
+Virgo quem gessit, peperítque Virgo:
+Vírginis festum cánimus trophǽum
+Accipe votum.
+_
+Hæc tua Virgo dúplici beáta
+Sorte, dum gestit frágilem domáre
+Córporis sexum, dómuit cruéntum
+Corpóre sǽclum.
+_
+Unde nec mortem, nec amíca mortis
+Sæva pœnárum génera pavéscens,
+Sánguine fuso méruit sacrátum
+Scándere cælum.
+_
+Hujus obténtu, Deus alme, nostris
+Parce jam culpis, vítia remíttens,
+Quo tibi puri resonémus almum
+Péctoris hymnum.
+_
+Glória Patri genitǽque Proli,
+Et tibi compar utriúsque semper
+Spíritus alme, Deus unus, omni
+Témpore sæcli.
+Amen.
+
+[Ant 2]
+Simile est regnum cælórum * hómini negotiatori quærénti bonas margaritas: invénta una pretiósa, dedit ómnia sua, et comparávit eam. Allelúja.
+(sed rubrica monastica)
+{annotation:1. D;book:Antiphonale Monasticum 1934, p. 685;%%(c4) Si(c)mi(cd)le(d) est(d.) *() reg(d!dc~)num(d') cæ(f_)ló(d_0e)rum(ddc.) (,) hó(f)mi(g)ni(gh) ne(g)go(f')ti(e)a(fgf)to(d.)ri(d.) (;) quæ(d)rén(e)ti(fg) bo(gh)nas(g_') mar(h>)ga(de)ri(dd)tas:(c.) (:) in(c_0d)vén(e>)ta(d') u(e)na(fg) pre(e)ti(fe)ó(d.)sa,(d.) (;) de(e!f'g)dit(d!ewf) óm(fe~)ni(d)a(de) su(dd)a,(c.) †(;) et(c_0d) com(f)pa(fe)rá(fg)vit(fe) e(d.)am.(d.) (::) ^_T. P._^ et(c_0d) com(f)pa(fe)rá(fg)vit(fe) e(fe)am,(dc) al(d)le(fe)lú(d.)ja.(d.) (::)};;1d
+
+[Capitulum Sexta]
+!2 Cor 11:2
+v. Æmulor enim vos Dei æmulatióne. Despóndi enim vos uni viro vírginem castam exhibére Christo.
+$Deo gratias

@@ -1,0 +1,9 @@
+[Responsory Vespera]
+R.br. {gabc:Commune/C11/rb--ave_maria_rbr--solesmes_1934}
+(sed tonus solemnis)
+R.br. {gabc:Commune/C11/rb--ave_maria_rbrtonus_solemnis--solesmes_1934}
+
+[Responsory Vespera] (tempore paschali)
+R.br. {gabc:Commune/C11/rb--ave_maria_r._br._t.p.--solesmes_1934}
+(sed tonus solemnis)
+R.br. {gabc:Commune/C11/rb--ave_maria_r._br._tonus_solemnis_t.p.--solesmes_1957}

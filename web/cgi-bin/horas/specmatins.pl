@@ -64,11 +64,21 @@ sub invitatorium {
   }
   $ant =~ s/^.*?\=\s*//;
   $ant = chompd($ant);
+  my $invitMode;
+  if ($lang =~ /gabc/i) { $ant =~ s/;;(.*)$//; $invitMode = $1; }    # strip Invit Mode from Antiphone
   $ant = "Ant. $ant";
   postprocess_ant($ant, $lang);
   my @ant = split('\*', $ant);
+
+  if ($lang =~ /gabc/i && $ant =~ /(\([cf][1-4]\))/) {               # postProcess Ant1 for GABC
+    $ant[1] = '{' . $1 . $ant[1];
+  }
   my $ant2 = "Ant. $ant[1]";
-  my $fname = checkfile($lang, 'Psalterium/Invitatorium.txt');
+
+  my $invitpath = "Psalterium/Invitatorium.txt";
+  $lang = 'Latin-Bea' if $lang eq 'Latin' && $psalmvar;
+  if ($lang =~ /gabc/i && $invitMode) { $invitpath = "Psalterium/Invitatorium-$invitMode.txt"; }
+  my $fname = checkfile($lang, $invitpath);
 
   if (my @a = do_read($fname)) {
     $_ = join("\n", @a);
@@ -249,6 +259,33 @@ sub psalmi_matutinum {
     }
   }
 
+  if ($lang =~ /gabc/i) {
+    foreach my $psalmline (@psalmi) {
+      my @a = split(';;', $psalmline);    # retrieve psalmtone behind second ;;
+
+      if (@a > 2) {
+        my $ant0 = chompd($a[0]);
+        my @psalm0 = split(';', chompd($a[1]));
+        my $psalmTone = chompd($a[2]);
+
+        foreach my $ps0 (@psalm0) {
+          $ps0 = "'$ps0,$psalmTone'";    # combine psalm tone with all psalms
+        }
+        my $psalm0 = join(';', @psalm0);
+        $psalmline = "$ant0;;$psalm0";    # recombine antiphone line
+      }
+    }
+  }
+
+  if ( $version =~ /Trident/i
+    && $testmode =~ /seasonal/i
+    && $winner =~ /Sancti/i
+    && $rank >= 2
+    && $rank < 5
+    && !exists($winner{'Ant Matutinum'}))
+  {
+    $comment = 0;
+  }
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
   # Trident rubrics: Anticipated Sundays (except infra Oct. Epi on Jan 12) are "Simplex", i.e., 1 nocturn with 3 lessions (of the Gospel Homily!)
@@ -260,17 +297,18 @@ sub psalmi_matutinum {
     setbuild2("9 lectiones");
 
     unless (exists($winner{'Ant Matutinum'})) {
-      if ( ($name eq 'Pasch' || $name eq 'Asc')
+      if (
+        ($name eq 'Pasch' || $name eq 'Asc')    # Paschal tide
         && $version !~ /trident/i
         && $rank < 5
-        && $winner{'Rank'} !~ /(?:in|post).*octava.*Ascensio/i)
-      {
+        && $winner{'Rank'} !~ /(?:in|post).*octava.*Ascensio/i
+      ) {
         my $dname = ($winner{Rank} =~ /Dominica/i) ? 'Dominica' : 'Feria';
         my @spec = split("\n", $psalmi{"Pasch Ant $dname"});
         foreach my $i (3, 4, 8, 9, 13, 14) { $psalmi[$i] = $spec[$i]; }
         setbuild2("Pasch Ant $dname special versums for nocturns");
       } elsif ($winner =~ /tempora/i
-        && $name =~ /^(?:Adv|Quad|Pasch)$/i)
+        && $name =~ /^(?:Adv|Quad|Pasch)$/i)    # Advent, Quad, and Paschaltide
       {
         foreach my $i (1 .. 3) {
           ($psalmi[($i - 1) * 5 + 3], $psalmi[($i - 1) * 5 + 4]) = split("\n", $psalmi{"$name $i Versum"}, 2);
@@ -1186,8 +1224,8 @@ sub lectio : ScriptFunc {
 
   #handle parentheses in non Latin
   if ($lang !~ /Latin/i) {
-    process_inline_alleluias(\$w, $dayname[0] =~ /Pasc/);
-    $w =~ s/\(([^(]*?[.,\d][^(]*?)\)/parenthesised_text($1)/eg;
+    process_inline_alleluias(\$w, $lang, $dayname[0] =~ /Pasc/);
+    $w =~ s/\((.*?[.,\d].*?)\)/parenthesised_text($1)/eg;
   }
 
   $w = replaceNdot($w, $lang);
@@ -1326,9 +1364,14 @@ sub responsory_gloria {
       && $num % $rpn == ($rpn - 1)             # before last
       && tedeum_required($num + 1)             # when there is Te Deum after last
     )
-  ) {
+  ) {                                          # let's add the Gloria
 
-    if ($w !~ /\&Gloria/i) {
+    if ($lang =~ /gabc/ && $w =~ /\{.*\}/) {
+      if ($w =~ /\_\s\{gabc:/) {
+        $w =~ s/\_\s\{gabc:(.*)\}/\_ \{gabc:$1-gloria\}/;
+      }    # choose Responsory with Gloria #TODO: check T.P.!
+
+    } elsif ($w !~ /\&Gloria/i) {
       $w =~ s/[\s_]*$//gs;
       $w =~ s/(R\..*?)$/$1\n\&Gloria1\n$1/;
     }

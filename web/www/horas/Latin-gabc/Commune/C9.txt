@@ -1,0 +1,29 @@
+
+[Ant Vespera]
+Placébo Dómino * in regióne vivórum.;;114
+Hei mihi Dómine, * quia incolátus meus prolongátus est.;;119
+Dóminus custódit te * ab omni malo: custódiat ánimam tuam Dóminus.;;120
+Si iniquitátes * observáveris, Dómine: Dómine, quis sustinébit?;;129
+Opera * mánuum tuárum, Dómine, ne despícias.;;137
+
+[Ant Vespera] (rubrica monastica)
+{name:Placebo Domino;annotation:3. b;mode:3;book:Antiphonale Monasticum, 1934, p. 1150;transcriber:Dominique CROCHU;%%(c4) PLa(g)cé(i')bo(j) Dó(hi)mi(h)no(g'_) *(,) in(g) re(g')gi(g)ó(gf)ne(gh) vi(gf)vó(e.)rum.(e.) (::)};;114;;3-antiquo-b
+{name:Heu me;annotation:2.;mode:2;book:Antiphonale Monasticum, 1934, p. 1151;transcriber:Dominique CROCHU;%%(f3) HE(h_)u(hg) me,(f.) *(,) qui(f')a(e) in(f')co(e)lá(f_h)tus(g) me(e.)us(e.) (,) pro(g!hw!i_5j)lon(hg)gá(f)tus(ef) est.(f.) (::)};;119;;2
+{name:Dominus custodit te;anotation:8. g2;mode:8;book:Antiphonale Monasticum, 1934, p. 1152;transcriber:Dominique CROCHU;%%(c4) DO(f)mi(fg)nus(g'_) *() cu(g)stó(h')dit(g) te(g') ab(g) o(h'>)mni(g) ma(f.)lo : (f.) (;) cu(h)stó(j')di(j)at(i') á(j)ni(h)mam(gf~) tu(gh)am(h) Dó(g)mi(fg)nus.(g.) (::)};;120;;8G2
+{name:Si iniquitates Ant;annotation:8. g;mode:8;book:Antiphonale Monasticum, 1934, p. 1152;transcriber:Dominique CROCHU;%%(c4) SI(g) i(f)ni(e')qui(f)tá(g'_)tes(g_) *(,) ob(g)ser(g)vá(h')ve(g)ris(f) Dó(g_h)mi(h)ne :(h.) (;) Dó(f)mi(e)ne,(f'_) quis(d) su(e)sti(fg)né(g.)bit ?(g.) (::)};;129;;8G
+{name:Opera manuum tuarum;office-part:Antiphona;mode:2;book:Antiphonale Monasticum, 1934, p. 1153;transcriber:Dominique CROCHU;%%(f3) O(h_)pe(hg)ra(f.) *() má(f)nu(e)um(f) tu(hi)á(i)rum,(h_i) Dó(i)mi(hg)ne,(f!gwh_GE.) (,) ne(g) de(h)spí(i_j)ci(hg)as.(f.) (::)};;137;;2
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. Au(h)dí(h)vi(h) vo(h)cem(h) de(h) cæ(h)lo(h) di(h)cén(h)tem(h) mi(h)hi.(f.) (::) R/. Be(h)á(h)ti(h) mór(h)tu(h)i(h) qui(h) in(h) Dó(h)mi(h)no(h) mo(h)ri(h)ún(h)tur.(f.) (::)}
+
+[Ant 1]
+Omne * quod dat mihi Pater, ad me véniet; et eum qui venit ad me, non eíciam foras.
+(sed rubrica monastica)
+{name:Omne quod dat mihi;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 1154;transcriber:Dominique CROCHU;%%(c3) O(ig/ij)mne(i'_) *() quod(i) dat(i_j) mi(i)hi(h) Pa(hih)ter,(hgh_) (,) ad(h>) me(f') vé(g/h'i)ni(g)et :(e.) (;) et(e) e(g)um(g') qui(g) ve(g)nit(hf) ad(hh) me,(g.) (,) non(i) e(i)jí(h_f)ci(g')am(f>) fo(e.)ras.(e.) (::)};;7c
+
+[Conclusio]
+{initial-style:0;%%(c3) V/. Ré(h)qui(h)em(h) æ(h)tér(h)nam(h) do(h)na(h) e(h)is,(h) Dó(h)mi(f)ne.(f.) (::) R/. Et(h) lux(h) per(h)pé(h)tu(h)a(h) lú(h)ce(h)at(h) e(h)is.(f.) (::)}
+{initial-style:0;%%(c3) V/. Re(g)qui(h)és(h)cant(g) in(h) pa(hg)ce.(g.) (::) R/. A(g)men.(gh..) (::)}
+
+[Ant 2]
+Ego sum * resurréctio et vita: qui credit in me, étiam si mórtuus fúerit, vivet; et omnis qui vivit et credit in me, non moriétur in ætérnum.

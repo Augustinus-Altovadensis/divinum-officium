@@ -9,13 +9,15 @@ Dominica Pentecostes
 Psalmi Dominica;
 Antiphonas horas
 Prima=53
+Psalm5 Vespera=116
+Psalm5 Vespera3=113
 
 [Ant Vespera]
 Cum compleréntur * dies Pentecóstes, erant omnes páriter in eódem loco, allelúja.
 Spíritus Dómini * replévit orbem terrárum, allelúja.
 Repléti sunt omnes * Spíritu Sancto, et cœpérunt loqui, allelúja, allelúja.
 Fontes, et ómnia * quæ movéntur in aquis, hymnum dícite Deo, allelúja.
-Loquebántur * váriis linguis Apóstoli magnália Dei, allelúja, allelúja, allelúja.;;116
+Loquebántur * váriis linguis Apóstoli magnália Dei, allelúja, allelúja, allelúja.
 
 [Hymnus Vespera]
 @Psalterium/Special/Minor Special:Hymnus Pasc7 Tertia
@@ -176,7 +178,7 @@ Et Pater meus díliget eum, et ad eum veniémus, et mansiónem apud eum faciému
 &teDeum
 
 [Ant Laudes]
-@:Ant Vespera:s/;.*//
+@:Ant Vespera
 
 [Capitulum Laudes]
 !Act. 2:1-2

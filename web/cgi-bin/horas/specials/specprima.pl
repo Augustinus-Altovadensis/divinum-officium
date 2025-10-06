@@ -72,7 +72,14 @@ sub capitulum_prima {
     my $primaresponsory = get_prima_responsory($lang);
     my %wpr = columnsel($lang) ? %winner : %winner2;
     if (exists($wpr{'Versum Prima'})) { $primaresponsory = $wpr{'Versum Prima'}; }
-    if ($primaresponsory) { $resp[2] = "V. $primaresponsory"; }
+
+    if ($primaresponsory) {
+      if ($lang =~ /gabc/i) {
+        $resp[0] = $primaresponsory;
+      } else {
+        $resp[2] = "V. $primaresponsory";
+      }
+    }
     push(@resp, "_");
   }
 
@@ -183,7 +190,8 @@ sub martyrologium {
     my $line_c = 0;
 
     foreach my $line (@a) {
-      if (length($line) > 3 && $line !~ /^\/\:/) {    # allowing /:rubrics:/ in Martyrology
+      if (length($line) > 3 && $line !~ /^\/\:/ && $line !~ /\([\,\;\:]+[zZ]?\)/)
+      {    # allowing /:rubrics:/ in Martyrology
         $t .= "$prefix$line\n" unless $lang =~ /Bohemice/i && $line_c < 3 && $line_c != 0;
       } else {
         $t .= "$line\n" unless $lang =~ /Bohemice/i && $line_c < 3;

@@ -105,14 +105,14 @@ sub specials {
       setcomment($label, 'Preces', $comment, $lang) if ($rule !~ /Omit.*? $ite mute/i);
 
       if ( $item =~ /incipit/i
-        && $version !~ /1955|196/
+        && $version !~ /Cist|1955|196/
         && $winner !~ /C12/
         && !($version =~ /cist/i && $winner =~ /C9/))
       {
         if ($hora eq 'Laudes') {
-          push(@s, '/:' . translate('Si Laudes', $lang) . ':/');
+          push(@s, '$rubrica Secreto a Laudibus');
         } else {
-          push(@s, '/:' . translate('secreto', $lang) . ':/');
+          push(@s, '$rubrica Secreto');
         }
         push(@s, '$Pater noster', '$Ave Maria');
         if ($hora =~ /^(?:Matutinum|Prima)$/) { push(@s, '$Credo'); }
@@ -120,13 +120,13 @@ sub specials {
       next;
     }
 
-    # Prelude pseudo-item. Include it if it exists; otherwise drop it
-    # entirely.
+    # Prelude pseudo-item. Include it if it exists; otherwise drop it entirely.
     if ($item =~ /Prelude/) {
       push(@s, $w{"Prelude $hora"}) if exists($w{"Prelude $hora"});
       next;
     }
 
+    #if rule says 'Ave only', omit Pater and Credo from Incipit
     if ($rule =~ /Ave only/i && $item =~ /incipit/i) {
       setcomment($label, 'Preces', 2, $lang);
 
@@ -161,6 +161,7 @@ sub specials {
       next;
     }
 
+    # Invitatorium:
     if ($item =~ /invitatorium/i) {
 
       # CIST: between Most Holy Trinity and All Saints, Psalm 94 is prayed instead of Invitatory on Ferias incl. in Octaves
@@ -173,20 +174,34 @@ sub specials {
         push(@s, "\&psalm('94C')", "\n");
         setbuild('Psalterium/Special/Matutinum Special', 'Psalmus 94 loco Invitatorii in Æstate', 'Invitatorium ord');
       } else {
-        invitatorium($lang);
+        invitatorium($lang);    # see specmatins.pl
       }
       next;
     }
 
+    # Psalmi
     if ($item =~ /psalm/i) {
       psalmi($lang);
       next;
     }
 
+    # Capitulum @ Primam (if not replaced by Versum in loco capituli
     if ($item =~ /Capitulum/i && $hora eq 'Prima') {
       push(@s, capitulum_prima($lang, $item =~ /Responsorium/i));
       next;
     }
+
+    # Capitulum @ Completorium
+    #    if ($item =~ /Capitulum/i && $hora =~ /Completorium/i) {
+    #      $tind--;
+    #			if ($lang =~ /gabc/i) {  push(@s, $t[$tind++]); next; } # GABC: don't look for start of response
+    #      while ($tind < @t && $t[$tind] !~ /^\s*(?:V|R.br)\./) { push(@s, $t[$tind++]); }
+    #      my @resp = ();
+    #      while ($tind < @t && $t[$tind] !~ /^\s*\#/) { push(@resp, $t[$tind++]); }
+    #      postprocess_short_resp(@resp, $lang);
+    #      push(@s, @resp);
+    #      next;
+    #    }
 
     if ($item =~ /Lectio brevis/i && $hora eq 'Completorium') {
       my %lectio = %{setupstring($lang, 'Psalterium/Special/Minor Special.txt')};
@@ -204,7 +219,7 @@ sub specials {
       push(@s, capitulum_major($lang));
     }
 
-    if ($item =~ /Responsor/ && $version =~ /^Monastic/ && $hora =~ /^(?:Laudes|Vespera)$/) {
+    if ($item =~ /Responsor/ && $version =~ /monastic/i && $hora =~ /^(?:Laudes|Vespera)$/) {
       if (my $resp = monastic_major_responsory($lang)) {
         push(@s, '_', $resp);
       }
@@ -575,7 +590,18 @@ sub getantvers {
   my $w = '';
   my $c = 0;
 
+  #	our $chantTone;
+  #	if ($lang =~ /gabc/ && $chantTone =~ /solemnis/i) {
+  #		($w, $c) = getproprium("$item $ind solemn", $lang, 1, 1);
+  #		if (!$w && $ind > 1) {
+  #			my $i = 4 - $ind;
+  #			($w, $c) = getproprium("$item $i solemn", $lang, 1, 1);
+  #		}
+  #	}
+  #	if (!$w) {
   ($w, $c) = getproprium("$item $ind", $lang, 1);
+
+  #	}
 
   if (!$w && $ind > 1) {
     my $i = 4 - $ind;
@@ -784,7 +810,7 @@ sub replaceNdot {
   # Safeguard against Secreta / Postcommunio from missa; switch for Doctor Antiphone
   my @name = split("\n", $name);
 
-  if ($s =~ /^[OÓ],?\s/ && $name =~ /Ant\=/) {
+  if ($s =~ /^[OÓ],?\s|O Doctor optime/ && $name =~ /Ant\=/) {
     @name = grep(/Ant\=/, @name);
   } else {
     @name = grep(/Oratio\=/, @name) unless $name !~ /Oratio\=/;
