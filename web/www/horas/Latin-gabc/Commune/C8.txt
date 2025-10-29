@@ -1,0 +1,305 @@
+[Ant Vespera]
+Domum tuam, Dómine, * decet sanctitúdo in longitúdinem diérum.;;109
+Domus mea, * domus oratiónis vocábitur.;;110
+Hæc est domus Dómini * fírmiter ædificáta, bene fundáta est supra firmam petram.;;111
+Bene fundáta est * domus Dómini supra firmam petram.;;112
+Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur.;;147
+
+[Hymnus Vespera]
+{:H-Caelestisurbs:}v. Cæléstis urbs Jerúsalem,
+Beáta pacis vísio,
+Quæ celsa de vivéntibus
+Saxis ad astra tólleris,
+Sponsǽque ritu cíngeris
+Mille Angelórum míllibus.
+_
+O sorte nupta próspera,
+Dotáta Patris glória,
+Respérsa Sponsi grátia,
+Regína formosíssima,
+Christo jugáta Príncipi,
+Cæli corúsca cívitas.
+_
+Hic margarítis émicant,
+Paténtque cunctis óstia;
+Virtúte namque prǽvia
+Mortális illuc dúcitur,
+Amóre Christi pércitus
+Torménta quisquis sústinet.
+_
+Scalpri salúbris íctibus
+Et tunsióne plúrima,
+Fabri políta málleo
+Hanc saxa molem cónstruunt,
+Aptísque juncta néxibus
+Locántur in fastígio.
+_
+Decus Parénti débitum
+Sit usquequáque Altíssimo,
+Natóque Patris único,
+Et ínclito Paráclito,
+Cui laus, potéstas, glória 
+Ætérna sit per sǽcula.
+Amen.
+
+[HymnusM Vespera]
+v. Urbs Jerúsalem beáta,
+Dicta pacis vísio,
+Quæ constrúitur in cælis
+Vivis ex lapídibus,
+Et Ángelis coronáta
+Ut sponsáta cómite.
+_
+Nova véniens e cælo,
+Nuptiáli thálamo
+Præparáta, ut sponsáta
+Copulétur Dómino:
+Platéæ et muri ejus
+Ex auro puríssimo.
+_
+Portæ nitent margarítis
+Ádytis paténtibus,
+Et virtúte meritórum
+Illuc introdúcitur
+Omnis qui ob Christi nomen
+Hic in mundo prémitur.
+_
+Tunsiónibus, pressúris
+Expolíti lápides,
+Suis coaptántur locis
+Per manus artíficis,
+Disponúntur permansúri
+Sacris ædifíciis.
+_
+Glória et honor Deo
+Usquequáqu[e] altíssimo,
+Una Patri, Filióque,
+Inclyto Paráclito,
+Cui laus est et potéstas
+Per ætérna sǽcula.
+Amen.
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h hr)ta.(g_'/hvGFEfgf.) (::)
+R/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGFEfgf.) (::)}
+
+[Ant 1]
+Sanctificávit Dóminus * tabernáculum suum: quia hæc est domus Dei, in qua invocábitur nomen ejus, de quo scriptum est: Et erit nomen meum ibi, dicit Dóminus.
+
+[Oratio Dedicationis Altaris]
+!Orationes sequentes: quibus similiter, si agatur de Altari fixo, additur sub unica
+conclusione Oratio de Mysterio vel Sancto, in cujus honorem Altare dedicatur.
+Deus, qui ex omni coaptatióne Sanctórum ætérnum tibi condis habitáculum: da ædificatióni tuæ increménta cœléstia; ut, quorum hic relíquias pio amóre compléctimur, eórum semper méritis adjuvémur.
+$Per Dominum.
+
+[Oratio in 2 loco]
+!In ipso die Dedicationis Ecclesiæ et per Ottava, et quando varianda est Oratio 
+{(c3)De(h)us,(h) qui(h) in(h)vi(h)si(h)bí(h)li(h)ter(h) óm(h)ni(h)a(h) cón(h)ti(h)nes,(h) et(h) ta(h)men(h) pro(h) sa(h)lú(h)te(h) gé(h)ne(h)ris(h) hu(h)má(h)ni(h) si(h)gna(h) tu(h)æ(h) pot(h)én(h)ti(h)æ(h) vi(h)si(h)bí(h)li(h)ter(h) os(h)tén(h)dis:(f.) †(;) tem(h)plum(h) hoc(h) pot(h)én(h)ti(h)a(h) tu(h)æ(h) in(h)ha(h)bi(h)ta(h)ti(h)ó(h)nis(h) il(h)lús(h)tra,(h) et(h) con(h)cé(h)de;(h) ut(h) om(h)nes,(h) qui(h) huc(h) de(h)pre(h)ca(h)tú(h)ri(g) con(f)vé(h)ni(hr)unt,(h.) *(;) ex(h) qua(h)cúm(h)que(h) tri(h)bu(h)la(h)ti(h)ó(h)ne(h) ad(h) te(h) cla(h)má(h)ve(h)rint,(h) con(h)so(h)la(h)ti(h)ó(h)nis(h) tu(h)as(h) be(h)ne(h)fí(h)ci(h)a(h) con(h)se(h)quán(h dr)tur.(d.) (::)}
+$Per Dominum
+
+[Oratio]
+!In Anniversario Dedicationis Ecclesiæ
+{(c3)De(h)us,(h) qui(h) no(h)bis(h) per(h) sín(h)gu(h)los(h) an(h)nos(h) hu(h)jus(h) sanc(h)ti(h) tem(h)pli(h) tu(h)i(h) con(h)se(h)cra(h)ti(h)ó(h)nis(h) ré(h)pa(h)ras(h) di(h)em,(h) et(h) sa(h)cris(h) sem(h)per(h) mys(h)té(h)ri(h)is(h) re(h)præ(h)sén(h)tas(h) in(h)có(h)lu(f)mes:(f.) †(;) ex(h)áu(h)di(h) pre(h)ces(h) pó(h)pu(h)li(h) tu(h)i,(h) et(h) præ(h)sta;(h) ut(h) quis(h)quis(h) hoc(h) tem(h)plum(h) be(h)ne(h)fí(h)ci(h)a(h) pe(h)ti(h)tú(h)rus(g) in(f)gré(h)di(hr)tur,(h.) *(;) cunc(h)ta(h) se(h) im(h)pe(h)trás(h)se(h) læ(h)té(h dr)tur.(d.) (::)}
+$Per Dominum
+
+[Invit]
+Domum Dei decet sanctitúdo: * Sponsum ejus Christum adorémus in ea.
+
+[Ant Matutinum]
+Tóllite portas, * príncipes vestras, et elevámini, portæ æternáles.;;23
+Erit mihi Dóminus * in Deum, et lapis iste vocábitur domus Dei.;;45
+Ædificávit * Móyses altáre Dómino Deo.;;47
+Non est hic áliud, * nisi domus Dei, et porta cæli.;;83
+Vidit Jacob scalam, * súmmitas ejus cælos tangébat, et descendéntes Angelos, et dixit: Vere locus iste sanctus est.;;86
+Eréxit Jacob * lápidem in títulum, fundens óleum désuper.;;87
+Qui hábitat * in adjutório Altíssimi, in protectióne Dei cæli commorábitur.;;90
+Templum Dómini * sanctum est, Dei structúra est, Dei ædificátio est.;;95
+Benedícta * glória Dómini, de loco sancto suo, allelúja.;;98
+
+[Nocturn 2 Versum]
+{initial-style:0;%%(c3) V/. Do(h)mus(h) me(h hr)a.(g_'/hvGFEfgf.) (::)
+R/.  Do(h)mus(h) o(h)ra(h)ti(h)ó(h)nis(h) vo(h)cá(h)bi(hr)tur.(g_'/hvGFEfgf.) (::)}
+
+[Responsory1]
+R. In dedicatióne templi decantábat pópulus laudem: 
+* Et in ore eórum dulcis resonábat sonus.
+V. Fundáta est domus Dómini supra vérticem móntium, et vénient ad eam omnes gentes.
+R. Et in ore eórum dulcis resonábat sonus.
+
+[Responsory2]
+R. Fundáta est domus Dómini supra vérticem móntium, et exaltáta est super omnes colles:
+* Et vénient ad eam omnes gentes, et dicent: Glória tibi, Dómine.
+V. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.
+R. Et vénient ad eam omnes gentes, et dicent: Glória tibi, Dómine.
+
+[Responsory3]
+R. Bénedic, Dómine, domum istam, quam ædificávi nómini tuo: veniéntium in loco isto 
+* Exáudi preces in excélso sólio glóriæ tuæ.
+V. Dómine, si convérsus fúerit pópulus tuus, et oráverit ad sanctuárium tuum.
+R. Exáudi preces in excélso sólio glóriæ tuæ.
+&Gloria
+R. Exáudi preces in excélso sólio glóriæ tuæ.
+
+[Responsory4]
+R. Orántibus in loco isto, 
+* Dimítte peccáta pópuli tui, Deus, et osténde eis viam bonam per quam ámbulent, et da glóriam in loco isto.
+V. Qui regis Israël inténde, qui dedúcis velut ovem Joseph, qui sedes super Chérubim.
+R. Dimítte peccáta pópuli tui, Deus, et osténde eis viam bonam per quam ámbulent, et da glóriam in loco isto.
+
+[Responsory5]
+R. O quam metuéndus est locus iste: 
+* Vere non est hic áliud nisi domus Dei et porta cæli.
+V. Hæc est domus Dómini fírmiter ædificáta, bene fundáta est supra firmam petram.
+R. Vere non est hic áliud nisi domus Dei et porta cæli.
+
+[Responsory6]
+R. Mane surgens Jacob, erigébat lápidem in títulum, fundens óleum désuper; votum vovit Dómino: 
+* Vere locus iste sanctus est, et ego nesciébam.
+V. Cumque evigilásset Jacob de somno, ait.
+R. Vere locus iste sanctus est, et ego nesciébam.
+&Gloria
+R. Vere locus iste sanctus est, et ego nesciébam.
+
+[Responsory7]
+R. Domus mea, domus oratiónis vocábitur, dicit Dóminus: in ea omnis qui petit, áccipit; et qui quærit, ínvenit; 
+* Et pulsánti aperiétur.
+V. Pétite, et accipiétis; quǽrite, et inveniétis.
+R. Et pulsánti aperiétur.
+
+[Responsory8]
+R. Lápides pretiósi omnes muri tui, 
+* Et turres Jerúsalem gemmis ædificabúntur.
+V. Portæ Jerúsalem ex sapphíro et smarágdo ædificabúntur, et ex lápide pretióso omnis circúitus muri ejus.
+R. Et turres Jerúsalem gemmis ædificabúntur.
+&Gloria
+R. Et turres Jerúsalem gemmis ædificabúntur.
+
+[Capitulum Laudes]
+!Apo 21:2
+{(c3) Vi(h)di(h) ci(h)vi(h)tá(h)tem(h) sanc(h)tam,(h) Je(h)rú(h)sa(h)lem(h) no(h)vam,(f.) †(,) de(h)scen(h)dén(h)tem(h) de(h) cæ(h)lo(g) a(f) De(h)o,(h.) *(;) pa(h)rá(h)tam(h) sic(h)ut(h) spon(h)sam(h) or(h)ná(h)tam(h) vi(h)ro(h) su(f)o.(ef..) (::)}
+$Deo gratias
+
+[Hymnus Laudes]
+{:H-Altoexolympi:}v. Alto ex Olýmpi vértice
+Summi Paréntis Fílius,
+Ceu monte deséctus lapis
+Terras in imas décidens,
+Domus supérnæ et ínfimæ
+Utrúmque junxit ángulum.
+_
+Sed illa sedes cǽlitum
+Semper resúltat láudibus,
+Deúmque trinum et únicum
+Jugi canóre prǽdicat: 
+Illi canéntes júngimur
+Almæ Siónis ǽmuli.
+_
+Hæc templa, Rex cæléstium,
+Imple benígno lúmine:
+Huc, o rogátus, ádveni,
+Plebísque vota súscipe,
+Et nostra corda júgiter
+Perfúnde cæli grátia.
+_
+Hic ímpetrent fidélium
+Voces precésque súpplicum
+Domus beátæ múnera,
+Partísque donis gáudeant:
+Donec, solúti córpore,
+Sedes beátas ímpleant.
+_
+Decus Parénti débitum
+Sit usquequáque Altíssimo,
+Natóque Patris único,
+Et ínclito Paráclito,
+Cui laus, potéstas, glória 
+Ætérna sit per sǽcula.
+Amen.
+
+[HymnusM Laudes]
+v. Anguláris fundaméntum
+Lapis Christus missus est,
+Qui paríetum compáge
+In utróque néctitur,
+Quem Sion sancta suscépit,
+In quo credens pérmanet.
+_
+Omnis illa Deo sacra
+Et dilécta cívitas,
+Plena módulis, in laude,
+Et canóre júbilo,
+Trinum Deum unicúmque
+Cum fervóre prǽdicat.
+_
+Hoc in templo, summe Deus,
+Exorátus ádveni,
+Et cleménti bonitáte
+Precum vota súscipe,
+Largam benedictiónem
+Hic infúnde júgiter.
+_
+Hic promereántur omnes
+Petíta acquírere,
+Et adépta possidére,
+Cum Sanctis perénniter
+Paradísum introíre,
+Transláti in réquiem.
+_
+Glória et honor Deo
+Usquequáqu[e] altíssimo,
+Una Patri, Filióque,
+Inclyto Paráclito,
+Cui laus est et potéstas
+Per ætérna sǽcula.
+Amen.
+
+[Ant 2]
+Zachǽe, * festínans descénde, quia hódie in domo tua opórtet me manére. At ille festínans descéndit, et suscépit illum gaudens in domum suam. Hódie huic dómui salus a Deo facta est, allelúja.
+
+[Lectio Prima]
+!Apo 21:4-5
+{(c3) Et(h) abs(h)tér(h)get(h) De(h)us(h) om(h)nem(h) lá(h)cri(h)mam(h) ab(h) ó(h)cu(h)lis(h) e(h)ó(h)rum:(f.) †(,) et(h) mors(h) ul(h)tra(h) non(h) e(h)rit,(h) ne(h)que(h) luc(h)tus,(h) ne(h)que(h) cla(h)mor,(h) ne(h)que(h) do(h)lor(h) e(h)rit(h) ul(h)tra,(h) qui(h)a(h) pri(h)ma(h) ab(g)i(f)é(h)runt.(h.) *(;) Et(h) di(h)xit(h) qui(h) se(h)dé(h)bat(h) in(h) thro(h)no:(h) Ec(h)ce(h) no(h)va(h) fá(h)ci(h)o(h) óm(f)ni(e)a.(ef..) (::)}
+
+[Responsory Breve Tertia]
+R.br. Domum tuam, Dómine, * Decet sanctitúdo.
+R. Domum tuam, Domine, * Decet sanctitudo.
+V. In longitúdinem diérum.
+R. Decet sanctitúdo.
+&Gloria
+R. Domum tuam, Domine, * Decet sanctitudo.
+
+[Versum Tertia]
+{initial-style:0;%%(c3) V/. Lo(h)cus(h) is(h)te(h) sanc(h)tus(h) est,(h) in(h) quo(h) o(h)rat(h) sa(h)cér(h hr)dos.(g_'/hvGFEfgf.) (::)
+R/. Pro(h) de(h)líc(h)tis(h) et(h) pec(h)cá(h)tis(h) pó(h)pu(hr)li.(g_'/hvGFEfgf.) (::)}
+
+[Capitulum Sexta]
+!Apo 21:3
+{(c3) Et(h) au(h)dí(h)vi(h) vo(h)cem(h) ma(h)gnam(h) de(h) thro(h)no(h) di(h)cén(h)tem:(h) Ec(h)ce(h) ta(h)ber(h)ná(h)cu(h)lum(h) De(h)i(h) cum(h) ho(h)mí(h)ni(h)bus,(h) et(h) ha(h)bi(h)tá(h)bit(h) cum(h) e(h)is;(f.) †(,) et(h) ip(h)si(h) pó(h)pu(h)lus(h) e(g)jus(f) e(h)runt,(h.) *(;) et(h) ip(h)se(h) De(h)us(h) cum(h) e(h)is(h) e(h)rit(h) e(h)ó(h)rum(h) De(f)us.(ef..) (::)}
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Locus iste sanctus est, * In quo orat sacérdos.
+R. Locus iste sanctus est, * In quo orat sacérdos.
+V. Pro delíctis et peccátis pópuli.
+R. In quo orat sacérdos.
+&Gloria
+R. Locus iste sanctus est, * In quo orat sacérdos.
+
+[Responsory Breve Nona]
+R.br. Hæc est domus Dómini * Fírmiter ædificáta.
+R. Hæc est domus Dómini * Fírmiter ædificáta.
+V. Bene fundáta est supra firmam petram.
+R. Fírmiter ædificáta.
+&Gloria
+R. Hæc est domus Dómini * Fírmiter ædificáta.
+
+[Versum Nona]
+{initial-style:0;%%(c3) V/. Be(h)ne(h) fun(h)dá(h)ta(h) est(h) do(h)mus(h) Dó(h)mi(hr)ni.(g_'/hvGFEfgf.) (::)
+R/. Su(h)pra(h) fir(h)mam(h) pe(h hr)tram.(g_'/hvGFEfgf.) (::)}
+
+[Versum 3]
+{initial-style:0;%%(c3) V/. Do(h)mum(h) tu(h)am,(h) Dó(h)mi(h)ne,(h) de(h)cet(h) sanc(h)ti(h)tú(h hr)do.(g_'/hvGFEfgf.) (::)
+R/. In(h) lon(h)gi(h)tú(h)di(h)nem(h) di(h)é(h hr)rum.(g_'/hvGFEfgf.) (::)}
+
+[Ant 3]
+O quam metuéndus est * locus iste: vere non est hic áliud, nisi domus Dei, et porta cæli.

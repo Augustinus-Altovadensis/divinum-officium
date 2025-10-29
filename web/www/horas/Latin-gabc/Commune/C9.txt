@@ -1,4 +1,3 @@
-
 [Ant Vespera]
 Placébo Dómino * in regióne vivórum.;;114
 Hei mihi Dómine, * quia incolátus meus prolongátus est.;;119
@@ -21,9 +20,125 @@ Omne * quod dat mihi Pater, ad me véniet; et eum qui venit ad me, non eíciam f
 (sed rubrica monastica)
 {name:Omne quod dat mihi;annotation:7. c;mode:7;book:Antiphonale Monasticum, 1934, p. 1154;transcriber:Dominique CROCHU;%%(c3) O(ig/ij)mne(i'_) *() quod(i) dat(i_j) mi(i)hi(h) Pa(hih)ter,(hgh_) (,) ad(h>) me(f') vé(g/h'i)ni(g)et :(e.) (;) et(e) e(g)um(g') qui(g) ve(g)nit(hf) ad(hh) me,(g.) (,) non(i) e(i)jí(h_f)ci(g')am(f>) fo(e.)ras.(e.) (::)};;7c
 
+[Oratio_Fid]
+$Oremus
+{(c3)Fi(h)dé(h)li(h)um,(h) De(h)us,(h) óm(h)ni(h)um(h) Cón(h)di(h)tor(h) et(h) Red(h)émp(h)tor,(h) a(h)ni(h)má(h)bus(h) fa(h)mu(h)ló(h)rum(h) fa(h)mu(h)la(h)rúm(h)que(h) tu(h)á(h)rum(h) re(h)mis(h)si(h)ó(h)nem(h) cunc(h)tó(h)rum(h) trí(h)bu(h)e(h) pec(h)ca(h)tó(h)rum:(f.) †(,) ut(h) in(h)dul(h)gén(h)ti(h)am,(h) quam(h) sem(h)per(h) op(g)ta(f)vé(h)runt,(h.) *(;) pi(h)is(h) sup(h)pli(h)ca(h)ti(h)ó(h)ni(h)bus(h) con(h)se(h)quán(h)tur:(d.) (::)}
+$Qui vivis
+
+[Oratio1]
+{(c3)Ab(h)sól(h)ve,(h) quǽ(h)su(h)mus(h) Dó(h)mi(h)ne,(h) á(h)ni(h)mam(h) fá(h)mu(h)li(h) tu(h)i(h) N. ut(h) de(h)fúnc(h)tus(h) sǽ(h)cu(h)lo(h) ti(h)bi(h) vi(h)vat:(f.) †(;) et(h) quæ(h) per(h) fra(h)gi(h)li(h)tá(h)tem(h) car(h)nis(h) hu(h)má(h)na(h) con(h)ver(h)sa(h)ti(h)ó(h)ne(g) com(f)mí(h hr)sit,(h.) *(;) tu(h) vé(h)ni(h)a(h) mi(h)se(h)ri(h)cor(h)dís(h)si(h)mæ(h) pi(h)e(h)tá(h)tis(h) abs(h)tér(h dr)ge.(d.) (::)}
+$Per Dominum
+
+[Invit]
+Regem, cui ómnia vivunt, * Veníte adorémus.
+
+[Ant Matutinum]
+Dírige, * Dómine, Deus meus, in conspéctu tuo viam meam.;;5
+Convértere, * Dómine, et éripe ánimam meam: quóniam non est in morte, qui memor sit tui.;;6
+Nequándo rápiat * ut leo ánimam meam, dum non est qui rédimat, neque qui salvum fáciat.;;7
+In loco páscuæ * ibi me collocávit.;;22
+Delícta * juventútis meæ, et ignorántias meas ne memíneris, Dómine.;;24
+Credo vidére * bona Dómini in terra vivéntium.;;26
+Compláceat * tibi, Dómine, ut erípias me: Dómine, ad adjuvándum me réspice.;;39
+Sana, Dómine, * ánimam meam, quia peccávi tibi.;;40
+Sitívit * ánima mea ad Deum vivum: quando véniam, et apparébo ante fáciem Dómini?;;41
+
+[Nocturn 1 Versum]
+{initial-style:0;%%(c3) V/. A(h) por(h)ta(h) ín(h)fe(hr)ri.(g_'/hvGFEfgf.) (::)
+R/.  E(h)ru(h)e,(h) Dó(h)mi(h)ne,(h) á(h)ni(h)mas(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
+
+[Nocturn 2 Versum]
+{initial-style:0;%%(c3) V/. Cól(h)lo(h)cet(h) e(h)os(h) Dó(h)mi(h)nus(h) cum(h) prin(h)cí(h)pi(hr)bus.(g_'/hvGFEfgf.) (::)
+R/.  Cum(h) prin(h)cí(h)pi(h)bus(h) pó(h)pu(h)li(h) su(h hr)i.(g_'/hvGFEfgf.) (::)}
+
+[Nocturn 3 Versum]
+{initial-style:0;%%(c3) V/. Ne(h) tra(h)das(h) bés(h)ti(h)is(h) á(h)ni(h)mas(h) con(h)fi(h)tén(h)tes(h) ti(h hr)bi.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) á(h)ni(h)mas(h) páu(h)pe(h)rum(h) tu(h)ó(h)rum(h) ne(h) ob(h)li(h)vis(h)cá(h)ris(h) in(h) fi(h hr)nem.(g_'/hvGFEfgf.) (::)}
+
+[Responsory1]
+R. Credo quod Redémptor meus vivit, et in novíssimo die de terra surrectúrus sum, 
+* Et in carne mea vidébo Deum Salvatórem meum.
+V. Quem visúrus sum ego ipse, et non álius; et óculi mei conspectúri sunt.
+R. Et in carne mea vidébo Deum Salvatórem meum.
+
+[Responsory2]
+R. Qui Lázarum resuscitásti a monuménto fœ́tidum, 
+* Tu eis, Dómine, dona réquiem, et locum indulgéntiæ.
+V. Qui ventúrus es judicáre vivos et mórtuos, et sǽculum per ignem.
+R. Tu eis, Dómine, dona réquiem, et locum indulgéntiæ.
+
+[Responsory3]
+R. Dómine, quando véneris judicáre terram, ubi me abscóndam a vultu iræ tuæ? 
+* Quia peccávi nimis in vita mea.
+V. Commíssa mea pavésco, et ante te erubésco: dum véneris judicáre, noli me condemnáre.
+R. Quia peccávi nimis in vita mea.
+$Requiem
+R. Quia peccávi nimis in vita mea.
+
+[Responsory4]
+R. Meménto mei, Deus, quia ventus est vita mea, 
+* Nec aspíciat me visus hóminis.
+V. De profúndis clamávi ad te, Dómine: Dómine, exáudi vocem meam.
+R. Nec aspíciat me visus hóminis.
+
+[Responsory5]
+R. Hei mihi, Dómine, quia peccávi nimis in vita mea: Quid fáciam, miser? ubi fúgiam, nisi ad te, Deus meus? 
+* Miserére mei, dum véneris in novíssimo die.
+V. Anima mea turbáta est valde, sed tu, Dómine, succúrre ei.
+R. Miserére mei, dum véneris in novíssimo die.
+
+[Responsory6]
+R. Ne recordéris peccáta mea, Dómine, 
+* Dum véneris judicáre sǽculum per ignem.
+V. Dírige, Dómine, Deus meus, in conspéctu tuo viam meam.
+R. Dum véneris judicáre sǽculum per ignem.
+$Requiem
+R. Dum véneris judicáre sǽculum per ignem.
+
+[Responsory7]
+R. Peccántem me cotídie, et non me pœniténtem, timor mortis contúrbat me: 
+* Quia in inférno nulla est redémptio, miserére mei, Deus, et salva me.
+V. Deus, in nómine tuo salvum me fac, et in virtúte tua líbera me.
+R. Quia in inférno nulla est redémptio, miserére mei, Deus, et salva me.
+
+[Responsory8]
+R. Dómine, secúndum actum meum noli me judicáre: nihil dignum in conspéctu tuo egi; ídeo déprecor majestátem tuam,
+* Ut tu, Deus, déleas iniquitátem meam.
+V. Amplius lava me, Dómine, ab injustítia mea, et a delícto meo munda me.
+R. Ut tu, Deus, déleas iniquitátem meam.
+
+[Responsory9]
+R. Líbera me, Dómine, de morte ætérna in die illa treménda,
+* Quando cæli movéndi sunt et terra, * Dum véneris judicáre sǽculum per ignem.
+V. Tremens factus sum ego et tímeo, dum discússio vénerit atque ventúra ira.
+R. Quando cæli movéndi sunt et terra.
+V. Dies illa, dies iræ, calamitátis et misériæ, dies magna et amára valde.
+R. Dum véneris judicáre sǽculum per ignem.
+$Requiem
+R. Líbera me, Dómine, de morte ætérna in die illa treménda, * Quando cæli movéndi sunt et terra, * Dum véneris judicáre sǽculum per ignem.
+
 [Conclusio]
 {initial-style:0;%%(c3) V/. Ré(h)qui(h)em(h) æ(h)tér(h)nam(h) do(h)na(h) e(h)is,(h) Dó(h)mi(f)ne.(f.) (::) R/. Et(h) lux(h) per(h)pé(h)tu(h)a(h) lú(h)ce(h)at(h) e(h)is.(f.) (::)}
 {initial-style:0;%%(c3) V/. Re(g)qui(h)és(h)cant(g) in(h) pa(hg)ce.(g.) (::) R/. A(g)men.(gh..) (::)}
 
+[Ant Laudes_]
+Exsultábunt Dómino * ossa humiliáta.;;50
+Exáudi, Dómine, * oratiónem meam: ad te omnis caro véniet.;;64
+Me suscépit * déxtera tua, Dómine.;;62
+A porta ínferi * érue, Dómine, ánimam meam.;;222
+Omnis spíritus * laudet Dóminum.;;150
+
 [Ant 2]
 Ego sum * resurréctio et vita: qui credit in me, étiam si mórtuus fúerit, vivet; et omnis qui vivit et credit in me, non moriétur in ætérnum.
+
+[Oratio2]
+{(c3)De(h)us(h) in(h)dul(h)gen(h)ti(h)á(h)rum(h) Dó(h)mi(f)ne:(f.) †(;) da(h) a(h)ni(h)má(h)bus(h) fa(h)mu(h)ló(h)rum(h) fa(h)mu(h)la(h)rúm(h)que(h) tu(h)á(h)rum,(h) quo(h)rum(h) an(h)ni(h)ver(h)sá(h)ri(h)um(h) de(h)po(h)si(h)ti(h)ó(h)nis(h) di(h)em(h) com(h)me(g)mo(f)rá(h hr)mus,(h.) *(;) re(h)fri(h)gé(h)ri(h)i(h) se(h)dem,(h) qui(h)é(h)tis(h) be(h)a(h)ti(h)tú(h)di(h)nem,(h) et(h) lú(h)mi(h)nis(h) cla(h)ri(h)tá(h dr)tem.(d.) (::)}
+$Per Dominum
+
+[Responsory91]
+R. Líbera me, Dómine, de viis inférni, qui portas ǽreas confregísti: et visitásti inférnum, et dedísti eis lumen, ut vidérent te:
+* Qui erant in pœnis tenebrárum.
+V. Clamántes et dicéntes: Advenísti, Redémptor noster.
+R. Qui erant in pœnis tenebrárum.
+$Requiem
+R. Qui erant in pœnis tenebrárum.

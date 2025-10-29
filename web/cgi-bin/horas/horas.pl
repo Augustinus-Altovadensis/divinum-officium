@@ -469,6 +469,7 @@ sub ant123_special {
   my $lang = shift;
 
   my $ant, $duplexf;
+  our $canticaTone;
 
   if ($month == 12 && ($day > 16 && $day < 24) && $winner =~ /tempora/i) {
     my %specials = %{setupstring($lang, 'Psalterium/Special/Major Special.txt')};
@@ -492,6 +493,8 @@ sub ant123_special {
       setbuild2('subst: Special Magnificat Ant. Dum esset');
     }
   }
+  ($ant, $canticaTone) = split(";;", $ant) if $lang =~ /gabc/i;
+  $canticaTone =~ s/\s*$//;
   ($ant, $duplexf);
 }
 
@@ -680,10 +683,11 @@ sub postprocess_vr(\$$) {
 # Performs necessary adjustments to a short responsory.
 sub postprocess_short_resp(\@$) {
   my ($capit, $lang) = @_;
-  return $capit if $lang =~ /gabc/i;
 
   our (@dayname, $votive);
   s/&Gloria1?/&Gloria1/ for (@$capit);
+
+  return $capit if $lang =~ /gabc/i;
 
   if (alleluia_required($dayname[0], $votive)) {
     my $rlines = 0;

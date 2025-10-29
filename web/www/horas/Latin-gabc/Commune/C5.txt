@@ -1,0 +1,181 @@
+[Ant Vespera]
+Dómine, quinque talénta * tradidísti mihi, ecce ália quinque superlucrátus sum.
+Euge, serve bone * in módico fidélis, intra in gáudium Dómini tui.
+Fidélis servus * et prudens, quem constítuit Dóminus super famíliam suam.
+Beátus ille servus, * quem, cum vénerit Dóminus ejus et pulsáverit jánuam, invénerit vigilántem.
+Serve bone * et fidélis, intra in gáudium Dómini tui.
+
+[Ant 1]
+Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
+
+[Oratio]
+{(c3)De(h)us,(h) qui(h) nos(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) án(h)nu(h)a(h) so(h)lem(h)ni(h)tá(h)te(h) læ(h)tí(h)fi(f)cas:(f.) †(;) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut(h) cu(h)jus(h) na(h)ta(h)lí(h)ti(g)a(f) có(h)li(hr)mus,(h.) *(;) ét(h)i(h)am(h) ac(h)ti(h)ó(h)nes(h) i(h)mi(h)té(h dr)mur.(d.) (::)}
+$Per Dominum.
+
+[Nocturn 2 Versum]
+{initial-style:0;%%(c3) V/. Os(h) jus(h)ti(h) me(h)di(h)tá(h)bi(h)tur(h) sa(h)pi(h)én(h)ti(hr)am.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) lin(h)gua(h) e(h)jus(h) lo(h)qué(h)tur(h) ju(h)dí(h)ci(hr)um.(g_'/hvGFEfgf.) (::)}
+
+[Nocturn 3 Versum]
+{initial-style:0;%%(c3) V/. Lex(h) De(h)i(h) e(h)jus(h) in(h) cor(h)de(h) ip(h)sí(h hr)us.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) non(h) sup(h)plan(h)ta(h)bún(h)tur(h) gres(h)sus(h) e(h hr)jus.(g_'/hvGFEfgf.) (::)}
+
+[Responsory2]
+R. Justus germinábit sicut lílium:
+* Et florébit in ætérnum ante Dóminum.
+V. Plantátus in domo Dómini, in átriis domus Dei nostri.
+R. Et florébit in ætérnum ante Dóminum.
+
+[Responsory3]
+R. Iste cognóvit justítiam, et vidit mirabília magna, et exorávit Altíssimum:
+* Et invéntus est in número Sanctórum.
+V. Iste est qui contémpsit vitam mundi, et pervénit ad cæléstia regna.
+R. Et invéntus est in número Sanctórum.
+&Gloria
+R. Et invéntus est in número Sanctórum.
+
+[Responsory4]
+R. Honéstum fecit illum Dóminus, et custodívit eum ab inimícis, et a seductóribus tutávit illum:
+* Et dedit illi claritátem ætérnam.
+V. Justum dedúxit Dóminus per vias rectas, et osténdit illi regnum Dei.
+R. Et dedit illi claritátem ætérnam.
+
+[Responsory5]
+R. Amávit eum Dóminus, et ornávit eum: stolam glóriæ índuit eum,
+* Et ad portas paradísi coronávit eum.
+V. Índuit eum Dóminus lorícam fídei, et ornávit eum.
+R. Et ad portas paradísi coronávit eum.
+
+[Responsory6]
+R. Iste homo perfécit ómnia quæ locútus est ei Deus, et dixit ad eum: Ingrédere in réquiem meam:
+* Quia te vidi justum coram me ex ómnibus géntibus.
+V. Iste est, qui contémpsit vitam mundi, et pervénit ad cæléstia regna.
+R. Quia te vidi justum coram me ex ómnibus géntibus.
+&Gloria
+R. Quia te vidi justum coram me ex ómnibus géntibus.
+
+[Responsory7]
+R. Iste est qui ante Deum magnas virtútes operátus est, et de omni corde suo laudávit Dóminum:
+* Ipse intercédat pro peccátis ómnium populórum.
+V. Ecce homo sine queréla, verus Dei cultor, ábstinens se ab omni ópere malo, et pérmanens in innocéntia sua.
+R. Ipse intercédat pro peccátis ómnium populórum.
+
+[Capitulum Laudes]
+!Sir 31:8-9
+{(c3) Be(h)á(h)tus(h) vir,(h) qui(h) in(h)vén(h)tus(h) est(h) si(h)ne(h) má(h)cu(f)la,(f.) †(,) et(h) qui(h) post(h) au(h)rum(h) non(h) áb(h)i(h)it,(h) nec(h) spe(h)rá(h)vit(h) in(h) pe(h)cú(h)ni(h)a(h) et(g) the(f)sáu(h)ris.(h.)*(;) Quis(g) est(g) hic,(g) et(g) lau(g)dá(g)bi(g)mus(f) e(g)um?(gh..) (:) fe(h)cit(h) e(h)nim(h) mi(h)ra(h)bí(h)li(h)a(h) in(h) vi(h)ta(h) su(f)a.(ef..) (::)}
+$Deo gratias
+
+[Hymnus Laudes]
+{:H-Jesucoronacelsior:}v. Jesu, coróna célsior,
+Et véritas sublímior,
+Qui confiténti sérvulo
+Reddis perénne prǽmium:
+_
+Da supplicánti cœ́tui,
+Hujus rogátu, nóxii
+Remissiónem críminis,
+Rumpéndo nexum vínculi.
+_
+Anni revérso témpore,
+Dies refúlsit lúmine,
+Quo Sanctus hic de córpore
+Migrávit inter sídera.
+_
+Hic vana terræ gáudia,
+Et luculénta prǽdia,
+Pollúta sorde députans,
+Ovans tenet cæléstia.
+_
+Te, Christe, Rex piíssime,
+Hic confiténdo júgiter,
+Calcávit artes dǽmonum,
+Sævúmque avérni príncipem.
+_
+Virtúte clarus, et fide,
+Confessióne sédulus,
+Jejúna membra déferens,
+Dapes supérnas óbtinet.
+_
+Proínde te piíssime
+Precámur omnes súpplices:
+Nobis ut hujus grátia
+Pœnas remíttas débitas.
+_
+* Patri perénnis glória,
+Natóque Patris único,
+Sanctóque sit Paráclito,
+Per omne semper sǽculum.
+Amen.
+
+[HymnusM Laudes]
+v. Jesu coróna célsior,
+Et véritas sublímior,
+Qui confiténti sérvulo
+Reddis perénne prǽmium:
+_
+Da supplicánti cœ́tui,
+Obténtu hujus óptimi,
+Remissiónem críminum
+Rumpéndo nexum vínculi.
+_
+Anni recúrso témpore,
+Dies illúxit lúmine,
+Quo Sanctus hic de córpore
+Polum migrávit prǽpotens.
+_
+Hic vana terræ gáudia
+Et luculénta prǽdia,
+Pollúta sorde députans,
+Ovans tenet cæléstia.
+_
+Te, Christe Rex piíssime,
+Hic confiténdo júgiter,
+Calcávit hostem fórtiter,
+Supérbum ac satéllitem.
+_
+Virtútum actu et fide,
+Confessiónis órdine,
+Jejúna membra déferens,
+Dapes supérnas óbtinet.
+_
+Proínde te, piíssime,
+Precámur omnes súpplices,
+Ut hujus almi grátia
+Nobis remíttas débita.
+_
+Glória Patri Dómino,
+Glória Unigénito,
+Una cum Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.
+
+[Ant 2]
+Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium Dómini tui.
+
+[Lectio Prima]
+!Sap 10:10
+{(c3) Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(f.) †(,) et(h) os(h)tén(h)dit(h) il(h)li(h) re(h)gnum(h) De(h)i,(h) et(h) de(h)dit(h) il(h)li(h) sci(h)én(h)ti(h)am(g) sanc(f)tó(h)rum:(h.) *(;) ho(h)nes(h)tá(h)vit(h) il(h)lum(h) in(h) la(h)bó(h)ri(h)bus,(h) et(h) com(h)plé(h)vit(h) la(h)bó(h)res(h) il(h)lí(f)us.(ef..) (::)}
+
+[Capitulum Sexta]
+!Sir 39:6
+{(c3) Jus(h)tus(h) cor(h) su(h)um(h) trá(h)di(h)dit(h) ad(h) vi(h)gi(h)lán(h)dum(h) di(h)lú(h)cu(h)lo(h) ad(h) Dó(h)mi(h)num,(h) qui(h) fe(g)cit(f) il(h)lum,(h.) *(;) et(h) in(h) con(h)spéc(h)tu(h) Al(h)tís(h)si(h)mi(h) de(h)pre(h)cá(f)bi(e)tur.(ef..) (::)}
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Os justi * Meditábitur sapiéntiam.
+R. Os justi * Meditábitur sapiéntiam.
+V. Et lingua ejus loquétur judícium.
+R. Meditábitur sapiéntiam.
+&Gloria
+R. Os justi * Meditábitur sapiéntiam.
+
+[Responsory Breve Nona]
+R.br. Lex Dei ejus * In corde ipsíus.
+R. Lex Dei ejus * In corde ipsíus.
+V. Et non supplantabúntur gressus ejus.
+R. In corde ipsíus.
+&Gloria
+R. Lex Dei ejus * In corde ipsíus.
+
+[Ant 3]
+Hic vir despíciens mundum * et terréna, triúmphans, divítias cælo cóndidit ore, manu.

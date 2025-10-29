@@ -1,0 +1,233 @@
+[Ant Vespera]
+Hoc est præcéptum meum, * ut diligátis ínvicem, sicut diléxi vos.
+Majórem caritátem * nemo habet, ut ánimam suam ponat quis pro amícis suis.
+Vos amíci mei estis, * si fecéritis quæ præcípio vobis, dicit Dóminus.
+Beáti pacífici, * beáti mundo corde: quóniam ipsi Deum vidébunt.
+In patiéntia vestra * possidébitis ánimas vestras.
+
+[Hymnus Vespera]
+{:H-Exsultetorbisgaudiis:}v. Exsúltet orbis gáudiis:
+Cælum resúltet láudibus:
+Apostolórum glóriam
+Tellus et astra cóncinunt.
+_
+Vos sæculórum júdices,
+Et vera mundi lúmina:
+Votis precámur córdium,
+Audíte voces súpplicum.
+_
+Qui templa cæli cláuditis,
+Serásque verbo sólvitis,
+Nos a reátu nóxios
+Solvi jubéte, quǽsumus.
+_
+Præcépta quorum prótinus
+Languor salúsque séntiunt:
+Sanáte mentes lánguidas:
+Augéte nos virtútibus.
+_
+Ut, cum redíbit árbiter
+In fine Christus sǽculi,
+Nos sempitérni gáudii
+Concédat esse cómpotes.
+_
+* Patri, simúlque Fílio,
+Tibíque Sancte Spíritus,
+Sicut fuit, sit júgiter
+Sæclum per omne glória.
+Amen.
+
+[HymnusM Vespera]
+Exsúltet cælum láudibus,
+Resúltet terra gáudiis:
+Apostolórum glóriam
+Sacra canunt solémnia.
+_
+Vos sæcli justi júdices,
+Et vera mundi lúmina,
+Votis precámur córdium,
+Audíte preces súpplicum.
+_
+Qui cælum verbo cláuditis,
+Serásque ejus sólvitis:
+Nos a peccátis ómnibus
+Sólvite jussu, quǽsumus.
+_
+Quorum præcépto súbditur,
+Salus, et languor ómnium:
+Sanáte ægros móribus,
+Nos reddéntes virtútibus.
+_
+Ut, cum Judex advénerit
+Christus in fine sǽculi,
+Nos sempitérni gáudii
+Fáciat esse cómpotes.
+_
+Deo Patri sit glória,
+Ejúsque soli Fílio,
+Cum Spíritu Paráclito,
+Et nunc, et in perpétuum.
+Amen.
+
+[Versum 1]
+{initial-style:0;%%(c3) V/. In(h) om(h)nem(h) ter(h)ram(h) ex(h)í(h)vit(h) so(h)nus(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)
+R/. Et(h) in(h) fi(h)nes(h) or(h)bis(h) ter(h)ræ(h) ver(h)ba(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
+
+[Ant 1]
+Tradent enim vos * in concíliis, et in synagógis suis flagellábunt vos, et ante reges et prǽsides ducémini propter me in testimónium illis, et Géntibus.
+
+[Invit]
+Regem Apostolórum Dóminum, * Veníte, adorémus.
+
+[Hymnus Matutinum]
+{:H-AeternaChristi:}v. Ætérna Christi múnera,
+Apostolórum glóriam,
+Palmas et hymnos débitos
+Lætis canámus méntibus.
+_
+Ecclesiárum Príncipes,
+Belli triumpháles duces,
+Cæléstis aulæ mílites,
+Et vera mundi lúmina.
+_
+Devóta Sanctórum fides,
+Invícta spes credéntium,
+Perfécta Christi cáritas
+Mundi tyránnum cónterit.
+_
+In his Patérna glória,
+In his triúmphat Fílius,
+In his volúntas Spíritus,
+Cælum replétur gáudio.
+_
+* Patri, simúlque Fílio,
+Tibíque Sancte Spíritus,
+Sicut fuit, sit júgiter
+Sæclum per omne glória.
+Amen.
+
+[HymnusMMatutinumUS]
+Te nunc, Redémptor, quǽsumus,
+Ut ipsórum consórtio
+Jungas precántes sérvulos
+In sempitérna sǽcula.
+
+[Ant Matutinum]
+In omnem terram * exívit sonus eórum, et in fines orbis terræ verba eórum.;;18
+Clamavérunt justi, * et Dóminus exaudívit eos.;;33
+Constítues eos * príncipes super omnem terram: mémores erunt nóminis tui, Dómine.;;44
+Príncipes populórum * congregáti sunt cum Deo Ábraham.;;46
+Dedísti hereditátem * timéntibus nomen tuum, Dómine.;;60
+Annuntiavérunt * ópera Dei, et facta ejus intellexérunt.;;63
+Exaltabúntur * córnua justi, allelúja.;;74
+Lux orta est * justo, allelúja, rectis corde lætítia, allelúja.;;96
+Custodiébant * testimónia ejus, et præcépta ejus, allelúja.;;98
+
+[Nocturn 2 Versum]
+{initial-style:0;%%(c3) V/. Con(h)stí(h)tu(h)es(h) e(h)os(h) prín(h)ci(h)pes(h) su(h)per(h) om(h)nem(h) ter(h hr)ram.(g_'/hvGFEfgf.) (::)
+R/.  Mé(h)mo(h)res(h) e(h)runt(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(hr)ne.(g_'/hvGFEfgf.) (::)}
+
+[Nocturn 3 Versum]
+{initial-style:0;%%(c3) V/. Ni(h)mis(h) ho(h)no(h)rá(h)ti(h) sunt(h) a(h)mí(h)ci(h) tu(h)i(h) De(h hr)us.(g_'/hvGFEfgf.) (::)
+R/.  Ni(h)mis(h) con(h)for(h)tá(h)tus(h) est(h) prin(h)ci(h)pá(h)tus(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
+
+[Responsory1]
+R. Ecce ego mitto vos sicut oves in médio lupórum, dicit Dóminus:
+* Estóte ergo prudéntes sicut serpéntes, et símplices sicut colúmbæ.
+V. Dum lucem habétis, crédite in lucem, ut fílii lucis sitis.
+R. Estóte ergo prudéntes sicut serpéntes, et símplices sicut colúmbæ.
+
+[Responsory2]
+R. Tóllite jugum meum super vos, dicit Dóminus, et díscite a me, quia mitis sum et húmilis corde:
+* Jugum enim meum suáve est, et onus meum leve.
+V. Et inveniétis réquiem animábus vestris.
+R. Jugum enim meum suáve est, et onus meum leve.
+
+[Responsory4]
+R. Vidi conjúnctos viros, habéntes spléndidas vestes, et Ángelus Dómini locútus est ad me, dicens:
+* Isti sunt viri sancti facti amíci Dei.
+V. Vidi Ángelum Dei fortem, volántem per médium cælum, voce magna clamántem et dicéntem.
+R. Isti sunt viri sancti facti amíci Dei.
+
+[Responsory5]
+R. Beáti estis, cum maledíxerint vobis hómines, et persecúti vos fúerint, et díxerint omne malum advérsum vos, mentiéntes, propter me:
+* Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis.
+V. Cum vos óderint hómines, et cum separáverint vos, et exprobráverint, et ejécerint nomen vestrum tamquam malum propter Fílium hóminis.
+R. Gaudéte et exsultáte, quóniam merces vestra copiósa est in cælis.
+
+[Responsory6]
+R. Isti sunt triumphatóres et amíci Dei, qui contemnéntes jussa príncipum, meruérunt prǽmia ætérna:
+* Modo coronántur, et accípiunt palmam.
+V. Isti sunt qui venérunt ex magna tribulatióne, et lavérunt stolas suas in sánguine Agni.
+R. Modo coronántur, et accípiunt palmam.
+&Gloria
+R. Modo coronántur, et accípiunt palmam.
+
+[Responsory7]
+R. Isti sunt qui vivéntes in carne, plantavérunt Ecclésiam sánguine suo:
+* Cálicem Dómini bibérunt, et amíci Dei facti sunt.
+V. In omnem terram exívit sonus eórum, et in fines orbis terræ verba eórum.
+R. Cálicem Dómini bibérunt, et amíci Dei facti sunt.
+
+[Responsory8]
+R. Isti sunt viri sancti, quos elégit Dóminus in caritáte non ficta, et dedit illis glóriam sempitérnam:
+* Quorum doctrína fulget Ecclésia, ut sole luna.
+V. Sancti per fidem vicérunt regna: operáti sunt justítiam.
+R. Quorum doctrína fulget Ecclésia, ut sole luna.
+&Gloria
+R. Quorum doctrína fulget Ecclésia, ut sole luna.
+
+[Capitulum Laudes]
+!Eph 2:19-20
+{(c3)Fra(h)tres:(h) Jam(h) non(h) es(h)tis(h) hós(h)pi(h)tes(h) et(h) ád(h)ve(f)næ:(f.) †(,) sed(h) es(h)tis(h) ci(h)ves(h) Sanc(h)tó(h)rum(h) et(h) do(h)més(h)ti(h)ci(h) De(h)i:(h) su(h)per(h)æ(h)di(h)fi(h)cá(h)ti(h) su(h)per(h) fun(h)da(h)mén(h)tum(h) A(h)pos(h)to(h)ló(h)rum,(h) et(h) Pro(g)phe(f)tá(h)rum,(h.) *(;) ip(h)so(h) sum(h)mo(h) an(h)gu(h)lá(h)ri(h) lá(h)pi(h)de(h) Chris(h)to(h) Je(f)su.(ef..) (::)}
+$Deo gratias
+
+[Versum 2]
+{initial-style:0;%%(c3) V/. An(h)nun(h)ti(h)a(h)vé(h)runt(h) ó(h)pe(h)ra(h) De(h hr)i.(g_'/hvGFEfgf.) (::)
+R/. Et(h) fac(h)ta(h) e(h)jus(h) in(h)tel(h)le(h)xé(h hr)runt.(g_'/hvGFEfgf.) (::)}
+
+[Ant 2]
+Vos qui reliquístis * ómnia, et secúti estis me, céntuplum accipiétis, et vitam ætérnam possidébitis.
+
+[Lectio Prima]
+!Act 5:41
+{(c3) I(h)bant(h) A(h)pós(h)to(h)li(h) gau(h)dén(h)tes(h) a(h) con(h)spéc(h)tu(g) con(f)cí(h)li(h)i,(h.) *(;) quón(h)i(h)am(h) di(h)gni(h) há(h)bi(h)ti(h) sunt(h) pro(h) nó(h)mi(h)ne(h) Je(h)su(h) con(h)tu(h)mé(h)li(h)am(h) pa(f)ti.(ef..) (::)}
+
+[Responsory Breve Tertia]
+R.br. In omnem terram * Exívit sonus eórum.
+R. In omnem terram * Exívit sonus eórum.
+V. Et in fines orbis terræ verba eórum.
+R. Exívit sonus eórum.
+&Gloria
+R. In omnem terram * Exívit sonus eórum.
+
+[Capitulum Sexta]
+!Act 5:12
+{(c3) Per(h) ma(h)nus(h) au(h)tem(h) A(h)pos(g)to(f)ló(h)rum(h.) *(;) fi(h)é(h)bant(h) si(h)gna(h) et(h) prod(h)í(h)gi(h)a(h) mul(h)ta(h) in(h) ple(f)be.(ef..) (::)}
+$Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Constítues eos príncipes * Super omnem terram.
+R. Constítues eos príncipes * Super omnem terram.
+V. Mémores erunt nóminis tui, Dómine.
+R. Super omnem terram.
+&Gloria
+R. Constítues eos príncipes * Super omnem terram.
+
+[Responsory Breve Nona]
+R.br. Nimis honoráti sunt * Amíci tui, Deus.
+R. Nimis honoráti sunt * Amíci tui, Deus.
+V. Nimis confortátus est principátus eórum.
+R. Amíci tui, Deus.
+&Gloria
+R. Nimis honoráti sunt * Amíci tui, Deus.
+
+[Ant Vespera 3]
+Jurávit Dóminus, * et non pœnitébit eum: Tu es sacérdos in ætérnum.;;109
+Cóllocet eum * Dóminus cum princípibus pópuli sui.;;112
+Dirupísti, Dómine, * víncula mea: tibi sacrificábo hóstiam laudis.;;115
+Eúntes ibant * et flebant, mitténtes sémina sua.;;125
+Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.;;138
+
+[Ant 3]
+Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum, allelúja.

@@ -70,11 +70,15 @@ Per cuncta tibi sǽcula.
 Amen.
 
 [Versum 1]
-V. Lætámini in Dómino, et exsultáte justi.
-R. Et gloriámini omnes recti corde.
+{initial-style:0;%%(c3) V/. Læ(h)tá(h)mi(h)ni(h) in(h) Dó(h)mi(h)no,(h) et(h) ex(h)sul(h)tá(h)te(h) jus(h hr)ti.(g_'/hvGFEfgf.) (::)
+R/. Et(h) glo(h)ri(h)á(h)mi(h)ni(h) om(h)nes(h) rec(h)ti(h) cor(h hr)de.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 Istórum est enim * regnum cælórum qui contempsérunt vitam mundi, et pervenérunt ad prǽmia regni, et lavérunt stolas suas in sánguine Agni.
+
+[Oratio]
+{(c3)Be(h)a(h)tó(h)rum(h) Már(h)ty(h)rum(h) pa(h)ri(h)tér(h)que(h) Pon(h)tí(h)fi(h)cum(h) N. et(h) N. nos,(h) quǽ(h)su(h)mus,(h) Dó(h)mi(h)ne,(h) fes(h)ta(h) tu(g)e(f)án(h hr)tur:(h.) *(;) et(h) e(h)ó(h)rum(h) com(h)mén(h)det(h) o(h)rá(h)ti(h)o(h) ve(h)ne(h)rán(h dr)da.(d.) (::)}
+$Per Dominum.
 
 [Hymnus Matutinum]
 {:H-Christoprofusum:}v. Christo profúsum sánguinem,
@@ -106,9 +110,82 @@ Amen.
 [HymnusM Matutinum]
 @:Hymnus Matutinum:s/Christo profúsum sánguinem/Ætérna Christi múnera/ s/Dignámque cælo láuream/Laudes canéntes débitas/ s/sequámur vócibus/canámus méntibus/
 
+[Ant Matutinum]
+Secus decúrsus aquárum * plantávit víneam justórum, et in lege Dómini fuit volúntas eórum.;;1
+Tamquam aurum * in fornáce probávit eléctos Dóminus: et quasi holocáusta accépit eos in ætérnum.;;2
+Si coram homínibus * torménta passi sunt, spes electórum est immortális in ætérnum.;;3
+Dabo Sanctis meis * locum nominátum in regno Patris mei, dicit Dóminus.;;14
+Sanctis, qui in terra sunt ejus, * mirificávit omnes voluntátes meas inter illos.;;15
+Sancti qui sperant in Dómino, * habébunt fortitúdinem, assúment pennas ut áquilæ, volábunt, et non defícient.;;23
+Justi autem * in perpétuum vivent, et apud Dóminum est merces eórum.;;32
+Tradidérunt * córpora sua in mortem, ne servírent idólis: ídeo coronáti póssident palmam.;;33
+Ecce merces * Sanctórum copiósa est apud Deum: ipsi vero mórtui sunt pro Christo, et vivent in ætérnum.;;45
+
+[Nocturn 2 Versum]
+{initial-style:0;%%(c3) V/. Ex(h)súl(h)tent(h) jus(h)ti(h) in(h) con(h)spéc(h)tu(h) De(h hr)i.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) de(h)lec(h)tén(h)tur(h) in(h) læ(h)tí(h)ti(hr)a.(g_'/hvGFEfgf.) (::)}
+
+[Nocturn 3 Versum]
+{initial-style:0;%%(c3) V/. Jus(h)ti(h) au(h)tem(h) in(h) per(h)pé(h)tu(h)um(h) vi(h hr)vent.(g_'/hvGFEfgf.) (::)
+R/.  Et(h) a(h)pud(h) Dó(h)mi(h)num(h) est(h) mer(h)ces(h) e(h)ó(h hr)rum.(g_'/hvGFEfgf.) (::)}
+
+[Responsory1]
+R. Abstérget Deus omnem lácrimam ab óculis Sanctórum: et jam non erit ámplius neque luctus, neque clamor, sed nec ullus dolor:
+* Quóniam prióra transiérunt.
+V. Non esúrient, neque sítient ámplius, neque cadet super illos sol, neque ullus æstus.
+R. Quóniam prióra transiérunt.
+
+[Responsory2]
+R. Viri sancti gloriósum sánguinem fudérunt pro Dómino, amavérunt Christum in vita sua, imitáti sunt eum in morte sua:
+* Et ídeo corónas triumpháles meruérunt.
+V. Unus spíritus, et una fides erat in eis.
+R. Et ídeo corónas triumpháles meruérunt.
+
+[Responsory3]
+R. Tradidérunt córpora sua propter Deum ad supplícia:
+* Et meruérunt habére corónas perpétuas.
+V. Isti sunt qui venérunt ex magna tribulatióne, et lavérunt stolas suas in sánguine Agni.
+R. Et meruérunt habére corónas perpétuas.
+&Gloria
+R. Et meruérunt habére corónas perpétuas.
+
+[Responsory4]
+R. Sancti tui, Dómine, mirábile consecúti sunt iter, serviéntes præcéptis tuis, ut inveniréntur illǽsi in aquis válidis:
+* Terra appáruit árida: et in Mari Rubro via sine impediménto.
+V. Quóniam percússit petram, et fluxérunt aquæ, et torréntes inundavérunt.
+R. Terra appáruit árida: et in Mari Rubro via sine impediménto.
+
+[Responsory5]
+R. Vérbera carníficum non timuérunt Sancti Dei, moriéntes pro Christi nómine:
+* Ut herédes fíerent in domo Dómini.
+V. Tradidérunt córpora sua propter Deum ad supplícia.
+R. Ut herédes fíerent in domo Dómini.
+
+[Responsory6]
+R. Tamquam aurum in fornáce probávit eléctos Dóminus, et quasi holocáusti hóstiam accépit illos: et in témpore erit respéctus illórum:
+* Quóniam donum et pax est eléctis Dei.
+V. Qui confídunt in illum, intélligent veritátem, et fidéles in dilectióne acquiéscent illi.
+R. Quóniam donum et pax est eléctis Dei.
+&Gloria
+R. Quóniam donum et pax est eléctis Dei.
+
+[Responsory7]
+R. Propter testaméntum Dómini, et leges patérnas, Sancti Dei perstitérunt in amóre fraternitátis:
+* Quia unus fuit semper spíritus in eis, et una fides.
+V. Ecce quam bonum et quam jucúndum habitáre fratres in unum.
+R. Quia unus fuit semper spíritus in eis, et una fides.
+
+[Responsory8]
+R. Sancti mei, qui in carne pósiti, certámen habuístis:
+* Mercédem labóris ego reddam vobis.
+V. Veníte benedícti Patris mei, percípite regnum.
+R. Mercédem labóris ego reddam vobis.
+&Gloria
+R. Mercédem labóris ego reddam vobis.
+
 [Capitulum Laudes]
 !Sap 3:1-3
-v. Justórum ánimæ in manu Dei sunt, et non tanget illos torméntum mortis. Visi sunt óculis insipiéntium mori: illi autem sunt in pace.
+{(c3) Jus(h)tó(h)rum(h) á(h)ni(h)mæ(h) in(h) ma(h)nu(h) De(h)i(h) sunt,(h) et(h) non(h) tan(h)get(h) il(h)los(h) tor(h)mén(h)tum(h) mor(h)tis.(f.) †(,) Vi(h)si(h) sunt(h) ó(h)cu(h)lis(h) in(h)si(h)pi(h)én(h)ti(g)um(f) mo(h)ri:(h.) *(;) il(h)li(h) au(h)tem(h) sunt(h) in(h) pa(f)ce.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -144,6 +221,10 @@ Amen.
 [Ant 2]
 Vestri capílli cápitis * omnes numeráti sunt: nolíte timére: multis passéribus melióres estis vos.
 
+[Lectio Prima]
+!Sap 3:7-8
+{(c3) Ful(h)gé(h)bunt(h) jus(h)ti,(h) et(h) tam(h)quam(h) scin(h)tíl(h)læ(h) in(h) a(h)run(h)di(h)né(h)to(h) dis(h)cúr(h)rent.(f.) †(,) Ju(h)di(h)cá(h)bunt(h) na(h)ti(h)ó(h)nes,(h) et(h) do(h)mi(h)na(h)bún(g)tur(f) pó(h)pu(h)lis:(h.) *(;) et(h) re(h)gná(h)bit(h) Dó(h)mi(h)nus(h) il(h)ló(h)rum(h) in(h) per(h)pé(f)tu(e)um.(ef..) (::)}
+
 [Responsory Breve Tertia]
 R.br. Lætámini in Dómino, * Et exsultáte justi.
 R. Lætámini in Dómino, * Et exsultáte justi.
@@ -154,8 +235,8 @@ R. Lætámini in Dómino, * Et exsultáte justi.
 
 [Capitulum Sexta]
 !Sap 10:17
-v. Réddidit Deus mercédem labórum sanctórum suórum, et dedúxit illos in via mirábili: et fuit illis in velaménto diéi, et in luce stellárum nocte.
-$Deo gratias.
+{(c3) Réd(h)di(h)dit(h) De(h)us(h) mer(h)cé(h)dem(h) la(h)bó(h)rum(h) sanc(h)tó(h)rum(h) su(h)ó(h)rum,(f.) †(,) et(h) de(h)dú(h)xit(h) il(h)los(h) in(h) vi(h)a(h) mi(h)rá(h)bi(h)li:(h) et(h) fu(h)it(h) il(h)lis(h) in(h) ve(h)la(h)mén(h)to(g) di(f)é(h)i,(h.) *(;) et(h) in(h) lu(h)ce(h) stel(h)lá(h)rum(h) noc(f)te.(ef..) (::)}
+$Deo gratias
 
 [Responsory Breve Sexta]
 {gabc:Commune/C3/rb--exsultent_justi--solesmes_1934}
@@ -164,8 +245,16 @@ $Deo gratias.
 
 [Capitulum Nona]
 !Sap 3:7-8
-v. Fulgébunt justi, et tamquam scintíllæ in arundinéto discúrrent. Judicábunt natiónes, et dominabúntur pópulis: et regnábit Dóminus illórum in perpétuum.
-$Deo gratias.
+{(c3) Ful(h)gé(h)bunt(h) jus(h)ti,(h) et(h) tam(h)quam(h) scin(h)tíl(h)læ(h) in(h) a(h)run(h)di(h)né(h)to(h) dis(h)cúr(h)rent.(f.) †(,) Ju(h)di(h)cá(h)bunt(h) na(h)ti(h)ó(h)nes,(h) et(h) do(h)mi(h)na(h)bún(g)tur(f) pó(h)pu(h)lis:(h.) *(;) et(h) re(h)gná(h)bit(h) Dó(h)mi(h)nus(h) il(h)ló(h)rum(h) in(h) per(h)pé(f)tu(e)um.(ef..) (::)}
+$Deo gratias
+
+[Responsory Breve Nona]
+R.br. Justi autem * In perpétuum vivent.
+R. Justi autem * In perpétuum vivent.
+V. Et apud Dóminum est merces eórum.
+R. In perpétuum vivent.
+&Gloria
+R. Justi autem * In perpétuum vivent.
 
 [Ant Vespera 3]
 Isti sunt Sancti, * qui pro testaménto Dei sua córpora tradidérunt, et in sánguine Agni lavérunt stolas suas.;;109
@@ -176,3 +265,15 @@ In cæléstibus regnis * Sanctórum habitátio est, et in ætérnum réquies eó
 
 [Ant 3]
 Gaudent in cælis * ánimæ Sanctórum, qui Christi vestígia sunt secúti: et quia pro ejus amóre sánguinem suum fudérunt, ídeo cum Christo exsúltant sine fine.
+
+[Oratio3]
+{(c3)Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(h) ut,(h) qui(h) be(h)a(h)tó(h)rum(h) Már(h)ty(h)rum(h) tu(h)ó(h)rum(h) N. et(h) N. so(h)lém(h)ni(h)a(h) có(h)li(h)mus,(h) e(h)ó(h)rum(h) a(h)pud(h) te(h) in(h)ter(h)ces(h)si(h)ó(h)ni(h)bus(h) ad(g)ju(f)vé(h hr)mur.(h.) (::)}
+$Per Dominum
+
+[Responsory8 in 2 loco]
+R. Hæc est vera fratérnitas, quæ numquam pótuit violári certámine: qui effúso sánguine secúti sunt Dóminum:
+* Contemnéntes aulam régiam, pervenérunt ad regna cæléstia.
+V. Ecce quam bonum et quam jucúndum habitáre fratres in unum.
+R. Contemnéntes aulam régiam, pervenérunt ad regna cæléstia.
+&Gloria
+R. Contemnéntes aulam régiam, pervenérunt ad regna cæléstia.

@@ -73,17 +73,93 @@ Trinus et unus.
 Amen.
 
 [Versum 1]
-V. Amávit eum Dóminus, et ornávit eum.
-R. Stolam glóriæ índuit eum.
+{initial-style:0;%%(c3) V/. A(h)má(h)vit(h) e(h)um(h) Dó(h)mi(h)nus,(h) et(h) or(h)ná(h)vit(h) e(h hr)um.(g_'/hvGFEfgf.) (::)
+R/. Sto(h)lam(h) gló(h)ri(h)æ(h) índ(h)u(h)it(h) e(h hr)um.(g_'/hvGFEfgf.) (::)}
 
 [Ant 1]
 {name:Sacerdos et Pontifex;office-part:Antiphona;tone:1D;annotation:1.D;book:Liber antiphonarius, 1960, p. [55] & Liber antiphonarius, 1960, p. 577.15 & Liber antiphonarius, 1960, p. 81star;transcriber:Andrew Hinkley;%%(c4) SA(d)cér(dd)dos(c) et(d) Pón(f_g)ti(d)fex,(d_fddc.) *(,) et(f') vir(g)tú(h)tum(g') ó(h)pi(gf)fex,(f.) (;) pa(h)stor(g') bo(h)ne(g') in(f) pó(fe)pu(fg)lo:(gvF'_ED.) (;) o(dd)ra(c) pro(d') no(f)bis(fgf) Dó(d)mi(cd)num.(d.) (::)};;1D
 
-[Responsory3] (tempore paschali)
-{gabc:Commune/C4/re--juravitdominus--sandhofe-TP}
+[Oratio]
+{(c3)Da,(h) quǽ(h)su(h)mus,(h) om(h)ní(h)pot(h)ens(h) De(h)us:(f.) †(;) ut(h) be(h)á(h)ti(h) N. Con(h)fes(h)só(h)ris(h) tu(h)i(h) at(h)que(h) Pon(h)tí(h)fi(h)cis(h) ve(h)ne(h)rán(h)da(g) so(f)lém(h)ni(hr)tas,(h.) *(;) et(h) de(h)vo(h)ti(h)ó(h)nem(h) no(h)bis(h) áu(h)ge(h)at(h) et(h) sa(h)lú(h dr)tem.(d.) (::)}
+$Per Dominum.
+
+[Invit]
+Regem Confessórum Dóminum, * Veníte, adorémus.
+
+[Ant Matutinum]
+Beátus vir, * qui in lege Dómini meditátur: volúntas ejus pérmanet die ac nocte, et ómnia quæcúmque fáciet, semper prosperabúntur.;;1
+Beátus iste Sanctus, * qui confísus est in Dómino, prædicávit præcéptum Dómini, constitútus est in monte sancto ejus.;;2
+Tu es glória mea, * tu es suscéptor meus, Dómine; tu exáltans caput meum, et exaudísti me de monte sancto tuo.;;3
+Invocántem * exaudívit Dóminus Sanctum suum; Dóminus exaudívit eum, et constítuit eum in pace.;;4
+Læténtur omnes * qui sperant in te, Dómine; quóniam tu benedixísti justo, scuto bonæ voluntátis tuæ coronásti eum.;;5
+Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra! quia glória et honóre coronásti Sanctum tuum, et constituísti eum super ópera mánuum tuárum.;;8
+Dómine, * iste Sanctus habitábit in tabernáculo tuo, operátus est justítiam, requiéscet in monte sancto tuo.;;14
+Vitam pétiit * a te, et tribuísti ei, Dómine: glóriam et magnum decórem imposuísti super eum; posuísti in cápite ejus corónam de lápide pretióso.;;20
+Hic accípiet * benedictiónem a Dómino, et misericórdiam a Deo salutári suo: quia hæc est generátio quæréntium Dóminum.;;23
+
+[Nocturn 2 Versum]
+{initial-style:0;%%(c3) V/. E(h)lé(h)git(h) e(h)um(h) Dó(h)mi(h)nus(h) sa(h)cer(h)dó(h)tem(h) si(h hr)bi.(g_'/hvGFEfgf.) (::)
+R/.  Ad(h) sa(h)cri(h)fi(h)cán(h)dum(h) e(h)i(h) hós(h)ti(h)am(h) lau(h hr)dis.(g_'/hvGFEfgf.) (::)}
+
+[Nocturn 3 Versum]
+{initial-style:0;%%(c3) V/. Tu(h) es(h) sa(h)cér(h)dos(h) in(h) æ(h)tér(h hr)num.(g_'/hvGFEfgf.) (::)
+R/.  Se(h)cún(h)dum(h) ór(h)di(h)nem(h) Mel(h)chí(h)se(hr)dech.(g_'/hvGFEfgf.) (::)}
+
+[Responsory1]
+R. Euge, serve bone et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam:
+* Intra in gáudium Dómini tui.
+V. Dómine, quinque talénta tradidísti mihi, ecce ália quinque superlucrátus sum.
+R. Intra in gáudium Dómini tui.
+
+[Responsory2]
+R. Ecce sacérdos magnus, qui in diébus suis plácuit Deo:
+* Ideo jurejurándo fecit illum Dóminus créscere in plebem suam.
+V. Benedictiónem ómnium géntium dedit illi, et testaméntum suum confirmávit super caput ejus.
+R. Ideo jurejurándo fecit illum Dóminus créscere in plebem suam.
 
 [Responsory3]
 {gabc:Commune/C4/re--juravitdominus--sandhofe}
+(sed tempore paschali)
+{gabc:Commune/C4/re--juravitdominus--sandhofe-TP}
+
+[Responsory4]
+R. Invéni David servum meum, óleo sancto meo unxi eum:
+* Manus enim mea auxiliábitur ei.
+V. Nihil profíciet inimícus in eo, et fílius iniquitátis non nocébit ei.
+R. Manus enim mea auxiliábitur ei.
+
+[Responsory5]
+R. Pósui adjutórium super poténtem, et exaltávi eléctum de plebe mea:
+* Manus enim mea auxiliábitur ei.
+V. Invéni David servum meum, óleo sancto meo unxi eum.
+R. Manus enim mea auxiliábitur ei.
+
+[Responsory6]
+R. Iste est, qui ante Deum magnas virtútes operátus est, et omnis terra doctrína ejus repléta est:
+* Ipse intercédat pro peccátis ómnium populórum.
+V. Iste est, qui contémpsit vitam mundi, et pervénit ad cæléstia regna.
+R. Ipse intercédat pro peccátis ómnium populórum.
+&Gloria
+R. Ipse intercédat pro peccátis ómnium populórum.
+
+[Responsory7]
+R. Amávit eum Dóminus, et ornávit eum: stolam glóriæ índuit eum,
+* Et ad portas paradísi coronávit eum.
+V. Induit eum Dóminus lorícam fídei, et ornávit eum.
+R. Et ad portas paradísi coronávit eum.
+
+[Responsory8]
+R. Sint lumbi vestri præcíncti, et lucérnæ ardéntes in mánibus vestris:
+* Et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis.
+V. Vigiláte ergo, quia nescítis qua hora Dóminus vester ventúrus sit.
+R. Et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis.
+&Gloria
+R. Et vos símiles homínibus exspectántibus dóminum suum, quando revertátur a núptiis.
+
+[Capitulum Laudes]
+!Sir 44:16-17
+{(c3) Ec(h)ce(h) sa(h)cér(h)dos(h) ma(h)gnus,(f.) †(,) qui(h) in(h) di(h)é(h)bus(h) su(h)is(h) plá(h)cu(h)it(h) De(h)o,(h) et(h) in(h)vén(h)tus(g) est(f) jus(h)tus:(h.) *(;) et(h) in(h) tém(h)po(h)re(h) i(h)ra(h)cún(h)di(h)æ(h) fac(h)tus(h) est(h) re(h)con(h)ci(h)li(h)á(f)ti(e)o.(ef..) (::)}
+$Deo gratias
 
 [Hymnus Laudes]
 {:H-Jesuredemptoromnium:}v. Jesu Redémptor ómnium,
@@ -116,17 +192,45 @@ Amen.
 @:Hymnus Laudes:s/Indúlgeas precántibus/Nostris favéto précibus/ s/Æternitátis prǽmio/Cum Ángelis cæléstibus/ s/Potítur inter Ángelos/Lætus potítur prǽmiis/ s/Nunc, et per omne sǽculum/Et nunc, et in perpétuum/
 
 [Versum 2]
-{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_0hGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_0hGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas.(g_'/hvGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i.(g_'/hvGF'Efgf.) (::)}
 (sed tempore paschali)
-{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(h_') (,) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)lú(h)ja.(g_0hGF'Efgf.) (::)}
+{initial-style:0;%%(c3) V/. Jus(h)tum(h) de(h)dú(h)xit(h) Dó(h)mi(h)nus(h) per(h) vi(h)as(h) rec(h)tas,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::) R/. Et(h) os(h)tén(h)dit(h) il(h)li(h) reg(h)num(h) De(h)i,(h_') (,) al(h)le(h)lú(h)ja.(g_'/hvGF'Efgf.) (::)}
 
 [Ant 2]
 Euge, serve bone * et fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, dicit Dóminus.
 
+[Lectio Prima]
+!Sir 45:19-20
+{(c3) Fun(h)gi(h) sa(h)cer(h)dó(h)ti(f)o,(f.) †(,) et(h) ha(h)bé(h)re(h) lau(h)dem(h) in(h) nó(h)mi(h)ne(g) ip(f)sí(h)us,(h.) *(;) et(h) of(h)fér(h)re(h) il(h)li(h) in(h)cén(h)sum(h) di(h)gnum(h) in(h) o(h)dó(h)rem(h) su(h)a(h)vi(h)tá(f)tis.(ef..) (::)}
+
+[Responsory Breve Tertia]
+R.br. Amávit eum Dóminus, * Et ornávit eum.
+R. Amávit eum Dóminus, * Et ornávit eum.
+V. Stolam glóriæ índuit eum.
+R. Et ornávit eum.
+&Gloria
+R. Amávit eum Dóminus, * Et ornávit eum.
+
 [Capitulum Sexta]
 !Sir 44:20; 44:22
-v. Non est invéntus símilis illi, qui conserváret legem Excélsi: ídeo jurejurándo fecit illum Dóminus créscere in plebem suam.
+{(c3) Non(h) est(h) in(h)vén(h)tus(h) sí(h)mi(h)lis(h) il(h)li,(f.) †(,) qui(h) con(h)ser(h)vá(h)ret(h) le(h)gem(g) Ex(f)cél(h)si:(h.) *(;) íd(h)e(h)o(h) ju(h)re(h)ju(h)rán(h)do(h) fe(h)cit(h) il(h)lum(h) Dó(h)mi(h)nus(h) cré(h)sce(h)re(h) in(h) ple(h)bem(h) su(f)am.(ef..) (::)}
 $Deo gratias
+
+[Responsory Breve Sexta]
+R.br. Elégit eum Dóminus * Sacerdótem sibi.
+R. Elégit eum Dóminus * Sacerdótem sibi.
+V. Ad sacrificándum ei hóstiam laudis.
+R. Sacerdótem sibi.
+&Gloria
+R. Elégit eum Dóminus * Sacerdótem sibi.
+
+[Responsory Breve Nona]
+R.br. Tu es sacérdos * In ætérnum.
+R. Tu es sacérdos * In ætérnum.
+V. Secúndum órdinem Melchísedech.
+R. In ætérnum.
+&Gloria
+R. Tu es sacérdos * In ætérnum.
 
 [Ant 3 summi Pontificis]
 Dum esset Summus Póntifex, * terréna non métuit, sed ad cæléstia regna gloriósus migrávit.
