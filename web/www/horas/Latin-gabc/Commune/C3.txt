@@ -6,68 +6,10 @@ Mártyres Dómini * Dóminum benedícite in ætérnum.
 Mártyrum chorus * laudáte Dóminum de cælis, allelúja.
 
 [Hymnus Vespera]
-{:H-Sanctorummeritis:}v. Sanctórum méritis ínclita gáudia
-Pangámus, sócii, géstaque fórtia:
-Gliscens fert ánimus prómere cántibus
-Victórum genus óptimum.
-_
-Hi sunt, quos fátue mundus abhórruit;
-Hunc fructu vácuum, flóribus áridum
-Contempsére tui nóminis ásseclæ
-Jesu, Rex bone cǽlitum.
-_
-Hi pro te fúrias, atque minas truces
-Calcárunt hóminum, sǽvaque vérbera:
-His cessit lácerans fórtiter úngula,
-Nec carpsit penetrália.
-_
-Cædúntur gládiis more bidéntium:
-Non murmur résonat, non quærimónia;
-Sed corde impávido mens bene cónscia
-Consérvat patiéntiam.
-_
-Quæ vox, quæ póterit lingua retéxere,
-Quæ tu Martýribus múnera prǽparas?
-Rubri nam flúido sánguine fúlgidis
-Cingunt témpora láureis.
-_
-Te, summa o Déitas, únaque póscimus;
-Ut culpas ábigas, nóxia súbtrahas,
-Des pacem fámulis; ut tibi glóriam,
-Annórum in sériem, canant.
-Amen.
+{gabc:Commune/C3/hy--sanctorum_meritis--solesmes_1961.1}
 
 [HymnusM Vespera]
-v. Sanctórum méritis ínclyta gáudia
-Pangámus, sócii, géstaque fórtia:
-Nam gliscit ánimus prómere cántibus
-Victórum genus óptimum.
-_
-Hi sunt quos rétinens mundus inhórruit:
-Ipsum nam stérili flore peráridum
-Sprevére pénitus, teque secúti sunt,
-Rex Christe bone cǽlitus.
-_
-Hi pro te fúrias atque ferócia
-Calcárunt hóminum, sǽvaque vérbera:
-Cessit his lácerans fórtiter úngula,
-Nec carpsit penetrália.
-_
-Cædúntur gládiis more bidéntium:
-Non murmur résonat, non querimónia:
-Sed corde tácito mens bene cónscia
-Consérvat patiéntiam.
-_
-Quæ vox, quæ póterit lingua retéxere,
-Quæ tu Martyribus múnera prǽparas?
-Rubri nam flúido sánguine láureis
-Ditántur bene fúlgidis.
-_
-Te summa Déitas únaque póscimus,
-Ut culpas ábluas, nóxia súbtrahas,
-Des pacem fámulis, nos quoque glóriam
-Per cuncta tibi sǽcula.
-Amen.
+{gabc:Commune/C3/hy--sanctorum_meritis--solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Læ(h)tá(h)mi(h)ni(h) in(h) Dó(h)mi(h)no,(h) et(h) ex(h)sul(h)tá(h)te(h) jus(h hr)ti.(g_'/hvGFEfgf.) (::)
@@ -189,29 +131,34 @@ R. Mercédem labóris ego reddam vobis.
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-Rexgloriosemartyrum:}v. Rex glorióse Mártyrum,
-Coróna confiténtium,
-Qui respuéntes térrea
-Perdúcis ad cæléstia:
-_
-Aurem benígnam prótinus
-Inténde nostris vócibus:
-Trophǽa sacra pángimus:
-Ignósce quod delíquimus.
-_
-Tu vincis inter Mártyres
-Parcísque Confessóribus:
-Tu vince nostra crímina,
-Largítor indulgéntiæ.
-_
-* Deo Patri sit glória,
-Ejúsque soli Fílio,
-Cum Spíritu Paráclito,
-Nunc, et per omne sǽculum.
-Amen.
+{gabc:Commune/C3/hy--rex_gloriose_martyrum--solesmes_1961.1}
+(sed tempore Cordis nisi rubrica 1960)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum-octava Cordis-solesmes_1961.1}
+(sed tonus BMV nisi rubrica 1960 aut tempore Corpus nisi rubrica 1960)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum-octava BMV-solesmes_1961.1}
+
+[Hymnus Laudes] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum_tempore_paschali--solesmes}
+(sed tempore ascensionis)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum_in_ascensione--}
+(sed tonus BMV)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum_TP-octava BMV--}
+(sed rubrica 1960)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum_tempore_paschali--solesmes-1960}
 
 [HymnusM Laudes]
-@:Hymnus Laudes:s/Inténde/Appóne/ s/inter Mártyres/in Martýribus,/ s/Parcísque/Parcéndo/ s/Largítor indulgéntiæ/Donándo indulgéntiam/ s/Nunc, et per omne sǽculum/Et nunc et in perpétuum/
+{gabc:Commune/C3/hy--rex_gloriose_martyrum--solesmes_1934}
+(sed tempore Cordis)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum-octava Cordis-solesmes_1934}
+(sed tempore Corpus aut tonus BMV)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum-octava BMV-solesmes_1934}
+
+[HymnusM Laudes] (tempore paschali aut tempore ascensionis)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum-TP-solesmes_1934}
+(sed tempore ascensionis)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum-TA-solesmes_1934}
+(sed tonus BMV)
+{gabc:Commune/C3/hy--rex_gloriose_martyrum-TP-octava BMV-solesmes_1934}
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. Ex(h)sul(h)tá(h)bunt(h) San(h)cti(h) in(h) gló(h)ri(hr)a.(g_hGF'E!fgf.) (::) R/. Læ(h)ta(h)bún(h)tur(h) in(h) cu(h)bí(h)li(h)bus(h) su(h)is.(g_hGF'E!fgf.) (::)}

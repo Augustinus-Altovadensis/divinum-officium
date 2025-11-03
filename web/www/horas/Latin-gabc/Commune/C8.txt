@@ -6,78 +6,10 @@ Bene fundáta est * domus Dómini supra firmam petram.;;112
 Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur.;;147
 
 [Hymnus Vespera]
-{:H-Caelestisurbs:}v. Cæléstis urbs Jerúsalem,
-Beáta pacis vísio,
-Quæ celsa de vivéntibus
-Saxis ad astra tólleris,
-Sponsǽque ritu cíngeris
-Mille Angelórum míllibus.
-_
-O sorte nupta próspera,
-Dotáta Patris glória,
-Respérsa Sponsi grátia,
-Regína formosíssima,
-Christo jugáta Príncipi,
-Cæli corúsca cívitas.
-_
-Hic margarítis émicant,
-Paténtque cunctis óstia;
-Virtúte namque prǽvia
-Mortális illuc dúcitur,
-Amóre Christi pércitus
-Torménta quisquis sústinet.
-_
-Scalpri salúbris íctibus
-Et tunsióne plúrima,
-Fabri políta málleo
-Hanc saxa molem cónstruunt,
-Aptísque juncta néxibus
-Locántur in fastígio.
-_
-Decus Parénti débitum
-Sit usquequáque Altíssimo,
-Natóque Patris único,
-Et ínclito Paráclito,
-Cui laus, potéstas, glória 
-Ætérna sit per sǽcula.
-Amen.
+{gabc:Commune/C8/hy--caelestis_urbs_jerusalem--solesmes_1961.1}
 
 [HymnusM Vespera]
-v. Urbs Jerúsalem beáta,
-Dicta pacis vísio,
-Quæ constrúitur in cælis
-Vivis ex lapídibus,
-Et Ángelis coronáta
-Ut sponsáta cómite.
-_
-Nova véniens e cælo,
-Nuptiáli thálamo
-Præparáta, ut sponsáta
-Copulétur Dómino:
-Platéæ et muri ejus
-Ex auro puríssimo.
-_
-Portæ nitent margarítis
-Ádytis paténtibus,
-Et virtúte meritórum
-Illuc introdúcitur
-Omnis qui ob Christi nomen
-Hic in mundo prémitur.
-_
-Tunsiónibus, pressúris
-Expolíti lápides,
-Suis coaptántur locis
-Per manus artíficis,
-Disponúntur permansúri
-Sacris ædifíciis.
-_
-Glória et honor Deo
-Usquequáqu[e] altíssimo,
-Una Patri, Filióque,
-Inclyto Paráclito,
-Cui laus est et potéstas
-Per ætérna sǽcula.
-Amen.
+{gabc:Commune/C8/hy--urbs_jerusalem_beata--solesmes_1934}
 
 [Versum 1]
 {initial-style:0;%%(c3) V/. Hæc(h) est(h) do(h)mus(h) Dó(h)mi(h)ni(h) fír(h)mi(h)ter(h) æ(h)di(h)fi(h)cá(h hr)ta.(g_'/hvGFEfgf.) (::)
@@ -180,78 +112,10 @@ R. Et turres Jerúsalem gemmis ædificabúntur.
 $Deo gratias
 
 [Hymnus Laudes]
-{:H-Altoexolympi:}v. Alto ex Olýmpi vértice
-Summi Paréntis Fílius,
-Ceu monte deséctus lapis
-Terras in imas décidens,
-Domus supérnæ et ínfimæ
-Utrúmque junxit ángulum.
-_
-Sed illa sedes cǽlitum
-Semper resúltat láudibus,
-Deúmque trinum et únicum
-Jugi canóre prǽdicat: 
-Illi canéntes júngimur
-Almæ Siónis ǽmuli.
-_
-Hæc templa, Rex cæléstium,
-Imple benígno lúmine:
-Huc, o rogátus, ádveni,
-Plebísque vota súscipe,
-Et nostra corda júgiter
-Perfúnde cæli grátia.
-_
-Hic ímpetrent fidélium
-Voces precésque súpplicum
-Domus beátæ múnera,
-Partísque donis gáudeant:
-Donec, solúti córpore,
-Sedes beátas ímpleant.
-_
-Decus Parénti débitum
-Sit usquequáque Altíssimo,
-Natóque Patris único,
-Et ínclito Paráclito,
-Cui laus, potéstas, glória 
-Ætérna sit per sǽcula.
-Amen.
+{gabc:Commune/C8/hy--alto_ex_olympi_vertice--solesmes_1961.1}
 
 [HymnusM Laudes]
-v. Anguláris fundaméntum
-Lapis Christus missus est,
-Qui paríetum compáge
-In utróque néctitur,
-Quem Sion sancta suscépit,
-In quo credens pérmanet.
-_
-Omnis illa Deo sacra
-Et dilécta cívitas,
-Plena módulis, in laude,
-Et canóre júbilo,
-Trinum Deum unicúmque
-Cum fervóre prǽdicat.
-_
-Hoc in templo, summe Deus,
-Exorátus ádveni,
-Et cleménti bonitáte
-Precum vota súscipe,
-Largam benedictiónem
-Hic infúnde júgiter.
-_
-Hic promereántur omnes
-Petíta acquírere,
-Et adépta possidére,
-Cum Sanctis perénniter
-Paradísum introíre,
-Transláti in réquiem.
-_
-Glória et honor Deo
-Usquequáqu[e] altíssimo,
-Una Patri, Filióque,
-Inclyto Paráclito,
-Cui laus est et potéstas
-Per ætérna sǽcula.
-Amen.
+{gabc:Commune/C8/hy--angularis_fundamentum--solesmes_1934}
 
 [Ant 2]
 Zachǽe, * festínans descénde, quia hódie in domo tua opórtet me manére. At ille festínans descéndit, et suscépit illum gaudens in domum suam. Hódie huic dómui salus a Deo facta est, allelúja.
