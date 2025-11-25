@@ -1,15 +1,9 @@
-[Officium]
-Dominica in Albis in Octava Paschæ
-
 [Ant 1]
 {name:Cum esset sero;annotation:1.D;mode:1;book:The Liber Usualis, 1961, p. 807 & Liber antiphonarius, 1960, p. 456;transcriber:Andrew Hinkley;%%(c4) CUM(c) es(cd)set(d') se(d)ro(d') *() di(d)e(d') il(f)la(dcd) (,) u(c)na(d) sab(fd/fg'h)ba(fe)tó(d)rum,(d.) (;) et(dc~) fo(f')res(g) es(h)sent(gf~) clau(g_[uh:l]h)sae,(fv_ED.) (,) u(d)bi(d) e(dc)rant(f) di(g')scí(f)pu(gh)li(hg) con(fg)gre(hg)gá(gfg)ti,(d.) (;) ste(g)tit(g') Je(g)sus(h') in(g) mé(fg)di(f)o,(f.) (;) et(f) di(g)xit(f) e(e'_[oh:h])is :(f_) (,) Pax(gf) vo(fe)bis,(dc) al(d)le(fe)lú(d.){ia}.(d.) (::)};;1d
 
 [Oratio]
 Præsta, quǽsumus, omnípotens Deus: ut qui paschália festa perégimus, hæc, te largiénte, móribus et vita teneámus.
 $Per Dominum
-
-[Invit]
-@Tempora/Pasc0-0
 
 [Lectio1]
 De Epístola beáti Pauli Apóstoli ad Colossénses
@@ -46,9 +40,6 @@ R. Veníte, et vidéte, allelúja, allelúja.
 15 et pax Christi exsúltet in córdibus vestris, in qua et vocáti estis in uno córpore: et grati estóte.
 16 Verbum Christi hábitet in vobis abundánter, in omni sapiéntia, docéntes, et commonéntes vosmetípsos, psalmis, hymnis, et cánticis spirituálibus, in grátia cantántes in córdibus vestris Deo.
 17 Omne, quodcúmque fácitis in verbo aut in ópere, ómnia in nómine Dómini Jesu Christi, grátias agéntes Deo et Patri per ipsum.
-
-[Responsory3]
-@Tempora/Pasc0-0:Responsory2
 
 [Lectio4]
 Sermo sancti Augustíni Epíscopi

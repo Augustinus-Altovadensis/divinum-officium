@@ -1,32 +1,8 @@
-[Rank]
-Patrocinii St. Joseph Confessoris Sponsi B.M.V. Confessoris;;Duplex I classis;;6.5;;
-
-[Rank] (rubrica Newcal)
-@Tempora/Pasc2-3Feria:Rank
-
-[Rule]
-proper
-Psalmi Dominica
-Antiphonas horas
-9 lectiones;
-Psalm5 Vespera=116
-
 [Ant Vespera]
 @Sancti/03-19:Ant Vespera:1-2 s/;;\d*;;/;;;;/g
 {name:Ascendit autem Joseph;annotation:6. F;mode:6;book:Liber antiphonarius, 1960, p. 688;transcriber:Andrew Hinkley;%%(c4) A(f)scén(gh)dit(f') au(g)tem(fe) Jo(d)seph(d_g) *(,) a(e) Ga(f')li(g)laé(fh)a(h'_) (,) de(h) ci(g)vi(h')tá(ixi)te(gf) Ná(g)za(h)reth,(g.) (;) in(h) Ju(f)daé(hj)am(j'_) (,) in(j) ci(k')vi(j)tá(ixhi)tem(gf) Da(ixgig)vid,(h.) (;) quæ(f) vo(e)cá(de)tur(d) Bé(c)thle(d)hem,(fe) al(g)le(gh)lú(f.)ja.(f.) (::)};;;;6
 {name:Et venerunt festinantes;annotation:7. d;mode:7;book:Liber antiphonarius, 1960, p. 689;transcriber:Andrew Hinkley;%%(c3) ET(e) ve(ei)né(i)runt(h') *() fe(i)sti(k')nán(j)tes,(i!jwk.) (;) et(i) in(h)ve(ik)né(k')runt(k) Ma(j')rí(k)am(j') et(i) Jo(hi)seph,(i.) (;) et(e) in(f)fán(ed~)tem(e) pó(fh)si(g')tum(f) in(g') præ(h)sé(f')pi(e)o,(d) al(ef~)le(f)lú(e.)ja.(e.) (::)};;;;7d
 {name:Et ipse Jesus erat;annotation:7. d;mode:7;book:Liber antiphonarius, 1960, p. 689;transcriber:Andrew Hinkley;%%(c3) ET(e) i(e_i)pse(g_h) Je(i_j)sus(i'_) *(,) e(j)rat(i') in(h)cí(hi)pi(h)ens(h.) (,) qua(hf)si(g) an(h)nó(ij)rum(i) tri(h')gín(i)ta,(i.) (;) ut(e') pu(f)ta(e)bá(d!e'f)tur(f.) (,) fí(f_i)li(h)us(f') Jo(h)seph,(g_h) al(i'_)le(f)lú(e.)ja.(e.) (::)};;;;7d
-
-[Capitulum Vespera]
-!Gen 49:26
-v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
-$Deo gratias
-
-[Hymnus Vespera]
-@Sancti/03-19:Hymnus Vespera
-
-[Versum 1]
-@Sancti/03-19
 
 [Ant 1]
 {name:Cum esset desponsata ... allel.;annotation:3.a2;mode:3;book:Liber antiphonarius, 1960, p. 687;transcriber:Andrew Hinkley;%%(c4) CUM(e_d) es(g!hj)set(h) de(g)spon(h')sá(j)ta(j_i) *(,) Ma(i')ter(j) Je(k)su(l') Ma(k)rí(ji)a(hi) Jo(h)seph,(g.) (;) án(g')te(g)quam(i') con(g)ve(h)ní(fe)rent,(d.) (;) in(gh~)vén(g)ta(h) est(j') in(h) ú(j)te(j)ro(i) ha(g!hwi_g)bens(h_g) (,) de(e_f) Spí(g)ri(g)tu(g) San(fe)cto,(d.) (,) al(g!hj)le(gf)lú(e.)ja.(e.) (::)};;solemn3a2
@@ -38,23 +14,26 @@ $Qui vivis
 [Invit]
 Laudémus Deum nostrum * In veneratióne beáti Joseph, protectóris nostri, allelúja.
 
-[Hymnus Matutinum]
-@Tempora/Pasc2-3:Hymnus Vespera
-
 [Ant Matutinum]
 Ángelus Dómini * appáruit in somnis Joseph, dicens: Surge, et áccipe Púerum et Matrem ejus, et fuge in Ægýptum, et esto ibi usque dum dicam tibi, allelúja;;1
 ;;2
 ;;3
-V. Confitébor nómini tuo, allelúja.
-R. Quóniam adjútor et protéctor factus es mihi, allelúja.
 Ángelus Dómini * appáruit in somnis Joseph, dicens: Surge, et áccipe Púerum et Matrem ejus, et vade in terram Israël: defúncti sunt enim qui quærébant ánimam Púeri, allelúja;;4
 ;;5
 ;;6
-V. Réspice de cælo, et vide, et vísita víneam istam, allelúja.
-R. Et pérfice eam, allelúja.
 Consúrgens Joseph, * accépit Púerum et Matrem ejus, et venit in terram Israël: et habitávit in civitáte quæ vocátur Názareth, allelúja;;14
 ;;20
 ;;23
+
+[Nocturn 1 Versum]
+V. Confitébor nómini tuo, allelúja.
+R. Quóniam adjútor et protéctor factus es mihi, allelúja.
+
+[Nocturn 2 Versum]
+V. Réspice de cælo, et vide, et vísita víneam istam, allelúja.
+R. Et pérfice eam, allelúja.
+
+[Nocturn 3 Versum]
 V. Invocávi Dóminum, Patrem Dómini mei, allelúja.
 R. Ut non derelínquat me in die tribulatiónis, allelúja.
 
@@ -168,14 +147,15 @@ R. Et esto ibi usque dum dicam tibi, allelúja.
 Quamquam si étiam Lucas génitum díceret Joseph ab Heli, nec sic nos hoc verbum perturbáre debéret, ut áliud crederémus quam ab uno Evangelísta gignéntem, ab áltero adoptántem patrem fuísse commemorátum. Neque enim absúrde quisque dícitur non carne sed caritáte genuísse, quem fílium sibi adoptáverit. At vero étiam nos, quibus dedit Deus potestátem fílios ejus fíeri, de natúra atque substántia sua non nos génuit, sicut únicum Fílium, sed útique dilectióne adoptávit.
 &teDeum
 
-[Ant Laudes]
-@:Ant Vespera
+[Capitulum Laudes]
+!Gen 49:26
+v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
+$Deo gratias
 
 [Capitulum Laudes]
-@:Capitulum Vespera
-
-[Hymnus Laudes]
-@Sancti/03-19:Hymnus Matutinum
+!Gen 49:26
+v. Benedictiónes patris tui confortátæ sunt benedictiónibus patrum ejus, donec veníret Desidérium cóllium æternórum: fiant in cápite Joseph, et in vértice Nazarǽi inter fratres suos.
+$Deo gratias
 
 [Versum 2]
 {initial-style:0;%%(c3) V/. De(h)dís(h)ti(h) mi(h)hi(h) pro(h)tec(h)ti(h)ó(h)nem(h) sa(h)lú(h)tis(h) tu(hi)æ,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::) R/. Et(h) déx(h)te(h)ra(h) tu(h)a(h) sus(h)cé(hi)pit(hr) me,(h_0) (,) al(h)le(fe)lú(f_0h)ja.(hiH'Ghih.ghG'FE'fggf.) (::)}
@@ -187,48 +167,40 @@ Quamquam si étiam Lucas génitum díceret Joseph ab Heli, nec sic nos hoc verbu
 !Gen 49:22
 v. Fílius accréscens Joseph, fílius accréscens, et decórus aspéctu: fíliæ discurrérunt super murum.
 
-[Capitulum Tertia]
-@:Capitulum Vespera
-
-[Responsory Tertia]
+[Responsory Breve Tertia]
 R.br. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.
 R. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.
 V. Et príncipem omnis possessiónis suæ.
 R. Allelúja, allelúja.
 &Gloria
 R. Constítuit eum dóminum domus suæ, * Allelúja, allelúja.
-_
-V. Confitébor nómini tuo, allelúja.
-R. Quóniam adjútor et protéctor factus es mihi, allelúja.
 
 [Capitulum Sexta]
 !Gen 49:25
 v. Deus patris tui erit adjútor tuus, et Omnípotens benedícet tibi benedictiónibus cæli désuper.
 $Deo gratias
 
-[Responsory Sexta]
+[Responsory Breve Sexta]
 R.br. Confitébor nómini tuo, * Allelúja, allelúja.
 R. Confitébor nómini tuo, * Allelúja, allelúja.
 V. Quóniam adjútor et protéctor factus es mihi.
 R. Allelúja, allelúja.
 &Gloria
 R. Confitébor nómini tuo, * Allelúja, allelúja.
-_
+
+[Versum Sexta]
 V. Justus germinábit sicut lílium, allelúja.
 R. Et florébit in ætérnum ante Dóminum, allelúja.
 
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
-
-[Responsory Nona]
+[Responsory Breve Nona]
 R.br. Justus germinábit sicut lílium, * Allelúja, allelúja.
 R. Justus germinábit sicut lílium, * Allelúja, allelúja.
 V. Et florébit in ætérnum ante Dóminum.
 R. Allelúja, allelúja.
 &Gloria
 R. Justus germinábit sicut lílium, * Allelúja, allelúja.
-_
+
+[Versum Nona]
 V. Plantátus in domo Dómini, allelúja.
 R. In átriis domus Dei nostri, allelúja.
 
