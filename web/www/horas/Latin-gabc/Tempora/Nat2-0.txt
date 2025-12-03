@@ -33,14 +33,14 @@ Per cuncta semper sǽcula.
 Amen.
 
 [Versum 1]
-V. Sit nomen Dómini benedíctum, allelúja.
-R. Ex hoc nunc et usque in sǽculum, allelúja.
+{initial-style: 0;%%(c3) V/. Sit(h) no(h)men(h) Dó(h)mi(h)ni(h) be(h)ne(h)díc(h)tum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Ex(h) hoc(h) nunc(h) et(h) us(h)que(h) in(h) sǽ(h)cu(h)lum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 1]
 Fecit * mihi magna qui potens est, et sanctum Nomen ejus, allelúja.
 
 [Oratio]
-Deus, qui unigénitum Fílium tuum constituísti humáni géneris Salvatórem, et Jesum vocári jussísti: concéde propítius; ut, cujus sanctum nomen venerámur in terris, ejus quoque aspéctu perfruámur in cælis. 
+{(c3) De(h)us,(h) qui(h) u(h)ni(h)gé(h)ni(h)tum(h) Fí(h)li(h)um(h) tu(h)um(h) con(h)sti(h)tu(h)ís(h)ti(h) hu(h)má(h)ni(h) gé(h)ne(h)ris(h) Sal(h)va(h)tó(h)rem,(h) et(h) Je(h)sum(h) vo(h)cá(h)ri(h) jus(h)sís(h)ti:(f.) †(,) con(h)cé(h)de(h) pro(h)pí(h)ti(h)us;(h) ut,(h) cu(h)jus(h) sanc(h)tum(h) no(h)men(h) ve(h)ne(h)rá(h)mur(g) in(f) ter(h hr)ris,(h.) *(;) e(h)jus(h) quo(h)que(h) a(h)spéc(h)tu(h) per(h)fru(h)á(h)mur(h) in(h) cæ(h dr)lis.(d.) (::)}
 $Per eumdem
 
 [Invit]
@@ -85,12 +85,12 @@ Secúndum nomen tuum, * Deus, sic et laus tua in fines terræ: justítia plena e
 Cantáte Deo, * psalmum dícite nómini ejus: iter fácite ei, qui ascéndit super occásum, Dóminus nomen illi.;;97
 
 [Nocturn 1 Versum]
-V. Propter nomen tuum, Dómine, propitiáberis peccáto meo.
-R. Multum est enim.
+{initial-style:0;%%(c3) V/. Prop(h)ter(h) no(h)men(h) tu(h)um,(h) Dó(h)mi(h)ne,(h) pro(h)pi(h)ti(h)á(h)be(h)ris(h) pec(h)cá(h)to(h) me(h)o.(g_'/hvGF'E!fgf.) (::)
+R/. Mul(h)tum(h) est(h) e(h)nim.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 2 Versum]
-V. Propter glóriam nóminis tui, Dómine, líbera nos.
-R. Et propítius esto peccátis nostris propter nomen tuum.
+{initial-style: 0;%%(c3) V/. Prop(h)ter(h) gló(h)ri(h)am(h) nó(h)mi(h)nis(h) tu(h)i,(h) Dó(h)mi(h)ne,(h) lí(h)be(h)ra(h) nos.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) pro(h)pí(h)ti(h)us(h) es(h)to(h) pec(h)cá(h)tis(h) nos(h)tris(h) prop(h)ter(h) no(h)men(h) tu(h)um.(g_'/hvGF'E!fgf.) (::)}
 
 [Nocturn 3 Versum]
 @:Versum Tertia: s/[\,\.] al.*/./ig
@@ -212,8 +212,8 @@ Mérito sane, dum circumcíditur puer, qui natus est nobis, Salvátor vocátur; 
 &teDeum
 
 [Versum 0]
-V. Sit nomen Dómini benedictum.
-R. Ex hoc nunc et usque in sǽculum.
+{initial-style: 0;%%(c3) V/. Sit(h) no(h)men(h) Dó(h)mi(h)ni(h) be(h)ne(h)dic(h)tum.(g_'/hvGF'E!fgf.) (::)
+R/.Ex(h) hoc(h) nunc(h) et(h) us(h)que(h) in(h) sǽ(h)cu(h)lum.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant Laudes]
 Oleum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te.
@@ -224,7 +224,7 @@ Júvenes et vírgines, * senes cum junióribus laudáte nomen Dómini, quia exal
 
 [Capitulum Laudes]
 !Phil 2:8-10
-v. Fratres: Christus humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen, ut in nómine Jesu omne genu flectátur.
+{(c3) Fra(h)tres:(h.) (,) Chris(h)tus(h) hu(h)mi(h)li(h)á(h)vit(h) se(h)met(h)íp(h)sum,(h) fac(h)tus(h) ob(h)é(h)di(h)ens(h) us(h)que(h) ad(h) mor(h)tem,(h) mor(h)tem(h) au(h)tem(h) cru(h)cis.(f.) †(;) Prop(h)ter(h) quod(h) et(h) De(h)us(h) ex(h)al(h)tá(h)vit(h) il(h)lum,(h) et(h) do(h)ná(h)vit(h) il(h)li(h) no(h)men,(h) quod(h) est(h) su(h)per(h) om(g)ne(f) no(h hr)men,(h.) *(;) ut(h) in(h) nó(h)mi(h)ne(h) Je(h)su(h) om(h)ne(h) ge(h)nu(h) flec(h)tá(f)tur.(ef..) (::)}
 $Deo gratias
 
 [Hymnus Laudes]
@@ -255,14 +255,15 @@ Regnum beatitúdinis.
 Amen.
 
 [Versum 2]
-@:Versum Nona: s/[\,\.] al.*/./ig
+{initial-style: 0;%%(c3) V/. Ad(h)ju(h)tó(h)ri(h)um(h) nos(h)trum(h) in(h) no(h)mi(h)ne(h) Dó(h)mi(h)ni.(g_'/hvGF'E!fgf.) (::)
+R/.Qui(h) fe(h)cit(h) cæ(h)lum(h) et(h) ter(h)ram.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 2]
 Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.
 
 [Lectio Prima]
 !Col 3:17
-v. Omne quodcúmque fácitis in verbo, aut in ópere: ómnia in nómine Dómini Jesu Christi fácite, grátias agéntes Deo et Patri per ipsum.
+{(c3) Om(h)ne(h) quod(h)cúm(h)que(h) fá(h)ci(h)tis(h) in(h) ver(h)bo,(h) aut(h) in(h) ó(h)pe(f)re:(f.) †(;) óm(h)ni(h)a(h) in(h) nó(h)mi(h)ne(h) Dó(h)mi(h)ni(h) Je(h)su(h) Chris(g)ti(f) fá(h)ci(hr)te,(h.) *(;) grá(h)ti(h)as(h) a(h)gén(h)tes(h) De(h)o(h) et(h) Pa(h)tri(h) per(h) ip(f)sum.(ef..) (::)}
 
 [Responsory Breve Tertia]
 R.br. Sit nomen Dómini benedíctum, * Allelúja, allelúja.
@@ -273,12 +274,12 @@ R. Allelúja, allelúja.
 R. Sit nomen Dómini benedíctum, * Allelúja, allelúja.
 
 [Versum Tertia]
-V. Afférte Dómino glóriam et honórem, allelúja.
-R. Afférte Dómino glóriam nómini ejus, allelúja.
+{initial-style: 0;%%(c3) V/. Af(h)fér(h)te(h) Dó(h)mi(h)no(h) gló(h)ri(h)am(h) et(h) ho(h)nó(h)rem,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Af(h)fér(h)te(h) Dó(h)mi(h)no(h) gló(h)ri(h)am(h) nó(h)mi(h)ni(h) e(h)jus,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Capitulum Sexta]
 !Phil 2:10-11
-v. In nómine Jesu omne genu flectátur cæléstium, terréstrium, et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.
+{(c3) In(h) nó(h)mi(h)ne(h) Je(h)su(h) om(h)ne(h) ge(h)nu(h) flec(h)tá(h)tur(h) cæ(h)lés(h)ti(h)um,(h) ter(h)rés(h)tri(h)um,(h) et(h) in(h)fer(h)nó(h)rum:(f.) †(;) et(h) om(h)nis(h) lin(h)gua(h) con(h)fi(g)te(f)á(h hr)tur,(h.) *(;) qui(h)a(h) Dó(h)mi(h)nus(h) Je(h)sus(h) Chris(h)tus(h) in(h) gló(h)ri(h)a(h) est(h) De(h)i(h) Pa(f)tris.(ef..) (::)}
 $Deo gratias
 
 [Responsory Breve Sexta]
@@ -290,8 +291,8 @@ R. Allelúja, allelúja.
 R. Afférte Dómino glóriam et honórem, * Allelúja, allelúja.
 
 [Versum Sexta]
-V. Magnificáte Dóminum mecum, allelúja.
-R. Et exaltémus nomen ejus in idípsum, allelúja.
+{initial-style: 0;%%(c3) V/. Ma(h)gni(h)fi(h)cá(h)te(h) Dó(h)mi(h)num(h) me(h)cum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Et(h) ex(h)al(h)té(h)mus(h) no(h)men(h) e(h)jus(h) in(h) id(h)íp(h)sum,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Responsory Breve Nona]
 R.br. Magnificáte Dóminum mecum, * Allelúja, allelúja.
@@ -302,8 +303,8 @@ R. Allelúja, allelúja.
 R. Magnificáte Dóminum mecum, * Allelúja, allelúja.
 
 [Versum Nona]
-V. Adjutórium nostrum in nomine Dómini, allelúja.
-R. Qui fecit cælum et terram, allelúja.
+{initial-style: 0;%%(c3) V/. Ad(h)ju(h)tó(h)ri(h)um(h) nos(h)trum(h) in(h) no(h)mi(h)ne(h) Dó(h)mi(h)ni,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)
+R/.Qui(h) fe(h)cit(h) cæ(h)lum(h) et(h) ter(h)ram,(h) al(h)le(h)lú(h)ja.(g_'/hvGF'E!fgf.) (::)}
 
 [Ant 3]
 Vocábis * nomen ejus Jesum; ipse enim salvum fáciet pópulum suum a peccátis eórum, allelúja.
