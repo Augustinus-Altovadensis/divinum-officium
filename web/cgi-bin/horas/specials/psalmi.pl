@@ -105,8 +105,8 @@ sub psalmi_minor {
       $version =~ /19(?:55|60|62)/
       && (
            $rule =~ /horas1960 feria/i
-        || ($winner =~ /Sancti/i && $rank < 5)
-        || ( ($winner =~ /sancti/i || $winner =~ /Nat[23]/i)
+        || ($winner =~ /Sancti|C[1-7]/i && $rank < 5)
+        || ( ($winner =~ /Sancti|C[1-7]/i || $winner =~ /Nat[23]/i)
           && $rank < 6
           && $hora ne 'Completorium')
       )
@@ -429,88 +429,100 @@ sub psalmi_major {
     setbuild2('Special Laudes antiphonas for week before vigil of Christmas');
   }
 
-  #look for de tempore or Sancti
-  my ($w, $c);
-  my %w = columnsel($lang) ? %winner : %winner2;
-
-  if ($hora eq 'Vespera' && $vespera == 3) {
-    if (exists($w{'Ant Vespera 3'})) {
-      $w = $w{'Ant Vespera 3'};
-      $c = $winner =~ /Tempora/ ? 2 : 3;
-    } elsif (!exists($w{'Ant Vespera'})
-      && ($communetype =~ /ex/ || ($version =~ /Trident/i && $winner =~ /Sancti/i)))
-    {
-      ($w, $c) = getproprium('Ant Vespera 3', $lang, 1);
-      setbuild2("Antiphona $commune") if $w;
-    }
-  }
-
-  if (!$w && exists($w{"Ant $hora"})) {
-    $w = $w{"Ant $hora"};
-    $c = $winner =~ /Tempora/ ? 2 : 3;
-  }
-
-  if ($antecapitulum) {
-    $w = columnsel($lang) ? $antecapitulum : $antecapitulum2;
-    $c = 3;
-    setbuild2('Antiphonas ante Capitulum de praecedenti');
-  } elsif ($w) {
-    setbuild2("Antiphonas $winner");
-  } elsif (($communetype && $communetype =~ /ex/)
-    || ($version =~ /Trident/i && $hora eq 'Laudes' && $winner =~ /Sancti/))
-  {
-    ($w, $c) = getproprium("Ant $hora", $lang, 1);
-    setbuild2("Antiphona $commune") if $w;
-  }
-  if ($w) { @antiphones = split("\n", $w); $comment = $c; }
-
-  if ($lang =~ /gabc/ && @antiphones) {
-
-    # strip Psalm Tones from Antiphones
-    foreach my $myant (@antiphones) {
-      if ($myant =~ s/;;(.*);;(.*)/;;$1/) {
-        push(@psalmTones, $2);
-        $myant =~ s/;;\s*$//;
-      } else {
-        push(@psalmTones, '');
-      }
-    }
-  }
   my @p;
 
-  #Psalmi de dominica
-  if (
-    (
-         $rule =~ /Psalmi Dominica/i
-      || ($version =~ /cist/i && (($winner =~ /Sancti/i && $rank >= 2.2) || $antecapitulum))
-      || ($commune{Rule} && $commune{Rule} =~ /Psalmi Dominica/i)
-    )
-    && ($antiphones[0] !~ /\;\;\s*[0-9]+/)
-    && ($rule !~ /Psalmi Feria/i)
-  ) {
-    $prefix = translate("Psalmi, antiphonae", $lang) . ' ';
-    my $h = $hora;
-    $h .= '1' if $hora eq 'Laudes' && $version !~ /Monastic/;
-    @p = split("\n", $psalmi{"Day0 $h"});
+  if ($rule =~ /Psalmi ex Psalterio/) {
 
-    if ($version =~ /Monastic/ && $hora eq 'Laudes') {
-      @p = split("\n", $psalmi{'DaymF Laudes'});
-    } elsif ($version =~ /Trident/ && $hora eq 'Laudes') {
-      @p = split("\n", $psalmi{'DayaC Laudes'});
-    }
-    setbuild2('Psalmi dominica');
+    # Do not look for proper Antiphones
+    @p = ();
+    $comment = 1;
+    setbuild2('Psalmi ex Psalterio');
   } else {
-    @p = @psalmi;
 
-    # Cist: to get Sunday Psalms if "Psalmi Feria" rule is used,
-    # e.g. on Sundays in Octaves.
-    if ( $dayofweek == 0
-      && $rule =~ /Psalmi Feria/i
-      && $version =~ /monastic/i
-      && $hora eq 'Laudes')
+    # Look for Antiphones de tempore or Sancti
+    my ($w, $c);
+    my %w = columnsel($lang) ? %winner : %winner2;
+
+    if ($hora eq 'Vespera' && $vespera == 3) {
+      if (exists($w{'Ant Vespera 3'})) {
+        $w = $w{'Ant Vespera 3'};
+        $c = $winner =~ /Tempora/ ? 2 : 3;
+      } elsif (!exists($w{'Ant Vespera'})
+        && ($communetype =~ /ex/ || ($version =~ /Trident/i && $winner =~ /Sancti/i)))
+      {
+        ($w, $c) = getproprium('Ant Vespera 3', $lang, 1);
+        setbuild2("Antiphona $commune") if $w;
+      }
+    }
+
+    if (!$w && exists($w{"Ant $hora"})) {
+      $w = $w{"Ant $hora"};
+      $c = $winner =~ /Tempora/ ? 2 : 3;
+    }
+
+    if ($antecapitulum) {
+      $w = columnsel($lang) ? $antecapitulum : $antecapitulum2;
+      $c = 3;
+      setbuild2('Antiphonas ante Capitulum de praecedenti');
+    } elsif ($w) {
+      setbuild2("Antiphonas $winner");
+    } elsif (($communetype && $communetype =~ /ex/)
+      || ($version =~ /Trident/i && $hora eq 'Laudes' && $winner =~ /Sancti/))
     {
-      @p = split("\n", $psalmi{'DayaC Laudes2'});
-      $p[2] = ";;62";
+      ($w, $c) = getproprium("Ant $hora", $lang, 1);
+      setbuild2("Antiphona ex $commune") if $w;
+    }
+    if ($w) { @antiphones = split("\n", $w); $comment = $c; }
+
+    if ($lang =~ /gabc/ && @antiphones) {
+
+      # strip Psalm Tones from Antiphones
+      foreach my $myant (@antiphones) {
+        if ($myant =~ s/;;(.*);;(.*)/;;$1/) {
+          push(@psalmTones, $2);
+          $myant =~ s/;;\s*$//;
+        } else {
+          push(@psalmTones, '');
+        }
+      }
+    }
+
+    if (
+      (
+           $rule =~ /Psalmi Dominica/i
+        || ($version =~ /cist/i && (($winner =~ /Sancti/i && $rank >= 2.2) || $antecapitulum))
+        || ($commune{Rule} && $commune{Rule} =~ /Psalmi Dominica/i)
+      )
+      && @antiphones
+      && ($antiphones[0] !~ /\;\;\s*[0-9]+/)
+      && ($rule !~ /Psalmi Feria|Psalmi ex Psalterio/i)
+    ) {
+
+      # Psalmi de Dominica cum Antiphonae
+      $prefix = translate("Psalmi, antiphonae", $lang) . ' ';
+      my $h = $hora;
+      $h .= '1' if $hora eq 'Laudes' && $version !~ /Monastic/;
+      @p = split("\n", $psalmi{"Day0 $h"});
+
+      if ($version =~ /Monastic/ && $hora eq 'Laudes') {
+        @p = split("\n", $psalmi{'DaymF Laudes'});
+      } elsif ($version =~ /Trident/ && $hora eq 'Laudes') {
+        @p = split("\n", $psalmi{'DayaC Laudes'});
+      }
+      setbuild2('Psalmi dominica');
+    } else {
+      @p = @psalmi;
+
+      # Cist: to get Sunday Psalms if "Psalmi Feria" rule is used,
+      # e.g. on Sundays in Octaves.
+      if ( $dayofweek == 0
+        && $rule =~ /Psalmi Feria/i
+        && $version =~ /monastic/i
+        && $hora eq 'Laudes')
+      {
+        @p = split("\n", $psalmi{'DayaC Laudes2'});
+        $p[2] = ";;62";
+      }
     }
   }
   my $lim = 5;

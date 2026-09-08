@@ -1,6 +1,9 @@
 [Officium]
 Commune Dedicationis Ecclesiae
 
+[Rank]
+;;Duplex I classis;;6
+
 [Missa]
 Terribilis
 
