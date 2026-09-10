@@ -357,6 +357,7 @@ sub clean_setupsave {
 # returns <FONT ...>$text</FONT> string
 sub setfont {
   my $istr = shift;
+  my $tag_only = shift;
   my $text = shift;
   return $text unless $istr;
 
@@ -368,7 +369,8 @@ sub setfont {
   if ($size) { $font .= "SIZE='$size' "; }
   if ($color && $color !~ /black/i) { $font .= "COLOR=\"$color\""; }    # black not explictly for dark mode
   $font .= ">";
-  if (!$text) { return $font; }
+  if ($tag_only) { return $font; }
+  return '' unless defined $text && length $text;
   my $bold = '';
   my $bolde = '';
   my $italic = '';
