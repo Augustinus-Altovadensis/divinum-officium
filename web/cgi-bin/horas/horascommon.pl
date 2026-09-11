@@ -1823,12 +1823,21 @@ sub precedence {
       %commune = %{setupstring($lang1, $commune)};
     } else {
 
-      if ($version =~ /^Trident|^Divino/i && $vtv !~ /Votiva/) {
+      if ($vtv !~ /Votiva|C10/ && $rank < 3) {
 
-        # Make Votive Matutinum fully Sanctoral (Duplex, 3 Nocturns) irrespective of rank of the day
-        $rule .= "\n9 lectiones";
-        $rank = 4.91;
-        $duplex = 3;
+        if ($version =~ /Trident|Divino/i) {
+
+          # Make Votive Matutinum fully Sanctoral (Duplex majus, 3 Nocturns) irrespective of rank of the day
+          $rule .= "\n" . $version =~ /Monastic/i ? '12' : '9' . ' lectiones';
+          $rank = 4.91;
+          $duplex = 3;
+        } elsif ($version =~ /196/) {
+
+          # Make Votive behave like I. classis such that we still provide access to the full Commune
+          $rank = 6;
+          $duplex = 3;
+          $rule .= "\n" . $version =~ /Monastic/i ? '12' : '9' . ' lectiones';
+        }
       }
 
       # Self-referencing of Commune to safeguard "getproprium" function
